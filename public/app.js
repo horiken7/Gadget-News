@@ -62,6 +62,7 @@ function renderNews(items, isMock) {
   newsCards.innerHTML = (isMock ? mockBadge() : '') + items.map(item => `
     <a class="news-card" href="${escapeHtml(item.url)}" target="_blank" rel="noopener noreferrer">
       <div class="news-card-title">${escapeHtml(item.titleJa || item.title)}</div>
+      ${item.summaryJa ? `<div class="news-card-summary">${escapeHtml(item.summaryJa)}</div>` : ''}
       <div class="news-card-meta">
         ${item.domain ? `<span class="meta-domain">${escapeHtml(item.domain)}</span>` : ''}
         <span class="meta-item">

@@ -9,6 +9,7 @@ const MOCK_NEWS = [
   {
     title: 'OpenAI GPT-5 Achieves Record Scores on Major AI Benchmarks',
     titleJa: 'OpenAI GPT-5、主要AIベンチマークで過去最高スコアを達成',
+    summaryJa: 'GPT-5は言語理解・数学的推論・コード生成など主要ベンチマークで人間の専門家レベルを超えるスコアを記録。前モデルGPT-4oから大幅な性能向上を確認。',
     url: 'https://news.ycombinator.com/item?id=39999001',
     points: 1847,
     comments: 423,
@@ -19,6 +20,7 @@ const MOCK_NEWS = [
   {
     title: 'Google DeepMind Releases AlphaCode 3, Outperforming Senior Engineers on Complex Tasks',
     titleJa: 'Google DeepMind、AlphaCode 3を公開 ― 複雑なタスクでシニアエンジニアを凌駕',
+    summaryJa: 'AlphaCode 3は競技プログラミングや大規模コードリファクタリングなど複雑なタスクでシニアエンジニアを上回る性能を発揮。自然言語による仕様からの実装も可能に。',
     url: 'https://news.ycombinator.com/item?id=39999002',
     points: 1234,
     comments: 287,
@@ -29,6 +31,7 @@ const MOCK_NEWS = [
   {
     title: "Anthropic's Claude 4 Demonstrates Strong Reasoning with Extended Thinking Mode",
     titleJa: 'AnthropicのClaude 4、拡張思考モードで高度な推論能力を実証',
+    summaryJa: '拡張思考モードを搭載したClaude 4は複雑な数学問題や論理パズルで顕著な改善を示し、段階的な思考プロセスを可視化することでユーザーの信頼性向上にも貢献。',
     url: 'https://news.ycombinator.com/item?id=39999003',
     points: 987,
     comments: 198,
@@ -65,7 +68,7 @@ const MOCK_TWEETS = [
   },
 ];
 
-async function translateTitle(text) {
+async function translate(text) {
   const url = `https://api.mymemory.translated.net/get?q=${encodeURIComponent(text)}&langpair=en|ja`;
   const res = await fetch(url, {
     headers: { 'User-Agent': USER_AGENT },
@@ -75,6 +78,21 @@ async function translateTitle(text) {
   const data = await res.json();
   if (data.responseStatus !== 200) throw new Error(`Translation failed: ${data.responseDetails}`);
   return data.responseData.translatedText;
+}
+
+async function fetchArticleDescription(url) {
+  const res = await fetch(url, {
+    headers: { 'User-Agent': USER_AGENT },
+    signal: AbortSignal.timeout(6000),
+  });
+  if (!res.ok) throw new Error(`Fetch failed: ${res.status}`);
+  const html = await res.text();
+  const $ = cheerio.load(html);
+  const desc =
+    $('meta[property="og:description"]').attr('content') ||
+    $('meta[name="description"]').attr('content') ||
+    '';
+  return desc.replace(/\s+/g, ' ').trim().slice(0, 400);
 }
 
 async function fetchNews() {
@@ -87,7 +105,7 @@ async function fetchNews() {
 
   const aiKeywords = /\b(ai|artificial intelligence|llm|machine learning|deep learning|openai|anthropic|gemini|gpt|claude|chatgpt|neural|diffusion|generative|midjourney|stable diffusion|hugging face|transformer)\b/i;
 
-  const items = data.hits
+  return data.hits
     .filter(h => h.title && (aiKeywords.test(h.title) || aiKeywords.test(h.story_text || '')))
     .sort((a, b) => b.points - a.points)
     .slice(0, 3)
@@ -99,19 +117,72 @@ async function fetchNews() {
       author: h.author,
       createdAt: h.created_at,
       domain: h.url ? new URL(h.url).hostname.replace(/^www\./, '') : 'news.ycombinator.com',
+      _storyText: h.story_text || '',
     }));
+}
 
-  // 各タイトルを日本語に翻訳
+// URLをキーに既存の翻訳キャッシュを読み込む
+function loadTranslationCache(outputPath) {
+  try {
+    const existing = JSON.parse(fs.readFileSync(outputPath, 'utf-8'));
+    const cache = {};
+    for (const item of existing.news?.items || []) {
+      if (item.url) cache[item.url] = { titleJa: item.titleJa, summaryJa: item.summaryJa };
+    }
+    return cache;
+  } catch {
+    return {};
+  }
+}
+
+async function translateNewsItems(items, cache) {
   for (const item of items) {
+    const cached = cache[item.url];
+    if (cached?.titleJa) {
+      // 同じURLの翻訳が既にある場合はキャッシュを使用
+      item.titleJa = cached.titleJa;
+      item.summaryJa = cached.summaryJa || '';
+      console.log(`Cached translation reused: "${item.title}"`);
+      delete item._storyText;
+      continue;
+    }
+
+    // 記事の説明文を取得（story_text優先、次にog:description）
+    let description = '';
+    if (item._storyText) {
+      const $ = cheerio.load(item._storyText);
+      description = $.text().replace(/\s+/g, ' ').trim().slice(0, 400);
+    } else {
+      try {
+        description = await fetchArticleDescription(item.url);
+      } catch (err) {
+        console.warn(`Description fetch failed for ${item.url}:`, err.message);
+      }
+    }
+    delete item._storyText;
+
+    // タイトルを翻訳
     try {
-      item.titleJa = await translateTitle(item.title);
-      console.log(`Translated: "${item.title}" -> "${item.titleJa}"`);
+      item.titleJa = await translate(item.title);
+      console.log(`Title translated: "${item.title}" -> "${item.titleJa}"`);
     } catch (err) {
-      console.warn(`Translation failed for "${item.title}":`, err.message);
+      console.warn(`Title translation failed:`, err.message);
       item.titleJa = item.title;
     }
-  }
 
+    // 説明文を翻訳
+    if (description) {
+      try {
+        item.summaryJa = await translate(description);
+        console.log(`Summary translated for: "${item.title}"`);
+      } catch (err) {
+        console.warn(`Summary translation failed:`, err.message);
+        item.summaryJa = '';
+      }
+    } else {
+      item.summaryJa = '';
+    }
+  }
   return items;
 }
 
@@ -172,17 +243,20 @@ async function fetchTweets() {
 }
 
 async function main() {
+  const outputPath = path.join(__dirname, '..', 'public', 'data.json');
   let newsItems = MOCK_NEWS;
   let tweetItems = MOCK_TWEETS;
   let newsMock = true;
   let tweetsMock = true;
 
   try {
-    newsItems = await fetchNews();
+    const rawItems = await fetchNews();
+    console.log('News fetched successfully:', rawItems.length, 'items');
+    const cache = loadTranslationCache(outputPath);
+    newsItems = await translateNewsItems(rawItems, cache);
     newsMock = false;
-    console.log('News fetched successfully:', newsItems.length, 'items');
   } catch (err) {
-    console.warn('News fetch failed, using mock:', err.message);
+    console.warn('News fetch/translate failed, using mock:', err.message);
   }
 
   try {
@@ -198,7 +272,6 @@ async function main() {
     tweets: { items: tweetItems, fetchedAt: new Date().toISOString(), mock: tweetsMock },
   };
 
-  const outputPath = path.join(__dirname, '..', 'public', 'data.json');
   fs.writeFileSync(outputPath, JSON.stringify(data, null, 2));
   console.log('data.json written to', outputPath);
 }
