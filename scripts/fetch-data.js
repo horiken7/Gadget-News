@@ -64,28 +64,31 @@ const MOCK_NEWS = [
 
 const MOCK_TWEETS = [
   {
-    text: 'GPT-4oの新機能すごすぎる...画像を見せただけで完璧なコードを生成してくれた🤯 これもう普通のエンジニアいらないんじゃないか',
-    author: '@ai_enthusiast_jp',
-    url: 'https://x.com/search?q=GPT-4o',
+    text: 'Yann LeCun argues that LLMs cannot achieve human-level intelligence because they lack world models. The debate in the comments is intense.',
+    author: 'u/ml_research_fan',
+    subreddit: 'r/MachineLearning',
+    url: 'https://www.reddit.com/r/MachineLearning/',
     date: new Date(Date.now() - 2 * 60 * 60 * 1000).toISOString(),
-    likes: 15200,
-    retweets: 4800,
+    likes: 4821,
+    comments: 634,
   },
   {
-    text: 'Claudeで論文要約してみたら、元の論文より分かりやすい解説が10秒で出てきた。研究者の働き方が根本から変わりそう',
-    author: '@researcher_ai',
-    url: 'https://x.com/search?q=Claude+AI',
+    text: 'I built a local RAG pipeline using Ollama + LlamaIndex that runs entirely offline. Here\'s a full breakdown with benchmarks vs GPT-4.',
+    author: 'u/local_llm_builder',
+    subreddit: 'r/LocalLLaMA',
+    url: 'https://www.reddit.com/r/LocalLLaMA/',
     date: new Date(Date.now() - 5 * 60 * 60 * 1000).toISOString(),
-    likes: 8900,
-    retweets: 2100,
+    likes: 3102,
+    comments: 287,
   },
   {
-    text: '生成AIで作った動画、もう本物と区別つかなくなってきた。フェイクニュースや誤情報の問題、本当に深刻になってきてる',
-    author: '@media_watch_jp',
-    url: 'https://x.com/search?q=%E7%94%9F%E6%88%90AI',
+    text: 'OpenAI just quietly updated the system prompt restrictions. Claude and Gemini still allow things GPT-4o now refuses. Comparison thread.',
+    author: 'u/ai_policy_watcher',
+    subreddit: 'r/artificial',
+    url: 'https://www.reddit.com/r/artificial/',
     date: new Date(Date.now() - 8 * 60 * 60 * 1000).toISOString(),
-    likes: 23400,
-    retweets: 8700,
+    likes: 7654,
+    comments: 1023,
   },
 ];
 
@@ -227,60 +230,44 @@ async function translateNewsItems(items, cache) {
   return items;
 }
 
-const NITTER_INSTANCES = [
-  'https://nitter.privacydev.net',
-  'https://nitter.poast.org',
-  'https://nitter.net',
-  'https://nitter.space',
-];
+const REDDIT_SUBS = ['artificial', 'MachineLearning', 'LocalLLaMA', 'ChatGPT'];
 
-async function fetchTweets() {
-  const query = encodeURIComponent('AI OR ChatGPT OR LLM OR 生成AI');
+async function fetchRedditPosts() {
+  const allPosts = [];
 
-  for (const instance of NITTER_INSTANCES) {
+  for (const sub of REDDIT_SUBS) {
     try {
-      const res = await fetch(`${instance}/search/rss?q=${query}&f=tweets`, {
+      const res = await fetch(`https://www.reddit.com/r/${sub}/hot.json?limit=15`, {
         headers: { 'User-Agent': USER_AGENT },
         signal: AbortSignal.timeout(8000),
       });
-      if (!res.ok) continue;
-      const xml = await res.text();
-      const $ = cheerio.load(xml, { xmlMode: true });
-
-      const items = [];
-      $('item').each((i, el) => {
-        if (items.length >= 3) return false;
-        const titleText = $(el).find('title').text().trim();
-        const link = $(el).find('guid').text().trim() || $(el).find('link').text().trim();
-        const pubDate = $(el).find('pubDate').text().trim();
-
-        // Nitter RSSのtitle形式: "@username: ツイート本文"
-        const colonIdx = titleText.indexOf(': ');
-        const author = colonIdx > -1 ? titleText.substring(0, colonIdx) : 'unknown';
-        const text = colonIdx > -1 ? titleText.substring(colonIdx + 2) : titleText;
-        if (!text) return;
-
-        // nitter URLをx.com URLに変換
-        const twitterUrl = link.replace(/https?:\/\/[^/]+\//, 'https://x.com/');
-
-        items.push({
-          text,
-          author,
-          url: twitterUrl || `https://x.com/search?q=AI`,
-          date: pubDate ? new Date(pubDate).toISOString() : new Date().toISOString(),
-        });
-      });
-
-      if (items.length > 0) {
-        console.log(`Tweets fetched from ${instance}:`, items.length);
-        return items;
-      }
-    } catch {
-      continue;
+      if (!res.ok) { console.warn(`Reddit r/${sub} returned ${res.status}`); continue; }
+      const data = await res.json();
+      const posts = data.data.children
+        .map(c => c.data)
+        .filter(p => !p.stickied && p.score > 50 && p.title)
+        .slice(0, 2)
+        .map(p => ({
+          text: p.title,
+          author: `u/${p.author}`,
+          subreddit: `r/${p.subreddit}`,
+          url: `https://www.reddit.com${p.permalink}`,
+          date: new Date(p.created_utc * 1000).toISOString(),
+          likes: p.score,
+          comments: p.num_comments,
+        }));
+      allPosts.push(...posts);
+      console.log(`Reddit r/${sub}: ${posts.length} posts`);
+    } catch (err) {
+      console.warn(`Reddit r/${sub} failed:`, err.message);
     }
   }
 
-  throw new Error('All Nitter instances failed');
+  if (allPosts.length === 0) throw new Error('No Reddit posts found');
+
+  return allPosts
+    .sort((a, b) => b.likes - a.likes)
+    .slice(0, 3);
 }
 
 async function main() {
@@ -306,11 +293,11 @@ async function main() {
   }
 
   try {
-    tweetItems = await fetchTweets();
+    tweetItems = await fetchRedditPosts();
     tweetsMock = false;
-    console.log('Tweets fetched successfully:', tweetItems.length, 'items');
+    console.log('Reddit posts fetched successfully:', tweetItems.length, 'items');
   } catch (err) {
-    console.warn('Tweets fetch failed, using mock:', err.message);
+    console.warn('Reddit fetch failed, using mock:', err.message);
     console.warn('Stack:', err.stack);
   }
 
