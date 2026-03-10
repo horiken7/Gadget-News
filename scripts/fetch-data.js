@@ -64,31 +64,31 @@ const MOCK_NEWS = [
 
 const MOCK_TWEETS = [
   {
-    text: 'Yann LeCun argues that LLMs cannot achieve human-level intelligence because they lack world models. The debate in the comments is intense.',
-    author: 'u/ml_research_fan',
-    subreddit: 'r/MachineLearning',
-    url: 'https://www.reddit.com/r/MachineLearning/',
+    text: 'Yann LeCun argues that LLMs cannot achieve human-level intelligence because they lack world models',
+    author: 'thrw_ml_fan',
+    source: 'Hacker News',
+    url: 'https://news.ycombinator.com/',
     date: new Date(Date.now() - 2 * 60 * 60 * 1000).toISOString(),
-    likes: 4821,
-    comments: 634,
+    likes: 621,
+    comments: 312,
   },
   {
-    text: 'I built a local RAG pipeline using Ollama + LlamaIndex that runs entirely offline. Here\'s a full breakdown with benchmarks vs GPT-4.',
-    author: 'u/local_llm_builder',
-    subreddit: 'r/LocalLLaMA',
-    url: 'https://www.reddit.com/r/LocalLLaMA/',
+    text: 'I built a local RAG pipeline using Ollama + LlamaIndex running entirely offline – benchmarks vs GPT-4',
+    author: 'local_llm_builder',
+    source: 'Hacker News',
+    url: 'https://news.ycombinator.com/',
     date: new Date(Date.now() - 5 * 60 * 60 * 1000).toISOString(),
-    likes: 3102,
-    comments: 287,
+    likes: 487,
+    comments: 193,
   },
   {
-    text: 'OpenAI just quietly updated the system prompt restrictions. Claude and Gemini still allow things GPT-4o now refuses. Comparison thread.',
-    author: 'u/ai_policy_watcher',
-    subreddit: 'r/artificial',
-    url: 'https://www.reddit.com/r/artificial/',
+    text: 'OpenAI updated system prompt restrictions – comparison with Claude and Gemini',
+    author: 'ai_policy_watcher',
+    source: 'Hacker News',
+    url: 'https://news.ycombinator.com/',
     date: new Date(Date.now() - 8 * 60 * 60 * 1000).toISOString(),
-    likes: 7654,
-    comments: 1023,
+    likes: 834,
+    comments: 401,
   },
 ];
 
@@ -230,42 +230,45 @@ async function translateNewsItems(items, cache) {
   return items;
 }
 
-const REDDIT_SUBS = ['artificial', 'MachineLearning', 'LocalLLaMA', 'ChatGPT'];
+const HN_TREND_QUERIES = ['LLM', 'AI agent', 'Claude', 'GPT', 'machine learning'];
 
-async function fetchRedditPosts() {
+async function fetchHNPosts() {
   const allPosts = [];
 
-  for (const sub of REDDIT_SUBS) {
+  for (const q of HN_TREND_QUERIES) {
     try {
-      const res = await fetch(`https://www.reddit.com/r/${sub}/hot.json?limit=15`, {
+      const url = `https://hn.algolia.com/api/v1/search?query=${encodeURIComponent(q)}&tags=story&hitsPerPage=5&numericFilters=points%3E50`;
+      const res = await fetch(url, {
         headers: { 'User-Agent': USER_AGENT },
         signal: AbortSignal.timeout(8000),
       });
-      if (!res.ok) { console.warn(`Reddit r/${sub} returned ${res.status}`); continue; }
+      if (!res.ok) { console.warn(`HN trend "${q}" returned ${res.status}`); continue; }
       const data = await res.json();
-      const posts = data.data.children
-        .map(c => c.data)
-        .filter(p => !p.stickied && p.score > 50 && p.title)
+      const posts = (data.hits || [])
+        .filter(h => h.title && h.points)
         .slice(0, 2)
-        .map(p => ({
-          text: p.title,
-          author: `u/${p.author}`,
-          subreddit: `r/${p.subreddit}`,
-          url: `https://www.reddit.com${p.permalink}`,
-          date: new Date(p.created_utc * 1000).toISOString(),
-          likes: p.score,
-          comments: p.num_comments,
+        .map(h => ({
+          text: h.title,
+          author: h.author || 'anonymous',
+          source: 'Hacker News',
+          url: `https://news.ycombinator.com/item?id=${h.objectID}`,
+          date: h.created_at || new Date().toISOString(),
+          likes: h.points,
+          comments: h.num_comments || 0,
         }));
       allPosts.push(...posts);
-      console.log(`Reddit r/${sub}: ${posts.length} posts`);
+      console.log(`HN trend "${q}": ${posts.length} posts`);
     } catch (err) {
-      console.warn(`Reddit r/${sub} failed:`, err.message);
+      console.warn(`HN trend "${q}" failed:`, err.message);
     }
   }
 
-  if (allPosts.length === 0) throw new Error('No Reddit posts found');
+  if (allPosts.length === 0) throw new Error('No HN posts found');
 
+  // Deduplicate by URL, sort by points
+  const seen = new Set();
   return allPosts
+    .filter(p => { if (seen.has(p.url)) return false; seen.add(p.url); return true; })
     .sort((a, b) => b.likes - a.likes)
     .slice(0, 3);
 }
@@ -293,11 +296,11 @@ async function main() {
   }
 
   try {
-    tweetItems = await fetchRedditPosts();
+    tweetItems = await fetchHNPosts();
     tweetsMock = false;
-    console.log('Reddit posts fetched successfully:', tweetItems.length, 'items');
+    console.log('HN trend posts fetched successfully:', tweetItems.length, 'items');
   } catch (err) {
-    console.warn('Reddit fetch failed, using mock:', err.message);
+    console.warn('HN trend fetch failed, using mock:', err.message);
     console.warn('Stack:', err.stack);
   }
 

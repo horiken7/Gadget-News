@@ -16,7 +16,7 @@
         "points": 1847,
         "comments": 423,
         "author": "techreporter",
-        "createdAt": "2026-03-09T23:44:49.169Z",
+        "createdAt": "2026-03-09T23:53:12.426Z",
         "domain": "openai.com"
       },
       {
@@ -34,7 +34,7 @@
         "points": 1234,
         "comments": 287,
         "author": "airesearch",
-        "createdAt": "2026-03-09T20:44:49.170Z",
+        "createdAt": "2026-03-09T20:53:12.427Z",
         "domain": "deepmind.google"
       },
       {
@@ -52,44 +52,44 @@
         "points": 987,
         "comments": 198,
         "author": "mlnews",
-        "createdAt": "2026-03-09T17:44:49.170Z",
+        "createdAt": "2026-03-09T17:53:12.427Z",
         "domain": "anthropic.com"
       }
     ],
-    "fetchedAt": "2026-03-10T01:44:49.245Z",
+    "fetchedAt": "2026-03-10T01:53:12.496Z",
     "mock": true
   },
   "tweets": {
     "items": [
       {
-        "text": "Yann LeCun argues that LLMs cannot achieve human-level intelligence because they lack world models. The debate in the comments is intense.",
-        "author": "u/ml_research_fan",
-        "subreddit": "r/MachineLearning",
-        "url": "https://www.reddit.com/r/MachineLearning/",
-        "date": "2026-03-09T23:44:49.170Z",
-        "likes": 4821,
-        "comments": 634
+        "text": "Yann LeCun argues that LLMs cannot achieve human-level intelligence because they lack world models",
+        "author": "thrw_ml_fan",
+        "source": "Hacker News",
+        "url": "https://news.ycombinator.com/",
+        "date": "2026-03-09T23:53:12.427Z",
+        "likes": 621,
+        "comments": 312
       },
       {
-        "text": "I built a local RAG pipeline using Ollama + LlamaIndex that runs entirely offline. Here's a full breakdown with benchmarks vs GPT-4.",
-        "author": "u/local_llm_builder",
-        "subreddit": "r/LocalLLaMA",
-        "url": "https://www.reddit.com/r/LocalLLaMA/",
-        "date": "2026-03-09T20:44:49.170Z",
-        "likes": 3102,
-        "comments": 287
+        "text": "I built a local RAG pipeline using Ollama + LlamaIndex running entirely offline – benchmarks vs GPT-4",
+        "author": "local_llm_builder",
+        "source": "Hacker News",
+        "url": "https://news.ycombinator.com/",
+        "date": "2026-03-09T20:53:12.427Z",
+        "likes": 487,
+        "comments": 193
       },
       {
-        "text": "OpenAI just quietly updated the system prompt restrictions. Claude and Gemini still allow things GPT-4o now refuses. Comparison thread.",
-        "author": "u/ai_policy_watcher",
-        "subreddit": "r/artificial",
-        "url": "https://www.reddit.com/r/artificial/",
-        "date": "2026-03-09T17:44:49.170Z",
-        "likes": 7654,
-        "comments": 1023
+        "text": "OpenAI updated system prompt restrictions – comparison with Claude and Gemini",
+        "author": "ai_policy_watcher",
+        "source": "Hacker News",
+        "url": "https://news.ycombinator.com/",
+        "date": "2026-03-09T17:53:12.427Z",
+        "likes": 834,
+        "comments": 401
       }
     ],
-    "fetchedAt": "2026-03-10T01:44:49.245Z",
+    "fetchedAt": "2026-03-10T01:53:12.496Z",
     "mock": true
   }
 }
