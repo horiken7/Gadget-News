@@ -137,7 +137,7 @@ async function fetchNews() {
       comments: h.num_comments || 0,
       author: h.author,
       createdAt: h.created_at,
-      domain: h.url ? new URL(h.url).hostname.replace(/^www\./, '') : 'news.ycombinator.com',
+      domain: (() => { try { return h.url ? new URL(h.url).hostname.replace(/^www\./, '') : 'news.ycombinator.com'; } catch { return 'news.ycombinator.com'; } })(),
       _storyText: h.story_text || '',
     }));
 }
@@ -157,6 +157,7 @@ function loadTranslationCache(outputPath) {
 }
 
 async function translateNewsItems(items, cache) {
+  console.log('Translating', items.length, 'items...');
   for (const item of items) {
     const cached = cache[item.url];
     if (cached?.titleJa) {
@@ -292,11 +293,16 @@ async function main() {
   try {
     const rawItems = await fetchNews();
     console.log('News fetched successfully:', rawItems.length, 'items');
-    const cache = loadTranslationCache(outputPath);
-    newsItems = await translateNewsItems(rawItems, cache);
-    newsMock = false;
+    if (rawItems.length === 0) {
+      console.warn('No AI-related stories found, using mock');
+    } else {
+      const cache = loadTranslationCache(outputPath);
+      newsItems = await translateNewsItems(rawItems, cache);
+      newsMock = false;
+    }
   } catch (err) {
     console.warn('News fetch/translate failed, using mock:', err.message);
+    console.warn('Stack:', err.stack);
   }
 
   try {
@@ -305,6 +311,7 @@ async function main() {
     console.log('Tweets fetched successfully:', tweetItems.length, 'items');
   } catch (err) {
     console.warn('Tweets fetch failed, using mock:', err.message);
+    console.warn('Stack:', err.stack);
   }
 
   const data = {
