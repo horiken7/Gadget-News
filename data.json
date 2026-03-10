@@ -49,40 +49,40 @@
         "category": ""
       }
     ],
-    "fetchedAt": "2026-03-10T01:45:23.306Z",
+    "fetchedAt": "2026-03-10T01:53:43.511Z",
     "mock": false
   },
   "tweets": {
     "items": [
       {
-        "text": "Yann LeCun argues that LLMs cannot achieve human-level intelligence because they lack world models. The debate in the comments is intense.",
-        "author": "u/ml_research_fan",
-        "subreddit": "r/MachineLearning",
-        "url": "https://www.reddit.com/r/MachineLearning/",
-        "date": "2026-03-09T23:45:19.106Z",
-        "likes": 4821,
-        "comments": 634
+        "text": "GPT-4",
+        "author": "e0m",
+        "source": "Hacker News",
+        "url": "https://news.ycombinator.com/item?id=35154527",
+        "date": "2023-03-14T16:55:34Z",
+        "likes": 4091,
+        "comments": 2507
       },
       {
-        "text": "I built a local RAG pipeline using Ollama + LlamaIndex that runs entirely offline. Here's a full breakdown with benchmarks vs GPT-4.",
-        "author": "u/local_llm_builder",
-        "subreddit": "r/LocalLLaMA",
-        "url": "https://www.reddit.com/r/LocalLLaMA/",
-        "date": "2026-03-09T20:45:19.106Z",
-        "likes": 3102,
-        "comments": 287
+        "text": "GPT-4o",
+        "author": "Lealen",
+        "source": "Hacker News",
+        "url": "https://news.ycombinator.com/item?id=40345775",
+        "date": "2024-05-13T17:28:00Z",
+        "likes": 3138,
+        "comments": 2366
       },
       {
-        "text": "OpenAI just quietly updated the system prompt restrictions. Claude and Gemini still allow things GPT-4o now refuses. Comparison thread.",
-        "author": "u/ai_policy_watcher",
-        "subreddit": "r/artificial",
-        "url": "https://www.reddit.com/r/artificial/",
-        "date": "2026-03-09T17:45:19.106Z",
-        "likes": 7654,
-        "comments": 1023
+        "text": "An AI agent published a hit piece on me",
+        "author": "scottshambaugh",
+        "source": "Hacker News",
+        "url": "https://news.ycombinator.com/item?id=46990729",
+        "date": "2026-02-12T16:23:24Z",
+        "likes": 2346,
+        "comments": 951
       }
     ],
-    "fetchedAt": "2026-03-10T01:45:23.306Z",
-    "mock": true
+    "fetchedAt": "2026-03-10T01:53:43.511Z",
+    "mock": false
   }
 }
