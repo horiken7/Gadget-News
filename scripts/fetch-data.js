@@ -60,37 +60,44 @@ const MOCK_NEWS = [
     createdAt: new Date(Date.now() - 8 * 60 * 60 * 1000).toISOString(),
     domain: 'anthropic.com',
   },
+  {
+    title: 'Meta Releases LLaMA 4 with Mixture-of-Experts Architecture',
+    titleJa: 'Meta、Mixture-of-Experts アーキテクチャを採用したLLaMA 4を公開',
+    summaryJa: 'LLaMA 4はMoEアーキテクチャにより推論コストを大幅に削減しつつ高い精度を維持。オープンウェイトモデルとして公開され、ローカル実行やファインチューニングが容易に。',
+    keyPoints: [
+      'MoEにより同等精度のDenseモデル比で推論コストを約60%削減',
+      '128Kトークンのコンテキストウィンドウをサポート',
+      'オープンウェイトで商用利用可能なライセンスで公開',
+    ],
+    category: 'オープンモデル',
+    impact: '高',
+    url: 'https://news.ycombinator.com/item?id=39999004',
+    points: 876,
+    comments: 312,
+    author: 'opensourcefan',
+    createdAt: new Date(Date.now() - 10 * 60 * 60 * 1000).toISOString(),
+    domain: 'ai.meta.com',
+  },
+  {
+    title: 'New Study Shows AI Coding Assistants Increase Developer Productivity by 55%',
+    titleJa: 'AIコーディングアシスタントが開発者の生産性を55%向上させると新研究が示す',
+    summaryJa: '大規模な実験で、GitHub CopilotやCursorなどのAIコーディングツールを使用した開発者は使用しない開発者と比較して55%高い生産性を示した。特に定型コード作成での効果が顕著。',
+    keyPoints: [
+      '1,000名以上の開発者を対象にした無作為化比較試験で実施',
+      'コードレビューや設計作業ではAI支援の効果は限定的と判明',
+      '経験の浅い開発者ほど生産性向上幅が大きい傾向',
+    ],
+    category: '開発ツール',
+    impact: '中',
+    url: 'https://news.ycombinator.com/item?id=39999005',
+    points: 743,
+    comments: 267,
+    author: 'devresearch',
+    createdAt: new Date(Date.now() - 12 * 60 * 60 * 1000).toISOString(),
+    domain: 'research.github.com',
+  },
 ];
 
-const MOCK_TWEETS = [
-  {
-    text: 'Yann LeCun argues that LLMs cannot achieve human-level intelligence because they lack world models',
-    author: 'thrw_ml_fan',
-    source: 'Hacker News',
-    url: 'https://news.ycombinator.com/',
-    date: new Date(Date.now() - 2 * 60 * 60 * 1000).toISOString(),
-    likes: 621,
-    comments: 312,
-  },
-  {
-    text: 'I built a local RAG pipeline using Ollama + LlamaIndex running entirely offline – benchmarks vs GPT-4',
-    author: 'local_llm_builder',
-    source: 'Hacker News',
-    url: 'https://news.ycombinator.com/',
-    date: new Date(Date.now() - 5 * 60 * 60 * 1000).toISOString(),
-    likes: 487,
-    comments: 193,
-  },
-  {
-    text: 'OpenAI updated system prompt restrictions – comparison with Claude and Gemini',
-    author: 'ai_policy_watcher',
-    source: 'Hacker News',
-    url: 'https://news.ycombinator.com/',
-    date: new Date(Date.now() - 8 * 60 * 60 * 1000).toISOString(),
-    likes: 834,
-    comments: 401,
-  },
-];
 
 async function translate(text) {
   const url = `https://api.mymemory.translated.net/get?q=${encodeURIComponent(text)}&langpair=en|ja`;
@@ -132,9 +139,9 @@ async function fetchNews() {
   const hits = data.hits
     .filter(h => h.title && (aiKeywords.test(h.title) || aiKeywords.test(h.story_text || '')))
     .sort((a, b) => b.points - a.points)
-    .slice(0, 3);
+    .slice(0, 5);
 
-  if (hits.length === 0) throw new Error('No AI stories found in last 72h');
+  if (hits.length === 0) throw new Error('No AI stories found in last 8h');
 
   return hits.map(h => ({
     title: h.title,
@@ -233,56 +240,10 @@ async function translateNewsItems(items, cache) {
   return items;
 }
 
-const HN_TREND_QUERIES = ['LLM', 'AI agent', 'Claude', 'GPT', 'machine learning'];
-
-async function fetchHNPosts() {
-  const allPosts = [];
-
-  for (const q of HN_TREND_QUERIES) {
-    try {
-      const since = Math.floor(Date.now() / 1000) - 8 * 3600;
-      const url = `https://hn.algolia.com/api/v1/search_by_date?query=${encodeURIComponent(q)}&tags=story&hitsPerPage=5&numericFilters=created_at_i%3E${since},points%3E10`;
-      const res = await fetch(url, {
-        headers: { 'User-Agent': USER_AGENT },
-        signal: AbortSignal.timeout(8000),
-      });
-      if (!res.ok) { console.warn(`HN trend "${q}" returned ${res.status}`); continue; }
-      const data = await res.json();
-      const posts = (data.hits || [])
-        .filter(h => h.title && h.points)
-        .slice(0, 2)
-        .map(h => ({
-          text: h.title,
-          author: h.author || 'anonymous',
-          source: 'Hacker News',
-          url: `https://news.ycombinator.com/item?id=${h.objectID}`,
-          date: h.created_at || new Date().toISOString(),
-          likes: h.points,
-          comments: h.num_comments || 0,
-        }));
-      allPosts.push(...posts);
-      console.log(`HN trend "${q}": ${posts.length} posts`);
-    } catch (err) {
-      console.warn(`HN trend "${q}" failed:`, err.message);
-    }
-  }
-
-  if (allPosts.length === 0) throw new Error('No HN posts found');
-
-  // Deduplicate by URL, sort by points
-  const seen = new Set();
-  return allPosts
-    .filter(p => { if (seen.has(p.url)) return false; seen.add(p.url); return true; })
-    .sort((a, b) => b.likes - a.likes)
-    .slice(0, 3);
-}
-
 async function main() {
   const outputPath = path.join(__dirname, '..', 'public', 'data.json');
   let newsItems = MOCK_NEWS;
-  let tweetItems = MOCK_TWEETS;
   let newsMock = true;
-  let tweetsMock = true;
 
   try {
     const rawItems = await fetchNews();
@@ -299,18 +260,8 @@ async function main() {
     console.warn('Stack:', err.stack);
   }
 
-  try {
-    tweetItems = await fetchHNPosts();
-    tweetsMock = false;
-    console.log('HN trend posts fetched successfully:', tweetItems.length, 'items');
-  } catch (err) {
-    console.warn('HN trend fetch failed, using mock:', err.message);
-    console.warn('Stack:', err.stack);
-  }
-
   const data = {
     news: { items: newsItems, fetchedAt: new Date().toISOString(), mock: newsMock },
-    tweets: { items: tweetItems, fetchedAt: new Date().toISOString(), mock: tweetsMock },
   };
 
   fs.writeFileSync(outputPath, JSON.stringify(data, null, 2));

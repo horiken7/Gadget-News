@@ -32,7 +32,6 @@ jobs:
             const d = require('./public/data.json');
             console.log('===== DATA SUMMARY =====');
             console.log('News  mock:', d.news.mock,  '| count:', d.news.items.length);
-            console.log('Tweet mock:', d.tweets.mock, '| count:', d.tweets.items.length);
             if (d.news.items[0]) console.log('Top story :', d.news.items[0].title);
             if (d.news.items[0]) console.log('titleJa   :', d.news.items[0].titleJa);
             console.log('fetchedAt :', d.news.fetchedAt);
