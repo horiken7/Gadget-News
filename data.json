@@ -21,8 +21,8 @@
       {
         "title": "AI agent bankrupted their operator while trying to scan DN42",
         "url": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/",
-        "points": 403,
-        "comments": 131,
+        "points": 406,
+        "comments": 133,
         "author": "xiaoyu2006",
         "createdAt": "2026-06-12T04:42:53Z",
         "domain": "lantian.pub",
@@ -87,7 +87,7 @@
         "impact": "低"
       }
     ],
-    "fetchedAt": "2026-06-12T08:23:07.551Z",
+    "fetchedAt": "2026-06-12T08:24:41.728Z",
     "mock": false
   }
 }
