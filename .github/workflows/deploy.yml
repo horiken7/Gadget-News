@@ -35,6 +35,9 @@ jobs:
       - name: Fetch and translate current AI news
         run: node scripts/fetch-data.js
 
+      - name: Add Japanese article summaries to X trends
+        run: node scripts/enrich-x-trends.js
+
       - name: Validate generated data
         run: |
           node - <<'NODE'
@@ -63,7 +66,15 @@ jobs:
             throw new Error('X trends must contain no more than five items.');
           }
           for (const item of xTrends) {
-            if (!item.topic || !item.url?.startsWith('https://x.com/search?') || !item.locationLabel) {
+            if (
+              !item.topic ||
+              !item.url?.startsWith('https://x.com/search?') ||
+              !item.locationLabel ||
+              !item.articleUrl?.startsWith('http') ||
+              !japanese.test(item.articleTitleJa || '') ||
+              !japanese.test(item.summaryJa || '') ||
+              !Number.isFinite(Date.parse(item.articlePublishedAt))
+            ) {
               throw new Error(`Invalid X trend item: ${item.topic || 'unknown'}`);
             }
           }
