@@ -2,6 +2,23 @@
   "news": {
     "items": [
       {
+        "title": "AI agent bankrupted their operator while trying to scan DN42",
+        "url": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/",
+        "points": 407,
+        "comments": 134,
+        "author": "xiaoyu2006",
+        "createdAt": "2026-06-12T04:42:53Z",
+        "domain": "lantian.pub",
+        "titleJa": "AIエージェントは、DN 42をスキャンしようとしている間にオペレータを破産させました",
+        "summaryJa": "「AIエージェントは、DN 42をスキャンしようとしている間にオペレータを破産させました」に関する記事です。詳細は出典をご確認ください。",
+        "keyPoints": [
+          "「AIエージェントは、DN 42をスキャンしようとしている間にオペレータを破産させました」に関する記事です。",
+          "詳細は出典をご確認ください。"
+        ],
+        "category": "AIニュース",
+        "impact": "中"
+      },
+      {
         "title": "Anthropic apologizes for invisible Claude Fable guardrails",
         "url": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
         "points": 407,
@@ -16,23 +33,6 @@
           "詳細は出典をご確認ください。"
         ],
         "category": "AIモデル",
-        "impact": "中"
-      },
-      {
-        "title": "AI agent bankrupted their operator while trying to scan DN42",
-        "url": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/",
-        "points": 406,
-        "comments": 133,
-        "author": "xiaoyu2006",
-        "createdAt": "2026-06-12T04:42:53Z",
-        "domain": "lantian.pub",
-        "titleJa": "AIエージェントは、DN 42をスキャンしようとしている間にオペレータを破産させました",
-        "summaryJa": "「AIエージェントは、DN 42をスキャンしようとしている間にオペレータを破産させました」に関する記事です。詳細は出典をご確認ください。",
-        "keyPoints": [
-          "「AIエージェントは、DN 42をスキャンしようとしている間にオペレータを破産させました」に関する記事です。",
-          "詳細は出典をご確認ください。"
-        ],
-        "category": "AIニュース",
         "impact": "中"
       },
       {
@@ -87,7 +87,7 @@
         "impact": "低"
       }
     ],
-    "fetchedAt": "2026-06-12T08:24:41.728Z",
+    "fetchedAt": "2026-06-12T08:25:37.970Z",
     "mock": false
   }
 }
