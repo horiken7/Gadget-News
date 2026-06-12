@@ -4,8 +4,8 @@
       {
         "title": "AI agent bankrupted their operator while trying to scan DN42",
         "url": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/",
-        "points": 434,
-        "comments": 146,
+        "points": 597,
+        "comments": 226,
         "author": "xiaoyu2006",
         "createdAt": "2026-06-12T04:42:53Z",
         "domain": "lantian.pub",
@@ -19,27 +19,10 @@
         "impact": "中"
       },
       {
-        "title": "Anthropic apologizes for invisible Claude Fable guardrails",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
-        "points": 408,
-        "comments": 375,
-        "author": "rarisma",
-        "createdAt": "2026-06-11T12:05:02Z",
-        "domain": "theverge.com",
-        "titleJa": "目に見えないクロード・フェイブルのガードレールについてアントロピックが謝罪",
-        "summaryJa": "「目に見えないクロード・フェイブルのガードレールについてアントロピックが謝罪」に関する記事です。詳細は出典をご確認ください。",
-        "keyPoints": [
-          "「目に見えないクロード・フェイブルのガードレールについてアントロピックが謝罪」に関する記事です。",
-          "詳細は出典をご確認ください。"
-        ],
-        "category": "AIモデル",
-        "impact": "中"
-      },
-      {
         "title": "Claude Fable is relentlessly proactive",
         "url": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/",
-        "points": 401,
-        "comments": 318,
+        "points": 457,
+        "comments": 352,
         "author": "lumpa",
         "createdAt": "2026-06-12T01:06:51Z",
         "domain": "simonwillison.net",
@@ -53,10 +36,27 @@
         "impact": "中"
       },
       {
+        "title": "Anthropic apologizes for invisible Claude Fable guardrails",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
+        "points": 426,
+        "comments": 385,
+        "author": "rarisma",
+        "createdAt": "2026-06-11T12:05:02Z",
+        "domain": "theverge.com",
+        "titleJa": "目に見えないクロード・フェイブルのガードレールについてアントロピックが謝罪",
+        "summaryJa": "「目に見えないクロード・フェイブルのガードレールについてアントロピックが謝罪」に関する記事です。詳細は出典をご確認ください。",
+        "keyPoints": [
+          "「目に見えないクロード・フェイブルのガードレールについてアントロピックが謝罪」に関する記事です。",
+          "詳細は出典をご確認ください。"
+        ],
+        "category": "AIモデル",
+        "impact": "中"
+      },
+      {
         "title": "Claude Fable 5: mid-tier results on coding tasks",
         "url": "https://www.endorlabs.com/learn/claude-fable-5-mythos-grade-hype",
-        "points": 306,
-        "comments": 144,
+        "points": 323,
+        "comments": 151,
         "author": "bugvader",
         "createdAt": "2026-06-11T16:03:21Z",
         "domain": "endorlabs.com",
@@ -71,8 +71,8 @@
       {
         "title": "Ask HN: How do you get into a flow state when using AI to code?",
         "url": "https://news.ycombinator.com/item?id=48492118",
-        "points": 84,
-        "comments": 106,
+        "points": 87,
+        "comments": 107,
         "author": "kilroy123",
         "createdAt": "2026-06-11T15:56:25Z",
         "domain": "news.ycombinator.com",
@@ -87,7 +87,7 @@
         "impact": "低"
       }
     ],
-    "fetchedAt": "2026-06-12T08:41:03.734Z",
+    "fetchedAt": "2026-06-12T10:22:28.875Z",
     "mock": false
   },
   "xTrends": {
@@ -96,19 +96,34 @@
         "topic": "Oracle AI Trade",
         "locationLabel": "米国",
         "bestRank": 2,
-        "appearances": 14,
-        "url": "https://x.com/search?q=Oracle%20AI%20Trade&src=typed_query&f=live"
+        "appearances": 15,
+        "url": "https://x.com/search?q=Oracle%20AI%20Trade&src=typed_query&f=live",
+        "articleTitle": "Oracle's AI datacenter splurge gives investors the capex jitters",
+        "articleTitleJa": "オラクルの AI データセンターの散財により投資家は設備投資に不安を感じる",
+        "articleUrl": "https://www.theregister.com/paas-and-iaas/2026/06/11/oracles-ai-datacenter-splurge-gives-investors-the-capex-jitters/5254035",
+        "articleSource": "theregister.com",
+        "articlePublishedAt": "2026-06-11T19:08:28Z",
+        "summaryJa": "第4四半期の売上高は21%増加したが、ウォール街は700億ドルの増強法案にもっと関心を持っている",
+        "translationVersion": 3
       },
       {
         "topic": "AI-powered",
         "locationLabel": "米国",
         "bestRank": 39,
-        "appearances": 3,
-        "url": "https://x.com/search?q=AI-powered&src=typed_query&f=live"
+        "appearances": 4,
+        "url": "https://x.com/search?q=AI-powered&src=typed_query&f=live",
+        "articleTitle": "Recovoly – AI-powered ink bleed removal for scanned documents",
+        "articleTitleJa": "Recovoly – AI を活用したスキャンされた文書のインクにじみ除去",
+        "articleUrl": "https://recovoly.com",
+        "articleSource": "recovoly.com",
+        "articlePublishedAt": "2026-06-10T07:33:12Z",
+        "summaryJa": "Recovoly は、損傷した、色あせた、破れた、低品質の文書を修復する、AI を活用した文書復元プラットフォームです。高速でインテリジェントな処理により、スキャンを強化し、テキストを復元し、欠陥を除去し、OCR の精度を向上させます。",
+        "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-06-12T08:41:03.734Z",
-    "source": "Trends24",
-    "partial": true
+    "fetchedAt": "2026-06-12T10:22:28.875Z",
+    "source": "Trends24 / Hacker News Algolia",
+    "partial": true,
+    "articleFetchedAt": "2026-06-12T10:22:35.715Z"
   }
 }
