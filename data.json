@@ -4,8 +4,8 @@
       {
         "title": "Claude Fable is relentlessly proactive",
         "url": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/",
-        "points": 716,
-        "comments": 613,
+        "points": 723,
+        "comments": 622,
         "author": "lumpa",
         "createdAt": "2026-06-12T01:06:51Z",
         "domain": "simonwillison.net",
@@ -21,8 +21,8 @@
       {
         "title": "Show HN: Script to bulk delete Claude chats from the web UI",
         "url": "https://github.com/MatteoLeonesi/bulk-delete-claude-chat",
-        "points": 48,
-        "comments": 17,
+        "points": 50,
+        "comments": 18,
         "author": "ML0037",
         "createdAt": "2026-06-12T15:08:59Z",
         "domain": "github.com",
@@ -39,7 +39,7 @@
       {
         "title": "Don't let the LLM speak, just probe it",
         "url": "https://blog.j11y.io/2026-06-10_hidden-state-probes/",
-        "points": 38,
+        "points": 39,
         "comments": 2,
         "author": "gmays",
         "createdAt": "2026-06-12T00:24:48Z",
@@ -56,8 +56,8 @@
       {
         "title": "Launch HN: BitBoard (YC P25) – Analytics Workspace for Agents",
         "url": "https://bitboard.work/",
-        "points": 28,
-        "comments": 11,
+        "points": 31,
+        "comments": 18,
         "author": "arcb",
         "createdAt": "2026-06-12T16:58:03Z",
         "domain": "bitboard.work",
@@ -72,23 +72,23 @@
         "impact": "低"
       },
       {
-        "title": "OpenAI Prepping for On-Prem Product?",
-        "url": "https://ledger.somantix.ai/posts/open-ai-lays-groundwork-for-on-prem-product/",
-        "points": 24,
-        "comments": 12,
-        "author": "bdroopy",
-        "createdAt": "2026-06-11T22:28:01Z",
-        "domain": "ledger.somantix.ai",
-        "titleJa": "OpenAIオンプレミス製品の準備をしていますか？",
-        "summaryJa": "OpenAIがオンプレミス製品の基盤を築く",
+        "title": "Our workplace LLM mass delusion",
+        "url": "https://blog.avas.space/llm-circus/",
+        "points": 20,
+        "comments": 2,
+        "author": "birdculture",
+        "createdAt": "2026-06-12T00:20:40Z",
+        "domain": "blog.avas.space",
+        "titleJa": "私たちの職場LLMマス妄想",
+        "summaryJa": "技術を披露する社内セッションは、恥ずかしいものであり、間違った人々によって導かれており、そもそも起こるべきではありません。",
         "keyPoints": [
-          "OpenAIがオンプレミス製品の基盤を築く。"
+          "技術を披露する社内セッションは、恥ずかしいものであり、間違った人々によって導かれており、そもそも起こるべきではありません。"
         ],
-        "category": "AIニュース",
+        "category": "AIモデル",
         "impact": "低"
       }
     ],
-    "fetchedAt": "2026-06-12T21:28:52.511Z",
+    "fetchedAt": "2026-06-12T23:14:10.351Z",
     "mock": false
   },
   "xTrends": {
@@ -96,11 +96,11 @@
       {
         "topic": "Oracle AI Trade",
         "locationLabel": "米国",
-        "bestRank": 5,
-        "appearances": 13,
+        "bestRank": 13,
+        "appearances": 12,
         "url": "https://x.com/search?q=Oracle%20AI%20Trade&src=typed_query&f=live",
         "articleTitle": "Oracle's AI datacenter splurge gives investors the capex jitters",
-        "articleTitleJa": "オラクルの AI データセンターの散財により投資家は設備投資に不安を感じる",
+        "articleTitleJa": "オラクルのAIデータセンターの散財で投資家は設備投資に不安を感じている",
         "articleUrl": "https://www.theregister.com/paas-and-iaas/2026/06/11/oracles-ai-datacenter-splurge-gives-investors-the-capex-jitters/5254035",
         "articleSource": "theregister.com",
         "articlePublishedAt": "2026-06-11T19:08:28Z",
@@ -122,9 +122,9 @@
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-06-12T21:28:52.511Z",
+    "fetchedAt": "2026-06-12T23:14:10.351Z",
     "source": "Trends24 / Hacker News Algolia",
     "partial": true,
-    "articleFetchedAt": "2026-06-12T21:28:53.962Z"
+    "articleFetchedAt": "2026-06-12T23:14:14.108Z"
   }
 }
