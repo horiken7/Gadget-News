@@ -1,0 +1,119 @@
+.x-trends-section {
+  padding-top: 8px;
+}
+
+.section-heading {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: 16px;
+  margin-bottom: 8px;
+}
+
+.section-kicker {
+  color: var(--cyan);
+  font-size: 0.68rem;
+  font-weight: 800;
+  letter-spacing: 0.14em;
+}
+
+.section-heading h2 {
+  font-size: 1.45rem;
+  line-height: 1.4;
+}
+
+.section-source {
+  color: var(--text-dim);
+  font-size: 0.7rem;
+  white-space: nowrap;
+}
+
+.section-note,
+.trend-status {
+  color: var(--text-muted);
+  font-size: 0.78rem;
+  margin-bottom: 16px;
+}
+
+.trend-status {
+  background: rgba(34, 211, 238, 0.07);
+  border: 1px solid rgba(34, 211, 238, 0.16);
+  border-radius: var(--radius-sm);
+  padding: 10px 12px;
+}
+
+.x-trend-card {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  padding: 16px 18px;
+  margin-bottom: 10px;
+  color: inherit;
+  text-decoration: none;
+  background: var(--bg-card);
+  border: 1px solid var(--border-bright);
+  border-radius: 12px;
+  transition: border-color 0.2s, transform 0.2s;
+}
+
+.x-trend-card:hover {
+  border-color: rgba(34, 211, 238, 0.38);
+  transform: translateY(-1px);
+}
+
+.x-trend-rank {
+  display: grid;
+  place-items: center;
+  width: 32px;
+  height: 32px;
+  flex-shrink: 0;
+  color: #06141a;
+  background: var(--cyan);
+  border-radius: 50%;
+  font-size: 0.8rem;
+  font-weight: 900;
+}
+
+.x-trend-body {
+  display: flex;
+  flex: 1;
+  min-width: 0;
+  flex-direction: column;
+}
+
+.x-trend-body strong {
+  overflow: hidden;
+  color: var(--text-primary);
+  font-size: 0.95rem;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.x-trend-body span,
+.x-trend-link {
+  color: var(--text-muted);
+  font-size: 0.72rem;
+}
+
+.x-trend-link {
+  flex-shrink: 0;
+  color: var(--cyan);
+  font-weight: 700;
+}
+
+.skeleton-trend {
+  padding: 18px;
+  height: 74px;
+}
+
+@media (max-width: 600px) {
+  .section-heading {
+    align-items: flex-start;
+    flex-direction: column;
+    gap: 4px;
+  }
+
+  .x-trend-link {
+    display: none;
+  }
+}

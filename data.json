@@ -4,8 +4,8 @@
       {
         "title": "Anthropic apologizes for invisible Claude Fable guardrails",
         "url": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
-        "points": 404,
-        "comments": 373,
+        "points": 407,
+        "comments": 374,
         "author": "rarisma",
         "createdAt": "2026-06-11T12:05:02Z",
         "domain": "theverge.com",
@@ -19,27 +19,10 @@
         "impact": "中"
       },
       {
-        "title": "Claude Fable is relentlessly proactive",
-        "url": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/",
-        "points": 384,
-        "comments": 309,
-        "author": "lumpa",
-        "createdAt": "2026-06-12T01:06:51Z",
-        "domain": "simonwillison.net",
-        "titleJa": "クロード・フェイブルは容赦なく積極的である",
-        "summaryJa": "Claude Fable 5で2日間の経験を積んだ後、それを表現する最良の方法は容赦なく積極的に行動することだと思います。それはたくさんのトリックを知っていて、それは...",
-        "keyPoints": [
-          "Claude Fable 5で2日間の経験を積んだ後、それを表現する最良の方法は容赦なく積極的に行動することだと思います。",
-          "それはたくさんのトリックを知っていて、それは...。"
-        ],
-        "category": "AIモデル",
-        "impact": "中"
-      },
-      {
         "title": "AI agent bankrupted their operator while trying to scan DN42",
         "url": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/",
-        "points": 369,
-        "comments": 115,
+        "points": 403,
+        "comments": 131,
         "author": "xiaoyu2006",
         "createdAt": "2026-06-12T04:42:53Z",
         "domain": "lantian.pub",
@@ -53,9 +36,26 @@
         "impact": "中"
       },
       {
+        "title": "Claude Fable is relentlessly proactive",
+        "url": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/",
+        "points": 392,
+        "comments": 314,
+        "author": "lumpa",
+        "createdAt": "2026-06-12T01:06:51Z",
+        "domain": "simonwillison.net",
+        "titleJa": "クロード・フェイブルは容赦なく積極的である",
+        "summaryJa": "Claude Fable 5で2日間の経験を積んだ後、それを表現する最良の方法は容赦なく積極的に行動することだと思います。それはたくさんのトリックを知っていて、それは...",
+        "keyPoints": [
+          "Claude Fable 5で2日間の経験を積んだ後、それを表現する最良の方法は容赦なく積極的に行動することだと思います。",
+          "それはたくさんのトリックを知っていて、それは...。"
+        ],
+        "category": "AIモデル",
+        "impact": "中"
+      },
+      {
         "title": "Claude Fable 5: mid-tier results on coding tasks",
         "url": "https://www.endorlabs.com/learn/claude-fable-5-mythos-grade-hype",
-        "points": 303,
+        "points": 305,
         "comments": 144,
         "author": "bugvader",
         "createdAt": "2026-06-11T16:03:21Z",
@@ -87,7 +87,7 @@
         "impact": "低"
       }
     ],
-    "fetchedAt": "2026-06-12T08:07:47.763Z",
+    "fetchedAt": "2026-06-12T08:23:07.551Z",
     "mock": false
   }
 }
