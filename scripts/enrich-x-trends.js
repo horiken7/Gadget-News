@@ -2,6 +2,7 @@ const fs = require('fs');
 const path = require('path');
 
 const DATA_PATH = path.join(__dirname, '..', 'public', 'data.json');
+const PUBLISHED_DATA_URL = 'https://horiken7.github.io/AI-news/data.json';
 const USER_AGENT = 'AI-news updater/2.0 (+https://github.com/horiken7/AI-news)';
 const JAPANESE_TEXT = /[\u3040-\u30ff\u3400-\u9fff]/;
 
@@ -27,6 +28,15 @@ async function fetchJson(url) {
   const response = await fetchWithTimeout(url);
   if (!response.ok) throw new Error(`${url} returned ${response.status}`);
   return response.json();
+}
+
+async function fetchPublishedData() {
+  try {
+    return await fetchJson(`${PUBLISHED_DATA_URL}?_=${Date.now()}`);
+  } catch (error) {
+    console.warn(`Published X trend cache unavailable: ${error.message}`);
+    return null;
+  }
 }
 
 function decodeHtml(text) {
@@ -176,10 +186,40 @@ async function main() {
   const data = JSON.parse(fs.readFileSync(DATA_PATH, 'utf8'));
   const items = data.xTrends?.items;
   if (!Array.isArray(items)) throw new Error('X trend data is missing');
+  const publishedData = await fetchPublishedData();
+  const previousItems = (publishedData?.xTrends?.items || []).filter(item =>
+    item.topic &&
+    item.articleUrl &&
+    JAPANESE_TEXT.test(item.articleTitleJa || '') &&
+    JAPANESE_TEXT.test(item.summaryJa || '')
+  );
 
   const enrichedItems = [];
   for (const item of items) {
-    enrichedItems.push(await enrichTrend(item, items));
+    try {
+      enrichedItems.push(await enrichTrend(item, previousItems));
+    } catch (error) {
+      const cached = previousItems.find(previous => previous.topic === item.topic);
+      if (cached) {
+        console.warn(`Related article unavailable for ${item.topic}; keeping its previous summary`);
+        enrichedItems.push({
+          ...cached,
+          ...item,
+          retainedArticleAt: new Date().toISOString(),
+        });
+      } else {
+        console.warn(`Skipping ${item.topic}: ${error.message}`);
+      }
+    }
+  }
+
+  for (const previous of previousItems) {
+    if (enrichedItems.length >= 5) break;
+    if (enrichedItems.some(item => item.topic === previous.topic)) continue;
+    enrichedItems.push({
+      ...previous,
+      retainedTrendAt: new Date().toISOString(),
+    });
   }
 
   data.xTrends = {
@@ -187,6 +227,7 @@ async function main() {
     items: enrichedItems,
     articleFetchedAt: new Date().toISOString(),
     source: 'Trends24 / Hacker News Algolia',
+    partial: enrichedItems.length < 5,
   };
 
   const temporaryPath = `${DATA_PATH}.tmp`;
