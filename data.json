@@ -4,8 +4,8 @@
       {
         "title": "No, everyone is not using AI for everything",
         "url": "https://gabrielweinberg.com/p/people-are-consuming-ai-like-they",
-        "points": 224,
-        "comments": 216,
+        "points": 310,
+        "comments": 319,
         "author": "yegg",
         "createdAt": "2026-06-14T14:44:29Z",
         "domain": "gabrielweinberg.com",
@@ -19,17 +19,18 @@
         "impact": "低"
       },
       {
-        "title": "Making Claude a Chemist",
-        "url": "https://www.anthropic.com/research/making-claude-a-chemist",
-        "points": 75,
-        "comments": 73,
-        "author": "gmays",
-        "createdAt": "2026-06-14T02:55:36Z",
-        "domain": "anthropic.com",
-        "titleJa": "クロードを化学者にしよう",
-        "summaryJa": "Anthropicは、信頼性が高く、解釈可能で、操縦可能なAIシステムの構築に取り組んでいるAI安全調査会社です。",
+        "title": "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
+        "url": "https://github.com/nex-agi/Nex-N2/issues/4",
+        "points": 168,
+        "comments": 91,
+        "author": "unrvl22",
+        "createdAt": "2026-06-14T15:37:31Z",
+        "domain": "github.com",
+        "titleJa": "リオデジャネイロの「自家製」LLMは、既存のモデルの合併であるように見える",
+        "summaryJa": "prefeitura-rio/Rio-3.5-Open-397Bは、IplanRIOによってトレーニングされたオリジナルの397 Bモデルとして提示されています。そうではありません。その重みは、私たちのモデル、Nexと公式のQwen3.5-397B-A17Bベースの直接的な要素ごとのマージです—約0.6 Nex/0.4 Qwen —...",
         "keyPoints": [
-          "Anthropicは、信頼性が高く、解釈可能で、操縦可能なAIシステムの構築に取り組んでいるAI安全調査会社です。"
+          "prefeitura-rio/Rio-3.5-Open-397Bは、IplanRIOによってトレーニングされたオリジナルの397 Bモデルとして提示されています。",
+          "その重みは、私たちのモデル、Nexと公式のQwen3.5-397B-A17Bベースの直接的な要素ごとのマージです—約0.6 Nex/0.4 Qwen —...。"
         ],
         "category": "AIモデル",
         "impact": "低"
@@ -37,8 +38,8 @@
       {
         "title": "KPMG pulls report on AI usage due to apparent hallucinations",
         "url": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
-        "points": 69,
-        "comments": 6,
+        "points": 94,
+        "comments": 14,
         "author": "Brajeshwar",
         "createdAt": "2026-06-14T14:01:35Z",
         "domain": "techcrunch.com",
@@ -48,6 +49,22 @@
           "繰り返しますが、AIはAIに関する信頼できない情報源であることが証明されています。"
         ],
         "category": "AIニュース",
+        "impact": "低"
+      },
+      {
+        "title": "Making Claude a Chemist",
+        "url": "https://www.anthropic.com/research/making-claude-a-chemist",
+        "points": 79,
+        "comments": 75,
+        "author": "gmays",
+        "createdAt": "2026-06-14T02:55:36Z",
+        "domain": "anthropic.com",
+        "titleJa": "クロードを化学者にしよう",
+        "summaryJa": "Anthropicは、信頼性が高く、解釈可能で、操縦可能なAIシステムの構築に取り組んでいるAI安全調査会社です。",
+        "keyPoints": [
+          "Anthropicは、信頼性が高く、解釈可能で、操縦可能なAIシステムの構築に取り組んでいるAI安全調査会社です。"
+        ],
+        "category": "AIモデル",
         "impact": "低"
       },
       {
@@ -66,26 +83,9 @@
         ],
         "category": "AIニュース",
         "impact": "低"
-      },
-      {
-        "title": "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
-        "url": "https://github.com/nex-agi/Nex-N2/issues/4",
-        "points": 60,
-        "comments": 35,
-        "author": "unrvl22",
-        "createdAt": "2026-06-14T15:37:31Z",
-        "domain": "github.com",
-        "titleJa": "リオデジャネイロの「自家製」LLMは、既存のモデルの合併であるように見える",
-        "summaryJa": "prefeitura-rio/Rio-3.5-Open-397Bは、IplanRIOによってトレーニングされたオリジナルの397 Bモデルとして提示されています。そうではありません。その重みは、私たちのモデル、Nexと公式のQwen3.5-397B-A17Bベースの直接的な要素ごとのマージです—約0.6 Nex/0.4 Qwen —...",
-        "keyPoints": [
-          "prefeitura-rio/Rio-3.5-Open-397Bは、IplanRIOによってトレーニングされたオリジナルの397 Bモデルとして提示されています。",
-          "その重みは、私たちのモデル、Nexと公式のQwen3.5-397B-A17Bベースの直接的な要素ごとのマージです—約0.6 Nex/0.4 Qwen —...。"
-        ],
-        "category": "AIモデル",
-        "impact": "低"
       }
     ],
-    "fetchedAt": "2026-06-14T17:17:01.504Z",
+    "fetchedAt": "2026-06-14T19:20:28.435Z",
     "mock": false
   },
   "xTrends": {
@@ -107,8 +107,8 @@
       {
         "topic": "Anthropic",
         "locationLabel": "カナダ",
-        "bestRank": 11,
-        "appearances": 7,
+        "bestRank": 17,
+        "appearances": 4,
         "url": "https://x.com/search?q=Anthropic&src=typed_query&f=live",
         "articleTitle": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
         "articleTitleJa": "S&P 500、SpaceXを拒否、OpenAIとAnthropicの参入も阻止",
@@ -117,7 +117,7 @@
         "articlePublishedAt": "2026-06-06T04:38:36Z",
         "summaryJa": "スペースXは、消極的な投資家から数十億ドルを簡単に手に入れることはできないだろう。",
         "translationVersion": 3,
-        "retainedArticleAt": "2026-06-14T17:17:03.458Z"
+        "retainedArticleAt": "2026-06-14T19:20:30.668Z"
       },
       {
         "topic": "AI-powered",
@@ -132,12 +132,12 @@
         "articlePublishedAt": "2026-06-10T07:33:12Z",
         "summaryJa": "Recovoly は、損傷した、色あせた、破れた、低品質の文書を修復する、AI を活用した文書復元プラットフォームです。高速でインテリジェントな処理により、スキャンを強化し、テキストを復元し、欠陥を除去し、OCR の精度を向上させます。",
         "translationVersion": 3,
-        "retainedTrendAt": "2026-06-14T17:17:03.459Z"
+        "retainedTrendAt": "2026-06-14T19:20:30.668Z"
       }
     ],
-    "fetchedAt": "2026-06-14T17:17:01.504Z",
+    "fetchedAt": "2026-06-14T19:20:28.435Z",
     "source": "Trends24 / Hacker News Algolia",
     "partial": true,
-    "articleFetchedAt": "2026-06-14T17:17:03.459Z"
+    "articleFetchedAt": "2026-06-14T19:20:30.668Z"
   }
 }
