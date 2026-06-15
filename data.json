@@ -4,8 +4,8 @@
       {
         "title": "Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?",
         "url": "https://news.ycombinator.com/item?id=48542100",
-        "points": 295,
-        "comments": 186,
+        "points": 521,
+        "comments": 259,
         "author": "cloudking",
         "createdAt": "2026-06-15T14:46:53Z",
         "domain": "news.ycombinator.com",
@@ -21,8 +21,8 @@
       {
         "title": "Anthropic's Safety Superpower",
         "url": "https://stratechery.com/2026/anthropics-safety-superpower/",
-        "points": 191,
-        "comments": 168,
+        "points": 196,
+        "comments": 182,
         "author": "swolpers",
         "createdAt": "2026-06-15T10:06:35Z",
         "domain": "stratechery.com",
@@ -37,7 +37,7 @@
       {
         "title": "Did Anthropic ask for this?",
         "url": "https://www.verysane.ai/p/did-anthropic-ask-for-this",
-        "points": 191,
+        "points": 193,
         "comments": 161,
         "author": "ad8e",
         "createdAt": "2026-06-14T22:23:05Z",
@@ -51,40 +51,41 @@
         "impact": "中"
       },
       {
-        "title": "Why Is Claude Turning into an a**Hole?",
-        "url": "https://bramcohen.com/p/why-is-claude-turning-into-an-asshole",
-        "points": 118,
-        "comments": 180,
-        "author": "drob518",
-        "createdAt": "2026-06-14T22:04:01Z",
-        "domain": "bramcohen.com",
-        "titleJa": "なぜクロードは**穴になっているのか？",
-        "summaryJa": "この傾向が逆転することを願いましょう",
+        "title": "Show HN: machine0 – Persistent NixOS VMs You Control from the CLI",
+        "url": "https://machine0.io",
+        "points": 62,
+        "comments": 28,
+        "author": "bwm",
+        "createdAt": "2026-06-15T16:01:43Z",
+        "domain": "machine0.io",
+        "titleJa": "HN: machine 0を表示– CLIから制御する永続的なNixOS VM",
+        "summaryJa": "こんにちは、HN ！ machine 0を起動することに興奮しています。これは、永続的なNixOS （およびUbuntu ） VMの作成、プロビジョニング、スナップショット作成を簡単にするCLIです。machine 0を現代のVPSプロバイダーと考えることができます。VMは、スイッチをオフにしない限り（ 99.99 ％の稼働時間）、スタティックIPとHTTPSエンドポイント、1 -60 vCPU、最大240 GBのRAM、およびオプションのGPUを備えています。CLIは、ライフサイクル、スナップショット、およびプロビジョニングを管理するためのコマンドを提供します。",
         "keyPoints": [
-          "この傾向が逆転することを願いましょう。"
-        ],
-        "category": "AIモデル",
-        "impact": "低"
-      },
-      {
-        "title": "Anthropic flies staff to D.C. to clean up White House fight",
-        "url": "https://www.axios.com/2026/06/14/anthropic-white-house-mythos-fable",
-        "points": 52,
-        "comments": 65,
-        "author": "dstala",
-        "createdAt": "2026-06-15T09:23:15Z",
-        "domain": "axios.com",
-        "titleJa": "AnthropicはスタッフをワシントンD.C.に飛ばし、ホワイトハウスとの戦いを片付ける",
-        "summaryJa": "「AnthropicはスタッフをワシントンD.C.に飛ばし、ホワイトハウスとの戦いを片付ける」に関する記事です。詳細は出典をご確認ください。",
-        "keyPoints": [
-          "「AnthropicはスタッフをワシントンD.C.に飛ばし、ホワイトハウスとの戦いを片付ける」に関する記事です。",
-          "詳細は出典をご確認ください。"
+          "machine 0を起動することに興奮しています。",
+          "これは、永続的なNixOS （およびUbuntu ） VMの作成、プロビジョニング、スナップショット作成を簡単にするCLIです。",
+          "machine 0を現代のVPSプロバイダーと考えることができます。"
         ],
         "category": "AIニュース",
         "impact": "低"
+      },
+      {
+        "title": "Claude Corps",
+        "url": "https://www.anthropic.com/news/claude-corps",
+        "points": 59,
+        "comments": 51,
+        "author": "Mustan",
+        "createdAt": "2026-06-15T17:41:24Z",
+        "domain": "anthropic.com",
+        "titleJa": "クロード・コープス",
+        "summaryJa": "私たちは、AIのメリットを全米のコミュニティに広げることに情熱を注いでいるキャリアの初期の人々のための全国フェローシッププログラムであるClaude Corpsを立ち上げます。",
+        "keyPoints": [
+          "私たちは、AIのメリットを全米のコミュニティに広げることに情熱を注いでいるキャリアの初期の人々のための全国フェローシッププログラムであるClaude Corpsを立ち上げます。"
+        ],
+        "category": "AIモデル",
+        "impact": "低"
       }
     ],
-    "fetchedAt": "2026-06-15T19:44:50.391Z",
+    "fetchedAt": "2026-06-15T22:16:12.283Z",
     "mock": false
   },
   "xTrends": {
@@ -117,7 +118,7 @@
         "summaryJa": "スペースXは、消極的な投資家から数十億ドルを簡単に手に入れることはできないだろう。",
         "translationVersion": 3,
         "retainedArticleAt": "2026-06-15T03:51:35.623Z",
-        "retainedTrendAt": "2026-06-15T19:44:52.108Z"
+        "retainedTrendAt": "2026-06-15T22:16:13.465Z"
       },
       {
         "topic": "AI-powered",
@@ -132,12 +133,12 @@
         "articlePublishedAt": "2026-06-10T07:33:12Z",
         "summaryJa": "Recovoly は、損傷した、色あせた、破れた、低品質の文書を修復する、AI を活用した文書復元プラットフォームです。高速でインテリジェントな処理により、スキャンを強化し、テキストを復元し、欠陥を除去し、OCR の精度を向上させます。",
         "translationVersion": 3,
-        "retainedTrendAt": "2026-06-15T19:44:52.108Z"
+        "retainedTrendAt": "2026-06-15T22:16:13.465Z"
       }
     ],
-    "fetchedAt": "2026-06-15T19:44:50.391Z",
+    "fetchedAt": "2026-06-15T22:16:12.282Z",
     "source": "Trends24 / Hacker News Algolia",
     "partial": true,
-    "articleFetchedAt": "2026-06-15T19:44:52.108Z"
+    "articleFetchedAt": "2026-06-15T22:16:13.465Z"
   }
 }
