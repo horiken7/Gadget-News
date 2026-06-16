@@ -4,8 +4,8 @@
       {
         "title": "Claude: Elevated errors across many models [resolved]",
         "url": "https://status.claude.com/incidents/xmhsglsz3h3w",
-        "points": 176,
-        "comments": 149,
+        "points": 178,
+        "comments": 150,
         "author": "forks",
         "createdAt": "2026-06-16T17:30:30Z",
         "domain": "status.claude.com",
@@ -20,8 +20,8 @@
       {
         "title": "OpenAI Losses Increased Nearly 8X in 2025, with Spending Hitting $34B",
         "url": "https://www.wheresyoured.at/exclusive-openai-financials/",
-        "points": 132,
-        "comments": 71,
+        "points": 134,
+        "comments": 76,
         "author": "spking",
         "createdAt": "2026-06-16T04:05:48Z",
         "domain": "wheresyoured.at",
@@ -36,27 +36,10 @@
         "impact": "低"
       },
       {
-        "title": "GPT‑NL: a sovereign language model for the Netherlands",
-        "url": "https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/",
-        "points": 88,
-        "comments": 66,
-        "author": "root-parent",
-        "createdAt": "2026-06-16T17:54:02Z",
-        "domain": "tno.nl",
-        "titleJa": "GPT - NL ：オランダの主権言語モデル",
-        "summaryJa": "TNOは、GPT - NLとSURFおよびオランダ法医学研究所（ NFI ）とともに、独立したオランダ語モデルとエコシステムを構築しています。これにより、オランダとヨーロッパのデジタル自律性が強化され、責任あるAIアプリケーションのための強固な基盤が提供されます。",
-        "keyPoints": [
-          "TNOは、GPT - NLとSURFおよびオランダ法医学研究所（ NFI ）とともに、独立したオランダ語モデルとエコシステムを構築しています。",
-          "これにより、オランダとヨーロッパのデジタル自律性が強化され、責任あるAIアプリケーションのための強固な基盤が提供されます。"
-        ],
-        "category": "AIモデル",
-        "impact": "低"
-      },
-      {
         "title": "AI is potentially a Dunning-Kruger effect amplifier",
         "url": "https://twitter.com/i/status/2066825204207091926",
-        "points": 32,
-        "comments": 9,
+        "points": 43,
+        "comments": 15,
         "author": "binyu",
         "createdAt": "2026-06-16T19:47:13Z",
         "domain": "twitter.com",
@@ -85,9 +68,26 @@
         ],
         "category": "AIニュース",
         "impact": "低"
+      },
+      {
+        "title": "DeepSeek V4 Pro at 5% the cost of Claude – what it takes to close the gap",
+        "url": "https://howardchen.substack.com/p/deepseek-v4-pro-at-5-the-cost-of",
+        "points": 24,
+        "comments": 0,
+        "author": "coolwulf",
+        "createdAt": "2026-06-16T19:59:14Z",
+        "domain": "howardchen.substack.com",
+        "titleJa": "DeepSeek V 4 ProはClaudeの5 ％のコストで–ギャップを埋めるために必要なもの",
+        "summaryJa": "「DeepSeek V 4 ProはClaudeの5 ％のコストで–ギャップを埋めるために必要なもの」に関する記事です。詳細は出典をご確認ください。",
+        "keyPoints": [
+          "「DeepSeek V 4 ProはClaudeの5 ％のコストで–ギャップを埋めるために必要なもの」に関する記事です。",
+          "詳細は出典をご確認ください。"
+        ],
+        "category": "AIモデル",
+        "impact": "低"
       }
     ],
-    "fetchedAt": "2026-06-16T21:41:00.648Z",
+    "fetchedAt": "2026-06-16T23:21:33.795Z",
     "mock": false
   },
   "xTrends": {
@@ -96,7 +96,7 @@
         "topic": "Oracle AI Trade",
         "locationLabel": "米国",
         "bestRank": 4,
-        "appearances": 7,
+        "appearances": 9,
         "url": "https://x.com/search?q=Oracle%20AI%20Trade&src=typed_query&f=live",
         "articleTitle": "Oracle's AI datacenter splurge gives investors the capex jitters",
         "articleTitleJa": "オラクルのAIデータセンターの散財で投資家は設備投資に不安を感じている",
@@ -120,7 +120,7 @@
         "summaryJa": "スペースXは、消極的な投資家から数十億ドルを簡単に手に入れることはできないだろう。",
         "translationVersion": 3,
         "retainedArticleAt": "2026-06-15T03:51:35.623Z",
-        "retainedTrendAt": "2026-06-16T21:41:01.915Z"
+        "retainedTrendAt": "2026-06-16T23:21:34.950Z"
       },
       {
         "topic": "AI-powered",
@@ -135,12 +135,12 @@
         "articlePublishedAt": "2026-06-10T07:33:12Z",
         "summaryJa": "Recovoly は、損傷した、色あせた、破れた、低品質の文書を修復する、AI を活用した文書復元プラットフォームです。高速でインテリジェントな処理により、スキャンを強化し、テキストを復元し、欠陥を除去し、OCR の精度を向上させます。",
         "translationVersion": 3,
-        "retainedTrendAt": "2026-06-16T21:41:01.915Z"
+        "retainedTrendAt": "2026-06-16T23:21:34.951Z"
       }
     ],
-    "fetchedAt": "2026-06-16T21:41:00.648Z",
+    "fetchedAt": "2026-06-16T23:21:33.795Z",
     "source": "Trends24 / Hacker News Algolia",
     "partial": true,
-    "articleFetchedAt": "2026-06-16T21:41:01.915Z"
+    "articleFetchedAt": "2026-06-16T23:21:34.951Z"
   }
 }
