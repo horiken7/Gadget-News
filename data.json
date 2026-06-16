@@ -4,8 +4,8 @@
       {
         "title": "Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?",
         "url": "https://news.ycombinator.com/item?id=48542100",
-        "points": 624,
-        "comments": 315,
+        "points": 868,
+        "comments": 400,
         "author": "cloudking",
         "createdAt": "2026-06-15T14:46:53Z",
         "domain": "news.ycombinator.com",
@@ -21,7 +21,7 @@
       {
         "title": "Anthropic's Safety Superpower",
         "url": "https://stratechery.com/2026/anthropics-safety-superpower/",
-        "points": 201,
+        "points": 209,
         "comments": 185,
         "author": "swolpers",
         "createdAt": "2026-06-15T10:06:35Z",
@@ -35,28 +35,26 @@
         "impact": "中"
       },
       {
-        "title": "Show HN: machine0 – Persistent NixOS VMs You Control from the CLI",
-        "url": "https://machine0.io",
-        "points": 73,
-        "comments": 32,
-        "author": "bwm",
-        "createdAt": "2026-06-15T16:01:43Z",
-        "domain": "machine0.io",
-        "titleJa": "HN: machine 0を表示– CLIから制御する永続的なNixOS VM",
-        "summaryJa": "こんにちは、HN ！ machine 0を起動することに興奮しています。これは、永続的なNixOS （およびUbuntu ） VMの作成、プロビジョニング、スナップショット作成を簡単にするCLIです。machine 0を現代のVPSプロバイダーと考えることができます。VMは、スイッチをオフにしない限り（ 99.99 ％の稼働時間）、スタティックIPとHTTPSエンドポイント、1 -60 vCPU、最大240 GBのRAM、およびオプションのGPUを備えています。CLIは、ライフサイクル、スナップショット、およびプロビジョニングを管理するためのコマンドを提供します。",
+        "title": "Microsoft turns to AWS as GitHub faces AI capacity crunch",
+        "url": "https://runtimewire.com/article/microsoft-github-aws-ai-capacity-crunch",
+        "points": 145,
+        "comments": 65,
+        "author": "ilreb",
+        "createdAt": "2026-06-16T02:47:57Z",
+        "domain": "runtimewire.com",
+        "titleJa": "GitHubがAIキャパシティクランチに直面する中、マイクロソフトはAWSに目を向けます",
+        "summaryJa": "マイクロソフトは、AI主導の使用が開発者プラットフォームに負担をかけ、Azureの制約とエージェントコーディングのインフラストラクチャコストを露呈させた後、GitHubのAWS容量を追加しています。",
         "keyPoints": [
-          "machine 0を起動することに興奮しています。",
-          "これは、永続的なNixOS （およびUbuntu ） VMの作成、プロビジョニング、スナップショット作成を簡単にするCLIです。",
-          "machine 0を現代のVPSプロバイダーと考えることができます。"
+          "マイクロソフトは、AI主導の使用が開発者プラットフォームに負担をかけ、Azureの制約とエージェントコーディングのインフラストラクチャコストを露呈させた後、GitHubのAWS容量を追加しています。"
         ],
         "category": "AIニュース",
-        "impact": "低"
+        "impact": "中"
       },
       {
         "title": "Claude Corps",
         "url": "https://www.anthropic.com/news/claude-corps",
-        "points": 67,
-        "comments": 53,
+        "points": 116,
+        "comments": 79,
         "author": "Mustan",
         "createdAt": "2026-06-15T17:41:24Z",
         "domain": "anthropic.com",
@@ -69,24 +67,25 @@
         "impact": "低"
       },
       {
-        "title": "Anthropic flies staff to D.C. to clean up White House fight",
-        "url": "https://www.axios.com/2026/06/14/anthropic-white-house-mythos-fable",
-        "points": 53,
-        "comments": 67,
-        "author": "dstala",
-        "createdAt": "2026-06-15T09:23:15Z",
-        "domain": "axios.com",
-        "titleJa": "AnthropicはスタッフをワシントンD.C.に飛ばし、ホワイトハウスとの戦いを片付ける",
-        "summaryJa": "「AnthropicはスタッフをワシントンD.C.に飛ばし、ホワイトハウスとの戦いを片付ける」に関する記事です。詳細は出典をご確認ください。",
+        "title": "Show HN: machine0 – Persistent NixOS VMs You Control from the CLI",
+        "url": "https://machine0.io",
+        "points": 83,
+        "comments": 34,
+        "author": "bwm",
+        "createdAt": "2026-06-15T16:01:43Z",
+        "domain": "machine0.io",
+        "titleJa": "HN: machine 0を表示– CLIから制御する永続的なNixOS VM",
+        "summaryJa": "こんにちは、HN ！ machine 0を起動することに興奮しています。これは、永続的なNixOS （およびUbuntu ） VMの作成、プロビジョニング、スナップショット作成を簡単にするCLIです。machine 0を現代のVPSプロバイダーと考えることができます。VMは、スイッチをオフにしない限り（ 99.99 ％の稼働時間）、スタティックIPとHTTPSエンドポイント、1 -60 vCPU、最大240 GBのRAM、およびオプションのGPUを備えています。CLIは、ライフサイクル、スナップショット、およびプロビジョニングを管理するためのコマンドを提供します。",
         "keyPoints": [
-          "「AnthropicはスタッフをワシントンD.C.に飛ばし、ホワイトハウスとの戦いを片付ける」に関する記事です。",
-          "詳細は出典をご確認ください。"
+          "machine 0を起動することに興奮しています。",
+          "これは、永続的なNixOS （およびUbuntu ） VMの作成、プロビジョニング、スナップショット作成を簡単にするCLIです。",
+          "machine 0を現代のVPSプロバイダーと考えることができます。"
         ],
         "category": "AIニュース",
         "impact": "低"
       }
     ],
-    "fetchedAt": "2026-06-16T00:28:19.414Z",
+    "fetchedAt": "2026-06-16T06:31:24.960Z",
     "mock": false
   },
   "xTrends": {
@@ -103,7 +102,8 @@
         "articleSource": "theregister.com",
         "articlePublishedAt": "2026-06-11T19:08:28Z",
         "summaryJa": "第4四半期の売上高は21%増加したが、ウォール街は700億ドルの増強法案にもっと関心を持っている",
-        "translationVersion": 3
+        "translationVersion": 3,
+        "retainedTrendAt": "2026-06-16T06:31:25.272Z"
       },
       {
         "topic": "Anthropic",
@@ -119,7 +119,7 @@
         "summaryJa": "スペースXは、消極的な投資家から数十億ドルを簡単に手に入れることはできないだろう。",
         "translationVersion": 3,
         "retainedArticleAt": "2026-06-15T03:51:35.623Z",
-        "retainedTrendAt": "2026-06-16T00:28:20.776Z"
+        "retainedTrendAt": "2026-06-16T06:31:25.272Z"
       },
       {
         "topic": "AI-powered",
@@ -134,12 +134,12 @@
         "articlePublishedAt": "2026-06-10T07:33:12Z",
         "summaryJa": "Recovoly は、損傷した、色あせた、破れた、低品質の文書を修復する、AI を活用した文書復元プラットフォームです。高速でインテリジェントな処理により、スキャンを強化し、テキストを復元し、欠陥を除去し、OCR の精度を向上させます。",
         "translationVersion": 3,
-        "retainedTrendAt": "2026-06-16T00:28:20.777Z"
+        "retainedTrendAt": "2026-06-16T06:31:25.272Z"
       }
     ],
-    "fetchedAt": "2026-06-16T00:28:19.414Z",
+    "fetchedAt": "2026-06-16T06:31:24.960Z",
     "source": "Trends24 / Hacker News Algolia",
     "partial": true,
-    "articleFetchedAt": "2026-06-16T00:28:20.777Z"
+    "articleFetchedAt": "2026-06-16T06:31:25.272Z"
   }
 }
