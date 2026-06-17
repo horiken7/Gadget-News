@@ -5,6 +5,17 @@ const DATA_PATH = path.join(__dirname, '..', 'public', 'data.json');
 const PUBLISHED_DATA_URL = 'https://horiken7.github.io/AI-news/data.json';
 const USER_AGENT = 'AI-news updater/2.0 (+https://github.com/horiken7/AI-news)';
 const JAPANESE_TEXT = /[\u3040-\u30ff\u3400-\u9fff]/;
+const BRAND_TERMS = [
+  { source: /\bAnthropic\b/i, name: 'Anthropic', replacements: [/人類/g, /アンソロピック/g, /アンスロピック/g] },
+  { source: /\bClaude\b/i, name: 'Claude', replacements: [/クロード/g] },
+  { source: /\bOpenAI\b/i, name: 'OpenAI', replacements: [/オープンAI/g, /オープンエーアイ/g] },
+  { source: /\bChatGPT\b/i, name: 'ChatGPT', replacements: [/チャットGPT/g, /チャットジーピーティー/g] },
+  { source: /\bGemini\b/i, name: 'Gemini', replacements: [/ジェミニ/g] },
+  { source: /\bGrok\b/i, name: 'Grok', replacements: [/グロック/g, /グロク/g] },
+  { source: /\bDeepSeek\b/i, name: 'DeepSeek', replacements: [/ディープシーク/g] },
+  { source: /\bSora\b/i, name: 'Sora', replacements: [/ソラ/g] },
+  { source: /\bCopilot\b/i, name: 'Copilot', replacements: [/コパイロット/g] },
+];
 
 async function fetchWithTimeout(url, options = {}, timeoutMs = 12000) {
   const controller = new AbortController();
@@ -52,6 +63,19 @@ function decodeHtml(text) {
 
 function stripHtml(text) {
   return decodeHtml(String(text).replace(/<[^>]*>/g, ' ').replace(/\s+/g, ' ').trim());
+}
+
+function normalizeBrandTerms(text, sourceText = '') {
+  let normalized = String(text);
+
+  for (const term of BRAND_TERMS) {
+    if (!term.source.test(sourceText) && !term.source.test(normalized)) continue;
+    for (const replacement of term.replacements) {
+      normalized = normalized.replace(replacement, term.name);
+    }
+  }
+
+  return normalized;
 }
 
 function extractDomain(url) {
@@ -173,12 +197,32 @@ async function enrichTrend(item, previousItems) {
   return {
     ...item,
     articleTitle: article.title,
-    articleTitleJa: cached?.articleTitleJa || await translate(article.title),
+    articleTitleJa: cached?.articleTitleJa
+      ? normalizeBrandTerms(cached.articleTitleJa, article.title)
+      : normalizeBrandTerms(await translate(article.title), article.title),
     articleUrl: article.url,
     articleSource: article.source,
     articlePublishedAt: article.publishedAt,
-    summaryJa: cached?.summaryJa || await translate(article.description),
+    summaryJa: cached?.summaryJa
+      ? normalizeBrandTerms(cached.summaryJa, `${article.title} ${article.description}`)
+      : normalizeBrandTerms(await translate(article.description), `${article.title} ${article.description}`),
     translationVersion: 3,
+  };
+}
+
+function buildTrendOnlyItem(item) {
+  const observedAt = item.observedAt || new Date().toISOString();
+
+  return {
+    ...item,
+    articleTitle: item.topic,
+    articleTitleJa: `公開トレンド: ${item.topic}`,
+    articleUrl: item.sourceUrl || item.url,
+    articleSource: item.trendSource || 'Trends24',
+    articlePublishedAt: observedAt,
+    summaryJa: `${item.locationLabel || '対象地域'}のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。`,
+    translationVersion: 3,
+    articleFallback: true,
   };
 }
 
@@ -205,27 +249,22 @@ async function main() {
         enrichedItems.push({
           ...cached,
           ...item,
+          articleTitleJa: normalizeBrandTerms(cached.articleTitleJa, cached.articleTitle || cached.topic),
+          summaryJa: normalizeBrandTerms(cached.summaryJa, `${cached.articleTitle || ''} ${cached.topic || ''}`),
           retainedArticleAt: new Date().toISOString(),
         });
       } else {
-        console.warn(`Skipping ${item.topic}: ${error.message}`);
+        console.warn(`Using trend-only fallback for ${item.topic}: ${error.message}`);
+        enrichedItems.push(buildTrendOnlyItem(item));
       }
     }
-  }
-
-  for (const previous of previousItems) {
-    if (enrichedItems.length >= 5) break;
-    if (enrichedItems.some(item => item.topic === previous.topic)) continue;
-    enrichedItems.push({
-      ...previous,
-      retainedTrendAt: new Date().toISOString(),
-    });
   }
 
   data.xTrends = {
     ...data.xTrends,
     items: enrichedItems,
     articleFetchedAt: new Date().toISOString(),
+    trendSource: 'Trends24',
     source: 'Trends24 / Hacker News Algolia',
     partial: enrichedItems.length < 5,
   };

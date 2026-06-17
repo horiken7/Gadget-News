@@ -4,9 +4,20 @@ const path = require('path');
 const OUTPUT_PATH = path.join(__dirname, '..', 'public', 'data.json');
 const PUBLISHED_DATA_URL = 'https://horiken7.github.io/AI-news/data.json';
 const USER_AGENT = 'AI-news updater/2.0 (+https://github.com/horiken7/AI-news)';
-const QUERY_TERMS = ['AI', 'LLM', 'OpenAI', 'Anthropic', 'Claude', 'GPT', 'machine learning'];
-const AI_KEYWORDS = /\b(ai|artificial intelligence|llm|machine learning|deep learning|openai|anthropic|gemini|gpt|claude|chatgpt|neural|diffusion|generative|midjourney|stable diffusion|hugging face|transformer|agentic|inference)\b/i;
+const QUERY_TERMS = ['AI', 'LLM', 'OpenAI', 'Anthropic', 'Claude', 'GPT', 'machine learning', 'Gemini', 'DeepSeek', 'Grok', 'Sora', 'Copilot'];
+const AI_KEYWORDS = /\b(ai|artificial intelligence|llm|machine learning|deep learning|openai|anthropic|deepseek|gemini|grok|sora|copilot|gpt|claude|chatgpt|neural|diffusion|generative|midjourney|stable diffusion|hugging face|transformer|agentic|inference)\b/i;
 const JAPANESE_TEXT = /[\u3040-\u30ff\u3400-\u9fff]/;
+const BRAND_TERMS = [
+  { source: /\bAnthropic\b/i, name: 'Anthropic', replacements: [/人類/g, /アンソロピック/g, /アンスロピック/g] },
+  { source: /\bClaude\b/i, name: 'Claude', replacements: [/クロード/g] },
+  { source: /\bOpenAI\b/i, name: 'OpenAI', replacements: [/オープンAI/g, /オープンエーアイ/g] },
+  { source: /\bChatGPT\b/i, name: 'ChatGPT', replacements: [/チャットGPT/g, /チャットジーピーティー/g] },
+  { source: /\bGemini\b/i, name: 'Gemini', replacements: [/ジェミニ/g] },
+  { source: /\bGrok\b/i, name: 'Grok', replacements: [/グロック/g, /グロク/g] },
+  { source: /\bDeepSeek\b/i, name: 'DeepSeek', replacements: [/ディープシーク/g] },
+  { source: /\bSora\b/i, name: 'Sora', replacements: [/ソラ/g] },
+  { source: /\bCopilot\b/i, name: 'Copilot', replacements: [/コパイロット/g] },
+];
 const TREND_LOCATIONS = [
   { url: 'https://trends24.in/japan/', label: '日本', priority: 0 },
   { url: 'https://trends24.in/united-states/', label: '米国', priority: 1 },
@@ -16,10 +27,10 @@ const TREND_LOCATIONS = [
 ];
 const AI_TREND_TERMS = [
   'ai', 'llm', 'openai', 'chatgpt', 'gpt', 'claude', 'anthropic', 'gemini',
-  'deepmind', 'copilot', 'midjourney', 'stable diffusion', 'sora', 'grok',
+  'deepseek', 'deepmind', 'copilot', 'midjourney', 'stable diffusion', 'sora', 'grok',
   'perplexity', 'hugging face', 'machine learning', 'artificial intelligence',
-  'generative ai', '生成ai', '人工知能', 'チャットgpt', 'クロード',
-  'ジェミニ', 'ディープマインド', 'コパイロット',
+  'generative ai', '生成ai', '生成AI', '人工知能', 'チャットgpt', 'チャットGPT',
+  'クロード', 'ジェミニ', 'ディープシーク', 'ディープマインド', 'コパイロット',
 ];
 
 async function fetchWithTimeout(url, options = {}, timeoutMs = 10000) {
@@ -119,6 +130,19 @@ function stripHtml(text) {
   return decodeHtml(String(text).replace(/<[^>]*>/g, ' ').replace(/\s+/g, ' ').trim());
 }
 
+function normalizeBrandTerms(text, sourceText = '') {
+  let normalized = String(text);
+
+  for (const term of BRAND_TERMS) {
+    if (!term.source.test(sourceText) && !term.source.test(normalized)) continue;
+    for (const replacement of term.replacements) {
+      normalized = normalized.replace(replacement, term.name);
+    }
+  }
+
+  return normalized;
+}
+
 function extractMetaDescription(html) {
   const tags = String(html).match(/<meta\b[^>]*>/gi) || [];
   for (const tag of tags) {
@@ -199,6 +223,7 @@ function isAiTrend(topic) {
 }
 
 function parseTrendTopics(html, location) {
+  const observedAt = new Date().toISOString();
   const matches = [...html.matchAll(
     /<a[^>]+href="https:\/\/twitter\.com\/search\?q=([^"]+)"[^>]*>([\s\S]*?)<\/a>/gi
   )];
@@ -223,6 +248,9 @@ function parseTrendTopics(html, location) {
       locationPriority: location.priority,
       bestRank: rank,
       appearances: 1,
+      trendSource: 'Trends24',
+      sourceUrl: location.url,
+      observedAt,
       url: `https://x.com/search?q=${encodeURIComponent(topic)}&src=typed_query&f=live`,
     });
   });
@@ -270,20 +298,15 @@ async function fetchXTrendCandidates() {
 
 async function buildXTrends(previousData) {
   const currentItems = await fetchXTrendCandidates();
-  const previousItems = previousData?.xTrends?.items;
-
-  if (currentItems.length < 5 && Array.isArray(previousItems) && previousItems.length === 5) {
-    console.warn(`Only ${currentItems.length} AI trends found; keeping the previous five-item set`);
-    return {
-      ...previousData.xTrends,
-      retainedAt: new Date().toISOString(),
-    };
+  if (currentItems.length < 5) {
+    console.warn(`Only ${currentItems.length} current AI trends found; publishing the current partial set`);
   }
 
   return {
     items: currentItems,
     fetchedAt: new Date().toISOString(),
     source: 'Trends24',
+    trendSource: 'Trends24',
     partial: currentItems.length < 5,
   };
 }
@@ -311,11 +334,17 @@ async function localizeItem(item, cache) {
   const cached = cache.get(item.url);
   if (cached && JAPANESE_TEXT.test(cached.titleJa) && JAPANESE_TEXT.test(cached.summaryJa)) {
     console.log(`Reusing translation: ${item.title}`);
+    const titleJa = normalizeBrandTerms(cached.titleJa, item.title);
+    const summaryJa = normalizeBrandTerms(cached.summaryJa, `${item.title} ${item.storyText || ''}`);
+    const keyPoints = cached.keyPoints?.length
+      ? cached.keyPoints.map(point => normalizeBrandTerms(point, `${item.title} ${item.storyText || ''}`))
+      : buildKeyPoints(summaryJa);
+
     return {
       ...item,
-      titleJa: cached.titleJa,
-      summaryJa: cached.summaryJa,
-      keyPoints: cached.keyPoints || buildKeyPoints(cached.summaryJa),
+      titleJa,
+      summaryJa,
+      keyPoints,
       category: cached.category || inferCategory(item.title),
       impact: cached.impact || '低',
     };
@@ -324,8 +353,9 @@ async function localizeItem(item, cache) {
   let titleJa;
   try {
     const translatedTitle = await translate(item.title);
-    titleJa = JAPANESE_TEXT.test(translatedTitle)
-      ? translatedTitle
+    const normalizedTitle = normalizeBrandTerms(translatedTitle, item.title);
+    titleJa = JAPANESE_TEXT.test(normalizedTitle)
+      ? normalizedTitle
       : `AIニュース: ${translatedTitle}`;
   } catch (error) {
     console.warn(`Title translation failed for "${item.title}": ${error.message}`);
@@ -345,8 +375,9 @@ async function localizeItem(item, cache) {
   if (description) {
     try {
       const translatedSummary = await translate(description);
-      summaryJa = JAPANESE_TEXT.test(translatedSummary)
-        ? translatedSummary
+      const normalizedSummary = normalizeBrandTerms(translatedSummary, `${item.title} ${description}`);
+      summaryJa = JAPANESE_TEXT.test(normalizedSummary)
+        ? normalizedSummary
         : `「${titleJa}」に関する記事です。詳細は出典をご確認ください。`;
     } catch (error) {
       console.warn(`Summary translation failed for "${item.title}": ${error.message}`);

@@ -70,6 +70,9 @@ jobs:
               !item.topic ||
               !item.url?.startsWith('https://x.com/search?') ||
               !item.locationLabel ||
+              item.trendSource !== 'Trends24' ||
+              !item.sourceUrl?.startsWith('https://trends24.in/') ||
+              !Number.isFinite(Date.parse(item.observedAt)) ||
               !item.articleUrl?.startsWith('http') ||
               !japanese.test(item.articleTitleJa || '') ||
               !japanese.test(item.summaryJa || '') ||

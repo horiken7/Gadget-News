@@ -8,13 +8,13 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700;900&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="style.css">
-  <link rel="stylesheet" href="x-trends.css?v=20260612-2">
+  <link rel="stylesheet" href="style.css?v=20260617-2">
+  <link rel="stylesheet" href="x-trends.css?v=20260617-2">
 </head>
 <body>
   <header class="hero">
-    <h1 class="hero-title">今日の <span class="c-purple">バズった</span> <span class="c-pink">AI</span> ニュース</h1>
-    <p class="hero-sub" id="hero-date">最も話題になったAIトピックを厳選</p>
+    <h1 class="hero-title">今日の <span class="c-purple">注目</span> <span class="c-pink">AI</span> ニュース</h1>
+    <p class="hero-sub" id="hero-date">Hacker Newsで注目されたAIニュースを厳選</p>
   </header>
 
   <p class="hero-sub last-updated-bar" id="hero-last-updated"></p>
@@ -39,11 +39,11 @@
       <div class="section-heading">
         <div>
           <p class="section-kicker">X TREND WATCH</p>
-          <h2 id="x-trends-title">Xで話題のAIトピック</h2>
+          <h2 id="x-trends-title">X公開トレンド参考のAIトピック</h2>
         </div>
-        <span class="section-source">Trends24参考</span>
+        <span class="section-source">Trends24掲載トレンド参考</span>
       </div>
-      <p class="section-note">日本を優先し、主要地域の公開トレンドからAI関連項目を最大5件掲載します。</p>
+      <p class="section-note">X公式APIではなく、Trends24に掲載された公開トレンドを参照しています。日本を優先し、主要地域のAI関連項目を最大5件掲載します。</p>
       <div id="x-trend-cards"></div>
     </section>
   </main>
@@ -52,6 +52,6 @@
     <span id="last-updated">読み込み中...</span>
   </footer>
 
-  <script type="module" src="app.js?v=20260612-3"></script>
+  <script type="module" src="app.js?v=20260617-2"></script>
 </body>
 </html>

@@ -84,6 +84,10 @@ function formatJstDateTime(isoString, includeSeconds = false) {
   }).format(instant);
 }
 
+function formatTrendTimestamp(item, xTrends) {
+  return formatJstDateTime(item.observedAt || xTrends?.fetchedAt || xTrends?.articleFetchedAt);
+}
+
 const RANK_LABELS = ['NO.1 バズ', 'NO.2', 'NO.3', 'NO.4', 'NO.5'];
 const RANK_CLASSES = ['rank-1', 'rank-2', 'rank-3', 'rank-4', 'rank-5'];
 
@@ -125,7 +129,7 @@ function renderNews(items) {
       <a class="news-card" href="${escapeHtml(item.url)}" target="_blank" rel="noopener noreferrer">
         <div class="card-header">
           <div class="card-header-left">${rank}${category}</div>
-          <span class="buzz-count">HOT ${formatNum(Number(item.points) || 0)} pt</span>
+          <span class="buzz-count">HN ${formatNum(Number(item.points) || 0)} pt</span>
         </div>
         <h2 class="card-title">${escapeHtml(item.titleJa || item.title)}</h2>
         ${item.summaryJa ? `<p class="card-summary">${escapeHtml(item.summaryJa)}</p>` : ''}
@@ -156,16 +160,36 @@ function renderXTrends(xTrends) {
         <span class="x-trend-rank">${index + 1}</span>
         <span class="x-trend-body">
           <strong>${escapeHtml(item.topic)}</strong>
-          <span>${escapeHtml(item.locationLabel)}のXトレンド・最高${item.bestRank}位</span>
+          <span>${escapeHtml(item.locationLabel)}の公開トレンド・最高${escapeHtml(item.bestRank)}位</span>
         </span>
+        ${item.retainedArticleAt ? '<span class="trend-retained">前回取得分</span>' : ''}
       </div>
       <h3 class="x-article-title">${escapeHtml(item.articleTitleJa)}</h3>
       <p class="x-article-summary">${escapeHtml(item.summaryJa)}</p>
+      <dl class="x-trend-meta">
+        <div>
+          <dt>参照元</dt>
+          <dd>${escapeHtml(item.trendSource || xTrends?.trendSource || 'Trends24')}</dd>
+        </div>
+        <div>
+          <dt>地域</dt>
+          <dd>${escapeHtml(item.locationLabel || '-')}</dd>
+        </div>
+        <div>
+          <dt>最高順位</dt>
+          <dd>${escapeHtml(item.bestRank ?? '-')}位</dd>
+        </div>
+        <div>
+          <dt>取得時刻</dt>
+          <dd>${escapeHtml(formatTrendTimestamp(item, xTrends) || '-')} JST</dd>
+        </div>
+      </dl>
       <div class="x-trend-footer">
         <span>${escapeHtml(item.articleSource)}・${escapeHtml(relativeTime(item.articlePublishedAt))}</span>
         <span class="x-trend-actions">
-          <a href="${escapeHtml(item.articleUrl)}" target="_blank" rel="noopener noreferrer">記事を読む</a>
-          <a href="${escapeHtml(item.url)}" target="_blank" rel="noopener noreferrer">Xで見る</a>
+          <a href="${escapeHtml(item.articleUrl)}" target="_blank" rel="noopener noreferrer">${item.articleFallback ? '根拠を見る' : '関連記事'}</a>
+          <a href="${escapeHtml(item.sourceUrl || item.url)}" target="_blank" rel="noopener noreferrer">公開トレンド</a>
+          <a href="${escapeHtml(item.url)}" target="_blank" rel="noopener noreferrer">X検索</a>
         </span>
       </div>
     </article>
@@ -203,7 +227,7 @@ function showDataTimestamp(fetchedAt) {
 async function load() {
   setLoading(true);
   showSkeletons();
-  heroDate.textContent = `${formatJstDate()} - 最も話題になったAIトピックを厳選`;
+  heroDate.textContent = `${formatJstDate()} - Hacker Newsで注目されたAIニュースを厳選`;
 
   try {
     const data = await fetchData();
