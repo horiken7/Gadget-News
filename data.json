@@ -4,8 +4,8 @@
       {
         "title": "Leaked OpenAI financials show $38.5B loss and compute burn",
         "url": "https://runtimewire.com/article/openai-leaked-financials-altman-compute-burn",
-        "points": 207,
-        "comments": 225,
+        "points": 215,
+        "comments": 236,
         "author": "TechApocalypse",
         "createdAt": "2026-06-17T02:47:29Z",
         "domain": "runtimewire.com",
@@ -18,59 +18,10 @@
         "impact": "中"
       },
       {
-        "title": "Claude: Elevated errors across many models [resolved]",
-        "url": "https://status.claude.com/incidents/xmhsglsz3h3w",
-        "points": 188,
-        "comments": 155,
-        "author": "forks",
-        "createdAt": "2026-06-16T17:30:30Z",
-        "domain": "status.claude.com",
-        "titleJa": "Claude：多くのモデルでエラーが増加",
-        "summaryJa": "Claudeのステータスページ-多くのモデルでエラーが増加しました。",
-        "keyPoints": [
-          "Claudeのステータスページ-多くのモデルでエラーが増加しました。"
-        ],
-        "category": "AIモデル",
-        "impact": "低"
-      },
-      {
-        "title": "The founder's playbook: Building an AI-native startup",
-        "url": "https://claude.com/blog/the-founders-playbook",
-        "points": 116,
-        "comments": 111,
-        "author": "e2e4",
-        "createdAt": "2026-06-17T07:04:42Z",
-        "domain": "claude.com",
-        "titleJa": "創業者の作戦帳： AIネイティブのスタートアップを構築する",
-        "summaryJa": "AIネイティブの創業者がスタートアップジャーニーのあらゆる段階でClaudeをどのように使用しているかを、実践的なエクササイズ、フレームワーク、プロンプトで共有します。",
-        "keyPoints": [
-          "AIネイティブの創業者がスタートアップジャーニーのあらゆる段階でClaudeをどのように使用しているかを、実践的なエクササイズ、フレームワーク、プロンプトで共有します。"
-        ],
-        "category": "AIニュース",
-        "impact": "低"
-      },
-      {
-        "title": "Sixty percent of US consumers say 'AI' in brand messaging is a turnoff",
-        "url": "https://wpvip.com/future-of-the-web-2026/",
-        "points": 111,
-        "comments": 56,
-        "author": "thm",
-        "createdAt": "2026-06-17T12:11:27Z",
-        "domain": "wpvip.com",
-        "titleJa": "米国の消費者の60 ％が、ブランドメッセージングの「AI」は気分を害すると答えています",
-        "summaryJa": "2,000人の意思決定者と消費者を対象に、AIブランドの可視性、コンテンツの信頼性、そしてウェブが人間らしくないと感じるブランドが何をすべきかについて独自の調査を行いました。74%が、10年前よりもインターネットが人間らしくないと感じていると回答しています。",
-        "keyPoints": [
-          "2,000人の意思決定者と消費者を対象に、AIブランドの可視性、コンテンツの信頼性、そしてウェブが人間らしくないと感じるブランドが何をすべきかについて独自の調査を行いました。",
-          "74%が、10年前よりもインターネットが人間らしくないと感じていると回答しています。"
-        ],
-        "category": "AIニュース",
-        "impact": "中"
-      },
-      {
         "title": "Show HN: High-Res Neural Cellular Automata",
         "url": "https://cells2pixels.github.io/",
-        "points": 96,
-        "comments": 12,
+        "points": 147,
+        "comments": 37,
         "author": "esychology",
         "createdAt": "2026-06-17T09:28:36Z",
         "domain": "cells2pixels.github.io",
@@ -83,9 +34,59 @@
         ],
         "category": "AIニュース",
         "impact": "低"
+      },
+      {
+        "title": "The founder's playbook: Building an AI-native startup",
+        "url": "https://claude.com/blog/the-founders-playbook",
+        "points": 143,
+        "comments": 129,
+        "author": "e2e4",
+        "createdAt": "2026-06-17T07:04:42Z",
+        "domain": "claude.com",
+        "titleJa": "創業者の作戦帳： AIネイティブのスタートアップを構築する",
+        "summaryJa": "AIネイティブの創業者がスタートアップジャーニーのあらゆる段階でClaudeをどのように使用しているかを、実践的なエクササイズ、フレームワーク、プロンプトで共有します。",
+        "keyPoints": [
+          "AIネイティブの創業者がスタートアップジャーニーのあらゆる段階でClaudeをどのように使用しているかを、実践的なエクササイズ、フレームワーク、プロンプトで共有します。"
+        ],
+        "category": "AIニュース",
+        "impact": "低"
+      },
+      {
+        "title": "DeepSeek V4 Pro at 5% the cost of Claude – what it takes to close the gap",
+        "url": "https://howardchen.substack.com/p/deepseek-v4-pro-at-5-the-cost-of",
+        "points": 54,
+        "comments": 3,
+        "author": "coolwulf",
+        "createdAt": "2026-06-16T19:59:14Z",
+        "domain": "howardchen.substack.com",
+        "titleJa": "DeepSeek V 4 ProはClaudeの5 ％のコストで–ギャップを埋めるために必要なもの",
+        "summaryJa": "「DeepSeek V 4 ProはClaudeの5 ％のコストで–ギャップを埋めるために必要なもの」に関する記事です。詳細は出典をご確認ください。",
+        "keyPoints": [
+          "「DeepSeek V 4 ProはClaudeの5 ％のコストで–ギャップを埋めるために必要なもの」に関する記事です。",
+          "詳細は出典をご確認ください。"
+        ],
+        "category": "AIモデル",
+        "impact": "低"
+      },
+      {
+        "title": "Agentic coding deserves more than a chat box bolted onto VS Code",
+        "url": "https://github.com/evanklem/polypore",
+        "points": 21,
+        "comments": 8,
+        "author": "evanklem2004",
+        "createdAt": "2026-06-17T15:26:29Z",
+        "domain": "github.com",
+        "titleJa": "エージェントのコーディングは、VSコードに固定されたチャットボックス以上の価値があります",
+        "summaryJa": "エージェントコーディング用に設計されたモジュラーIDE。GitHubでアカウントを作成することで、evanklem/polyporeの開発に貢献します。",
+        "keyPoints": [
+          "エージェントコーディング用に設計されたモジュラーIDE。",
+          "GitHubでアカウントを作成することで、evanklem/polyporeの開発に貢献します。"
+        ],
+        "category": "開発ツール",
+        "impact": "低"
       }
     ],
-    "fetchedAt": "2026-06-17T12:55:56.566Z",
+    "fetchedAt": "2026-06-17T16:38:29.840Z",
     "mock": false
   },
   "xTrends": {
@@ -97,7 +98,7 @@
         "appearances": 4,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-06-17T12:55:56.474Z",
+        "observedAt": "2026-06-17T16:38:29.672Z",
         "url": "https://x.com/search?q=%E9%AB%98%E5%B8%82%E9%99%A3%E5%96%B6%E3%81%AEAI%E4%B8%AD%E5%82%B7%E5%8B%95%E7%94%BB&src=typed_query&f=live",
         "articleTitle": "高市陣営のAI中傷動画",
         "articleTitleJa": "公開トレンド: 高市陣営のAI中傷動画",
@@ -107,16 +108,16 @@
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true,
-        "retainedArticleAt": "2026-06-17T12:55:56.854Z"
+        "retainedArticleAt": "2026-06-17T16:38:30.171Z"
       },
       {
         "topic": "Oracle AI Trade",
         "locationLabel": "米国",
         "bestRank": 11,
-        "appearances": 8,
+        "appearances": 7,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-06-17T12:55:56.420Z",
+        "observedAt": "2026-06-17T16:38:29.698Z",
         "url": "https://x.com/search?q=Oracle%20AI%20Trade&src=typed_query&f=live",
         "articleTitle": "Oracle's AI datacenter splurge gives investors the capex jitters",
         "articleTitleJa": "オラクルのAIデータセンターの散財で投資家は設備投資に不安を感じている",
@@ -127,10 +128,10 @@
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-06-17T12:55:56.566Z",
+    "fetchedAt": "2026-06-17T16:38:29.840Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-06-17T12:55:57.460Z"
+    "articleFetchedAt": "2026-06-17T16:38:31.175Z"
   }
 }
