@@ -38,8 +38,8 @@
       {
         "title": "Wolfram Language and Mathematica Version 15, AI Assistant, Symbolic Music, More",
         "url": "https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality/",
-        "points": 97,
-        "comments": 23,
+        "points": 107,
+        "comments": 29,
         "author": "alok-g",
         "createdAt": "2026-06-16T23:15:44Z",
         "domain": "writings.stephenwolfram.com",
@@ -57,7 +57,7 @@
         "title": "AI is potentially a Dunning-Kruger effect amplifier",
         "url": "https://twitter.com/i/status/2066825204207091926",
         "points": 52,
-        "comments": 20,
+        "comments": 21,
         "author": "binyu",
         "createdAt": "2026-06-16T19:47:13Z",
         "domain": "twitter.com",
@@ -74,7 +74,7 @@
       {
         "title": "DeepSeek V4 Pro at 5% the cost of Claude – what it takes to close the gap",
         "url": "https://howardchen.substack.com/p/deepseek-v4-pro-at-5-the-cost-of",
-        "points": 31,
+        "points": 35,
         "comments": 0,
         "author": "coolwulf",
         "createdAt": "2026-06-16T19:59:14Z",
@@ -89,7 +89,7 @@
         "impact": "低"
       }
     ],
-    "fetchedAt": "2026-06-17T02:49:27.729Z",
+    "fetchedAt": "2026-06-17T03:40:40.757Z",
     "mock": false
   },
   "xTrends": {
@@ -101,7 +101,7 @@
         "appearances": 4,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-06-17T02:49:27.628Z",
+        "observedAt": "2026-06-17T03:40:40.614Z",
         "url": "https://x.com/search?q=%E9%AB%98%E5%B8%82%E9%99%A3%E5%96%B6%E3%81%AEAI%E4%B8%AD%E5%82%B7%E5%8B%95%E7%94%BB&src=typed_query&f=live",
         "articleTitle": "高市陣営のAI中傷動画",
         "articleTitleJa": "公開トレンド: 高市陣営のAI中傷動画",
@@ -110,7 +110,8 @@
         "articlePublishedAt": "2026-06-17T02:49:27.628Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
-        "articleFallback": true
+        "articleFallback": true,
+        "retainedArticleAt": "2026-06-17T03:40:41.115Z"
       },
       {
         "topic": "Oracle AI Trade",
@@ -119,7 +120,7 @@
         "appearances": 9,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-06-17T02:49:27.536Z",
+        "observedAt": "2026-06-17T03:40:40.560Z",
         "url": "https://x.com/search?q=Oracle%20AI%20Trade&src=typed_query&f=live",
         "articleTitle": "Oracle's AI datacenter splurge gives investors the capex jitters",
         "articleTitleJa": "オラクルのAIデータセンターの散財で投資家は設備投資に不安を感じている",
@@ -130,10 +131,10 @@
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-06-17T02:49:27.729Z",
+    "fetchedAt": "2026-06-17T03:40:40.757Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-06-17T02:49:28.768Z"
+    "articleFetchedAt": "2026-06-17T03:40:43.460Z"
   }
 }
