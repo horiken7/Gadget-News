@@ -2,17 +2,18 @@
   "news": {
     "items": [
       {
-        "title": "Only 16 Percent of Americans Think AI Will Have a Positive Impact on Society",
-        "url": "https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/",
-        "points": 316,
-        "comments": 305,
-        "author": "karakoram",
-        "createdAt": "2026-06-17T17:07:32Z",
-        "domain": "techcrunch.com",
-        "titleJa": "AIが社会にプラスの影響を与えると考えているアメリカ人はわずか16 ％",
-        "summaryJa": "ウォール街はAIを愛しているが、毎日のようにアメリカ人はAI業界に対して楽観的ではないと、Pew Researchの新しいレポートは示している。",
+        "title": "US holds off blacklisting DeepSeek, more than 100 firms deemed security risks",
+        "url": "https://www.reuters.com/world/china/us-holds-off-blacklisting-chinas-deepseek-more-than-100-firms-deemed-security-2026-06-17/",
+        "points": 239,
+        "comments": 255,
+        "author": "giuliomagnifico",
+        "createdAt": "2026-06-17T03:55:16Z",
+        "domain": "reuters.com",
+        "titleJa": "米国は、セキュリティリスクとみなされた100社以上の企業がDeepSeekのブラックリストを保留しています",
+        "summaryJa": "「米国は、セキュリティリスクとみなされた100社以上の企業がDeepSeekのブラックリストを保留しています」に関する記事です。詳細は出典をご確認ください。",
         "keyPoints": [
-          "ウォール街はAIを愛しているが、毎日のようにアメリカ人はAI業界に対して楽観的ではないと、Pew Researchの新しいレポートは示している。"
+          "「米国は、セキュリティリスクとみなされた100社以上の企業がDeepSeekのブラックリストを保留しています」に関する記事です。",
+          "詳細は出典をご確認ください。"
         ],
         "category": "AIニュース",
         "impact": "中"
@@ -20,8 +21,8 @@
       {
         "title": "Leaked OpenAI financials show $38.5B loss and compute burn",
         "url": "https://runtimewire.com/article/openai-leaked-financials-altman-compute-burn",
-        "points": 217,
-        "comments": 239,
+        "points": 218,
+        "comments": 251,
         "author": "TechApocalypse",
         "createdAt": "2026-06-17T02:47:29Z",
         "domain": "runtimewire.com",
@@ -36,8 +37,8 @@
       {
         "title": "The founder's playbook: Building an AI-native startup",
         "url": "https://claude.com/blog/the-founders-playbook",
-        "points": 170,
-        "comments": 137,
+        "points": 192,
+        "comments": 147,
         "author": "e2e4",
         "createdAt": "2026-06-17T07:04:42Z",
         "domain": "claude.com",
@@ -52,8 +53,8 @@
       {
         "title": "Show HN: High-Res Neural Cellular Automata",
         "url": "https://cells2pixels.github.io/",
-        "points": 167,
-        "comments": 42,
+        "points": 176,
+        "comments": 46,
         "author": "esychology",
         "createdAt": "2026-06-17T09:28:36Z",
         "domain": "cells2pixels.github.io",
@@ -68,47 +69,28 @@
         "impact": "低"
       },
       {
-        "title": "US holds off blacklisting DeepSeek, more than 100 firms deemed security risks",
-        "url": "https://www.reuters.com/world/china/us-holds-off-blacklisting-chinas-deepseek-more-than-100-firms-deemed-security-2026-06-17/",
-        "points": 145,
-        "comments": 124,
-        "author": "giuliomagnifico",
-        "createdAt": "2026-06-17T03:55:16Z",
-        "domain": "reuters.com",
-        "titleJa": "米国は、セキュリティリスクとみなされた100社以上の企業がDeepSeekのブラックリストを保留しています",
-        "summaryJa": "「米国は、セキュリティリスクとみなされた100社以上の企業がDeepSeekのブラックリストを保留しています」に関する記事です。詳細は出典をご確認ください。",
+        "title": "Anthropic employees accuse Trump administration of targeting them",
+        "url": "https://www.nytimes.com/2026/06/17/technology/anthropic-trump-administration-fable.html",
+        "points": 164,
+        "comments": 171,
+        "author": "thm",
+        "createdAt": "2026-06-17T15:15:34Z",
+        "domain": "nytimes.com",
+        "titleJa": "Anthropicの従業員は、トランプ政権が彼らをターゲットにしていると非難しています",
+        "summaryJa": "「Anthropicの従業員は、トランプ政権が彼らをターゲットにしていると非難しています」に関する記事です。詳細は出典をご確認ください。",
         "keyPoints": [
-          "「米国は、セキュリティリスクとみなされた100社以上の企業がDeepSeekのブラックリストを保留しています」に関する記事です。",
+          "「Anthropicの従業員は、トランプ政権が彼らをターゲットにしていると非難しています」に関する記事です。",
           "詳細は出典をご確認ください。"
         ],
         "category": "AIニュース",
         "impact": "中"
       }
     ],
-    "fetchedAt": "2026-06-17T19:24:00.508Z",
+    "fetchedAt": "2026-06-17T21:57:52.432Z",
     "mock": false
   },
   "xTrends": {
     "items": [
-      {
-        "topic": "高市陣営のAI中傷動画",
-        "locationLabel": "日本",
-        "bestRank": 26,
-        "appearances": 2,
-        "trendSource": "Trends24",
-        "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-06-17T19:24:00.492Z",
-        "url": "https://x.com/search?q=%E9%AB%98%E5%B8%82%E9%99%A3%E5%96%B6%E3%81%AEAI%E4%B8%AD%E5%82%B7%E5%8B%95%E7%94%BB&src=typed_query&f=live",
-        "articleTitle": "高市陣営のAI中傷動画",
-        "articleTitleJa": "公開トレンド: 高市陣営のAI中傷動画",
-        "articleUrl": "https://trends24.in/japan/",
-        "articleSource": "Trends24",
-        "articlePublishedAt": "2026-06-17T02:49:27.628Z",
-        "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
-        "translationVersion": 3,
-        "articleFallback": true,
-        "retainedArticleAt": "2026-06-17T19:24:00.798Z"
-      },
       {
         "topic": "AIクレジット市場",
         "locationLabel": "日本",
@@ -116,7 +98,7 @@
         "appearances": 2,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-06-17T19:24:00.492Z",
+        "observedAt": "2026-06-17T21:57:52.390Z",
         "url": "https://x.com/search?q=AI%E3%82%AF%E3%83%AC%E3%82%B8%E3%83%83%E3%83%88%E5%B8%82%E5%A0%B4&src=typed_query&f=live",
         "articleTitle": "AIクレジット市場",
         "articleTitleJa": "公開トレンド: AIクレジット市場",
@@ -125,7 +107,8 @@
         "articlePublishedAt": "2026-06-17T19:24:00.492Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
-        "articleFallback": true
+        "articleFallback": true,
+        "retainedArticleAt": "2026-06-17T21:57:52.729Z"
       },
       {
         "topic": "Oracle AI Trade",
@@ -134,7 +117,7 @@
         "appearances": 7,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-06-17T19:24:00.240Z",
+        "observedAt": "2026-06-17T21:57:52.287Z",
         "url": "https://x.com/search?q=Oracle%20AI%20Trade&src=typed_query&f=live",
         "articleTitle": "Oracle's AI datacenter splurge gives investors the capex jitters",
         "articleTitleJa": "オラクルのAIデータセンターの散財で投資家は設備投資に不安を感じている",
@@ -145,10 +128,10 @@
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-06-17T19:24:00.508Z",
+    "fetchedAt": "2026-06-17T21:57:52.432Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-06-17T19:24:01.701Z"
+    "articleFetchedAt": "2026-06-17T21:57:53.734Z"
   }
 }
