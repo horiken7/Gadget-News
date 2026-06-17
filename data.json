@@ -4,8 +4,8 @@
       {
         "title": "Leaked OpenAI financials show $38.5B loss and compute burn",
         "url": "https://runtimewire.com/article/openai-leaked-financials-altman-compute-burn",
-        "points": 198,
-        "comments": 218,
+        "points": 207,
+        "comments": 225,
         "author": "TechApocalypse",
         "createdAt": "2026-06-17T02:47:29Z",
         "domain": "runtimewire.com",
@@ -20,8 +20,8 @@
       {
         "title": "Claude: Elevated errors across many models [resolved]",
         "url": "https://status.claude.com/incidents/xmhsglsz3h3w",
-        "points": 186,
-        "comments": 154,
+        "points": 188,
+        "comments": 155,
         "author": "forks",
         "createdAt": "2026-06-16T17:30:30Z",
         "domain": "status.claude.com",
@@ -36,8 +36,8 @@
       {
         "title": "The founder's playbook: Building an AI-native startup",
         "url": "https://claude.com/blog/the-founders-playbook",
-        "points": 61,
-        "comments": 62,
+        "points": 116,
+        "comments": 111,
         "author": "e2e4",
         "createdAt": "2026-06-17T07:04:42Z",
         "domain": "claude.com",
@@ -50,40 +50,42 @@
         "impact": "低"
       },
       {
-        "title": "DeepSeek V4 Pro at 5% the cost of Claude – what it takes to close the gap",
-        "url": "https://howardchen.substack.com/p/deepseek-v4-pro-at-5-the-cost-of",
-        "points": 48,
-        "comments": 2,
-        "author": "coolwulf",
-        "createdAt": "2026-06-16T19:59:14Z",
-        "domain": "howardchen.substack.com",
-        "titleJa": "DeepSeek V 4 ProはClaudeの5 ％のコストで–ギャップを埋めるために必要なもの",
-        "summaryJa": "「DeepSeek V 4 ProはClaudeの5 ％のコストで–ギャップを埋めるために必要なもの」に関する記事です。詳細は出典をご確認ください。",
+        "title": "Sixty percent of US consumers say 'AI' in brand messaging is a turnoff",
+        "url": "https://wpvip.com/future-of-the-web-2026/",
+        "points": 111,
+        "comments": 56,
+        "author": "thm",
+        "createdAt": "2026-06-17T12:11:27Z",
+        "domain": "wpvip.com",
+        "titleJa": "米国の消費者の60 ％が、ブランドメッセージングの「AI」は気分を害すると答えています",
+        "summaryJa": "2,000人の意思決定者と消費者を対象に、AIブランドの可視性、コンテンツの信頼性、そしてウェブが人間らしくないと感じるブランドが何をすべきかについて独自の調査を行いました。74%が、10年前よりもインターネットが人間らしくないと感じていると回答しています。",
         "keyPoints": [
-          "「DeepSeek V 4 ProはClaudeの5 ％のコストで–ギャップを埋めるために必要なもの」に関する記事です。",
-          "詳細は出典をご確認ください。"
+          "2,000人の意思決定者と消費者を対象に、AIブランドの可視性、コンテンツの信頼性、そしてウェブが人間らしくないと感じるブランドが何をすべきかについて独自の調査を行いました。",
+          "74%が、10年前よりもインターネットが人間らしくないと感じていると回答しています。"
         ],
-        "category": "AIモデル",
-        "impact": "低"
+        "category": "AIニュース",
+        "impact": "中"
       },
       {
-        "title": "France to ditch Palantir's AI data tools in favour of domestic provider",
-        "url": "https://www.theguardian.com/world/2026/jun/16/france-ai-data-tools-palantir-chapsvision",
-        "points": 33,
-        "comments": 2,
-        "author": "devonnull",
-        "createdAt": "2026-06-17T00:16:14Z",
-        "domain": "theguardian.com",
-        "titleJa": "フランス、PalantirのAIデータツールを国内プロバイダーに譲渡",
-        "summaryJa": "ChapsVisionへの移行は、「戦略的依存」を回避することである、とPMは米国が管理するツールへの依存を懸念していると述べている",
+        "title": "Show HN: High-Res Neural Cellular Automata",
+        "url": "https://cells2pixels.github.io/",
+        "points": 96,
+        "comments": 12,
+        "author": "esychology",
+        "createdAt": "2026-06-17T09:28:36Z",
+        "domain": "cells2pixels.github.io",
+        "titleJa": "AIニュース: Show HN: High - Res Neural Cellular Automata",
+        "summaryJa": "神経CAは自己組織化パターン形成をモデル化する。これで、各CAセルをニューラルフィールドに変換することで、HD解像度でリアルタイムでパターンを生成できるようになりました。3つのデモを試してみてください。シードからパターンを成長させる（そしてダメージを与えて回復させる）、再生可能なPBRテクスチャを合成する、または雲のような3 Dテクスチャを作成する。",
         "keyPoints": [
-          "ChapsVisionへの移行は、「戦略的依存」を回避することである、とPMは米国が管理するツールへの依存を懸念していると述べている。"
+          "神経CAは自己組織化パターン形成をモデル化する。",
+          "これで、各CAセルをニューラルフィールドに変換することで、HD解像度でリアルタイムでパターンを生成できるようになりました。",
+          "3つのデモを試してみてください。"
         ],
         "category": "AIニュース",
         "impact": "低"
       }
     ],
-    "fetchedAt": "2026-06-17T08:59:50.087Z",
+    "fetchedAt": "2026-06-17T12:55:56.566Z",
     "mock": false
   },
   "xTrends": {
@@ -95,7 +97,7 @@
         "appearances": 4,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-06-17T08:59:49.884Z",
+        "observedAt": "2026-06-17T12:55:56.474Z",
         "url": "https://x.com/search?q=%E9%AB%98%E5%B8%82%E9%99%A3%E5%96%B6%E3%81%AEAI%E4%B8%AD%E5%82%B7%E5%8B%95%E7%94%BB&src=typed_query&f=live",
         "articleTitle": "高市陣営のAI中傷動画",
         "articleTitleJa": "公開トレンド: 高市陣営のAI中傷動画",
@@ -105,16 +107,16 @@
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true,
-        "retainedArticleAt": "2026-06-17T08:59:50.484Z"
+        "retainedArticleAt": "2026-06-17T12:55:56.854Z"
       },
       {
         "topic": "Oracle AI Trade",
         "locationLabel": "米国",
-        "bestRank": 4,
-        "appearances": 9,
+        "bestRank": 11,
+        "appearances": 8,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-06-17T08:59:49.859Z",
+        "observedAt": "2026-06-17T12:55:56.420Z",
         "url": "https://x.com/search?q=Oracle%20AI%20Trade&src=typed_query&f=live",
         "articleTitle": "Oracle's AI datacenter splurge gives investors the capex jitters",
         "articleTitleJa": "オラクルのAIデータセンターの散財で投資家は設備投資に不安を感じている",
@@ -125,10 +127,10 @@
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-06-17T08:59:50.087Z",
+    "fetchedAt": "2026-06-17T12:55:56.566Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-06-17T08:59:51.492Z"
+    "articleFetchedAt": "2026-06-17T12:55:57.460Z"
   }
 }
