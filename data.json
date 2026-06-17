@@ -2,10 +2,26 @@
   "news": {
     "items": [
       {
+        "title": "Leaked OpenAI financials show $38.5B loss and compute burn",
+        "url": "https://runtimewire.com/article/openai-leaked-financials-altman-compute-burn",
+        "points": 198,
+        "comments": 218,
+        "author": "TechApocalypse",
+        "createdAt": "2026-06-17T02:47:29Z",
+        "domain": "runtimewire.com",
+        "titleJa": "リークされたOpenAIの財務は、$ 38.5Bの損失とコンピューティングバーンを示しています",
+        "summaryJa": "Ed Zitronによって閲覧され、Financial Timesによって検証された監査済みOpenAI財務は、2025年の収益が$ 13.07 B、コストが$ 340億、OpenAIに起因する損失が$ 38.5Bであることを示しています。",
+        "keyPoints": [
+          "Ed Zitronによって閲覧され、Financial Timesによって検証された監査済みOpenAI財務は、2025年の収益が$ 13.07 B、コストが$ 340億、OpenAIに起因する損失が$ 38.5Bであることを示しています。"
+        ],
+        "category": "AIニュース",
+        "impact": "中"
+      },
+      {
         "title": "Claude: Elevated errors across many models [resolved]",
         "url": "https://status.claude.com/incidents/xmhsglsz3h3w",
-        "points": 182,
-        "comments": 153,
+        "points": 186,
+        "comments": 154,
         "author": "forks",
         "createdAt": "2026-06-16T17:30:30Z",
         "domain": "status.claude.com",
@@ -18,55 +34,17 @@
         "impact": "低"
       },
       {
-        "title": "OpenAI Losses Increased Nearly 8X in 2025, with Spending Hitting $34B",
-        "url": "https://www.wheresyoured.at/exclusive-openai-financials/",
-        "points": 140,
-        "comments": 78,
-        "author": "spking",
-        "createdAt": "2026-06-16T04:05:48Z",
-        "domain": "wheresyoured.at",
-        "titleJa": "OpenAIの損失は2025年に8倍近く増加し、支出は340億$に達しました",
-        "summaryJa": "サウンドトラック： In Flames - Colony私の独立したジャーナリズムをさらにサポートするために、私のプレミアムニュースレターを購読してください。月額$ 7または年額$ 70です。無料のニュースレターを購読してログインしている場合は、画面の右下隅に少し表示されます",
+        "title": "The founder's playbook: Building an AI-native startup",
+        "url": "https://claude.com/blog/the-founders-playbook",
+        "points": 61,
+        "comments": 62,
+        "author": "e2e4",
+        "createdAt": "2026-06-17T07:04:42Z",
+        "domain": "claude.com",
+        "titleJa": "創業者の作戦帳： AIネイティブのスタートアップを構築する",
+        "summaryJa": "AIネイティブの創業者がスタートアップジャーニーのあらゆる段階でClaudeをどのように使用しているかを、実践的なエクササイズ、フレームワーク、プロンプトで共有します。",
         "keyPoints": [
-          "サウンドトラック： In Flames - Colony私の独立したジャーナリズムをさらにサポートするために、私のプレミアムニュースレターを購読してください。",
-          "月額$ 7または年額$ 70です。",
-          "無料のニュースレターを購読してログインしている場合は、画面の右下隅に少し表示されます。"
-        ],
-        "category": "AIニュース",
-        "impact": "低"
-      },
-      {
-        "title": "Wolfram Language and Mathematica Version 15, AI Assistant, Symbolic Music, More",
-        "url": "https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality/",
-        "points": 107,
-        "comments": 29,
-        "author": "alok-g",
-        "createdAt": "2026-06-16T23:15:44Z",
-        "domain": "writings.stephenwolfram.com",
-        "titleJa": "Wolfram Language and Mathematicaバージョン15、AIアシスタント、シンボリックミュージック、その他",
-        "summaryJa": "組み込みのAIアシスタント、拡張計算拡張生成、WolframエージェントツールフレームワークなどのAI関連のアップグレード。時系列と表形式の進歩。新しいカテゴリデータ、ModelFit自動モデル選択、シンボリックミュージック。ギガバイトサイズのノートパソコンの効率的な取り扱い。既に堅牢な視覚化機能の利点。代数、行列、PDEモデリングのための新しい機能。",
-        "keyPoints": [
-          "組み込みのAIアシスタント、拡張計算拡張生成、WolframエージェントツールフレームワークなどのAI関連のアップグレード。",
-          "時系列と表形式の進歩。",
-          "新しいカテゴリデータ、ModelFit自動モデル選択、シンボリックミュージック。"
-        ],
-        "category": "AIニュース",
-        "impact": "低"
-      },
-      {
-        "title": "AI is potentially a Dunning-Kruger effect amplifier",
-        "url": "https://twitter.com/i/status/2066825204207091926",
-        "points": 52,
-        "comments": 21,
-        "author": "binyu",
-        "createdAt": "2026-06-16T19:47:13Z",
-        "domain": "twitter.com",
-        "titleJa": "AIは潜在的にDunning - Kruger効果増幅器です",
-        "summaryJa": "AIは潜在的にDunning - Kruger効果増幅器です。D - Kはすでに社会にとってある程度の運用上の問題であり、それを増幅することで愚かさを加速させる傾向があります。うまくいけば、AGIの修正や狭いAIは、中途半端な入力ループを避けることでより賢くなるでしょう。https://t.co/or0pkKFaMR",
-        "keyPoints": [
-          "AIは潜在的にDunning - Kruger効果増幅器です。",
-          "D - Kはすでに社会にとってある程度の運用上の問題であり、それを増幅することで愚かさを加速させる傾向があります。",
-          "うまくいけば、AGIの修正や狭いAIは、中途半端な入力ループを避けることでより賢くなるでしょう。"
+          "AIネイティブの創業者がスタートアップジャーニーのあらゆる段階でClaudeをどのように使用しているかを、実践的なエクササイズ、フレームワーク、プロンプトで共有します。"
         ],
         "category": "AIニュース",
         "impact": "低"
@@ -74,8 +52,8 @@
       {
         "title": "DeepSeek V4 Pro at 5% the cost of Claude – what it takes to close the gap",
         "url": "https://howardchen.substack.com/p/deepseek-v4-pro-at-5-the-cost-of",
-        "points": 35,
-        "comments": 0,
+        "points": 48,
+        "comments": 2,
         "author": "coolwulf",
         "createdAt": "2026-06-16T19:59:14Z",
         "domain": "howardchen.substack.com",
@@ -87,9 +65,25 @@
         ],
         "category": "AIモデル",
         "impact": "低"
+      },
+      {
+        "title": "France to ditch Palantir's AI data tools in favour of domestic provider",
+        "url": "https://www.theguardian.com/world/2026/jun/16/france-ai-data-tools-palantir-chapsvision",
+        "points": 33,
+        "comments": 2,
+        "author": "devonnull",
+        "createdAt": "2026-06-17T00:16:14Z",
+        "domain": "theguardian.com",
+        "titleJa": "フランス、PalantirのAIデータツールを国内プロバイダーに譲渡",
+        "summaryJa": "ChapsVisionへの移行は、「戦略的依存」を回避することである、とPMは米国が管理するツールへの依存を懸念していると述べている",
+        "keyPoints": [
+          "ChapsVisionへの移行は、「戦略的依存」を回避することである、とPMは米国が管理するツールへの依存を懸念していると述べている。"
+        ],
+        "category": "AIニュース",
+        "impact": "低"
       }
     ],
-    "fetchedAt": "2026-06-17T03:40:40.757Z",
+    "fetchedAt": "2026-06-17T08:59:50.087Z",
     "mock": false
   },
   "xTrends": {
@@ -101,7 +95,7 @@
         "appearances": 4,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-06-17T03:40:40.614Z",
+        "observedAt": "2026-06-17T08:59:49.884Z",
         "url": "https://x.com/search?q=%E9%AB%98%E5%B8%82%E9%99%A3%E5%96%B6%E3%81%AEAI%E4%B8%AD%E5%82%B7%E5%8B%95%E7%94%BB&src=typed_query&f=live",
         "articleTitle": "高市陣営のAI中傷動画",
         "articleTitleJa": "公開トレンド: 高市陣営のAI中傷動画",
@@ -111,7 +105,7 @@
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true,
-        "retainedArticleAt": "2026-06-17T03:40:41.115Z"
+        "retainedArticleAt": "2026-06-17T08:59:50.484Z"
       },
       {
         "topic": "Oracle AI Trade",
@@ -120,7 +114,7 @@
         "appearances": 9,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-06-17T03:40:40.560Z",
+        "observedAt": "2026-06-17T08:59:49.859Z",
         "url": "https://x.com/search?q=Oracle%20AI%20Trade&src=typed_query&f=live",
         "articleTitle": "Oracle's AI datacenter splurge gives investors the capex jitters",
         "articleTitleJa": "オラクルのAIデータセンターの散財で投資家は設備投資に不安を感じている",
@@ -131,10 +125,10 @@
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-06-17T03:40:40.757Z",
+    "fetchedAt": "2026-06-17T08:59:50.087Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-06-17T03:40:43.460Z"
+    "articleFetchedAt": "2026-06-17T08:59:51.492Z"
   }
 }
