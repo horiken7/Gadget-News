@@ -202,13 +202,13 @@ function renderNews(items) {
       <a class="news-card" href="${escapeHtml(item.url)}" target="_blank" rel="noopener noreferrer">
         <div class="card-header">
           <div class="card-header-left">${rank}${category}</div>
-          <span class="buzz-count">HN ${formatNum(Number(item.points) || 0)} pt</span>
+          <span class="buzz-count">注目度 ${formatNum(Number(item.points) || 0)}</span>
         </div>
         <h2 class="card-title">${escapeHtml(displayTitle)}</h2>
         ${displaySummary ? `<p class="card-summary">${escapeHtml(displaySummary)}</p>` : ''}
         ${keyPointsHtml}
         <div class="card-footer">
-          <span class="card-source">${LINK_ICON} 出典: ${escapeHtml(item.domain || 'Hacker News')}</span>
+          <span class="card-source">${LINK_ICON} 出典: ${escapeHtml(item.domain || item.sourceLabel || 'AI News')}</span>
           ${dateDisplay ? `<span class="card-date">${escapeHtml(dateDisplay)}</span>` : ''}
           <span class="impact-badge ${impactClass}">業界インパクト：${escapeHtml(impact)}</span>
         </div>
@@ -300,7 +300,7 @@ function showDataTimestamp(fetchedAt) {
 async function load() {
   setLoading(true);
   showSkeletons();
-  heroDate.textContent = `${formatJstDate()} - Hacker Newsで注目されたAIニュースを厳選`;
+  heroDate.textContent = `${formatJstDate()} - 技術面と一般認知の両方からAIニュースを厳選`;
 
   try {
     const data = await fetchData();

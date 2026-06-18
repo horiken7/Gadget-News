@@ -2,90 +2,103 @@
   "news": {
     "items": [
       {
-        "title": "Leaked financial docs show OpenAI is losing billions of dollars a year",
-        "url": "https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year/",
-        "points": 349,
-        "comments": 4,
-        "author": "greenchair",
-        "createdAt": "2026-06-17T21:31:35Z",
-        "domain": "arstechnica.com",
-        "titleJa": "リークされた財務文書は、OpenAIが年間数十億ドルの損失を出していることを示しています",
-        "summaryJa": "監査された会計は、成長する収益が研究開発、その他の経費によって矮小化されていることを示しています。",
+        "title": "Only 16 percent of Americans think AI will have a positive impact on society, a new study shows",
+        "url": "https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/",
+        "points": 107,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-06-17T17:00:01.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
+        "category": "研究",
+        "impact": "高",
+        "titleJa": "新しい調査によると、米国人のわずか16 ％がAIが社会にプラスの影響を与えると考えています",
+        "summaryJa": "ウォール街はAIを愛しているが、毎日のようにアメリカ人はAI業界に対して楽観的ではないと、Pew Researchの新しいレポートは示している。",
         "keyPoints": [
-          "監査された会計は、成長する収益が研究開発、その他の経費によって矮小化されていることを示しています。"
-        ],
-        "category": "AIニュース",
-        "impact": "中"
+          "ウォール街はAIを愛しているが、毎日のようにアメリカ人はAI業界に対して楽観的ではないと、Pew Researchの新しいレポートは示している。"
+        ]
       },
       {
-        "title": "The founder's playbook: Building an AI-native startup",
-        "url": "https://claude.com/blog/the-founders-playbook",
-        "points": 220,
-        "comments": 157,
-        "author": "e2e4",
-        "createdAt": "2026-06-17T07:04:42Z",
-        "domain": "claude.com",
-        "titleJa": "創業者の作戦帳： AIネイティブのスタートアップを構築する",
-        "summaryJa": "AIネイティブの創業者がスタートアップジャーニーのあらゆる段階でClaudeをどのように使用しているかを、実践的なエクササイズ、フレームワーク、プロンプトで共有します。",
+        "title": "Collecting robot training data is dirty, unglamorous work. Some AI labs are already paying XDOF to do it.",
+        "url": "https://techcrunch.com/2026/06/17/collecting-robot-training-data-is-dirty-unglamorous-work-some-ai-labs-are-already-paying-xdof-to-do-it/",
+        "points": 107,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-06-17T15:00:00.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
+        "category": "ハードウェア",
+        "impact": "高",
+        "titleJa": "ロボットの訓練データを収集することは、汚い、魅力的ではない仕事です。一部のAIラボはすでにXDOFに支払いを行っています。",
+        "summaryJa": "物理的なAIがLLMの成果と一致する場合、解決する必要のあるデータの問題があります。",
         "keyPoints": [
-          "AIネイティブの創業者がスタートアップジャーニーのあらゆる段階でClaudeをどのように使用しているかを、実践的なエクササイズ、フレームワーク、プロンプトで共有します。"
-        ],
-        "category": "AIニュース",
-        "impact": "低"
-      },
-      {
-        "title": "A robot is sprinting towards you. Do you want it running on Claude or Grok?",
-        "url": "https://openrouter.ai/blog/insights/royale-last-agent-standing/",
-        "points": 204,
-        "comments": 181,
-        "author": "Usu",
-        "createdAt": "2026-06-17T21:00:07Z",
-        "domain": "openrouter.ai",
-        "titleJa": "ロボットがあなたに向かってダッシュしています。ClaudeとGrokのどちらで実行しますか？",
-        "summaryJa": "11人のLLMに渡る30ゲームのバトルロイヤル、$ 482の推論、そしてモデルベンチマークの読み方を変えるべき1つの発見。",
-        "keyPoints": [
-          "11人のLLMに渡る30ゲームのバトルロイヤル、$ 482の推論、そしてモデルベンチマークの読み方を変えるべき1つの発見。"
-        ],
-        "category": "AIモデル",
-        "impact": "中"
+          "物理的なAIがLLMの成果と一致する場合、解決する必要のあるデータの問題があります。"
+        ]
       },
       {
         "title": "Show HN: High-Res Neural Cellular Automata",
         "url": "https://cells2pixels.github.io/",
-        "points": 190,
+        "points": 101,
         "comments": 49,
         "author": "esychology",
         "createdAt": "2026-06-17T09:28:36Z",
         "domain": "cells2pixels.github.io",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "高",
+        "newsLens": "技術",
         "titleJa": "AIニュース: Show HN: High - Res Neural Cellular Automata",
         "summaryJa": "神経CAは自己組織化パターン形成をモデル化する。これで、各CAセルをニューラルフィールドに変換することで、HD解像度でリアルタイムでパターンを生成できるようになりました。3つのデモを試してみてください。シードからパターンを成長させる（そしてダメージを与えて回復させる）、再生可能なPBRテクスチャを合成する、または雲のような3 Dテクスチャを作成する。",
         "keyPoints": [
           "神経CAは自己組織化パターン形成をモデル化する。",
           "これで、各CAセルをニューラルフィールドに変換することで、HD解像度でリアルタイムでパターンを生成できるようになりました。",
           "3つのデモを試してみてください。"
-        ],
-        "category": "AIニュース",
-        "impact": "低"
+        ]
       },
       {
         "title": "Anthropic employees accuse Trump administration of targeting them",
         "url": "https://www.nytimes.com/2026/06/17/technology/anthropic-trump-administration-fable.html",
-        "points": 174,
-        "comments": 183,
+        "points": 93,
+        "comments": 185,
         "author": "thm",
         "createdAt": "2026-06-17T15:15:34Z",
         "domain": "nytimes.com",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "高",
+        "newsLens": "技術",
         "titleJa": "Anthropicの従業員は、トランプ政権が彼らをターゲットにしていると非難しています",
         "summaryJa": "「Anthropicの従業員は、トランプ政権が彼らをターゲットにしていると非難しています」に関する記事です。詳細は出典をご確認ください。",
         "keyPoints": [
           "「Anthropicの従業員は、トランプ政権が彼らをターゲットにしていると非難しています」に関する記事です。",
           "詳細は出典をご確認ください。"
-        ],
-        "category": "AIニュース",
-        "impact": "中"
+        ]
+      },
+      {
+        "title": "\"Dangerous\" AI models are coming no matter what",
+        "url": "https://arstechnica.com/ai/2026/06/dangerous-ai-models-are-coming-no-matter-what/",
+        "points": 79,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-06-17T17:50:46.000Z",
+        "domain": "arstechnica.com",
+        "sourceType": "rss",
+        "sourceLabel": "Ars Technica",
+        "newsLens": "技術",
+        "category": "AIモデル",
+        "impact": "中",
+        "titleJa": "何があっても「危険な」AIモデルがやってくる",
+        "summaryJa": "高度なハッキング機能を備えたAIモデルは、まもなく標準となるでしょう。",
+        "keyPoints": [
+          "高度なハッキング機能を備えたAIモデルは、まもなく標準となるでしょう。"
+        ]
       }
     ],
-    "fetchedAt": "2026-06-18T05:05:36.536Z",
+    "fetchedAt": "2026-06-18T05:29:22.978Z",
     "mock": false
   },
   "xTrends": {
@@ -97,7 +110,7 @@
         "appearances": 2,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-06-18T05:05:36.497Z",
+        "observedAt": "2026-06-18T05:29:22.792Z",
         "url": "https://x.com/search?q=AI%E3%82%AF%E3%83%AC%E3%82%B8%E3%83%83%E3%83%88%E5%B8%82%E5%A0%B4&src=typed_query&f=live",
         "articleTitle": "AIクレジット市場",
         "articleTitleJa": "公開トレンド: AIクレジット市場",
@@ -107,7 +120,7 @@
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true,
-        "retainedArticleAt": "2026-06-18T05:05:36.840Z"
+        "retainedArticleAt": "2026-06-18T05:29:23.285Z"
       },
       {
         "topic": "アマゾンのAI幹部",
@@ -116,7 +129,7 @@
         "appearances": 1,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-06-18T05:05:36.497Z",
+        "observedAt": "2026-06-18T05:29:22.792Z",
         "url": "https://x.com/search?q=%E3%82%A2%E3%83%9E%E3%82%BE%E3%83%B3%E3%81%AEAI%E5%B9%B9%E9%83%A8&src=typed_query&f=live",
         "articleTitle": "アマゾンのAI幹部",
         "articleTitleJa": "公開トレンド: アマゾンのAI幹部",
@@ -126,33 +139,16 @@
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true,
-        "retainedArticleAt": "2026-06-18T05:05:37.025Z"
-      },
-      {
-        "topic": "Oracle AI Trade",
-        "locationLabel": "米国",
-        "bestRank": 13,
-        "appearances": 4,
-        "trendSource": "Trends24",
-        "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-06-18T05:05:36.477Z",
-        "url": "https://x.com/search?q=Oracle%20AI%20Trade&src=typed_query&f=live",
-        "articleTitle": "Oracle's AI datacenter splurge gives investors the capex jitters",
-        "articleTitleJa": "オラクルのAIデータセンターの散財で投資家は設備投資に不安を感じている",
-        "articleUrl": "https://www.theregister.com/paas-and-iaas/2026/06/11/oracles-ai-datacenter-splurge-gives-investors-the-capex-jitters/5254035",
-        "articleSource": "theregister.com",
-        "articlePublishedAt": "2026-06-11T19:08:28Z",
-        "summaryJa": "第4四半期の売上高は21%増加したが、ウォール街は700億ドルの増強法案にもっと関心を持っている",
-        "translationVersion": 3
+        "retainedArticleAt": "2026-06-18T05:29:23.498Z"
       },
       {
         "topic": "Midjourney",
         "locationLabel": "米国",
-        "bestRank": 23,
-        "appearances": 2,
+        "bestRank": 17,
+        "appearances": 3,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-06-18T05:05:36.477Z",
+        "observedAt": "2026-06-18T05:29:22.832Z",
         "url": "https://x.com/search?q=Midjourney&src=typed_query&f=live",
         "articleTitle": "Midjourney Medical",
         "articleTitleJa": "ミッドジャーニー・メディカル",
@@ -161,12 +157,29 @@
         "articlePublishedAt": "2026-06-18T01:59:51Z",
         "summaryJa": "https://www.midjourney.com/medical ビデオ: https://x.com/midjourney/status/2067422898407837797",
         "translationVersion": 3
+      },
+      {
+        "topic": "Oracle AI Trade",
+        "locationLabel": "米国",
+        "bestRank": 36,
+        "appearances": 3,
+        "trendSource": "Trends24",
+        "sourceUrl": "https://trends24.in/united-states/",
+        "observedAt": "2026-06-18T05:29:22.832Z",
+        "url": "https://x.com/search?q=Oracle%20AI%20Trade&src=typed_query&f=live",
+        "articleTitle": "Oracle's AI datacenter splurge gives investors the capex jitters",
+        "articleTitleJa": "オラクルのAIデータセンターの散財で投資家は設備投資に不安を感じている",
+        "articleUrl": "https://www.theregister.com/paas-and-iaas/2026/06/11/oracles-ai-datacenter-splurge-gives-investors-the-capex-jitters/5254035",
+        "articleSource": "theregister.com",
+        "articlePublishedAt": "2026-06-11T19:08:28Z",
+        "summaryJa": "第4四半期の売上高は21%増加したが、ウォール街は700億ドルの増強法案にもっと関心を持っている",
+        "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-06-18T05:05:36.536Z",
+    "fetchedAt": "2026-06-18T05:29:22.978Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-06-18T05:05:37.910Z"
+    "articleFetchedAt": "2026-06-18T05:29:24.590Z"
   }
 }
