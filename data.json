@@ -85,7 +85,7 @@
         "impact": "中"
       }
     ],
-    "fetchedAt": "2026-06-18T05:04:51.222Z",
+    "fetchedAt": "2026-06-18T05:05:36.536Z",
     "mock": false
   },
   "xTrends": {
@@ -97,7 +97,7 @@
         "appearances": 2,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-06-18T05:04:50.991Z",
+        "observedAt": "2026-06-18T05:05:36.497Z",
         "url": "https://x.com/search?q=AI%E3%82%AF%E3%83%AC%E3%82%B8%E3%83%83%E3%83%88%E5%B8%82%E5%A0%B4&src=typed_query&f=live",
         "articleTitle": "AIクレジット市場",
         "articleTitleJa": "公開トレンド: AIクレジット市場",
@@ -107,7 +107,7 @@
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true,
-        "retainedArticleAt": "2026-06-18T05:04:51.621Z"
+        "retainedArticleAt": "2026-06-18T05:05:36.840Z"
       },
       {
         "topic": "アマゾンのAI幹部",
@@ -116,7 +116,7 @@
         "appearances": 1,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-06-18T05:04:50.991Z",
+        "observedAt": "2026-06-18T05:05:36.497Z",
         "url": "https://x.com/search?q=%E3%82%A2%E3%83%9E%E3%82%BE%E3%83%B3%E3%81%AEAI%E5%B9%B9%E9%83%A8&src=typed_query&f=live",
         "articleTitle": "アマゾンのAI幹部",
         "articleTitleJa": "公開トレンド: アマゾンのAI幹部",
@@ -126,7 +126,7 @@
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true,
-        "retainedArticleAt": "2026-06-18T05:04:51.863Z"
+        "retainedArticleAt": "2026-06-18T05:05:37.025Z"
       },
       {
         "topic": "Oracle AI Trade",
@@ -135,7 +135,7 @@
         "appearances": 4,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-06-18T05:04:50.929Z",
+        "observedAt": "2026-06-18T05:05:36.477Z",
         "url": "https://x.com/search?q=Oracle%20AI%20Trade&src=typed_query&f=live",
         "articleTitle": "Oracle's AI datacenter splurge gives investors the capex jitters",
         "articleTitleJa": "オラクルのAIデータセンターの散財で投資家は設備投資に不安を感じている",
@@ -152,7 +152,7 @@
         "appearances": 2,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-06-18T05:04:50.929Z",
+        "observedAt": "2026-06-18T05:05:36.477Z",
         "url": "https://x.com/search?q=Midjourney&src=typed_query&f=live",
         "articleTitle": "Midjourney Medical",
         "articleTitleJa": "ミッドジャーニー・メディカル",
@@ -163,10 +163,10 @@
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-06-18T05:04:51.222Z",
+    "fetchedAt": "2026-06-18T05:05:36.536Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-06-18T05:04:53.193Z"
+    "articleFetchedAt": "2026-06-18T05:05:37.910Z"
   }
 }

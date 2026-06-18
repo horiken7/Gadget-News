@@ -5,6 +5,12 @@ const lastUpdated = document.getElementById('last-updated');
 const heroDate = document.getElementById('hero-date');
 const heroLastUpdated = document.getElementById('hero-last-updated');
 
+const GENERIC_SUMMARY_PATTERNS = [
+  /に関する記事です/,
+  /詳細は出典をご確認ください/,
+  /詳細は出典本文をご確認ください/,
+];
+
 function skeletonNews() {
   return `
     <div class="skeleton skeleton-news">
@@ -58,6 +64,70 @@ function errorCard(message) {
   return `<div class="error-card"><span class="error-icon">!</span><span>${escapeHtml(message)}</span></div>`;
 }
 
+function comparableText(text) {
+  return String(text || '')
+    .toLowerCase()
+    .replace(/[\s\u3000、。，．・：:！？!?'"“”‘’「」『』（）()\[\]【】\-ー~〜]/g, '')
+    .trim();
+}
+
+function isDuplicateLike(a, b) {
+  const left = comparableText(a);
+  const right = comparableText(b);
+  if (!left || !right) return false;
+  if (left === right) return true;
+  const shorter = left.length < right.length ? left : right;
+  const longer = left.length < right.length ? right : left;
+  return shorter.length >= 18 && longer.includes(shorter);
+}
+
+function isLowQualitySummary(summary, title = '') {
+  if (!summary) return true;
+  if (GENERIC_SUMMARY_PATTERNS.some(pattern => pattern.test(summary))) return true;
+  if (isDuplicateLike(summary, title)) return true;
+  return comparableText(summary).length < 24;
+}
+
+function fallbackNewsCopy(item, displayTitle) {
+  const title = String(item.title || displayTitle || '').toLowerCase();
+  if (/deepseek/.test(title) && /(blacklist|security risk|entity list|commerce)/.test(title)) {
+    return {
+      summary: '米政府による中国AI企業DeepSeekなどへの輸出管理・Entity List掲載を巡る動きです。正式なブラックリスト化が保留されている点が焦点で、米中AI競争や半導体規制に影響する可能性があります。',
+      points: [
+        'DeepSeekなどの中国企業が安全保障上のリスクとして扱われています。',
+        '現時点では米商務省のEntity List掲載が正式発表されていない点が焦点です。',
+        'AI・半導体分野の米中規制強化につながる可能性があります。',
+      ],
+    };
+  }
+  return {
+    summary: item.summaryJa || '',
+    points: [],
+  };
+}
+
+function getDisplaySummary(item, displayTitle) {
+  const fallback = fallbackNewsCopy(item, displayTitle);
+  return isLowQualitySummary(item.summaryJa, displayTitle) ? fallback.summary : item.summaryJa;
+}
+
+function getDisplayKeyPoints(item, displayTitle, displaySummary) {
+  const fallback = fallbackNewsCopy(item, displayTitle);
+  const candidates = Array.isArray(item.keyPoints) && item.keyPoints.length > 0
+    ? item.keyPoints
+    : fallback.points;
+  const unique = [];
+
+  for (const point of [...candidates, ...fallback.points]) {
+    if (!point) continue;
+    if (isDuplicateLike(point, displayTitle) || isDuplicateLike(point, displaySummary)) continue;
+    if (unique.some(existing => isDuplicateLike(existing, point))) continue;
+    unique.push(point);
+    if (unique.length >= 3) break;
+  }
+  return unique;
+}
+
 function formatJstDate(instant = new Date()) {
   return new Intl.DateTimeFormat('ja-JP', {
     timeZone: 'Asia/Tokyo',
@@ -108,10 +178,13 @@ function renderNews(items) {
       : '';
     const impact = item.impact ?? (item.points >= 1000 ? '高' : item.points >= 500 ? '中' : '低');
     const impactClass = impact === '高' ? 'impact-high' : impact === '中' ? 'impact-mid' : 'impact-low';
-    const keyPointsHtml = item.keyPoints?.length
+    const displayTitle = item.titleJa || item.title;
+    const displaySummary = getDisplaySummary(item, displayTitle);
+    const keyPoints = getDisplayKeyPoints(item, displayTitle, displaySummary);
+    const keyPointsHtml = keyPoints.length
       ? `<div class="key-points">
           <div class="key-points-label">KEY POINTS</div>
-          <ul>${item.keyPoints.map(point => `<li>${escapeHtml(point)}</li>`).join('')}</ul>
+          <ul>${keyPoints.map(point => `<li>${escapeHtml(point)}</li>`).join('')}</ul>
         </div>`
       : '';
     const articleDate = item.createdAt
@@ -131,8 +204,8 @@ function renderNews(items) {
           <div class="card-header-left">${rank}${category}</div>
           <span class="buzz-count">HN ${formatNum(Number(item.points) || 0)} pt</span>
         </div>
-        <h2 class="card-title">${escapeHtml(item.titleJa || item.title)}</h2>
-        ${item.summaryJa ? `<p class="card-summary">${escapeHtml(item.summaryJa)}</p>` : ''}
+        <h2 class="card-title">${escapeHtml(displayTitle)}</h2>
+        ${displaySummary ? `<p class="card-summary">${escapeHtml(displaySummary)}</p>` : ''}
         ${keyPointsHtml}
         <div class="card-footer">
           <span class="card-source">${LINK_ICON} 出典: ${escapeHtml(item.domain || 'Hacker News')}</span>
