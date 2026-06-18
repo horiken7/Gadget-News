@@ -6,6 +6,33 @@ const PUBLISHED_DATA_URL = 'https://horiken7.github.io/AI-news/data.json';
 const USER_AGENT = 'AI-news updater/2.0 (+https://github.com/horiken7/AI-news)';
 const QUERY_TERMS = ['AI', 'LLM', 'OpenAI', 'Anthropic', 'Claude', 'GPT', 'machine learning', 'Gemini', 'DeepSeek', 'Grok', 'Sora', 'Copilot'];
 const AI_KEYWORDS = /\b(ai|artificial intelligence|llm|machine learning|deep learning|openai|anthropic|deepseek|gemini|grok|sora|copilot|gpt|claude|chatgpt|neural|diffusion|generative|midjourney|stable diffusion|hugging face|transformer|agentic|inference)\b/i;
+const GDELT_QUERY = [
+  '"artificial intelligence"', '"generative AI"', '"large language model"',
+  '"AI agent"', '"AI safety"', '"AI regulation"', '"AI summit"', 'deepfake',
+  'ChatGPT', 'Claude', 'Gemini', 'OpenAI', 'Anthropic', 'DeepMind',
+].join(' OR ');
+const RSS_FEEDS = [
+  {
+    url: 'https://techcrunch.com/category/artificial-intelligence/feed/',
+    label: 'TechCrunch AI',
+    lens: '一般',
+  },
+  {
+    url: 'https://www.theverge.com/rss/ai-artificial-intelligence/index.xml',
+    label: 'The Verge AI',
+    lens: '一般',
+  },
+  {
+    url: 'https://venturebeat.com/category/ai/feed/',
+    label: 'VentureBeat AI',
+    lens: '技術',
+  },
+  {
+    url: 'https://feeds.arstechnica.com/arstechnica/technology-lab',
+    label: 'Ars Technica',
+    lens: '技術',
+  },
+];
 const JAPANESE_TEXT = /[\u3040-\u30ff\u3400-\u9fff]/;
 const BRAND_TERMS = [
   { source: /\bAnthropic\b/i, name: 'Anthropic', replacements: [/人類/g, /アンソロピック/g, /アンスロピック/g] },
@@ -32,6 +59,25 @@ const AI_TREND_TERMS = [
   'generative ai', '生成ai', '生成AI', '人工知能', 'チャットgpt', 'チャットGPT',
   'クロード', 'ジェミニ', 'ディープシーク', 'ディープマインド', 'コパイロット',
 ];
+const TECH_SIGNALS = /\b(model|llm|benchmark|eval|inference|training|dataset|open source|open-source|agent|agents|coding|developer|api|security|vulnerability|jailbreak|red[- ]team|robotics|multimodal|vision|chip|gpu|datacenter|research|paper|arxiv|github|hugging face)\b/i;
+const PUBLIC_SIGNALS = /\b(summit|government|policy|regulation|copyright|lawsuit|election|school|education|health|jobs|workers|deepfake|safety|security|privacy|ceo|minister|president|g7|white house|eu|china|japan)\b/i;
+const TECH_DOMAINS = new Set([
+  'arstechnica.com', 'theverge.com', 'wired.com', 'techcrunch.com', 'venturebeat.com',
+  'theregister.com', 'spectrum.ieee.org', 'technologyreview.com', 'huggingface.co',
+  'github.blog', 'developer.nvidia.com', 'semianalysis.com', 'stratechery.com',
+  'simonwillison.net', 'news.ycombinator.com', 'arxiv.org',
+]);
+const PUBLIC_DOMAINS = new Set([
+  'reuters.com', 'apnews.com', 'bbc.com', 'bbc.co.uk', 'nytimes.com', 'washingtonpost.com',
+  'theguardian.com', 'axios.com', 'businessinsider.com', 'wsj.com', 'ft.com',
+  'bloomberg.com', 'npr.org', 'cnn.com', 'theatlantic.com', 'forbes.com',
+  'fortune.com', 'cnbc.com',
+]);
+const LOW_QUALITY_DOMAIN_PARTS = [
+  'coupon', 'casino', 'betting', 'pressrelease', 'prnewswire', 'globenewswire',
+];
+const BUSINESS_ONLY_SIGNALS = /\b(funding|valuation|ipo|stock|shares|revenue|losses|earnings|startup|founder|acquisition|acquire|partnership|roi|financial docs)\b/i;
+const HARD_BUSINESS_SIGNALS = /\b(ipo|stock|shares|revenue|losses|earnings|valuation|funding|financial docs|roi reckoning)\b/i;
 
 async function fetchWithTimeout(url, options = {}, timeoutMs = 10000) {
   const controller = new AbortController();
@@ -99,12 +145,236 @@ async function fetchNewsForWindow(hours) {
 }
 
 async function fetchNews() {
-  for (const hours of [24, 72, 168]) {
-    const items = await fetchNewsForWindow(hours);
-    console.log(`Found ${items.length} AI stories in the last ${hours} hours`);
-    if (items.length === 5) return items;
+  for (const window of [
+    { hours: 24, gdeltTimespan: '1d' },
+    { hours: 72, gdeltTimespan: '3d' },
+    { hours: 168, gdeltTimespan: '7d' },
+  ]) {
+    const [gdeltItems, hnItems] = await Promise.allSettled([
+      fetchGdeltNews(window.gdeltTimespan),
+      fetchNewsForWindow(window.hours),
+    ]);
+    const rssItems = await fetchRssNews(window.hours);
+    const merged = mergeNewsCandidates([
+      ...rssItems,
+      ...(gdeltItems.status === 'fulfilled' ? gdeltItems.value : []),
+      ...(hnItems.status === 'fulfilled' ? hnItems.value.map(item => ({ ...item, sourceType: 'hn' })) : []),
+    ]);
+
+    if (gdeltItems.status === 'rejected') {
+      console.warn(`GDELT news fetch failed: ${gdeltItems.reason.message}`);
+    }
+    if (hnItems.status === 'rejected') {
+      console.warn(`Hacker News fetch failed: ${hnItems.reason.message}`);
+    }
+
+    console.log(`Found ${merged.length} balanced AI stories in the last ${window.hours} hours`);
+    if (merged.length >= 5) return merged.slice(0, 5);
   }
   throw new Error('Could not find five recent AI stories');
+}
+
+async function fetchRssNews(hours) {
+  const cutoff = Date.now() - hours * 3600 * 1000;
+  const settled = await Promise.allSettled(RSS_FEEDS.map(async feed => {
+    const response = await fetchWithTimeout(feed.url, {
+      headers: { Accept: 'application/rss+xml, application/xml, text/xml' },
+    }, 15000);
+    if (!response.ok) throw new Error(`${feed.url} returned ${response.status}`);
+    return parseRssFeed(await response.text(), feed, cutoff);
+  }));
+
+  return settled.flatMap((result, index) => {
+    if (result.status === 'fulfilled') return result.value;
+    console.warn(`RSS feed failed: ${RSS_FEEDS[index].label}: ${result.reason.message}`);
+    return [];
+  });
+}
+
+function parseRssFeed(xml, feed, cutoff) {
+  return [...String(xml).matchAll(/<item\b[\s\S]*?<\/item>/gi)]
+    .map(match => parseRssItem(match[0], feed))
+    .filter(item => item.url && item.title && Date.parse(item.createdAt) >= cutoff)
+    .filter(item => AI_KEYWORDS.test(`${item.title} ${item.storyText}`))
+    .filter(item => !isLowQualityDomain(item.domain));
+}
+
+function parseRssItem(itemXml, feed) {
+  const title = stripHtml(extractXmlValue(itemXml, 'title'));
+  const url = cleanFeedUrl(extractXmlValue(itemXml, 'link') || extractXmlValue(itemXml, 'guid'));
+  const createdAt = parseFeedDate(extractXmlValue(itemXml, 'pubDate') || extractXmlValue(itemXml, 'updated'));
+  const description = stripHtml(extractXmlValue(itemXml, 'description') || extractXmlValue(itemXml, 'content:encoded'));
+  const domain = extractDomain(url);
+
+  return {
+    title,
+    url,
+    points: scoreNewsCandidate({ title, storyText: description, domain, sourceType: 'rss', createdAt, newsLens: feed.lens }),
+    comments: 0,
+    author: '',
+    createdAt,
+    domain,
+    storyText: description.slice(0, 450),
+    sourceType: 'rss',
+    sourceLabel: feed.label,
+    newsLens: feed.lens,
+  };
+}
+
+function extractXmlValue(xml, tagName) {
+  const escaped = tagName.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+  const match = String(xml).match(new RegExp(`<${escaped}\\b[^>]*>([\\s\\S]*?)<\\/${escaped}>`, 'i'));
+  return decodeHtml(match?.[1] || '').replace(/<!\[CDATA\[|\]\]>/g, '').trim();
+}
+
+function cleanFeedUrl(url) {
+  return decodeHtml(String(url || '').trim());
+}
+
+function parseFeedDate(value) {
+  const parsed = Date.parse(value);
+  return Number.isFinite(parsed) ? new Date(parsed).toISOString() : new Date().toISOString();
+}
+
+async function fetchGdeltNews(timespan) {
+  const params = new URLSearchParams({
+    query: `(${GDELT_QUERY})`,
+    mode: 'artlist',
+    format: 'json',
+    maxrecords: '60',
+    timespan,
+    sort: 'datedesc',
+  });
+  const data = await fetchJson(`https://api.gdeltproject.org/api/v2/doc/doc?${params}`, 20000);
+  const articles = Array.isArray(data.articles) ? data.articles : [];
+
+  return articles
+    .filter(article => article?.url && article.title)
+    .map(article => {
+      const domain = extractDomain(article.url);
+      const title = stripHtml(article.title);
+      const createdAt = parseGdeltDate(article.seendate || article.datetime);
+
+      return {
+        title,
+        url: article.url,
+        points: scoreNewsCandidate({ title, storyText: '', domain, sourceType: 'gdelt', createdAt }),
+        comments: 0,
+        author: '',
+        createdAt,
+        domain,
+        storyText: '',
+        sourceType: 'gdelt',
+        sourceLabel: 'GDELT',
+      };
+    })
+    .filter(item => AI_KEYWORDS.test(`${item.title} ${item.storyText}`))
+    .filter(item => !isLowQualityDomain(item.domain));
+}
+
+function parseGdeltDate(value) {
+  const raw = String(value || '');
+  const match = raw.match(/^(\d{4})(\d{2})(\d{2})T?(\d{2})(\d{2})(\d{2})Z?$/);
+  if (match) {
+    const [, year, month, day, hour, minute, second] = match;
+    return `${year}-${month}-${day}T${hour}:${minute}:${second}Z`;
+  }
+  const parsed = Date.parse(raw);
+  return Number.isFinite(parsed) ? new Date(parsed).toISOString() : new Date().toISOString();
+}
+
+function isLowQualityDomain(domain) {
+  return LOW_QUALITY_DOMAIN_PARTS.some(part => domain.includes(part));
+}
+
+function mergeNewsCandidates(candidates) {
+  const unique = new Map();
+
+  for (const candidate of candidates) {
+    const key = normalizeNewsKey(candidate.url, candidate.title);
+    const existing = unique.get(key);
+    const scored = {
+      ...candidate,
+      points: scoreNewsCandidate(candidate),
+      category: inferCategory(candidate.title),
+      impact: inferImpact(candidate),
+      newsLens: inferNewsLens(candidate),
+    };
+
+    if (!existing || scored.points > existing.points) unique.set(key, scored);
+  }
+
+  const values = [...unique.values()];
+  const tech = values
+    .filter(item => item.newsLens === '技術')
+    .sort((left, right) => right.points - left.points);
+  const publicInterest = values
+    .filter(item => item.newsLens === '一般')
+    .sort((left, right) => right.points - left.points);
+  const rest = values
+    .filter(item => item.newsLens !== '技術' && item.newsLens !== '一般')
+    .sort((left, right) => right.points - left.points);
+  const balanced = [];
+
+  for (const item of [tech[0], publicInterest[0], tech[1], publicInterest[1], ...rest, ...tech.slice(2), ...publicInterest.slice(2)]) {
+    if (!item || balanced.some(existing => existing.url === item.url)) continue;
+    balanced.push(item);
+    if (balanced.length >= 5) break;
+  }
+
+  return balanced.sort((left, right) => right.points - left.points);
+}
+
+function normalizeNewsKey(url, title) {
+  const domain = extractDomain(url);
+  const normalizedTitle = String(title || '')
+    .toLowerCase()
+    .replace(/[^a-z0-9\u3040-\u30ff\u3400-\u9fff]+/g, ' ')
+    .trim()
+    .slice(0, 80);
+  return `${domain}:${normalizedTitle}`;
+}
+
+function scoreNewsCandidate(item) {
+  const text = `${item.title || ''} ${item.storyText || ''}`;
+  const domain = item.domain || extractDomain(item.url);
+  const ageHours = Math.max(0, (Date.now() - Date.parse(item.createdAt || new Date())) / 3600000);
+  let score = 25;
+
+  if (TECH_SIGNALS.test(text)) score += 28;
+  if (PUBLIC_SIGNALS.test(text)) score += 26;
+  if (TECH_DOMAINS.has(domain)) score += 20;
+  if (PUBLIC_DOMAINS.has(domain)) score += 20;
+  if (item.sourceType === 'hn') score += Math.min(32, Number(item.points || 0) / 4);
+  if (item.sourceType === 'gdelt') score += 12;
+  if (item.sourceType === 'rss') score += 18;
+  if (ageHours <= 24) score += 16;
+  else if (ageHours <= 72) score += 8;
+  if (/\b(video|podcast|live updates)\b/i.test(text)) score -= 8;
+  if (HARD_BUSINESS_SIGNALS.test(text)) score -= 42;
+  if (BUSINESS_ONLY_SIGNALS.test(text) && !TECH_SIGNALS.test(text) && !PUBLIC_SIGNALS.test(text)) score -= 22;
+  if (BUSINESS_ONLY_SIGNALS.test(text)) score -= 18;
+  if (isLowQualityDomain(domain)) score -= 35;
+
+  return Math.round(score);
+}
+
+function inferNewsLens(item) {
+  if (item.newsLens) return item.newsLens;
+  const text = `${item.title || ''} ${item.storyText || ''}`;
+  const hasTech = TECH_SIGNALS.test(text);
+  const hasPublic = PUBLIC_SIGNALS.test(text);
+
+  if (hasTech && !hasPublic) return '技術';
+  if (hasPublic && !hasTech) return '一般';
+  if (hasTech && hasPublic) return item.sourceType === 'hn' ? '技術' : '一般';
+  return item.sourceType === 'hn' ? '技術' : '一般';
+}
+
+function inferImpact(item) {
+  if (item.points >= 85) return '高';
+  if (item.points >= 60) return '中';
+  return '低';
 }
 
 function extractDomain(url) {
@@ -345,8 +615,8 @@ async function localizeItem(item, cache) {
       titleJa,
       summaryJa,
       keyPoints,
-      category: cached.category || inferCategory(item.title),
-      impact: cached.impact || '低',
+      category: item.category || cached.category || inferCategory(item.title),
+      impact: item.impact || cached.impact || '低',
     };
   }
 
@@ -393,7 +663,7 @@ async function localizeItem(item, cache) {
     summaryJa,
     keyPoints: buildKeyPoints(summaryJa),
     category: inferCategory(item.title),
-    impact: item.points >= 500 ? '高' : item.points >= 100 ? '中' : '低',
+    impact: item.impact || inferImpact(item),
   };
 }
 
