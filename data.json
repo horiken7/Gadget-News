@@ -5,7 +5,7 @@
         "title": "Anthropic employees accuse Trump administration of targeting them",
         "url": "https://www.nytimes.com/2026/06/17/technology/anthropic-trump-administration-fable.html",
         "points": 119,
-        "comments": 185,
+        "comments": 189,
         "author": "thm",
         "createdAt": "2026-06-17T15:15:34Z",
         "domain": "nytimes.com",
@@ -46,7 +46,7 @@
         "title": "Show HN: High-Res Neural Cellular Automata",
         "url": "https://cells2pixels.github.io/",
         "points": 101,
-        "comments": 49,
+        "comments": 50,
         "author": "esychology",
         "createdAt": "2026-06-17T09:28:36Z",
         "domain": "cells2pixels.github.io",
@@ -60,6 +60,26 @@
           "神経CAは自己組織化パターン形成をモデル化する。",
           "これで、各CAセルをニューラルフィールドに変換することで、HD解像度でリアルタイムでパターンを生成できるようになりました。",
           "3つのデモを試してみてください。"
+        ]
+      },
+      {
+        "title": "Launch HN: Adam (YC W25) – Open-Source AI CAD",
+        "url": "https://github.com/Adam-CAD/CADAM",
+        "points": 101,
+        "comments": 86,
+        "author": "zachdive",
+        "createdAt": "2026-06-17T16:14:04Z",
+        "domain": "github.com",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "ローンチHN ： Adam (YC W 25) –オープンソースAI CAD",
+        "summaryJa": "この記事は「ローンチHN ： Adam (YC W 25) –オープンソースAI CAD」を扱っています。機械式CADソフトウェア用のAIエージェントを構築しています。私たちは2つの基本的な信念に基づいて会社を設立しました。",
+        "keyPoints": [
+          "この記事は「ローンチHN ： Adam (YC W 25) –オープンソースAI CAD」を扱っています。",
+          "機械式CADソフトウェア用のAIエージェントを構築しています。",
+          "私たちは2つの基本的な信念に基づいて会社を設立しました。"
         ]
       },
       {
@@ -82,33 +102,31 @@
           "高度なハッキング機能を備えたAIモデルは、まもなく標準となるでしょう。",
           "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
-      },
-      {
-        "title": "A robot is sprinting towards you. Do you want it running on Claude or Grok?",
-        "url": "https://openrouter.ai/blog/insights/royale-last-agent-standing/",
-        "points": 73,
-        "comments": 183,
-        "author": "Usu",
-        "createdAt": "2026-06-17T21:00:07Z",
-        "domain": "openrouter.ai",
-        "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "ロボットがあなたに向かってダッシュしています。ClaudeとGrokのどちらで実行しますか？",
-        "summaryJa": "この記事は「ロボットがあなたに向かってダッシュしています。ClaudeとGrokのどちらで実行しますか？」を扱っています。11人のLLMに渡る30ゲームのバトルロイヤル、$ 482の推論、そしてモデルベンチマークの読み方を変えるべき1つの発見。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
-        "keyPoints": [
-          "この記事は「ロボットがあなたに向かってダッシュしています。",
-          "ClaudeとGrokのどちらで実行しますか。",
-          "11人のLLMに渡る30ゲームのバトルロイヤル、$ 482の推論、そしてモデルベンチマークの読み方を変えるべき1つの発見。"
-        ]
       }
     ],
-    "fetchedAt": "2026-06-18T05:41:15.445Z",
+    "fetchedAt": "2026-06-18T08:42:08.697Z",
     "mock": false
   },
   "xTrends": {
     "items": [
+      {
+        "topic": "大手AI企業",
+        "locationLabel": "日本",
+        "bestRank": 15,
+        "appearances": 3,
+        "trendSource": "Trends24",
+        "sourceUrl": "https://trends24.in/japan/",
+        "observedAt": "2026-06-18T08:42:08.552Z",
+        "url": "https://x.com/search?q=%E5%A4%A7%E6%89%8BAI%E4%BC%81%E6%A5%AD&src=typed_query&f=live",
+        "articleTitle": "大手AI企業",
+        "articleTitleJa": "公開トレンド: 大手AI企業",
+        "articleUrl": "https://trends24.in/japan/",
+        "articleSource": "Trends24",
+        "articlePublishedAt": "2026-06-18T08:42:08.552Z",
+        "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
+        "translationVersion": 3,
+        "articleFallback": true
+      },
       {
         "topic": "AIクレジット市場",
         "locationLabel": "日本",
@@ -116,7 +134,7 @@
         "appearances": 2,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-06-18T05:41:15.149Z",
+        "observedAt": "2026-06-18T08:42:08.552Z",
         "url": "https://x.com/search?q=AI%E3%82%AF%E3%83%AC%E3%82%B8%E3%83%83%E3%83%88%E5%B8%82%E5%A0%B4&src=typed_query&f=live",
         "articleTitle": "AIクレジット市場",
         "articleTitleJa": "公開トレンド: AIクレジット市場",
@@ -126,7 +144,7 @@
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true,
-        "retainedArticleAt": "2026-06-18T05:41:15.887Z"
+        "retainedArticleAt": "2026-06-18T08:42:09.190Z"
       },
       {
         "topic": "アマゾンのAI幹部",
@@ -135,7 +153,7 @@
         "appearances": 1,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-06-18T05:41:15.149Z",
+        "observedAt": "2026-06-18T08:42:08.552Z",
         "url": "https://x.com/search?q=%E3%82%A2%E3%83%9E%E3%82%BE%E3%83%B3%E3%81%AEAI%E5%B9%B9%E9%83%A8&src=typed_query&f=live",
         "articleTitle": "アマゾンのAI幹部",
         "articleTitleJa": "公開トレンド: アマゾンのAI幹部",
@@ -145,33 +163,16 @@
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true,
-        "retainedArticleAt": "2026-06-18T05:41:16.139Z"
-      },
-      {
-        "topic": "Oracle AI Trade",
-        "locationLabel": "米国",
-        "bestRank": 13,
-        "appearances": 4,
-        "trendSource": "Trends24",
-        "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-06-18T05:41:15.006Z",
-        "url": "https://x.com/search?q=Oracle%20AI%20Trade&src=typed_query&f=live",
-        "articleTitle": "Oracle's AI datacenter splurge gives investors the capex jitters",
-        "articleTitleJa": "オラクルのAIデータセンターの散財で投資家は設備投資に不安を感じている",
-        "articleUrl": "https://www.theregister.com/paas-and-iaas/2026/06/11/oracles-ai-datacenter-splurge-gives-investors-the-capex-jitters/5254035",
-        "articleSource": "theregister.com",
-        "articlePublishedAt": "2026-06-11T19:08:28Z",
-        "summaryJa": "第4四半期の売上高は21%増加したが、ウォール街は700億ドルの増強法案にもっと関心を持っている",
-        "translationVersion": 3
+        "retainedArticleAt": "2026-06-18T08:42:09.374Z"
       },
       {
         "topic": "Midjourney",
         "locationLabel": "米国",
-        "bestRank": 23,
-        "appearances": 2,
+        "bestRank": 7,
+        "appearances": 6,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-06-18T05:41:15.006Z",
+        "observedAt": "2026-06-18T08:42:08.530Z",
         "url": "https://x.com/search?q=Midjourney&src=typed_query&f=live",
         "articleTitle": "Midjourney Medical",
         "articleTitleJa": "ミッドジャーニー・メディカル",
@@ -180,12 +181,29 @@
         "articlePublishedAt": "2026-06-18T01:59:51Z",
         "summaryJa": "https://www.midjourney.com/medical ビデオ: https://x.com/midjourney/status/2067422898407837797",
         "translationVersion": 3
+      },
+      {
+        "topic": "Oracle AI Trade",
+        "locationLabel": "米国",
+        "bestRank": 36,
+        "appearances": 1,
+        "trendSource": "Trends24",
+        "sourceUrl": "https://trends24.in/united-states/",
+        "observedAt": "2026-06-18T08:42:08.530Z",
+        "url": "https://x.com/search?q=Oracle%20AI%20Trade&src=typed_query&f=live",
+        "articleTitle": "Oracle's AI datacenter splurge gives investors the capex jitters",
+        "articleTitleJa": "オラクルのAIデータセンターの散財で投資家は設備投資に不安を感じている",
+        "articleUrl": "https://www.theregister.com/paas-and-iaas/2026/06/11/oracles-ai-datacenter-splurge-gives-investors-the-capex-jitters/5254035",
+        "articleSource": "theregister.com",
+        "articlePublishedAt": "2026-06-11T19:08:28Z",
+        "summaryJa": "第4四半期の売上高は21%増加したが、ウォール街は700億ドルの増強法案にもっと関心を持っている",
+        "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-06-18T05:41:15.445Z",
+    "fetchedAt": "2026-06-18T08:42:08.697Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
-    "partial": true,
-    "articleFetchedAt": "2026-06-18T05:41:17.268Z"
+    "partial": false,
+    "articleFetchedAt": "2026-06-18T08:42:10.386Z"
   }
 }
