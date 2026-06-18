@@ -2,51 +2,52 @@
   "news": {
     "items": [
       {
-        "title": "The hacker sent by Anthropic to calm the government's nerves about AI safety",
-        "url": "https://www.wsj.com/tech/ai/anthropic-mythos-safety-nicholas-carlini-20bceaa3",
-        "points": 108,
-        "comments": 89,
-        "author": "Brajeshwar",
-        "createdAt": "2026-06-17T19:22:02Z",
-        "domain": "wsj.com",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "高",
-        "newsLens": "一般",
-        "titleJa": "人工知能の安全性に関する政府の神経を落ち着かせるためにAnthropicが派遣したハッカー",
-        "summaryJa": "この記事は「人工知能の安全性に関する政府の神経を落ち着かせるためにAnthropicが派遣したハッカー」を扱っています。wsj.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
-        "keyPoints": [
-          "この記事は「人工知能の安全性に関する政府の神経を落ち着かせるためにAnthropicが派遣したハッカー」を扱っています。",
-          "wsj.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
-        ]
-      },
-      {
-        "title": "Only 16 percent of Americans think AI will have a positive impact on society, a new study shows",
-        "url": "https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/",
-        "points": 107,
+        "title": "Amazon hopes to challenge Nvidia more directly by selling its AI chips",
+        "url": "https://techcrunch.com/2026/06/18/amazon-hopes-to-challenge-nvidia-more-directly-by-selling-its-ai-chips/",
+        "points": 105,
         "comments": 0,
         "author": "",
-        "createdAt": "2026-06-17T17:00:01.000Z",
+        "createdAt": "2026-06-18T18:22:13.000Z",
         "domain": "techcrunch.com",
         "sourceType": "rss",
         "sourceLabel": "TechCrunch AI",
         "newsLens": "一般",
-        "category": "研究",
+        "category": "ハードウェア",
         "impact": "高",
-        "titleJa": "新しい調査によると、米国人のわずか16 ％がAIが社会にプラスの影響を与えると考えています",
-        "summaryJa": "この記事は「新しい調査によると、米国人のわずか16 ％がAIが社会にプラスの影響を与えると考えています」を扱っています。ウォール街はAIを愛しているが、毎日のようにアメリカ人はAI業界に対して楽観的ではないと、Pew Researchの新しいレポートは示している。一般向けには、AIが社会にどう受け止められ、どの分野で使われ始めているかを知る材料になります。",
+        "titleJa": "アマゾンは、AIチップを販売することで、より直接的にNVIDIAに挑戦したいと考えている",
+        "summaryJa": "この記事は「アマゾンは、AIチップを販売することで、より直接的にNVIDIAに挑戦したいと考えている」を扱っています。AWSは、チップを他のデータセンターに販売することについて話し合っています。最高経営責任者（ CEO ）のAndy Jassy氏は、これは同社にとって500億$のチャンスであると述べています。",
         "keyPoints": [
-          "この記事は「新しい調査によると、米国人のわずか16 ％がAIが社会にプラスの影響を与えると考えています」を扱っています。",
-          "ウォール街はAIを愛しているが、毎日のようにアメリカ人はAI業界に対して楽観的ではないと、Pew Researchの新しいレポートは示している。",
-          "一般向けには、AIが社会にどう受け止められ、どの分野で使われ始めているかを知る材料になります。"
+          "この記事は「アマゾンは、AIチップを販売することで、より直接的にNVIDIAに挑戦したいと考えている」を扱っています。",
+          "AWSは、チップを他のデータセンターに販売することについて話し合っています。",
+          "最高経営責任者（ CEO ）のAndy Jassy氏は、これは同社にとって500億$のチャンスであると述べています。"
+        ]
+      },
+      {
+        "title": "AI data centers just got a government-mandated fast lane to the grid",
+        "url": "https://techcrunch.com/2026/06/18/ai-data-centers-just-got-a-government-mandated-fast-lane-to-the-grid/",
+        "points": 105,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-06-18T17:49:23.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
+        "category": "AIニュース",
+        "impact": "高",
+        "titleJa": "AIデータセンターは、政府が義務付けたグリッドへの高速レーンを取得しました",
+        "summaryJa": "この記事は「AIデータセンターは、政府が義務付けたグリッドへの高速レーンを取得しました」を扱っています。FERCは、グリッド事業者に相互接続のための高速レーンをデータセンターに与えるように指示しましたが、電力供給不足に対処できませんでした。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "keyPoints": [
+          "この記事は「AIデータセンターは、政府が義務付けたグリッドへの高速レーンを取得しました」を扱っています。",
+          "FERCは、グリッド事業者に相互接続のための高速レーンをデータセンターに与えるように指示しましたが、電力供給不足に対処できませんでした。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       },
       {
         "title": "DeepSeek Introduces Vision",
         "url": "https://chat.deepseek.com/",
         "points": 101,
-        "comments": 140,
+        "comments": 164,
         "author": "RIshabh235",
         "createdAt": "2026-06-18T06:17:40Z",
         "domain": "chat.deepseek.com",
@@ -63,31 +64,30 @@
         ]
       },
       {
-        "title": "\"Dangerous\" AI models are coming no matter what",
-        "url": "https://arstechnica.com/ai/2026/06/dangerous-ai-models-are-coming-no-matter-what/",
-        "points": 79,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-06-17T17:50:46.000Z",
-        "domain": "arstechnica.com",
-        "sourceType": "rss",
-        "sourceLabel": "Ars Technica",
-        "newsLens": "技術",
-        "category": "AIモデル",
+        "title": "Launch HN: TesterArmy (YC P26) – Agents that test web and mobile apps",
+        "url": "https://tester.army",
+        "points": 86,
+        "comments": 32,
+        "author": "okwasniewski",
+        "createdAt": "2026-06-18T14:49:44Z",
+        "domain": "tester.army",
+        "sourceType": "hn",
+        "category": "AIニュース",
         "impact": "中",
-        "titleJa": "何があっても「危険な」AIモデルがやってくる",
-        "summaryJa": "この記事は「何があっても「危険な」AIモデルがやってくる」を扱っています。高度なハッキング機能を備えたAIモデルは、まもなく標準となるでしょう。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "newsLens": "技術",
+        "titleJa": "HNを起動: TesterArmy (YC P 26) –ウェブおよびモバイルアプリをテストするエージェント",
+        "summaryJa": "この記事は「HNを起動: TesterArmy (YC P 26) –ウェブおよびモバイルアプリをテストするエージェント」を扱っています。TesterArmyは、展開前および本番稼働中にエンドツーエンドのチェックを実行するエージェント型テストプラットフォームです。手動テストや静的スクリプトのメンテナンスに時間を費やす代わりに、自然言語でテストを指定し、その間のすべてを処理できます。",
         "keyPoints": [
-          "この記事は「何があっても「危険な」AIモデルがやってくる」を扱っています。",
-          "高度なハッキング機能を備えたAIモデルは、まもなく標準となるでしょう。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+          "この記事は「HNを起動: TesterArmy (YC P 26) –ウェブおよびモバイルアプリをテストするエージェント」を扱っています。",
+          "TesterArmyは、展開前および本番稼働中にエンドツーエンドのチェックを実行するエージェント型テストプラットフォームです。",
+          "手動テストや静的スクリプトのメンテナンスに時間を費やす代わりに、自然言語でテストを指定し、その間のすべてを処理できます。"
         ]
       },
       {
         "title": "A robot is sprinting towards you. Do you want it running on Claude or Grok?",
         "url": "https://openrouter.ai/blog/insights/royale-last-agent-standing/",
         "points": 73,
-        "comments": 201,
+        "comments": 202,
         "author": "Usu",
         "createdAt": "2026-06-17T21:00:07Z",
         "domain": "openrouter.ai",
@@ -104,7 +104,7 @@
         ]
       }
     ],
-    "fetchedAt": "2026-06-18T16:27:07.807Z",
+    "fetchedAt": "2026-06-18T19:24:49.168Z",
     "mock": false
   },
   "xTrends": {
@@ -116,7 +116,7 @@
         "appearances": 3,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-06-18T16:27:07.644Z",
+        "observedAt": "2026-06-18T19:24:49.058Z",
         "url": "https://x.com/search?q=%E5%A4%A7%E6%89%8BAI%E4%BC%81%E6%A5%AD&src=typed_query&f=live",
         "articleTitle": "大手AI企業",
         "articleTitleJa": "公開トレンド: 大手AI企業",
@@ -126,7 +126,7 @@
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true,
-        "retainedArticleAt": "2026-06-18T16:27:08.439Z"
+        "retainedArticleAt": "2026-06-18T19:24:49.575Z"
       },
       {
         "topic": "アマゾンのAI幹部",
@@ -135,7 +135,7 @@
         "appearances": 1,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-06-18T16:27:07.644Z",
+        "observedAt": "2026-06-18T19:24:49.058Z",
         "url": "https://x.com/search?q=%E3%82%A2%E3%83%9E%E3%82%BE%E3%83%B3%E3%81%AEAI%E5%B9%B9%E9%83%A8&src=typed_query&f=live",
         "articleTitle": "アマゾンのAI幹部",
         "articleTitleJa": "公開トレンド: アマゾンのAI幹部",
@@ -145,7 +145,7 @@
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true,
-        "retainedArticleAt": "2026-06-18T16:27:08.680Z"
+        "retainedArticleAt": "2026-06-18T19:24:49.843Z"
       },
       {
         "topic": "Midjourney",
@@ -154,7 +154,7 @@
         "appearances": 18,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-06-18T16:27:07.508Z",
+        "observedAt": "2026-06-18T19:24:49.110Z",
         "url": "https://x.com/search?q=Midjourney&src=typed_query&f=live",
         "articleTitle": "Midjourney Medical",
         "articleTitleJa": "ミッドジャーニー・メディカル",
@@ -171,21 +171,21 @@
         "appearances": 2,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-06-18T16:27:07.508Z",
+        "observedAt": "2026-06-18T19:24:49.110Z",
         "url": "https://x.com/search?q=Oracle%20AI%20Trade&src=typed_query&f=live",
-        "articleTitle": "Oracle's AI datacenter splurge gives investors the capex jitters",
-        "articleTitleJa": "オラクルのAIデータセンターの散財で投資家は設備投資に不安を感じている",
-        "articleUrl": "https://www.theregister.com/paas-and-iaas/2026/06/11/oracles-ai-datacenter-splurge-gives-investors-the-capex-jitters/5254035",
-        "articleSource": "theregister.com",
-        "articlePublishedAt": "2026-06-11T19:08:28Z",
-        "summaryJa": "第4四半期の売上高は21%増加したが、ウォール街は700億ドルの増強法案にもっと関心を持っている",
+        "articleTitle": "Oracle's OpenJDK Bans Generative AI Contributions, Oracle's GraalVM Allows Them",
+        "articleTitleJa": "オラクルのOpenJDKは生成AIコントリビューションを禁止、オラクルのGraalVMは許可",
+        "articleUrl": "https://www.infoq.com/news/2026/06/oracle-genai-policies/",
+        "articleSource": "infoq.com",
+        "articlePublishedAt": "2026-06-17T09:12:45Z",
+        "summaryJa": "Oracle が支援する 2 つの関連プロジェクトが、生成 AI で作成されたオープンソースのコントリビューションに関して反対のポリシーを発表しました。OpenJDK 理事会は、そのようなコントリビューションを禁止する暫定ポリシーを承認しました。",
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-06-18T16:27:07.807Z",
+    "fetchedAt": "2026-06-18T19:24:49.168Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-06-18T16:27:09.720Z"
+    "articleFetchedAt": "2026-06-18T19:24:52.190Z"
   }
 }
