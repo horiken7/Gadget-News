@@ -60,7 +60,7 @@ const AI_TREND_TERMS = [
   'クロード', 'ジェミニ', 'ディープシーク', 'ディープマインド', 'コパイロット',
 ];
 const TECH_SIGNALS = /\b(model|llm|benchmark|eval|inference|training|dataset|open source|open-source|agent|agents|coding|developer|api|security|vulnerability|jailbreak|red[- ]team|robotics|multimodal|vision|chip|gpu|datacenter|research|paper|arxiv|github|hugging face)\b/i;
-const PUBLIC_SIGNALS = /\b(summit|government|policy|regulation|copyright|lawsuit|election|school|education|health|jobs|workers|deepfake|safety|security|privacy|ceo|minister|president|g7|white house|eu|china|japan)\b/i;
+const PUBLIC_SIGNALS = /\b(summit|government|administration|policy|regulation|copyright|lawsuit|election|school|education|health|jobs|workers|employees|deepfake|safety|security|privacy|ceo|minister|president|g7|white house|eu|china|japan|trump|biden)\b/i;
 const TECH_DOMAINS = new Set([
   'arstechnica.com', 'theverge.com', 'wired.com', 'techcrunch.com', 'venturebeat.com',
   'theregister.com', 'spectrum.ieee.org', 'technologyreview.com', 'huggingface.co',
@@ -78,6 +78,8 @@ const LOW_QUALITY_DOMAIN_PARTS = [
 ];
 const BUSINESS_ONLY_SIGNALS = /\b(funding|valuation|ipo|stock|shares|revenue|losses|earnings|startup|founder|acquisition|acquire|partnership|roi|financial docs)\b/i;
 const HARD_BUSINESS_SIGNALS = /\b(ipo|stock|shares|revenue|losses|earnings|valuation|funding|financial docs|roi reckoning)\b/i;
+const MIN_SUMMARY_SENTENCES = 3;
+const MIN_SUMMARY_LENGTH = 90;
 
 async function fetchWithTimeout(url, options = {}, timeoutMs = 10000) {
   const controller = new AbortController();
@@ -413,6 +415,82 @@ function normalizeBrandTerms(text, sourceText = '') {
   return normalized;
 }
 
+function splitJaSentences(text) {
+  return String(text || '')
+    .replace(/\s+/g, ' ')
+    .split(/(?<=[。！？!?])\s*/)
+    .map(part => part.trim())
+    .filter(Boolean);
+}
+
+function ensureJaPeriod(text) {
+  const trimmed = String(text || '').trim();
+  if (!trimmed) return '';
+  return /[。！？!?]$/.test(trimmed) ? trimmed : `${trimmed}。`;
+}
+
+function isGenericSummary(summary, title = '') {
+  const normalized = String(summary || '');
+  if (!normalized) return true;
+  if (/に関する記事です|詳細は出典をご確認ください|詳細は出典本文をご確認ください/.test(normalized)) return true;
+  if (normalized.replace(/\s+/g, '').length < MIN_SUMMARY_LENGTH) return true;
+  if (splitJaSentences(normalized).length < MIN_SUMMARY_SENTENCES) return true;
+
+  const compactSummary = normalized.toLowerCase().replace(/[\s\u3000、。，．・：:！？!?'"“”‘’「」『』（）()\[\]【】\-ー~〜]/g, '');
+  const compactTitle = String(title || '').toLowerCase().replace(/[\s\u3000、。，．・：:！？!?'"“”‘’「」『』（）()\[\]【】\-ー~〜]/g, '');
+  return compactTitle.length >= 18 && compactSummary === compactTitle;
+}
+
+function isUsableDetailSentence(sentence, title = '') {
+  const normalized = String(sentence || '').trim();
+  if (normalized.length < 18) return false;
+  if (/に関する記事です|詳細は出典をご確認ください|詳細は出典本文をご確認ください/.test(normalized)) return false;
+  const japaneseChars = normalized.match(/[\u3040-\u30ff\u3400-\u9fff]/g)?.length || 0;
+  const letterChars = normalized.match(/[A-Za-z\u3040-\u30ff\u3400-\u9fff]/g)?.length || 0;
+  if (japaneseChars < 12 || (letterChars > 0 && japaneseChars / letterChars < 0.25)) return false;
+
+  const compactSentence = normalized.toLowerCase().replace(/[\s\u3000、。，．・：:！？!?'"“”‘’「」『』（）()\[\]【】\-ー~〜]/g, '');
+  const compactTitle = String(title || '').toLowerCase().replace(/[\s\u3000、。，．・：:！？!?'"“”‘’「」『』（）()\[\]【】\-ー~〜]/g, '');
+  return !(compactTitle.length >= 18 && compactSentence === compactTitle);
+}
+
+function makeLensSentence(item) {
+  const category = item.category || inferCategory(item.title);
+  if (item.newsLens === '技術') {
+    if (category === 'ハードウェア') return '技術面では、ロボット、GPU、データセンターなどAIを動かす基盤への影響を見る必要があります。';
+    if (category === '開発ツール') return '技術者にとっては、開発フロー、API、セキュリティ、運用コストへの影響が確認ポイントです。';
+    if (category === 'AIモデル') return '技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。';
+    if (category === '研究') return '研究・実装面では、手法の新しさ、再現性、既存モデルとの差分が見るべき点です。';
+    return '技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。';
+  }
+
+  if (category === '研究') return '一般向けには、AIが社会にどう受け止められ、どの分野で使われ始めているかを知る材料になります。';
+  if (category === 'ハードウェア') return '一般向けには、AIがソフトウェアだけでなく、ロボットや端末など現実の製品に広がっている点が重要です。';
+  return '一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。';
+}
+
+function buildThreeLineSummary({ item, titleJa, translatedDescription = '' }) {
+  const title = titleJa || `AIニュース: ${item.title}`;
+  const sentences = [];
+  const descriptionSentences = splitJaSentences(translatedDescription)
+    .map(ensureJaPeriod)
+    .filter(sentence => isUsableDetailSentence(sentence, title))
+    .slice(0, 2);
+
+  sentences.push(`この記事は「${title.replace(/^AIニュース:\s*/, '')}」を扱っています。`);
+  sentences.push(...descriptionSentences);
+  sentences.push(makeLensSentence(item));
+
+  if (sentences.length < MIN_SUMMARY_SENTENCES) {
+    sentences.splice(1, 0, `${item.domain || '出典元'}が公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。`);
+  }
+
+  return sentences
+    .filter((sentence, index, list) => list.findIndex(other => other === sentence) === index)
+    .slice(0, MIN_SUMMARY_SENTENCES)
+    .join('');
+}
+
 function extractMetaDescription(html) {
   const tags = String(html).match(/<meta\b[^>]*>/gi) || [];
   for (const tag of tags) {
@@ -602,7 +680,12 @@ function buildKeyPoints(summaryJa) {
 
 async function localizeItem(item, cache) {
   const cached = cache.get(item.url);
-  if (cached && JAPANESE_TEXT.test(cached.titleJa) && JAPANESE_TEXT.test(cached.summaryJa)) {
+  if (
+    cached &&
+    JAPANESE_TEXT.test(cached.titleJa) &&
+    JAPANESE_TEXT.test(cached.summaryJa) &&
+    !isGenericSummary(cached.summaryJa, cached.titleJa || item.title)
+  ) {
     console.log(`Reusing translation: ${item.title}`);
     const titleJa = normalizeBrandTerms(cached.titleJa, item.title);
     const summaryJa = normalizeBrandTerms(cached.summaryJa, `${item.title} ${item.storyText || ''}`);
@@ -642,20 +725,23 @@ async function localizeItem(item, cache) {
   }
 
   let summaryJa;
+  let translatedSummary = '';
   if (description) {
     try {
-      const translatedSummary = await translate(description);
+      translatedSummary = await translate(description);
       const normalizedSummary = normalizeBrandTerms(translatedSummary, `${item.title} ${description}`);
       summaryJa = JAPANESE_TEXT.test(normalizedSummary)
-        ? normalizedSummary
-        : `「${titleJa}」に関する記事です。詳細は出典をご確認ください。`;
+        ? buildThreeLineSummary({ item, titleJa, translatedDescription: normalizedSummary })
+        : buildThreeLineSummary({ item, titleJa });
     } catch (error) {
       console.warn(`Summary translation failed for "${item.title}": ${error.message}`);
-      summaryJa = `「${titleJa}」に関する記事です。詳細は出典をご確認ください。`;
+      summaryJa = buildThreeLineSummary({ item, titleJa });
     }
   } else {
-    summaryJa = `「${titleJa}」に関する記事です。詳細は出典をご確認ください。`;
+    summaryJa = buildThreeLineSummary({ item, titleJa });
   }
+
+  summaryJa = normalizeBrandTerms(summaryJa, `${item.title} ${description || ''}`);
 
   return {
     ...item,

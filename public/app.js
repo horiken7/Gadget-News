@@ -10,6 +10,7 @@ const GENERIC_SUMMARY_PATTERNS = [
   /詳細は出典をご確認ください/,
   /詳細は出典本文をご確認ください/,
 ];
+const MIN_SUMMARY_SENTENCES = 3;
 
 function skeletonNews() {
   return `
@@ -85,6 +86,8 @@ function isLowQualitySummary(summary, title = '') {
   if (!summary) return true;
   if (GENERIC_SUMMARY_PATTERNS.some(pattern => pattern.test(summary))) return true;
   if (isDuplicateLike(summary, title)) return true;
+  const sentenceCount = String(summary).split(/(?<=[。！？!?])\s*/).filter(Boolean).length;
+  if (sentenceCount < MIN_SUMMARY_SENTENCES) return true;
   return comparableText(summary).length < 24;
 }
 
