@@ -44,6 +44,26 @@
         ]
       },
       {
+        "title": "Is AI ruining our skills? Early results are in – and they're not good",
+        "url": "https://www.nature.com/articles/d41586-026-01947-1",
+        "points": 73,
+        "comments": 135,
+        "author": "Michelangelo11",
+        "createdAt": "2026-06-19T18:00:48Z",
+        "domain": "nature.com",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "AIは私たちのスキルを台無しにしているのでしょうか？初期の結果が出ていますが、良い結果ではありません",
+        "summaryJa": "この記事は「AIは私たちのスキルを台無しにしているのでしょうか？初期の結果が出ていますが、良い結果ではありません」を扱っています。nature.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "keyPoints": [
+          "この記事は「AIは私たちのスキルを台無しにしているのでしょうか。",
+          "初期の結果が出ていますが、良い結果ではありません」を扱っています。",
+          "nature.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。"
+        ]
+      },
+      {
         "title": "Show HN: A/B testing LLM silence with one system-prompt toggle",
         "url": "https://twitter.com/RayanPal_/status/2067816563995189631",
         "points": 72,
@@ -61,26 +81,6 @@
           "この記事は「1つのシステムプロンプトトグルでHN ： A/BテストLLMサイレンスを表示」を扱っています。",
           "ボイドは現在A/Bテストされています。",
           "1つのユーザープロンプト：「黙っていてください。"
-        ]
-      },
-      {
-        "title": "What 'Getting Your Hands Dirty' Means at LLM-Era",
-        "url": "https://carette.xyz/posts/the_mud_and_the_mind/",
-        "points": 71,
-        "comments": 1,
-        "author": "maarcel93",
-        "createdAt": "2026-06-19T08:33:50Z",
-        "domain": "carette.xyz",
-        "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "低",
-        "newsLens": "技術",
-        "titleJa": "LLM - Eraでの「手を汚す」の意味",
-        "summaryJa": "この記事は「LLM - Eraでの「手を汚す」の意味」を扱っています。前回の記事では、コーディングテストをフィルターエンジニアに変更するために必要な悪について説明しました。LLMが究極のコーダーになるにつれて（ボイラープレートを無限に、即座に、そして疲労なく作成する）、ソフトウェアエンジニアリングワークフローは急速にシフトしており、日々の作業はAI生成コードの監査とレビューに大きく移行しています。",
-        "keyPoints": [
-          "この記事は「LLM - Eraでの「手を汚す」の意味」を扱っています。",
-          "前回の記事では、コーディングテストをフィルターエンジニアに変更するために必要な悪について説明しました。",
-          "LLMが究極のコーダーになるにつれて（ボイラープレートを無限に、即座に、そして疲労なく作成する）、ソフトウェアエンジニアリングワークフローは急速にシフトしており、日々の作業はAI生成コードの監査とレビューに大きく移行しています。"
         ]
       },
       {
@@ -104,29 +104,11 @@
         ]
       }
     ],
-    "fetchedAt": "2026-06-19T17:19:57.995Z",
+    "fetchedAt": "2026-06-19T19:44:37.028Z",
     "mock": false
   },
   "xTrends": {
     "items": [
-      {
-        "topic": "AIモデル",
-        "locationLabel": "日本",
-        "bestRank": 25,
-        "appearances": 3,
-        "trendSource": "Trends24",
-        "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-06-19T17:19:57.829Z",
-        "url": "https://x.com/search?q=AI%E3%83%A2%E3%83%87%E3%83%AB&src=typed_query&f=live",
-        "articleTitle": "AIモデル",
-        "articleTitleJa": "公開トレンド: AIモデル",
-        "articleUrl": "https://trends24.in/japan/",
-        "articleSource": "Trends24",
-        "articlePublishedAt": "2026-06-19T17:19:57.829Z",
-        "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
-        "translationVersion": 3,
-        "articleFallback": true
-      },
       {
         "topic": "AI企業",
         "locationLabel": "日本",
@@ -134,13 +116,31 @@
         "appearances": 3,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-06-19T17:19:57.829Z",
+        "observedAt": "2026-06-19T19:44:36.972Z",
         "url": "https://x.com/search?q=AI%E4%BC%81%E6%A5%AD&src=typed_query&f=live",
         "articleTitle": "AI企業",
         "articleTitleJa": "公開トレンド: AI企業",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-06-19T17:19:57.829Z",
+        "articlePublishedAt": "2026-06-19T19:44:36.972Z",
+        "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
+        "translationVersion": 3,
+        "articleFallback": true
+      },
+      {
+        "topic": "中国のトップAIモデル",
+        "locationLabel": "日本",
+        "bestRank": 10,
+        "appearances": 2,
+        "trendSource": "Trends24",
+        "sourceUrl": "https://trends24.in/japan/",
+        "observedAt": "2026-06-19T19:44:36.972Z",
+        "url": "https://x.com/search?q=%E4%B8%AD%E5%9B%BD%E3%81%AE%E3%83%88%E3%83%83%E3%83%97AI%E3%83%A2%E3%83%87%E3%83%AB&src=typed_query&f=live",
+        "articleTitle": "中国のトップAIモデル",
+        "articleTitleJa": "公開トレンド: 中国のトップAIモデル",
+        "articleUrl": "https://trends24.in/japan/",
+        "articleSource": "Trends24",
+        "articlePublishedAt": "2026-06-19T19:44:36.972Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -152,13 +152,13 @@
         "appearances": 2,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-06-19T17:19:57.829Z",
+        "observedAt": "2026-06-19T19:44:36.972Z",
         "url": "https://x.com/search?q=AI%E3%83%87%E3%83%BC%E3%82%BF%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AE%E6%80%A5%E5%A2%97&src=typed_query&f=live",
         "articleTitle": "AIデータセンターの急増",
         "articleTitleJa": "公開トレンド: AIデータセンターの急増",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-06-19T17:19:57.829Z",
+        "articlePublishedAt": "2026-06-19T19:44:36.972Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -170,39 +170,40 @@
         "appearances": 2,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-06-19T17:19:57.829Z",
+        "observedAt": "2026-06-19T19:44:36.972Z",
         "url": "https://x.com/search?q=Anthropic%E3%81%AE%E6%9C%80%E6%96%B0AI%E3%83%A2%E3%83%87%E3%83%AB&src=typed_query&f=live",
         "articleTitle": "Anthropicの最新AIモデル",
         "articleTitleJa": "公開トレンド: Anthropicの最新AIモデル",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-06-19T17:19:57.829Z",
+        "articlePublishedAt": "2026-06-19T19:44:36.972Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
       },
       {
-        "topic": "Oracle AI Trade",
-        "locationLabel": "米国",
-        "bestRank": 3,
-        "appearances": 11,
+        "topic": "AIモデル",
+        "locationLabel": "日本",
+        "bestRank": 41,
+        "appearances": 1,
         "trendSource": "Trends24",
-        "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-06-19T17:19:57.804Z",
-        "url": "https://x.com/search?q=Oracle%20AI%20Trade&src=typed_query&f=live",
-        "articleTitle": "Oracle's OpenJDK Bans Generative AI Contributions, Oracle's GraalVM Allows Them",
-        "articleTitleJa": "オラクルのOpenJDKは生成AIコントリビューションを禁止、オラクルのGraalVMは許可",
-        "articleUrl": "https://www.infoq.com/news/2026/06/oracle-genai-policies/",
-        "articleSource": "infoq.com",
-        "articlePublishedAt": "2026-06-17T09:12:45Z",
-        "summaryJa": "Oracle が支援する 2 つの関連プロジェクトが、生成 AI で作成されたオープンソースのコントリビューションに関して反対のポリシーを発表しました。OpenJDK 理事会は、そのようなコントリビューションを禁止する暫定ポリシーを承認しました。",
-        "translationVersion": 3
+        "sourceUrl": "https://trends24.in/japan/",
+        "observedAt": "2026-06-19T19:44:36.972Z",
+        "url": "https://x.com/search?q=AI%E3%83%A2%E3%83%87%E3%83%AB&src=typed_query&f=live",
+        "articleTitle": "AIモデル",
+        "articleTitleJa": "公開トレンド: AIモデル",
+        "articleUrl": "https://trends24.in/japan/",
+        "articleSource": "Trends24",
+        "articlePublishedAt": "2026-06-19T19:44:36.972Z",
+        "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
+        "translationVersion": 3,
+        "articleFallback": true
       }
     ],
-    "fetchedAt": "2026-06-19T17:19:57.995Z",
+    "fetchedAt": "2026-06-19T19:44:37.028Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": false,
-    "articleFetchedAt": "2026-06-19T17:20:00.118Z"
+    "articleFetchedAt": "2026-06-19T19:44:38.147Z"
   }
 }
