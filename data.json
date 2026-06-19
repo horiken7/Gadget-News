@@ -2,45 +2,45 @@
   "news": {
     "items": [
       {
-        "title": "Amazon hopes to challenge Nvidia more directly by selling its AI chips",
-        "url": "https://techcrunch.com/2026/06/18/amazon-hopes-to-challenge-nvidia-more-directly-by-selling-its-ai-chips/",
-        "points": 105,
+        "title": "Is the US government’s Anthropic ban accidentally helping the brand?",
+        "url": "https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/",
+        "points": 133,
         "comments": 0,
         "author": "",
-        "createdAt": "2026-06-18T18:22:13.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
-        "category": "ハードウェア",
-        "impact": "高",
-        "titleJa": "アマゾンは、AIチップを販売することで、より直接的にNVIDIAに挑戦したいと考えている",
-        "summaryJa": "この記事は「アマゾンは、AIチップを販売することで、より直接的にNVIDIAに挑戦したいと考えている」を扱っています。AWSは、チップを他のデータセンターに販売することについて話し合っています。最高経営責任者（ CEO ）のAndy Jassy氏は、これは同社にとって500億$のチャンスであると述べています。",
-        "keyPoints": [
-          "この記事は「アマゾンは、AIチップを販売することで、より直接的にNVIDIAに挑戦したいと考えている」を扱っています。",
-          "AWSは、チップを他のデータセンターに販売することについて話し合っています。",
-          "最高経営責任者（ CEO ）のAndy Jassy氏は、これは同社にとって500億$のチャンスであると述べています。"
-        ]
-      },
-      {
-        "title": "AI data centers just got a government-mandated fast lane to the grid",
-        "url": "https://techcrunch.com/2026/06/18/ai-data-centers-just-got-a-government-mandated-fast-lane-to-the-grid/",
-        "points": 105,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-06-18T17:49:23.000Z",
+        "createdAt": "2026-06-19T16:08:17.000Z",
         "domain": "techcrunch.com",
         "sourceType": "rss",
         "sourceLabel": "TechCrunch AI",
         "newsLens": "一般",
         "category": "AIニュース",
         "impact": "高",
-        "titleJa": "AIデータセンターは、政府が義務付けたグリッドへの高速レーンを取得しました",
-        "summaryJa": "この記事は「AIデータセンターは、政府が義務付けたグリッドへの高速レーンを取得しました」を扱っています。FERCは、グリッド事業者に相互接続のための高速レーンをデータセンターに与えるように指示しましたが、電力供給不足に対処できませんでした。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "titleJa": "米国政府のAnthropic禁止措置は、誤ってブランドを支援しているのでしょうか？",
+        "summaryJa": "この記事は「米国政府のAnthropic禁止措置は、誤ってブランドを支援しているのでしょうか？」を扱っています。先週が終わろうとしていたとき、米国政府は、アマゾンの研究者がFable 5のガードレールを迂回する方法を見つけたと言われている後、国家安全保障上の懸念を理由に、AnthropicにFable 5とMythos 5の2つの最新モデルを引き出すよう強制した。サイバーセキュリティの研究者はそれ以来、この動きを危険だと呼ぶ公開書簡に署名しており、Anthropic自身も他のモデルにも同様の脱獄が存在すると指摘しています。",
         "keyPoints": [
-          "この記事は「AIデータセンターは、政府が義務付けたグリッドへの高速レーンを取得しました」を扱っています。",
-          "FERCは、グリッド事業者に相互接続のための高速レーンをデータセンターに与えるように指示しましたが、電力供給不足に対処できませんでした。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+          "この記事は「米国政府のAnthropic禁止措置は、誤ってブランドを支援しているのでしょうか。",
+          "先週が終わろうとしていたとき、米国政府は、アマゾンの研究者がFable 5のガードレールを迂回する方法を見つけたと言われている後、国家安全保障上の懸念を理由に、AnthropicにFable 5とMythos 5の2つの最新モデルを引き出すよう強制した。",
+          "サイバーセキュリティの研究者はそれ以来、この動きを危険だと呼ぶ公開書簡に署名しており、Anthropic自身も他のモデルにも同様の脱獄が存在すると指摘しています。"
+        ]
+      },
+      {
+        "title": "The US banned Anthropic’s Fable 5 release, but the numbers don’t seem to care",
+        "url": "https://techcrunch.com/podcast/the-us-banned-anthropics-fable-5-release-but-the-numbers-dont-seem-to-care/",
+        "points": 133,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-06-19T16:01:03.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
+        "category": "AIニュース",
+        "impact": "高",
+        "titleJa": "米国は「Anthropic's Fable 5」の発売を禁止しましたが、数字は気にしていないようです",
+        "summaryJa": "この記事は「米国は「Anthropic's Fable 5」の発売を禁止しましたが、数字は気にしていないようです」を扱っています。先週が終わろうとしていたとき、米国政府は、アマゾンの研究者がFable 5のガードレールを迂回する方法を見つけたと言われている後、国家安全保障上の懸念を理由に、AnthropicにFable 5とMythos 5の2つの最新モデルを引き出すよう強制した。サイバーセキュリティの研究者はそれ以来、この動きを危険だと呼ぶ公開書簡に署名しており、Anthropic自身も他のモデルにも同様の脱獄が存在すると指摘しています。",
+        "keyPoints": [
+          "この記事は「米国は「Anthropic's Fable 5」の発売を禁止しましたが、数字は気にしていないようです」を扱っています。",
+          "先週が終わろうとしていたとき、米国政府は、アマゾンの研究者がFable 5のガードレールを迂回する方法を見つけたと言われている後、国家安全保障上の懸念を理由に、AnthropicにFable 5とMythos 5の2つの最新モデルを引き出すよう強制した。",
+          "サイバーセキュリティの研究者はそれ以来、この動きを危険だと呼ぶ公開書簡に署名しており、Anthropic自身も他のモデルにも同様の脱獄が存在すると指摘しています。"
         ]
       },
       {
@@ -104,7 +104,7 @@
         ]
       }
     ],
-    "fetchedAt": "2026-06-19T14:56:55.295Z",
+    "fetchedAt": "2026-06-19T17:19:57.995Z",
     "mock": false
   },
   "xTrends": {
@@ -116,13 +116,13 @@
         "appearances": 3,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-06-19T14:56:55.277Z",
+        "observedAt": "2026-06-19T17:19:57.829Z",
         "url": "https://x.com/search?q=AI%E3%83%A2%E3%83%87%E3%83%AB&src=typed_query&f=live",
         "articleTitle": "AIモデル",
         "articleTitleJa": "公開トレンド: AIモデル",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-06-19T14:56:55.277Z",
+        "articlePublishedAt": "2026-06-19T17:19:57.829Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -134,31 +134,13 @@
         "appearances": 3,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-06-19T14:56:55.277Z",
+        "observedAt": "2026-06-19T17:19:57.829Z",
         "url": "https://x.com/search?q=AI%E4%BC%81%E6%A5%AD&src=typed_query&f=live",
         "articleTitle": "AI企業",
         "articleTitleJa": "公開トレンド: AI企業",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-06-19T14:56:55.277Z",
-        "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
-        "translationVersion": 3,
-        "articleFallback": true
-      },
-      {
-        "topic": "自社開発のAIチップ",
-        "locationLabel": "日本",
-        "bestRank": 34,
-        "appearances": 3,
-        "trendSource": "Trends24",
-        "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-06-19T14:56:55.277Z",
-        "url": "https://x.com/search?q=%E8%87%AA%E7%A4%BE%E9%96%8B%E7%99%BA%E3%81%AEAI%E3%83%81%E3%83%83%E3%83%97&src=typed_query&f=live",
-        "articleTitle": "自社開発のAIチップ",
-        "articleTitleJa": "公開トレンド: 自社開発のAIチップ",
-        "articleUrl": "https://trends24.in/japan/",
-        "articleSource": "Trends24",
-        "articlePublishedAt": "2026-06-19T14:56:55.277Z",
+        "articlePublishedAt": "2026-06-19T17:19:57.829Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -170,13 +152,13 @@
         "appearances": 2,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-06-19T14:56:55.277Z",
+        "observedAt": "2026-06-19T17:19:57.829Z",
         "url": "https://x.com/search?q=AI%E3%83%87%E3%83%BC%E3%82%BF%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E3%81%AE%E6%80%A5%E5%A2%97&src=typed_query&f=live",
         "articleTitle": "AIデータセンターの急増",
         "articleTitleJa": "公開トレンド: AIデータセンターの急増",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-06-19T14:56:55.277Z",
+        "articlePublishedAt": "2026-06-19T17:19:57.829Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -188,22 +170,39 @@
         "appearances": 2,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-06-19T14:56:55.277Z",
+        "observedAt": "2026-06-19T17:19:57.829Z",
         "url": "https://x.com/search?q=Anthropic%E3%81%AE%E6%9C%80%E6%96%B0AI%E3%83%A2%E3%83%87%E3%83%AB&src=typed_query&f=live",
         "articleTitle": "Anthropicの最新AIモデル",
         "articleTitleJa": "公開トレンド: Anthropicの最新AIモデル",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-06-19T14:56:55.277Z",
+        "articlePublishedAt": "2026-06-19T17:19:57.829Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
+      },
+      {
+        "topic": "Oracle AI Trade",
+        "locationLabel": "米国",
+        "bestRank": 3,
+        "appearances": 11,
+        "trendSource": "Trends24",
+        "sourceUrl": "https://trends24.in/united-states/",
+        "observedAt": "2026-06-19T17:19:57.804Z",
+        "url": "https://x.com/search?q=Oracle%20AI%20Trade&src=typed_query&f=live",
+        "articleTitle": "Oracle's OpenJDK Bans Generative AI Contributions, Oracle's GraalVM Allows Them",
+        "articleTitleJa": "オラクルのOpenJDKは生成AIコントリビューションを禁止、オラクルのGraalVMは許可",
+        "articleUrl": "https://www.infoq.com/news/2026/06/oracle-genai-policies/",
+        "articleSource": "infoq.com",
+        "articlePublishedAt": "2026-06-17T09:12:45Z",
+        "summaryJa": "Oracle が支援する 2 つの関連プロジェクトが、生成 AI で作成されたオープンソースのコントリビューションに関して反対のポリシーを発表しました。OpenJDK 理事会は、そのようなコントリビューションを禁止する暫定ポリシーを承認しました。",
+        "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-06-19T14:56:55.295Z",
+    "fetchedAt": "2026-06-19T17:19:57.995Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": false,
-    "articleFetchedAt": "2026-06-19T14:56:56.661Z"
+    "articleFetchedAt": "2026-06-19T17:20:00.118Z"
   }
 }
