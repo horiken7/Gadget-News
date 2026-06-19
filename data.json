@@ -47,7 +47,7 @@
         "title": "DeepSeek Introduces Vision",
         "url": "https://chat.deepseek.com/",
         "points": 101,
-        "comments": 183,
+        "comments": 185,
         "author": "RIshabh235",
         "createdAt": "2026-06-18T06:17:40Z",
         "domain": "chat.deepseek.com",
@@ -66,8 +66,8 @@
       {
         "title": "Launch HN: TesterArmy (YC P26) – Agents that test web and mobile apps",
         "url": "https://tester.army",
-        "points": 95,
-        "comments": 45,
+        "points": 96,
+        "comments": 46,
         "author": "okwasniewski",
         "createdAt": "2026-06-18T14:49:44Z",
         "domain": "tester.army",
@@ -104,7 +104,7 @@
         ]
       }
     ],
-    "fetchedAt": "2026-06-19T02:43:18.728Z",
+    "fetchedAt": "2026-06-19T02:56:20.497Z",
     "mock": false
   },
   "xTrends": {
@@ -116,13 +116,13 @@
         "appearances": 5,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-06-19T02:43:18.622Z",
+        "observedAt": "2026-06-19T02:56:20.358Z",
         "url": "https://x.com/search?q=%E3%82%A2%E3%83%9E%E3%82%BE%E3%83%B3%E3%81%AEAI%E3%82%A2%E3%82%B7%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%88Alexa&src=typed_query&f=live",
         "articleTitle": "アマゾンのAIアシスタントAlexa",
         "articleTitleJa": "公開トレンド: アマゾンのAIアシスタントAlexa",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-06-19T02:43:18.622Z",
+        "articlePublishedAt": "2026-06-19T02:56:20.358Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -134,13 +134,13 @@
         "appearances": 5,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-06-19T02:43:18.622Z",
+        "observedAt": "2026-06-19T02:56:20.358Z",
         "url": "https://x.com/search?q=%E8%87%AA%E7%A4%BE%E9%96%8B%E7%99%BA%E3%81%AEAI%E3%83%81%E3%83%83%E3%83%97&src=typed_query&f=live",
         "articleTitle": "自社開発のAIチップ",
         "articleTitleJa": "公開トレンド: 自社開発のAIチップ",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-06-19T02:43:18.622Z",
+        "articlePublishedAt": "2026-06-19T02:56:20.358Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -149,16 +149,16 @@
         "topic": "AIモデル",
         "locationLabel": "日本",
         "bestRank": 13,
-        "appearances": 5,
+        "appearances": 4,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-06-19T02:43:18.622Z",
+        "observedAt": "2026-06-19T02:56:20.358Z",
         "url": "https://x.com/search?q=AI%E3%83%A2%E3%83%87%E3%83%AB&src=typed_query&f=live",
         "articleTitle": "AIモデル",
         "articleTitleJa": "公開トレンド: AIモデル",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-06-19T02:43:18.622Z",
+        "articlePublishedAt": "2026-06-19T02:56:20.358Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -170,7 +170,7 @@
         "appearances": 10,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-06-19T02:43:18.577Z",
+        "observedAt": "2026-06-19T02:56:20.380Z",
         "url": "https://x.com/search?q=Midjourney&src=typed_query&f=live",
         "articleTitle": "Midjourney Medical",
         "articleTitleJa": "ミッドジャーニー・メディカル",
@@ -187,7 +187,7 @@
         "appearances": 4,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-06-19T02:43:18.577Z",
+        "observedAt": "2026-06-19T02:56:20.380Z",
         "url": "https://x.com/search?q=Oracle%20AI%20Trade&src=typed_query&f=live",
         "articleTitle": "Oracle's OpenJDK Bans Generative AI Contributions, Oracle's GraalVM Allows Them",
         "articleTitleJa": "オラクルのOpenJDKは生成AIコントリビューションを禁止、オラクルのGraalVMは許可",
@@ -198,10 +198,10 @@
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-06-19T02:43:18.728Z",
+    "fetchedAt": "2026-06-19T02:56:20.497Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": false,
-    "articleFetchedAt": "2026-06-19T02:43:21.852Z"
+    "articleFetchedAt": "2026-06-19T02:56:22.611Z"
   }
 }
