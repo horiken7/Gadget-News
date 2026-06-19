@@ -66,7 +66,7 @@
       {
         "title": "Launch HN: TesterArmy (YC P26) – Agents that test web and mobile apps",
         "url": "https://tester.army",
-        "points": 96,
+        "points": 97,
         "comments": 47,
         "author": "okwasniewski",
         "createdAt": "2026-06-18T14:49:44Z",
@@ -84,27 +84,27 @@
         ]
       },
       {
-        "title": "The Korean telecom giant at the center of Anthropic's Mythos controversy",
-        "url": "https://www.wired.com/story/sk-telecom-anthropic-mythos-export-controls/",
-        "points": 87,
-        "comments": 86,
-        "author": "dstala",
-        "createdAt": "2026-06-18T12:44:09Z",
-        "domain": "wired.com",
+        "title": "GLM-5.2 is probably the most powerful text-only open weights LLM",
+        "url": "https://simonwillison.net/2026/Jun/17/glm-52/",
+        "points": 96,
+        "comments": 4,
+        "author": "Brajeshwar",
+        "createdAt": "2026-06-18T15:58:09Z",
+        "domain": "simonwillison.net",
         "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "高",
+        "category": "AIモデル",
+        "impact": "低",
         "newsLens": "技術",
-        "titleJa": "AnthropicのMythos論争の中心にある韓国の通信大手",
-        "summaryJa": "この記事は「AnthropicのMythos論争の中心にある韓国の通信大手」を扱っています。wired.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "titleJa": "GLM-5.2は、おそらく最も強力なテキストのみのオープンウェイトLLMです",
+        "summaryJa": "この記事は「GLM-5.2は、おそらく最も強力なテキストのみのオープンウェイトLLMです」を扱っています。中国のAIラボZ.aiは、6月13日にコーディングプランのサブスクライバーにGLM-5.2をリリースし、昨日（ 6月16日）にMITライセンスの下で完全なオープンウェイトをリリースしました。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
         "keyPoints": [
-          "この記事は「AnthropicのMythos論争の中心にある韓国の通信大手」を扱っています。",
-          "wired.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+          "この記事は「GLM-5.2は、おそらく最も強力なテキストのみのオープンウェイトLLMです」を扱っています。",
+          "中国のAIラボZ.aiは、6月13日にコーディングプランのサブスクライバーにGLM-5.2をリリースし、昨日（ 6月16日）にMITライセンスの下で完全なオープンウェイトをリリースしました。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
       }
     ],
-    "fetchedAt": "2026-06-19T04:05:48.982Z",
+    "fetchedAt": "2026-06-19T05:03:54.758Z",
     "mock": false
   },
   "xTrends": {
@@ -116,13 +116,13 @@
         "appearances": 6,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-06-19T04:05:48.907Z",
+        "observedAt": "2026-06-19T05:03:54.529Z",
         "url": "https://x.com/search?q=AI%E3%83%A2%E3%83%87%E3%83%AB&src=typed_query&f=live",
         "articleTitle": "AIモデル",
         "articleTitleJa": "公開トレンド: AIモデル",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-06-19T04:05:48.907Z",
+        "articlePublishedAt": "2026-06-19T05:03:54.529Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -134,13 +134,13 @@
         "appearances": 5,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-06-19T04:05:48.907Z",
+        "observedAt": "2026-06-19T05:03:54.529Z",
         "url": "https://x.com/search?q=%E3%82%A2%E3%83%9E%E3%82%BE%E3%83%B3%E3%81%AEAI%E3%82%A2%E3%82%B7%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%88Alexa&src=typed_query&f=live",
         "articleTitle": "アマゾンのAIアシスタントAlexa",
         "articleTitleJa": "公開トレンド: アマゾンのAIアシスタントAlexa",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-06-19T04:05:48.907Z",
+        "articlePublishedAt": "2026-06-19T05:03:54.529Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -152,13 +152,13 @@
         "appearances": 5,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-06-19T04:05:48.907Z",
+        "observedAt": "2026-06-19T05:03:54.529Z",
         "url": "https://x.com/search?q=%E8%87%AA%E7%A4%BE%E9%96%8B%E7%99%BA%E3%81%AEAI%E3%83%81%E3%83%83%E3%83%97&src=typed_query&f=live",
         "articleTitle": "自社開発のAIチップ",
         "articleTitleJa": "公開トレンド: 自社開発のAIチップ",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-06-19T04:05:48.907Z",
+        "articlePublishedAt": "2026-06-19T05:03:54.529Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -166,11 +166,11 @@
       {
         "topic": "Midjourney",
         "locationLabel": "米国",
-        "bestRank": 9,
-        "appearances": 9,
+        "bestRank": 19,
+        "appearances": 8,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-06-19T04:05:48.871Z",
+        "observedAt": "2026-06-19T05:03:54.552Z",
         "url": "https://x.com/search?q=Midjourney&src=typed_query&f=live",
         "articleTitle": "Midjourney Medical",
         "articleTitleJa": "ミッドジャーニー・メディカル",
@@ -187,7 +187,7 @@
         "appearances": 3,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-06-19T04:05:48.871Z",
+        "observedAt": "2026-06-19T05:03:54.552Z",
         "url": "https://x.com/search?q=Oracle%20AI%20Trade&src=typed_query&f=live",
         "articleTitle": "Oracle's OpenJDK Bans Generative AI Contributions, Oracle's GraalVM Allows Them",
         "articleTitleJa": "オラクルのOpenJDKは生成AIコントリビューションを禁止、オラクルのGraalVMは許可",
@@ -198,10 +198,10 @@
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-06-19T04:05:48.982Z",
+    "fetchedAt": "2026-06-19T05:03:54.758Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": false,
-    "articleFetchedAt": "2026-06-19T04:05:51.073Z"
+    "articleFetchedAt": "2026-06-19T05:03:56.938Z"
   }
 }
