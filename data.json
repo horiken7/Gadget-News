@@ -2,57 +2,16 @@
   "news": {
     "items": [
       {
-        "title": "From PGP to Mythos: a brief history of export controls that didn’t stop anyone",
-        "url": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
-        "points": 107,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-06-19T22:40:14.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
-        "category": "AIニュース",
-        "impact": "高",
-        "titleJa": "PGPから神話へ：誰も止められなかった輸出管理の簡単な歴史",
-        "summaryJa": "この記事は「PGPから神話へ：誰も止められなかった輸出管理の簡単な歴史」を扱っています。過去30年間、サイバーセキュリティ関連ソフトウェアの流れを止めることは効果的ではないことが証明されています。なぜAnthropicのサイバーセキュリティモデルMythosで動作するのかは不明です。",
-        "keyPoints": [
-          "この記事は「PGPから神話へ：誰も止められなかった輸出管理の簡単な歴史」を扱っています。",
-          "過去30年間、サイバーセキュリティ関連ソフトウェアの流れを止めることは効果的ではないことが証明されています。",
-          "なぜAnthropicのサイバーセキュリティモデルMythosで動作するのかは不明です。"
-        ]
-      },
-      {
-        "title": "China will have a Fable 5-class AI model before next year",
-        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/elon-musk-says-that-china-will-have-a-fable-5-class-ai-model-probably-q1-next-year-ceo-of-chinese-anthropic-rival-says-it-wont-take-that-long",
-        "points": 99,
-        "comments": 2,
-        "author": "achow",
-        "createdAt": "2026-06-20T04:33:24Z",
-        "domain": "tomshardware.com",
-        "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "低",
-        "newsLens": "技術",
-        "titleJa": "中国では来年までに寓話の5クラスAIモデルが登場",
-        "summaryJa": "この記事は「中国では来年までに寓話の5クラスAIモデルが登場」を扱っています。中国のAIラボがAnthropicに追いついていると言われています。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
-        "keyPoints": [
-          "この記事は「中国では来年までに寓話の5クラスAIモデルが登場」を扱っています。",
-          "中国のAIラボがAnthropicに追いついていると言われています。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
-        ]
-      },
-      {
         "title": "Show HN: We post-trained a model that pen tests instead of refusing",
         "url": "https://www.argusred.com/cli",
-        "points": 81,
-        "comments": 22,
+        "points": 84,
+        "comments": 27,
         "author": "dk189",
         "createdAt": "2026-06-20T13:49:03Z",
         "domain": "argusred.com",
         "sourceType": "hn",
         "category": "AIモデル",
-        "impact": "低",
+        "impact": "中",
         "newsLens": "技術",
         "titleJa": "HNを表示：拒否するのではなく、テストをペンするモデルを事後トレーニングしました",
         "summaryJa": "この記事は「HNを表示：拒否するのではなく、テストをペンするモデルを事後トレーニングしました」を扱っています。AnthropicとOpenAIの公開モデルは、攻撃的なタスクを拒否するように明示的にガードレールされています。そして、彼らのサイバーに焦点を当てたモデルは、企業のためにゲートされています。",
@@ -84,10 +43,31 @@
         ]
       },
       {
+        "title": "In the Weights is your new AI-centric vanity search",
+        "url": "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/",
+        "points": 79,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-06-20T19:41:11.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
+        "category": "AIニュース",
+        "impact": "中",
+        "titleJa": "重みには、新しいAI中心の虚栄心検索があります",
+        "summaryJa": "この記事は「重みには、新しいAI中心の虚栄心検索があります」を扱っています。それで...あなたのIn the Weightsスコアはいくらですか？一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "keyPoints": [
+          "この記事は「重みには、新しいAI中心の虚栄心検索があります」を扱っています。",
+          "それで...あなたのIn the Weightsスコアはいくらですか。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+        ]
+      },
+      {
         "title": "US Scientist John Jumper to Leave Google DeepMind for Anthropic",
         "url": "https://www.reuters.com/technology/us-scientist-john-jumper-leave-google-deepmind-anthropic-2026-06-19/",
         "points": 77,
-        "comments": 8,
+        "comments": 9,
         "author": "karakoram",
         "createdAt": "2026-06-20T14:32:15Z",
         "domain": "reuters.com",
@@ -102,13 +82,69 @@
           "reuters.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
           "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
+      },
+      {
+        "title": "Ubisoft co-founder Claude Guillemot has died in a plane crash",
+        "url": "https://www.reuters.com/world/ubisofts-co-founder-claude-guillemot-dies-plane-crash-2026-06-20/",
+        "points": 53,
+        "comments": 91,
+        "author": "drayfield",
+        "createdAt": "2026-06-20T14:12:50Z",
+        "domain": "reuters.com",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "Ubisoftの共同創業者Claude Guillemotが飛行機事故で死亡",
+        "summaryJa": "この記事は「Ubisoftの共同創業者Claude Guillemotが飛行機事故で死亡」を扱っています。reuters.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "keyPoints": [
+          "この記事は「Ubisoftの共同創業者Claude Guillemotが飛行機事故で死亡」を扱っています。",
+          "reuters.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+        ]
       }
     ],
-    "fetchedAt": "2026-06-20T21:13:32.668Z",
+    "fetchedAt": "2026-06-20T23:04:08.290Z",
     "mock": false
   },
   "xTrends": {
     "items": [
+      {
+        "topic": "AnthropicのCEO",
+        "locationLabel": "日本",
+        "bestRank": 14,
+        "appearances": 2,
+        "trendSource": "Trends24",
+        "sourceUrl": "https://trends24.in/japan/",
+        "observedAt": "2026-06-20T23:04:08.187Z",
+        "url": "https://x.com/search?q=Anthropic%E3%81%AECEO&src=typed_query&f=live",
+        "articleTitle": "AnthropicのCEO",
+        "articleTitleJa": "公開トレンド: AnthropicのCEO",
+        "articleUrl": "https://trends24.in/japan/",
+        "articleSource": "Trends24",
+        "articlePublishedAt": "2026-06-20T23:04:08.187Z",
+        "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
+        "translationVersion": 3,
+        "articleFallback": true
+      },
+      {
+        "topic": "AI企業",
+        "locationLabel": "日本",
+        "bestRank": 27,
+        "appearances": 2,
+        "trendSource": "Trends24",
+        "sourceUrl": "https://trends24.in/japan/",
+        "observedAt": "2026-06-20T23:04:08.187Z",
+        "url": "https://x.com/search?q=AI%E4%BC%81%E6%A5%AD&src=typed_query&f=live",
+        "articleTitle": "AI企業",
+        "articleTitleJa": "公開トレンド: AI企業",
+        "articleUrl": "https://trends24.in/japan/",
+        "articleSource": "Trends24",
+        "articlePublishedAt": "2026-06-20T23:04:08.187Z",
+        "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
+        "translationVersion": 3,
+        "articleFallback": true
+      },
       {
         "topic": "AI関連の仕事",
         "locationLabel": "日本",
@@ -116,13 +152,13 @@
         "appearances": 1,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-06-20T21:13:32.592Z",
+        "observedAt": "2026-06-20T23:04:08.187Z",
         "url": "https://x.com/search?q=AI%E9%96%A2%E9%80%A3%E3%81%AE%E4%BB%95%E4%BA%8B&src=typed_query&f=live",
         "articleTitle": "AI関連の仕事",
         "articleTitleJa": "公開トレンド: AI関連の仕事",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-06-20T21:13:32.592Z",
+        "articlePublishedAt": "2026-06-20T23:04:08.187Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -131,10 +167,10 @@
         "topic": "Oracle AI Trade",
         "locationLabel": "米国",
         "bestRank": 1,
-        "appearances": 10,
+        "appearances": 12,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-06-20T21:13:32.554Z",
+        "observedAt": "2026-06-20T23:04:08.274Z",
         "url": "https://x.com/search?q=Oracle%20AI%20Trade&src=typed_query&f=live",
         "articleTitle": "Oracle's OpenJDK Bans Generative AI Contributions, Oracle's GraalVM Allows Them",
         "articleTitleJa": "オラクルのOpenJDKは生成AIコントリビューションを禁止、オラクルのGraalVMは許可",
@@ -147,26 +183,26 @@
       {
         "topic": "Corbin AI",
         "locationLabel": "米国",
-        "bestRank": 22,
-        "appearances": 3,
+        "bestRank": 33,
+        "appearances": 2,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-06-20T21:13:32.554Z",
+        "observedAt": "2026-06-20T23:04:08.274Z",
         "url": "https://x.com/search?q=Corbin%20AI&src=typed_query&f=live",
         "articleTitle": "Corbin AI",
         "articleTitleJa": "公開トレンド: Corbin AI",
         "articleUrl": "https://trends24.in/united-states/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-06-20T21:13:32.554Z",
+        "articlePublishedAt": "2026-06-20T23:04:08.274Z",
         "summaryJa": "米国のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
       }
     ],
-    "fetchedAt": "2026-06-20T21:13:32.668Z",
+    "fetchedAt": "2026-06-20T23:04:08.290Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
-    "partial": true,
-    "articleFetchedAt": "2026-06-20T21:13:36.580Z"
+    "partial": false,
+    "articleFetchedAt": "2026-06-20T23:04:10.349Z"
   }
 }
