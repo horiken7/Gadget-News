@@ -46,7 +46,7 @@
       {
         "title": "Companies rein in AI usage as costs strain budgets",
         "url": "https://www.ft.com/content/1d37cc08-e0aa-45a4-a45d-4ad282529314",
-        "points": 88,
+        "points": 90,
         "comments": 98,
         "author": "fandorin",
         "createdAt": "2026-06-19T19:57:18Z",
@@ -64,30 +64,10 @@
         ]
       },
       {
-        "title": "John Jumper to join Anthropic",
-        "url": "https://twitter.com/JohnJumperSci/status/2068001285173834106",
-        "points": 72,
-        "comments": 94,
-        "author": "artninja1988",
-        "createdAt": "2026-06-19T17:53:00Z",
-        "domain": "twitter.com",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "John JumperがAnthropicに参加",
-        "summaryJa": "この記事は「John JumperがAnthropicに参加」を扱っています。ちょっとしたニュースですが、9年近く経って、Google DeepMindを離れ、Anthropicに入社することにしました（充電に時間がかかった後）。GDMでの時間に非常に感謝しています。",
-        "keyPoints": [
-          "この記事は「John JumperがAnthropicに参加」を扱っています。",
-          "ちょっとしたニュースですが、9年近く経って、Google DeepMindを離れ、Anthropicに入社することにしました（充電に時間がかかった後）。",
-          "GDMでの時間に非常に感謝しています。"
-        ]
-      },
-      {
         "title": "GPT-5.5 hallucinates 3x more than MIT-licensed GLM-5.2",
         "url": "https://arrowtsx.dev/bigger-models/",
-        "points": 71,
-        "comments": 28,
+        "points": 73,
+        "comments": 66,
         "author": "oshrimpton",
         "createdAt": "2026-06-19T16:11:25Z",
         "domain": "arrowtsx.dev",
@@ -102,9 +82,29 @@
           "arrowtsx.devが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
           "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
+      },
+      {
+        "title": "John Jumper to join Anthropic",
+        "url": "https://twitter.com/JohnJumperSci/status/2068001285173834106",
+        "points": 73,
+        "comments": 104,
+        "author": "artninja1988",
+        "createdAt": "2026-06-19T17:53:00Z",
+        "domain": "twitter.com",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "John JumperがAnthropicに参加",
+        "summaryJa": "この記事は「John JumperがAnthropicに参加」を扱っています。ちょっとしたニュースですが、9年近く経って、Google DeepMindを離れ、Anthropicに入社することにしました（充電に時間がかかった後）。GDMでの時間に非常に感謝しています。",
+        "keyPoints": [
+          "この記事は「John JumperがAnthropicに参加」を扱っています。",
+          "ちょっとしたニュースですが、9年近く経って、Google DeepMindを離れ、Anthropicに入社することにしました（充電に時間がかかった後）。",
+          "GDMでの時間に非常に感謝しています。"
+        ]
       }
     ],
-    "fetchedAt": "2026-06-20T08:49:57.331Z",
+    "fetchedAt": "2026-06-20T11:14:14.260Z",
     "mock": false
   },
   "xTrends": {
@@ -116,13 +116,13 @@
         "appearances": 6,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-06-20T08:49:57.260Z",
+        "observedAt": "2026-06-20T11:14:14.197Z",
         "url": "https://x.com/search?q=%E4%B8%AD%E5%9B%BD%E3%81%AE%E3%83%88%E3%83%83%E3%83%97AI%E3%83%A2%E3%83%87%E3%83%AB&src=typed_query&f=live",
         "articleTitle": "中国のトップAIモデル",
         "articleTitleJa": "公開トレンド: 中国のトップAIモデル",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-06-20T08:49:57.260Z",
+        "articlePublishedAt": "2026-06-20T11:14:14.197Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -134,13 +134,13 @@
         "appearances": 4,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-06-20T08:49:57.260Z",
+        "observedAt": "2026-06-20T11:14:14.197Z",
         "url": "https://x.com/search?q=AI%E9%96%A2%E9%80%A3%E6%A0%AA&src=typed_query&f=live",
         "articleTitle": "AI関連株",
         "articleTitleJa": "公開トレンド: AI関連株",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-06-20T08:49:57.260Z",
+        "articlePublishedAt": "2026-06-20T11:14:14.197Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -152,13 +152,13 @@
         "appearances": 2,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-06-20T08:49:57.260Z",
+        "observedAt": "2026-06-20T11:14:14.197Z",
         "url": "https://x.com/search?q=OpenAI%E3%81%AE%E5%B8%B3%E7%B0%BF&src=typed_query&f=live",
         "articleTitle": "OpenAIの帳簿",
         "articleTitleJa": "公開トレンド: OpenAIの帳簿",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-06-20T08:49:57.260Z",
+        "articlePublishedAt": "2026-06-20T11:14:14.197Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -170,22 +170,22 @@
         "appearances": 3,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-06-20T08:49:57.223Z",
+        "observedAt": "2026-06-20T11:14:14.247Z",
         "url": "https://x.com/search?q=Corbin%20AI&src=typed_query&f=live",
         "articleTitle": "Corbin AI",
         "articleTitleJa": "公開トレンド: Corbin AI",
         "articleUrl": "https://trends24.in/united-states/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-06-20T08:49:57.223Z",
+        "articlePublishedAt": "2026-06-20T11:14:14.247Z",
         "summaryJa": "米国のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
       }
     ],
-    "fetchedAt": "2026-06-20T08:49:57.331Z",
+    "fetchedAt": "2026-06-20T11:14:14.259Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-06-20T08:49:58.213Z"
+    "articleFetchedAt": "2026-06-20T11:14:15.324Z"
   }
 }
