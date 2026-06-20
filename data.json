@@ -25,7 +25,7 @@
       {
         "title": "Companies rein in AI usage as costs strain budgets",
         "url": "https://www.ft.com/content/1d37cc08-e0aa-45a4-a45d-4ad282529314",
-        "points": 90,
+        "points": 91,
         "comments": 103,
         "author": "fandorin",
         "createdAt": "2026-06-19T19:57:18Z",
@@ -40,27 +40,6 @@
           "この記事は「コストが予算に負担をかけるため、企業はAIの使用を抑制する」を扱っています。",
           "ft.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
           "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
-        ]
-      },
-      {
-        "title": "The Global X Robotics & AI ETF ( BOTZ ): A Solid Way to Play Robotics",
-        "url": "https://247wallst.com/investing/2026/06/20/the-global-x-robotics-ai-etf-botz-a-solid-way-to-play-robotics/",
-        "points": 81,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-06-20T16:30:00Z",
-        "domain": "247wallst.com",
-        "sourceType": "gdelt",
-        "sourceLabel": "GDELT",
-        "category": "ハードウェア",
-        "impact": "中",
-        "newsLens": "技術",
-        "titleJa": "グローバルXロボティクス＆ AI ETF （ BOTZ ） ：ロボティクスをプレイする確かな方法",
-        "summaryJa": "この記事は「グローバルXロボティクス＆ AI ETF （ BOTZ ） ：ロボティクスをプレイする確かな方法」を扱っています。Global X Robotics & Artificial Intelligence ETF （ NASDAQ ： BOTZ ）は、米国市場で最大のピュアプレイロボティクスファンドであり、ほとんどの個人投資家が直接購入するのに苦労するであろう外国上場のオートメーション大手、米国のAIチップメーカー、外科用ロボットの専門家の間で約35.4億$の純資産を保有しています。それはまた...グローバルXロボティクス＆ AI ETです。",
-        "keyPoints": [
-          "この記事は「グローバルXロボティクス＆ AI ETF （ BOTZ ） ：ロボティクスをプレイする確かな方法」を扱っています。",
-          "Global X Robotics & Artificial Intelligence ETF （ NASDAQ ： BOTZ ）は、米国市場で最大のピュアプレイロボティクスファンドであり、ほとんどの個人投資家が直接購入するのに苦労するであろう外国上場のオートメーション大手、米国のAIチップメーカー、外科用ロボットの専門家の間で約35.4億$の純資産を保有しています。",
-          "それはまた...グローバルXロボティクス＆ AI ETです。"
         ]
       },
       {
@@ -85,27 +64,47 @@
         ]
       },
       {
-        "title": "John Jumper to join Anthropic",
-        "url": "https://twitter.com/JohnJumperSci/status/2068001285173834106",
+        "title": "US Scientist John Jumper to Leave Google DeepMind for Anthropic",
+        "url": "https://www.reuters.com/technology/us-scientist-john-jumper-leave-google-deepmind-anthropic-2026-06-19/",
+        "points": 77,
+        "comments": 6,
+        "author": "karakoram",
+        "createdAt": "2026-06-20T14:32:15Z",
+        "domain": "reuters.com",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "中",
+        "newsLens": "技術",
+        "titleJa": "米国の科学者John JumperがGoogle DeepMindを辞めてAnthropicに移籍",
+        "summaryJa": "この記事は「米国の科学者John JumperがGoogle DeepMindを辞めてAnthropicに移籍」を扱っています。reuters.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "keyPoints": [
+          "この記事は「米国の科学者John JumperがGoogle DeepMindを辞めてAnthropicに移籍」を扱っています。",
+          "reuters.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+        ]
+      },
+      {
+        "title": "Agency stole bestselling author's book, used AI to relaunch as their own",
+        "url": "https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows/",
         "points": 73,
-        "comments": 122,
-        "author": "artninja1988",
-        "createdAt": "2026-06-19T17:53:00Z",
-        "domain": "twitter.com",
+        "comments": 48,
+        "author": "ridesisapis",
+        "createdAt": "2026-06-20T18:05:31Z",
+        "domain": "waxy.org",
         "sourceType": "hn",
         "category": "AIニュース",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "John JumperがAnthropicに参加",
-        "summaryJa": "この記事は「John JumperがAnthropicに参加」を扱っています。ちょっとしたニュースですが、9年近く経って、Google DeepMindを離れ、Anthropicに入社することにしました（充電に時間がかかった後）。GDMでの時間に非常に感謝しています。",
+        "titleJa": "エージェンシーはベストセラーの著者の本を盗み、AIを使用して自分のものとして再起動しました",
+        "summaryJa": "この記事は「エージェンシーはベストセラーの著者の本を盗み、AIを使用して自分のものとして再起動しました」を扱っています。許可なく、あるマーケティングエージェンシーは、ジョン・ケーニヒの『Dictionary of Obscure Sorrows （不明瞭な悲しみの辞書）』を再版し、そのアートをAI SLOPに置き換え、新しいAIワードを追加しました。彼らの無許可のサイトは現在、どこでも実際のサイトよりも高いランクになっています。",
         "keyPoints": [
-          "この記事は「John JumperがAnthropicに参加」を扱っています。",
-          "ちょっとしたニュースですが、9年近く経って、Google DeepMindを離れ、Anthropicに入社することにしました（充電に時間がかかった後）。",
-          "GDMでの時間に非常に感謝しています。"
+          "この記事は「エージェンシーはベストセラーの著者の本を盗み、AIを使用して自分のものとして再起動しました」を扱っています。",
+          "許可なく、あるマーケティングエージェンシーは、ジョン・ケーニヒの『Dictionary of Obscure Sorrows （不明瞭な悲しみの辞書）』を再版し、そのアートをAI SLOPに置き換え、新しいAIワードを追加しました。",
+          "彼らの無許可のサイトは現在、どこでも実際のサイトよりも高いランクになっています。"
         ]
       }
     ],
-    "fetchedAt": "2026-06-20T17:22:41.651Z",
+    "fetchedAt": "2026-06-20T19:19:50.188Z",
     "mock": false
   },
   "xTrends": {
@@ -117,49 +116,13 @@
         "appearances": 2,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-06-20T17:22:41.578Z",
+        "observedAt": "2026-06-20T19:19:50.102Z",
         "url": "https://x.com/search?q=OpenAI%E3%81%AE%E5%B8%B3%E7%B0%BF&src=typed_query&f=live",
         "articleTitle": "OpenAIの帳簿",
         "articleTitleJa": "公開トレンド: OpenAIの帳簿",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-06-20T17:22:41.578Z",
-        "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
-        "translationVersion": 3,
-        "articleFallback": true
-      },
-      {
-        "topic": "AI関連株",
-        "locationLabel": "日本",
-        "bestRank": 36,
-        "appearances": 2,
-        "trendSource": "Trends24",
-        "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-06-20T17:22:41.578Z",
-        "url": "https://x.com/search?q=AI%E9%96%A2%E9%80%A3%E6%A0%AA&src=typed_query&f=live",
-        "articleTitle": "AI関連株",
-        "articleTitleJa": "公開トレンド: AI関連株",
-        "articleUrl": "https://trends24.in/japan/",
-        "articleSource": "Trends24",
-        "articlePublishedAt": "2026-06-20T17:22:41.578Z",
-        "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
-        "translationVersion": 3,
-        "articleFallback": true
-      },
-      {
-        "topic": "中国のトップAIモデル",
-        "locationLabel": "日本",
-        "bestRank": 45,
-        "appearances": 1,
-        "trendSource": "Trends24",
-        "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-06-20T17:22:41.578Z",
-        "url": "https://x.com/search?q=%E4%B8%AD%E5%9B%BD%E3%81%AE%E3%83%88%E3%83%83%E3%83%97AI%E3%83%A2%E3%83%87%E3%83%AB&src=typed_query&f=live",
-        "articleTitle": "中国のトップAIモデル",
-        "articleTitleJa": "公開トレンド: 中国のトップAIモデル",
-        "articleUrl": "https://trends24.in/japan/",
-        "articleSource": "Trends24",
-        "articlePublishedAt": "2026-06-20T17:22:41.578Z",
+        "articlePublishedAt": "2026-06-20T19:19:50.102Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -168,10 +131,10 @@
         "topic": "Oracle AI Trade",
         "locationLabel": "米国",
         "bestRank": 1,
-        "appearances": 4,
+        "appearances": 6,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-06-20T17:22:41.537Z",
+        "observedAt": "2026-06-20T19:19:50.069Z",
         "url": "https://x.com/search?q=Oracle%20AI%20Trade&src=typed_query&f=live",
         "articleTitle": "Oracle's OpenJDK Bans Generative AI Contributions, Oracle's GraalVM Allows Them",
         "articleTitleJa": "オラクルのOpenJDKは生成AIコントリビューションを禁止、オラクルのGraalVMは許可",
@@ -188,22 +151,22 @@
         "appearances": 3,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-06-20T17:22:41.537Z",
+        "observedAt": "2026-06-20T19:19:50.069Z",
         "url": "https://x.com/search?q=Corbin%20AI&src=typed_query&f=live",
         "articleTitle": "Corbin AI",
         "articleTitleJa": "公開トレンド: Corbin AI",
         "articleUrl": "https://trends24.in/united-states/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-06-20T17:22:41.537Z",
+        "articlePublishedAt": "2026-06-20T19:19:50.069Z",
         "summaryJa": "米国のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
       }
     ],
-    "fetchedAt": "2026-06-20T17:22:41.651Z",
+    "fetchedAt": "2026-06-20T19:19:50.188Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
-    "partial": false,
-    "articleFetchedAt": "2026-06-20T17:22:43.490Z"
+    "partial": true,
+    "articleFetchedAt": "2026-06-20T19:19:51.790Z"
   }
 }
