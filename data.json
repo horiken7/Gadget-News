@@ -23,51 +23,71 @@
         ]
       },
       {
-        "title": "Companies rein in AI usage as costs strain budgets",
-        "url": "https://www.ft.com/content/1d37cc08-e0aa-45a4-a45d-4ad282529314",
-        "points": 91,
-        "comments": 103,
-        "author": "fandorin",
-        "createdAt": "2026-06-19T19:57:18Z",
-        "domain": "ft.com",
+        "title": "China will have a Fable 5-class AI model before next year",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/elon-musk-says-that-china-will-have-a-fable-5-class-ai-model-probably-q1-next-year-ceo-of-chinese-anthropic-rival-says-it-wont-take-that-long",
+        "points": 99,
+        "comments": 2,
+        "author": "achow",
+        "createdAt": "2026-06-20T04:33:24Z",
+        "domain": "tomshardware.com",
         "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "高",
+        "category": "AIモデル",
+        "impact": "低",
         "newsLens": "技術",
-        "titleJa": "コストが予算に負担をかけるため、企業はAIの使用を抑制する",
-        "summaryJa": "この記事は「コストが予算に負担をかけるため、企業はAIの使用を抑制する」を扱っています。ft.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "titleJa": "中国では来年までに寓話の5クラスAIモデルが登場",
+        "summaryJa": "この記事は「中国では来年までに寓話の5クラスAIモデルが登場」を扱っています。中国のAIラボがAnthropicに追いついていると言われています。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
         "keyPoints": [
-          "この記事は「コストが予算に負担をかけるため、企業はAIの使用を抑制する」を扱っています。",
-          "ft.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+          "この記事は「中国では来年までに寓話の5クラスAIモデルが登場」を扱っています。",
+          "中国のAIラボがAnthropicに追いついていると言われています。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
       },
       {
-        "title": "Nobel laureate John Jumper is leaving DeepMind for rival Anthropic",
-        "url": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/",
+        "title": "Show HN: We post-trained a model that pen tests instead of refusing",
+        "url": "https://www.argusred.com/cli",
+        "points": 81,
+        "comments": 22,
+        "author": "dk189",
+        "createdAt": "2026-06-20T13:49:03Z",
+        "domain": "argusred.com",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "低",
+        "newsLens": "技術",
+        "titleJa": "HNを表示：拒否するのではなく、テストをペンするモデルを事後トレーニングしました",
+        "summaryJa": "この記事は「HNを表示：拒否するのではなく、テストをペンするモデルを事後トレーニングしました」を扱っています。AnthropicとOpenAIの公開モデルは、攻撃的なタスクを拒否するように明示的にガードレールされています。そして、彼らのサイバーに焦点を当てたモデルは、企業のためにゲートされています。",
+        "keyPoints": [
+          "この記事は「HNを表示：拒否するのではなく、テストをペンするモデルを事後トレーニングしました」を扱っています。",
+          "AnthropicとOpenAIの公開モデルは、攻撃的なタスクを拒否するように明示的にガードレールされています。",
+          "そして、彼らのサイバーに焦点を当てたモデルは、企業のためにゲートされています。"
+        ]
+      },
+      {
+        "title": "Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’",
+        "url": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
         "points": 79,
         "comments": 0,
         "author": "",
-        "createdAt": "2026-06-20T16:39:57.000Z",
+        "createdAt": "2026-06-20T20:32:29.000Z",
         "domain": "techcrunch.com",
         "sourceType": "rss",
         "sourceLabel": "TechCrunch AI",
         "newsLens": "一般",
         "category": "AIニュース",
         "impact": "中",
-        "titleJa": "ノーベル賞受賞者のジョン・ジャンパー氏がDeepMindを去り、ライバルのAnthropicに移籍",
-        "summaryJa": "この記事は「ノーベル賞受賞者のジョン・ジャンパー氏がDeepMindを去り、ライバルのAnthropicに移籍」を扱っています。Google DeepMindを去るのは、Jumperだけではありません。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "titleJa": "SignalのMeredith Whittakerは、AIチャットボットは「あなたの友達ではない」ことを覚えておいてほしい",
+        "summaryJa": "この記事は「SignalのMeredith Whittakerは、AIチャットボットは「あなたの友達ではない」ことを覚えておいてほしい」を扱っています。「彼らはあなたの友達ではありません。彼らは意識的な対話者ではありません。",
         "keyPoints": [
-          "この記事は「ノーベル賞受賞者のジョン・ジャンパー氏がDeepMindを去り、ライバルのAnthropicに移籍」を扱っています。",
-          "Google DeepMindを去るのは、Jumperだけではありません。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+          "この記事は「SignalのMeredith Whittakerは、AIチャットボットは「あなたの友達ではない」ことを覚えておいてほしい」を扱っています。",
+          "「彼らはあなたの友達ではありません。",
+          "彼らは意識的な対話者ではありません。"
         ]
       },
       {
         "title": "US Scientist John Jumper to Leave Google DeepMind for Anthropic",
         "url": "https://www.reuters.com/technology/us-scientist-john-jumper-leave-google-deepmind-anthropic-2026-06-19/",
         "points": 77,
-        "comments": 6,
+        "comments": 8,
         "author": "karakoram",
         "createdAt": "2026-06-20T14:32:15Z",
         "domain": "reuters.com",
@@ -82,47 +102,27 @@
           "reuters.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
           "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
-      },
-      {
-        "title": "Agency stole bestselling author's book, used AI to relaunch as their own",
-        "url": "https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows/",
-        "points": 73,
-        "comments": 48,
-        "author": "ridesisapis",
-        "createdAt": "2026-06-20T18:05:31Z",
-        "domain": "waxy.org",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "エージェンシーはベストセラーの著者の本を盗み、AIを使用して自分のものとして再起動しました",
-        "summaryJa": "この記事は「エージェンシーはベストセラーの著者の本を盗み、AIを使用して自分のものとして再起動しました」を扱っています。許可なく、あるマーケティングエージェンシーは、ジョン・ケーニヒの『Dictionary of Obscure Sorrows （不明瞭な悲しみの辞書）』を再版し、そのアートをAI SLOPに置き換え、新しいAIワードを追加しました。彼らの無許可のサイトは現在、どこでも実際のサイトよりも高いランクになっています。",
-        "keyPoints": [
-          "この記事は「エージェンシーはベストセラーの著者の本を盗み、AIを使用して自分のものとして再起動しました」を扱っています。",
-          "許可なく、あるマーケティングエージェンシーは、ジョン・ケーニヒの『Dictionary of Obscure Sorrows （不明瞭な悲しみの辞書）』を再版し、そのアートをAI SLOPに置き換え、新しいAIワードを追加しました。",
-          "彼らの無許可のサイトは現在、どこでも実際のサイトよりも高いランクになっています。"
-        ]
       }
     ],
-    "fetchedAt": "2026-06-20T19:19:50.188Z",
+    "fetchedAt": "2026-06-20T21:13:32.668Z",
     "mock": false
   },
   "xTrends": {
     "items": [
       {
-        "topic": "OpenAIの帳簿",
+        "topic": "AI関連の仕事",
         "locationLabel": "日本",
-        "bestRank": 25,
-        "appearances": 2,
+        "bestRank": 39,
+        "appearances": 1,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-06-20T19:19:50.102Z",
-        "url": "https://x.com/search?q=OpenAI%E3%81%AE%E5%B8%B3%E7%B0%BF&src=typed_query&f=live",
-        "articleTitle": "OpenAIの帳簿",
-        "articleTitleJa": "公開トレンド: OpenAIの帳簿",
+        "observedAt": "2026-06-20T21:13:32.592Z",
+        "url": "https://x.com/search?q=AI%E9%96%A2%E9%80%A3%E3%81%AE%E4%BB%95%E4%BA%8B&src=typed_query&f=live",
+        "articleTitle": "AI関連の仕事",
+        "articleTitleJa": "公開トレンド: AI関連の仕事",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-06-20T19:19:50.102Z",
+        "articlePublishedAt": "2026-06-20T21:13:32.592Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -131,10 +131,10 @@
         "topic": "Oracle AI Trade",
         "locationLabel": "米国",
         "bestRank": 1,
-        "appearances": 6,
+        "appearances": 10,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-06-20T19:19:50.069Z",
+        "observedAt": "2026-06-20T21:13:32.554Z",
         "url": "https://x.com/search?q=Oracle%20AI%20Trade&src=typed_query&f=live",
         "articleTitle": "Oracle's OpenJDK Bans Generative AI Contributions, Oracle's GraalVM Allows Them",
         "articleTitleJa": "オラクルのOpenJDKは生成AIコントリビューションを禁止、オラクルのGraalVMは許可",
@@ -151,22 +151,22 @@
         "appearances": 3,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-06-20T19:19:50.069Z",
+        "observedAt": "2026-06-20T21:13:32.554Z",
         "url": "https://x.com/search?q=Corbin%20AI&src=typed_query&f=live",
         "articleTitle": "Corbin AI",
         "articleTitleJa": "公開トレンド: Corbin AI",
         "articleUrl": "https://trends24.in/united-states/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-06-20T19:19:50.069Z",
+        "articlePublishedAt": "2026-06-20T21:13:32.554Z",
         "summaryJa": "米国のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
       }
     ],
-    "fetchedAt": "2026-06-20T19:19:50.188Z",
+    "fetchedAt": "2026-06-20T21:13:32.668Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-06-20T19:19:51.790Z"
+    "articleFetchedAt": "2026-06-20T21:13:36.580Z"
   }
 }
