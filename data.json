@@ -2,92 +2,52 @@
   "news": {
     "items": [
       {
-        "title": "US Scientist John Jumper to Leave Google DeepMind for Anthropic",
-        "url": "https://www.reuters.com/technology/us-scientist-john-jumper-leave-google-deepmind-anthropic-2026-06-19/",
-        "points": 80,
-        "comments": 10,
-        "author": "karakoram",
-        "createdAt": "2026-06-20T14:32:15Z",
-        "domain": "reuters.com",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "中",
-        "newsLens": "技術",
-        "titleJa": "米国の科学者John JumperがGoogle DeepMindを辞めてAnthropicに移籍",
-        "summaryJa": "この記事は「米国の科学者John JumperがGoogle DeepMindを辞めてAnthropicに移籍」を扱っています。reuters.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
-        "keyPoints": [
-          "この記事は「米国の科学者John JumperがGoogle DeepMindを辞めてAnthropicに移籍」を扱っています。",
-          "reuters.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
-        ]
-      },
-      {
-        "title": "Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’",
-        "url": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
-        "points": 79,
+        "title": "Trump tells Axios he doesnt see Anthropic as U . S . security threat",
+        "url": "https://www.latimes.com/business/story/2026-06-19/trump-tells-axios-he-doesnt-see-anthropic-as-u-s-security-threat",
+        "points": 107,
         "comments": 0,
         "author": "",
-        "createdAt": "2026-06-20T20:32:29.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
-        "category": "AIニュース",
-        "impact": "中",
-        "titleJa": "SignalのMeredith Whittakerは、AIチャットボットは「あなたの友達ではない」ことを覚えておいてほしい",
-        "summaryJa": "この記事は「SignalのMeredith Whittakerは、AIチャットボットは「あなたの友達ではない」ことを覚えておいてほしい」を扱っています。「彼らはあなたの友達ではありません。彼らは意識的な対話者ではありません。",
-        "keyPoints": [
-          "この記事は「SignalのMeredith Whittakerは、AIチャットボットは「あなたの友達ではない」ことを覚えておいてほしい」を扱っています。",
-          "「彼らはあなたの友達ではありません。",
-          "彼らは意識的な対話者ではありません。"
-        ]
-      },
-      {
-        "title": "In the Weights is your new AI-centric vanity search",
-        "url": "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/",
-        "points": 79,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-06-20T19:41:11.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
-        "category": "AIニュース",
-        "impact": "中",
-        "titleJa": "重みには、新しいAI中心の虚栄心検索があります",
-        "summaryJa": "この記事は「重みには、新しいAI中心の虚栄心検索があります」を扱っています。それで...あなたのIn the Weightsスコアはいくらですか？一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
-        "keyPoints": [
-          "この記事は「重みには、新しいAI中心の虚栄心検索があります」を扱っています。",
-          "それで...あなたのIn the Weightsスコアはいくらですか。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
-        ]
-      },
-      {
-        "title": "The 100k Whys of AI",
-        "url": "https://lcamtuf.substack.com/p/the-100000-whys-of-ai",
-        "points": 72,
-        "comments": 70,
-        "author": "surprisetalk",
-        "createdAt": "2026-06-21T05:45:21Z",
-        "domain": "lcamtuf.substack.com",
-        "sourceType": "hn",
+        "createdAt": "2026-06-21T15:45:00Z",
+        "domain": "latimes.com",
+        "sourceType": "gdelt",
+        "sourceLabel": "GDELT",
         "category": "AIニュース",
         "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "AIの10万の理由",
-        "summaryJa": "この記事は「AIの10万の理由」を扱っています。lcamtuf.substack.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "newsLens": "一般",
+        "titleJa": "トランプ氏はAxiosに、AnthropicをUとは見なしていないと言います。S.セキュリティ上の脅威",
+        "summaryJa": "この記事は「トランプ氏はAxiosに、AnthropicをUとは見なしていないと言います。S.セキュリティ上の脅威」を扱っています。トランプ大統領は、彼の政権が最先端の人工知能モデルへの外国からのアクセスを遮断する措置を講じた数日後、Anthropic PBCを国家安全保障上の脅威とは見なさないと述べた。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
-          "この記事は「AIの10万の理由」を扱っています。",
-          "lcamtuf.substack.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+          "この記事は「トランプ氏はAxiosに、AnthropicをUとは見なしていないと言います。",
+          "S.セキュリティ上の脅威」を扱っています。",
+          "トランプ大統領は、彼の政権が最先端の人工知能モデルへの外国からのアクセスを遮断する措置を講じた数日後、Anthropic PBCを国家安全保障上の脅威とは見なさないと述べた。"
+        ]
+      },
+      {
+        "title": "When the Trump administration cracks down on Anthropic, who benefits?",
+        "url": "https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/",
+        "points": 105,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-06-21T15:28:17.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
+        "category": "AIニュース",
+        "impact": "高",
+        "titleJa": "トランプ政権がAnthropicを取り締まるとき、誰が利益を得るのか？",
+        "summaryJa": "この記事は「トランプ政権がAnthropicを取り締まるとき、誰が利益を得るのか？」を扱っています。エクイティの新しいエピソードでは、実際に何が政権のAnthropicに対する最新の動きを促したのか、そしてこれがAIエコシステムにとって何を意味するのかについて議論しました。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "keyPoints": [
+          "この記事は「トランプ政権がAnthropicを取り締まるとき、誰が利益を得るのか。",
+          "エクイティの新しいエピソードでは、実際に何が政権のAnthropicに対する最新の動きを促したのか、そしてこれがAIエコシステムにとって何を意味するのかについて議論しました。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       },
       {
         "title": "Building reliable agentic AI systems",
         "url": "https://martinfowler.com/articles/reliable-llm-bayer.html",
-        "points": 71,
-        "comments": 32,
+        "points": 73,
+        "comments": 36,
         "author": "sarangk90",
         "createdAt": "2026-06-21T04:28:39Z",
         "domain": "martinfowler.com",
@@ -102,9 +62,49 @@
           "martinfowler.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
           "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
+      },
+      {
+        "title": "Anthropic to Require ID Verification for Certain Capabilities Starting July 8",
+        "url": "https://old.reddit.com/r/ClaudeAI/comments/1ubm53n/official_anthropic_to_require_identity/",
+        "points": 73,
+        "comments": 127,
+        "author": "bathory",
+        "createdAt": "2026-06-21T12:44:13Z",
+        "domain": "old.reddit.com",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "Anthropic、7月8日から特定の機能のID認証を要求",
+        "summaryJa": "この記事は「Anthropic、7月8日から特定の機能のID認証を要求」を扱っています。old.reddit.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "keyPoints": [
+          "この記事は「Anthropic、7月8日から特定の機能のID認証を要求」を扱っています。",
+          "old.reddit.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+        ]
+      },
+      {
+        "title": "Show HN: Lean bulk, cut, body recomp. Calculate maintenance calories",
+        "url": "https://macrocodex.app/",
+        "points": 48,
+        "comments": 9,
+        "author": "faangguyindia",
+        "createdAt": "2026-06-21T01:44:43Z",
+        "domain": "macrocodex.app",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "低",
+        "newsLens": "技術",
+        "titleJa": "Show HN: Lean bulk, cut, body recomp.メンテナンスカロリーの計算",
+        "summaryJa": "この記事は「Show HN: Lean bulk, cut, body recomp.メンテナンスカロリーの計算」を扱っています。メンテナンスカロリーを超えて食べると体重が増え、メンテナンスカロリーを下回ると体重が減ります。アルゴリズムを使用することで、katch mc ardleのような従来の回帰ベースの数式よりも正確にメンテナンスカロリーを計算することができます。",
+        "keyPoints": [
+          "この記事は「Show HN: Lean bulk, cut, body recomp.メンテナンスカロリーの計算」を扱っています。",
+          "メンテナンスカロリーを超えて食べると体重が増え、メンテナンスカロリーを下回ると体重が減ります。",
+          "アルゴリズムを使用することで、katch mc ardleのような従来の回帰ベースの数式よりも正確にメンテナンスカロリーを計算することができます。"
+        ]
       }
     ],
-    "fetchedAt": "2026-06-21T14:01:06.080Z",
+    "fetchedAt": "2026-06-21T16:27:52.944Z",
     "mock": false
   },
   "xTrends": {
@@ -116,13 +116,13 @@
         "appearances": 3,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-06-21T14:01:06.025Z",
+        "observedAt": "2026-06-21T16:27:52.829Z",
         "url": "https://x.com/search?q=Anthropic%E3%81%AECEO&src=typed_query&f=live",
         "articleTitle": "AnthropicのCEO",
         "articleTitleJa": "公開トレンド: AnthropicのCEO",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-06-21T14:01:06.025Z",
+        "articlePublishedAt": "2026-06-21T16:27:52.829Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -134,31 +134,13 @@
         "appearances": 2,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-06-21T14:01:06.025Z",
+        "observedAt": "2026-06-21T16:27:52.829Z",
         "url": "https://x.com/search?q=AI%E4%BC%81%E6%A5%AD&src=typed_query&f=live",
         "articleTitle": "AI企業",
         "articleTitleJa": "公開トレンド: AI企業",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-06-21T14:01:06.025Z",
-        "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
-        "translationVersion": 3,
-        "articleFallback": true
-      },
-      {
-        "topic": "AI関連の仕事",
-        "locationLabel": "日本",
-        "bestRank": 39,
-        "appearances": 1,
-        "trendSource": "Trends24",
-        "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-06-21T14:01:06.025Z",
-        "url": "https://x.com/search?q=AI%E9%96%A2%E9%80%A3%E3%81%AE%E4%BB%95%E4%BA%8B&src=typed_query&f=live",
-        "articleTitle": "AI関連の仕事",
-        "articleTitleJa": "公開トレンド: AI関連の仕事",
-        "articleUrl": "https://trends24.in/japan/",
-        "articleSource": "Trends24",
-        "articlePublishedAt": "2026-06-21T14:01:06.025Z",
+        "articlePublishedAt": "2026-06-21T16:27:52.829Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -170,7 +152,7 @@
         "appearances": 19,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-06-21T14:01:05.971Z",
+        "observedAt": "2026-06-21T16:27:52.880Z",
         "url": "https://x.com/search?q=Oracle%20AI%20Trade&src=typed_query&f=live",
         "articleTitle": "Oracle's OpenJDK Bans Generative AI Contributions, Oracle's GraalVM Allows Them",
         "articleTitleJa": "オラクルのOpenJDKは生成AIコントリビューションを禁止、オラクルのGraalVMは許可",
@@ -181,10 +163,10 @@
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-06-21T14:01:06.080Z",
+    "fetchedAt": "2026-06-21T16:27:52.943Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-06-21T14:01:07.831Z"
+    "articleFetchedAt": "2026-06-21T16:27:54.442Z"
   }
 }
