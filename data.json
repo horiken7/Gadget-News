@@ -2,26 +2,6 @@
   "news": {
     "items": [
       {
-        "title": "Show HN: We post-trained a model that pen tests instead of refusing",
-        "url": "https://www.argusred.com/cli",
-        "points": 90,
-        "comments": 37,
-        "author": "dk189",
-        "createdAt": "2026-06-20T13:49:03Z",
-        "domain": "argusred.com",
-        "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "中",
-        "newsLens": "技術",
-        "titleJa": "HNを表示：拒否するのではなく、テストをペンするモデルを事後トレーニングしました",
-        "summaryJa": "この記事は「HNを表示：拒否するのではなく、テストをペンするモデルを事後トレーニングしました」を扱っています。AnthropicとOpenAIの公開モデルは、攻撃的なタスクを拒否するように明示的にガードレールされています。そして、彼らのサイバーに焦点を当てたモデルは、企業のためにゲートされています。",
-        "keyPoints": [
-          "この記事は「HNを表示：拒否するのではなく、テストをペンするモデルを事後トレーニングしました」を扱っています。",
-          "AnthropicとOpenAIの公開モデルは、攻撃的なタスクを拒否するように明示的にガードレールされています。",
-          "そして、彼らのサイバーに焦点を当てたモデルは、企業のためにゲートされています。"
-        ]
-      },
-      {
         "title": "US Scientist John Jumper to Leave Google DeepMind for Anthropic",
         "url": "https://www.reuters.com/technology/us-scientist-john-jumper-leave-google-deepmind-anthropic-2026-06-19/",
         "points": 80,
@@ -86,8 +66,8 @@
       {
         "title": "The 100k Whys of AI",
         "url": "https://lcamtuf.substack.com/p/the-100000-whys-of-ai",
-        "points": 69,
-        "comments": 68,
+        "points": 72,
+        "comments": 70,
         "author": "surprisetalk",
         "createdAt": "2026-06-21T05:45:21Z",
         "domain": "lcamtuf.substack.com",
@@ -102,9 +82,29 @@
           "lcamtuf.substack.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
           "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
+      },
+      {
+        "title": "Building reliable agentic AI systems",
+        "url": "https://martinfowler.com/articles/reliable-llm-bayer.html",
+        "points": 71,
+        "comments": 32,
+        "author": "sarangk90",
+        "createdAt": "2026-06-21T04:28:39Z",
+        "domain": "martinfowler.com",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "信頼性の高いエージェントAIシステムの構築",
+        "summaryJa": "この記事は「信頼性の高いエージェントAIシステムの構築」を扱っています。martinfowler.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "keyPoints": [
+          "この記事は「信頼性の高いエージェントAIシステムの構築」を扱っています。",
+          "martinfowler.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+        ]
       }
     ],
-    "fetchedAt": "2026-06-21T11:42:52.115Z",
+    "fetchedAt": "2026-06-21T14:01:06.080Z",
     "mock": false
   },
   "xTrends": {
@@ -116,13 +116,13 @@
         "appearances": 3,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-06-21T11:42:52.032Z",
+        "observedAt": "2026-06-21T14:01:06.025Z",
         "url": "https://x.com/search?q=Anthropic%E3%81%AECEO&src=typed_query&f=live",
         "articleTitle": "AnthropicのCEO",
         "articleTitleJa": "公開トレンド: AnthropicのCEO",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-06-21T11:42:52.032Z",
+        "articlePublishedAt": "2026-06-21T14:01:06.025Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -134,13 +134,13 @@
         "appearances": 2,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-06-21T11:42:52.032Z",
+        "observedAt": "2026-06-21T14:01:06.025Z",
         "url": "https://x.com/search?q=AI%E4%BC%81%E6%A5%AD&src=typed_query&f=live",
         "articleTitle": "AI企業",
         "articleTitleJa": "公開トレンド: AI企業",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-06-21T11:42:52.032Z",
+        "articlePublishedAt": "2026-06-21T14:01:06.025Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -152,13 +152,13 @@
         "appearances": 1,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-06-21T11:42:52.032Z",
+        "observedAt": "2026-06-21T14:01:06.025Z",
         "url": "https://x.com/search?q=AI%E9%96%A2%E9%80%A3%E3%81%AE%E4%BB%95%E4%BA%8B&src=typed_query&f=live",
         "articleTitle": "AI関連の仕事",
         "articleTitleJa": "公開トレンド: AI関連の仕事",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-06-21T11:42:52.032Z",
+        "articlePublishedAt": "2026-06-21T14:01:06.025Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -166,11 +166,11 @@
       {
         "topic": "Oracle AI Trade",
         "locationLabel": "米国",
-        "bestRank": 3,
-        "appearances": 18,
+        "bestRank": 5,
+        "appearances": 19,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-06-21T11:42:51.979Z",
+        "observedAt": "2026-06-21T14:01:05.971Z",
         "url": "https://x.com/search?q=Oracle%20AI%20Trade&src=typed_query&f=live",
         "articleTitle": "Oracle's OpenJDK Bans Generative AI Contributions, Oracle's GraalVM Allows Them",
         "articleTitleJa": "オラクルのOpenJDKは生成AIコントリビューションを禁止、オラクルのGraalVMは許可",
@@ -181,10 +181,10 @@
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-06-21T11:42:52.115Z",
+    "fetchedAt": "2026-06-21T14:01:06.080Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-06-21T11:42:55.940Z"
+    "articleFetchedAt": "2026-06-21T14:01:07.831Z"
   }
 }
