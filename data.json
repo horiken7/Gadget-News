@@ -44,30 +44,10 @@
         ]
       },
       {
-        "title": "Building reliable agentic AI systems",
-        "url": "https://martinfowler.com/articles/reliable-llm-bayer.html",
-        "points": 73,
-        "comments": 40,
-        "author": "sarangk90",
-        "createdAt": "2026-06-21T04:28:39Z",
-        "domain": "martinfowler.com",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "信頼性の高いエージェントAIシステムの構築",
-        "summaryJa": "この記事は「信頼性の高いエージェントAIシステムの構築」を扱っています。martinfowler.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
-        "keyPoints": [
-          "この記事は「信頼性の高いエージェントAIシステムの構築」を扱っています。",
-          "martinfowler.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
-        ]
-      },
-      {
         "title": "Identity verification on Claude",
         "url": "https://support.claude.com/en/articles/14328960-identity-verification-on-claude",
         "points": 73,
-        "comments": 144,
+        "comments": 269,
         "author": "bathory",
         "createdAt": "2026-06-21T12:44:13Z",
         "domain": "support.claude.com",
@@ -81,6 +61,26 @@
           "この記事は「Claudeでの本人確認」を扱っています。",
           "support.claude.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
           "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+        ]
+      },
+      {
+        "title": "Building reliable agentic AI systems",
+        "url": "https://martinfowler.com/articles/reliable-llm-bayer.html",
+        "points": 73,
+        "comments": 43,
+        "author": "sarangk90",
+        "createdAt": "2026-06-21T04:28:39Z",
+        "domain": "martinfowler.com",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "信頼性の高いエージェントAIシステムの構築",
+        "summaryJa": "この記事は「信頼性の高いエージェントAIシステムの構築」を扱っています。martinfowler.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "keyPoints": [
+          "この記事は「信頼性の高いエージェントAIシステムの構築」を扱っています。",
+          "martinfowler.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
       },
       {
@@ -104,37 +104,19 @@
         ]
       }
     ],
-    "fetchedAt": "2026-06-21T18:17:14.992Z",
+    "fetchedAt": "2026-06-21T20:22:26.212Z",
     "mock": false
   },
   "xTrends": {
     "items": [
       {
-        "topic": "AnthropicのCEO",
-        "locationLabel": "日本",
-        "bestRank": 29,
-        "appearances": 1,
-        "trendSource": "Trends24",
-        "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-06-21T18:17:14.975Z",
-        "url": "https://x.com/search?q=Anthropic%E3%81%AECEO&src=typed_query&f=live",
-        "articleTitle": "AnthropicのCEO",
-        "articleTitleJa": "公開トレンド: AnthropicのCEO",
-        "articleUrl": "https://trends24.in/japan/",
-        "articleSource": "Trends24",
-        "articlePublishedAt": "2026-06-21T18:17:14.975Z",
-        "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
-        "translationVersion": 3,
-        "articleFallback": true
-      },
-      {
         "topic": "Oracle AI Trade",
         "locationLabel": "米国",
         "bestRank": 5,
-        "appearances": 16,
+        "appearances": 13,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-06-21T18:17:14.956Z",
+        "observedAt": "2026-06-21T20:22:26.075Z",
         "url": "https://x.com/search?q=Oracle%20AI%20Trade&src=typed_query&f=live",
         "articleTitle": "Oracle's OpenJDK Bans Generative AI Contributions, Oracle's GraalVM Allows Them",
         "articleTitleJa": "オラクルのOpenJDKは生成AIコントリビューションを禁止、オラクルのGraalVMは許可",
@@ -145,10 +127,10 @@
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-06-21T18:17:14.992Z",
+    "fetchedAt": "2026-06-21T20:22:26.212Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-06-21T18:17:16.215Z"
+    "articleFetchedAt": "2026-06-21T20:22:27.513Z"
   }
 }
