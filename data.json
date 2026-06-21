@@ -4,8 +4,8 @@
       {
         "title": "Show HN: We post-trained a model that pen tests instead of refusing",
         "url": "https://www.argusred.com/cli",
-        "points": 84,
-        "comments": 27,
+        "points": 88,
+        "comments": 37,
         "author": "dk189",
         "createdAt": "2026-06-20T13:49:03Z",
         "domain": "argusred.com",
@@ -43,6 +43,26 @@
         ]
       },
       {
+        "title": "US Scientist John Jumper to Leave Google DeepMind for Anthropic",
+        "url": "https://www.reuters.com/technology/us-scientist-john-jumper-leave-google-deepmind-anthropic-2026-06-19/",
+        "points": 79,
+        "comments": 10,
+        "author": "karakoram",
+        "createdAt": "2026-06-20T14:32:15Z",
+        "domain": "reuters.com",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "中",
+        "newsLens": "技術",
+        "titleJa": "米国の科学者John JumperがGoogle DeepMindを辞めてAnthropicに移籍",
+        "summaryJa": "この記事は「米国の科学者John JumperがGoogle DeepMindを辞めてAnthropicに移籍」を扱っています。reuters.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "keyPoints": [
+          "この記事は「米国の科学者John JumperがGoogle DeepMindを辞めてAnthropicに移籍」を扱っています。",
+          "reuters.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+        ]
+      },
+      {
         "title": "In the Weights is your new AI-centric vanity search",
         "url": "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/",
         "points": 79,
@@ -64,47 +84,27 @@
         ]
       },
       {
-        "title": "US Scientist John Jumper to Leave Google DeepMind for Anthropic",
-        "url": "https://www.reuters.com/technology/us-scientist-john-jumper-leave-google-deepmind-anthropic-2026-06-19/",
-        "points": 77,
-        "comments": 9,
-        "author": "karakoram",
-        "createdAt": "2026-06-20T14:32:15Z",
-        "domain": "reuters.com",
+        "title": "When I reject AI code even if it works",
+        "url": "https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/",
+        "points": 57,
+        "comments": 31,
+        "author": "vnbrs",
+        "createdAt": "2026-06-21T00:58:13Z",
+        "domain": "vinibrasil.com",
         "sourceType": "hn",
-        "category": "AIニュース",
+        "category": "開発ツール",
         "impact": "中",
         "newsLens": "技術",
-        "titleJa": "米国の科学者John JumperがGoogle DeepMindを辞めてAnthropicに移籍",
-        "summaryJa": "この記事は「米国の科学者John JumperがGoogle DeepMindを辞めてAnthropicに移籍」を扱っています。reuters.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "titleJa": "AIコードが機能していても拒否する場合",
+        "summaryJa": "この記事は「AIコードが機能していても拒否する場合」を扱っています。AIは、見直しと判断をより高価にしながら、実装を安価にすることができます。技術者にとっては、開発フロー、API、セキュリティ、運用コストへの影響が確認ポイントです。",
         "keyPoints": [
-          "この記事は「米国の科学者John JumperがGoogle DeepMindを辞めてAnthropicに移籍」を扱っています。",
-          "reuters.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
-        ]
-      },
-      {
-        "title": "Ubisoft co-founder Claude Guillemot has died in a plane crash",
-        "url": "https://www.reuters.com/world/ubisofts-co-founder-claude-guillemot-dies-plane-crash-2026-06-20/",
-        "points": 53,
-        "comments": 91,
-        "author": "drayfield",
-        "createdAt": "2026-06-20T14:12:50Z",
-        "domain": "reuters.com",
-        "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "Ubisoftの共同創業者Claude Guillemotが飛行機事故で死亡",
-        "summaryJa": "この記事は「Ubisoftの共同創業者Claude Guillemotが飛行機事故で死亡」を扱っています。reuters.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
-        "keyPoints": [
-          "この記事は「Ubisoftの共同創業者Claude Guillemotが飛行機事故で死亡」を扱っています。",
-          "reuters.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+          "この記事は「AIコードが機能していても拒否する場合」を扱っています。",
+          "AIは、見直しと判断をより高価にしながら、実装を安価にすることができます。",
+          "技術者にとっては、開発フロー、API、セキュリティ、運用コストへの影響が確認ポイントです。"
         ]
       }
     ],
-    "fetchedAt": "2026-06-20T23:04:08.290Z",
+    "fetchedAt": "2026-06-21T03:43:37.229Z",
     "mock": false
   },
   "xTrends": {
@@ -113,16 +113,16 @@
         "topic": "AnthropicのCEO",
         "locationLabel": "日本",
         "bestRank": 14,
-        "appearances": 2,
+        "appearances": 3,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-06-20T23:04:08.187Z",
+        "observedAt": "2026-06-21T03:43:37.211Z",
         "url": "https://x.com/search?q=Anthropic%E3%81%AECEO&src=typed_query&f=live",
         "articleTitle": "AnthropicのCEO",
         "articleTitleJa": "公開トレンド: AnthropicのCEO",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-06-20T23:04:08.187Z",
+        "articlePublishedAt": "2026-06-21T03:43:37.211Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -134,13 +134,13 @@
         "appearances": 2,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-06-20T23:04:08.187Z",
+        "observedAt": "2026-06-21T03:43:37.211Z",
         "url": "https://x.com/search?q=AI%E4%BC%81%E6%A5%AD&src=typed_query&f=live",
         "articleTitle": "AI企業",
         "articleTitleJa": "公開トレンド: AI企業",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-06-20T23:04:08.187Z",
+        "articlePublishedAt": "2026-06-21T03:43:37.211Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -152,13 +152,13 @@
         "appearances": 1,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-06-20T23:04:08.187Z",
+        "observedAt": "2026-06-21T03:43:37.211Z",
         "url": "https://x.com/search?q=AI%E9%96%A2%E9%80%A3%E3%81%AE%E4%BB%95%E4%BA%8B&src=typed_query&f=live",
         "articleTitle": "AI関連の仕事",
         "articleTitleJa": "公開トレンド: AI関連の仕事",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-06-20T23:04:08.187Z",
+        "articlePublishedAt": "2026-06-21T03:43:37.211Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -167,10 +167,10 @@
         "topic": "Oracle AI Trade",
         "locationLabel": "米国",
         "bestRank": 1,
-        "appearances": 12,
+        "appearances": 14,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-06-20T23:04:08.274Z",
+        "observedAt": "2026-06-21T03:43:37.193Z",
         "url": "https://x.com/search?q=Oracle%20AI%20Trade&src=typed_query&f=live",
         "articleTitle": "Oracle's OpenJDK Bans Generative AI Contributions, Oracle's GraalVM Allows Them",
         "articleTitleJa": "オラクルのOpenJDKは生成AIコントリビューションを禁止、オラクルのGraalVMは許可",
@@ -179,30 +179,12 @@
         "articlePublishedAt": "2026-06-17T09:12:45Z",
         "summaryJa": "Oracle が支援する 2 つの関連プロジェクトが、生成 AI で作成されたオープンソースのコントリビューションに関して反対のポリシーを発表しました。OpenJDK 理事会は、そのようなコントリビューションを禁止する暫定ポリシーを承認しました。",
         "translationVersion": 3
-      },
-      {
-        "topic": "Corbin AI",
-        "locationLabel": "米国",
-        "bestRank": 33,
-        "appearances": 2,
-        "trendSource": "Trends24",
-        "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-06-20T23:04:08.274Z",
-        "url": "https://x.com/search?q=Corbin%20AI&src=typed_query&f=live",
-        "articleTitle": "Corbin AI",
-        "articleTitleJa": "公開トレンド: Corbin AI",
-        "articleUrl": "https://trends24.in/united-states/",
-        "articleSource": "Trends24",
-        "articlePublishedAt": "2026-06-20T23:04:08.274Z",
-        "summaryJa": "米国のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
-        "translationVersion": 3,
-        "articleFallback": true
       }
     ],
-    "fetchedAt": "2026-06-20T23:04:08.290Z",
+    "fetchedAt": "2026-06-21T03:43:37.229Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
-    "partial": false,
-    "articleFetchedAt": "2026-06-20T23:04:10.349Z"
+    "partial": true,
+    "articleFetchedAt": "2026-06-21T03:43:41.313Z"
   }
 }
