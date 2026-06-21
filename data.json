@@ -2,27 +2,6 @@
   "news": {
     "items": [
       {
-        "title": "Trump tells Axios he doesnt see Anthropic as U . S . security threat",
-        "url": "https://www.latimes.com/business/story/2026-06-19/trump-tells-axios-he-doesnt-see-anthropic-as-u-s-security-threat",
-        "points": 107,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-06-21T15:45:00Z",
-        "domain": "latimes.com",
-        "sourceType": "gdelt",
-        "sourceLabel": "GDELT",
-        "category": "AIニュース",
-        "impact": "高",
-        "newsLens": "一般",
-        "titleJa": "トランプ氏はAxiosに、AnthropicをUとは見なしていないと言います。S.セキュリティ上の脅威",
-        "summaryJa": "この記事は「トランプ氏はAxiosに、AnthropicをUとは見なしていないと言います。S.セキュリティ上の脅威」を扱っています。トランプ大統領は、彼の政権が最先端の人工知能モデルへの外国からのアクセスを遮断する措置を講じた数日後、Anthropic PBCを国家安全保障上の脅威とは見なさないと述べた。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
-        "keyPoints": [
-          "この記事は「トランプ氏はAxiosに、AnthropicをUとは見なしていないと言います。",
-          "S.セキュリティ上の脅威」を扱っています。",
-          "トランプ大統領は、彼の政権が最先端の人工知能モデルへの外国からのアクセスを遮断する措置を講じた数日後、Anthropic PBCを国家安全保障上の脅威とは見なさないと述べた。"
-        ]
-      },
-      {
         "title": "When the Trump administration cracks down on Anthropic, who benefits?",
         "url": "https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/",
         "points": 105,
@@ -44,10 +23,31 @@
         ]
       },
       {
+        "title": "Beyond Siri: Here are the practical AI features coming to your iPhone in iOS 27",
+        "url": "https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/",
+        "points": 79,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-06-21T14:40:28.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
+        "category": "AIニュース",
+        "impact": "中",
+        "titleJa": "Siriを超えて： iOS 27でiPhoneに搭載される実用的なAI機能をご紹介します",
+        "summaryJa": "この記事は「Siriを超えて： iOS 27でiPhoneに搭載される実用的なAI機能をご紹介します」を扱っています。SiriのAIオーバーホールはWWDCの見出しをつかんだかもしれないが、Appleの最も有用なAI機能のいくつかはiOS 27の他の場所に登場している。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "keyPoints": [
+          "この記事は「Siriを超えて： iOS 27でiPhoneに搭載される実用的なAI機能をご紹介します」を扱っています。",
+          "SiriのAIオーバーホールはWWDCの見出しをつかんだかもしれないが、Appleの最も有用なAI機能のいくつかはiOS 27の他の場所に登場している。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+        ]
+      },
+      {
         "title": "Building reliable agentic AI systems",
         "url": "https://martinfowler.com/articles/reliable-llm-bayer.html",
         "points": 73,
-        "comments": 36,
+        "comments": 40,
         "author": "sarangk90",
         "createdAt": "2026-06-21T04:28:39Z",
         "domain": "martinfowler.com",
@@ -64,23 +64,23 @@
         ]
       },
       {
-        "title": "Anthropic to Require ID Verification for Certain Capabilities Starting July 8",
-        "url": "https://old.reddit.com/r/ClaudeAI/comments/1ubm53n/official_anthropic_to_require_identity/",
+        "title": "Identity verification on Claude",
+        "url": "https://support.claude.com/en/articles/14328960-identity-verification-on-claude",
         "points": 73,
-        "comments": 127,
+        "comments": 144,
         "author": "bathory",
         "createdAt": "2026-06-21T12:44:13Z",
-        "domain": "old.reddit.com",
+        "domain": "support.claude.com",
         "sourceType": "hn",
-        "category": "AIニュース",
+        "category": "AIモデル",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "Anthropic、7月8日から特定の機能のID認証を要求",
-        "summaryJa": "この記事は「Anthropic、7月8日から特定の機能のID認証を要求」を扱っています。old.reddit.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "titleJa": "Claudeでの本人確認",
+        "summaryJa": "この記事は「Claudeでの本人確認」を扱っています。support.claude.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
         "keyPoints": [
-          "この記事は「Anthropic、7月8日から特定の機能のID認証を要求」を扱っています。",
-          "old.reddit.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+          "この記事は「Claudeでの本人確認」を扱っています。",
+          "support.claude.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
       },
       {
@@ -104,7 +104,7 @@
         ]
       }
     ],
-    "fetchedAt": "2026-06-21T16:27:52.944Z",
+    "fetchedAt": "2026-06-21T18:17:14.992Z",
     "mock": false
   },
   "xTrends": {
@@ -112,35 +112,17 @@
       {
         "topic": "AnthropicのCEO",
         "locationLabel": "日本",
-        "bestRank": 14,
-        "appearances": 3,
+        "bestRank": 29,
+        "appearances": 1,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-06-21T16:27:52.829Z",
+        "observedAt": "2026-06-21T18:17:14.975Z",
         "url": "https://x.com/search?q=Anthropic%E3%81%AECEO&src=typed_query&f=live",
         "articleTitle": "AnthropicのCEO",
         "articleTitleJa": "公開トレンド: AnthropicのCEO",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-06-21T16:27:52.829Z",
-        "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
-        "translationVersion": 3,
-        "articleFallback": true
-      },
-      {
-        "topic": "AI企業",
-        "locationLabel": "日本",
-        "bestRank": 27,
-        "appearances": 2,
-        "trendSource": "Trends24",
-        "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-06-21T16:27:52.829Z",
-        "url": "https://x.com/search?q=AI%E4%BC%81%E6%A5%AD&src=typed_query&f=live",
-        "articleTitle": "AI企業",
-        "articleTitleJa": "公開トレンド: AI企業",
-        "articleUrl": "https://trends24.in/japan/",
-        "articleSource": "Trends24",
-        "articlePublishedAt": "2026-06-21T16:27:52.829Z",
+        "articlePublishedAt": "2026-06-21T18:17:14.975Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -149,10 +131,10 @@
         "topic": "Oracle AI Trade",
         "locationLabel": "米国",
         "bestRank": 5,
-        "appearances": 19,
+        "appearances": 16,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-06-21T16:27:52.880Z",
+        "observedAt": "2026-06-21T18:17:14.956Z",
         "url": "https://x.com/search?q=Oracle%20AI%20Trade&src=typed_query&f=live",
         "articleTitle": "Oracle's OpenJDK Bans Generative AI Contributions, Oracle's GraalVM Allows Them",
         "articleTitleJa": "オラクルのOpenJDKは生成AIコントリビューションを禁止、オラクルのGraalVMは許可",
@@ -163,10 +145,10 @@
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-06-21T16:27:52.943Z",
+    "fetchedAt": "2026-06-21T18:17:14.992Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-06-21T16:27:54.442Z"
+    "articleFetchedAt": "2026-06-21T18:17:16.215Z"
   }
 }
