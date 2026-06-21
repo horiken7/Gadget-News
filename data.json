@@ -4,7 +4,7 @@
       {
         "title": "Show HN: We post-trained a model that pen tests instead of refusing",
         "url": "https://www.argusred.com/cli",
-        "points": 89,
+        "points": 90,
         "comments": 37,
         "author": "dk189",
         "createdAt": "2026-06-20T13:49:03Z",
@@ -22,24 +22,23 @@
         ]
       },
       {
-        "title": "AI model helps some patients get diagnoses after years of uncertainty , study finds",
-        "url": "https://health.yahoo.com/conditions/developmental/articles/ai-model-helps-patients-diagnoses-090240877.html",
-        "points": 81,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-06-21T08:00:00Z",
-        "domain": "health.yahoo.com",
-        "sourceType": "gdelt",
-        "sourceLabel": "GDELT",
-        "category": "AIモデル",
+        "title": "US Scientist John Jumper to Leave Google DeepMind for Anthropic",
+        "url": "https://www.reuters.com/technology/us-scientist-john-jumper-leave-google-deepmind-anthropic-2026-06-19/",
+        "points": 80,
+        "comments": 10,
+        "author": "karakoram",
+        "createdAt": "2026-06-20T14:32:15Z",
+        "domain": "reuters.com",
+        "sourceType": "hn",
+        "category": "AIニュース",
         "impact": "中",
         "newsLens": "技術",
-        "titleJa": "AIモデルは、何年もの不確実性の後に一部の患者が診断を受けるのに役立ちます",
-        "summaryJa": "この記事は「AIモデルは、何年もの不確実性の後に一部の患者が診断を受けるのに役立ちます」を扱っています。チームは、そのモデルが患者が希少疾患の診断を受けるのに役立つことを望んでいます。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "titleJa": "米国の科学者John JumperがGoogle DeepMindを辞めてAnthropicに移籍",
+        "summaryJa": "この記事は「米国の科学者John JumperがGoogle DeepMindを辞めてAnthropicに移籍」を扱っています。reuters.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
         "keyPoints": [
-          "この記事は「AIモデルは、何年もの不確実性の後に一部の患者が診断を受けるのに役立ちます」を扱っています。",
-          "チームは、そのモデルが患者が希少疾患の診断を受けるのに役立つことを望んでいます。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+          "この記事は「米国の科学者John JumperがGoogle DeepMindを辞めてAnthropicに移籍」を扱っています。",
+          "reuters.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
       },
       {
@@ -85,27 +84,27 @@
         ]
       },
       {
-        "title": "When I reject AI code even if it works",
-        "url": "https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/",
-        "points": 73,
-        "comments": 92,
-        "author": "vnbrs",
-        "createdAt": "2026-06-21T00:58:13Z",
-        "domain": "vinibrasil.com",
+        "title": "The 100k Whys of AI",
+        "url": "https://lcamtuf.substack.com/p/the-100000-whys-of-ai",
+        "points": 69,
+        "comments": 68,
+        "author": "surprisetalk",
+        "createdAt": "2026-06-21T05:45:21Z",
+        "domain": "lcamtuf.substack.com",
         "sourceType": "hn",
-        "category": "開発ツール",
+        "category": "AIニュース",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "AIコードが機能していても拒否する場合",
-        "summaryJa": "この記事は「AIコードが機能していても拒否する場合」を扱っています。AIは、見直しと判断をより高価にしながら、実装を安価にすることができます。技術者にとっては、開発フロー、API、セキュリティ、運用コストへの影響が確認ポイントです。",
+        "titleJa": "AIの10万の理由",
+        "summaryJa": "この記事は「AIの10万の理由」を扱っています。lcamtuf.substack.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
         "keyPoints": [
-          "この記事は「AIコードが機能していても拒否する場合」を扱っています。",
-          "AIは、見直しと判断をより高価にしながら、実装を安価にすることができます。",
-          "技術者にとっては、開発フロー、API、セキュリティ、運用コストへの影響が確認ポイントです。"
+          "この記事は「AIの10万の理由」を扱っています。",
+          "lcamtuf.substack.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
       }
     ],
-    "fetchedAt": "2026-06-21T08:26:54.842Z",
+    "fetchedAt": "2026-06-21T11:42:52.115Z",
     "mock": false
   },
   "xTrends": {
@@ -117,13 +116,13 @@
         "appearances": 3,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-06-21T08:26:54.807Z",
+        "observedAt": "2026-06-21T11:42:52.032Z",
         "url": "https://x.com/search?q=Anthropic%E3%81%AECEO&src=typed_query&f=live",
         "articleTitle": "AnthropicのCEO",
         "articleTitleJa": "公開トレンド: AnthropicのCEO",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-06-21T08:26:54.807Z",
+        "articlePublishedAt": "2026-06-21T11:42:52.032Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -135,13 +134,13 @@
         "appearances": 2,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-06-21T08:26:54.807Z",
+        "observedAt": "2026-06-21T11:42:52.032Z",
         "url": "https://x.com/search?q=AI%E4%BC%81%E6%A5%AD&src=typed_query&f=live",
         "articleTitle": "AI企業",
         "articleTitleJa": "公開トレンド: AI企業",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-06-21T08:26:54.807Z",
+        "articlePublishedAt": "2026-06-21T11:42:52.032Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -153,13 +152,13 @@
         "appearances": 1,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-06-21T08:26:54.807Z",
+        "observedAt": "2026-06-21T11:42:52.032Z",
         "url": "https://x.com/search?q=AI%E9%96%A2%E9%80%A3%E3%81%AE%E4%BB%95%E4%BA%8B&src=typed_query&f=live",
         "articleTitle": "AI関連の仕事",
         "articleTitleJa": "公開トレンド: AI関連の仕事",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-06-21T08:26:54.807Z",
+        "articlePublishedAt": "2026-06-21T11:42:52.032Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -167,11 +166,11 @@
       {
         "topic": "Oracle AI Trade",
         "locationLabel": "米国",
-        "bestRank": 1,
-        "appearances": 16,
+        "bestRank": 3,
+        "appearances": 18,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-06-21T08:26:54.703Z",
+        "observedAt": "2026-06-21T11:42:51.979Z",
         "url": "https://x.com/search?q=Oracle%20AI%20Trade&src=typed_query&f=live",
         "articleTitle": "Oracle's OpenJDK Bans Generative AI Contributions, Oracle's GraalVM Allows Them",
         "articleTitleJa": "オラクルのOpenJDKは生成AIコントリビューションを禁止、オラクルのGraalVMは許可",
@@ -182,10 +181,10 @@
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-06-21T08:26:54.842Z",
+    "fetchedAt": "2026-06-21T11:42:52.115Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-06-21T08:26:56.289Z"
+    "articleFetchedAt": "2026-06-21T11:42:55.940Z"
   }
 }
