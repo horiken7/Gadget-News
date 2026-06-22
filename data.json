@@ -26,7 +26,7 @@
         "title": "Apertus – Open Foundation Model for Sovereign AI",
         "url": "https://apertvs.ai/",
         "points": 101,
-        "comments": 42,
+        "comments": 111,
         "author": "T-A",
         "createdAt": "2026-06-21T21:29:43Z",
         "domain": "apertvs.ai",
@@ -40,6 +40,26 @@
           "この記事は「Apertus – Sovereign AIのオープンファンデーションモデル」を扱っています。",
           "apertvs.aiが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
           "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+        ]
+      },
+      {
+        "title": "Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions",
+        "url": "https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions",
+        "points": 92,
+        "comments": 17,
+        "author": "dev-experiments",
+        "createdAt": "2026-06-21T22:55:23Z",
+        "domain": "teachmecoolstuff.com",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "Qwen 3: 0.6BのようなローカルLLMを微調整して質問を分類する良い結果",
+        "summaryJa": "この記事は「Qwen 3: 0.6BのようなローカルLLMを微調整して質問を分類する良い結果」を扱っています。<p>楽しい個人的なプロジェクトとして、私はメンテナンスの質問から医師の診察まで、家族に関する一般的な質問に答えるためのチャットボットに取り組んできました。</p> <p>一般的なアイデアは、チャットボットがベクターデータベースのクエリからRAGを介して家庭の知識を得ることですが、より良い結果を得るために、ベクター検索メタデータを認識させました。",
+        "keyPoints": [
+          "この記事は「Qwen 3: 0.6BのようなローカルLLMを微調整して質問を分類する良い結果」を扱っています。",
+          "<p>楽しい個人的なプロジェクトとして、私はメンテナンスの質問から医師の診察まで、家族に関する一般的な質問に答えるためのチャットボットに取り組んできました。",
+          "</p> <p>一般的なアイデアは、チャットボットがベクターデータベースのクエリからRAGを介して家庭の知識を得ることですが、より良い結果を得るために、ベクター検索メタデータを認識させました。"
         ]
       },
       {
@@ -64,30 +84,10 @@
         ]
       },
       {
-        "title": "Show HN: CleverCrow: give tokens to your favorite projects",
-        "url": "https://clevercrow.io",
-        "points": 76,
-        "comments": 43,
-        "author": "zhubert",
-        "createdAt": "2026-06-21T19:06:07Z",
-        "domain": "clevercrow.io",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "低",
-        "newsLens": "技術",
-        "titleJa": "HN: CleverCrowを表示：お気に入りのプロジェクトにトークンを渡す",
-        "summaryJa": "この記事は「HN: CleverCrowを表示：お気に入りのプロジェクトにトークンを渡す」を扱っています。私は間違ったAIプルリクエストの問題について考えており、フィードバックのために可能な解決策を投げ出すことにしました。基本的に、CleverCrowを使用すると、サポーターはGitHubリポジトリ（またはそのリポジトリ内の一連のイシュー）にトークンを提供し、メンテナがモノを構築/修正するために使用できるようになります。",
-        "keyPoints": [
-          "この記事は「HN: CleverCrowを表示：お気に入りのプロジェクトにトークンを渡す」を扱っています。",
-          "私は間違ったAIプルリクエストの問題について考えており、フィードバックのために可能な解決策を投げ出すことにしました。",
-          "基本的に、CleverCrowを使用すると、サポーターはGitHubリポジトリ（またはそのリポジトリ内の一連のイシュー）にトークンを提供し、メンテナがモノを構築/修正するために使用できるようになります。"
-        ]
-      },
-      {
         "title": "Identity verification on Claude",
         "url": "https://support.claude.com/en/articles/14328960-identity-verification-on-claude",
         "points": 73,
-        "comments": 477,
+        "comments": 576,
         "author": "bathory",
         "createdAt": "2026-06-21T12:44:13Z",
         "domain": "support.claude.com",
@@ -104,19 +104,37 @@
         ]
       }
     ],
-    "fetchedAt": "2026-06-22T00:07:50.828Z",
+    "fetchedAt": "2026-06-22T06:25:53.265Z",
     "mock": false
   },
   "xTrends": {
     "items": [
       {
+        "topic": "フィジカルAI",
+        "locationLabel": "日本",
+        "bestRank": 42,
+        "appearances": 1,
+        "trendSource": "Trends24",
+        "sourceUrl": "https://trends24.in/japan/",
+        "observedAt": "2026-06-22T06:25:53.214Z",
+        "url": "https://x.com/search?q=%E3%83%95%E3%82%A3%E3%82%B8%E3%82%AB%E3%83%ABAI&src=typed_query&f=live",
+        "articleTitle": "フィジカルAI",
+        "articleTitleJa": "公開トレンド: フィジカルAI",
+        "articleUrl": "https://trends24.in/japan/",
+        "articleSource": "Trends24",
+        "articlePublishedAt": "2026-06-22T06:25:53.214Z",
+        "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
+        "translationVersion": 3,
+        "articleFallback": true
+      },
+      {
         "topic": "Oracle AI Trade",
         "locationLabel": "米国",
-        "bestRank": 5,
-        "appearances": 13,
+        "bestRank": 8,
+        "appearances": 10,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-06-22T00:07:50.664Z",
+        "observedAt": "2026-06-22T06:25:53.137Z",
         "url": "https://x.com/search?q=Oracle%20AI%20Trade&src=typed_query&f=live",
         "articleTitle": "Oracle's OpenJDK Bans Generative AI Contributions, Oracle's GraalVM Allows Them",
         "articleTitleJa": "オラクルのOpenJDKは生成AIコントリビューションを禁止、オラクルのGraalVMは許可",
@@ -127,10 +145,10 @@
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-06-22T00:07:50.828Z",
+    "fetchedAt": "2026-06-22T06:25:53.265Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-06-22T00:07:52.160Z"
+    "articleFetchedAt": "2026-06-22T06:25:54.500Z"
   }
 }
