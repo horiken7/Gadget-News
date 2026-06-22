@@ -23,6 +23,26 @@
         ]
       },
       {
+        "title": "Apertus – Open Foundation Model for Sovereign AI",
+        "url": "https://apertvs.ai/",
+        "points": 101,
+        "comments": 42,
+        "author": "T-A",
+        "createdAt": "2026-06-21T21:29:43Z",
+        "domain": "apertvs.ai",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "Apertus – Sovereign AIのオープンファンデーションモデル",
+        "summaryJa": "この記事は「Apertus – Sovereign AIのオープンファンデーションモデル」を扱っています。apertvs.aiが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "keyPoints": [
+          "この記事は「Apertus – Sovereign AIのオープンファンデーションモデル」を扱っています。",
+          "apertvs.aiが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+        ]
+      },
+      {
         "title": "Beyond Siri: Here are the practical AI features coming to your iPhone in iOS 27",
         "url": "https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/",
         "points": 79,
@@ -44,30 +64,30 @@
         ]
       },
       {
-        "title": "Apertus – Open Foundation Model for Sovereign AI",
-        "url": "https://apertvs.ai/",
-        "points": 78,
-        "comments": 6,
-        "author": "T-A",
-        "createdAt": "2026-06-21T21:29:43Z",
-        "domain": "apertvs.ai",
+        "title": "Show HN: CleverCrow: give tokens to your favorite projects",
+        "url": "https://clevercrow.io",
+        "points": 76,
+        "comments": 43,
+        "author": "zhubert",
+        "createdAt": "2026-06-21T19:06:07Z",
+        "domain": "clevercrow.io",
         "sourceType": "hn",
-        "category": "AIモデル",
+        "category": "AIニュース",
         "impact": "低",
         "newsLens": "技術",
-        "titleJa": "Apertus – Sovereign AIのオープンファンデーションモデル",
-        "summaryJa": "この記事は「Apertus – Sovereign AIのオープンファンデーションモデル」を扱っています。apertvs.aiが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "titleJa": "HN: CleverCrowを表示：お気に入りのプロジェクトにトークンを渡す",
+        "summaryJa": "この記事は「HN: CleverCrowを表示：お気に入りのプロジェクトにトークンを渡す」を扱っています。私は間違ったAIプルリクエストの問題について考えており、フィードバックのために可能な解決策を投げ出すことにしました。基本的に、CleverCrowを使用すると、サポーターはGitHubリポジトリ（またはそのリポジトリ内の一連のイシュー）にトークンを提供し、メンテナがモノを構築/修正するために使用できるようになります。",
         "keyPoints": [
-          "この記事は「Apertus – Sovereign AIのオープンファンデーションモデル」を扱っています。",
-          "apertvs.aiが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+          "この記事は「HN: CleverCrowを表示：お気に入りのプロジェクトにトークンを渡す」を扱っています。",
+          "私は間違ったAIプルリクエストの問題について考えており、フィードバックのために可能な解決策を投げ出すことにしました。",
+          "基本的に、CleverCrowを使用すると、サポーターはGitHubリポジトリ（またはそのリポジトリ内の一連のイシュー）にトークンを提供し、メンテナがモノを構築/修正するために使用できるようになります。"
         ]
       },
       {
         "title": "Identity verification on Claude",
         "url": "https://support.claude.com/en/articles/14328960-identity-verification-on-claude",
         "points": 73,
-        "comments": 420,
+        "comments": 477,
         "author": "bathory",
         "createdAt": "2026-06-21T12:44:13Z",
         "domain": "support.claude.com",
@@ -82,29 +102,9 @@
           "support.claude.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
           "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
-      },
-      {
-        "title": "Building reliable agentic AI systems",
-        "url": "https://martinfowler.com/articles/reliable-llm-bayer.html",
-        "points": 73,
-        "comments": 44,
-        "author": "sarangk90",
-        "createdAt": "2026-06-21T04:28:39Z",
-        "domain": "martinfowler.com",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "信頼性の高いエージェントAIシステムの構築",
-        "summaryJa": "この記事は「信頼性の高いエージェントAIシステムの構築」を扱っています。martinfowler.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
-        "keyPoints": [
-          "この記事は「信頼性の高いエージェントAIシステムの構築」を扱っています。",
-          "martinfowler.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
-        ]
       }
     ],
-    "fetchedAt": "2026-06-21T22:10:56.692Z",
+    "fetchedAt": "2026-06-22T00:07:50.828Z",
     "mock": false
   },
   "xTrends": {
@@ -113,10 +113,10 @@
         "topic": "Oracle AI Trade",
         "locationLabel": "米国",
         "bestRank": 5,
-        "appearances": 14,
+        "appearances": 13,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-06-21T22:10:56.544Z",
+        "observedAt": "2026-06-22T00:07:50.664Z",
         "url": "https://x.com/search?q=Oracle%20AI%20Trade&src=typed_query&f=live",
         "articleTitle": "Oracle's OpenJDK Bans Generative AI Contributions, Oracle's GraalVM Allows Them",
         "articleTitleJa": "オラクルのOpenJDKは生成AIコントリビューションを禁止、オラクルのGraalVMは許可",
@@ -127,10 +127,10 @@
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-06-21T22:10:56.692Z",
+    "fetchedAt": "2026-06-22T00:07:50.828Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-06-21T22:10:57.788Z"
+    "articleFetchedAt": "2026-06-22T00:07:52.160Z"
   }
 }
