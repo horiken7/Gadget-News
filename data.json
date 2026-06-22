@@ -2,7 +2,7 @@
   "news": {
     "items": [
       {
-        "title": "SpaceX inks compute deal with Reflection AI, an open-source AI lab",
+        "title": "SpaceX inks compute deal with Reflection AI, an open source AI lab",
         "url": "https://techcrunch.com/2026/06/22/spacex-inks-compute-deal-with-reflection-ai-an-open-source-ai-lab/",
         "points": 107,
         "comments": 0,
@@ -26,7 +26,7 @@
         "title": "Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions",
         "url": "https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions",
         "points": 101,
-        "comments": 42,
+        "comments": 44,
         "author": "dev-experiments",
         "createdAt": "2026-06-21T22:55:23Z",
         "domain": "teachmecoolstuff.com",
@@ -45,8 +45,8 @@
       {
         "title": "I Canceled My French Tutor and Built an LLM Tool That Does It Better",
         "url": "https://alshe.substack.com/p/i-canceled-my-french-tutor-and-built",
-        "points": 81,
-        "comments": 21,
+        "points": 82,
+        "comments": 22,
         "author": "Anon84",
         "createdAt": "2026-06-21T22:46:43Z",
         "domain": "alshe.substack.com",
@@ -63,10 +63,31 @@
         ]
       },
       {
+        "title": "AI chipmaker Groq confirms $650M raise, re-staffs after Nvidia’s $20B not-acqui-hire deal",
+        "url": "https://techcrunch.com/2026/06/22/ai-chipmaker-groq-confirms-650m-raise-re-staffs-after-nvidias-20b-not-acqui-hire-deal/",
+        "points": 79,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-06-22T20:13:58.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
+        "category": "ハードウェア",
+        "impact": "中",
+        "titleJa": "AIチップメーカーのGroqは、NVIDIAの200億$の非雇用契約後、6億5000万$の調達とスタッフの再配置を確認",
+        "summaryJa": "この記事は「AIチップメーカーのGroqは、NVIDIAの200億$の非雇用契約後、6億5000万$の調達とスタッフの再配置を確認」を扱っています。これらの非買収案件の1つの後、AI企業は何をしますか？Groqは資金を調達し、ネオクラウドビジネスに傾き、新しい幹部を採用しています。",
+        "keyPoints": [
+          "この記事は「AIチップメーカーのGroqは、NVIDIAの200億$の非雇用契約後、6億5000万$の調達とスタッフの再配置を確認」を扱っています。",
+          "これらの非買収案件の1つの後、AI企業は何をしますか。",
+          "Groqは資金を調達し、ネオクラウドビジネスに傾き、新しい幹部を採用しています。"
+        ]
+      },
+      {
         "title": "The text in Claude Code’s “Extended Thinking” output",
         "url": "https://patrickmccanna.net/the-text-in-claude-codes-extended-thinking-output-is-not-authentic/",
         "points": 73,
-        "comments": 119,
+        "comments": 170,
         "author": "0o_MrPatrick_o0",
         "createdAt": "2026-06-22T14:22:46Z",
         "domain": "patrickmccanna.net",
@@ -81,33 +102,31 @@
           "patrickmccanna.netが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
           "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
-      },
-      {
-        "title": "Show HN: Recall – Local project memory for Claude Code",
-        "url": "https://github.com/raiyanyahya/recall",
-        "points": 72,
-        "comments": 77,
-        "author": "mateenah",
-        "createdAt": "2026-06-21T21:05:37Z",
-        "domain": "github.com",
-        "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "HNを表示：リコール–Claudeコードのローカルプロジェクトメモリ",
-        "summaryJa": "この記事は「HNを表示：リコール–Claudeコードのローカルプロジェクトメモリ」を扱っています。トークンを無駄にするのをやめて、セッションごとにプロジェクトを再説明してください。リコールはClaude Codeに耐久性のあるメモリを提供します—完全にオフラインです。",
-        "keyPoints": [
-          "この記事は「HNを表示：リコール–Claudeコードのローカルプロジェクトメモリ」を扱っています。",
-          "トークンを無駄にするのをやめて、セッションごとにプロジェクトを再説明してください。",
-          "リコールはClaude Codeに耐久性のあるメモリを提供します—完全にオフラインです。"
-        ]
       }
     ],
-    "fetchedAt": "2026-06-22T17:28:43.940Z",
+    "fetchedAt": "2026-06-22T20:40:58.951Z",
     "mock": false
   },
   "xTrends": {
     "items": [
+      {
+        "topic": "オープンソースAI",
+        "locationLabel": "日本",
+        "bestRank": 19,
+        "appearances": 4,
+        "trendSource": "Trends24",
+        "sourceUrl": "https://trends24.in/japan/",
+        "observedAt": "2026-06-22T20:40:58.934Z",
+        "url": "https://x.com/search?q=%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%BD%E3%83%BC%E3%82%B9AI&src=typed_query&f=live",
+        "articleTitle": "オープンソースAI",
+        "articleTitleJa": "公開トレンド: オープンソースAI",
+        "articleUrl": "https://trends24.in/japan/",
+        "articleSource": "Trends24",
+        "articlePublishedAt": "2026-06-22T20:40:58.934Z",
+        "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
+        "translationVersion": 3,
+        "articleFallback": true
+      },
       {
         "topic": "Sakana AI",
         "locationLabel": "日本",
@@ -115,7 +134,7 @@
         "appearances": 3,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-06-22T17:28:43.922Z",
+        "observedAt": "2026-06-22T20:40:58.934Z",
         "url": "https://x.com/search?q=Sakana%20AI&src=typed_query&f=live",
         "articleTitle": "Sakana Fugu",
         "articleTitleJa": "さかなふぐ",
@@ -128,17 +147,17 @@
       {
         "topic": "AIスーパーコンピューター",
         "locationLabel": "日本",
-        "bestRank": 10,
+        "bestRank": 37,
         "appearances": 2,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-06-22T17:28:43.922Z",
+        "observedAt": "2026-06-22T20:40:58.934Z",
         "url": "https://x.com/search?q=AI%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF%E3%83%BC&src=typed_query&f=live",
         "articleTitle": "AIスーパーコンピューター",
         "articleTitleJa": "公開トレンド: AIスーパーコンピューター",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-06-22T17:28:43.922Z",
+        "articlePublishedAt": "2026-06-22T20:40:58.934Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -150,31 +169,13 @@
         "appearances": 1,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-06-22T17:28:43.922Z",
+        "observedAt": "2026-06-22T20:40:58.934Z",
         "url": "https://x.com/search?q=Micron%E3%81%A8Anthropic&src=typed_query&f=live",
         "articleTitle": "MicronとAnthropic",
         "articleTitleJa": "公開トレンド: MicronとAnthropic",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-06-22T17:28:43.922Z",
-        "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
-        "translationVersion": 3,
-        "articleFallback": true
-      },
-      {
-        "topic": "フィジカルAI",
-        "locationLabel": "日本",
-        "bestRank": 42,
-        "appearances": 1,
-        "trendSource": "Trends24",
-        "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-06-22T17:28:43.922Z",
-        "url": "https://x.com/search?q=%E3%83%95%E3%82%A3%E3%82%B8%E3%82%AB%E3%83%ABAI&src=typed_query&f=live",
-        "articleTitle": "フィジカルAI",
-        "articleTitleJa": "公開トレンド: フィジカルAI",
-        "articleUrl": "https://trends24.in/japan/",
-        "articleSource": "Trends24",
-        "articlePublishedAt": "2026-06-22T17:28:43.922Z",
+        "articlePublishedAt": "2026-06-22T20:40:58.934Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -183,10 +184,10 @@
         "topic": "Oracle AI Trade",
         "locationLabel": "米国",
         "bestRank": 23,
-        "appearances": 8,
+        "appearances": 7,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-06-22T17:28:43.830Z",
+        "observedAt": "2026-06-22T20:40:58.838Z",
         "url": "https://x.com/search?q=Oracle%20AI%20Trade&src=typed_query&f=live",
         "articleTitle": "Oracle's OpenJDK Bans Generative AI Contributions, Oracle's GraalVM Allows Them",
         "articleTitleJa": "オラクルのOpenJDKは生成AIコントリビューションを禁止、オラクルのGraalVMは許可",
@@ -197,10 +198,10 @@
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-06-22T17:28:43.940Z",
+    "fetchedAt": "2026-06-22T20:40:58.951Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": false,
-    "articleFetchedAt": "2026-06-22T17:28:47.464Z"
+    "articleFetchedAt": "2026-06-22T20:41:01.034Z"
   }
 }
