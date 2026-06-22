@@ -23,30 +23,10 @@
         ]
       },
       {
-        "title": "Apertus – Open Foundation Model for Sovereign AI",
-        "url": "https://apertvs.ai/",
-        "points": 101,
-        "comments": 111,
-        "author": "T-A",
-        "createdAt": "2026-06-21T21:29:43Z",
-        "domain": "apertvs.ai",
-        "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "Apertus – Sovereign AIのオープンファンデーションモデル",
-        "summaryJa": "この記事は「Apertus – Sovereign AIのオープンファンデーションモデル」を扱っています。apertvs.aiが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
-        "keyPoints": [
-          "この記事は「Apertus – Sovereign AIのオープンファンデーションモデル」を扱っています。",
-          "apertvs.aiが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
-        ]
-      },
-      {
         "title": "Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions",
         "url": "https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions",
-        "points": 92,
-        "comments": 17,
+        "points": 101,
+        "comments": 32,
         "author": "dev-experiments",
         "createdAt": "2026-06-21T22:55:23Z",
         "domain": "teachmecoolstuff.com",
@@ -60,6 +40,26 @@
           "この記事は「Qwen 3: 0.6BのようなローカルLLMを微調整して質問を分類する良い結果」を扱っています。",
           "<p>楽しい個人的なプロジェクトとして、私はメンテナンスの質問から医師の診察まで、家族に関する一般的な質問に答えるためのチャットボットに取り組んできました。",
           "</p> <p>一般的なアイデアは、チャットボットがベクターデータベースのクエリからRAGを介して家庭の知識を得ることですが、より良い結果を得るために、ベクター検索メタデータを認識させました。"
+        ]
+      },
+      {
+        "title": "I Canceled My French Tutor and Built an LLM Tool That Does It Better",
+        "url": "https://alshe.substack.com/p/i-canceled-my-french-tutor-and-built",
+        "points": 79,
+        "comments": 12,
+        "author": "Anon84",
+        "createdAt": "2026-06-21T22:46:43Z",
+        "domain": "alshe.substack.com",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "低",
+        "newsLens": "技術",
+        "titleJa": "私はフランス語講師をキャンセルし、それをより良くするLLMツールを構築しました",
+        "summaryJa": "この記事は「私はフランス語講師をキャンセルし、それをより良くするLLMツールを構築しました」を扱っています。alshe.substack.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "keyPoints": [
+          "この記事は「私はフランス語講師をキャンセルし、それをより良くするLLMツールを構築しました」を扱っています。",
+          "alshe.substack.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
       },
       {
@@ -84,31 +84,48 @@
         ]
       },
       {
-        "title": "Identity verification on Claude",
-        "url": "https://support.claude.com/en/articles/14328960-identity-verification-on-claude",
-        "points": 73,
-        "comments": 576,
-        "author": "bathory",
-        "createdAt": "2026-06-21T12:44:13Z",
-        "domain": "support.claude.com",
+        "title": "Show HN: Recall – Local project memory for Claude Code",
+        "url": "https://github.com/raiyanyahya/recall",
+        "points": 71,
+        "comments": 73,
+        "author": "mateenah",
+        "createdAt": "2026-06-21T21:05:37Z",
+        "domain": "github.com",
         "sourceType": "hn",
         "category": "AIモデル",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "Claudeでの本人確認",
-        "summaryJa": "この記事は「Claudeでの本人確認」を扱っています。support.claude.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "titleJa": "HNを表示：リコール–Claudeコードのローカルプロジェクトメモリ",
+        "summaryJa": "この記事は「HNを表示：リコール–Claudeコードのローカルプロジェクトメモリ」を扱っています。トークンを無駄にするのをやめて、セッションごとにプロジェクトを再説明してください。リコールはClaude Codeに耐久性のあるメモリを提供します—完全にオフラインです。",
         "keyPoints": [
-          "この記事は「Claudeでの本人確認」を扱っています。",
-          "support.claude.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+          "この記事は「HNを表示：リコール–Claudeコードのローカルプロジェクトメモリ」を扱っています。",
+          "トークンを無駄にするのをやめて、セッションごとにプロジェクトを再説明してください。",
+          "リコールはClaude Codeに耐久性のあるメモリを提供します—完全にオフラインです。"
         ]
       }
     ],
-    "fetchedAt": "2026-06-22T06:25:53.265Z",
+    "fetchedAt": "2026-06-22T12:46:58.892Z",
     "mock": false
   },
   "xTrends": {
     "items": [
+      {
+        "topic": "Sakana AI",
+        "locationLabel": "日本",
+        "bestRank": 38,
+        "appearances": 3,
+        "trendSource": "Trends24",
+        "sourceUrl": "https://trends24.in/japan/",
+        "observedAt": "2026-06-22T12:46:58.783Z",
+        "url": "https://x.com/search?q=Sakana%20AI&src=typed_query&f=live",
+        "articleTitle": "Sakana AI Launches Its First Commercial Product, Sakana Marlin",
+        "articleTitleJa": "さかなAI、初の商品化「Sakana Marlin」を発売",
+        "articleUrl": "https://sakana.ai/marlin-release/#English",
+        "articleSource": "sakana.ai",
+        "articlePublishedAt": "2026-06-15T14:55:22Z",
+        "summaryJa": "Sakana AI、初の商用プロダクト「Sakana Marlin」を提供開始",
+        "translationVersion": 3
+      },
       {
         "topic": "フィジカルAI",
         "locationLabel": "日本",
@@ -116,13 +133,13 @@
         "appearances": 1,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-06-22T06:25:53.214Z",
+        "observedAt": "2026-06-22T12:46:58.783Z",
         "url": "https://x.com/search?q=%E3%83%95%E3%82%A3%E3%82%B8%E3%82%AB%E3%83%ABAI&src=typed_query&f=live",
         "articleTitle": "フィジカルAI",
         "articleTitleJa": "公開トレンド: フィジカルAI",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-06-22T06:25:53.214Z",
+        "articlePublishedAt": "2026-06-22T12:46:58.783Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -130,11 +147,11 @@
       {
         "topic": "Oracle AI Trade",
         "locationLabel": "米国",
-        "bestRank": 8,
-        "appearances": 10,
+        "bestRank": 26,
+        "appearances": 8,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-06-22T06:25:53.137Z",
+        "observedAt": "2026-06-22T12:46:58.874Z",
         "url": "https://x.com/search?q=Oracle%20AI%20Trade&src=typed_query&f=live",
         "articleTitle": "Oracle's OpenJDK Bans Generative AI Contributions, Oracle's GraalVM Allows Them",
         "articleTitleJa": "オラクルのOpenJDKは生成AIコントリビューションを禁止、オラクルのGraalVMは許可",
@@ -145,10 +162,10 @@
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-06-22T06:25:53.265Z",
+    "fetchedAt": "2026-06-22T12:46:58.892Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-06-22T06:25:54.500Z"
+    "articleFetchedAt": "2026-06-22T12:47:01.390Z"
   }
 }
