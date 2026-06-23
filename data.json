@@ -46,7 +46,7 @@
       {
         "title": "Show HN: Neural Particle Automata",
         "url": "https://selforg-npa.github.io/",
-        "points": 88,
+        "points": 89,
         "comments": 19,
         "author": "esychology",
         "createdAt": "2026-06-23T08:31:48Z",
@@ -64,30 +64,31 @@
         ]
       },
       {
-        "title": "Ask HN: Anthropic banned me from using Claude Code and I don't know what to do",
-        "url": "https://news.ycombinator.com/item?id=48641160",
-        "points": 76,
-        "comments": 78,
-        "author": "ayi",
-        "createdAt": "2026-06-23T06:33:52Z",
-        "domain": "news.ycombinator.com",
-        "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "中",
+        "title": "Oracle’s 21,000 layoffs help drive its debt-fueled AI investments",
+        "url": "https://arstechnica.com/ai/2026/06/oracles-21000-layoffs-help-drive-its-debt-fueled-ai-investments/",
+        "points": 79,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-06-23T20:17:38.000Z",
+        "domain": "arstechnica.com",
+        "sourceType": "rss",
+        "sourceLabel": "Ars Technica",
         "newsLens": "技術",
-        "titleJa": "HNに尋ねる： Anthropicは私にClaude Codeの使用を禁止し、何をすべきかわからない",
-        "summaryJa": "この記事は「HNに尋ねる： Anthropicは私にClaude Codeの使用を禁止し、何をすべきかわからない」を扱っています。Claude Codeを職場で何か月も使用した後、私は自分のプロジェクトでも使用したかったのです。ほとんどの場合、VPNがオンになっていたため、1時間の使用後に禁止されました。",
+        "category": "AIニュース",
+        "impact": "中",
+        "titleJa": "オラクルの21,000人のレイオフは、負債に駆り立てられたAI投資を促進するのに役立ちます",
+        "summaryJa": "この記事は「オラクルの21,000人のレイオフは、負債に駆り立てられたAI投資を促進するのに役立ちます」を扱っています。オラクルは、AIをサポートするためにデータセンターインフラストラクチャに数十億ドルを費やしてい。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
         "keyPoints": [
-          "この記事は「HNに尋ねる： Anthropicは私にClaude Codeの使用を禁止し、何をすべきかわからない」を扱っています。",
-          "Claude Codeを職場で何か月も使用した後、私は自分のプロジェクトでも使用したかったのです。",
-          "ほとんどの場合、VPNがオンになっていたため、1時間の使用後に禁止されました。"
+          "この記事は「オラクルの21,000人のレイオフは、負債に駆り立てられたAI投資を促進するのに役立ちます」を扱っています。",
+          "オラクルは、AIをサポートするためにデータセンターインフラストラクチャに数十億ドルを費やしてい。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
       },
       {
         "title": "OpenAI DayBreak – GPT-5.5-Cyber",
         "url": "https://openai.com/index/daybreak-securing-the-world/",
         "points": 73,
-        "comments": 159,
+        "comments": 161,
         "author": "AaronO",
         "createdAt": "2026-06-23T01:36:08Z",
         "domain": "openai.com",
@@ -104,7 +105,7 @@
         ]
       }
     ],
-    "fetchedAt": "2026-06-23T19:56:24.717Z",
+    "fetchedAt": "2026-06-23T21:42:45.285Z",
     "mock": false
   },
   "xTrends": {
@@ -116,13 +117,13 @@
         "appearances": 3,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-06-23T19:56:24.701Z",
+        "observedAt": "2026-06-23T21:42:45.182Z",
         "url": "https://x.com/search?q=AI%E3%81%AE%E6%B0%B4%E5%95%8F%E9%A1%8C&src=typed_query&f=live",
         "articleTitle": "AIの水問題",
         "articleTitleJa": "公開トレンド: AIの水問題",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-06-23T19:56:24.701Z",
+        "articlePublishedAt": "2026-06-23T21:42:45.182Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -134,7 +135,7 @@
         "appearances": 2,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-06-23T19:56:24.701Z",
+        "observedAt": "2026-06-23T21:42:45.182Z",
         "url": "https://x.com/search?q=Reflection%20AI&src=typed_query&f=live",
         "articleTitle": "SpaceX signs computing power deal with AI startup Reflection worth up $6.3B",
         "articleTitleJa": "SpaceX、AIスタートアップReflectionとコンピューティングパワー契約に署名、総額63億ドル相当",
@@ -151,13 +152,13 @@
         "appearances": 1,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-06-23T19:56:24.701Z",
+        "observedAt": "2026-06-23T21:42:45.182Z",
         "url": "https://x.com/search?q=Google%E3%81%AEAI%E9%83%A8%E9%96%80DeepMind&src=typed_query&f=live",
         "articleTitle": "GoogleのAI部門DeepMind",
         "articleTitleJa": "公開トレンド: GoogleのAI部門DeepMind",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-06-23T19:56:24.701Z",
+        "articlePublishedAt": "2026-06-23T21:42:45.182Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -166,10 +167,10 @@
         "topic": "Claude Tag",
         "locationLabel": "米国",
         "bestRank": 24,
-        "appearances": 3,
+        "appearances": 4,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-06-23T19:56:24.576Z",
+        "observedAt": "2026-06-23T21:42:45.134Z",
         "url": "https://x.com/search?q=Claude%20Tag&src=typed_query&f=live",
         "articleTitle": "Claude Tag",
         "articleTitleJa": "Claude・タグ",
@@ -182,11 +183,11 @@
       {
         "topic": "Oracle AI Trade",
         "locationLabel": "英国",
-        "bestRank": 13,
-        "appearances": 3,
+        "bestRank": 46,
+        "appearances": 1,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-kingdom/",
-        "observedAt": "2026-06-23T19:56:24.653Z",
+        "observedAt": "2026-06-23T21:42:45.161Z",
         "url": "https://x.com/search?q=Oracle%20AI%20Trade&src=typed_query&f=live",
         "articleTitle": "Oracle sheds 21,000 roles over the past year",
         "articleTitleJa": "オラクルは過去 1 年間で 21,000 の役割を削減",
@@ -197,10 +198,10 @@
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-06-23T19:56:24.717Z",
+    "fetchedAt": "2026-06-23T21:42:45.285Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": false,
-    "articleFetchedAt": "2026-06-23T19:56:31.622Z"
+    "articleFetchedAt": "2026-06-23T21:42:48.398Z"
   }
 }
