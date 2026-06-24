@@ -2,6 +2,27 @@
   "news": {
     "items": [
       {
+        "title": "OpenAI unveils its first custom chip, built by Broadcom",
+        "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
+        "points": 107,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-06-24T14:54:46.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
+        "category": "ハードウェア",
+        "impact": "高",
+        "titleJa": "OpenAIは、Broadcomによって構築された最初のカスタムチップを発表",
+        "summaryJa": "この記事は「OpenAIは、Broadcomによって構築された最初のカスタムチップを発表」を扱っています。Jalapeñoと名付けられたこの新しいプロセッサは、OpenAIの推論システムの独自のニーズに特化して設計されています。一般向けには、AIがソフトウェアだけでなく、ロボットや端末など現実の製品に広がっている点が重要です。",
+        "keyPoints": [
+          "この記事は「OpenAIは、Broadcomによって構築された最初のカスタムチップを発表」を扱っています。",
+          "Jalapeñoと名付けられたこの新しいプロセッサは、OpenAIの推論システムの独自のニーズに特化して設計されています。",
+          "一般向けには、AIがソフトウェアだけでなく、ロボットや端末など現実の製品に広がっている点が重要です。"
+        ]
+      },
+      {
         "title": "India’s MoEngage bets that the future of marketing is millions of AI agents",
         "url": "https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/",
         "points": 107,
@@ -20,6 +41,46 @@
           "この記事は「インドのMoEngageは、マーケティングの未来が何百万人ものAIエージェントであると賭けています」を扱っています。",
           "オールキャッシュ取引により、MoEngageはAIエージェントを個々の顧客に割り当てるテクノロジーにアクセスできます。",
           "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+        ]
+      },
+      {
+        "title": "Reid Hoffman says SpaceX 'not an AI company', xAI 'complete train wreck'",
+        "url": "https://fortune.com/2026/06/24/reid-hoffman-spacex-musk-openai-anthropic-gen-z-mistake/",
+        "points": 93,
+        "comments": 217,
+        "author": "1vuio0pswjnm7",
+        "createdAt": "2026-06-24T12:23:59Z",
+        "domain": "fortune.com",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "リード・ホフマンは、SpaceXは「AI企業ではなく」、xAIは「完全な列車事故」であると述べている",
+        "summaryJa": "この記事は「リード・ホフマンは、SpaceXは「AI企業ではなく」、xAIは「完全な列車事故」であると述べている」を扱っています。LinkedInの共同創設者であり、AnthropicとOpenAIの両方の投資家である彼は、Elon MuskのAIの野心について、これまでで最も鋭いパブリックアセスメントを提供しています。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "keyPoints": [
+          "この記事は「リード・ホフマンは、SpaceXは「AI企業ではなく」、xAIは「完全な列車事故」であると述べている」を扱っています。",
+          "LinkedInの共同創設者であり、AnthropicとOpenAIの両方の投資家である彼は、Elon MuskのAIの野心について、これまでで最も鋭いパブリックアセスメントを提供しています。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+        ]
+      },
+      {
+        "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
+        "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip/",
+        "points": 87,
+        "comments": 24,
+        "author": "meetpateltech",
+        "createdAt": "2026-06-24T13:14:39Z",
+        "domain": "openai.com",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "中",
+        "newsLens": "技術",
+        "titleJa": "OpenAIとBroadcomがLLMに最適化された推論チップを発表",
+        "summaryJa": "この記事は「OpenAIとBroadcomがLLMに最適化された推論チップを発表」を扱っています。openai.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "keyPoints": [
+          "この記事は「OpenAIとBroadcomがLLMに最適化された推論チップを発表」を扱っています。",
+          "openai.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
       },
       {
@@ -42,70 +103,9 @@
           "オラクルは、AIをサポートするためにデータセンターインフラストラクチャに数十億ドルを費やしてい。",
           "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
-      },
-      {
-        "title": "Anthropic’s Claude Tag is learning your company, one Slack message at a time",
-        "url": "https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time/",
-        "points": 79,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-06-23T17:00:00.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
-        "category": "AIモデル",
-        "impact": "中",
-        "titleJa": "AnthropicのClaude Tagは、一度に1つのSlackメッセージであなたの会社を学習しています",
-        "summaryJa": "この記事は「AnthropicのClaude Tagは、一度に1つのSlackメッセージであなたの会社を学習しています」を扱っています。Anthropicの新しいClaude Tagは、Always - on AIチームメイトをSlackにもたらします。しかし、生産性を超えて、この機能は組織のコンテキスト、機関の知識、および企業のワークフローを把握するための戦略的な遊びです。",
-        "keyPoints": [
-          "この記事は「AnthropicのClaude Tagは、一度に1つのSlackメッセージであなたの会社を学習しています」を扱っています。",
-          "Anthropicの新しいClaude Tagは、Always - on AIチームメイトをSlackにもたらします。",
-          "しかし、生産性を超えて、この機能は組織のコンテキスト、機関の知識、および企業のワークフローを把握するための戦略的な遊びです。"
-        ]
-      },
-      {
-        "title": "Show HN: RLM-based local debugger for AI agent traces",
-        "url": "https://github.com/context-labs/halo",
-        "points": 75,
-        "comments": 8,
-        "author": "mikepollard_dev",
-        "createdAt": "2026-06-23T18:21:52Z",
-        "domain": "github.com",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "低",
-        "newsLens": "技術",
-        "titleJa": "HNを表示： AIエージェントトレースのRLMベースのローカルデバッガ",
-        "summaryJa": "この記事は「HNを表示： AIエージェントトレースのRLMベースのローカルデバッガ」を扱っています。HALO （ Hierarchal Agent Loop Optimizer ）は、AIエージェントを実行トレースを使用してデバッグおよび最適化するためのオープンソースツールです。エージェントを実行し、トレースをHaloにフィードし、レポートを取得し、修正を適用してから、エージェントを再実行します。",
-        "keyPoints": [
-          "この記事は「HNを表示： AIエージェントトレースのRLMベースのローカルデバッガ」を扱っています。",
-          "HALO （ Hierarchal Agent Loop Optimizer ）は、AIエージェントを実行トレースを使用してデバッグおよび最適化するためのオープンソースツールです。",
-          "エージェントを実行し、トレースをHaloにフィードし、レポートを取得し、修正を適用してから、エージェントを再実行します。"
-        ]
-      },
-      {
-        "title": "Claude Tag",
-        "url": "https://www.anthropic.com/news/introducing-claude-tag",
-        "points": 73,
-        "comments": 174,
-        "author": "adocomplete",
-        "createdAt": "2026-06-23T17:09:18Z",
-        "domain": "anthropic.com",
-        "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "Claude・タグ",
-        "summaryJa": "この記事は「Claude・タグ」を扱っています。Anthropicは、信頼性が高く、解釈可能で、操縦可能なAIシステムの構築に取り組んでいるAI安全調査会社です。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
-        "keyPoints": [
-          "この記事は「Claude・タグ」を扱っています。",
-          "Anthropicは、信頼性が高く、解釈可能で、操縦可能なAIシステムの構築に取り組んでいるAI安全調査会社です。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
-        ]
       }
     ],
-    "fetchedAt": "2026-06-24T13:18:44.332Z",
+    "fetchedAt": "2026-06-24T16:15:46.777Z",
     "mock": false
   },
   "xTrends": {
@@ -113,11 +113,11 @@
       {
         "topic": "Claude Tag",
         "locationLabel": "日本",
-        "bestRank": 24,
-        "appearances": 4,
+        "bestRank": 38,
+        "appearances": 3,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-06-24T13:18:44.315Z",
+        "observedAt": "2026-06-24T16:15:46.759Z",
         "url": "https://x.com/search?q=Claude%20Tag&src=typed_query&f=live",
         "articleTitle": "Claude Tag",
         "articleTitleJa": "Claude・タグ",
@@ -128,10 +128,10 @@
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-06-24T13:18:44.332Z",
+    "fetchedAt": "2026-06-24T16:15:46.777Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-06-24T13:18:45.819Z"
+    "articleFetchedAt": "2026-06-24T16:15:49.066Z"
   }
 }
