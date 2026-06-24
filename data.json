@@ -2,6 +2,27 @@
   "news": {
     "items": [
       {
+        "title": "India’s MoEngage bets that the future of marketing is millions of AI agents",
+        "url": "https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/",
+        "points": 107,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-06-23T23:30:00.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
+        "category": "AIニュース",
+        "impact": "高",
+        "titleJa": "インドのMoEngageは、マーケティングの未来が何百万人ものAIエージェントであると賭けています",
+        "summaryJa": "この記事は「インドのMoEngageは、マーケティングの未来が何百万人ものAIエージェントであると賭けています」を扱っています。オールキャッシュ取引により、MoEngageはAIエージェントを個々の顧客に割り当てるテクノロジーにアクセスできます。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "keyPoints": [
+          "この記事は「インドのMoEngageは、マーケティングの未来が何百万人ものAIエージェントであると賭けています」を扱っています。",
+          "オールキャッシュ取引により、MoEngageはAIエージェントを個々の顧客に割り当てるテクノロジーにアクセスできます。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+        ]
+      },
+      {
         "title": "Fika Jobs raises $4M to build a video-first hiring platform where AI agents interview candidates",
         "url": "https://techcrunch.com/2026/06/23/fika-jobs-raises-4m-to-build-a-video-first-hiring-platform-where-ai-agents-interview-candidates/",
         "points": 107,
@@ -19,27 +40,6 @@
         "keyPoints": [
           "この記事は「フィカ・ジョブスが400万$を調達し、AIエージェントが応募者を面接するビデオファーストの採用プラットフォームを構築」を扱っています。",
           "ストックホルムを拠点とするスタートアップのFika Jobsは、AIインタビューエージェントと短いビデオプロフィールを組み合わせたビデオファーストの採用プラットフォームを構築しており、LinkedInとTikTokの間のクロスのようなものを作成しています。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
-        ]
-      },
-      {
-        "title": "OpenAI launches new initiative to help find and patch open source bugs",
-        "url": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/",
-        "points": 107,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-06-23T00:11:31.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
-        "category": "AIニュース",
-        "impact": "高",
-        "titleJa": "OpenAIは、オープンソースのバグを見つけてパッチを適用するための新しいイニシアチブを開始します",
-        "summaryJa": "この記事は「OpenAIは、オープンソースのバグを見つけてパッチを適用するための新しいイニシアチブを開始します」を扱っています。OpenAIはAIを使用して、オープンソースコミュニティが自分自身をよりよく保護できるように支援しています。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
-        "keyPoints": [
-          "この記事は「OpenAIは、オープンソースのバグを見つけてパッチを適用するための新しいイニシアチブを開始します」を扱っています。",
-          "OpenAIはAIを使用して、オープンソースコミュニティが自分自身をよりよく保護できるように支援しています。",
           "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       },
@@ -87,8 +87,8 @@
       {
         "title": "Ask HN: Anthropic banned me from using Claude Code and I don't know what to do",
         "url": "https://news.ycombinator.com/item?id=48641160",
-        "points": 78,
-        "comments": 80,
+        "points": 79,
+        "comments": 83,
         "author": "ayi",
         "createdAt": "2026-06-23T06:33:52Z",
         "domain": "news.ycombinator.com",
@@ -105,25 +105,42 @@
         ]
       }
     ],
-    "fetchedAt": "2026-06-23T23:06:05.109Z",
+    "fetchedAt": "2026-06-24T02:51:43.445Z",
     "mock": false
   },
   "xTrends": {
     "items": [
       {
-        "topic": "AIの水問題",
+        "topic": "Claude Tag",
         "locationLabel": "日本",
-        "bestRank": 18,
-        "appearances": 3,
+        "bestRank": 24,
+        "appearances": 4,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-06-23T23:06:05.071Z",
+        "observedAt": "2026-06-24T02:51:43.427Z",
+        "url": "https://x.com/search?q=Claude%20Tag&src=typed_query&f=live",
+        "articleTitle": "Claude Tag",
+        "articleTitleJa": "Claude・タグ",
+        "articleUrl": "https://www.anthropic.com/news/introducing-claude-tag",
+        "articleSource": "anthropic.com",
+        "articlePublishedAt": "2026-06-23T17:09:18Z",
+        "summaryJa": "Anthropic は、信頼性が高く、解釈可能で、操作可能な AI システムの構築に取り組んでいる AI の安全性と研究を行う会社です。",
+        "translationVersion": 3
+      },
+      {
+        "topic": "AIの水問題",
+        "locationLabel": "日本",
+        "bestRank": 21,
+        "appearances": 1,
+        "trendSource": "Trends24",
+        "sourceUrl": "https://trends24.in/japan/",
+        "observedAt": "2026-06-24T02:51:43.427Z",
         "url": "https://x.com/search?q=AI%E3%81%AE%E6%B0%B4%E5%95%8F%E9%A1%8C&src=typed_query&f=live",
         "articleTitle": "AIの水問題",
         "articleTitleJa": "公開トレンド: AIの水問題",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-06-23T23:06:05.071Z",
+        "articlePublishedAt": "2026-06-24T02:51:43.427Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -131,11 +148,11 @@
       {
         "topic": "Reflection AI",
         "locationLabel": "日本",
-        "bestRank": 24,
-        "appearances": 2,
+        "bestRank": 34,
+        "appearances": 1,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-06-23T23:06:05.071Z",
+        "observedAt": "2026-06-24T02:51:43.427Z",
         "url": "https://x.com/search?q=Reflection%20AI&src=typed_query&f=live",
         "articleTitle": "SpaceX signs computing power deal with AI startup Reflection worth up $6.3B",
         "articleTitleJa": "SpaceX、AIスタートアップReflectionとコンピューティングパワー契約に署名、総額63億ドル相当",
@@ -152,39 +169,22 @@
         "appearances": 1,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-06-23T23:06:05.071Z",
+        "observedAt": "2026-06-24T02:51:43.427Z",
         "url": "https://x.com/search?q=Google%E3%81%AEAI%E9%83%A8%E9%96%80DeepMind&src=typed_query&f=live",
         "articleTitle": "GoogleのAI部門DeepMind",
         "articleTitleJa": "公開トレンド: GoogleのAI部門DeepMind",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-06-23T23:06:05.071Z",
+        "articlePublishedAt": "2026-06-24T02:51:43.427Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
-      },
-      {
-        "topic": "Claude Tag",
-        "locationLabel": "米国",
-        "bestRank": 24,
-        "appearances": 4,
-        "trendSource": "Trends24",
-        "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-06-23T23:06:04.945Z",
-        "url": "https://x.com/search?q=Claude%20Tag&src=typed_query&f=live",
-        "articleTitle": "Claude Tag",
-        "articleTitleJa": "Claude・タグ",
-        "articleUrl": "https://www.anthropic.com/news/introducing-claude-tag",
-        "articleSource": "anthropic.com",
-        "articlePublishedAt": "2026-06-23T17:09:18Z",
-        "summaryJa": "Anthropic は、信頼性が高く、解釈可能で、操作可能な AI システムの構築に取り組んでいる AI の安全性と研究を行う会社です。",
-        "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-06-23T23:06:05.109Z",
+    "fetchedAt": "2026-06-24T02:51:43.445Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-06-23T23:06:08.486Z"
+    "articleFetchedAt": "2026-06-24T02:51:45.912Z"
   }
 }
