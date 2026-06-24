@@ -44,26 +44,6 @@
         ]
       },
       {
-        "title": "Show HN: Neural Particle Automata",
-        "url": "https://selforg-npa.github.io/",
-        "points": 90,
-        "comments": 19,
-        "author": "esychology",
-        "createdAt": "2026-06-23T08:31:48Z",
-        "domain": "selforg-npa.github.io",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "中",
-        "newsLens": "技術",
-        "titleJa": "AIニュース: Show HN: Neural Particle Automata",
-        "summaryJa": "この記事は「Show HN: Neural Particle Automata」を扱っています。神経CAは、グリッド上の自己組織化パターン形成をモデル化する。各セルは、空間内で自由に移動し、その状態を変化させることができるエージェント粒子である。",
-        "keyPoints": [
-          "この記事は「Show HN: Neural Particle Automata」を扱っています。",
-          "神経CAは、グリッド上の自己組織化パターン形成をモデル化する。",
-          "各セルは、空間内で自由に移動し、その状態を変化させることができるエージェント粒子である。"
-        ]
-      },
-      {
         "title": "Oracle’s 21,000 layoffs help drive its debt-fueled AI investments",
         "url": "https://arstechnica.com/ai/2026/06/oracles-21000-layoffs-help-drive-its-debt-fueled-ai-investments/",
         "points": 79,
@@ -85,27 +65,47 @@
         ]
       },
       {
-        "title": "Claude Tag",
-        "url": "https://www.anthropic.com/news/introducing-claude-tag",
-        "points": 73,
-        "comments": 167,
-        "author": "adocomplete",
-        "createdAt": "2026-06-23T17:09:18Z",
-        "domain": "anthropic.com",
+        "title": "GitHub Is Becoming a Giant AI Code Dump",
+        "url": "https://maref.cc/en/blog/vibe-coding-crisis/",
+        "points": 75,
+        "comments": 23,
+        "author": "Athena-maref",
+        "createdAt": "2026-06-24T08:21:59Z",
+        "domain": "maref.cc",
         "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "高",
+        "category": "開発ツール",
+        "impact": "低",
         "newsLens": "技術",
-        "titleJa": "Claude・タグ",
-        "summaryJa": "この記事は「Claude・タグ」を扱っています。Anthropicは、信頼性が高く、解釈可能で、操縦可能なAIシステムの構築に取り組んでいるAI安全調査会社です。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "titleJa": "GitHubは巨大なAIコードダンプになりつつあります",
+        "summaryJa": "この記事は「GitHubは巨大なAIコードダンプになりつつあります」を扱っています。630 Mのリポジトリでは、新しいコードの半分はAIで書かれていますが、信頼度は77 ％から60 ％に低下しました。CMUは600万個の偽の星を発見しました。",
         "keyPoints": [
-          "この記事は「Claude・タグ」を扱っています。",
-          "Anthropicは、信頼性が高く、解釈可能で、操縦可能なAIシステムの構築に取り組んでいるAI安全調査会社です。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+          "この記事は「GitHubは巨大なAIコードダンプになりつつあります」を扱っています。",
+          "630 Mのリポジトリでは、新しいコードの半分はAIで書かれていますが、信頼度は77 ％から60 ％に低下しました。",
+          "CMUは600万個の偽の星を発見しました。"
+        ]
+      },
+      {
+        "title": "Show HN: RLM-based local debugger for AI agent traces",
+        "url": "https://github.com/context-labs/halo",
+        "points": 74,
+        "comments": 7,
+        "author": "mikepollard_dev",
+        "createdAt": "2026-06-23T18:21:52Z",
+        "domain": "github.com",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "低",
+        "newsLens": "技術",
+        "titleJa": "HNを表示： AIエージェントトレースのRLMベースのローカルデバッガ",
+        "summaryJa": "この記事は「HNを表示： AIエージェントトレースのRLMベースのローカルデバッガ」を扱っています。HALO （ Hierarchal Agent Loop Optimizer ）は、AIエージェントを実行トレースを使用してデバッグおよび最適化するためのオープンソースツールです。エージェントを実行し、トレースをHaloにフィードし、レポートを取得し、修正を適用してから、エージェントを再実行します。",
+        "keyPoints": [
+          "この記事は「HNを表示： AIエージェントトレースのRLMベースのローカルデバッガ」を扱っています。",
+          "HALO （ Hierarchal Agent Loop Optimizer ）は、AIエージェントを実行トレースを使用してデバッグおよび最適化するためのオープンソースツールです。",
+          "エージェントを実行し、トレースをHaloにフィードし、レポートを取得し、修正を適用してから、エージェントを再実行します。"
         ]
       }
     ],
-    "fetchedAt": "2026-06-24T06:44:59.566Z",
+    "fetchedAt": "2026-06-24T10:20:20.420Z",
     "mock": false
   },
   "xTrends": {
@@ -117,7 +117,7 @@
         "appearances": 4,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-06-24T06:44:59.475Z",
+        "observedAt": "2026-06-24T10:20:20.340Z",
         "url": "https://x.com/search?q=Claude%20Tag&src=typed_query&f=live",
         "articleTitle": "Claude Tag",
         "articleTitleJa": "Claude・タグ",
@@ -128,10 +128,10 @@
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-06-24T06:44:59.566Z",
+    "fetchedAt": "2026-06-24T10:20:20.420Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-06-24T06:45:02.173Z"
+    "articleFetchedAt": "2026-06-24T10:20:24.890Z"
   }
 }
