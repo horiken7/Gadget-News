@@ -5,7 +5,7 @@
         "title": "OpenAI unveils its first custom chip, built by Broadcom",
         "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
         "points": 121,
-        "comments": 116,
+        "comments": 216,
         "author": "jamdesk",
         "createdAt": "2026-06-24T17:47:00Z",
         "domain": "techcrunch.com",
@@ -43,6 +43,27 @@
         ]
       },
       {
+        "title": "Companies are scrambling to stop employees from maxing out AI budgets with small tasks",
+        "url": "https://techcrunch.com/2026/06/24/companies-are-scrambling-to-stop-employees-from-maxing-out-ai-budgets-with-small-tasks/",
+        "points": 105,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-06-24T20:09:45.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
+        "category": "AIニュース",
+        "impact": "高",
+        "titleJa": "企業は、従業員が小さなタスクでAI予算を最大限に活用するのを止めるために慌てています",
+        "summaryJa": "この記事は「企業は、従業員が小さなタスクでAI予算を最大限に活用するのを止めるために慌てています」を扱っています。私たちは今、トークン配給の時代に入っているようです。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "keyPoints": [
+          "この記事は「企業は、従業員が小さなタスクでAI予算を最大限に活用するのを止めるために慌てています」を扱っています。",
+          "私たちは今、トークン配給の時代に入っているようです。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+        ]
+      },
+      {
         "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
         "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip/",
         "points": 101,
@@ -66,7 +87,7 @@
         "title": "Reid Hoffman says SpaceX 'not an AI company', xAI 'complete train wreck'",
         "url": "https://fortune.com/2026/06/24/reid-hoffman-spacex-musk-openai-anthropic-gen-z-mistake/",
         "points": 93,
-        "comments": 245,
+        "comments": 251,
         "author": "1vuio0pswjnm7",
         "createdAt": "2026-06-24T12:23:59Z",
         "domain": "fortune.com",
@@ -81,30 +102,9 @@
           "LinkedInの共同創設者であり、AnthropicとOpenAIの両方の投資家である彼は、Elon MuskのAIの野心について、これまでで最も鋭いパブリックアセスメントを提供しています。",
           "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
-      },
-      {
-        "title": "Facebook rolls out an AI companion app for creators",
-        "url": "https://techcrunch.com/2026/06/24/facebook-rolls-out-an-ai-companion-app-for-creators/",
-        "points": 79,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-06-24T17:16:24.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
-        "category": "AIニュース",
-        "impact": "中",
-        "titleJa": "Facebookがクリエイター向けのAIコンパニオンアプリをリリース",
-        "summaryJa": "この記事は「Facebookがクリエイター向けのAIコンパニオンアプリをリリース」を扱っています。現在一部のクリエイターでテスト中の新しいアプリには、Facebookの最近発表されたAIクリエイターアシスタントが組み込まれています。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
-        "keyPoints": [
-          "この記事は「Facebookがクリエイター向けのAIコンパニオンアプリをリリース」を扱っています。",
-          "現在一部のクリエイターでテスト中の新しいアプリには、Facebookの最近発表されたAIクリエイターアシスタントが組み込まれています。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
-        ]
       }
     ],
-    "fetchedAt": "2026-06-24T18:49:26.433Z",
+    "fetchedAt": "2026-06-24T20:45:51.845Z",
     "mock": false
   },
   "xTrends": {
@@ -113,10 +113,10 @@
         "topic": "Claude Tag",
         "locationLabel": "日本",
         "bestRank": 42,
-        "appearances": 3,
+        "appearances": 2,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-06-24T18:49:26.310Z",
+        "observedAt": "2026-06-24T20:45:51.829Z",
         "url": "https://x.com/search?q=Claude%20Tag&src=typed_query&f=live",
         "articleTitle": "Claude Tag",
         "articleTitleJa": "Claude・タグ",
@@ -127,10 +127,10 @@
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-06-24T18:49:26.433Z",
+    "fetchedAt": "2026-06-24T20:45:51.845Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-06-24T18:49:31.019Z"
+    "articleFetchedAt": "2026-06-24T20:45:56.080Z"
   }
 }
