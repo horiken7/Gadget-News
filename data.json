@@ -23,27 +23,6 @@
         ]
       },
       {
-        "title": "Fika Jobs raises $4M to build a video-first hiring platform where AI agents interview candidates",
-        "url": "https://techcrunch.com/2026/06/23/fika-jobs-raises-4m-to-build-a-video-first-hiring-platform-where-ai-agents-interview-candidates/",
-        "points": 107,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-06-23T13:00:00.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
-        "category": "AIニュース",
-        "impact": "高",
-        "titleJa": "フィカ・ジョブスが400万$を調達し、AIエージェントが応募者を面接するビデオファーストの採用プラットフォームを構築",
-        "summaryJa": "この記事は「フィカ・ジョブスが400万$を調達し、AIエージェントが応募者を面接するビデオファーストの採用プラットフォームを構築」を扱っています。ストックホルムを拠点とするスタートアップのFika Jobsは、AIインタビューエージェントと短いビデオプロフィールを組み合わせたビデオファーストの採用プラットフォームを構築しており、LinkedInとTikTokの間のクロスのようなものを作成しています。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
-        "keyPoints": [
-          "この記事は「フィカ・ジョブスが400万$を調達し、AIエージェントが応募者を面接するビデオファーストの採用プラットフォームを構築」を扱っています。",
-          "ストックホルムを拠点とするスタートアップのFika Jobsは、AIインタビューエージェントと短いビデオプロフィールを組み合わせたビデオファーストの採用プラットフォームを構築しており、LinkedInとTikTokの間のクロスのようなものを作成しています。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
-        ]
-      },
-      {
         "title": "Oracle’s 21,000 layoffs help drive its debt-fueled AI investments",
         "url": "https://arstechnica.com/ai/2026/06/oracles-21000-layoffs-help-drive-its-debt-fueled-ai-investments/",
         "points": 79,
@@ -65,30 +44,31 @@
         ]
       },
       {
-        "title": "GitHub Is Becoming a Giant AI Code Dump",
-        "url": "https://maref.cc/en/blog/vibe-coding-crisis/",
-        "points": 75,
-        "comments": 23,
-        "author": "Athena-maref",
-        "createdAt": "2026-06-24T08:21:59Z",
-        "domain": "maref.cc",
-        "sourceType": "hn",
-        "category": "開発ツール",
-        "impact": "低",
-        "newsLens": "技術",
-        "titleJa": "GitHubは巨大なAIコードダンプになりつつあります",
-        "summaryJa": "この記事は「GitHubは巨大なAIコードダンプになりつつあります」を扱っています。630 Mのリポジトリでは、新しいコードの半分はAIで書かれていますが、信頼度は77 ％から60 ％に低下しました。CMUは600万個の偽の星を発見しました。",
+        "title": "Anthropic’s Claude Tag is learning your company, one Slack message at a time",
+        "url": "https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time/",
+        "points": 79,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-06-23T17:00:00.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
+        "category": "AIモデル",
+        "impact": "中",
+        "titleJa": "AnthropicのClaude Tagは、一度に1つのSlackメッセージであなたの会社を学習しています",
+        "summaryJa": "この記事は「AnthropicのClaude Tagは、一度に1つのSlackメッセージであなたの会社を学習しています」を扱っています。Anthropicの新しいClaude Tagは、Always - on AIチームメイトをSlackにもたらします。しかし、生産性を超えて、この機能は組織のコンテキスト、機関の知識、および企業のワークフローを把握するための戦略的な遊びです。",
         "keyPoints": [
-          "この記事は「GitHubは巨大なAIコードダンプになりつつあります」を扱っています。",
-          "630 Mのリポジトリでは、新しいコードの半分はAIで書かれていますが、信頼度は77 ％から60 ％に低下しました。",
-          "CMUは600万個の偽の星を発見しました。"
+          "この記事は「AnthropicのClaude Tagは、一度に1つのSlackメッセージであなたの会社を学習しています」を扱っています。",
+          "Anthropicの新しいClaude Tagは、Always - on AIチームメイトをSlackにもたらします。",
+          "しかし、生産性を超えて、この機能は組織のコンテキスト、機関の知識、および企業のワークフローを把握するための戦略的な遊びです。"
         ]
       },
       {
         "title": "Show HN: RLM-based local debugger for AI agent traces",
         "url": "https://github.com/context-labs/halo",
-        "points": 74,
-        "comments": 7,
+        "points": 75,
+        "comments": 8,
         "author": "mikepollard_dev",
         "createdAt": "2026-06-23T18:21:52Z",
         "domain": "github.com",
@@ -103,9 +83,29 @@
           "HALO （ Hierarchal Agent Loop Optimizer ）は、AIエージェントを実行トレースを使用してデバッグおよび最適化するためのオープンソースツールです。",
           "エージェントを実行し、トレースをHaloにフィードし、レポートを取得し、修正を適用してから、エージェントを再実行します。"
         ]
+      },
+      {
+        "title": "Claude Tag",
+        "url": "https://www.anthropic.com/news/introducing-claude-tag",
+        "points": 73,
+        "comments": 174,
+        "author": "adocomplete",
+        "createdAt": "2026-06-23T17:09:18Z",
+        "domain": "anthropic.com",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "Claude・タグ",
+        "summaryJa": "この記事は「Claude・タグ」を扱っています。Anthropicは、信頼性が高く、解釈可能で、操縦可能なAIシステムの構築に取り組んでいるAI安全調査会社です。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "keyPoints": [
+          "この記事は「Claude・タグ」を扱っています。",
+          "Anthropicは、信頼性が高く、解釈可能で、操縦可能なAIシステムの構築に取り組んでいるAI安全調査会社です。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+        ]
       }
     ],
-    "fetchedAt": "2026-06-24T10:20:20.420Z",
+    "fetchedAt": "2026-06-24T13:18:44.332Z",
     "mock": false
   },
   "xTrends": {
@@ -117,7 +117,7 @@
         "appearances": 4,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-06-24T10:20:20.340Z",
+        "observedAt": "2026-06-24T13:18:44.315Z",
         "url": "https://x.com/search?q=Claude%20Tag&src=typed_query&f=live",
         "articleTitle": "Claude Tag",
         "articleTitleJa": "Claude・タグ",
@@ -128,10 +128,10 @@
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-06-24T10:20:20.420Z",
+    "fetchedAt": "2026-06-24T13:18:44.332Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-06-24T10:20:24.890Z"
+    "articleFetchedAt": "2026-06-24T13:18:45.819Z"
   }
 }
