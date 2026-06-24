@@ -46,7 +46,7 @@
       {
         "title": "Show HN: Neural Particle Automata",
         "url": "https://selforg-npa.github.io/",
-        "points": 89,
+        "points": 90,
         "comments": 19,
         "author": "esychology",
         "createdAt": "2026-06-23T08:31:48Z",
@@ -85,27 +85,27 @@
         ]
       },
       {
-        "title": "Ask HN: Anthropic banned me from using Claude Code and I don't know what to do",
-        "url": "https://news.ycombinator.com/item?id=48641160",
-        "points": 79,
-        "comments": 83,
-        "author": "ayi",
-        "createdAt": "2026-06-23T06:33:52Z",
-        "domain": "news.ycombinator.com",
+        "title": "Claude Tag",
+        "url": "https://www.anthropic.com/news/introducing-claude-tag",
+        "points": 73,
+        "comments": 167,
+        "author": "adocomplete",
+        "createdAt": "2026-06-23T17:09:18Z",
+        "domain": "anthropic.com",
         "sourceType": "hn",
         "category": "AIモデル",
-        "impact": "中",
+        "impact": "高",
         "newsLens": "技術",
-        "titleJa": "HNに尋ねる： Anthropicは私にClaude Codeの使用を禁止し、何をすべきかわからない",
-        "summaryJa": "この記事は「HNに尋ねる： Anthropicは私にClaude Codeの使用を禁止し、何をすべきかわからない」を扱っています。Claude Codeを職場で何か月も使用した後、私は自分のプロジェクトでも使用したかったのです。ほとんどの場合、VPNがオンになっていたため、1時間の使用後に禁止されました。",
+        "titleJa": "Claude・タグ",
+        "summaryJa": "この記事は「Claude・タグ」を扱っています。Anthropicは、信頼性が高く、解釈可能で、操縦可能なAIシステムの構築に取り組んでいるAI安全調査会社です。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
         "keyPoints": [
-          "この記事は「HNに尋ねる： Anthropicは私にClaude Codeの使用を禁止し、何をすべきかわからない」を扱っています。",
-          "Claude Codeを職場で何か月も使用した後、私は自分のプロジェクトでも使用したかったのです。",
-          "ほとんどの場合、VPNがオンになっていたため、1時間の使用後に禁止されました。"
+          "この記事は「Claude・タグ」を扱っています。",
+          "Anthropicは、信頼性が高く、解釈可能で、操縦可能なAIシステムの構築に取り組んでいるAI安全調査会社です。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
       }
     ],
-    "fetchedAt": "2026-06-24T02:51:43.445Z",
+    "fetchedAt": "2026-06-24T06:44:59.566Z",
     "mock": false
   },
   "xTrends": {
@@ -117,7 +117,7 @@
         "appearances": 4,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-06-24T02:51:43.427Z",
+        "observedAt": "2026-06-24T06:44:59.475Z",
         "url": "https://x.com/search?q=Claude%20Tag&src=typed_query&f=live",
         "articleTitle": "Claude Tag",
         "articleTitleJa": "Claude・タグ",
@@ -126,65 +126,12 @@
         "articlePublishedAt": "2026-06-23T17:09:18Z",
         "summaryJa": "Anthropic は、信頼性が高く、解釈可能で、操作可能な AI システムの構築に取り組んでいる AI の安全性と研究を行う会社です。",
         "translationVersion": 3
-      },
-      {
-        "topic": "AIの水問題",
-        "locationLabel": "日本",
-        "bestRank": 21,
-        "appearances": 1,
-        "trendSource": "Trends24",
-        "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-06-24T02:51:43.427Z",
-        "url": "https://x.com/search?q=AI%E3%81%AE%E6%B0%B4%E5%95%8F%E9%A1%8C&src=typed_query&f=live",
-        "articleTitle": "AIの水問題",
-        "articleTitleJa": "公開トレンド: AIの水問題",
-        "articleUrl": "https://trends24.in/japan/",
-        "articleSource": "Trends24",
-        "articlePublishedAt": "2026-06-24T02:51:43.427Z",
-        "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
-        "translationVersion": 3,
-        "articleFallback": true
-      },
-      {
-        "topic": "Reflection AI",
-        "locationLabel": "日本",
-        "bestRank": 34,
-        "appearances": 1,
-        "trendSource": "Trends24",
-        "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-06-24T02:51:43.427Z",
-        "url": "https://x.com/search?q=Reflection%20AI&src=typed_query&f=live",
-        "articleTitle": "SpaceX signs computing power deal with AI startup Reflection worth up $6.3B",
-        "articleTitleJa": "SpaceX、AIスタートアップReflectionとコンピューティングパワー契約に署名、総額63億ドル相当",
-        "articleUrl": "https://www.cnbc.com/2026/06/22/spacex-ai-colossus-data-center-reflection.html",
-        "articleSource": "cnbc.com",
-        "articlePublishedAt": "2026-06-22T15:56:27Z",
-        "summaryJa": "SpaceX は、Colossus データセンターを商用コンピューティング パワー プラットフォームに転換し、Anthropic、Google、Cursor と最近契約を締結しました。",
-        "translationVersion": 3
-      },
-      {
-        "topic": "GoogleのAI部門DeepMind",
-        "locationLabel": "日本",
-        "bestRank": 47,
-        "appearances": 1,
-        "trendSource": "Trends24",
-        "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-06-24T02:51:43.427Z",
-        "url": "https://x.com/search?q=Google%E3%81%AEAI%E9%83%A8%E9%96%80DeepMind&src=typed_query&f=live",
-        "articleTitle": "GoogleのAI部門DeepMind",
-        "articleTitleJa": "公開トレンド: GoogleのAI部門DeepMind",
-        "articleUrl": "https://trends24.in/japan/",
-        "articleSource": "Trends24",
-        "articlePublishedAt": "2026-06-24T02:51:43.427Z",
-        "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
-        "translationVersion": 3,
-        "articleFallback": true
       }
     ],
-    "fetchedAt": "2026-06-24T02:51:43.445Z",
+    "fetchedAt": "2026-06-24T06:44:59.566Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-06-24T02:51:45.912Z"
+    "articleFetchedAt": "2026-06-24T06:45:02.173Z"
   }
 }
