@@ -5,7 +5,7 @@
         "title": "OpenAI unveils its first custom chip, built by Broadcom",
         "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
         "points": 121,
-        "comments": 356,
+        "comments": 385,
         "author": "jamdesk",
         "createdAt": "2026-06-24T17:47:00Z",
         "domain": "techcrunch.com",
@@ -25,7 +25,7 @@
         "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
         "url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
         "points": 121,
-        "comments": 362,
+        "comments": 672,
         "author": "htrp",
         "createdAt": "2026-06-24T19:48:01Z",
         "domain": "reuters.com",
@@ -87,7 +87,7 @@
         "title": "NSA lost access to Mythos amid Anthropic dispute",
         "url": "https://www.nytimes.com/2026/06/23/us/politics/nsa-lost-access-anthropic-tool.html",
         "points": 93,
-        "comments": 249,
+        "comments": 263,
         "author": "thm",
         "createdAt": "2026-06-24T11:45:47Z",
         "domain": "nytimes.com",
@@ -104,15 +104,15 @@
         ]
       }
     ],
-    "fetchedAt": "2026-06-25T05:02:00.291Z",
+    "fetchedAt": "2026-06-25T08:55:25.448Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-06-25T05:02:00.291Z",
+    "fetchedAt": "2026-06-25T08:55:25.448Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-06-25T05:02:00.437Z"
+    "articleFetchedAt": "2026-06-25T08:55:25.555Z"
   }
 }
