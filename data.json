@@ -2,43 +2,24 @@
   "news": {
     "items": [
       {
-        "title": "OpenAI unveils its first custom chip, built by Broadcom",
-        "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
-        "points": 121,
-        "comments": 451,
-        "author": "jamdesk",
-        "createdAt": "2026-06-24T17:47:00Z",
-        "domain": "techcrunch.com",
-        "sourceType": "hn",
-        "category": "ハードウェア",
-        "impact": "高",
+        "title": "Notion killing Skiff-influenced email app since most users use AI agents instead",
+        "url": "https://arstechnica.com/gadgets/2026/06/notion-killing-skiff-influenced-email-app-since-most-users-use-ai-agents-instead/",
+        "points": 107,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-06-25T19:04:57.000Z",
+        "domain": "arstechnica.com",
+        "sourceType": "rss",
+        "sourceLabel": "Ars Technica",
         "newsLens": "技術",
-        "titleJa": "OpenAIは、Broadcomによって構築された最初のカスタムチップを発表",
-        "summaryJa": "この記事は「OpenAIは、Broadcomによって構築された最初のカスタムチップを発表」を扱っています。techcrunch.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、ロボット、GPU、データセンターなどAIを動かす基盤への影響を見る必要があります。",
-        "keyPoints": [
-          "この記事は「OpenAIは、Broadcomによって構築された最初のカスタムチップを発表」を扱っています。",
-          "techcrunch.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "技術面では、ロボット、GPU、データセンターなどAIを動かす基盤への影響を見る必要があります。"
-        ]
-      },
-      {
-        "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
-        "url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
-        "points": 121,
-        "comments": 1118,
-        "author": "htrp",
-        "createdAt": "2026-06-24T19:48:01Z",
-        "domain": "reuters.com",
-        "sourceType": "hn",
-        "category": "AIモデル",
+        "category": "AIニュース",
         "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "Anthropicは、アリババが不法にClaude AIモデル機能を抽出したと述べています",
-        "summaryJa": "この記事は「Anthropicは、アリババが不法にClaude AIモデル機能を抽出したと述べています」を扱っています。reuters.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "titleJa": "ほとんどのユーザーが代わりにAIエージェントを使用するため、Skiffに影響された電子メールアプリを殺すという考え",
+        "summaryJa": "この記事は「ほとんどのユーザーが代わりにAIエージェントを使用するため、Skiffに影響された電子メールアプリを殺すという考え」を扱っています。Notionは、「エージェントを使用して受信トレイを実行することに全力を注いでいます。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
         "keyPoints": [
-          "この記事は「Anthropicは、アリババが不法にClaude AIモデル機能を抽出したと述べています」を扱っています。",
-          "reuters.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+          "この記事は「ほとんどのユーザーが代わりにAIエージェントを使用するため、Skiffに影響された電子メールアプリを殺すという考え」を扱っています。",
+          "Notionは、「エージェントを使用して受信トレイを実行することに全力を注いでいます。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
       },
       {
@@ -84,27 +65,47 @@
         ]
       },
       {
-        "title": "Ford rehires 350 engineers after AI fails to preserve expertise or train juniors",
-        "url": "https://www.bloomberg.com/news/articles/2026-06-25/ford-has-been-rehiring-quality-inspectors-after-ai-fell-short",
-        "points": 93,
-        "comments": 223,
-        "author": "alanwreath",
-        "createdAt": "2026-06-25T14:58:50Z",
-        "domain": "bloomberg.com",
+        "title": "Tell HN: OpenAI has started putting ads on paid programs",
+        "url": "https://news.ycombinator.com/item?id=48673194",
+        "points": 87,
+        "comments": 48,
+        "author": "shantnutiwari",
+        "createdAt": "2026-06-25T13:37:36Z",
+        "domain": "news.ycombinator.com",
         "sourceType": "hn",
-        "category": "AIニュース",
+        "category": "開発ツール",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "フォードは、AIが専門知識を維持したり、後輩を訓練したりできなかった後、350人のエンジニアを再雇用します",
-        "summaryJa": "この記事は「フォードは、AIが専門知識を維持したり、後輩を訓練したりできなかった後、350人のエンジニアを再雇用します」を扱っています。bloomberg.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "titleJa": "HNに伝える： OpenAIは有料プログラムに広告を掲載し始めました",
+        "summaryJa": "この記事は「HNに伝える： OpenAIは有料プログラムに広告を掲載し始めました」を扱っています。私は£ 6.99/月のプログラムに参加していました。主にあまり使用していなかったためです。",
         "keyPoints": [
-          "この記事は「フォードは、AIが専門知識を維持したり、後輩を訓練したりできなかった後、350人のエンジニアを再雇用します」を扱っています。",
-          "bloomberg.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+          "この記事は「HNに伝える： OpenAIは有料プログラムに広告を掲載し始めました」を扱っています。",
+          "私は£ 6.99/月のプログラムに参加していました。",
+          "主にあまり使用していなかったためです。"
+        ]
+      },
+      {
+        "title": "Ask HN: Where is our profession (programmer) going?",
+        "url": "https://news.ycombinator.com/item?id=48668199",
+        "points": 81,
+        "comments": 88,
+        "author": "syntaxbush",
+        "createdAt": "2026-06-25T02:41:47Z",
+        "domain": "news.ycombinator.com",
+        "sourceType": "hn",
+        "category": "開発ツール",
+        "impact": "中",
+        "newsLens": "技術",
+        "titleJa": "HNに尋ねる：私たちの職業（プログラマー）はどこに向かっているのですか？",
+        "summaryJa": "この記事は「HNに尋ねる：私たちの職業（プログラマー）はどこに向かっているのですか？」を扱っています。私は約4年間、小さな（ 3人）ソフトウェア会社を経営していました。閉店してから、最近友人の会社で何に取り組んでいるのかを見に行きました（ 15人）。",
+        "keyPoints": [
+          "この記事は「HNに尋ねる：私たちの職業（プログラマー）はどこに向かっているのですか。",
+          "私は約4年間、小さな（ 3人）ソフトウェア会社を経営していました。",
+          "閉店してから、最近友人の会社で何に取り組んでいるのかを見に行きました（ 15人）。"
         ]
       }
     ],
-    "fetchedAt": "2026-06-25T17:09:09.965Z",
+    "fetchedAt": "2026-06-25T19:54:22.676Z",
     "mock": false
   },
   "xTrends": {
@@ -113,10 +114,10 @@
         "topic": "Oracle AI Trade",
         "locationLabel": "米国",
         "bestRank": 6,
-        "appearances": 6,
+        "appearances": 8,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-06-25T17:09:09.832Z",
+        "observedAt": "2026-06-25T19:54:22.557Z",
         "url": "https://x.com/search?q=Oracle%20AI%20Trade&src=typed_query&f=live",
         "articleTitle": "Oracle sheds 21,000 roles over the past year",
         "articleTitleJa": "オラクルは過去 1 年間で 21,000 の役割を削減",
@@ -127,10 +128,10 @@
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-06-25T17:09:09.965Z",
+    "fetchedAt": "2026-06-25T19:54:22.676Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-06-25T17:09:13.338Z"
+    "articleFetchedAt": "2026-06-25T19:54:25.008Z"
   }
 }
