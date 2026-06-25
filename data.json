@@ -5,7 +5,7 @@
         "title": "OpenAI unveils its first custom chip, built by Broadcom",
         "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
         "points": 121,
-        "comments": 266,
+        "comments": 299,
         "author": "jamdesk",
         "createdAt": "2026-06-24T17:47:00Z",
         "domain": "techcrunch.com",
@@ -19,27 +19,6 @@
           "この記事は「OpenAIは、Broadcomによって構築された最初のカスタムチップを発表」を扱っています。",
           "techcrunch.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
           "技術面では、ロボット、GPU、データセンターなどAIを動かす基盤への影響を見る必要があります。"
-        ]
-      },
-      {
-        "title": "India’s MoEngage bets that the future of marketing is millions of AI agents",
-        "url": "https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/",
-        "points": 107,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-06-23T23:30:00.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
-        "category": "AIニュース",
-        "impact": "高",
-        "titleJa": "インドのMoEngageは、マーケティングの未来が何百万人ものAIエージェントであると賭けています",
-        "summaryJa": "この記事は「インドのMoEngageは、マーケティングの未来が何百万人ものAIエージェントであると賭けています」を扱っています。オールキャッシュ取引により、MoEngageはAIエージェントを個々の顧客に割り当てるテクノロジーにアクセスできます。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
-        "keyPoints": [
-          "この記事は「インドのMoEngageは、マーケティングの未来が何百万人ものAIエージェントであると賭けています」を扱っています。",
-          "オールキャッシュ取引により、MoEngageはAIエージェントを個々の顧客に割り当てるテクノロジーにアクセスできます。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       },
       {
@@ -60,6 +39,27 @@
         "keyPoints": [
           "この記事は「AIはエンジニアリングの仕事を殺すことになっていましたが、新しいデータは彼らが最も回復力があることを示唆しています」を扱っています。",
           "SignalFireのデータによると、AIがレイオフの話題を支配している一方で、エンジニアは実際には新規採用者のより大きなシェアを占めている。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+        ]
+      },
+      {
+        "title": "Companies are scrambling to stop employees from maxing out AI budgets with small tasks",
+        "url": "https://techcrunch.com/2026/06/24/companies-are-scrambling-to-stop-employees-from-maxing-out-ai-budgets-with-small-tasks/",
+        "points": 105,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-06-24T20:09:45.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
+        "category": "AIニュース",
+        "impact": "高",
+        "titleJa": "企業は、従業員が小さなタスクでAI予算を最大限に活用するのを止めるために慌てています",
+        "summaryJa": "この記事は「企業は、従業員が小さなタスクでAI予算を最大限に活用するのを止めるために慌てています」を扱っています。私たちは今、トークン配給の時代に入っているようです。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "keyPoints": [
+          "この記事は「企業は、従業員が小さなタスクでAI予算を最大限に活用するのを止めるために慌てています」を扱っています。",
+          "私たちは今、トークン配給の時代に入っているようです。",
           "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       },
@@ -87,7 +87,7 @@
         "title": "Reid Hoffman says SpaceX 'not an AI company', xAI 'complete train wreck'",
         "url": "https://fortune.com/2026/06/24/reid-hoffman-spacex-musk-openai-anthropic-gen-z-mistake/",
         "points": 93,
-        "comments": 254,
+        "comments": 257,
         "author": "1vuio0pswjnm7",
         "createdAt": "2026-06-24T12:23:59Z",
         "domain": "fortune.com",
@@ -104,33 +104,15 @@
         ]
       }
     ],
-    "fetchedAt": "2026-06-24T22:14:00.325Z",
+    "fetchedAt": "2026-06-25T00:07:19.603Z",
     "mock": false
   },
   "xTrends": {
-    "items": [
-      {
-        "topic": "Claude Tag",
-        "locationLabel": "日本",
-        "bestRank": 42,
-        "appearances": 1,
-        "trendSource": "Trends24",
-        "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-06-24T22:14:00.303Z",
-        "url": "https://x.com/search?q=Claude%20Tag&src=typed_query&f=live",
-        "articleTitle": "Claude Tag",
-        "articleTitleJa": "Claude・タグ",
-        "articleUrl": "https://www.anthropic.com/news/introducing-claude-tag",
-        "articleSource": "anthropic.com",
-        "articlePublishedAt": "2026-06-23T17:09:18Z",
-        "summaryJa": "Anthropic は、信頼性が高く、解釈可能で、操作可能な AI システムの構築に取り組んでいる AI の安全性と研究を行う会社です。",
-        "translationVersion": 3
-      }
-    ],
-    "fetchedAt": "2026-06-24T22:14:00.325Z",
+    "items": [],
+    "fetchedAt": "2026-06-25T00:07:19.603Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-06-24T22:14:01.089Z"
+    "articleFetchedAt": "2026-06-25T00:07:19.706Z"
   }
 }
