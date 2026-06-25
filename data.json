@@ -23,24 +23,23 @@
         ]
       },
       {
-        "title": "AI was supposed to kill engineering jobs, but new data suggests they’re the most resilient",
-        "url": "https://techcrunch.com/2026/06/24/ai-was-supposed-to-kill-engineering-jobs-but-new-data-suggests-theyre-the-most-resilient/",
-        "points": 105,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-06-24T21:56:41.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
+        "title": "Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion",
+        "url": "https://github.com/inkeep/open-knowledge",
+        "points": 101,
+        "comments": 75,
+        "author": "engomez",
+        "createdAt": "2026-06-25T16:04:46Z",
+        "domain": "github.com",
+        "sourceType": "hn",
         "category": "AIニュース",
         "impact": "高",
-        "titleJa": "AIはエンジニアリングの仕事を殺すことになっていましたが、新しいデータは彼らが最も回復力があることを示唆しています",
-        "summaryJa": "この記事は「AIはエンジニアリングの仕事を殺すことになっていましたが、新しいデータは彼らが最も回復力があることを示唆しています」を扱っています。SignalFireのデータによると、AIがレイオフの話題を支配している一方で、エンジニアは実際には新規採用者のより大きなシェアを占めている。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "newsLens": "技術",
+        "titleJa": "Show HN ： OpenKnowledge - Obsidian/Notionに代わるオープンソースのAIファースト",
+        "summaryJa": "この記事は「Show HN ： OpenKnowledge - Obsidian/Notionに代わるオープンソースのAIファースト」を扱っています。私たちはOpenKnowledge (https://openknowledge.ai/)を立ち上げました。これは、Claude、Codex、Cursorと直接統合された「見えるものが得られる」マークダウンエディターです。",
         "keyPoints": [
-          "この記事は「AIはエンジニアリングの仕事を殺すことになっていましたが、新しいデータは彼らが最も回復力があることを示唆しています」を扱っています。",
-          "SignalFireのデータによると、AIがレイオフの話題を支配している一方で、エンジニアは実際には新規採用者のより大きなシェアを占めている。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+          "この記事は「Show HN ： OpenKnowledge - Obsidian/Notionに代わるオープンソースのAIファースト」を扱っています。",
+          "私たちはOpenKnowledge (https://openknowledge.ai/)を立ち上げました。",
+          "これは、Claude、Codex、Cursorと直接統合された「見えるものが得られる」マークダウンエディターです。"
         ]
       },
       {
@@ -65,30 +64,31 @@
         ]
       },
       {
-        "title": "Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion",
-        "url": "https://github.com/inkeep/open-knowledge",
-        "points": 96,
-        "comments": 50,
-        "author": "engomez",
-        "createdAt": "2026-06-25T16:04:46Z",
-        "domain": "github.com",
-        "sourceType": "hn",
+        "title": "Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents",
+        "url": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/",
+        "points": 89,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-06-25T20:19:25.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
         "category": "AIニュース",
         "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "Show HN ： OpenKnowledge - Obsidian/Notionに代わるオープンソースのAIファースト",
-        "summaryJa": "この記事は「Show HN ： OpenKnowledge - Obsidian/Notionに代わるオープンソースのAIファースト」を扱っています。私たちはOpenKnowledge (https://openknowledge.ai/)を立ち上げました。これは、Claude、Codex、Cursorと直接統合された「見えるものが得られる」マークダウンエディターです。",
+        "titleJa": "パトロナスAIは、AIエージェントをストレステストする「デジタルワールド」を構築するために$ 5000万土地",
+        "summaryJa": "この記事は「パトロナスAIは、AIエージェントをストレステストする「デジタルワールド」を構築するために$ 5000万土地」を扱っています。元Meta AI研究者によって設立されたエージェントテストのスタートアップPatronus AIは、ほぼ飽くなき需要を経験している、と投資家は言う。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
-          "この記事は「Show HN ： OpenKnowledge - Obsidian/Notionに代わるオープンソースのAIファースト」を扱っています。",
-          "私たちはOpenKnowledge (https://openknowledge.ai/)を立ち上げました。",
-          "これは、Claude、Codex、Cursorと直接統合された「見えるものが得られる」マークダウンエディターです。"
+          "この記事は「パトロナスAIは、AIエージェントをストレステストする「デジタルワールド」を構築するために$ 5000万土地」を扱っています。",
+          "元Meta AI研究者によって設立されたエージェントテストのスタートアップPatronus AIは、ほぼ飽くなき需要を経験している、と投資家は言う。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       },
       {
         "title": "Tell HN: OpenAI has started putting ads on paid programs",
         "url": "https://news.ycombinator.com/item?id=48673194",
-        "points": 87,
-        "comments": 48,
+        "points": 88,
+        "comments": 52,
         "author": "shantnutiwari",
         "createdAt": "2026-06-25T13:37:36Z",
         "domain": "news.ycombinator.com",
@@ -105,7 +105,7 @@
         ]
       }
     ],
-    "fetchedAt": "2026-06-25T21:28:34.238Z",
+    "fetchedAt": "2026-06-25T23:14:29.190Z",
     "mock": false
   },
   "xTrends": {
@@ -114,10 +114,10 @@
         "topic": "Oracle AI Trade",
         "locationLabel": "米国",
         "bestRank": 6,
-        "appearances": 8,
+        "appearances": 9,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-06-25T21:28:34.199Z",
+        "observedAt": "2026-06-25T23:14:29.093Z",
         "url": "https://x.com/search?q=Oracle%20AI%20Trade&src=typed_query&f=live",
         "articleTitle": "Oracle sheds 21,000 roles over the past year",
         "articleTitleJa": "オラクルは過去 1 年間で 21,000 の役割を削減",
@@ -128,10 +128,10 @@
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-06-25T21:28:34.238Z",
+    "fetchedAt": "2026-06-25T23:14:29.190Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-06-25T21:28:36.287Z"
+    "articleFetchedAt": "2026-06-25T23:14:30.949Z"
   }
 }
