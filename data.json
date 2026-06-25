@@ -5,7 +5,7 @@
         "title": "OpenAI unveils its first custom chip, built by Broadcom",
         "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
         "points": 121,
-        "comments": 406,
+        "comments": 437,
         "author": "jamdesk",
         "createdAt": "2026-06-24T17:47:00Z",
         "domain": "techcrunch.com",
@@ -25,7 +25,7 @@
         "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
         "url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
         "points": 121,
-        "comments": 822,
+        "comments": 951,
         "author": "htrp",
         "createdAt": "2026-06-24T19:48:01Z",
         "domain": "reuters.com",
@@ -84,35 +84,53 @@
         ]
       },
       {
-        "title": "NSA lost access to Mythos amid Anthropic dispute",
-        "url": "https://www.nytimes.com/2026/06/23/us/politics/nsa-lost-access-anthropic-tool.html",
-        "points": 93,
-        "comments": 265,
-        "author": "thm",
-        "createdAt": "2026-06-24T11:45:47Z",
-        "domain": "nytimes.com",
+        "title": "Ask HN: Where is our profession (programmer) going?",
+        "url": "https://news.ycombinator.com/item?id=48668199",
+        "points": 77,
+        "comments": 74,
+        "author": "syntaxbush",
+        "createdAt": "2026-06-25T02:41:47Z",
+        "domain": "news.ycombinator.com",
         "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "高",
+        "category": "開発ツール",
+        "impact": "中",
         "newsLens": "技術",
-        "titleJa": "Anthropicの紛争の中でNSAが神話へのアクセスを失った",
-        "summaryJa": "この記事は「Anthropicの紛争の中でNSAが神話へのアクセスを失った」を扱っています。nytimes.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "titleJa": "HNに尋ねる：私たちの職業（プログラマー）はどこに向かっているのですか？",
+        "summaryJa": "この記事は「HNに尋ねる：私たちの職業（プログラマー）はどこに向かっているのですか？」を扱っています。私は約4年間、小さな（ 3人）ソフトウェア会社を経営していました。閉店してから、最近友人の会社で何に取り組んでいるのかを見に行きました（ 15人）。",
         "keyPoints": [
-          "この記事は「Anthropicの紛争の中でNSAが神話へのアクセスを失った」を扱っています。",
-          "nytimes.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+          "この記事は「HNに尋ねる：私たちの職業（プログラマー）はどこに向かっているのですか。",
+          "私は約4年間、小さな（ 3人）ソフトウェア会社を経営していました。",
+          "閉店してから、最近友人の会社で何に取り組んでいるのかを見に行きました（ 15人）。"
         ]
       }
     ],
-    "fetchedAt": "2026-06-25T11:38:23.431Z",
+    "fetchedAt": "2026-06-25T14:24:09.928Z",
     "mock": false
   },
   "xTrends": {
-    "items": [],
-    "fetchedAt": "2026-06-25T11:38:23.431Z",
+    "items": [
+      {
+        "topic": "Oracle AI Trade",
+        "locationLabel": "米国",
+        "bestRank": 6,
+        "appearances": 2,
+        "trendSource": "Trends24",
+        "sourceUrl": "https://trends24.in/united-states/",
+        "observedAt": "2026-06-25T14:24:09.848Z",
+        "url": "https://x.com/search?q=Oracle%20AI%20Trade&src=typed_query&f=live",
+        "articleTitle": "Oracle sheds 21,000 roles over the past year",
+        "articleTitleJa": "オラクルは過去 1 年間で 21,000 の役割を削減",
+        "articleUrl": "https://www.cnbc.com/2026/06/23/oracle-ai-job-cuts-layoffs-21000.html",
+        "articleSource": "cnbc.com",
+        "articlePublishedAt": "2026-06-23T17:51:01Z",
+        "summaryJa": "オラクルは、「当社の事業全体にわたるAIテクノロジーの導入と導入により、従業員の削減が行われており、今後もその結果が生じる可能性がある」と述べた。",
+        "translationVersion": 3
+      }
+    ],
+    "fetchedAt": "2026-06-25T14:24:09.928Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-06-25T11:38:23.584Z"
+    "articleFetchedAt": "2026-06-25T14:24:12.949Z"
   }
 }
