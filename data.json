@@ -5,7 +5,7 @@
         "title": "OpenAI unveils its first custom chip, built by Broadcom",
         "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
         "points": 121,
-        "comments": 299,
+        "comments": 356,
         "author": "jamdesk",
         "createdAt": "2026-06-24T17:47:00Z",
         "domain": "techcrunch.com",
@@ -19,6 +19,26 @@
           "この記事は「OpenAIは、Broadcomによって構築された最初のカスタムチップを発表」を扱っています。",
           "techcrunch.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
           "技術面では、ロボット、GPU、データセンターなどAIを動かす基盤への影響を見る必要があります。"
+        ]
+      },
+      {
+        "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
+        "url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
+        "points": 121,
+        "comments": 362,
+        "author": "htrp",
+        "createdAt": "2026-06-24T19:48:01Z",
+        "domain": "reuters.com",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "Anthropicは、アリババが不法にClaude AIモデル機能を抽出したと述べています",
+        "summaryJa": "この記事は「Anthropicは、アリババが不法にClaude AIモデル機能を抽出したと述べています」を扱っています。reuters.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "keyPoints": [
+          "この記事は「Anthropicは、アリババが不法にClaude AIモデル機能を抽出したと述べています」を扱っています。",
+          "reuters.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
       },
       {
@@ -64,55 +84,35 @@
         ]
       },
       {
-        "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
-        "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip/",
-        "points": 101,
-        "comments": 1,
-        "author": "meetpateltech",
-        "createdAt": "2026-06-24T13:14:39Z",
-        "domain": "openai.com",
-        "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "OpenAIとBroadcomがLLMに最適化された推論チップを発表",
-        "summaryJa": "この記事は「OpenAIとBroadcomがLLMに最適化された推論チップを発表」を扱っています。openai.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
-        "keyPoints": [
-          "この記事は「OpenAIとBroadcomがLLMに最適化された推論チップを発表」を扱っています。",
-          "openai.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
-        ]
-      },
-      {
-        "title": "Reid Hoffman says SpaceX 'not an AI company', xAI 'complete train wreck'",
-        "url": "https://fortune.com/2026/06/24/reid-hoffman-spacex-musk-openai-anthropic-gen-z-mistake/",
+        "title": "NSA lost access to Mythos amid Anthropic dispute",
+        "url": "https://www.nytimes.com/2026/06/23/us/politics/nsa-lost-access-anthropic-tool.html",
         "points": 93,
-        "comments": 257,
-        "author": "1vuio0pswjnm7",
-        "createdAt": "2026-06-24T12:23:59Z",
-        "domain": "fortune.com",
+        "comments": 249,
+        "author": "thm",
+        "createdAt": "2026-06-24T11:45:47Z",
+        "domain": "nytimes.com",
         "sourceType": "hn",
         "category": "AIニュース",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "リード・ホフマンは、SpaceXは「AI企業ではなく」、xAIは「完全な列車事故」であると述べている",
-        "summaryJa": "この記事は「リード・ホフマンは、SpaceXは「AI企業ではなく」、xAIは「完全な列車事故」であると述べている」を扱っています。LinkedInの共同創設者であり、AnthropicとOpenAIの両方の投資家である彼は、Elon MuskのAIの野心について、これまでで最も鋭いパブリックアセスメントを提供しています。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "titleJa": "Anthropicの紛争の中でNSAが神話へのアクセスを失った",
+        "summaryJa": "この記事は「Anthropicの紛争の中でNSAが神話へのアクセスを失った」を扱っています。nytimes.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
         "keyPoints": [
-          "この記事は「リード・ホフマンは、SpaceXは「AI企業ではなく」、xAIは「完全な列車事故」であると述べている」を扱っています。",
-          "LinkedInの共同創設者であり、AnthropicとOpenAIの両方の投資家である彼は、Elon MuskのAIの野心について、これまでで最も鋭いパブリックアセスメントを提供しています。",
+          "この記事は「Anthropicの紛争の中でNSAが神話へのアクセスを失った」を扱っています。",
+          "nytimes.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
           "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
       }
     ],
-    "fetchedAt": "2026-06-25T00:07:19.603Z",
+    "fetchedAt": "2026-06-25T05:02:00.291Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-06-25T00:07:19.603Z",
+    "fetchedAt": "2026-06-25T05:02:00.291Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-06-25T00:07:19.706Z"
+    "articleFetchedAt": "2026-06-25T05:02:00.437Z"
   }
 }
