@@ -2,6 +2,27 @@
   "news": {
     "items": [
       {
+        "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
+        "url": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
+        "points": 133,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-06-25T23:34:39.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
+        "category": "AIモデル",
+        "impact": "高",
+        "titleJa": "ホワイトハウスは、OpenAIに対し、安全上の懸念から新モデルのリリースを遅らせるよう求めている",
+        "summaryJa": "この記事は「ホワイトハウスは、OpenAIに対し、安全上の懸念から新モデルのリリースを遅らせるよう求めている」を扱っています。penAIは、最新モデルであるGPT 5.6を、より多くの人々ではなく、一部のパートナーグループと共有することを計画していると伝えられています。理由は、トランプ政権がそれを指示したからだ。",
+        "keyPoints": [
+          "この記事は「ホワイトハウスは、OpenAIに対し、安全上の懸念から新モデルのリリースを遅らせるよう求めている」を扱っています。",
+          "penAIは、最新モデルであるGPT 5.6を、より多くの人々ではなく、一部のパートナーグループと共有することを計画していると伝えられています。",
+          "理由は、トランプ政権がそれを指示したからだ。"
+        ]
+      },
+      {
         "title": "Notion killing Skiff-influenced email app since most users use AI agents instead",
         "url": "https://arstechnica.com/gadgets/2026/06/notion-killing-skiff-influenced-email-app-since-most-users-use-ai-agents-instead/",
         "points": 107,
@@ -26,7 +47,7 @@
         "title": "Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion",
         "url": "https://github.com/inkeep/open-knowledge",
         "points": 101,
-        "comments": 75,
+        "comments": 101,
         "author": "engomez",
         "createdAt": "2026-06-25T16:04:46Z",
         "domain": "github.com",
@@ -35,11 +56,11 @@
         "impact": "高",
         "newsLens": "技術",
         "titleJa": "Show HN ： OpenKnowledge - Obsidian/Notionに代わるオープンソースのAIファースト",
-        "summaryJa": "この記事は「Show HN ： OpenKnowledge - Obsidian/Notionに代わるオープンソースのAIファースト」を扱っています。私たちはOpenKnowledge (https://openknowledge.ai/)を立ち上げました。これは、Claude、Codex、Cursorと直接統合された「見えるものが得られる」マークダウンエディターです。",
+        "summaryJa": "この記事は「Show HN ： OpenKnowledge - Obsidian/Notionに代わるオープンソースのAIファースト」を扱っています。Claude、コーデックス、その他のエージェントと直接連携した「見えるものが得られるもの」マークダウンエディターであるOpenKnowledge (https://openknowledge.ai/)をリリースします。MacOSアプリまたはWeb UI + CLIとして利用できます。",
         "keyPoints": [
           "この記事は「Show HN ： OpenKnowledge - Obsidian/Notionに代わるオープンソースのAIファースト」を扱っています。",
-          "私たちはOpenKnowledge (https://openknowledge.ai/)を立ち上げました。",
-          "これは、Claude、Codex、Cursorと直接統合された「見えるものが得られる」マークダウンエディターです。"
+          "Claude、コーデックス、その他のエージェントと直接連携した「見えるものが得られるもの」マークダウンエディターであるOpenKnowledge (https://openknowledge.ai/)をリリースします。",
+          "MacOSアプリまたはWeb UI + CLIとして利用できます。"
         ]
       },
       {
@@ -64,31 +85,10 @@
         ]
       },
       {
-        "title": "Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents",
-        "url": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/",
-        "points": 89,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-06-25T20:19:25.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
-        "category": "AIニュース",
-        "impact": "高",
-        "titleJa": "パトロナスAIは、AIエージェントをストレステストする「デジタルワールド」を構築するために$ 5000万土地",
-        "summaryJa": "この記事は「パトロナスAIは、AIエージェントをストレステストする「デジタルワールド」を構築するために$ 5000万土地」を扱っています。元Meta AI研究者によって設立されたエージェントテストのスタートアップPatronus AIは、ほぼ飽くなき需要を経験している、と投資家は言う。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
-        "keyPoints": [
-          "この記事は「パトロナスAIは、AIエージェントをストレステストする「デジタルワールド」を構築するために$ 5000万土地」を扱っています。",
-          "元Meta AI研究者によって設立されたエージェントテストのスタートアップPatronus AIは、ほぼ飽くなき需要を経験している、と投資家は言う。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
-        ]
-      },
-      {
         "title": "Tell HN: OpenAI has started putting ads on paid programs",
         "url": "https://news.ycombinator.com/item?id=48673194",
         "points": 88,
-        "comments": 52,
+        "comments": 54,
         "author": "shantnutiwari",
         "createdAt": "2026-06-25T13:37:36Z",
         "domain": "news.ycombinator.com",
@@ -105,7 +105,7 @@
         ]
       }
     ],
-    "fetchedAt": "2026-06-25T23:14:29.190Z",
+    "fetchedAt": "2026-06-26T02:56:44.732Z",
     "mock": false
   },
   "xTrends": {
@@ -117,7 +117,7 @@
         "appearances": 9,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-06-25T23:14:29.093Z",
+        "observedAt": "2026-06-26T02:56:44.657Z",
         "url": "https://x.com/search?q=Oracle%20AI%20Trade&src=typed_query&f=live",
         "articleTitle": "Oracle sheds 21,000 roles over the past year",
         "articleTitleJa": "オラクルは過去 1 年間で 21,000 の役割を削減",
@@ -128,10 +128,10 @@
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-06-25T23:14:29.190Z",
+    "fetchedAt": "2026-06-26T02:56:44.732Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-06-25T23:14:30.949Z"
+    "articleFetchedAt": "2026-06-26T02:56:48.888Z"
   }
 }
