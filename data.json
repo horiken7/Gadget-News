@@ -47,7 +47,7 @@
         "title": "Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion",
         "url": "https://github.com/inkeep/open-knowledge",
         "points": 101,
-        "comments": 124,
+        "comments": 137,
         "author": "engomez",
         "createdAt": "2026-06-25T16:04:46Z",
         "domain": "github.com",
@@ -88,7 +88,7 @@
         "title": "Tell HN: OpenAI has started putting ads on paid programs",
         "url": "https://news.ycombinator.com/item?id=48673194",
         "points": 89,
-        "comments": 57,
+        "comments": 62,
         "author": "shantnutiwari",
         "createdAt": "2026-06-25T13:37:36Z",
         "domain": "news.ycombinator.com",
@@ -105,7 +105,7 @@
         ]
       }
     ],
-    "fetchedAt": "2026-06-26T06:55:38.440Z",
+    "fetchedAt": "2026-06-26T10:21:45.052Z",
     "mock": false
   },
   "xTrends": {
@@ -117,7 +117,7 @@
         "appearances": 4,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-06-26T06:55:38.322Z",
+        "observedAt": "2026-06-26T10:21:44.964Z",
         "url": "https://x.com/search?q=OpenAI&src=typed_query&f=live",
         "articleTitle": "OpenAI unveils its first custom chip, built by Broadcom",
         "articleTitleJa": "OpenAI、Broadcom が開発した初のカスタム チップを発表",
@@ -130,11 +130,11 @@
       {
         "topic": "Oracle AI Trade",
         "locationLabel": "米国",
-        "bestRank": 6,
-        "appearances": 8,
+        "bestRank": 12,
+        "appearances": 4,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-06-26T06:55:38.297Z",
+        "observedAt": "2026-06-26T10:21:44.935Z",
         "url": "https://x.com/search?q=Oracle%20AI%20Trade&src=typed_query&f=live",
         "articleTitle": "Oracle sheds 21,000 roles over the past year",
         "articleTitleJa": "オラクルは過去 1 年間で 21,000 の役割を削減",
@@ -145,10 +145,10 @@
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-06-26T06:55:38.440Z",
+    "fetchedAt": "2026-06-26T10:21:45.052Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-06-26T06:55:42.406Z"
+    "articleFetchedAt": "2026-06-26T10:21:46.445Z"
   }
 }
