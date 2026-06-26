@@ -44,26 +44,6 @@
         ]
       },
       {
-        "title": "Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion",
-        "url": "https://github.com/inkeep/open-knowledge",
-        "points": 101,
-        "comments": 149,
-        "author": "engomez",
-        "createdAt": "2026-06-25T16:04:46Z",
-        "domain": "github.com",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "Show HN ： OpenKnowledge - Obsidian/Notionに代わるオープンソースのAIファースト",
-        "summaryJa": "この記事は「Show HN ： OpenKnowledge - Obsidian/Notionに代わるオープンソースのAIファースト」を扱っています。Claude、コーデックス、その他のエージェントと直接連携した「見えるものが得られるもの」マークダウンエディターであるOpenKnowledge (https://openknowledge.ai/)をリリースします。MacOSアプリまたはWeb UI + CLIとして利用できます。",
-        "keyPoints": [
-          "この記事は「Show HN ： OpenKnowledge - Obsidian/Notionに代わるオープンソースのAIファースト」を扱っています。",
-          "Claude、コーデックス、その他のエージェントと直接連携した「見えるものが得られるもの」マークダウンエディターであるOpenKnowledge (https://openknowledge.ai/)をリリースします。",
-          "MacOSアプリまたはWeb UI + CLIとして利用できます。"
-        ]
-      },
-      {
         "title": "General Intuition’s $2.3B bet that video games can train AI agents for the real world",
         "url": "https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
         "points": 99,
@@ -87,8 +67,8 @@
       {
         "title": "Why current LLM costs are not sustainable",
         "url": "https://aditya.patadia.org/p/ai-and-cloud-costs",
-        "points": 93,
-        "comments": 171,
+        "points": 95,
+        "comments": 183,
         "author": "adityapatadia",
         "createdAt": "2026-06-26T07:44:11Z",
         "domain": "aditya.patadia.org",
@@ -103,9 +83,29 @@
           "出現するソリューションは、私たちが予想しているよりもシンプルになります。",
           "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
+      },
+      {
+        "title": "The AI backlash is only getting started",
+        "url": "https://www.economist.com/leaders/2026/06/25/the-ai-backlash-is-only-getting-started",
+        "points": 58,
+        "comments": 184,
+        "author": "andsoitis",
+        "createdAt": "2026-06-26T13:12:04Z",
+        "domain": "economist.com",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "中",
+        "newsLens": "技術",
+        "titleJa": "AIの反発はまだ始まったばかりです",
+        "summaryJa": "この記事は「AIの反発はまだ始まったばかりです」を扱っています。economist.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "keyPoints": [
+          "この記事は「AIの反発はまだ始まったばかりです」を扱っています。",
+          "economist.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+        ]
       }
     ],
-    "fetchedAt": "2026-06-26T13:08:24.927Z",
+    "fetchedAt": "2026-06-26T16:13:01.897Z",
     "mock": false
   },
   "xTrends": {
@@ -117,7 +117,7 @@
         "appearances": 4,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-06-26T13:08:24.830Z",
+        "observedAt": "2026-06-26T16:13:01.831Z",
         "url": "https://x.com/search?q=OpenAI&src=typed_query&f=live",
         "articleTitle": "OpenAI unveils its first custom chip, built by Broadcom",
         "articleTitleJa": "OpenAI、Broadcom が開発した初のカスタム チップを発表",
@@ -128,14 +128,14 @@
         "translationVersion": 3
       },
       {
-        "topic": "Oracle AI Trade",
+        "topic": "oracle ai trade",
         "locationLabel": "米国",
-        "bestRank": 23,
+        "bestRank": 22,
         "appearances": 1,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-06-26T13:08:24.809Z",
-        "url": "https://x.com/search?q=Oracle%20AI%20Trade&src=typed_query&f=live",
+        "observedAt": "2026-06-26T16:13:01.804Z",
+        "url": "https://x.com/search?q=oracle%20ai%20trade&src=typed_query&f=live",
         "articleTitle": "Oracle sheds 21,000 roles over the past year",
         "articleTitleJa": "オラクルは過去 1 年間で 21,000 の役割を削減",
         "articleUrl": "https://www.cnbc.com/2026/06/23/oracle-ai-job-cuts-layoffs-21000.html",
@@ -145,10 +145,10 @@
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-06-26T13:08:24.927Z",
+    "fetchedAt": "2026-06-26T16:13:01.897Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-06-26T13:08:26.859Z"
+    "articleFetchedAt": "2026-06-26T16:13:03.637Z"
   }
 }
