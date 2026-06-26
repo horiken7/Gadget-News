@@ -44,31 +44,51 @@
         ]
       },
       {
-        "title": "General Intuition’s $2.3B bet that video games can train AI agents for the real world",
-        "url": "https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
-        "points": 99,
+        "title": "Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)",
+        "url": "https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/",
+        "points": 107,
         "comments": 0,
         "author": "",
-        "createdAt": "2026-06-25T16:55:00.000Z",
+        "createdAt": "2026-06-26T17:43:22.000Z",
         "domain": "techcrunch.com",
         "sourceType": "rss",
         "sourceLabel": "TechCrunch AI",
         "newsLens": "一般",
-        "category": "AIニュース",
+        "category": "ハードウェア",
         "impact": "高",
-        "titleJa": "General Intuitionの23億$は、ビデオゲームが現実世界のAIエージェントを訓練できると賭けています",
-        "summaryJa": "この記事は「General Intuitionの23億$は、ビデオゲームが現実世界のAIエージェントを訓練できると賭けています」を扱っています。General Intuitionは、数百万時間のゲームプレイで訓練されたAIを拡張するために3億2000万$を調達しました。アクションデータを賭けることは、AIが人間の直感に近いものを開発するのに役立ちます。",
+        "titleJa": "OpenAIからSpaceXまでのすべての人が独自のチップを構築している理由（そしてNvidiaの熱を高めている理由）",
+        "summaryJa": "この記事は「OpenAIからSpaceXまでのすべての人が独自のチップを構築している理由（そしてNvidiaの熱を高めている理由）」を扱っています。NVIDIAは長年にわたってAIチップ市場を支配してきたが、完全な依存の時代は終わりを告げようとしているのかもしれない。OpenAIは、Broadcomと共に構築されたカスタム推論チップであるJalapeñoで物事を盛り上げる計画を共有し、Google、Apple、SpaceXと共に、単一サプライヤーのリスクから抜け出す方法を構築する企業のリストに加わりました。",
         "keyPoints": [
-          "この記事は「General Intuitionの23億$は、ビデオゲームが現実世界のAIエージェントを訓練できると賭けています」を扱っています。",
-          "General Intuitionは、数百万時間のゲームプレイで訓練されたAIを拡張するために3億2000万$を調達しました。",
-          "アクションデータを賭けることは、AIが人間の直感に近いものを開発するのに役立ちます。"
+          "この記事は「OpenAIからSpaceXまでのすべての人が独自のチップを構築している理由（そしてNvidiaの熱を高めている理由）」を扱っています。",
+          "NVIDIAは長年にわたってAIチップ市場を支配してきたが、完全な依存の時代は終わりを告げようとしているのかもしれない。",
+          "OpenAIは、Broadcomと共に構築されたカスタム推論チップであるJalapeñoで物事を盛り上げる計画を共有し、Google、Apple、SpaceXと共に、単一サプライヤーのリスクから抜け出す方法を構築する企業のリストに加わりました。"
+        ]
+      },
+      {
+        "title": "Previewing GPT‑5.6 Sol: a next-generation model",
+        "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
+        "points": 101,
+        "comments": 279,
+        "author": "minimaxir",
+        "createdAt": "2026-06-26T17:06:55Z",
+        "domain": "openai.com",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "GPT ‑ 5.6 SOLのプレビュー：次世代モデル",
+        "summaryJa": "この記事は「GPT ‑ 5.6 SOLのプレビュー：次世代モデル」を扱っています。openai.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "keyPoints": [
+          "この記事は「GPT ‑ 5.6 SOLのプレビュー：次世代モデル」を扱っています。",
+          "openai.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
       },
       {
         "title": "Why current LLM costs are not sustainable",
         "url": "https://aditya.patadia.org/p/ai-and-cloud-costs",
         "points": 95,
-        "comments": 183,
+        "comments": 185,
         "author": "adityapatadia",
         "createdAt": "2026-06-26T07:44:11Z",
         "domain": "aditya.patadia.org",
@@ -83,29 +103,9 @@
           "出現するソリューションは、私たちが予想しているよりもシンプルになります。",
           "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
-      },
-      {
-        "title": "The AI backlash is only getting started",
-        "url": "https://www.economist.com/leaders/2026/06/25/the-ai-backlash-is-only-getting-started",
-        "points": 58,
-        "comments": 184,
-        "author": "andsoitis",
-        "createdAt": "2026-06-26T13:12:04Z",
-        "domain": "economist.com",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "中",
-        "newsLens": "技術",
-        "titleJa": "AIの反発はまだ始まったばかりです",
-        "summaryJa": "この記事は「AIの反発はまだ始まったばかりです」を扱っています。economist.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
-        "keyPoints": [
-          "この記事は「AIの反発はまだ始まったばかりです」を扱っています。",
-          "economist.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
-        ]
       }
     ],
-    "fetchedAt": "2026-06-26T16:13:01.897Z",
+    "fetchedAt": "2026-06-26T18:29:01.693Z",
     "mock": false
   },
   "xTrends": {
@@ -117,10 +117,10 @@
         "appearances": 4,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-06-26T16:13:01.831Z",
+        "observedAt": "2026-06-26T18:29:01.676Z",
         "url": "https://x.com/search?q=OpenAI&src=typed_query&f=live",
         "articleTitle": "OpenAI unveils its first custom chip, built by Broadcom",
-        "articleTitleJa": "OpenAI、Broadcom が開発した初のカスタム チップを発表",
+        "articleTitleJa": "OpenAI、Broadcom が開発した初のカスタムチップを発表",
         "articleUrl": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
         "articleSource": "techcrunch.com",
         "articlePublishedAt": "2026-06-24T17:47:00Z",
@@ -128,14 +128,14 @@
         "translationVersion": 3
       },
       {
-        "topic": "oracle ai trade",
+        "topic": "Oracle AI Trade",
         "locationLabel": "米国",
-        "bestRank": 22,
-        "appearances": 1,
+        "bestRank": 10,
+        "appearances": 4,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-06-26T16:13:01.804Z",
-        "url": "https://x.com/search?q=oracle%20ai%20trade&src=typed_query&f=live",
+        "observedAt": "2026-06-26T18:29:01.591Z",
+        "url": "https://x.com/search?q=Oracle%20AI%20Trade&src=typed_query&f=live",
         "articleTitle": "Oracle sheds 21,000 roles over the past year",
         "articleTitleJa": "オラクルは過去 1 年間で 21,000 の役割を削減",
         "articleUrl": "https://www.cnbc.com/2026/06/23/oracle-ai-job-cuts-layoffs-21000.html",
@@ -145,10 +145,10 @@
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-06-26T16:13:01.897Z",
+    "fetchedAt": "2026-06-26T18:29:01.693Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-06-26T16:13:03.637Z"
+    "articleFetchedAt": "2026-06-26T18:29:04.680Z"
   }
 }
