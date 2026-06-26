@@ -25,7 +25,7 @@
         "title": "U.S. government will decide who gets to use GPT-5.6",
         "url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
         "points": 119,
-        "comments": 595,
+        "comments": 742,
         "author": "alain94040",
         "createdAt": "2026-06-26T18:23:14Z",
         "domain": "washingtonpost.com",
@@ -45,7 +45,7 @@
         "title": "Previewing GPT‑5.6 Sol: a next-generation model",
         "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
         "points": 101,
-        "comments": 330,
+        "comments": 412,
         "author": "minimaxir",
         "createdAt": "2026-06-26T17:06:55Z",
         "domain": "openai.com",
@@ -62,30 +62,10 @@
         ]
       },
       {
-        "title": "Why current LLM costs are not sustainable",
-        "url": "https://aditya.patadia.org/p/ai-and-cloud-costs",
-        "points": 96,
-        "comments": 187,
-        "author": "adityapatadia",
-        "createdAt": "2026-06-26T07:44:11Z",
-        "domain": "aditya.patadia.org",
-        "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "現在のLLMコストが持続可能でない理由",
-        "summaryJa": "この記事は「現在のLLMコストが持続可能でない理由」を扱っています。出現するソリューションは、私たちが予想しているよりもシンプルになります。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
-        "keyPoints": [
-          "この記事は「現在のLLMコストが持続可能でない理由」を扱っています。",
-          "出現するソリューションは、私たちが予想しているよりもシンプルになります。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
-        ]
-      },
-      {
         "title": "Show HN: Smart model routing directly in Claude, Codex and Cursor",
         "url": "https://github.com/workweave/router",
-        "points": 94,
-        "comments": 67,
+        "points": 97,
+        "comments": 79,
         "author": "adchurch",
         "createdAt": "2026-06-26T16:40:11Z",
         "domain": "github.com",
@@ -100,9 +80,29 @@
           "コーディングエージェント（ Claude Code、Codex、Cursorなど）に接続し、インテリジェントにリクエストを最適なモデルに送信するモデルルーターを構築しました。",
           "ローカルで実行する簡単なデモは次のとおりです。"
         ]
+      },
+      {
+        "title": "Why current LLM costs are not sustainable",
+        "url": "https://aditya.patadia.org/p/ai-and-cloud-costs",
+        "points": 96,
+        "comments": 188,
+        "author": "adityapatadia",
+        "createdAt": "2026-06-26T07:44:11Z",
+        "domain": "aditya.patadia.org",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "現在のLLMコストが持続可能でない理由",
+        "summaryJa": "この記事は「現在のLLMコストが持続可能でない理由」を扱っています。出現するソリューションは、私たちが予想しているよりもシンプルになります。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "keyPoints": [
+          "この記事は「現在のLLMコストが持続可能でない理由」を扱っています。",
+          "出現するソリューションは、私たちが予想しているよりもシンプルになります。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+        ]
       }
     ],
-    "fetchedAt": "2026-06-26T20:44:32.100Z",
+    "fetchedAt": "2026-06-26T22:09:05.407Z",
     "mock": false
   },
   "xTrends": {
@@ -110,11 +110,11 @@
       {
         "topic": "OpenAI",
         "locationLabel": "日本",
-        "bestRank": 31,
-        "appearances": 4,
+        "bestRank": 18,
+        "appearances": 3,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-06-26T20:44:31.998Z",
+        "observedAt": "2026-06-26T22:09:05.391Z",
         "url": "https://x.com/search?q=OpenAI&src=typed_query&f=live",
         "articleTitle": "OpenAI unveils its first custom chip, built by Broadcom",
         "articleTitleJa": "OpenAI、Broadcom が開発した初のカスタムチップを発表",
@@ -128,27 +128,27 @@
         "topic": "Oracle AI Trade",
         "locationLabel": "米国",
         "bestRank": 10,
-        "appearances": 6,
+        "appearances": 8,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-06-26T20:44:32.045Z",
+        "observedAt": "2026-06-26T22:09:05.281Z",
         "url": "https://x.com/search?q=Oracle%20AI%20Trade&src=typed_query&f=live",
         "articleTitle": "Oracle sheds 21,000 roles over the past year",
         "articleTitleJa": "オラクルは過去 1 年間で 21,000 の役割を削減",
         "articleUrl": "https://www.cnbc.com/2026/06/23/oracle-ai-job-cuts-layoffs-21000.html",
         "articleSource": "cnbc.com",
         "articlePublishedAt": "2026-06-23T17:51:01Z",
-        "summaryJa": "オラクルは、「当社の事業全体にわたるAIテクノロジーの導入と導入により、従業員の削減が行われており、今後もその結果が生じる可能性がある」と述べた。",
+        "summaryJa": "オラクルは、「当社の事業全体にわたるAIテクノロジーの採用と展開により、従業員の削減が行われており、今後もその結果が生じる可能性がある」と述べた。",
         "translationVersion": 3
       },
       {
         "topic": "GPT-5.6 Sol",
         "locationLabel": "米国",
         "bestRank": 25,
-        "appearances": 2,
+        "appearances": 3,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-06-26T20:44:32.045Z",
+        "observedAt": "2026-06-26T22:09:05.281Z",
         "url": "https://x.com/search?q=GPT-5.6%20Sol&src=typed_query&f=live",
         "articleTitle": "Previewing GPT‑5.6 Sol: a next-generation model",
         "articleTitleJa": "次世代モデル GPT‑5.6 Sol をプレビュー",
@@ -162,10 +162,10 @@
         "topic": "GPT-5.6",
         "locationLabel": "米国",
         "bestRank": 19,
-        "appearances": 1,
+        "appearances": 2,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-06-26T20:44:32.045Z",
+        "observedAt": "2026-06-26T22:09:05.281Z",
         "url": "https://x.com/search?q=GPT-5.6&src=typed_query&f=live",
         "articleTitle": "Previewing GPT‑5.6 Sol: a next-generation model",
         "articleTitleJa": "次世代モデル GPT‑5.6 Sol をプレビュー",
@@ -176,10 +176,10 @@
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-06-26T20:44:32.100Z",
+    "fetchedAt": "2026-06-26T22:09:05.407Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-06-26T20:44:35.587Z"
+    "articleFetchedAt": "2026-06-26T22:09:10.477Z"
   }
 }
