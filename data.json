@@ -15,10 +15,10 @@
         "category": "AIモデル",
         "impact": "高",
         "titleJa": "ホワイトハウスは、OpenAIに対し、安全上の懸念から新モデルのリリースを遅らせるよう求めている",
-        "summaryJa": "この記事は「ホワイトハウスは、OpenAIに対し、安全上の懸念から新モデルのリリースを遅らせるよう求めている」を扱っています。penAIは、最新モデルであるGPT 5.6を、より多くの人々ではなく、一部のパートナーグループと共有することを計画していると伝えられています。理由は、トランプ政権がそれを指示したからだ。",
+        "summaryJa": "この記事は「ホワイトハウスは、OpenAIに対し、安全上の懸念から新モデルのリリースを遅らせるよう求めている」を扱っています。OpenAIは、最新モデルであるGPT 5.6を、より広範な一般市民ではなく、一部のパートナーグループと共有することを計画していると伝えられている。理由は、トランプ政権がそれを指示したからだ。",
         "keyPoints": [
           "この記事は「ホワイトハウスは、OpenAIに対し、安全上の懸念から新モデルのリリースを遅らせるよう求めている」を扱っています。",
-          "penAIは、最新モデルであるGPT 5.6を、より多くの人々ではなく、一部のパートナーグループと共有することを計画していると伝えられています。",
+          "OpenAIは、最新モデルであるGPT 5.6を、より広範な一般市民ではなく、一部のパートナーグループと共有することを計画していると伝えられている。",
           "理由は、トランプ政権がそれを指示したからだ。"
         ]
       },
@@ -47,7 +47,7 @@
         "title": "Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion",
         "url": "https://github.com/inkeep/open-knowledge",
         "points": 101,
-        "comments": 101,
+        "comments": 124,
         "author": "engomez",
         "createdAt": "2026-06-25T16:04:46Z",
         "domain": "github.com",
@@ -87,8 +87,8 @@
       {
         "title": "Tell HN: OpenAI has started putting ads on paid programs",
         "url": "https://news.ycombinator.com/item?id=48673194",
-        "points": 88,
-        "comments": 54,
+        "points": 89,
+        "comments": 57,
         "author": "shantnutiwari",
         "createdAt": "2026-06-25T13:37:36Z",
         "domain": "news.ycombinator.com",
@@ -105,19 +105,36 @@
         ]
       }
     ],
-    "fetchedAt": "2026-06-26T02:56:44.732Z",
+    "fetchedAt": "2026-06-26T06:55:38.440Z",
     "mock": false
   },
   "xTrends": {
     "items": [
       {
+        "topic": "OpenAI",
+        "locationLabel": "日本",
+        "bestRank": 32,
+        "appearances": 4,
+        "trendSource": "Trends24",
+        "sourceUrl": "https://trends24.in/japan/",
+        "observedAt": "2026-06-26T06:55:38.322Z",
+        "url": "https://x.com/search?q=OpenAI&src=typed_query&f=live",
+        "articleTitle": "OpenAI unveils its first custom chip, built by Broadcom",
+        "articleTitleJa": "OpenAI、Broadcom が開発した初のカスタム チップを発表",
+        "articleUrl": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
+        "articleSource": "techcrunch.com",
+        "articlePublishedAt": "2026-06-24T17:47:00Z",
+        "summaryJa": "発表: https://openai.com/index/openai-broadcom-jalapeno-inference-... https://decrypt.co/371971/openai-broadcom-jalapeno-first-cus... https://www.cnn.com/2026/06/24/tech/openai-broadcom-jalapeno...",
+        "translationVersion": 3
+      },
+      {
         "topic": "Oracle AI Trade",
         "locationLabel": "米国",
         "bestRank": 6,
-        "appearances": 9,
+        "appearances": 8,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-06-26T02:56:44.657Z",
+        "observedAt": "2026-06-26T06:55:38.297Z",
         "url": "https://x.com/search?q=Oracle%20AI%20Trade&src=typed_query&f=live",
         "articleTitle": "Oracle sheds 21,000 roles over the past year",
         "articleTitleJa": "オラクルは過去 1 年間で 21,000 の役割を削減",
@@ -128,10 +145,10 @@
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-06-26T02:56:44.732Z",
+    "fetchedAt": "2026-06-26T06:55:38.440Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-06-26T02:56:48.888Z"
+    "articleFetchedAt": "2026-06-26T06:55:42.406Z"
   }
 }
