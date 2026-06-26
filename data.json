@@ -47,7 +47,7 @@
         "title": "Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion",
         "url": "https://github.com/inkeep/open-knowledge",
         "points": 101,
-        "comments": 137,
+        "comments": 149,
         "author": "engomez",
         "createdAt": "2026-06-25T16:04:46Z",
         "domain": "github.com",
@@ -85,27 +85,27 @@
         ]
       },
       {
-        "title": "Tell HN: OpenAI has started putting ads on paid programs",
-        "url": "https://news.ycombinator.com/item?id=48673194",
-        "points": 89,
-        "comments": 62,
-        "author": "shantnutiwari",
-        "createdAt": "2026-06-25T13:37:36Z",
-        "domain": "news.ycombinator.com",
+        "title": "Why current LLM costs are not sustainable",
+        "url": "https://aditya.patadia.org/p/ai-and-cloud-costs",
+        "points": 93,
+        "comments": 171,
+        "author": "adityapatadia",
+        "createdAt": "2026-06-26T07:44:11Z",
+        "domain": "aditya.patadia.org",
         "sourceType": "hn",
-        "category": "開発ツール",
+        "category": "AIモデル",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "HNに伝える： OpenAIは有料プログラムに広告を掲載し始めました",
-        "summaryJa": "この記事は「HNに伝える： OpenAIは有料プログラムに広告を掲載し始めました」を扱っています。私は£ 6.99/月のプログラムに参加していました。主にあまり使用していなかったためです。",
+        "titleJa": "現在のLLMコストが持続可能でない理由",
+        "summaryJa": "この記事は「現在のLLMコストが持続可能でない理由」を扱っています。出現するソリューションは、私たちが予想しているよりもシンプルになります。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
         "keyPoints": [
-          "この記事は「HNに伝える： OpenAIは有料プログラムに広告を掲載し始めました」を扱っています。",
-          "私は£ 6.99/月のプログラムに参加していました。",
-          "主にあまり使用していなかったためです。"
+          "この記事は「現在のLLMコストが持続可能でない理由」を扱っています。",
+          "出現するソリューションは、私たちが予想しているよりもシンプルになります。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
       }
     ],
-    "fetchedAt": "2026-06-26T10:21:45.052Z",
+    "fetchedAt": "2026-06-26T13:08:24.927Z",
     "mock": false
   },
   "xTrends": {
@@ -117,7 +117,7 @@
         "appearances": 4,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-06-26T10:21:44.964Z",
+        "observedAt": "2026-06-26T13:08:24.830Z",
         "url": "https://x.com/search?q=OpenAI&src=typed_query&f=live",
         "articleTitle": "OpenAI unveils its first custom chip, built by Broadcom",
         "articleTitleJa": "OpenAI、Broadcom が開発した初のカスタム チップを発表",
@@ -130,11 +130,11 @@
       {
         "topic": "Oracle AI Trade",
         "locationLabel": "米国",
-        "bestRank": 12,
-        "appearances": 4,
+        "bestRank": 23,
+        "appearances": 1,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-06-26T10:21:44.935Z",
+        "observedAt": "2026-06-26T13:08:24.809Z",
         "url": "https://x.com/search?q=Oracle%20AI%20Trade&src=typed_query&f=live",
         "articleTitle": "Oracle sheds 21,000 roles over the past year",
         "articleTitleJa": "オラクルは過去 1 年間で 21,000 の役割を削減",
@@ -145,10 +145,10 @@
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-06-26T10:21:45.052Z",
+    "fetchedAt": "2026-06-26T13:08:24.927Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-06-26T10:21:46.445Z"
+    "articleFetchedAt": "2026-06-26T13:08:26.859Z"
   }
 }
