@@ -23,23 +23,23 @@
         ]
       },
       {
-        "title": "Scale Law Firm AI Appoints Tima Mousavi to Lead AI Education and Training for Lawyers",
-        "url": "http://www.newjerseytelegraph.com/news/279152129/scale-law-firm-ai-appoints-tima-mousavi-to-lead-ai-education-and-training-for-lawyers",
-        "points": 107,
+        "title": "Trump Admin releases Anthropic Mythos to be used by more than 100 US companies, agencies",
+        "url": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
+        "points": 105,
         "comments": 0,
         "author": "",
-        "createdAt": "2026-06-27T21:30:00Z",
-        "domain": "newjerseytelegraph.com",
-        "sourceType": "gdelt",
-        "sourceLabel": "GDELT",
+        "createdAt": "2026-06-27T01:01:37.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
         "category": "AIニュース",
         "impact": "高",
-        "newsLens": "一般",
-        "titleJa": "Scale Law Firm AI、Tima Mousaviを弁護士のAI教育とトレーニングのリーダーに任命",
-        "summaryJa": "この記事は「Scale Law Firm AI、Tima Mousaviを弁護士のAI教育とトレーニングのリーダーに任命」を扱っています。Scale Law Firm AIは、Tima MousaviをAI教育およびトレーニングスペシャリストに任命し、米国およびカナダの法律事務所向けのAIトレーニングプログラムをリードしています。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "titleJa": "トランプ政権が「Anthropicの神話」を発表、米国の100社以上の企業や機関で使用可能に",
+        "summaryJa": "この記事は「トランプ政権が「Anthropicの神話」を発表、米国の100社以上の企業や機関で使用可能に」を扱っています。米国以外の従業員を含む100社以上の企業や政府機関がMythos 5の使用を許可されていると報告されています。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
-          "この記事は「Scale Law Firm AI、Tima Mousaviを弁護士のAI教育とトレーニングのリーダーに任命」を扱っています。",
-          "Scale Law Firm AIは、Tima MousaviをAI教育およびトレーニングスペシャリストに任命し、米国およびカナダの法律事務所向けのAIトレーニングプログラムをリードしています。",
+          "この記事は「トランプ政権が「Anthropicの神話」を発表、米国の100社以上の企業や機関で使用可能に」を扱っています。",
+          "米国以外の従業員を含む100社以上の企業や政府機関がMythos 5の使用を許可されていると報告されています。",
           "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       },
@@ -47,7 +47,7 @@
         "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
         "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
         "points": 101,
-        "comments": 289,
+        "comments": 293,
         "author": "aurenvale",
         "createdAt": "2026-06-27T09:18:52Z",
         "domain": "github.com",
@@ -67,7 +67,7 @@
         "title": "Ask HN: MacBook vs. Dedicated GPU for LLM",
         "url": "https://news.ycombinator.com/item?id=48694802",
         "points": 97,
-        "comments": 61,
+        "comments": 62,
         "author": "mzubairtahir",
         "createdAt": "2026-06-27T03:17:43Z",
         "domain": "news.ycombinator.com",
@@ -86,8 +86,8 @@
       {
         "title": "Asian AI startups launch Mythos-like models",
         "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
-        "points": 83,
-        "comments": 81,
+        "points": 89,
+        "comments": 106,
         "author": "bogdiyan",
         "createdAt": "2026-06-27T13:10:21Z",
         "domain": "techcrunch.com",
@@ -104,7 +104,7 @@
         ]
       }
     ],
-    "fetchedAt": "2026-06-27T22:05:57.886Z",
+    "fetchedAt": "2026-06-27T23:58:40.240Z",
     "mock": false
   },
   "xTrends": {
@@ -116,13 +116,13 @@
         "appearances": 2,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-06-27T22:05:57.835Z",
+        "observedAt": "2026-06-27T23:58:40.206Z",
         "url": "https://x.com/search?q=%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E5%90%91%E3%81%91AI%E3%81%AE%E6%88%A6%E3%81%84&src=typed_query&f=live",
         "articleTitle": "ビジネス向けAIの戦い",
         "articleTitleJa": "公開トレンド: ビジネス向けAIの戦い",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-06-27T22:05:57.835Z",
+        "articlePublishedAt": "2026-06-27T23:58:40.206Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -134,13 +134,13 @@
         "appearances": 2,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-06-27T22:05:57.835Z",
+        "observedAt": "2026-06-27T23:58:40.206Z",
         "url": "https://x.com/search?q=AI%E8%A6%8F%E5%88%B6&src=typed_query&f=live",
         "articleTitle": "AI規制",
         "articleTitleJa": "公開トレンド: AI規制",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-06-27T22:05:57.835Z",
+        "articlePublishedAt": "2026-06-27T23:58:40.206Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -152,13 +152,13 @@
         "appearances": 1,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-06-27T22:05:57.835Z",
+        "observedAt": "2026-06-27T23:58:40.206Z",
         "url": "https://x.com/search?q=AI%E5%BC%93%E6%9C%A8&src=typed_query&f=live",
         "articleTitle": "AI弓木",
         "articleTitleJa": "公開トレンド: AI弓木",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-06-27T22:05:57.835Z",
+        "articlePublishedAt": "2026-06-27T23:58:40.206Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -167,10 +167,10 @@
         "topic": "Oracle AI Trade",
         "locationLabel": "米国",
         "bestRank": 6,
-        "appearances": 4,
+        "appearances": 6,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-06-27T22:05:57.807Z",
+        "observedAt": "2026-06-27T23:58:40.095Z",
         "url": "https://x.com/search?q=Oracle%20AI%20Trade&src=typed_query&f=live",
         "articleTitle": "Oracle sheds 21,000 roles over the past year",
         "articleTitleJa": "オラクルは過去 1 年間で 21,000 の役割を削減",
@@ -181,10 +181,10 @@
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-06-27T22:05:57.886Z",
+    "fetchedAt": "2026-06-27T23:58:40.240Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-06-27T22:05:59.593Z"
+    "articleFetchedAt": "2026-06-27T23:58:42.401Z"
   }
 }
