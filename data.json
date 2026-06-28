@@ -2,30 +2,10 @@
   "news": {
     "items": [
       {
-        "title": "Everyone feared AI taking over; the real danger is AI serving just the few",
-        "url": "https://news.ycombinator.com/item?id=48701615",
-        "points": 112,
-        "comments": 61,
-        "author": "PhilipDaineko",
-        "createdAt": "2026-06-27T20:48:01Z",
-        "domain": "news.ycombinator.com",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "高",
-        "newsLens": "一般",
-        "titleJa": "誰もがAIが乗っ取ることを恐れていました。本当の危険は、AIがほんの数人に仕えることです",
-        "summaryJa": "この記事は「誰もがAIが乗っ取ることを恐れていました。本当の危険は、AIがほんの数人に仕えることです」を扱っています。誰もがAIが人類を奴隷にすることを恐れていましたが、本当の戦いは、政府とビッグテックが少数の人々の利益のためにAIを奴隷にするのを止めているようです。新たに発表されたOpenAIのフロンティアモデルの「規制」の中で、将来の大多数が最も恐れていたのは、AIが超大国になり、人々を奴隷にすることかもしれないということだと思います。",
-        "keyPoints": [
-          "この記事は「誰もがAIが乗っ取ることを恐れていました。",
-          "本当の危険は、AIがほんの数人に仕えることです」を扱っています。",
-          "誰もがAIが人類を奴隷にすることを恐れていましたが、本当の戦いは、政府とビッグテックが少数の人々の利益のためにAIを奴隷にするのを止めているようです。"
-        ]
-      },
-      {
         "title": "Show HN: Adrafinil – keep a lid-closed Mac awake only while agents work",
         "url": "https://github.com/kageroumado/adrafinil",
-        "points": 98,
-        "comments": 73,
+        "points": 99,
+        "comments": 75,
         "author": "kageroumado",
         "createdAt": "2026-06-27T20:34:53Z",
         "domain": "github.com",
@@ -44,8 +24,8 @@
       {
         "title": "Wayfinder Router: deterministic routing of queries between local and hosted LLM",
         "url": "https://github.com/itsthelore/wayfinder-router",
-        "points": 94,
-        "comments": 49,
+        "points": 95,
+        "comments": 52,
         "author": "handfuloflight",
         "createdAt": "2026-06-28T04:31:18Z",
         "domain": "github.com",
@@ -64,8 +44,8 @@
       {
         "title": "Google limits Meta's use of its Gemini AI models",
         "url": "https://www.cnbc.com/2026/06/28/google-limits-metas-use-of-its-gemini-ai-models-ft-reports.html",
-        "points": 85,
-        "comments": 43,
+        "points": 92,
+        "comments": 57,
         "author": "root-parent",
         "createdAt": "2026-06-28T13:30:06Z",
         "domain": "cnbc.com",
@@ -79,6 +59,27 @@
           "この記事は「Googleは、MetaのGemini AIモデルの使用を制限している」を扱っています。",
           "フィナンシャル・タイムズによると、メタはグーグルが提供できる以上のコンピューティング能力を求めていた。",
           "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+        ]
+      },
+      {
+        "title": "Ford rehires ‘gray beard’ engineers after AI falls short",
+        "url": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
+        "points": 79,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-06-28T19:05:39.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
+        "category": "AIニュース",
+        "impact": "中",
+        "titleJa": "AIが不足した後、フォードは「灰色のひげ」のエンジニアを再雇用",
+        "summaryJa": "この記事は「AIが不足した後、フォードは「灰色のひげ」のエンジニアを再雇用」を扱っています。「誤って、人工知能を導入するだけで...高品質の製品を生み出すことができると考えていました。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "keyPoints": [
+          "この記事は「AIが不足した後、フォードは「灰色のひげ」のエンジニアを再雇用」を扱っています。",
+          "「誤って、人工知能を導入するだけで...高品質の製品を生み出すことができると考えていました。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       },
       {
@@ -103,7 +104,7 @@
         ]
       }
     ],
-    "fetchedAt": "2026-06-28T17:05:26.699Z",
+    "fetchedAt": "2026-06-28T19:13:16.232Z",
     "mock": false
   },
   "xTrends": {
@@ -115,14 +116,14 @@
         "appearances": 13,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-06-28T17:05:26.573Z",
+        "observedAt": "2026-06-28T19:13:15.883Z",
         "url": "https://x.com/search?q=Oracle%20AI%20Trade&src=typed_query&f=live",
         "articleTitle": "Oracle sheds 21,000 roles over the past year",
         "articleTitleJa": "オラクルは過去 1 年間で 21,000 の役割を削減",
         "articleUrl": "https://www.cnbc.com/2026/06/23/oracle-ai-job-cuts-layoffs-21000.html",
         "articleSource": "cnbc.com",
         "articlePublishedAt": "2026-06-23T17:51:01Z",
-        "summaryJa": "オラクルは、「当社の事業全体にわたるAIテクノロジーの採用と展開により、従業員の削減が行われており、今後もその結果が生じる可能性がある」と述べた。",
+        "summaryJa": "オラクルは、「当社の事業全体にわたるAIテクノロジーの導入と導入により、従業員の削減が行われており、今後もその結果が生じる可能性がある」と述べた。",
         "translationVersion": 3
       },
       {
@@ -132,7 +133,7 @@
         "appearances": 3,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-06-28T17:05:26.573Z",
+        "observedAt": "2026-06-28T19:13:15.883Z",
         "url": "https://x.com/search?q=Grok%204.5&src=typed_query&f=live",
         "articleTitle": "Grok 4.5, based on our 1.5T V9 foundation model, with Cursor data added in su",
         "articleTitleJa": "Grok 4.5、1.5T V9 基本モデルに基づいており、カーソル データが su に追加されています。",
@@ -143,10 +144,10 @@
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-06-28T17:05:26.699Z",
+    "fetchedAt": "2026-06-28T19:13:16.232Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-06-28T17:05:30.446Z"
+    "articleFetchedAt": "2026-06-28T19:13:18.358Z"
   }
 }
