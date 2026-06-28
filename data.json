@@ -23,44 +23,23 @@
         ]
       },
       {
-        "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
-        "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
-        "points": 101,
-        "comments": 318,
-        "author": "aurenvale",
-        "createdAt": "2026-06-27T09:18:52Z",
-        "domain": "github.com",
+        "title": "Everyone feared AI taking over; the real danger is AI serving just the few",
+        "url": "https://news.ycombinator.com/item?id=48701615",
+        "points": 106,
+        "comments": 47,
+        "author": "PhilipDaineko",
+        "createdAt": "2026-06-27T20:48:01Z",
+        "domain": "news.ycombinator.com",
         "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "DSpark ：投機的デコードがLLM推論を加速[pdf]",
-        "summaryJa": "この記事は「DSpark ：投機的デコードがLLM推論を加速[pdf]」を扱っています。DeepSpec ：投機的デコードアルゴリズムのトレーニングと評価のためのフルスタックコードベース- DeepSpec/DSpark_paper.pdf （ main · deepseek - ai/DeepSpec ）。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
-        "keyPoints": [
-          "この記事は「DSpark ：投機的デコードがLLM推論を加速[pdf]」を扱っています。",
-          "DeepSpec ：投機的デコードアルゴリズムのトレーニングと評価のためのフルスタックコードベース- DeepSpec/DSpark_paper.pdf （ main · deepseek - ai/DeepSpec ）。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
-        ]
-      },
-      {
-        "title": "Purpose - Built AI For Mental Health Can Suitably Steer People Away From Over - Relying On General - Purpose AI For Their Well - Being Guidance",
-        "url": "https://www.forbes.com/sites/lanceeliot/2026/06/28/purpose-built-ai-for-mental-health-can-suitably-steer-people-away-from-over-relying-on-general-purpose-ai-for-their-well-being-guidance/",
-        "points": 99,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-06-28T07:45:00Z",
-        "domain": "forbes.com",
-        "sourceType": "gdelt",
-        "sourceLabel": "GDELT",
         "category": "AIニュース",
-        "impact": "高",
+        "impact": "中",
         "newsLens": "一般",
-        "titleJa": "目的-メンタルヘルスのために構築されたAIは、人々を適切に遠ざけることができます-一般的なものに頼る-目的のためのAI -ガイダンス",
-        "summaryJa": "この記事は「目的-メンタルヘルスのために構築されたAIは、人々を適切に遠ざけることができます-一般的なものに頼る-目的のためのAI -ガイダンス」を扱っています。人々はメンタルヘルスのアドバイスに汎用AI （ GPAI ）を使用しています。これを行うには、専用のAIを使用することで、より良い方法があります。",
+        "titleJa": "誰もがAIが乗っ取ることを恐れていました。本当の危険は、AIがほんの数人に仕えることです",
+        "summaryJa": "この記事は「誰もがAIが乗っ取ることを恐れていました。本当の危険は、AIがほんの数人に仕えることです」を扱っています。誰もがAIが人類を奴隷にすることを恐れていましたが、本当の戦いは、政府とビッグテックが少数の人々の利益のためにAIを奴隷にするのを止めているようです。新たに発表されたOpenAIのフロンティアモデルの「規制」の中で、将来の大多数が最も恐れていたのは、AIが超大国になり、人々を奴隷にすることかもしれないということだと思います。",
         "keyPoints": [
-          "この記事は「目的-メンタルヘルスのために構築されたAIは、人々を適切に遠ざけることができます-一般的なものに頼る-目的のためのAI -ガイダンス」を扱っています。",
-          "人々はメンタルヘルスのアドバイスに汎用AI （ GPAI ）を使用しています。",
-          "これを行うには、専用のAIを使用することで、より良い方法があります。"
+          "この記事は「誰もがAIが乗っ取ることを恐れていました。",
+          "本当の危険は、AIがほんの数人に仕えることです」を扱っています。",
+          "誰もがAIが人類を奴隷にすることを恐れていましたが、本当の戦いは、政府とビッグテックが少数の人々の利益のためにAIを奴隷にするのを止めているようです。"
         ]
       },
       {
@@ -87,7 +66,7 @@
         "title": "Asian AI startups launch Mythos-like models",
         "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
         "points": 93,
-        "comments": 169,
+        "comments": 178,
         "author": "bogdiyan",
         "createdAt": "2026-06-27T13:10:21Z",
         "domain": "techcrunch.com",
@@ -102,9 +81,29 @@
           "輸出禁止を恐れることなく、神話のような機能を約束する新しいモデルがアジアで発売されています。",
           "米国のAIラボは、この巨大な市場を取り戻すことはできないかもしれません。"
         ]
+      },
+      {
+        "title": "The best response to AI slop and online noise is from Robin Williams",
+        "url": "https://jayacunzo.com/blog/your-move-chief",
+        "points": 73,
+        "comments": 140,
+        "author": "herbertl",
+        "createdAt": "2026-06-28T01:28:10Z",
+        "domain": "jayacunzo.com",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "AIスロップとオンラインノイズへの最良の対応はロビン・ウィリアムズからです",
+        "summaryJa": "この記事は「AIスロップとオンラインノイズへの最良の対応はロビン・ウィリアムズからです」を扱っています。jayacunzo.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "keyPoints": [
+          "この記事は「AIスロップとオンラインノイズへの最良の対応はロビン・ウィリアムズからです」を扱っています。",
+          "jayacunzo.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+        ]
       }
     ],
-    "fetchedAt": "2026-06-28T08:18:38.262Z",
+    "fetchedAt": "2026-06-28T11:04:29.585Z",
     "mock": false
   },
   "xTrends": {
@@ -116,13 +115,13 @@
         "appearances": 2,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-06-28T08:18:38.245Z",
+        "observedAt": "2026-06-28T11:04:29.568Z",
         "url": "https://x.com/search?q=%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E5%90%91%E3%81%91AI%E3%81%AE%E6%88%A6%E3%81%84&src=typed_query&f=live",
         "articleTitle": "ビジネス向けAIの戦い",
         "articleTitleJa": "公開トレンド: ビジネス向けAIの戦い",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-06-28T08:18:38.245Z",
+        "articlePublishedAt": "2026-06-28T11:04:29.568Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -134,13 +133,13 @@
         "appearances": 2,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-06-28T08:18:38.245Z",
+        "observedAt": "2026-06-28T11:04:29.568Z",
         "url": "https://x.com/search?q=AI%E8%A6%8F%E5%88%B6&src=typed_query&f=live",
         "articleTitle": "AI規制",
         "articleTitleJa": "公開トレンド: AI規制",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-06-28T08:18:38.245Z",
+        "articlePublishedAt": "2026-06-28T11:04:29.568Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -149,10 +148,10 @@
         "topic": "Oracle AI Trade",
         "locationLabel": "米国",
         "bestRank": 6,
-        "appearances": 7,
+        "appearances": 8,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-06-28T08:18:38.121Z",
+        "observedAt": "2026-06-28T11:04:29.480Z",
         "url": "https://x.com/search?q=Oracle%20AI%20Trade&src=typed_query&f=live",
         "articleTitle": "Oracle sheds 21,000 roles over the past year",
         "articleTitleJa": "オラクルは過去 1 年間で 21,000 の役割を削減",
@@ -163,10 +162,10 @@
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-06-28T08:18:38.262Z",
+    "fetchedAt": "2026-06-28T11:04:29.585Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-06-28T08:18:41.352Z"
+    "articleFetchedAt": "2026-06-28T11:04:32.056Z"
   }
 }
