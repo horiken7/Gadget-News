@@ -2,23 +2,23 @@
   "news": {
     "items": [
       {
-        "title": "Show HN: Adrafinil – keep a lid-closed Mac awake only while agents work",
-        "url": "https://github.com/kageroumado/adrafinil",
-        "points": 99,
-        "comments": 75,
-        "author": "kageroumado",
-        "createdAt": "2026-06-27T20:34:53Z",
-        "domain": "github.com",
+        "title": "Austria Lobbies EU to Host Anthropic After US Access Curbs",
+        "url": "https://www.bloomberg.com/news/articles/2026-06-28/austria-lobbies-eu-to-host-anthropic-after-us-access-curbs",
+        "points": 113,
+        "comments": 129,
+        "author": "root-parent",
+        "createdAt": "2026-06-28T13:34:14Z",
+        "domain": "bloomberg.com",
         "sourceType": "hn",
         "category": "AIニュース",
         "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "HNを表示：アドラフィニル–エージェントが作業している間のみ、蓋を閉じたMacを目を覚ましたままにする",
-        "summaryJa": "この記事は「HNを表示：アドラフィニル–エージェントが作業している間のみ、蓋を閉じたMacを目を覚ましたままにする」を扱っています。1か月前には、AIエージェントを止めるために蓋を完全に閉めて睡眠を強制するため、エンジニアがMacBookを半開きにしてカフェや公園を歩き回っているという投稿やツイートの波がありました。一部の人々はtmuxまたはアンフェタミンの使用について皮肉なコメントをし、一部の人々は「しかし、私は時々それを必要とするだけで、アンフェタミンを無効にして私のラップトップを見つけるのを忘れてしまった」と彼らの選択を擁護しました。",
+        "newsLens": "一般",
+        "titleJa": "米国のアクセス制限の後、オーストリアはEUにAnthropicを受け入れるようロビー活動を行っています",
+        "summaryJa": "この記事は「米国のアクセス制限の後、オーストリアはEUにAnthropicを受け入れるようロビー活動を行っています」を扱っています。bloomberg.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
-          "この記事は「HNを表示：アドラフィニル–エージェントが作業している間のみ、蓋を閉じたMacを目を覚ましたままにする」を扱っています。",
-          "1か月前には、AIエージェントを止めるために蓋を完全に閉めて睡眠を強制するため、エンジニアがMacBookを半開きにしてカフェや公園を歩き回っているという投稿やツイートの波がありました。",
-          "一部の人々はtmuxまたはアンフェタミンの使用について皮肉なコメントをし、一部の人々は「しかし、私は時々それを必要とするだけで、アンフェタミンを無効にして私のラップトップを見つけるのを忘れてしまった」と彼らの選択を擁護しました。"
+          "この記事は「米国のアクセス制限の後、オーストリアはEUにAnthropicを受け入れるようロビー活動を行っています」を扱っています。",
+          "bloomberg.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       },
       {
@@ -44,8 +44,8 @@
       {
         "title": "Google limits Meta's use of its Gemini AI models",
         "url": "https://www.cnbc.com/2026/06/28/google-limits-metas-use-of-its-gemini-ai-models-ft-reports.html",
-        "points": 92,
-        "comments": 57,
+        "points": 93,
+        "comments": 62,
         "author": "root-parent",
         "createdAt": "2026-06-28T13:30:06Z",
         "domain": "cnbc.com",
@@ -83,28 +83,27 @@
         ]
       },
       {
-        "title": "Why Wall Street thinks US memory maker Micron is the next Nvidia",
-        "url": "https://techcrunch.com/2026/06/28/why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia/",
-        "points": 79,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-06-28T15:00:00.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
-        "category": "AIニュース",
-        "impact": "中",
-        "titleJa": "ウォール街が米国のメモリメーカーであるマイクロンを次のNVIDIAと考える理由",
-        "summaryJa": "この記事は「ウォール街が米国のメモリメーカーであるマイクロンを次のNVIDIAと考える理由」を扱っています。Nvidiaと同様に、より多くの公開AI関連企業を見つけたいと考えているウォール街の投資家は、Micronで勝者を見つけたと考えています。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "title": "I used Claude Code to get a second opinion on my MRI",
+        "url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
+        "points": 73,
+        "comments": 315,
+        "author": "engmarketer",
+        "createdAt": "2026-06-28T16:35:19Z",
+        "domain": "antoine.fi",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "MRIに関するセカンドオピニオンを得るためにClaude Codeを使用した",
+        "summaryJa": "この記事は「MRIに関するセカンドオピニオンを得るためにClaude Codeを使用した」を扱っています。Claudeコードを使って肩の怪我についてセカンドオピニオンを得ようとした経験。これは魅力的な未来の垣間見ですが、まだ結果に完全な自信を持つことは困難です。",
         "keyPoints": [
-          "この記事は「ウォール街が米国のメモリメーカーであるマイクロンを次のNVIDIAと考える理由」を扱っています。",
-          "Nvidiaと同様に、より多くの公開AI関連企業を見つけたいと考えているウォール街の投資家は、Micronで勝者を見つけたと考えています。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+          "この記事は「MRIに関するセカンドオピニオンを得るためにClaude Codeを使用した」を扱っています。",
+          "Claudeコードを使って肩の怪我についてセカンドオピニオンを得ようとした経験。",
+          "これは魅力的な未来の垣間見ですが、まだ結果に完全な自信を持つことは困難です。"
         ]
       }
     ],
-    "fetchedAt": "2026-06-28T19:13:16.232Z",
+    "fetchedAt": "2026-06-28T20:57:44.282Z",
     "mock": false
   },
   "xTrends": {
@@ -113,17 +112,17 @@
         "topic": "Oracle AI Trade",
         "locationLabel": "米国",
         "bestRank": 6,
-        "appearances": 13,
+        "appearances": 12,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-06-28T19:13:15.883Z",
+        "observedAt": "2026-06-28T20:57:44.179Z",
         "url": "https://x.com/search?q=Oracle%20AI%20Trade&src=typed_query&f=live",
         "articleTitle": "Oracle sheds 21,000 roles over the past year",
         "articleTitleJa": "オラクルは過去 1 年間で 21,000 の役割を削減",
         "articleUrl": "https://www.cnbc.com/2026/06/23/oracle-ai-job-cuts-layoffs-21000.html",
         "articleSource": "cnbc.com",
         "articlePublishedAt": "2026-06-23T17:51:01Z",
-        "summaryJa": "オラクルは、「当社の事業全体にわたるAIテクノロジーの導入と導入により、従業員の削減が行われており、今後もその結果が生じる可能性がある」と述べた。",
+        "summaryJa": "オラクルは、「当社の事業全体にわたるAIテクノロジーの採用と展開により、従業員の削減が行われており、今後もその結果が生じる可能性がある」と述べた。",
         "translationVersion": 3
       },
       {
@@ -133,7 +132,7 @@
         "appearances": 3,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-06-28T19:13:15.883Z",
+        "observedAt": "2026-06-28T20:57:44.179Z",
         "url": "https://x.com/search?q=Grok%204.5&src=typed_query&f=live",
         "articleTitle": "Grok 4.5, based on our 1.5T V9 foundation model, with Cursor data added in su",
         "articleTitleJa": "Grok 4.5、1.5T V9 基本モデルに基づいており、カーソル データが su に追加されています。",
@@ -144,10 +143,10 @@
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-06-28T19:13:16.232Z",
+    "fetchedAt": "2026-06-28T20:57:44.282Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-06-28T19:13:18.358Z"
+    "articleFetchedAt": "2026-06-28T20:57:46.420Z"
   }
 }
