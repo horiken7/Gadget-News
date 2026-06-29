@@ -23,22 +23,43 @@
         ]
       },
       {
-        "title": "Tidal AI Policy",
-        "url": "https://tidal.com/ai-policy",
-        "points": 98,
-        "comments": 126,
-        "author": "hn8726",
-        "createdAt": "2026-06-29T13:09:03Z",
-        "domain": "tidal.com",
+        "title": "Anthropic CEO: Open-Source AI is getting dangerous (2023)",
+        "url": "https://xcancel.com/coinbureau/status/2071330294452666695",
+        "points": 106,
+        "comments": 21,
+        "author": "therein",
+        "createdAt": "2026-06-29T09:11:33Z",
+        "domain": "xcancel.com",
         "sourceType": "hn",
         "category": "AIニュース",
-        "impact": "高",
-        "newsLens": "一般",
-        "titleJa": "TIDAL AIポリシー",
-        "summaryJa": "この記事は「TIDAL AIポリシー」を扱っています。tidal.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "impact": "低",
+        "newsLens": "技術",
+        "titleJa": "Anthropic CEO ：オープンソースAIは危険になりつつある（ 2023年）",
+        "summaryJa": "この記事は「Anthropic CEO ：オープンソースAIは危険になりつつある（ 2023年）」を扱っています。🚨ANTHROPICの最高経営責任者（ CEO ） ：オープンソースAIは危険なAnthropicの最高経営責任者（ CEO ）であるDario Amodei氏は、オープンソースAIは「非常に危険な道を歩んでいる」と議員に語った。彼は、強力なモデルが公開されると、企業は誤用を監視したり、アクセスを取り消したり、安全ガードレールを更新したりする能力を失うと警告しています。",
         "keyPoints": [
-          "この記事は「TIDAL AIポリシー」を扱っています。",
-          "tidal.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "この記事は「Anthropic CEO ：オープンソースAIは危険になりつつある（ 2023年）」を扱っています。",
+          "🚨ANTHROPICの最高経営責任者（ CEO ） ：オープンソースAIは危険なAnthropicの最高経営責任者（ CEO ）であるDario Amodei氏は、オープンソースAIは「非常に危険な道を歩んでいる」と議員に語った。",
+          "彼は、強力なモデルが公開されると、企業は誤用を監視したり、アクセスを取り消したり、安全ガードレールを更新したりする能力を失うと警告しています。"
+        ]
+      },
+      {
+        "title": "TIDAL cracks down on AI music by cutting off monetization",
+        "url": "https://techcrunch.com/2026/06/29/tidal-cracks-down-on-ai-music-by-cutting-off-monetization/",
+        "points": 105,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-06-29T16:29:04.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
+        "category": "AIニュース",
+        "impact": "高",
+        "titleJa": "TIDALは収益化を遮断することでAI音楽を取り締まる",
+        "summaryJa": "この記事は「TIDALは収益化を遮断することでAI音楽を取り締まる」を扱っています。TIDALの新しいポリシーは、AIが生成した音楽がそのサービスでお金を稼ぐのを防ぐでしょう。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "keyPoints": [
+          "この記事は「TIDALは収益化を遮断することでAI音楽を取り締まる」を扱っています。",
+          "TIDALの新しいポリシーは、AIが生成した音楽がそのサービスでお金を稼ぐのを防ぐでしょう。",
           "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       },
@@ -66,7 +87,7 @@
         "title": "Show HN: NanoEuler – GPT-2 scale model in pure C/CUDA from scratch",
         "url": "https://github.com/JustVugg/nanoeuler",
         "points": 82,
-        "comments": 21,
+        "comments": 22,
         "author": "vforno",
         "createdAt": "2026-06-28T19:38:14Z",
         "domain": "github.com",
@@ -81,30 +102,9 @@
           "私の野心と夢は、AnthropicのAI分野で働くことであるため、私はAnthropicの寓話の禁止後にナノユーラーに取り組み始めました。",
           "ナノユーラーを作成するために私を導いた2つの興味深い理由は、（ 1 ） llmとのインターフェースは、それらがどのように構成されているかを理解することを意味するものではなく、（ 2 ）パラメータとデータの間の相関関係を理解するために非常に低レベルのレイヤーでllmに取り組んでいます。"
         ]
-      },
-      {
-        "title": "Base44 Becomes First App - Creation Platform to Launch Its Own Proprietary LLM Base 1 , Marking a Major Milestone in the Company Technology Vision",
-        "url": "https://www.manilatimes.net/2026/06/29/tmt-newswire/globenewswire/base44-becomes-first-app-creation-platform-to-launch-its-own-proprietary-llm-base-1-marking-a-major-milestone-in-the-companys-technology-vision/2374925",
-        "points": 81,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-06-29T14:00:00Z",
-        "domain": "manilatimes.net",
-        "sourceType": "gdelt",
-        "sourceLabel": "GDELT",
-        "category": "AIモデル",
-        "impact": "中",
-        "newsLens": "技術",
-        "titleJa": "Base 44は、独自のLLM Base 1を立ち上げる最初のアプリ-作成プラットフォームとなり、会社のテクノロジービジョンの主要なマイルストーンとなります",
-        "summaryJa": "この記事は「Base 44は、独自のLLM Base 1を立ち上げる最初のアプリ-作成プラットフォームとなり、会社のテクノロジービジョンの主要なマイルストーンとなります」を扱っています。モデルの所有権により、Base 44は計算と推論の支出を直接制御でき、時間の経過とともに構造的に強力なマージンプロファイルになると予想されます。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
-        "keyPoints": [
-          "この記事は「Base 44は、独自のLLM Base 1を立ち上げる最初のアプリ-作成プラットフォームとなり、会社のテクノロジービジョンの主要なマイルストーンとなります」を扱っています。",
-          "モデルの所有権により、Base 44は計算と推論の支出を直接制御でき、時間の経過とともに構造的に強力なマージンプロファイルになると予想されます。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
-        ]
       }
     ],
-    "fetchedAt": "2026-06-29T14:45:55.301Z",
+    "fetchedAt": "2026-06-29T17:33:06.115Z",
     "mock": false
   },
   "xTrends": {
@@ -116,21 +116,21 @@
         "appearances": 3,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-06-29T14:45:55.134Z",
+        "observedAt": "2026-06-29T17:33:05.997Z",
         "url": "https://x.com/search?q=Oracle%20AI%20Trade&src=typed_query&f=live",
         "articleTitle": "Oracle sheds 21,000 roles over the past year",
         "articleTitleJa": "オラクルは過去 1 年間で 21,000 の役割を削減",
         "articleUrl": "https://www.cnbc.com/2026/06/23/oracle-ai-job-cuts-layoffs-21000.html",
         "articleSource": "cnbc.com",
         "articlePublishedAt": "2026-06-23T17:51:01Z",
-        "summaryJa": "オラクルは、「当社の事業全体にわたるAIテクノロジーの導入と導入により、従業員の削減が行われており、今後もその結果が生じる可能性がある」と述べた。",
+        "summaryJa": "オラクルは、「当社の事業全体にわたるAIテクノロジーの採用と展開により、従業員の削減が行われており、今後もその結果が生じる可能性がある」と述べた。",
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-06-29T14:45:55.301Z",
+    "fetchedAt": "2026-06-29T17:33:06.115Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-06-29T14:45:55.951Z"
+    "articleFetchedAt": "2026-06-29T17:33:08.327Z"
   }
 }
