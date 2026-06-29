@@ -4,7 +4,7 @@
       {
         "title": "Anthropic CEO: Open-Source AI is getting dangerous (2023)",
         "url": "https://xcancel.com/coinbureau/status/2071330294452666695",
-        "points": 107,
+        "points": 108,
         "comments": 24,
         "author": "therein",
         "createdAt": "2026-06-29T09:11:33Z",
@@ -86,14 +86,14 @@
       {
         "title": "Ornith-1.0: self-improving open-source models for agentic coding",
         "url": "https://github.com/deepreinforce-ai/Ornith-1",
-        "points": 82,
-        "comments": 5,
+        "points": 94,
+        "comments": 23,
         "author": "danboarder",
         "createdAt": "2026-06-29T17:16:17Z",
         "domain": "github.com",
         "sourceType": "hn",
         "category": "AIモデル",
-        "impact": "低",
+        "impact": "高",
         "newsLens": "技術",
         "titleJa": "Ornith-1.0 ：エージェントコーディングのための自己改善オープンソースモデル",
         "summaryJa": "この記事は「Ornith-1.0 ：エージェントコーディングのための自己改善オープンソースモデル」を扱っています。GitHubでアカウントを作成することで、deepreinforce - ai/Ornith -1の開発に貢献します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
@@ -104,7 +104,7 @@
         ]
       }
     ],
-    "fetchedAt": "2026-06-29T19:51:23.579Z",
+    "fetchedAt": "2026-06-29T21:22:32.746Z",
     "mock": false
   },
   "xTrends": {
@@ -116,21 +116,21 @@
         "appearances": 3,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-06-29T19:51:23.452Z",
+        "observedAt": "2026-06-29T21:22:32.682Z",
         "url": "https://x.com/search?q=Oracle%20AI%20Trade&src=typed_query&f=live",
         "articleTitle": "Oracle sheds 21,000 roles over the past year",
         "articleTitleJa": "オラクルは過去 1 年間で 21,000 の役割を削減",
         "articleUrl": "https://www.cnbc.com/2026/06/23/oracle-ai-job-cuts-layoffs-21000.html",
         "articleSource": "cnbc.com",
         "articlePublishedAt": "2026-06-23T17:51:01Z",
-        "summaryJa": "オラクルは、「当社の事業全体にわたるAIテクノロジーの導入と導入により、従業員の削減が行われており、今後もその結果が生じる可能性がある」と述べた。",
+        "summaryJa": "オラクルは、「当社の事業全体にわたるAIテクノロジーの採用と展開により、従業員の削減が行われており、今後もその結果が生じる可能性がある」と述べた。",
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-06-29T19:51:23.579Z",
+    "fetchedAt": "2026-06-29T21:22:32.746Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-06-29T19:51:24.997Z"
+    "articleFetchedAt": "2026-06-29T21:22:34.787Z"
   }
 }
