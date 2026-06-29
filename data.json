@@ -2,109 +2,109 @@
   "news": {
     "items": [
       {
-        "title": "Google limits Meta's use of its Gemini AI models",
-        "url": "https://www.cnbc.com/2026/06/28/google-limits-metas-use-of-its-gemini-ai-models-ft-reports.html",
-        "points": 93,
-        "comments": 71,
-        "author": "root-parent",
-        "createdAt": "2026-06-28T13:30:06Z",
-        "domain": "cnbc.com",
-        "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "AIニュース: Google limits Meta's use of its Gemini AI models",
-        "summaryJa": "この記事は「Google limits Meta's use of its Gemini AI models」を扱っています。cnbc.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
-        "keyPoints": [
-          "この記事は「Google limits Meta's use of its Gemini AI models」を扱っています。",
-          "cnbc.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
-        ]
-      },
-      {
-        "title": "Ford rehires ‘gray beard’ engineers after AI falls short",
-        "url": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
-        "points": 79,
+        "title": "Omen AI’s plan to optimize data centers is all wet",
+        "url": "https://techcrunch.com/2026/06/29/omen-ais-plan-to-optimize-data-centers-is-all-wet/",
+        "points": 107,
         "comments": 0,
         "author": "",
-        "createdAt": "2026-06-28T19:05:39.000Z",
+        "createdAt": "2026-06-29T13:00:00.000Z",
         "domain": "techcrunch.com",
         "sourceType": "rss",
         "sourceLabel": "TechCrunch AI",
         "newsLens": "一般",
         "category": "AIニュース",
-        "impact": "中",
-        "titleJa": "AIニュース: Ford rehires ‘gray beard’ engineers after AI falls short",
-        "summaryJa": "この記事は「Ford rehires ‘gray beard’ engineers after AI falls short」を扱っています。techcrunch.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "impact": "高",
+        "titleJa": "データセンターを最適化するOmen AIの計画はすべて濡れています",
+        "summaryJa": "この記事は「データセンターを最適化するOmen AIの計画はすべて濡れています」を扱っています。Omen AIは、チップクーラントを監視し、データセンターでの細菌の発生を阻止するために、シリーズAで3100万$を調達しました。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
-          "この記事は「Ford rehires ‘gray beard’ engineers after AI falls short」を扱っています。",
-          "techcrunch.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "この記事は「データセンターを最適化するOmen AIの計画はすべて濡れています」を扱っています。",
+          "Omen AIは、チップクーラントを監視し、データセンターでの細菌の発生を阻止するために、シリーズAで3100万$を調達しました。",
           "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       },
       {
-        "title": "Why Wall Street thinks US memory maker Micron is the next Nvidia",
-        "url": "https://techcrunch.com/2026/06/28/why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia/",
-        "points": 79,
+        "title": "Tidal AI Policy",
+        "url": "https://tidal.com/ai-policy",
+        "points": 98,
+        "comments": 126,
+        "author": "hn8726",
+        "createdAt": "2026-06-29T13:09:03Z",
+        "domain": "tidal.com",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "高",
+        "newsLens": "一般",
+        "titleJa": "TIDAL AIポリシー",
+        "summaryJa": "この記事は「TIDAL AIポリシー」を扱っています。tidal.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "keyPoints": [
+          "この記事は「TIDAL AIポリシー」を扱っています。",
+          "tidal.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+        ]
+      },
+      {
+        "title": "Show HN: Bash4LLM+ – A lightweight, dependency-free Bash wrapper for LLM APIs",
+        "url": "https://github.com/kamaludu/bash4llm/",
+        "points": 83,
+        "comments": 16,
+        "author": "kamaludu",
+        "createdAt": "2026-06-28T19:43:10Z",
+        "domain": "github.com",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "低",
+        "newsLens": "技術",
+        "titleJa": "Show HN ： Bash 4 LLM + – LLM API用の軽量で依存関係のないBashラッパー",
+        "summaryJa": "この記事は「Show HN ： Bash 4 LLM + – LLM API用の軽量で依存関係のないBashラッパー」を扱っています。Bash 4 LLMは、ターミナルからLLMと対話するための単一ファイルBashラッパーです。Python、Node、またはその他のランタイムをインストールせずに動作するシンプルなものが欲しかったので作成しました。",
+        "keyPoints": [
+          "この記事は「Show HN ： Bash 4 LLM + – LLM API用の軽量で依存関係のないBashラッパー」を扱っています。",
+          "Bash 4 LLMは、ターミナルからLLMと対話するための単一ファイルBashラッパーです。",
+          "Python、Node、またはその他のランタイムをインストールせずに動作するシンプルなものが欲しかったので作成しました。"
+        ]
+      },
+      {
+        "title": "Show HN: NanoEuler – GPT-2 scale model in pure C/CUDA from scratch",
+        "url": "https://github.com/JustVugg/nanoeuler",
+        "points": 82,
+        "comments": 21,
+        "author": "vforno",
+        "createdAt": "2026-06-28T19:38:14Z",
+        "domain": "github.com",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "低",
+        "newsLens": "技術",
+        "titleJa": "HN ： NanoEuler – GPT -2スケールモデルを純粋なC/CUDAでゼロから表示",
+        "summaryJa": "この記事は「HN ： NanoEuler – GPT -2スケールモデルを純粋なC/CUDAでゼロから表示」を扱っています。私の野心と夢は、AnthropicのAI分野で働くことであるため、私はAnthropicの寓話の禁止後にナノユーラーに取り組み始めました。ナノユーラーを作成するために私を導いた2つの興味深い理由は、（ 1 ） llmとのインターフェースは、それらがどのように構成されているかを理解することを意味するものではなく、（ 2 ）パラメータとデータの間の相関関係を理解するために非常に低レベルのレイヤーでllmに取り組んでいます。",
+        "keyPoints": [
+          "この記事は「HN ： NanoEuler – GPT -2スケールモデルを純粋なC/CUDAでゼロから表示」を扱っています。",
+          "私の野心と夢は、AnthropicのAI分野で働くことであるため、私はAnthropicの寓話の禁止後にナノユーラーに取り組み始めました。",
+          "ナノユーラーを作成するために私を導いた2つの興味深い理由は、（ 1 ） llmとのインターフェースは、それらがどのように構成されているかを理解することを意味するものではなく、（ 2 ）パラメータとデータの間の相関関係を理解するために非常に低レベルのレイヤーでllmに取り組んでいます。"
+        ]
+      },
+      {
+        "title": "Base44 Becomes First App - Creation Platform to Launch Its Own Proprietary LLM Base 1 , Marking a Major Milestone in the Company Technology Vision",
+        "url": "https://www.manilatimes.net/2026/06/29/tmt-newswire/globenewswire/base44-becomes-first-app-creation-platform-to-launch-its-own-proprietary-llm-base-1-marking-a-major-milestone-in-the-companys-technology-vision/2374925",
+        "points": 81,
         "comments": 0,
         "author": "",
-        "createdAt": "2026-06-28T15:00:00.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
-        "category": "AIニュース",
+        "createdAt": "2026-06-29T14:00:00Z",
+        "domain": "manilatimes.net",
+        "sourceType": "gdelt",
+        "sourceLabel": "GDELT",
+        "category": "AIモデル",
         "impact": "中",
-        "titleJa": "AIニュース: Why Wall Street thinks US memory maker Micron is the next Nvidia",
-        "summaryJa": "この記事は「Why Wall Street thinks US memory maker Micron is the next Nvidia」を扱っています。techcrunch.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
-        "keyPoints": [
-          "この記事は「Why Wall Street thinks US memory maker Micron is the next Nvidia」を扱っています。",
-          "techcrunch.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
-        ]
-      },
-      {
-        "title": "GLM 5.2 beats Claude in our benchmarks",
-        "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
-        "points": 73,
-        "comments": 402,
-        "author": "jms703",
-        "createdAt": "2026-06-28T17:50:47Z",
-        "domain": "semgrep.dev",
-        "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "高",
         "newsLens": "技術",
-        "titleJa": "AIニュース: GLM 5.2 beats Claude in our benchmarks",
-        "summaryJa": "この記事は「GLM 5.2 beats Claude in our benchmarks」を扱っています。semgrep.devが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "titleJa": "Base 44は、独自のLLM Base 1を立ち上げる最初のアプリ-作成プラットフォームとなり、会社のテクノロジービジョンの主要なマイルストーンとなります",
+        "summaryJa": "この記事は「Base 44は、独自のLLM Base 1を立ち上げる最初のアプリ-作成プラットフォームとなり、会社のテクノロジービジョンの主要なマイルストーンとなります」を扱っています。モデルの所有権により、Base 44は計算と推論の支出を直接制御でき、時間の経過とともに構造的に強力なマージンプロファイルになると予想されます。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
         "keyPoints": [
-          "この記事は「GLM 5.2 beats Claude in our benchmarks」を扱っています。",
-          "semgrep.devが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
-        ]
-      },
-      {
-        "title": "I used Claude Code to get a second opinion on my MRI",
-        "url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
-        "points": 73,
-        "comments": 577,
-        "author": "engmarketer",
-        "createdAt": "2026-06-28T16:35:19Z",
-        "domain": "antoine.fi",
-        "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "AIニュース: I used Claude Code to get a second opinion on my MRI",
-        "summaryJa": "この記事は「I used Claude Code to get a second opinion on my MRI」を扱っています。antoine.fiが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
-        "keyPoints": [
-          "この記事は「I used Claude Code to get a second opinion on my MRI」を扱っています。",
-          "antoine.fiが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "この記事は「Base 44は、独自のLLM Base 1を立ち上げる最初のアプリ-作成プラットフォームとなり、会社のテクノロジービジョンの主要なマイルストーンとなります」を扱っています。",
+          "モデルの所有権により、Base 44は計算と推論の支出を直接制御でき、時間の経過とともに構造的に強力なマージンプロファイルになると予想されます。",
           "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
       }
     ],
-    "fetchedAt": "2026-06-29T10:51:25.773Z",
+    "fetchedAt": "2026-06-29T14:45:55.301Z",
     "mock": false
   },
   "xTrends": {
@@ -112,42 +112,25 @@
       {
         "topic": "Oracle AI Trade",
         "locationLabel": "米国",
-        "bestRank": 13,
-        "appearances": 2,
+        "bestRank": 26,
+        "appearances": 3,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-06-29T10:51:25.639Z",
+        "observedAt": "2026-06-29T14:45:55.134Z",
         "url": "https://x.com/search?q=Oracle%20AI%20Trade&src=typed_query&f=live",
         "articleTitle": "Oracle sheds 21,000 roles over the past year",
         "articleTitleJa": "オラクルは過去 1 年間で 21,000 の役割を削減",
         "articleUrl": "https://www.cnbc.com/2026/06/23/oracle-ai-job-cuts-layoffs-21000.html",
         "articleSource": "cnbc.com",
         "articlePublishedAt": "2026-06-23T17:51:01Z",
-        "summaryJa": "オラクルは、「当社の事業全体にわたるAIテクノロジーの採用と展開により、従業員の削減が行われており、今後もその結果が生じる可能性がある」と述べた。",
-        "translationVersion": 3
-      },
-      {
-        "topic": "Grok 4.5",
-        "locationLabel": "米国",
-        "bestRank": 36,
-        "appearances": 1,
-        "trendSource": "Trends24",
-        "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-06-29T10:51:25.639Z",
-        "url": "https://x.com/search?q=Grok%204.5&src=typed_query&f=live",
-        "articleTitle": "Grok 4.5, based on our 1.5T V9 foundation model, with Cursor data added in su",
-        "articleTitleJa": "Grok 4.5、1.5T V9 基本モデルに基づいており、カーソル データが su に追加されています。",
-        "articleUrl": "https://twitter.com/elonmusk/status/2071184354756477041",
-        "articleSource": "twitter.com",
-        "articlePublishedAt": "2026-06-28T15:08:03Z",
-        "summaryJa": "Grok 4.5 は、1.5T V9 基盤モデルに基づいており、補足トレーニングでカーソル データが追加されており、現在 SpaceX と Tesla でプライベート ベータ版が提供されています。初期の eval は、Opus に近い、おそらくそれを超えるパフォーマンスを示します。 RL はモデルと Grok Build の大幅な改善を続けています。",
+        "summaryJa": "オラクルは、「当社の事業全体にわたるAIテクノロジーの導入と導入により、従業員の削減が行われており、今後もその結果が生じる可能性がある」と述べた。",
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-06-29T10:51:25.773Z",
+    "fetchedAt": "2026-06-29T14:45:55.301Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-06-29T10:51:30.839Z"
+    "articleFetchedAt": "2026-06-29T14:45:55.951Z"
   }
 }
