@@ -84,27 +84,27 @@
         ]
       },
       {
-        "title": "Ornith-1.0: self-improving open-source models for agentic coding",
-        "url": "https://github.com/deepreinforce-ai/Ornith-1",
-        "points": 94,
-        "comments": 23,
-        "author": "danboarder",
-        "createdAt": "2026-06-29T17:16:17Z",
-        "domain": "github.com",
+        "title": "DeepSeek V4 Peak Valley Pricing Change",
+        "url": "https://www.kucoin.com/news/flash/deepseek-v4-launches-in-mid-july-with-peak-valley-pricing",
+        "points": 52,
+        "comments": 26,
+        "author": "lmartineng",
+        "createdAt": "2026-06-29T11:29:14Z",
+        "domain": "kucoin.com",
         "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "高",
+        "category": "AIニュース",
+        "impact": "低",
         "newsLens": "技術",
-        "titleJa": "Ornith-1.0 ：エージェントコーディングのための自己改善オープンソースモデル",
-        "summaryJa": "この記事は「Ornith-1.0 ：エージェントコーディングのための自己改善オープンソースモデル」を扱っています。GitHubでアカウントを作成することで、deepreinforce - ai/Ornith -1の開発に貢献します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "titleJa": "DeepSeek V 4ピークバレー価格変更",
+        "summaryJa": "この記事は「DeepSeek V 4ピークバレー価格変更」を扱っています。ME Newsは、6月29日（ UTC +8 ）にBeatingが監視したように、DeepSeekが正式にDeepSeek V 4の正式リリースを7月中旬に予定していると発表したと報じています。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
         "keyPoints": [
-          "この記事は「Ornith-1.0 ：エージェントコーディングのための自己改善オープンソースモデル」を扱っています。",
-          "GitHubでアカウントを作成することで、deepreinforce - ai/Ornith -1の開発に貢献します。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+          "この記事は「DeepSeek V 4ピークバレー価格変更」を扱っています。",
+          "ME Newsは、6月29日（ UTC +8 ）にBeatingが監視したように、DeepSeekが正式にDeepSeek V 4の正式リリースを7月中旬に予定していると発表したと報じています。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
       }
     ],
-    "fetchedAt": "2026-06-29T21:22:32.746Z",
+    "fetchedAt": "2026-06-29T22:53:13.610Z",
     "mock": false
   },
   "xTrends": {
@@ -113,24 +113,24 @@
         "topic": "Oracle AI Trade",
         "locationLabel": "米国",
         "bestRank": 26,
-        "appearances": 3,
+        "appearances": 4,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-06-29T21:22:32.682Z",
+        "observedAt": "2026-06-29T22:53:13.583Z",
         "url": "https://x.com/search?q=Oracle%20AI%20Trade&src=typed_query&f=live",
         "articleTitle": "Oracle sheds 21,000 roles over the past year",
         "articleTitleJa": "オラクルは過去 1 年間で 21,000 の役割を削減",
         "articleUrl": "https://www.cnbc.com/2026/06/23/oracle-ai-job-cuts-layoffs-21000.html",
         "articleSource": "cnbc.com",
         "articlePublishedAt": "2026-06-23T17:51:01Z",
-        "summaryJa": "オラクルは、「当社の事業全体にわたるAIテクノロジーの採用と展開により、従業員の削減が行われており、今後もその結果が生じる可能性がある」と述べた。",
+        "summaryJa": "オラクルは、「当社の事業全体にわたるAIテクノロジーの導入と導入により、従業員の削減が行われており、今後もその結果が生じる可能性がある」と述べた。",
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-06-29T21:22:32.746Z",
+    "fetchedAt": "2026-06-29T22:53:13.610Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-06-29T21:22:34.787Z"
+    "articleFetchedAt": "2026-06-29T22:53:16.442Z"
   }
 }
