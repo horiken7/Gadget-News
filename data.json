@@ -2,30 +2,10 @@
   "news": {
     "items": [
       {
-        "title": "Ford rehires 'gray beard' engineers after AI falls short",
-        "url": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
-        "points": 93,
-        "comments": 3,
-        "author": "rbanffy",
-        "createdAt": "2026-06-28T19:35:57Z",
-        "domain": "techcrunch.com",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "AIが不足した後、フォードは「灰色のひげ」のエンジニアを再雇用",
-        "summaryJa": "この記事は「AIが不足した後、フォードは「灰色のひげ」のエンジニアを再雇用」を扱っています。「誤って、人工知能を導入するだけで...高品質の製品を生み出すことができると考えていました。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
-        "keyPoints": [
-          "この記事は「AIが不足した後、フォードは「灰色のひげ」のエンジニアを再雇用」を扱っています。",
-          "「誤って、人工知能を導入するだけで...高品質の製品を生み出すことができると考えていました。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
-        ]
-      },
-      {
         "title": "Google limits Meta's use of its Gemini AI models",
         "url": "https://www.cnbc.com/2026/06/28/google-limits-metas-use-of-its-gemini-ai-models-ft-reports.html",
         "points": 93,
-        "comments": 69,
+        "comments": 71,
         "author": "root-parent",
         "createdAt": "2026-06-28T13:30:06Z",
         "domain": "cnbc.com",
@@ -33,12 +13,33 @@
         "category": "AIモデル",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "Googleは、MetaのGemini AIモデルの使用を制限している",
-        "summaryJa": "この記事は「Googleは、MetaのGemini AIモデルの使用を制限している」を扱っています。フィナンシャル・タイムズによると、メタはグーグルが提供できる以上のコンピューティング能力を求めていた。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "titleJa": "AIニュース: Google limits Meta's use of its Gemini AI models",
+        "summaryJa": "この記事は「Google limits Meta's use of its Gemini AI models」を扱っています。cnbc.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
         "keyPoints": [
-          "この記事は「Googleは、MetaのGemini AIモデルの使用を制限している」を扱っています。",
-          "フィナンシャル・タイムズによると、メタはグーグルが提供できる以上のコンピューティング能力を求めていた。",
+          "この記事は「Google limits Meta's use of its Gemini AI models」を扱っています。",
+          "cnbc.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
           "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+        ]
+      },
+      {
+        "title": "Ford rehires ‘gray beard’ engineers after AI falls short",
+        "url": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
+        "points": 79,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-06-28T19:05:39.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
+        "category": "AIニュース",
+        "impact": "中",
+        "titleJa": "AIニュース: Ford rehires ‘gray beard’ engineers after AI falls short",
+        "summaryJa": "この記事は「Ford rehires ‘gray beard’ engineers after AI falls short」を扱っています。techcrunch.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "keyPoints": [
+          "この記事は「Ford rehires ‘gray beard’ engineers after AI falls short」を扱っています。",
+          "techcrunch.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       },
       {
@@ -54,11 +55,11 @@
         "newsLens": "一般",
         "category": "AIニュース",
         "impact": "中",
-        "titleJa": "ウォール街が米国のメモリメーカーであるマイクロンを次のNVIDIAと考える理由",
-        "summaryJa": "この記事は「ウォール街が米国のメモリメーカーであるマイクロンを次のNVIDIAと考える理由」を扱っています。Nvidiaと同様に、より多くの公開AI関連企業を見つけたいと考えているウォール街の投資家は、Micronで勝者を見つけたと考えています。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "titleJa": "AIニュース: Why Wall Street thinks US memory maker Micron is the next Nvidia",
+        "summaryJa": "この記事は「Why Wall Street thinks US memory maker Micron is the next Nvidia」を扱っています。techcrunch.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
-          "この記事は「ウォール街が米国のメモリメーカーであるマイクロンを次のNVIDIAと考える理由」を扱っています。",
-          "Nvidiaと同様に、より多くの公開AI関連企業を見つけたいと考えているウォール街の投資家は、Micronで勝者を見つけたと考えています。",
+          "この記事は「Why Wall Street thinks US memory maker Micron is the next Nvidia」を扱っています。",
+          "techcrunch.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
           "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       },
@@ -66,7 +67,7 @@
         "title": "GLM 5.2 beats Claude in our benchmarks",
         "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
         "points": 73,
-        "comments": 305,
+        "comments": 402,
         "author": "jms703",
         "createdAt": "2026-06-28T17:50:47Z",
         "domain": "semgrep.dev",
@@ -74,11 +75,11 @@
         "category": "AIモデル",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "GLM 5.2がベンチマークでClaudeを上回る",
-        "summaryJa": "この記事は「GLM 5.2がベンチマークでClaudeを上回る」を扱っています。プロンプト以外の何も与えられていないモデルの中で、最高のオープンウェイトオプションはClaude Opus 4.8を上回っています。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "titleJa": "AIニュース: GLM 5.2 beats Claude in our benchmarks",
+        "summaryJa": "この記事は「GLM 5.2 beats Claude in our benchmarks」を扱っています。semgrep.devが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
         "keyPoints": [
-          "この記事は「GLM 5.2がベンチマークでClaudeを上回る」を扱っています。",
-          "プロンプト以外の何も与えられていないモデルの中で、最高のオープンウェイトオプションはClaude Opus 4.8を上回っています。",
+          "この記事は「GLM 5.2 beats Claude in our benchmarks」を扱っています。",
+          "semgrep.devが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
           "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
       },
@@ -86,7 +87,7 @@
         "title": "I used Claude Code to get a second opinion on my MRI",
         "url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
         "points": 73,
-        "comments": 502,
+        "comments": 577,
         "author": "engmarketer",
         "createdAt": "2026-06-28T16:35:19Z",
         "domain": "antoine.fi",
@@ -94,16 +95,16 @@
         "category": "AIモデル",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "MRIに関するセカンドオピニオンを得るためにClaude Codeを使用した",
-        "summaryJa": "この記事は「MRIに関するセカンドオピニオンを得るためにClaude Codeを使用した」を扱っています。Claudeコードを使って肩の怪我についてセカンドオピニオンを得ようとした経験。これは魅力的な未来の垣間見ですが、まだ結果に完全な自信を持つことは困難です。",
+        "titleJa": "AIニュース: I used Claude Code to get a second opinion on my MRI",
+        "summaryJa": "この記事は「I used Claude Code to get a second opinion on my MRI」を扱っています。antoine.fiが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
         "keyPoints": [
-          "この記事は「MRIに関するセカンドオピニオンを得るためにClaude Codeを使用した」を扱っています。",
-          "Claudeコードを使って肩の怪我についてセカンドオピニオンを得ようとした経験。",
-          "これは魅力的な未来の垣間見ですが、まだ結果に完全な自信を持つことは困難です。"
+          "この記事は「I used Claude Code to get a second opinion on my MRI」を扱っています。",
+          "antoine.fiが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
       }
     ],
-    "fetchedAt": "2026-06-29T05:27:33.504Z",
+    "fetchedAt": "2026-06-29T10:51:25.773Z",
     "mock": false
   },
   "xTrends": {
@@ -111,28 +112,28 @@
       {
         "topic": "Oracle AI Trade",
         "locationLabel": "米国",
-        "bestRank": 8,
-        "appearances": 8,
+        "bestRank": 13,
+        "appearances": 2,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-06-29T05:27:33.253Z",
+        "observedAt": "2026-06-29T10:51:25.639Z",
         "url": "https://x.com/search?q=Oracle%20AI%20Trade&src=typed_query&f=live",
         "articleTitle": "Oracle sheds 21,000 roles over the past year",
         "articleTitleJa": "オラクルは過去 1 年間で 21,000 の役割を削減",
         "articleUrl": "https://www.cnbc.com/2026/06/23/oracle-ai-job-cuts-layoffs-21000.html",
         "articleSource": "cnbc.com",
         "articlePublishedAt": "2026-06-23T17:51:01Z",
-        "summaryJa": "オラクルは、「当社の事業全体にわたるAIテクノロジーの導入と導入により、従業員の削減が行われており、今後もその結果が生じる可能性がある」と述べた。",
+        "summaryJa": "オラクルは、「当社の事業全体にわたるAIテクノロジーの採用と展開により、従業員の削減が行われており、今後もその結果が生じる可能性がある」と述べた。",
         "translationVersion": 3
       },
       {
         "topic": "Grok 4.5",
         "locationLabel": "米国",
-        "bestRank": 28,
-        "appearances": 3,
+        "bestRank": 36,
+        "appearances": 1,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-06-29T05:27:33.253Z",
+        "observedAt": "2026-06-29T10:51:25.639Z",
         "url": "https://x.com/search?q=Grok%204.5&src=typed_query&f=live",
         "articleTitle": "Grok 4.5, based on our 1.5T V9 foundation model, with Cursor data added in su",
         "articleTitleJa": "Grok 4.5、1.5T V9 基本モデルに基づいており、カーソル データが su に追加されています。",
@@ -143,10 +144,10 @@
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-06-29T05:27:33.504Z",
+    "fetchedAt": "2026-06-29T10:51:25.773Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-06-29T05:27:35.448Z"
+    "articleFetchedAt": "2026-06-29T10:51:30.839Z"
   }
 }
