@@ -2,6 +2,47 @@
   "news": {
     "items": [
       {
+        "title": "Anthropic CEO: Open-Source AI is getting dangerous (2023)",
+        "url": "https://xcancel.com/coinbureau/status/2071330294452666695",
+        "points": 107,
+        "comments": 24,
+        "author": "therein",
+        "createdAt": "2026-06-29T09:11:33Z",
+        "domain": "xcancel.com",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "低",
+        "newsLens": "技術",
+        "titleJa": "Anthropic CEO ：オープンソースAIは危険になりつつある（ 2023年）",
+        "summaryJa": "この記事は「Anthropic CEO ：オープンソースAIは危険になりつつある（ 2023年）」を扱っています。🚨ANTHROPICの最高経営責任者（ CEO ） ：オープンソースAIは危険なAnthropicの最高経営責任者（ CEO ）であるDario Amodei氏は、オープンソースAIは「非常に危険な道を歩んでいる」と議員に語った。彼は、強力なモデルが公開されると、企業は誤用を監視したり、アクセスを取り消したり、安全ガードレールを更新したりする能力を失うと警告しています。",
+        "keyPoints": [
+          "この記事は「Anthropic CEO ：オープンソースAIは危険になりつつある（ 2023年）」を扱っています。",
+          "🚨ANTHROPICの最高経営責任者（ CEO ） ：オープンソースAIは危険なAnthropicの最高経営責任者（ CEO ）であるDario Amodei氏は、オープンソースAIは「非常に危険な道を歩んでいる」と議員に語った。",
+          "彼は、強力なモデルが公開されると、企業は誤用を監視したり、アクセスを取り消したり、安全ガードレールを更新したりする能力を失うと警告しています。"
+        ]
+      },
+      {
+        "title": "South Korean tech giants commit over $550B to ease ‘RAMageddon’",
+        "url": "https://techcrunch.com/2026/06/29/south-korean-tech-giants-commit-over-550b-to-ease-ramageddon/",
+        "points": 107,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-06-29T18:07:48.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
+        "category": "AIニュース",
+        "impact": "高",
+        "titleJa": "韓国のハイテク大手が「RAMageddon」を緩和するために5500億$以上をコミット",
+        "summaryJa": "この記事は「韓国のハイテク大手が「RAMageddon」を緩和するために5500億$以上をコミット」を扱っています。世界最大の2つのメモリチップ企業は、韓国がAI技術大国としての地位を確立しているため、より多くのメモリラボファブを建設することを誓っています。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "keyPoints": [
+          "この記事は「韓国のハイテク大手が「RAMageddon」を緩和するために5500億$以上をコミット」を扱っています。",
+          "世界最大の2つのメモリチップ企業は、韓国がAI技術大国としての地位を確立しているため、より多くのメモリラボファブを建設することを誓っています。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+        ]
+      },
+      {
         "title": "Omen AI’s plan to optimize data centers is all wet",
         "url": "https://techcrunch.com/2026/06/29/omen-ais-plan-to-optimize-data-centers-is-all-wet/",
         "points": 107,
@@ -23,88 +64,47 @@
         ]
       },
       {
-        "title": "Anthropic CEO: Open-Source AI is getting dangerous (2023)",
-        "url": "https://xcancel.com/coinbureau/status/2071330294452666695",
-        "points": 106,
-        "comments": 21,
-        "author": "therein",
-        "createdAt": "2026-06-29T09:11:33Z",
-        "domain": "xcancel.com",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "低",
-        "newsLens": "技術",
-        "titleJa": "Anthropic CEO ：オープンソースAIは危険になりつつある（ 2023年）",
-        "summaryJa": "この記事は「Anthropic CEO ：オープンソースAIは危険になりつつある（ 2023年）」を扱っています。🚨ANTHROPICの最高経営責任者（ CEO ） ：オープンソースAIは危険なAnthropicの最高経営責任者（ CEO ）であるDario Amodei氏は、オープンソースAIは「非常に危険な道を歩んでいる」と議員に語った。彼は、強力なモデルが公開されると、企業は誤用を監視したり、アクセスを取り消したり、安全ガードレールを更新したりする能力を失うと警告しています。",
-        "keyPoints": [
-          "この記事は「Anthropic CEO ：オープンソースAIは危険になりつつある（ 2023年）」を扱っています。",
-          "🚨ANTHROPICの最高経営責任者（ CEO ） ：オープンソースAIは危険なAnthropicの最高経営責任者（ CEO ）であるDario Amodei氏は、オープンソースAIは「非常に危険な道を歩んでいる」と議員に語った。",
-          "彼は、強力なモデルが公開されると、企業は誤用を監視したり、アクセスを取り消したり、安全ガードレールを更新したりする能力を失うと警告しています。"
-        ]
-      },
-      {
-        "title": "TIDAL cracks down on AI music by cutting off monetization",
-        "url": "https://techcrunch.com/2026/06/29/tidal-cracks-down-on-ai-music-by-cutting-off-monetization/",
-        "points": 105,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-06-29T16:29:04.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
-        "category": "AIニュース",
-        "impact": "高",
-        "titleJa": "TIDALは収益化を遮断することでAI音楽を取り締まる",
-        "summaryJa": "この記事は「TIDALは収益化を遮断することでAI音楽を取り締まる」を扱っています。TIDALの新しいポリシーは、AIが生成した音楽がそのサービスでお金を稼ぐのを防ぐでしょう。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
-        "keyPoints": [
-          "この記事は「TIDALは収益化を遮断することでAI音楽を取り締まる」を扱っています。",
-          "TIDALの新しいポリシーは、AIが生成した音楽がそのサービスでお金を稼ぐのを防ぐでしょう。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
-        ]
-      },
-      {
-        "title": "Show HN: Bash4LLM+ – A lightweight, dependency-free Bash wrapper for LLM APIs",
-        "url": "https://github.com/kamaludu/bash4llm/",
-        "points": 83,
-        "comments": 16,
-        "author": "kamaludu",
-        "createdAt": "2026-06-28T19:43:10Z",
+        "title": "Show HN: Running a vision model on every screenshot on-device",
+        "url": "https://github.com/ayushh0110/ScreenMind/blob/main/README.md",
+        "points": 99,
+        "comments": 3,
+        "author": "alexkarpathy",
+        "createdAt": "2026-06-29T12:39:46Z",
         "domain": "github.com",
         "sourceType": "hn",
         "category": "AIモデル",
         "impact": "低",
         "newsLens": "技術",
-        "titleJa": "Show HN ： Bash 4 LLM + – LLM API用の軽量で依存関係のないBashラッパー",
-        "summaryJa": "この記事は「Show HN ： Bash 4 LLM + – LLM API用の軽量で依存関係のないBashラッパー」を扱っています。Bash 4 LLMは、ターミナルからLLMと対話するための単一ファイルBashラッパーです。Python、Node、またはその他のランタイムをインストールせずに動作するシンプルなものが欲しかったので作成しました。",
+        "titleJa": "HNを表示：デバイス上のすべてのスクリーンショットでビジョンモデルを実行する",
+        "summaryJa": "この記事は「HNを表示：デバイス上のすべてのスクリーンショットでビジョンモデルを実行する」を扱っています。こんにちは、著者のScreenmindは、プライバシー第一のMicrosoftリコールの代替手段です。これは、ビジョンオーディオと3つすべての推論をサポートする数少ないモデルの1つであるGemma 4上で実行されるため、データがマシンから離れることはありません。",
         "keyPoints": [
-          "この記事は「Show HN ： Bash 4 LLM + – LLM API用の軽量で依存関係のないBashラッパー」を扱っています。",
-          "Bash 4 LLMは、ターミナルからLLMと対話するための単一ファイルBashラッパーです。",
-          "Python、Node、またはその他のランタイムをインストールせずに動作するシンプルなものが欲しかったので作成しました。"
+          "この記事は「HNを表示：デバイス上のすべてのスクリーンショットでビジョンモデルを実行する」を扱っています。",
+          "こんにちは、著者のScreenmindは、プライバシー第一のMicrosoftリコールの代替手段です。",
+          "これは、ビジョンオーディオと3つすべての推論をサポートする数少ないモデルの1つであるGemma 4上で実行されるため、データがマシンから離れることはありません。"
         ]
       },
       {
-        "title": "Show HN: NanoEuler – GPT-2 scale model in pure C/CUDA from scratch",
-        "url": "https://github.com/JustVugg/nanoeuler",
+        "title": "Ornith-1.0: self-improving open-source models for agentic coding",
+        "url": "https://github.com/deepreinforce-ai/Ornith-1",
         "points": 82,
-        "comments": 22,
-        "author": "vforno",
-        "createdAt": "2026-06-28T19:38:14Z",
+        "comments": 5,
+        "author": "danboarder",
+        "createdAt": "2026-06-29T17:16:17Z",
         "domain": "github.com",
         "sourceType": "hn",
         "category": "AIモデル",
         "impact": "低",
         "newsLens": "技術",
-        "titleJa": "HN ： NanoEuler – GPT -2スケールモデルを純粋なC/CUDAでゼロから表示",
-        "summaryJa": "この記事は「HN ： NanoEuler – GPT -2スケールモデルを純粋なC/CUDAでゼロから表示」を扱っています。私の野心と夢は、AnthropicのAI分野で働くことであるため、私はAnthropicの寓話の禁止後にナノユーラーに取り組み始めました。ナノユーラーを作成するために私を導いた2つの興味深い理由は、（ 1 ） llmとのインターフェースは、それらがどのように構成されているかを理解することを意味するものではなく、（ 2 ）パラメータとデータの間の相関関係を理解するために非常に低レベルのレイヤーでllmに取り組んでいます。",
+        "titleJa": "Ornith-1.0 ：エージェントコーディングのための自己改善オープンソースモデル",
+        "summaryJa": "この記事は「Ornith-1.0 ：エージェントコーディングのための自己改善オープンソースモデル」を扱っています。GitHubでアカウントを作成することで、deepreinforce - ai/Ornith -1の開発に貢献します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
         "keyPoints": [
-          "この記事は「HN ： NanoEuler – GPT -2スケールモデルを純粋なC/CUDAでゼロから表示」を扱っています。",
-          "私の野心と夢は、AnthropicのAI分野で働くことであるため、私はAnthropicの寓話の禁止後にナノユーラーに取り組み始めました。",
-          "ナノユーラーを作成するために私を導いた2つの興味深い理由は、（ 1 ） llmとのインターフェースは、それらがどのように構成されているかを理解することを意味するものではなく、（ 2 ）パラメータとデータの間の相関関係を理解するために非常に低レベルのレイヤーでllmに取り組んでいます。"
+          "この記事は「Ornith-1.0 ：エージェントコーディングのための自己改善オープンソースモデル」を扱っています。",
+          "GitHubでアカウントを作成することで、deepreinforce - ai/Ornith -1の開発に貢献します。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
       }
     ],
-    "fetchedAt": "2026-06-29T17:33:06.115Z",
+    "fetchedAt": "2026-06-29T19:51:23.579Z",
     "mock": false
   },
   "xTrends": {
@@ -116,21 +116,21 @@
         "appearances": 3,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-06-29T17:33:05.997Z",
+        "observedAt": "2026-06-29T19:51:23.452Z",
         "url": "https://x.com/search?q=Oracle%20AI%20Trade&src=typed_query&f=live",
         "articleTitle": "Oracle sheds 21,000 roles over the past year",
         "articleTitleJa": "オラクルは過去 1 年間で 21,000 の役割を削減",
         "articleUrl": "https://www.cnbc.com/2026/06/23/oracle-ai-job-cuts-layoffs-21000.html",
         "articleSource": "cnbc.com",
         "articlePublishedAt": "2026-06-23T17:51:01Z",
-        "summaryJa": "オラクルは、「当社の事業全体にわたるAIテクノロジーの採用と展開により、従業員の削減が行われており、今後もその結果が生じる可能性がある」と述べた。",
+        "summaryJa": "オラクルは、「当社の事業全体にわたるAIテクノロジーの導入と導入により、従業員の削減が行われており、今後もその結果が生じる可能性がある」と述べた。",
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-06-29T17:33:06.115Z",
+    "fetchedAt": "2026-06-29T19:51:23.579Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-06-29T17:33:08.327Z"
+    "articleFetchedAt": "2026-06-29T19:51:24.997Z"
   }
 }
