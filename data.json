@@ -5,7 +5,7 @@
         "title": "Google limits Meta's use of its Gemini AI models",
         "url": "https://www.cnbc.com/2026/06/28/google-limits-metas-use-of-its-gemini-ai-models-ft-reports.html",
         "points": 93,
-        "comments": 64,
+        "comments": 66,
         "author": "root-parent",
         "createdAt": "2026-06-28T13:30:06Z",
         "domain": "cnbc.com",
@@ -22,23 +22,66 @@
         ]
       },
       {
-        "title": "Ford rehires 'gray beard' engineers after AI falls short",
-        "url": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
-        "points": 92,
-        "comments": 3,
-        "author": "rbanffy",
-        "createdAt": "2026-06-28T19:35:57Z",
-        "domain": "techcrunch.com",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "高",
+        "title": "Chinese AI Matches Mythos In Cybersecurity Tasks With Open - Weight Model",
+        "url": "https://www.zerohedge.com/ai/chinese-ai-matches-mythos-cybersecurity-tasks-open-weight-model",
+        "points": 81,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-06-28T23:30:00Z",
+        "domain": "zerohedge.com",
+        "sourceType": "gdelt",
+        "sourceLabel": "GDELT",
+        "category": "AIモデル",
+        "impact": "中",
         "newsLens": "技術",
+        "titleJa": "中国のAIがサイバーセキュリティタスクの神話にオープンウェイトモデルでマッチ",
+        "summaryJa": "この記事は「中国のAIがサイバーセキュリティタスクの神話にオープンウェイトモデルでマッチ」を扱っています。これからみんなで使っていきます...。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "keyPoints": [
+          "この記事は「中国のAIがサイバーセキュリティタスクの神話にオープンウェイトモデルでマッチ」を扱っています。",
+          "これからみんなで使っていきます...。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+        ]
+      },
+      {
+        "title": "Le responsable du Vision Pro quitte Apple pour OpenAI",
+        "url": "https://l-echo.info/paul-meade-apple-vision-pro-openai-hardware/",
+        "points": 81,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-06-28T23:30:00Z",
+        "domain": "l-echo.info",
+        "sourceType": "gdelt",
+        "sourceLabel": "GDELT",
+        "category": "AIニュース",
+        "impact": "中",
+        "newsLens": "技術",
+        "titleJa": "AIニュース: Le responsable du Vision Pro quitte Apple pour OpenAI",
+        "summaryJa": "この記事は「Le responsable du Vision Pro quitte Apple pour OpenAI」を扱っています。l-echo.infoが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "keyPoints": [
+          "この記事は「Le responsable du Vision Pro quitte Apple pour OpenAI」を扱っています。",
+          "l-echo.infoが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+        ]
+      },
+      {
+        "title": "Ford rehires ‘gray beard’ engineers after AI falls short",
+        "url": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
+        "points": 79,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-06-28T19:05:39.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
+        "category": "AIニュース",
+        "impact": "中",
         "titleJa": "AIが不足した後、フォードは「灰色のひげ」のエンジニアを再雇用",
-        "summaryJa": "この記事は「AIが不足した後、フォードは「灰色のひげ」のエンジニアを再雇用」を扱っています。「誤って、人工知能を導入するだけで...高品質の製品を生み出すことができると考えていました。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "summaryJa": "この記事は「AIが不足した後、フォードは「灰色のひげ」のエンジニアを再雇用」を扱っています。「誤って、人工知能を導入するだけで...高品質の製品を生み出すことができると考えていました。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
           "この記事は「AIが不足した後、フォードは「灰色のひげ」のエンジニアを再雇用」を扱っています。",
           "「誤って、人工知能を導入するだけで...高品質の製品を生み出すことができると考えていました。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       },
       {
@@ -61,49 +104,9 @@
           "Nvidiaと同様に、より多くの公開AI関連企業を見つけたいと考えているウォール街の投資家は、Micronで勝者を見つけたと考えています。",
           "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
-      },
-      {
-        "title": "I used Claude Code to get a second opinion on my MRI",
-        "url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
-        "points": 73,
-        "comments": 367,
-        "author": "engmarketer",
-        "createdAt": "2026-06-28T16:35:19Z",
-        "domain": "antoine.fi",
-        "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "MRIに関するセカンドオピニオンを得るためにClaude Codeを使用した",
-        "summaryJa": "この記事は「MRIに関するセカンドオピニオンを得るためにClaude Codeを使用した」を扱っています。Claudeコードを使って肩の怪我についてセカンドオピニオンを得ようとした経験。これは魅力的な未来の垣間見ですが、まだ結果に完全な自信を持つことは困難です。",
-        "keyPoints": [
-          "この記事は「MRIに関するセカンドオピニオンを得るためにClaude Codeを使用した」を扱っています。",
-          "Claudeコードを使って肩の怪我についてセカンドオピニオンを得ようとした経験。",
-          "これは魅力的な未来の垣間見ですが、まだ結果に完全な自信を持つことは困難です。"
-        ]
-      },
-      {
-        "title": "GLM 5.2 beats Claude in our benchmarks",
-        "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
-        "points": 73,
-        "comments": 58,
-        "author": "jms703",
-        "createdAt": "2026-06-28T17:50:47Z",
-        "domain": "semgrep.dev",
-        "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "GLM 5.2がベンチマークでClaudeを上回る",
-        "summaryJa": "この記事は「GLM 5.2がベンチマークでClaudeを上回る」を扱っています。プロンプト以外の何も与えられていないモデルの中で、最高のオープンウェイトオプションはClaude Opus 4.8を上回っています。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
-        "keyPoints": [
-          "この記事は「GLM 5.2がベンチマークでClaudeを上回る」を扱っています。",
-          "プロンプト以外の何も与えられていないモデルの中で、最高のオープンウェイトオプションはClaude Opus 4.8を上回っています。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
-        ]
       }
     ],
-    "fetchedAt": "2026-06-28T22:03:50.457Z",
+    "fetchedAt": "2026-06-29T00:04:36.189Z",
     "mock": false
   },
   "xTrends": {
@@ -115,7 +118,7 @@
         "appearances": 12,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-06-28T22:03:50.380Z",
+        "observedAt": "2026-06-29T00:04:36.129Z",
         "url": "https://x.com/search?q=Oracle%20AI%20Trade&src=typed_query&f=live",
         "articleTitle": "Oracle sheds 21,000 roles over the past year",
         "articleTitleJa": "オラクルは過去 1 年間で 21,000 の役割を削減",
@@ -132,7 +135,7 @@
         "appearances": 3,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-06-28T22:03:50.380Z",
+        "observedAt": "2026-06-29T00:04:36.129Z",
         "url": "https://x.com/search?q=Grok%204.5&src=typed_query&f=live",
         "articleTitle": "Grok 4.5, based on our 1.5T V9 foundation model, with Cursor data added in su",
         "articleTitleJa": "Grok 4.5、1.5T V9 基本モデルに基づいており、カーソル データが su に追加されています。",
@@ -143,10 +146,10 @@
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-06-28T22:03:50.457Z",
+    "fetchedAt": "2026-06-29T00:04:36.189Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-06-28T22:03:52.765Z"
+    "articleFetchedAt": "2026-06-29T00:04:38.415Z"
   }
 }
