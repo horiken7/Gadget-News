@@ -22,6 +22,27 @@
         ]
       },
       {
+        "title": "Vibe coding platform Base44 launches own model as AI startups seek defensibility",
+        "url": "https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/",
+        "points": 107,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-06-30T02:28:41.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
+        "category": "AIモデル",
+        "impact": "高",
+        "titleJa": "VibeコーディングプラットフォームBase 44は、AIスタートアップが防御性を求めているため、独自のモデルを立ち上げます",
+        "summaryJa": "この記事は「VibeコーディングプラットフォームBase 44は、AIスタートアップが防御性を求めているため、独自のモデルを立ち上げます」を扱っています。Wixが所有するVibeコーディングプラットフォームBase 44は、最終的にフロンティアモデルを上回るパフォーマンスを期待して、独自のAIモデルの展開を開始した。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "keyPoints": [
+          "この記事は「VibeコーディングプラットフォームBase 44は、AIスタートアップが防御性を求めているため、独自のモデルを立ち上げます」を扱っています。",
+          "Wixが所有するVibeコーディングプラットフォームBase 44は、最終的にフロンティアモデルを上回るパフォーマンスを期待して、独自のAIモデルの展開を開始した。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+        ]
+      },
+      {
         "title": "South Korean tech giants commit over $550B to ease ‘RAMageddon’",
         "url": "https://techcrunch.com/2026/06/29/south-korean-tech-giants-commit-over-550b-to-ease-ramageddon/",
         "points": 107,
@@ -43,51 +64,31 @@
         ]
       },
       {
-        "title": "Omen AI’s plan to optimize data centers is all wet",
-        "url": "https://techcrunch.com/2026/06/29/omen-ais-plan-to-optimize-data-centers-is-all-wet/",
-        "points": 107,
+        "title": "AIPOCH Launches MedSkillAudit , an AI Audit Framework to Evaluate Medical AI Agent Skills Before Deployment",
+        "url": "https://www.manilatimes.net/2026/06/30/tmt-newswire/globenewswire/aipoch-launches-medskillaudit-an-ai-audit-framework-to-evaluate-medical-ai-agent-skills-before-deployment/2375356",
+        "points": 81,
         "comments": 0,
         "author": "",
-        "createdAt": "2026-06-29T13:00:00.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
+        "createdAt": "2026-06-30T04:30:00Z",
+        "domain": "manilatimes.net",
+        "sourceType": "gdelt",
+        "sourceLabel": "GDELT",
         "category": "AIニュース",
-        "impact": "高",
-        "titleJa": "データセンターを最適化するOmen AIの計画はすべて濡れています",
-        "summaryJa": "この記事は「データセンターを最適化するOmen AIの計画はすべて濡れています」を扱っています。Omen AIは、チップクーラントを監視し、データセンターでの細菌の発生を阻止するために、シリーズAで3100万$を調達しました。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
-        "keyPoints": [
-          "この記事は「データセンターを最適化するOmen AIの計画はすべて濡れています」を扱っています。",
-          "Omen AIは、チップクーラントを監視し、データセンターでの細菌の発生を阻止するために、シリーズAで3100万$を調達しました。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
-        ]
-      },
-      {
-        "title": "Show HN: Running a vision model on every screenshot on-device",
-        "url": "https://github.com/ayushh0110/ScreenMind/blob/main/README.md",
-        "points": 99,
-        "comments": 3,
-        "author": "alexkarpathy",
-        "createdAt": "2026-06-29T12:39:46Z",
-        "domain": "github.com",
-        "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "低",
+        "impact": "中",
         "newsLens": "技術",
-        "titleJa": "HNを表示：デバイス上のすべてのスクリーンショットでビジョンモデルを実行する",
-        "summaryJa": "この記事は「HNを表示：デバイス上のすべてのスクリーンショットでビジョンモデルを実行する」を扱っています。こんにちは、著者のScreenmindは、プライバシー第一のMicrosoftリコールの代替手段です。これは、ビジョンオーディオと3つすべての推論をサポートする数少ないモデルの1つであるGemma 4上で実行されるため、データがマシンから離れることはありません。",
+        "titleJa": "AIPOCH、展開前に医療AIエージェントのスキルを評価するAI監査フレームワークであるMedSkillAuditを開始",
+        "summaryJa": "この記事は「AIPOCH、展開前に医療AIエージェントのスキルを評価するAI監査フレームワークであるMedSkillAuditを開始」を扱っています。シンガポール、2026年6月29日（ GLOBE NEWSWIRE ） - AIPOCHは本日、復旦大学中山病院の病理科と協力して、医学研究で使用される前に、科学的に信頼性の低いAIエージェントスキルを特定するように設計された、展開前のドメイン固有の監査フレームワークであるMedSkillAuditを発表しました。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
         "keyPoints": [
-          "この記事は「HNを表示：デバイス上のすべてのスクリーンショットでビジョンモデルを実行する」を扱っています。",
-          "こんにちは、著者のScreenmindは、プライバシー第一のMicrosoftリコールの代替手段です。",
-          "これは、ビジョンオーディオと3つすべての推論をサポートする数少ないモデルの1つであるGemma 4上で実行されるため、データがマシンから離れることはありません。"
+          "この記事は「AIPOCH、展開前に医療AIエージェントのスキルを評価するAI監査フレームワークであるMedSkillAuditを開始」を扱っています。",
+          "シンガポール、2026年6月29日（ GLOBE NEWSWIRE ） - AIPOCHは本日、復旦大学中山病院の病理科と協力して、医学研究で使用される前に、科学的に信頼性の低いAIエージェントスキルを特定するように設計された、展開前のドメイン固有の監査フレームワークであるMedSkillAuditを発表しました。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
       },
       {
         "title": "DeepSeek V4 Peak Valley Pricing Change",
         "url": "https://www.kucoin.com/news/flash/deepseek-v4-launches-in-mid-july-with-peak-valley-pricing",
-        "points": 52,
-        "comments": 27,
+        "points": 53,
+        "comments": 29,
         "author": "lmartineng",
         "createdAt": "2026-06-29T11:29:14Z",
         "domain": "kucoin.com",
@@ -104,11 +105,29 @@
         ]
       }
     ],
-    "fetchedAt": "2026-06-30T00:00:38.107Z",
+    "fetchedAt": "2026-06-30T04:59:30.694Z",
     "mock": false
   },
   "xTrends": {
     "items": [
+      {
+        "topic": "AIの品質チェック",
+        "locationLabel": "日本",
+        "bestRank": 26,
+        "appearances": 2,
+        "trendSource": "Trends24",
+        "sourceUrl": "https://trends24.in/japan/",
+        "observedAt": "2026-06-30T04:59:30.577Z",
+        "url": "https://x.com/search?q=AI%E3%81%AE%E5%93%81%E8%B3%AA%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF&src=typed_query&f=live",
+        "articleTitle": "AIの品質チェック",
+        "articleTitleJa": "公開トレンド: AIの品質チェック",
+        "articleUrl": "https://trends24.in/japan/",
+        "articleSource": "Trends24",
+        "articlePublishedAt": "2026-06-30T04:59:30.577Z",
+        "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
+        "translationVersion": 3,
+        "articleFallback": true
+      },
       {
         "topic": "Oracle AI Trade",
         "locationLabel": "米国",
@@ -116,21 +135,21 @@
         "appearances": 4,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-06-30T00:00:37.983Z",
+        "observedAt": "2026-06-30T04:59:30.600Z",
         "url": "https://x.com/search?q=Oracle%20AI%20Trade&src=typed_query&f=live",
         "articleTitle": "Oracle sheds 21,000 roles over the past year",
         "articleTitleJa": "オラクルは過去 1 年間で 21,000 の役割を削減",
         "articleUrl": "https://www.cnbc.com/2026/06/23/oracle-ai-job-cuts-layoffs-21000.html",
         "articleSource": "cnbc.com",
         "articlePublishedAt": "2026-06-23T17:51:01Z",
-        "summaryJa": "「当社の事業全体でのAI技術の採用と展開は、従業員数の削減をもたらしており、今後も引き続きもたらす可能性があります」とオラクルは述べています。",
+        "summaryJa": "オラクルは、「当社の事業全体にわたるAIテクノロジーの採用と展開により、従業員の削減が行われており、今後もその結果が生じる可能性がある」と述べた。",
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-06-30T00:00:38.107Z",
+    "fetchedAt": "2026-06-30T04:59:30.694Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-06-30T00:00:43.654Z"
+    "articleFetchedAt": "2026-06-30T04:59:32.918Z"
   }
 }
