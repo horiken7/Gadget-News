@@ -64,31 +64,10 @@
         ]
       },
       {
-        "title": "AIPOCH Launches MedSkillAudit , an AI Audit Framework to Evaluate Medical AI Agent Skills Before Deployment",
-        "url": "https://www.manilatimes.net/2026/06/30/tmt-newswire/globenewswire/aipoch-launches-medskillaudit-an-ai-audit-framework-to-evaluate-medical-ai-agent-skills-before-deployment/2375356",
-        "points": 81,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-06-30T04:30:00Z",
-        "domain": "manilatimes.net",
-        "sourceType": "gdelt",
-        "sourceLabel": "GDELT",
-        "category": "AIニュース",
-        "impact": "中",
-        "newsLens": "技術",
-        "titleJa": "AIPOCH、展開前に医療AIエージェントのスキルを評価するAI監査フレームワークであるMedSkillAuditを開始",
-        "summaryJa": "この記事は「AIPOCH、展開前に医療AIエージェントのスキルを評価するAI監査フレームワークであるMedSkillAuditを開始」を扱っています。シンガポール、2026年6月29日（ GLOBE NEWSWIRE ） - AIPOCHは本日、復旦大学中山病院の病理科と協力して、医学研究で使用される前に、科学的に信頼性の低いAIエージェントスキルを特定するように設計された、展開前のドメイン固有の監査フレームワークであるMedSkillAuditを発表しました。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
-        "keyPoints": [
-          "この記事は「AIPOCH、展開前に医療AIエージェントのスキルを評価するAI監査フレームワークであるMedSkillAuditを開始」を扱っています。",
-          "シンガポール、2026年6月29日（ GLOBE NEWSWIRE ） - AIPOCHは本日、復旦大学中山病院の病理科と協力して、医学研究で使用される前に、科学的に信頼性の低いAIエージェントスキルを特定するように設計された、展開前のドメイン固有の監査フレームワークであるMedSkillAuditを発表しました。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
-        ]
-      },
-      {
         "title": "DeepSeek V4 Peak Valley Pricing Change",
         "url": "https://www.kucoin.com/news/flash/deepseek-v4-launches-in-mid-july-with-peak-valley-pricing",
         "points": 53,
-        "comments": 29,
+        "comments": 30,
         "author": "lmartineng",
         "createdAt": "2026-06-29T11:29:14Z",
         "domain": "kucoin.com",
@@ -103,13 +82,51 @@
           "ME Newsは、6月29日（ UTC +8 ）にBeatingが監視したように、DeepSeekが正式にDeepSeek V 4の正式リリースを7月中旬に予定していると発表したと報じています。",
           "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
+      },
+      {
+        "title": "You shouldn't copy-paste errors into Claude Code",
+        "url": "https://home.robusta.dev/blog/you-really-shouldnt-copy-paste-errors-into-claude-code",
+        "points": 49,
+        "comments": 58,
+        "author": "nyellin",
+        "createdAt": "2026-06-29T21:16:58Z",
+        "domain": "home.robusta.dev",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "低",
+        "newsLens": "技術",
+        "titleJa": "Claude Codeにエラーをコピー＆ペーストしないでください",
+        "summaryJa": "この記事は「Claude Codeにエラーをコピー＆ペーストしないでください」を扱っています。home.robusta.devが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "keyPoints": [
+          "この記事は「Claude Codeにエラーをコピー＆ペーストしないでください」を扱っています。",
+          "home.robusta.devが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+        ]
       }
     ],
-    "fetchedAt": "2026-06-30T04:59:30.694Z",
+    "fetchedAt": "2026-06-30T08:33:56.974Z",
     "mock": false
   },
   "xTrends": {
     "items": [
+      {
+        "topic": "AI時代の教訓",
+        "locationLabel": "日本",
+        "bestRank": 34,
+        "appearances": 3,
+        "trendSource": "Trends24",
+        "sourceUrl": "https://trends24.in/japan/",
+        "observedAt": "2026-06-30T08:33:56.956Z",
+        "url": "https://x.com/search?q=AI%E6%99%82%E4%BB%A3%E3%81%AE%E6%95%99%E8%A8%93&src=typed_query&f=live",
+        "articleTitle": "AI時代の教訓",
+        "articleTitleJa": "公開トレンド: AI時代の教訓",
+        "articleUrl": "https://trends24.in/japan/",
+        "articleSource": "Trends24",
+        "articlePublishedAt": "2026-06-30T08:33:56.956Z",
+        "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
+        "translationVersion": 3,
+        "articleFallback": true
+      },
       {
         "topic": "AIの品質チェック",
         "locationLabel": "日本",
@@ -117,13 +134,13 @@
         "appearances": 2,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-06-30T04:59:30.577Z",
+        "observedAt": "2026-06-30T08:33:56.956Z",
         "url": "https://x.com/search?q=AI%E3%81%AE%E5%93%81%E8%B3%AA%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF&src=typed_query&f=live",
         "articleTitle": "AIの品質チェック",
         "articleTitleJa": "公開トレンド: AIの品質チェック",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-06-30T04:59:30.577Z",
+        "articlePublishedAt": "2026-06-30T08:33:56.956Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -131,25 +148,25 @@
       {
         "topic": "Oracle AI Trade",
         "locationLabel": "米国",
-        "bestRank": 26,
-        "appearances": 4,
+        "bestRank": 36,
+        "appearances": 2,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-06-30T04:59:30.600Z",
+        "observedAt": "2026-06-30T08:33:56.852Z",
         "url": "https://x.com/search?q=Oracle%20AI%20Trade&src=typed_query&f=live",
         "articleTitle": "Oracle sheds 21,000 roles over the past year",
         "articleTitleJa": "オラクルは過去 1 年間で 21,000 の役割を削減",
         "articleUrl": "https://www.cnbc.com/2026/06/23/oracle-ai-job-cuts-layoffs-21000.html",
         "articleSource": "cnbc.com",
         "articlePublishedAt": "2026-06-23T17:51:01Z",
-        "summaryJa": "オラクルは、「当社の事業全体にわたるAIテクノロジーの採用と展開により、従業員の削減が行われており、今後もその結果が生じる可能性がある」と述べた。",
+        "summaryJa": "オラクルは、「当社の事業全体にわたるAIテクノロジーの導入と導入により、従業員の削減が行われており、今後もその結果が生じる可能性がある」と述べた。",
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-06-30T04:59:30.694Z",
+    "fetchedAt": "2026-06-30T08:33:56.974Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-06-30T04:59:32.918Z"
+    "articleFetchedAt": "2026-06-30T08:34:00.255Z"
   }
 }
