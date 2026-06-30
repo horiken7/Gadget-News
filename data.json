@@ -87,7 +87,7 @@
         "title": "DeepSeek V4 Peak Valley Pricing Change",
         "url": "https://www.kucoin.com/news/flash/deepseek-v4-launches-in-mid-july-with-peak-valley-pricing",
         "points": 52,
-        "comments": 26,
+        "comments": 27,
         "author": "lmartineng",
         "createdAt": "2026-06-29T11:29:14Z",
         "domain": "kucoin.com",
@@ -104,7 +104,7 @@
         ]
       }
     ],
-    "fetchedAt": "2026-06-29T22:53:13.610Z",
+    "fetchedAt": "2026-06-30T00:00:38.107Z",
     "mock": false
   },
   "xTrends": {
@@ -116,21 +116,21 @@
         "appearances": 4,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-06-29T22:53:13.583Z",
+        "observedAt": "2026-06-30T00:00:37.983Z",
         "url": "https://x.com/search?q=Oracle%20AI%20Trade&src=typed_query&f=live",
         "articleTitle": "Oracle sheds 21,000 roles over the past year",
         "articleTitleJa": "オラクルは過去 1 年間で 21,000 の役割を削減",
         "articleUrl": "https://www.cnbc.com/2026/06/23/oracle-ai-job-cuts-layoffs-21000.html",
         "articleSource": "cnbc.com",
         "articlePublishedAt": "2026-06-23T17:51:01Z",
-        "summaryJa": "オラクルは、「当社の事業全体にわたるAIテクノロジーの導入と導入により、従業員の削減が行われており、今後もその結果が生じる可能性がある」と述べた。",
+        "summaryJa": "「当社の事業全体でのAI技術の採用と展開は、従業員数の削減をもたらしており、今後も引き続きもたらす可能性があります」とオラクルは述べています。",
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-06-29T22:53:13.610Z",
+    "fetchedAt": "2026-06-30T00:00:38.107Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-06-29T22:53:16.442Z"
+    "articleFetchedAt": "2026-06-30T00:00:43.654Z"
   }
 }
