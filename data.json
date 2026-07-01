@@ -68,7 +68,7 @@
         "title": "Claude Sonnet 5",
         "url": "https://www.anthropic.com/news/claude-sonnet-5",
         "points": 73,
-        "comments": 735,
+        "comments": 755,
         "author": "marinesebastian",
         "createdAt": "2026-06-30T17:59:52Z",
         "domain": "anthropic.com",
@@ -88,7 +88,7 @@
         "title": "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
         "url": "https://twitter.com/AnthropicAI/status/2072106151890809341",
         "points": 73,
-        "comments": 520,
+        "comments": 570,
         "author": "Pragmata",
         "createdAt": "2026-06-30T23:55:12Z",
         "domain": "twitter.com",
@@ -105,7 +105,7 @@
         ]
       }
     ],
-    "fetchedAt": "2026-07-01T14:44:14.127Z",
+    "fetchedAt": "2026-07-01T17:11:31.554Z",
     "mock": false
   },
   "xTrends": {
@@ -117,7 +117,7 @@
         "appearances": 1,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-07-01T14:44:14.107Z",
+        "observedAt": "2026-07-01T17:11:31.448Z",
         "url": "https://x.com/search?q=Claude%20Fable%205&src=typed_query&f=live",
         "articleTitle": "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
         "articleTitleJa": "商務省はClaude・ファブル5とミトス5の輸出規制を解除した",
@@ -134,22 +134,22 @@
         "appearances": 1,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/australia/",
-        "observedAt": "2026-07-01T14:44:14.041Z",
+        "observedAt": "2026-07-01T17:11:31.496Z",
         "url": "https://x.com/search?q=Anthropic&src=typed_query&f=live",
         "articleTitle": "Anthropic",
         "articleTitleJa": "公開トレンド: Anthropic",
         "articleUrl": "https://trends24.in/australia/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-07-01T14:44:14.041Z",
+        "articlePublishedAt": "2026-07-01T17:11:31.496Z",
         "summaryJa": "豪州のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
       }
     ],
-    "fetchedAt": "2026-07-01T14:44:14.127Z",
+    "fetchedAt": "2026-07-01T17:11:31.554Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-01T14:44:16.523Z"
+    "articleFetchedAt": "2026-07-01T17:11:35.842Z"
   }
 }
