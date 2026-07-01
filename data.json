@@ -44,51 +44,10 @@
         ]
       },
       {
-        "title": "New attack provides one more reason why AI browsers are a bad idea",
-        "url": "https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/",
-        "points": 107,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-06-30T20:03:14.000Z",
-        "domain": "arstechnica.com",
-        "sourceType": "rss",
-        "sourceLabel": "Ars Technica",
-        "newsLens": "技術",
-        "category": "AIニュース",
-        "impact": "高",
-        "titleJa": "新しい攻撃は、AIブラウザが悪いアイデアであるもう1つの理由を提供します",
-        "summaryJa": "この記事は「新しい攻撃は、AIブラウザが悪いアイデアであるもう1つの理由を提供します」を扱っています。LLMに2 + 2 = 5と伝えるだけで、禁止されている指示に従うことができます。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
-        "keyPoints": [
-          "この記事は「新しい攻撃は、AIブラウザが悪いアイデアであるもう1つの理由を提供します」を扱っています。",
-          "LLMに2 + 2 = 5と伝えるだけで、禁止されている指示に従うことができます。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
-        ]
-      },
-      {
-        "title": "Launch HN: Parsewise (YC P25) – Reason Across Documents with an API",
-        "url": "https://news.ycombinator.com/item?id=48746752",
-        "points": 99,
-        "comments": 34,
-        "author": "gergelycsegzi",
-        "createdAt": "2026-07-01T13:48:44Z",
-        "domain": "news.ycombinator.com",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "低",
-        "newsLens": "技術",
-        "titleJa": "HNを起動する： Parsewise （ YC P 25 ） – APIを使用した文書間の理由",
-        "summaryJa": "この記事は「HNを起動する： Parsewise （ YC P 25 ） – APIを使用した文書間の理由」を扱っています。こんにちは、Parsewiseの創設者であるGregとMaxです（ https://www.parsewise.ai/api ）。Parsewiseは、非構造化データのバケットをスキーマ準拠データに変換し、ドキュメント間で解決された値の系統を保持します。",
-        "keyPoints": [
-          "この記事は「HNを起動する： Parsewise （ YC P 25 ） – APIを使用した文書間の理由」を扱っています。",
-          "こんにちは、Parsewiseの創設者であるGregとMaxです（ https://www.parsewise.ai/api ）。",
-          "Parsewiseは、非構造化データのバケットをスキーマ準拠データに変換し、ドキュメント間で解決された値の系統を保持します。"
-        ]
-      },
-      {
         "title": "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
         "url": "https://twitter.com/AnthropicAI/status/2072106151890809341",
         "points": 73,
-        "comments": 609,
+        "comments": 625,
         "author": "Pragmata",
         "createdAt": "2026-06-30T23:55:12Z",
         "domain": "twitter.com",
@@ -103,53 +62,57 @@
           "商務省がClaude寓話5と神話5の輸出規制を解除したとの通知を受けました。",
           "明日からアクセスの回復を開始し、まもなく最新情報をお知らせします。"
         ]
+      },
+      {
+        "title": "ZCode: Claude Code from the Makers of GLM",
+        "url": "https://zcode.z.ai/cn",
+        "points": 73,
+        "comments": 108,
+        "author": "handfuloflight",
+        "createdAt": "2026-07-01T19:11:38Z",
+        "domain": "zcode.z.ai",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "Zコード： GLMメーカーのClaudeコード",
+        "summaryJa": "この記事は「Zコード： GLMメーカーのClaudeコード」を扱っています。ZCode 将强大的 AIエージェント与现有工具链结合，帮助你在熟悉流程中完成规划、编码、评审与上线。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "keyPoints": [
+          "この記事は「Zコード： GLMメーカーのClaudeコード」を扱っています。",
+          "ZCode 将强大的 AIエージェント与现有工具链结合，帮助你在熟悉流程中完成规划、编码、评审与上线。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+        ]
+      },
+      {
+        "title": "Claude Fable 5 Promotional Access",
+        "url": "https://support.claude.com/en/articles/15424964-claude-fable-5-promotional-access",
+        "points": 62,
+        "comments": 65,
+        "author": "zbikowski",
+        "createdAt": "2026-07-01T19:31:46Z",
+        "domain": "support.claude.com",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "中",
+        "newsLens": "技術",
+        "titleJa": "Claude寓話5プロモーションアクセス",
+        "summaryJa": "この記事は「Claude寓話5プロモーションアクセス」を扱っています。support.claude.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "keyPoints": [
+          "この記事は「Claude寓話5プロモーションアクセス」を扱っています。",
+          "support.claude.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+        ]
       }
     ],
-    "fetchedAt": "2026-07-01T19:48:30.196Z",
+    "fetchedAt": "2026-07-01T21:24:32.614Z",
     "mock": false
   },
   "xTrends": {
-    "items": [
-      {
-        "topic": "Claude Fable 5",
-        "locationLabel": "日本",
-        "bestRank": 49,
-        "appearances": 1,
-        "trendSource": "Trends24",
-        "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-07-01T19:48:30.177Z",
-        "url": "https://x.com/search?q=Claude%20Fable%205&src=typed_query&f=live",
-        "articleTitle": "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
-        "articleTitleJa": "商務省はClaude・ファブル5とミトス5の輸出規制を解除した",
-        "articleUrl": "https://twitter.com/AnthropicAI/status/2072106151890809341",
-        "articleSource": "twitter.com",
-        "articlePublishedAt": "2026-06-30T23:55:12Z",
-        "summaryJa": "商務省が Claude Fable 5 と Mythos 5 の輸出規制を解除したという通知を受け取りました。明日からアクセスの回復を開始し、近日中に最新情報を共有する予定です。辛抱強く待ってくださったユーザーの皆様、そして私たちと協力してくださった皆様に感謝いたします。",
-        "translationVersion": 3
-      },
-      {
-        "topic": "Anthropic",
-        "locationLabel": "豪州",
-        "bestRank": 41,
-        "appearances": 1,
-        "trendSource": "Trends24",
-        "sourceUrl": "https://trends24.in/australia/",
-        "observedAt": "2026-07-01T19:48:30.157Z",
-        "url": "https://x.com/search?q=Anthropic&src=typed_query&f=live",
-        "articleTitle": "Anthropic",
-        "articleTitleJa": "公開トレンド: Anthropic",
-        "articleUrl": "https://trends24.in/australia/",
-        "articleSource": "Trends24",
-        "articlePublishedAt": "2026-07-01T19:48:30.157Z",
-        "summaryJa": "豪州のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
-        "translationVersion": 3,
-        "articleFallback": true
-      }
-    ],
-    "fetchedAt": "2026-07-01T19:48:30.196Z",
+    "items": [],
+    "fetchedAt": "2026-07-01T21:24:32.614Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-01T19:48:32.324Z"
+    "articleFetchedAt": "2026-07-01T21:24:32.719Z"
   }
 }
