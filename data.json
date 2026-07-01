@@ -2,6 +2,27 @@
   "news": {
     "items": [
       {
+        "title": "Cloudflare’s new policy pushes AI companies to pay for publishers’ content",
+        "url": "https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/",
+        "points": 133,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-07-01T17:48:37.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
+        "category": "AIニュース",
+        "impact": "高",
+        "titleJa": "Cloudflareの新しいポリシーにより、AI企業はパブリッシャーのコンテンツに料金を支払うことになる",
+        "summaryJa": "この記事は「Cloudflareの新しいポリシーにより、AI企業はパブリッシャーのコンテンツに料金を支払うことになる」を扱っています。Cloudflareは、9月15日までAI企業に対し、検索に使用されるWebクローラーとAIトレーニングやエージェントに使用されるWebクローラーを分離することを許可している。そうしないと、多くのパブリッシャーサイトでデフォルトでブロックされる危険性がある。",
+        "keyPoints": [
+          "この記事は「Cloudflareの新しいポリシーにより、AI企業はパブリッシャーのコンテンツに料金を支払うことになる」を扱っています。",
+          "Cloudflareは、9月15日までAI企業に対し、検索に使用されるWebクローラーとAIトレーニングやエージェントに使用されるWebクローラーを分離することを許可している。",
+          "そうしないと、多くのパブリッシャーサイトでデフォルトでブロックされる危険性がある。"
+        ]
+      },
+      {
         "title": "Trump drops restrictions on Anthropic’s Mythos and Fable models",
         "url": "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/",
         "points": 133,
@@ -19,27 +40,6 @@
         "keyPoints": [
           "この記事は「トランプ大統領、「Anthropic」の「Mythos」と「Fable」モデルの制限を撤廃」を扱っています。",
           "AI政策立案に対するトランプ政権の不安定なアプローチにより、業界全体の企業は、将来のモデルリリースを管理するものについてほとんど明確になっていません。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
-        ]
-      },
-      {
-        "title": "Anthropic launches Claude Sonnet 5 as a cheaper way to run agents",
-        "url": "https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/",
-        "points": 133,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-06-30T18:00:00.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
-        "category": "AIモデル",
-        "impact": "高",
-        "titleJa": "Anthropicは、エージェントを実行するためのより安価な方法としてClaude Sonnet 5を立ち上げます",
-        "summaryJa": "この記事は「Anthropicは、エージェントを実行するためのより安価な方法としてClaude Sonnet 5を立ち上げます」を扱っています。AnthropicのClaude Sonnet 5は、より強力なエージェント機能、低価格、および改善された安全性をもたらし、Opus、GPT-5.5、およびGemini Proのより安価な代替品としてモデルを位置付けています。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
-        "keyPoints": [
-          "この記事は「Anthropicは、エージェントを実行するためのより安価な方法としてClaude Sonnet 5を立ち上げます」を扱っています。",
-          "AnthropicのClaude Sonnet 5は、より強力なエージェント機能、低価格、および改善された安全性をもたらし、Opus、GPT-5.5、およびGemini Proのより安価な代替品としてモデルを位置付けています。",
           "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       },
@@ -65,30 +65,30 @@
         ]
       },
       {
-        "title": "Claude Sonnet 5",
-        "url": "https://www.anthropic.com/news/claude-sonnet-5",
-        "points": 73,
-        "comments": 755,
-        "author": "marinesebastian",
-        "createdAt": "2026-06-30T17:59:52Z",
-        "domain": "anthropic.com",
+        "title": "Launch HN: Parsewise (YC P25) – Reason Across Documents with an API",
+        "url": "https://news.ycombinator.com/item?id=48746752",
+        "points": 99,
+        "comments": 34,
+        "author": "gergelycsegzi",
+        "createdAt": "2026-07-01T13:48:44Z",
+        "domain": "news.ycombinator.com",
         "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "高",
+        "category": "AIニュース",
+        "impact": "低",
         "newsLens": "技術",
-        "titleJa": "Claudeのソネット5",
-        "summaryJa": "この記事は「Claudeのソネット5」を扱っています。これまでで最もエージェント的なソネットで、コーディングと日常のプロフェッショナルな仕事のためのトップレベルのインテリジェンスを備えています。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "titleJa": "HNを起動する： Parsewise （ YC P 25 ） – APIを使用した文書間の理由",
+        "summaryJa": "この記事は「HNを起動する： Parsewise （ YC P 25 ） – APIを使用した文書間の理由」を扱っています。こんにちは、Parsewiseの創設者であるGregとMaxです（ https://www.parsewise.ai/api ）。Parsewiseは、非構造化データのバケットをスキーマ準拠データに変換し、ドキュメント間で解決された値の系統を保持します。",
         "keyPoints": [
-          "この記事は「Claudeのソネット5」を扱っています。",
-          "これまでで最もエージェント的なソネットで、コーディングと日常のプロフェッショナルな仕事のためのトップレベルのインテリジェンスを備えています。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+          "この記事は「HNを起動する： Parsewise （ YC P 25 ） – APIを使用した文書間の理由」を扱っています。",
+          "こんにちは、Parsewiseの創設者であるGregとMaxです（ https://www.parsewise.ai/api ）。",
+          "Parsewiseは、非構造化データのバケットをスキーマ準拠データに変換し、ドキュメント間で解決された値の系統を保持します。"
         ]
       },
       {
         "title": "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
         "url": "https://twitter.com/AnthropicAI/status/2072106151890809341",
         "points": 73,
-        "comments": 570,
+        "comments": 609,
         "author": "Pragmata",
         "createdAt": "2026-06-30T23:55:12Z",
         "domain": "twitter.com",
@@ -105,7 +105,7 @@
         ]
       }
     ],
-    "fetchedAt": "2026-07-01T17:11:31.554Z",
+    "fetchedAt": "2026-07-01T19:48:30.196Z",
     "mock": false
   },
   "xTrends": {
@@ -117,7 +117,7 @@
         "appearances": 1,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-07-01T17:11:31.448Z",
+        "observedAt": "2026-07-01T19:48:30.177Z",
         "url": "https://x.com/search?q=Claude%20Fable%205&src=typed_query&f=live",
         "articleTitle": "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
         "articleTitleJa": "商務省はClaude・ファブル5とミトス5の輸出規制を解除した",
@@ -134,22 +134,22 @@
         "appearances": 1,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/australia/",
-        "observedAt": "2026-07-01T17:11:31.496Z",
+        "observedAt": "2026-07-01T19:48:30.157Z",
         "url": "https://x.com/search?q=Anthropic&src=typed_query&f=live",
         "articleTitle": "Anthropic",
         "articleTitleJa": "公開トレンド: Anthropic",
         "articleUrl": "https://trends24.in/australia/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-07-01T17:11:31.496Z",
+        "articlePublishedAt": "2026-07-01T19:48:30.157Z",
         "summaryJa": "豪州のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
       }
     ],
-    "fetchedAt": "2026-07-01T17:11:31.554Z",
+    "fetchedAt": "2026-07-01T19:48:30.196Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-01T17:11:35.842Z"
+    "articleFetchedAt": "2026-07-01T19:48:32.324Z"
   }
 }
