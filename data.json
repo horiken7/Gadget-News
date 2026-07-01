@@ -47,7 +47,7 @@
         "title": "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
         "url": "https://twitter.com/AnthropicAI/status/2072106151890809341",
         "points": 73,
-        "comments": 625,
+        "comments": 633,
         "author": "Pragmata",
         "createdAt": "2026-06-30T23:55:12Z",
         "domain": "twitter.com",
@@ -67,7 +67,7 @@
         "title": "ZCode: Claude Code from the Makers of GLM",
         "url": "https://zcode.z.ai/cn",
         "points": 73,
-        "comments": 108,
+        "comments": 12,
         "author": "handfuloflight",
         "createdAt": "2026-07-01T19:11:38Z",
         "domain": "zcode.z.ai",
@@ -86,14 +86,14 @@
       {
         "title": "Claude Fable 5 Promotional Access",
         "url": "https://support.claude.com/en/articles/15424964-claude-fable-5-promotional-access",
-        "points": 62,
-        "comments": 65,
+        "points": 64,
+        "comments": 72,
         "author": "zbikowski",
         "createdAt": "2026-07-01T19:31:46Z",
         "domain": "support.claude.com",
         "sourceType": "hn",
         "category": "AIモデル",
-        "impact": "中",
+        "impact": "高",
         "newsLens": "技術",
         "titleJa": "Claude寓話5プロモーションアクセス",
         "summaryJa": "この記事は「Claude寓話5プロモーションアクセス」を扱っています。support.claude.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
@@ -104,15 +104,15 @@
         ]
       }
     ],
-    "fetchedAt": "2026-07-01T21:24:32.614Z",
+    "fetchedAt": "2026-07-01T23:10:35.726Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-07-01T21:24:32.614Z",
+    "fetchedAt": "2026-07-01T23:10:35.726Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-01T21:24:32.719Z"
+    "articleFetchedAt": "2026-07-01T23:10:35.847Z"
   }
 }
