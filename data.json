@@ -2,6 +2,27 @@
   "news": {
     "items": [
       {
+        "title": "Trump drops restrictions on Anthropic’s Mythos and Fable models",
+        "url": "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/",
+        "points": 133,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-07-01T02:16:06.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
+        "category": "AIモデル",
+        "impact": "高",
+        "titleJa": "トランプ大統領、「Anthropic」の「Mythos」と「Fable」モデルの制限を撤廃",
+        "summaryJa": "この記事は「トランプ大統領、「Anthropic」の「Mythos」と「Fable」モデルの制限を撤廃」を扱っています。AI政策立案に対するトランプ政権の不安定なアプローチにより、業界全体の企業は、将来のモデルリリースを管理するものについてほとんど明確になっていません。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "keyPoints": [
+          "この記事は「トランプ大統領、「Anthropic」の「Mythos」と「Fable」モデルの制限を撤廃」を扱っています。",
+          "AI政策立案に対するトランプ政権の不安定なアプローチにより、業界全体の企業は、将来のモデルリリースを管理するものについてほとんど明確になっていません。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+        ]
+      },
+      {
         "title": "Anthropic launches Claude Sonnet 5 as a cheaper way to run agents",
         "url": "https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/",
         "points": 133,
@@ -44,31 +65,10 @@
         ]
       },
       {
-        "title": "OpenClaw is finally available on Android and iOS",
-        "url": "https://techcrunch.com/2026/06/30/openclaw-is-finally-available-on-android-and-ios/",
-        "points": 107,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-06-30T21:53:28.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
-        "category": "AIニュース",
-        "impact": "高",
-        "titleJa": "OpenClawがついにAndroidとiOSで利用可能になりました",
-        "summaryJa": "この記事は「OpenClawがついにAndroidとiOSで利用可能になりました」を扱っています。無料のオープンソースエージェントプログラムがついにあなたの携帯電話に侵入してきました。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
-        "keyPoints": [
-          "この記事は「OpenClawがついにAndroidとiOSで利用可能になりました」を扱っています。",
-          "無料のオープンソースエージェントプログラムがついにあなたの携帯電話に侵入してきました。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
-        ]
-      },
-      {
         "title": "Claude Sonnet 5",
         "url": "https://www.anthropic.com/news/claude-sonnet-5",
         "points": 73,
-        "comments": 522,
+        "comments": 627,
         "author": "marinesebastian",
         "createdAt": "2026-06-30T17:59:52Z",
         "domain": "anthropic.com",
@@ -85,27 +85,27 @@
         ]
       },
       {
-        "title": "Claude Science",
-        "url": "https://claude.com/product/claude-science",
+        "title": "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
+        "url": "https://twitter.com/AnthropicAI/status/2072106151890809341",
         "points": 73,
-        "comments": 125,
-        "author": "lebovic",
-        "createdAt": "2026-06-30T17:07:41Z",
-        "domain": "claude.com",
+        "comments": 346,
+        "author": "Pragmata",
+        "createdAt": "2026-06-30T23:55:12Z",
+        "domain": "twitter.com",
         "sourceType": "hn",
         "category": "AIモデル",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "Claude・サイエンス",
-        "summaryJa": "この記事は「Claude・サイエンス」を扱っています。Claude Scienceは、科学研究のためのAIワークベンチです。熟練した科学者のように研究を進め、分析を実行してすべてのステップを追跡します。",
+        "titleJa": "商務省は、Claude寓話5と神話5の輸出規制を解除しました",
+        "summaryJa": "この記事は「商務省は、Claude寓話5と神話5の輸出規制を解除しました」を扱っています。商務省がClaude寓話5と神話5の輸出規制を解除したとの通知を受けました。明日からアクセスの回復を開始し、まもなく最新情報をお知らせします。",
         "keyPoints": [
-          "この記事は「Claude・サイエンス」を扱っています。",
-          "Claude Scienceは、科学研究のためのAIワークベンチです。",
-          "熟練した科学者のように研究を進め、分析を実行してすべてのステップを追跡します。"
+          "この記事は「商務省は、Claude寓話5と神話5の輸出規制を解除しました」を扱っています。",
+          "商務省がClaude寓話5と神話5の輸出規制を解除したとの通知を受けました。",
+          "明日からアクセスの回復を開始し、まもなく最新情報をお知らせします。"
         ]
       }
     ],
-    "fetchedAt": "2026-07-01T03:26:16.017Z",
+    "fetchedAt": "2026-07-01T08:08:13.093Z",
     "mock": false
   },
   "xTrends": {
@@ -117,31 +117,13 @@
         "appearances": 3,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-07-01T03:26:15.985Z",
+        "observedAt": "2026-07-01T08:08:13.057Z",
         "url": "https://x.com/search?q=%23OPENAI&src=typed_query&f=live",
         "articleTitle": "#OPENAI",
         "articleTitleJa": "公開トレンド: #OPENAI",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-07-01T03:26:15.985Z",
-        "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
-        "translationVersion": 3,
-        "articleFallback": true
-      },
-      {
-        "topic": "中国のAI研究所",
-        "locationLabel": "日本",
-        "bestRank": 21,
-        "appearances": 3,
-        "trendSource": "Trends24",
-        "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-07-01T03:26:15.985Z",
-        "url": "https://x.com/search?q=%E4%B8%AD%E5%9B%BD%E3%81%AEAI%E7%A0%94%E7%A9%B6%E6%89%80&src=typed_query&f=live",
-        "articleTitle": "中国のAI研究所",
-        "articleTitleJa": "公開トレンド: 中国のAI研究所",
-        "articleUrl": "https://trends24.in/japan/",
-        "articleSource": "Trends24",
-        "articlePublishedAt": "2026-07-01T03:26:15.985Z",
+        "articlePublishedAt": "2026-07-01T08:08:13.057Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -153,13 +135,31 @@
         "appearances": 3,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-07-01T03:26:15.985Z",
+        "observedAt": "2026-07-01T08:08:13.057Z",
         "url": "https://x.com/search?q=%E4%BB%96%E3%81%AEAI%E3%83%84%E3%83%BC%E3%83%AB&src=typed_query&f=live",
         "articleTitle": "他のAIツール",
         "articleTitleJa": "公開トレンド: 他のAIツール",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-07-01T03:26:15.985Z",
+        "articlePublishedAt": "2026-07-01T08:08:13.057Z",
+        "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
+        "translationVersion": 3,
+        "articleFallback": true
+      },
+      {
+        "topic": "中国のAI研究所",
+        "locationLabel": "日本",
+        "bestRank": 21,
+        "appearances": 2,
+        "trendSource": "Trends24",
+        "sourceUrl": "https://trends24.in/japan/",
+        "observedAt": "2026-07-01T08:08:13.057Z",
+        "url": "https://x.com/search?q=%E4%B8%AD%E5%9B%BD%E3%81%AEAI%E7%A0%94%E7%A9%B6%E6%89%80&src=typed_query&f=live",
+        "articleTitle": "中国のAI研究所",
+        "articleTitleJa": "公開トレンド: 中国のAI研究所",
+        "articleUrl": "https://trends24.in/japan/",
+        "articleSource": "Trends24",
+        "articlePublishedAt": "2026-07-01T08:08:13.057Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -171,7 +171,7 @@
         "appearances": 1,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-07-01T03:26:15.985Z",
+        "observedAt": "2026-07-01T08:08:13.057Z",
         "url": "https://x.com/search?q=Claude%20Fable%205&src=typed_query&f=live",
         "articleTitle": "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
         "articleTitleJa": "商務省はClaude・ファブル5とミトス5の輸出規制を解除した",
@@ -188,7 +188,7 @@
         "appearances": 1,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-07-01T03:26:15.955Z",
+        "observedAt": "2026-07-01T08:08:13.037Z",
         "url": "https://x.com/search?q=Claude%20Science&src=typed_query&f=live",
         "articleTitle": "Claude Science",
         "articleTitleJa": "Claude・サイエンス",
@@ -199,10 +199,10 @@
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-07-01T03:26:16.017Z",
+    "fetchedAt": "2026-07-01T08:08:13.093Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": false,
-    "articleFetchedAt": "2026-07-01T03:26:19.491Z"
+    "articleFetchedAt": "2026-07-01T08:08:14.926Z"
   }
 }
