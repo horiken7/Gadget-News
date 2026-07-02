@@ -46,8 +46,8 @@
       {
         "title": "Launch HN: Parsewise (YC P25) – Reason Across Documents with an API",
         "url": "https://news.ycombinator.com/item?id=48746752",
-        "points": 101,
-        "comments": 46,
+        "points": 102,
+        "comments": 47,
         "author": "gergelycsegzi",
         "createdAt": "2026-07-01T13:48:44Z",
         "domain": "news.ycombinator.com",
@@ -67,7 +67,7 @@
         "title": "ZCode: Claude Code from the Makers of GLM",
         "url": "https://zcode.z.ai/cn",
         "points": 73,
-        "comments": 12,
+        "comments": 13,
         "author": "handfuloflight",
         "createdAt": "2026-07-01T19:11:38Z",
         "domain": "zcode.z.ai",
@@ -86,8 +86,8 @@
       {
         "title": "Meta caps internal AI token spending",
         "url": "https://mlq.ai/news/meta-caps-internal-ai-token-spending-after-costs-approach-billions-in-2026/",
-        "points": 72,
-        "comments": 99,
+        "points": 73,
+        "comments": 116,
         "author": "typeofhuman",
         "createdAt": "2026-07-01T23:58:48Z",
         "domain": "mlq.ai",
@@ -104,7 +104,7 @@
         ]
       }
     ],
-    "fetchedAt": "2026-07-02T02:52:27.548Z",
+    "fetchedAt": "2026-07-02T06:38:47.356Z",
     "mock": false
   },
   "xTrends": {
@@ -116,22 +116,22 @@
         "appearances": 2,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-07-02T02:52:27.469Z",
+        "observedAt": "2026-07-02T06:38:47.339Z",
         "url": "https://x.com/search?q=AI%E8%A8%88%E7%AE%97%E8%83%BD%E5%8A%9B&src=typed_query&f=live",
         "articleTitle": "AI計算能力",
         "articleTitleJa": "公開トレンド: AI計算能力",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-07-02T02:52:27.469Z",
+        "articlePublishedAt": "2026-07-02T06:38:47.339Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
       }
     ],
-    "fetchedAt": "2026-07-02T02:52:27.548Z",
+    "fetchedAt": "2026-07-02T06:38:47.356Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-02T02:52:27.902Z"
+    "articleFetchedAt": "2026-07-02T06:38:47.710Z"
   }
 }
