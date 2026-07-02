@@ -23,44 +23,44 @@
         ]
       },
       {
-        "title": "Trump drops restrictions on Anthropic’s Mythos and Fable models",
-        "url": "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/",
-        "points": 133,
+        "title": "Venice AI becomes a unicorn with $65M Series A as its privacy-first AI platform takes off",
+        "url": "https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/",
+        "points": 105,
         "comments": 0,
         "author": "",
-        "createdAt": "2026-07-01T02:16:06.000Z",
+        "createdAt": "2026-07-01T14:25:23.000Z",
         "domain": "techcrunch.com",
         "sourceType": "rss",
         "sourceLabel": "TechCrunch AI",
         "newsLens": "一般",
-        "category": "AIモデル",
+        "category": "AIニュース",
         "impact": "高",
-        "titleJa": "トランプ大統領、「Anthropic」の「Mythos」と「Fable」モデルの制限を撤廃",
-        "summaryJa": "この記事は「トランプ大統領、「Anthropic」の「Mythos」と「Fable」モデルの制限を撤廃」を扱っています。AI政策立案に対するトランプ政権の不安定なアプローチにより、業界全体の企業は、将来のモデルリリースを管理するものについてほとんど明確になっていません。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "titleJa": "ヴェネツィアAIは、プライバシー第一のAIプラットフォームとして$ 6500万シリーズAでユニコーンになります",
+        "summaryJa": "この記事は「ヴェネツィアAIは、プライバシー第一のAIプラットフォームとして$ 6500万シリーズAでユニコーンになります」を扱っています。CEOのErik Voorhees氏によると、Venice AIはすでに利益を上げており、年間ランレート収益は7000万$を超えているという。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
-          "この記事は「トランプ大統領、「Anthropic」の「Mythos」と「Fable」モデルの制限を撤廃」を扱っています。",
-          "AI政策立案に対するトランプ政権の不安定なアプローチにより、業界全体の企業は、将来のモデルリリースを管理するものについてほとんど明確になっていません。",
+          "この記事は「ヴェネツィアAIは、プライバシー第一のAIプラットフォームとして$ 6500万シリーズAでユニコーンになります」を扱っています。",
+          "CEOのErik Voorhees氏によると、Venice AIはすでに利益を上げており、年間ランレート収益は7000万$を超えているという。",
           "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       },
       {
-        "title": "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
-        "url": "https://twitter.com/AnthropicAI/status/2072106151890809341",
-        "points": 73,
-        "comments": 633,
-        "author": "Pragmata",
-        "createdAt": "2026-06-30T23:55:12Z",
-        "domain": "twitter.com",
+        "title": "Launch HN: Parsewise (YC P25) – Reason Across Documents with an API",
+        "url": "https://news.ycombinator.com/item?id=48746752",
+        "points": 101,
+        "comments": 46,
+        "author": "gergelycsegzi",
+        "createdAt": "2026-07-01T13:48:44Z",
+        "domain": "news.ycombinator.com",
         "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "高",
+        "category": "AIニュース",
+        "impact": "低",
         "newsLens": "技術",
-        "titleJa": "商務省は、Claude寓話5と神話5の輸出規制を解除しました",
-        "summaryJa": "この記事は「商務省は、Claude寓話5と神話5の輸出規制を解除しました」を扱っています。商務省がClaude寓話5と神話5の輸出規制を解除したとの通知を受けました。明日からアクセスの回復を開始し、まもなく最新情報をお知らせします。",
+        "titleJa": "HNを起動する： Parsewise （ YC P 25 ） – APIを使用した文書間の理由",
+        "summaryJa": "この記事は「HNを起動する： Parsewise （ YC P 25 ） – APIを使用した文書間の理由」を扱っています。こんにちは、Parsewiseの創設者であるGregとMaxです（ https://www.parsewise.ai/api ）。Parsewiseは、非構造化データのバケットをスキーマ準拠データに変換し、ドキュメント間で解決された値の系統を保持します。",
         "keyPoints": [
-          "この記事は「商務省は、Claude寓話5と神話5の輸出規制を解除しました」を扱っています。",
-          "商務省がClaude寓話5と神話5の輸出規制を解除したとの通知を受けました。",
-          "明日からアクセスの回復を開始し、まもなく最新情報をお知らせします。"
+          "この記事は「HNを起動する： Parsewise （ YC P 25 ） – APIを使用した文書間の理由」を扱っています。",
+          "こんにちは、Parsewiseの創設者であるGregとMaxです（ https://www.parsewise.ai/api ）。",
+          "Parsewiseは、非構造化データのバケットをスキーマ準拠データに変換し、ドキュメント間で解決された値の系統を保持します。"
         ]
       },
       {
@@ -84,35 +84,54 @@
         ]
       },
       {
-        "title": "Claude Fable 5 Promotional Access",
-        "url": "https://support.claude.com/en/articles/15424964-claude-fable-5-promotional-access",
-        "points": 64,
-        "comments": 72,
-        "author": "zbikowski",
-        "createdAt": "2026-07-01T19:31:46Z",
-        "domain": "support.claude.com",
+        "title": "Meta caps internal AI token spending",
+        "url": "https://mlq.ai/news/meta-caps-internal-ai-token-spending-after-costs-approach-billions-in-2026/",
+        "points": 72,
+        "comments": 99,
+        "author": "typeofhuman",
+        "createdAt": "2026-07-01T23:58:48Z",
+        "domain": "mlq.ai",
         "sourceType": "hn",
-        "category": "AIモデル",
+        "category": "AIニュース",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "Claude寓話5プロモーションアクセス",
-        "summaryJa": "この記事は「Claude寓話5プロモーションアクセス」を扱っています。support.claude.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "titleJa": "Metaは内部のAIトークン支出を上限に設定します",
+        "summaryJa": "この記事は「Metaは内部のAIトークン支出を上限に設定します」を扱っています。mlq.aiが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
         "keyPoints": [
-          "この記事は「Claude寓話5プロモーションアクセス」を扱っています。",
-          "support.claude.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+          "この記事は「Metaは内部のAIトークン支出を上限に設定します」を扱っています。",
+          "mlq.aiが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
       }
     ],
-    "fetchedAt": "2026-07-01T23:10:35.726Z",
+    "fetchedAt": "2026-07-02T02:52:27.548Z",
     "mock": false
   },
   "xTrends": {
-    "items": [],
-    "fetchedAt": "2026-07-01T23:10:35.726Z",
+    "items": [
+      {
+        "topic": "AI計算能力",
+        "locationLabel": "日本",
+        "bestRank": 28,
+        "appearances": 2,
+        "trendSource": "Trends24",
+        "sourceUrl": "https://trends24.in/japan/",
+        "observedAt": "2026-07-02T02:52:27.469Z",
+        "url": "https://x.com/search?q=AI%E8%A8%88%E7%AE%97%E8%83%BD%E5%8A%9B&src=typed_query&f=live",
+        "articleTitle": "AI計算能力",
+        "articleTitleJa": "公開トレンド: AI計算能力",
+        "articleUrl": "https://trends24.in/japan/",
+        "articleSource": "Trends24",
+        "articlePublishedAt": "2026-07-02T02:52:27.469Z",
+        "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
+        "translationVersion": 3,
+        "articleFallback": true
+      }
+    ],
+    "fetchedAt": "2026-07-02T02:52:27.548Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-01T23:10:35.847Z"
+    "articleFetchedAt": "2026-07-02T02:52:27.902Z"
   }
 }
