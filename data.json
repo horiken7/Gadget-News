@@ -23,6 +23,26 @@
         ]
       },
       {
+        "title": "Kimi K2.7 Code is generally available in GitHub Copilot",
+        "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/",
+        "points": 121,
+        "comments": 53,
+        "author": "unliftedq",
+        "createdAt": "2026-07-02T04:32:41Z",
+        "domain": "github.blog",
+        "sourceType": "hn",
+        "category": "開発ツール",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "Kimi K2.7コードはGitHub Copilotで一般公開されています",
+        "summaryJa": "この記事は「Kimi K2.7コードはGitHub Copilotで一般公開されています」を扱っています。オープンウェイトモデルであるKimi K2.7 CodeがGitHub Copilotで一般公開されました。これは、Copilotモデルピッカーで選択可能なオプションとして提供される最初のオープンウェイトモデルであり、...。",
+        "keyPoints": [
+          "この記事は「Kimi K2.7コードはGitHub Copilotで一般公開されています」を扱っています。",
+          "オープンウェイトモデルであるKimi K2.7 CodeがGitHub Copilotで一般公開されました。",
+          "これは、Copilotモデルピッカーで選択可能なオプションとして提供される最初のオープンウェイトモデルであり、...。"
+        ]
+      },
+      {
         "title": "Venice AI becomes a unicorn with $65M Series A as its privacy-first AI platform takes off",
         "url": "https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/",
         "points": 105,
@@ -47,7 +67,7 @@
         "title": "Launch HN: Parsewise (YC P25) – Reason Across Documents with an API",
         "url": "https://news.ycombinator.com/item?id=48746752",
         "points": 102,
-        "comments": 47,
+        "comments": 50,
         "author": "gergelycsegzi",
         "createdAt": "2026-07-01T13:48:44Z",
         "domain": "news.ycombinator.com",
@@ -82,29 +102,9 @@
           "ZCode 将强大的 AIエージェント与现有工具链结合，帮助你在熟悉流程中完成规划、编码、评审与上线。",
           "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
-      },
-      {
-        "title": "Meta caps internal AI token spending",
-        "url": "https://mlq.ai/news/meta-caps-internal-ai-token-spending-after-costs-approach-billions-in-2026/",
-        "points": 73,
-        "comments": 116,
-        "author": "typeofhuman",
-        "createdAt": "2026-07-01T23:58:48Z",
-        "domain": "mlq.ai",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "Metaは内部のAIトークン支出を上限に設定します",
-        "summaryJa": "この記事は「Metaは内部のAIトークン支出を上限に設定します」を扱っています。mlq.aiが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
-        "keyPoints": [
-          "この記事は「Metaは内部のAIトークン支出を上限に設定します」を扱っています。",
-          "mlq.aiが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
-        ]
       }
     ],
-    "fetchedAt": "2026-07-02T06:38:47.356Z",
+    "fetchedAt": "2026-07-02T09:59:36.000Z",
     "mock": false
   },
   "xTrends": {
@@ -116,22 +116,22 @@
         "appearances": 2,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-07-02T06:38:47.339Z",
+        "observedAt": "2026-07-02T09:59:35.982Z",
         "url": "https://x.com/search?q=AI%E8%A8%88%E7%AE%97%E8%83%BD%E5%8A%9B&src=typed_query&f=live",
         "articleTitle": "AI計算能力",
         "articleTitleJa": "公開トレンド: AI計算能力",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-07-02T06:38:47.339Z",
+        "articlePublishedAt": "2026-07-02T09:59:35.982Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
       }
     ],
-    "fetchedAt": "2026-07-02T06:38:47.356Z",
+    "fetchedAt": "2026-07-02T09:59:36.000Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-02T06:38:47.710Z"
+    "articleFetchedAt": "2026-07-02T09:59:36.474Z"
   }
 }
