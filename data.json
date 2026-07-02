@@ -26,7 +26,7 @@
         "title": "Kimi K2.7 Code is generally available in GitHub Copilot",
         "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/",
         "points": 121,
-        "comments": 124,
+        "comments": 138,
         "author": "unliftedq",
         "createdAt": "2026-07-02T04:32:41Z",
         "domain": "github.blog",
@@ -43,23 +43,22 @@
         ]
       },
       {
-        "title": "Microsoft launches its own AI deployment company with $2.5 billion commitment",
-        "url": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
-        "points": 79,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-07-02T13:53:00.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
+        "title": "OpenAI ‘in early talks to give 5% stake to US government’",
+        "url": "https://www.theguardian.com/technology/2026/jul/02/openai-stake-us-government-ai-sam-altman",
+        "points": 110,
+        "comments": 102,
+        "author": "tosh",
+        "createdAt": "2026-07-02T11:16:31Z",
+        "domain": "theguardian.com",
+        "sourceType": "hn",
         "category": "AIニュース",
-        "impact": "中",
-        "titleJa": "マイクロソフト、25億$のコミットメントで独自のAIデプロイメント会社を立ち上げる",
-        "summaryJa": "この記事は「マイクロソフト、25億$のコミットメントで独自のAIデプロイメント会社を立ち上げる」を扱っています。マイクロソフトは、新しいAIデプロイメントグループでAmazon、OpenAI、Anthropicに続いています。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "impact": "高",
+        "newsLens": "一般",
+        "titleJa": "OpenAIは「米国政府に5 ％の株式を与えるための早期交渉で」",
+        "summaryJa": "この記事は「OpenAIは「米国政府に5 ％の株式を与えるための早期交渉で」」を扱っています。最高経営責任者（ CEO ）のサム・アルトマン（ Sam Altman ）氏は、この動きはAIの利点を共有するものであり、同様のことを行う他の企業も関与すると主張し。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
-          "この記事は「マイクロソフト、25億$のコミットメントで独自のAIデプロイメント会社を立ち上げる」を扱っています。",
-          "マイクロソフトは、新しいAIデプロイメントグループでAmazon、OpenAI、Anthropicに続いています。",
+          "この記事は「OpenAIは「米国政府に5 ％の株式を与えるための早期交渉で」」を扱っています。",
+          "最高経営責任者（ CEO ）のサム・アルトマン（ Sam Altman ）氏は、この動きはAIの利点を共有するものであり、同様のことを行う他の企業も関与すると主張し。",
           "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       },
@@ -84,31 +83,49 @@
         ]
       },
       {
-        "title": "AI fake news complaining about how AI fake news is the death of real news",
-        "url": "https://www.niemanlab.org/2026/07/now-were-getting-ai-fake-news-complaining-about-how-ai-fake-news-is-the-death-of-real-news/",
-        "points": 70,
-        "comments": 35,
-        "author": "thm",
-        "createdAt": "2026-07-02T12:40:36Z",
-        "domain": "niemanlab.org",
+        "title": "Claude Fable 5 Promotional Access",
+        "url": "https://support.claude.com/en/articles/15424964-claude-fable-5-promotional-access",
+        "points": 66,
+        "comments": 89,
+        "author": "zbikowski",
+        "createdAt": "2026-07-01T19:31:46Z",
+        "domain": "support.claude.com",
         "sourceType": "hn",
-        "category": "AIニュース",
+        "category": "AIモデル",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "AIフェイクニュースが本物のニュースの死であることに文句を言うAIフェイクニュース",
-        "summaryJa": "この記事は「AIフェイクニュースが本物のニュースの死であることに文句を言うAIフェイクニュース」を扱っています。niemanlab.orgが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "titleJa": "Claude寓話5プロモーションアクセス",
+        "summaryJa": "この記事は「Claude寓話5プロモーションアクセス」を扱っています。support.claude.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
         "keyPoints": [
-          "この記事は「AIフェイクニュースが本物のニュースの死であることに文句を言うAIフェイクニュース」を扱っています。",
-          "niemanlab.orgが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+          "この記事は「Claude寓話5プロモーションアクセス」を扱っています。",
+          "support.claude.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
       }
     ],
-    "fetchedAt": "2026-07-02T15:12:26.042Z",
+    "fetchedAt": "2026-07-02T17:42:56.899Z",
     "mock": false
   },
   "xTrends": {
     "items": [
+      {
+        "topic": "AIの失敗",
+        "locationLabel": "日本",
+        "bestRank": 8,
+        "appearances": 2,
+        "trendSource": "Trends24",
+        "sourceUrl": "https://trends24.in/japan/",
+        "observedAt": "2026-07-02T17:42:56.879Z",
+        "url": "https://x.com/search?q=AI%E3%81%AE%E5%A4%B1%E6%95%97&src=typed_query&f=live",
+        "articleTitle": "AIの失敗",
+        "articleTitleJa": "公開トレンド: AIの失敗",
+        "articleUrl": "https://trends24.in/japan/",
+        "articleSource": "Trends24",
+        "articlePublishedAt": "2026-07-02T17:42:56.879Z",
+        "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
+        "translationVersion": 3,
+        "articleFallback": true
+      },
       {
         "topic": "AI計算能力",
         "locationLabel": "日本",
@@ -116,22 +133,22 @@
         "appearances": 2,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-07-02T15:12:25.964Z",
+        "observedAt": "2026-07-02T17:42:56.879Z",
         "url": "https://x.com/search?q=AI%E8%A8%88%E7%AE%97%E8%83%BD%E5%8A%9B&src=typed_query&f=live",
         "articleTitle": "AI計算能力",
         "articleTitleJa": "公開トレンド: AI計算能力",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-07-02T15:12:25.964Z",
+        "articlePublishedAt": "2026-07-02T17:42:56.879Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
       }
     ],
-    "fetchedAt": "2026-07-02T15:12:26.042Z",
+    "fetchedAt": "2026-07-02T17:42:56.899Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-02T15:12:26.377Z"
+    "articleFetchedAt": "2026-07-02T17:42:57.825Z"
   }
 }
