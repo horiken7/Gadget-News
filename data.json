@@ -26,7 +26,7 @@
         "title": "Kimi K2.7 Code is generally available in GitHub Copilot",
         "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/",
         "points": 121,
-        "comments": 53,
+        "comments": 95,
         "author": "unliftedq",
         "createdAt": "2026-07-02T04:32:41Z",
         "domain": "github.blog",
@@ -67,7 +67,7 @@
         "title": "Launch HN: Parsewise (YC P25) – Reason Across Documents with an API",
         "url": "https://news.ycombinator.com/item?id=48746752",
         "points": 102,
-        "comments": 50,
+        "comments": 51,
         "author": "gergelycsegzi",
         "createdAt": "2026-07-01T13:48:44Z",
         "domain": "news.ycombinator.com",
@@ -104,7 +104,7 @@
         ]
       }
     ],
-    "fetchedAt": "2026-07-02T09:59:36.000Z",
+    "fetchedAt": "2026-07-02T12:14:11.682Z",
     "mock": false
   },
   "xTrends": {
@@ -116,22 +116,22 @@
         "appearances": 2,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-07-02T09:59:35.982Z",
+        "observedAt": "2026-07-02T12:14:11.623Z",
         "url": "https://x.com/search?q=AI%E8%A8%88%E7%AE%97%E8%83%BD%E5%8A%9B&src=typed_query&f=live",
         "articleTitle": "AI計算能力",
         "articleTitleJa": "公開トレンド: AI計算能力",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-07-02T09:59:35.982Z",
+        "articlePublishedAt": "2026-07-02T12:14:11.623Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
       }
     ],
-    "fetchedAt": "2026-07-02T09:59:36.000Z",
+    "fetchedAt": "2026-07-02T12:14:11.682Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-02T09:59:36.474Z"
+    "articleFetchedAt": "2026-07-02T12:14:12.013Z"
   }
 }
