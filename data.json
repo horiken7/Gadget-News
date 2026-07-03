@@ -23,22 +23,23 @@
         ]
       },
       {
-        "title": "OpenAI ‘in early talks to give 5% stake to US government’",
-        "url": "https://www.theguardian.com/technology/2026/jul/02/openai-stake-us-government-ai-sam-altman",
-        "points": 119,
-        "comments": 137,
-        "author": "tosh",
-        "createdAt": "2026-07-02T11:16:31Z",
-        "domain": "theguardian.com",
-        "sourceType": "hn",
+        "title": "OpenAI proposed donating 5% of its equity to a US sovereign wealth fund",
+        "url": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/",
+        "points": 105,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-07-02T15:20:51.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
         "category": "AIニュース",
         "impact": "高",
-        "newsLens": "一般",
-        "titleJa": "OpenAIは「米国政府に5 ％の株式を与えるための早期交渉で」",
-        "summaryJa": "この記事は「OpenAIは「米国政府に5 ％の株式を与えるための早期交渉で」」を扱っています。最高経営責任者（ CEO ）のサム・アルトマン（ Sam Altman ）氏は、この動きはAIの利点を共有するものであり、同様のことを行う他の企業も関与すると主張し。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "titleJa": "OpenAIは、その株式の5 ％を米国のソブリン・ウェルス・ファンドに寄付することを提案しました",
+        "summaryJa": "この記事は「OpenAIは、その株式の5 ％を米国のソブリン・ウェルス・ファンドに寄付することを提案しました」を扱っています。OpenAIの最高経営責任者（ CEO ）であるサム・アルトマン（ Sam Altman ）氏は、同社の株式の5 ％を米国のソブリン・ウェルス・ファンドに寄付することを提案したと伝えられており、AIブームからの財政的利益に公的なシェアを与えることについての議論を復活させた。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
-          "この記事は「OpenAIは「米国政府に5 ％の株式を与えるための早期交渉で」」を扱っています。",
-          "最高経営責任者（ CEO ）のサム・アルトマン（ Sam Altman ）氏は、この動きはAIの利点を共有するものであり、同様のことを行う他の企業も関与すると主張し。",
+          "この記事は「OpenAIは、その株式の5 ％を米国のソブリン・ウェルス・ファンドに寄付することを提案しました」を扱っています。",
+          "OpenAIの最高経営責任者（ CEO ）であるサム・アルトマン（ Sam Altman ）氏は、同社の株式の5 ％を米国のソブリン・ウェルス・ファンドに寄付することを提案したと伝えられており、AIブームからの財政的利益に公的なシェアを与えることについての議論を復活させた。",
           "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       },
@@ -46,7 +47,7 @@
         "title": "No LLM Code in Dependencies",
         "url": "https://joeyh.name/blog/entry/no_LLM_code_in_dependencies/",
         "points": 98,
-        "comments": 109,
+        "comments": 110,
         "author": "edward",
         "createdAt": "2026-07-02T14:17:23Z",
         "domain": "joeyh.name",
@@ -66,7 +67,7 @@
         "title": "Launch HN: Manufact (YC S25) – MCP Cloud",
         "url": "https://manufact.com",
         "points": 96,
-        "comments": 63,
+        "comments": 64,
         "author": "pzullo",
         "createdAt": "2026-07-02T15:11:20Z",
         "domain": "manufact.com",
@@ -86,7 +87,7 @@
         "title": "Claude-real-video － any LLM can watch a video",
         "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
         "points": 93,
-        "comments": 42,
+        "comments": 46,
         "author": "cortexosmain",
         "createdAt": "2026-07-02T19:10:12Z",
         "domain": "github.com",
@@ -103,7 +104,7 @@
         ]
       }
     ],
-    "fetchedAt": "2026-07-03T09:54:25.595Z",
+    "fetchedAt": "2026-07-03T12:06:42.036Z",
     "mock": false
   },
   "xTrends": {
@@ -115,13 +116,13 @@
         "appearances": 4,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-07-03T09:54:25.574Z",
+        "observedAt": "2026-07-03T12:06:42.019Z",
         "url": "https://x.com/search?q=Anthropic&src=typed_query&f=live",
         "articleTitle": "Anthropic",
         "articleTitleJa": "公開トレンド: Anthropic",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-07-03T09:54:25.574Z",
+        "articlePublishedAt": "2026-07-03T12:06:42.019Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -133,13 +134,13 @@
         "appearances": 3,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-07-03T09:54:25.574Z",
+        "observedAt": "2026-07-03T12:06:42.019Z",
         "url": "https://x.com/search?q=AI%E3%81%AE%E5%A4%B1%E6%95%97&src=typed_query&f=live",
         "articleTitle": "AIの失敗",
         "articleTitleJa": "公開トレンド: AIの失敗",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-07-03T09:54:25.574Z",
+        "articlePublishedAt": "2026-07-03T12:06:42.019Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -151,13 +152,13 @@
         "appearances": 3,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-07-03T09:54:25.574Z",
+        "observedAt": "2026-07-03T12:06:42.019Z",
         "url": "https://x.com/search?q=Sam%20Altman%20and%20OpenAI&src=typed_query&f=live",
         "articleTitle": "Sam Altman and OpenAI",
         "articleTitleJa": "公開トレンド: Sam Altman and OpenAI",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-07-03T09:54:25.574Z",
+        "articlePublishedAt": "2026-07-03T12:06:42.019Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -169,7 +170,7 @@
         "appearances": 2,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-07-03T09:54:25.574Z",
+        "observedAt": "2026-07-03T12:06:42.019Z",
         "url": "https://x.com/search?q=Claude%20Fable%205&src=typed_query&f=live",
         "articleTitle": "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
         "articleTitleJa": "商務省はClaude・ファブル5とミトス5の輸出規制を解除した",
@@ -180,10 +181,10 @@
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-07-03T09:54:25.595Z",
+    "fetchedAt": "2026-07-03T12:06:42.036Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-03T09:54:29.596Z"
+    "articleFetchedAt": "2026-07-03T12:06:44.480Z"
   }
 }
