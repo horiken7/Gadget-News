@@ -23,30 +23,10 @@
         ]
       },
       {
-        "title": "Kimi K2.7 Code is generally available in GitHub Copilot",
-        "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/",
-        "points": 121,
-        "comments": 165,
-        "author": "unliftedq",
-        "createdAt": "2026-07-02T04:32:41Z",
-        "domain": "github.blog",
-        "sourceType": "hn",
-        "category": "開発ツール",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "Kimi K2.7コードはGitHub Copilotで一般公開されています",
-        "summaryJa": "この記事は「Kimi K2.7コードはGitHub Copilotで一般公開されています」を扱っています。オープンウェイトモデルであるKimi K2.7 CodeがGitHub Copilotで一般公開されました。これは、Copilotモデルピッカーで選択可能なオプションとして提供される最初のオープンウェイトモデルであり、...。",
-        "keyPoints": [
-          "この記事は「Kimi K2.7コードはGitHub Copilotで一般公開されています」を扱っています。",
-          "オープンウェイトモデルであるKimi K2.7 CodeがGitHub Copilotで一般公開されました。",
-          "これは、Copilotモデルピッカーで選択可能なオプションとして提供される最初のオープンウェイトモデルであり、...。"
-        ]
-      },
-      {
         "title": "OpenAI ‘in early talks to give 5% stake to US government’",
         "url": "https://www.theguardian.com/technology/2026/jul/02/openai-stake-us-government-ai-sam-altman",
         "points": 119,
-        "comments": 136,
+        "comments": 137,
         "author": "tosh",
         "createdAt": "2026-07-02T11:16:31Z",
         "domain": "theguardian.com",
@@ -66,7 +46,7 @@
         "title": "No LLM Code in Dependencies",
         "url": "https://joeyh.name/blog/entry/no_LLM_code_in_dependencies/",
         "points": 98,
-        "comments": 98,
+        "comments": 100,
         "author": "edward",
         "createdAt": "2026-07-02T14:17:23Z",
         "domain": "joeyh.name",
@@ -85,8 +65,8 @@
       {
         "title": "Launch HN: Manufact (YC S25) – MCP Cloud",
         "url": "https://manufact.com",
-        "points": 94,
-        "comments": 62,
+        "points": 95,
+        "comments": 63,
         "author": "pzullo",
         "createdAt": "2026-07-02T15:11:20Z",
         "domain": "manufact.com",
@@ -101,9 +81,29 @@
           "私たちは、MCPアプリとサーバーのクラウドであるManufact （ https://manufact.com ）の共同創設者であるPietroとLuigiです。",
           "以前はmcp - useと呼ばれていましたが、今でもhttps://github.com/mcp-use/mcp-useという名前でMCP用のオープンソースSDKを構築しています。"
         ]
+      },
+      {
+        "title": "Claude-real-video － any LLM can watch a video",
+        "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
+        "points": 91,
+        "comments": 37,
+        "author": "cortexosmain",
+        "createdAt": "2026-07-02T19:10:12Z",
+        "domain": "github.com",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "Claude - real - video -どのLLMでもビデオを見ることができます",
+        "summaryJa": "この記事は「Claude - real - video -どのLLMでもビデオを見ることができます」を扱っています。Claude （または任意のLLM ）に、URLまたはローカルファイルからシーン認識、重複排除フレーム+トランスクリプトのビデオを実際に視聴させます。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "keyPoints": [
+          "この記事は「Claude - real - video -どのLLMでもビデオを見ることができます」を扱っています。",
+          "Claude （または任意のLLM ）に、URLまたはローカルファイルからシーン認識、重複排除フレーム+トランスクリプトのビデオを実際に視聴させます。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+        ]
       }
     ],
-    "fetchedAt": "2026-07-03T02:35:10.208Z",
+    "fetchedAt": "2026-07-03T06:27:57.576Z",
     "mock": false
   },
   "xTrends": {
@@ -115,13 +115,13 @@
         "appearances": 4,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-07-03T02:35:10.143Z",
+        "observedAt": "2026-07-03T06:27:57.511Z",
         "url": "https://x.com/search?q=Anthropic&src=typed_query&f=live",
         "articleTitle": "Anthropic",
         "articleTitleJa": "公開トレンド: Anthropic",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-07-03T02:35:10.143Z",
+        "articlePublishedAt": "2026-07-03T06:27:57.511Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -133,13 +133,13 @@
         "appearances": 3,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-07-03T02:35:10.143Z",
+        "observedAt": "2026-07-03T06:27:57.511Z",
         "url": "https://x.com/search?q=AI%E3%81%AE%E5%A4%B1%E6%95%97&src=typed_query&f=live",
         "articleTitle": "AIの失敗",
         "articleTitleJa": "公開トレンド: AIの失敗",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-07-03T02:35:10.143Z",
+        "articlePublishedAt": "2026-07-03T06:27:57.511Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -151,13 +151,13 @@
         "appearances": 3,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-07-03T02:35:10.143Z",
+        "observedAt": "2026-07-03T06:27:57.511Z",
         "url": "https://x.com/search?q=Sam%20Altman%20and%20OpenAI&src=typed_query&f=live",
         "articleTitle": "Sam Altman and OpenAI",
         "articleTitleJa": "公開トレンド: Sam Altman and OpenAI",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-07-03T02:35:10.143Z",
+        "articlePublishedAt": "2026-07-03T06:27:57.511Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -169,7 +169,7 @@
         "appearances": 2,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-07-03T02:35:10.143Z",
+        "observedAt": "2026-07-03T06:27:57.511Z",
         "url": "https://x.com/search?q=Claude%20Fable%205&src=typed_query&f=live",
         "articleTitle": "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
         "articleTitleJa": "商務省はClaude・ファブル5とミトス5の輸出規制を解除した",
@@ -180,10 +180,10 @@
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-07-03T02:35:10.208Z",
+    "fetchedAt": "2026-07-03T06:27:57.576Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-03T02:35:14.021Z"
+    "articleFetchedAt": "2026-07-03T06:28:00.106Z"
   }
 }
