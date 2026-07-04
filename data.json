@@ -63,31 +63,31 @@
         ]
       },
       {
-        "title": "The only AI glossary you’ll need this year",
-        "url": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+        "title": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
+        "url": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
         "points": 79,
         "comments": 0,
         "author": "",
-        "createdAt": "2026-07-03T21:20:00.000Z",
+        "createdAt": "2026-07-04T18:00:05.000Z",
         "domain": "techcrunch.com",
         "sourceType": "rss",
         "sourceLabel": "TechCrunch AI",
         "newsLens": "一般",
         "category": "AIニュース",
         "impact": "中",
-        "titleJa": "今年必要となる唯一のAI用語集",
-        "summaryJa": "この記事は「今年必要となる唯一のAI用語集」を扱っています。AIの台頭は、新しい用語やスラングの雪崩をもたらしました。ここには、あなたが遭遇する可能性のある最も重要な単語やフレーズの定義が記載された用語集があります。",
+        "titleJa": "Midjourneyは、ハリウッドのスタジオがAIの使用の詳細を明らかにすることを望んでいます",
+        "summaryJa": "この記事は「Midjourneyは、ハリウッドのスタジオがAIの使用の詳細を明らかにすることを望んでいます」を扱っています。ハリウッドの3つのスタジオとの継続的な法的紛争の一環として、MidjourneyはそれらのスタジオがAIをどのように使用しているかを明らかにすることを強制しようとしています。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
-          "この記事は「今年必要となる唯一のAI用語集」を扱っています。",
-          "AIの台頭は、新しい用語やスラングの雪崩をもたらしました。",
-          "ここには、あなたが遭遇する可能性のある最も重要な単語やフレーズの定義が記載された用語集があります。"
+          "この記事は「Midjourneyは、ハリウッドのスタジオがAIの使用の詳細を明らかにすることを望んでいます」を扱っています。",
+          "ハリウッドの3つのスタジオとの継続的な法的紛争の一環として、MidjourneyはそれらのスタジオがAIをどのように使用しているかを明らかにすることを強制しようとしています。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       },
       {
         "title": "New serious vulnerabilities spiked around release of Claude Mythos Preview",
         "url": "https://epoch.ai/data-insights/cve-severity-spike",
         "points": 73,
-        "comments": 64,
+        "comments": 70,
         "author": "cubefox",
         "createdAt": "2026-07-03T21:16:16Z",
         "domain": "epoch.ai",
@@ -104,15 +104,15 @@
         ]
       }
     ],
-    "fetchedAt": "2026-07-04T17:12:08.060Z",
+    "fetchedAt": "2026-07-04T19:05:12.870Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-07-04T17:12:08.060Z",
+    "fetchedAt": "2026-07-04T19:05:12.870Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-04T17:12:08.181Z"
+    "articleFetchedAt": "2026-07-04T19:05:13.074Z"
   }
 }
