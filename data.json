@@ -2,36 +2,16 @@
   "news": {
     "items": [
       {
-        "title": "Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says",
-        "url": "https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03/",
-        "points": 93,
-        "comments": 274,
-        "author": "nsoonhui",
-        "createdAt": "2026-07-03T08:31:37Z",
-        "domain": "reuters.com",
-        "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "情報筋によると、Alibabaはバックドアのリスクの疑いで職場でClaude Codeを禁止するという。",
-        "summaryJa": "この記事は「情報筋によると、Alibabaはバックドアのリスクの疑いで職場でClaude Codeを禁止するという。」を扱っています。reuters.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
-        "keyPoints": [
-          "この記事は「情報筋によると、Alibabaはバックドアのリスクの疑いで職場でClaude Codeを禁止するという。",
-          "reuters.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
-        ]
-      },
-      {
         "title": "Agentic coding notes from Galapagos Island",
         "url": "https://danluu.com/ai-coding/#appendix-agentic-loops-and-writing-this-post",
-        "points": 84,
-        "comments": 20,
+        "points": 92,
+        "comments": 34,
         "author": "gm678",
         "createdAt": "2026-07-04T04:37:15Z",
         "domain": "danluu.com",
         "sourceType": "hn",
         "category": "AIニュース",
-        "impact": "中",
+        "impact": "高",
         "newsLens": "技術",
         "titleJa": "ガラパゴス島のエージェントコーディングノート",
         "summaryJa": "この記事は「ガラパゴス島のエージェントコーディングノート」を扱っています。danluu.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
@@ -63,10 +43,30 @@
         ]
       },
       {
+        "title": "AI First: How the Federal Government Is Prioritizing AI over People and Planet",
+        "url": "https://stopgreedbuildgreen.climateandcommunity.org/posts/ai-first",
+        "points": 75,
+        "comments": 24,
+        "author": "eatox",
+        "createdAt": "2026-07-03T21:21:08Z",
+        "domain": "stopgreedbuildgreen.climateandcommunity.org",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "低",
+        "newsLens": "一般",
+        "titleJa": "AIファースト：連邦政府が人と地球よりもAIを優先している方法",
+        "summaryJa": "この記事は「AIファースト：連邦政府が人と地球よりもAIを優先している方法」を扱っています。データセンターのブームは、州と資本の利益が一致すると、世界を変えるインフラストラクチャが急速に拡大する可能性があることを示しています。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "keyPoints": [
+          "この記事は「AIファースト：連邦政府が人と地球よりもAIを優先している方法」を扱っています。",
+          "データセンターのブームは、州と資本の利益が一致すると、世界を変えるインフラストラクチャが急速に拡大する可能性があることを示しています。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+        ]
+      },
+      {
         "title": "New serious vulnerabilities spiked around release of Claude Mythos Preview",
         "url": "https://epoch.ai/data-insights/cve-severity-spike",
-        "points": 64,
-        "comments": 30,
+        "points": 68,
+        "comments": 32,
         "author": "cubefox",
         "createdAt": "2026-07-03T21:16:16Z",
         "domain": "epoch.ai",
@@ -85,7 +85,7 @@
       {
         "title": "AI saves about 3% of your hours, and almost none of it reaches the money",
         "url": "https://okaneland.com/study/ai-productivity-roi-at-work/",
-        "points": 59,
+        "points": 60,
         "comments": 90,
         "author": "ermantrout",
         "createdAt": "2026-07-03T17:03:22Z",
@@ -103,29 +103,11 @@
         ]
       }
     ],
-    "fetchedAt": "2026-07-04T07:42:44.015Z",
+    "fetchedAt": "2026-07-04T10:05:29.764Z",
     "mock": false
   },
   "xTrends": {
     "items": [
-      {
-        "topic": "AIスタートアップ向け",
-        "locationLabel": "日本",
-        "bestRank": 9,
-        "appearances": 5,
-        "trendSource": "Trends24",
-        "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-07-04T07:42:43.998Z",
-        "url": "https://x.com/search?q=AI%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97%E5%90%91%E3%81%91&src=typed_query&f=live",
-        "articleTitle": "AIスタートアップ向け",
-        "articleTitleJa": "公開トレンド: AIスタートアップ向け",
-        "articleUrl": "https://trends24.in/japan/",
-        "articleSource": "Trends24",
-        "articlePublishedAt": "2026-07-04T07:42:43.998Z",
-        "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
-        "translationVersion": 3,
-        "articleFallback": true
-      },
       {
         "topic": "AI業界全体",
         "locationLabel": "日本",
@@ -133,13 +115,31 @@
         "appearances": 4,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-07-04T07:42:43.998Z",
+        "observedAt": "2026-07-04T10:05:29.648Z",
         "url": "https://x.com/search?q=AI%E6%A5%AD%E7%95%8C%E5%85%A8%E4%BD%93&src=typed_query&f=live",
         "articleTitle": "AI業界全体",
         "articleTitleJa": "公開トレンド: AI業界全体",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-07-04T07:42:43.998Z",
+        "articlePublishedAt": "2026-07-04T10:05:29.648Z",
+        "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
+        "translationVersion": 3,
+        "articleFallback": true
+      },
+      {
+        "topic": "AIスタートアップ向け",
+        "locationLabel": "日本",
+        "bestRank": 9,
+        "appearances": 4,
+        "trendSource": "Trends24",
+        "sourceUrl": "https://trends24.in/japan/",
+        "observedAt": "2026-07-04T10:05:29.648Z",
+        "url": "https://x.com/search?q=AI%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%82%A2%E3%83%83%E3%83%97%E5%90%91%E3%81%91&src=typed_query&f=live",
+        "articleTitle": "AIスタートアップ向け",
+        "articleTitleJa": "公開トレンド: AIスタートアップ向け",
+        "articleUrl": "https://trends24.in/japan/",
+        "articleSource": "Trends24",
+        "articlePublishedAt": "2026-07-04T10:05:29.648Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -151,13 +151,13 @@
         "appearances": 4,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-07-04T07:42:43.998Z",
+        "observedAt": "2026-07-04T10:05:29.648Z",
         "url": "https://x.com/search?q=AI%E3%82%A4%E3%83%B3%E3%83%95%E3%83%A9&src=typed_query&f=live",
         "articleTitle": "AIインフラ",
         "articleTitleJa": "公開トレンド: AIインフラ",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-07-04T07:42:43.998Z",
+        "articlePublishedAt": "2026-07-04T10:05:29.648Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -169,13 +169,13 @@
         "appearances": 3,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-07-04T07:42:43.998Z",
+        "observedAt": "2026-07-04T10:05:29.648Z",
         "url": "https://x.com/search?q=AI%E6%8A%95%E8%B3%87%E3%81%AE%E5%8A%B9%E6%9E%9C&src=typed_query&f=live",
         "articleTitle": "AI投資の効果",
         "articleTitleJa": "公開トレンド: AI投資の効果",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-07-04T07:42:43.998Z",
+        "articlePublishedAt": "2026-07-04T10:05:29.648Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -187,22 +187,22 @@
         "appearances": 3,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-07-04T07:42:43.998Z",
+        "observedAt": "2026-07-04T10:05:29.648Z",
         "url": "https://x.com/search?q=%E5%B0%82%E7%94%A8AI%E3%83%81%E3%83%83%E3%83%97%E3%81%AE%E9%96%8B%E7%99%BA&src=typed_query&f=live",
         "articleTitle": "専用AIチップの開発",
         "articleTitleJa": "公開トレンド: 専用AIチップの開発",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-07-04T07:42:43.998Z",
+        "articlePublishedAt": "2026-07-04T10:05:29.648Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
       }
     ],
-    "fetchedAt": "2026-07-04T07:42:44.015Z",
+    "fetchedAt": "2026-07-04T10:05:29.764Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": false,
-    "articleFetchedAt": "2026-07-04T07:42:45.044Z"
+    "articleFetchedAt": "2026-07-04T10:05:31.381Z"
   }
 }
