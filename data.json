@@ -87,7 +87,7 @@
         "title": "New serious vulnerabilities spiked around release of Claude Mythos Preview",
         "url": "https://epoch.ai/data-insights/cve-severity-spike",
         "points": 73,
-        "comments": 70,
+        "comments": 71,
         "author": "cubefox",
         "createdAt": "2026-07-03T21:16:16Z",
         "domain": "epoch.ai",
@@ -104,15 +104,15 @@
         ]
       }
     ],
-    "fetchedAt": "2026-07-04T19:05:12.870Z",
+    "fetchedAt": "2026-07-04T20:52:36.325Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-07-04T19:05:12.870Z",
+    "fetchedAt": "2026-07-04T20:52:36.325Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-04T19:05:13.074Z"
+    "articleFetchedAt": "2026-07-04T20:52:36.517Z"
   }
 }
