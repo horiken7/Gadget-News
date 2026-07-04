@@ -86,8 +86,8 @@
       {
         "title": "AI has torched the market for junior programmers",
         "url": "https://seldo.com/posts/ai-has-torched-the-market-for-junior-programmers/",
-        "points": 60,
-        "comments": 133,
+        "points": 62,
+        "comments": 148,
         "author": "cdrnsf",
         "createdAt": "2026-07-04T19:50:08Z",
         "domain": "seldo.com",
@@ -104,15 +104,15 @@
         ]
       }
     ],
-    "fetchedAt": "2026-07-04T21:55:47.045Z",
+    "fetchedAt": "2026-07-04T22:55:58.888Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-07-04T21:55:47.045Z",
+    "fetchedAt": "2026-07-04T22:55:58.888Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-04T21:55:47.196Z"
+    "articleFetchedAt": "2026-07-04T22:55:58.997Z"
   }
 }
