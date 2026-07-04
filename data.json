@@ -2,23 +2,23 @@
   "news": {
     "items": [
       {
-        "title": "Agentic coding notes from Galapagos Island",
-        "url": "https://danluu.com/ai-coding/#appendix-agentic-loops-and-writing-this-post",
-        "points": 96,
-        "comments": 51,
-        "author": "gm678",
-        "createdAt": "2026-07-04T04:37:15Z",
-        "domain": "danluu.com",
+        "title": "Meta AI chief says their coming LLM has caught up with OpenAI's flagship model",
+        "url": "https://www.businessinsider.com/meta-ai-model-catches-up-openai-gpt-5-says-2026-7",
+        "points": 93,
+        "comments": 0,
+        "author": "maxloh",
+        "createdAt": "2026-07-03T21:00:18Z",
+        "domain": "businessinsider.com",
         "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "高",
+        "category": "AIモデル",
+        "impact": "低",
         "newsLens": "技術",
-        "titleJa": "ガラパゴス島のエージェントコーディングノート",
-        "summaryJa": "この記事は「ガラパゴス島のエージェントコーディングノート」を扱っています。danluu.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "titleJa": "Meta AIチーフは、彼らの来るべきLLMがOpenAIの主力モデルに追いついたと言います",
+        "summaryJa": "この記事は「Meta AIチーフは、彼らの来るべきLLMがOpenAIの主力モデルに追いついたと言います」を扱っています。Metaのスーパーインテリジェンス責任者は、今後のスイカモデルが主要なAIベンチマークでGPT-5.5と一致するようになったと述べている。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
         "keyPoints": [
-          "この記事は「ガラパゴス島のエージェントコーディングノート」を扱っています。",
-          "danluu.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+          "この記事は「Meta AIチーフは、彼らの来るべきLLMがOpenAIの主力モデルに追いついたと言います」を扱っています。",
+          "Metaのスーパーインテリジェンス責任者は、今後のスイカモデルが主要なAIベンチマークでGPT-5.5と一致するようになったと述べている。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
       },
       {
@@ -45,8 +45,8 @@
       {
         "title": "New serious vulnerabilities spiked around release of Claude Mythos Preview",
         "url": "https://epoch.ai/data-insights/cve-severity-spike",
-        "points": 71,
-        "comments": 46,
+        "points": 73,
+        "comments": 56,
         "author": "cubefox",
         "createdAt": "2026-07-03T21:16:16Z",
         "domain": "epoch.ai",
@@ -83,49 +83,31 @@
         ]
       },
       {
-        "title": "Gemini Code Assist will be shut down on July 17",
-        "url": "https://docs.cloud.google.com/gemini/docs/code-review/review-repo-code",
-        "points": 57,
-        "comments": 50,
-        "author": "ushakov",
-        "createdAt": "2026-07-03T12:52:48Z",
-        "domain": "docs.cloud.google.com",
+        "title": "Claude's Criminally Bad Electron Mac App Is an Inside Job",
+        "url": "https://daringfireball.net/2026/07/claudes_criminally_bad_mac_app_is_an_inside_job",
+        "points": 46,
+        "comments": 9,
+        "author": "GavinAnderegg",
+        "createdAt": "2026-07-04T00:01:23Z",
+        "domain": "daringfireball.net",
         "sourceType": "hn",
         "category": "AIモデル",
-        "impact": "中",
+        "impact": "低",
         "newsLens": "技術",
-        "titleJa": "Gemini Code Assistは7月17日に終了します",
-        "summaryJa": "この記事は「Gemini Code Assistは7月17日に終了します」を扱っています。Gemini Code Assistを使用してプルリクエストを確認します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "titleJa": "Claudeの犯罪的に悪いElectron Macアプリは内部の仕事です",
+        "summaryJa": "この記事は「Claudeの犯罪的に悪いElectron Macアプリは内部の仕事です」を扱っています。フェリックス・リーゼベルクは、なぜClaudeがエレクトロンアプリなのかという疑問に対する答えです。建物のすべてのネジがなぜ壁に打ち込まれたのか疑問に思い、建設を監督していた人物が世界最大のハンマーメーカーを設立し、共同所有していることを知るようなものです。",
         "keyPoints": [
-          "この記事は「Gemini Code Assistは7月17日に終了します」を扱っています。",
-          "Gemini Code Assistを使用してプルリクエストを確認します。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+          "この記事は「Claudeの犯罪的に悪いElectron Macアプリは内部の仕事です」を扱っています。",
+          "フェリックス・リーゼベルクは、なぜClaudeがエレクトロンアプリなのかという疑問に対する答えです。",
+          "建物のすべてのネジがなぜ壁に打ち込まれたのか疑問に思い、建設を監督していた人物が世界最大のハンマーメーカーを設立し、共同所有していることを知るようなものです。"
         ]
       }
     ],
-    "fetchedAt": "2026-07-04T12:04:24.798Z",
+    "fetchedAt": "2026-07-04T14:26:17.216Z",
     "mock": false
   },
   "xTrends": {
     "items": [
-      {
-        "topic": "AI業界全体",
-        "locationLabel": "日本",
-        "bestRank": 3,
-        "appearances": 4,
-        "trendSource": "Trends24",
-        "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-07-04T12:04:24.682Z",
-        "url": "https://x.com/search?q=AI%E6%A5%AD%E7%95%8C%E5%85%A8%E4%BD%93&src=typed_query&f=live",
-        "articleTitle": "AI業界全体",
-        "articleTitleJa": "公開トレンド: AI業界全体",
-        "articleUrl": "https://trends24.in/japan/",
-        "articleSource": "Trends24",
-        "articlePublishedAt": "2026-07-04T12:04:24.682Z",
-        "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
-        "translationVersion": 3,
-        "articleFallback": true
-      },
       {
         "topic": "AI投資の効果",
         "locationLabel": "日本",
@@ -133,13 +115,13 @@
         "appearances": 3,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-07-04T12:04:24.682Z",
+        "observedAt": "2026-07-04T14:26:17.198Z",
         "url": "https://x.com/search?q=AI%E6%8A%95%E8%B3%87%E3%81%AE%E5%8A%B9%E6%9E%9C&src=typed_query&f=live",
         "articleTitle": "AI投資の効果",
         "articleTitleJa": "公開トレンド: AI投資の効果",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-07-04T12:04:24.682Z",
+        "articlePublishedAt": "2026-07-04T14:26:17.198Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -151,13 +133,13 @@
         "appearances": 3,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-07-04T12:04:24.682Z",
+        "observedAt": "2026-07-04T14:26:17.198Z",
         "url": "https://x.com/search?q=%E5%B0%82%E7%94%A8AI%E3%83%81%E3%83%83%E3%83%97%E3%81%AE%E9%96%8B%E7%99%BA&src=typed_query&f=live",
         "articleTitle": "専用AIチップの開発",
         "articleTitleJa": "公開トレンド: 専用AIチップの開発",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-07-04T12:04:24.682Z",
+        "articlePublishedAt": "2026-07-04T14:26:17.198Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -169,22 +151,40 @@
         "appearances": 2,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-07-04T12:04:24.682Z",
+        "observedAt": "2026-07-04T14:26:17.198Z",
         "url": "https://x.com/search?q=%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%A0AI%E3%83%81%E3%83%83%E3%83%97%E3%81%AE%E9%96%8B%E7%99%BA&src=typed_query&f=live",
         "articleTitle": "カスタムAIチップの開発",
         "articleTitleJa": "公開トレンド: カスタムAIチップの開発",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-07-04T12:04:24.682Z",
+        "articlePublishedAt": "2026-07-04T14:26:17.198Z",
+        "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
+        "translationVersion": 3,
+        "articleFallback": true
+      },
+      {
+        "topic": "AI業界全体",
+        "locationLabel": "日本",
+        "bestRank": 8,
+        "appearances": 1,
+        "trendSource": "Trends24",
+        "sourceUrl": "https://trends24.in/japan/",
+        "observedAt": "2026-07-04T14:26:17.198Z",
+        "url": "https://x.com/search?q=AI%E6%A5%AD%E7%95%8C%E5%85%A8%E4%BD%93&src=typed_query&f=live",
+        "articleTitle": "AI業界全体",
+        "articleTitleJa": "公開トレンド: AI業界全体",
+        "articleUrl": "https://trends24.in/japan/",
+        "articleSource": "Trends24",
+        "articlePublishedAt": "2026-07-04T14:26:17.198Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
       }
     ],
-    "fetchedAt": "2026-07-04T12:04:24.798Z",
+    "fetchedAt": "2026-07-04T14:26:17.216Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-04T12:04:25.768Z"
+    "articleFetchedAt": "2026-07-04T14:26:18.281Z"
   }
 }
