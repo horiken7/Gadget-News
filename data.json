@@ -4,8 +4,8 @@
       {
         "title": "Mark Zuckerberg tells staff that AI agents haven't progressed enough",
         "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
-        "points": 120,
-        "comments": 123,
+        "points": 121,
+        "comments": 132,
         "author": "msolujic",
         "createdAt": "2026-07-05T17:05:35Z",
         "domain": "techcrunch.com",
@@ -24,8 +24,8 @@
       {
         "title": "A sociotechnical threat model for AI-driven smart home devices",
         "url": "https://arxiv.org/abs/2602.09239",
-        "points": 108,
-        "comments": 53,
+        "points": 109,
+        "comments": 57,
         "author": "dijksterhuis",
         "createdAt": "2026-07-05T17:05:57Z",
         "domain": "arxiv.org",
@@ -42,78 +42,75 @@
         ]
       },
       {
-        "title": "AI Agent Pulls Off a Ransomware Attack Without Human Help",
-        "url": "https://www.bankinfosecurity.com/ai-agent-pulls-off-ransomware-attack-without-human-help-a-32155",
-        "points": 81,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-07-05T20:30:00Z",
-        "domain": "bankinfosecurity.com",
-        "sourceType": "gdelt",
-        "sourceLabel": "GDELT",
-        "category": "AIニュース",
-        "impact": "中",
+        "title": "Claude Design System Prompt",
+        "url": "https://github.com/Trystan-SA/claude-design-system-prompt",
+        "points": 70,
+        "comments": 31,
+        "author": "handfuloflight",
+        "createdAt": "2026-07-05T08:43:37Z",
+        "domain": "github.com",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "高",
         "newsLens": "技術",
-        "titleJa": "AIエージェントが人間の助けを借りずにランサムウェア攻撃を仕掛ける",
-        "summaryJa": "この記事は「AIエージェントが人間の助けを借りずにランサムウェア攻撃を仕掛ける」を扱っています。bankinfosecurity.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "titleJa": "Claudeデザインシステムプロンプト",
+        "summaryJa": "この記事は「Claudeデザインシステムプロンプト」を扱っています。リバースエンジニアリングされたシステムプロンプトとスキルライブラリにより、LLMを固執し、アクセシビリティを意識し、AIスロップに強い設計コラボレーターに変えます。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
         "keyPoints": [
-          "この記事は「AIエージェントが人間の助けを借りずにランサムウェア攻撃を仕掛ける」を扱っています。",
-          "bankinfosecurity.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "この記事は「Claudeデザインシステムプロンプト」を扱っています。",
+          "リバースエンジニアリングされたシステムプロンプトとスキルライブラリにより、LLMを固執し、アクセシビリティを意識し、AIスロップに強い設計コラボレーターに変えます。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+        ]
+      },
+      {
+        "title": "New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
+        "url": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf",
+        "points": 64,
+        "comments": 56,
+        "author": "jonahbard",
+        "createdAt": "2026-07-05T18:47:43Z",
+        "domain": "intextbooks.science.uu.nl",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "新しいAI講師がダートマスコースで0.71-1.30 SDの効果サイズを達成[pdf]",
+        "summaryJa": "この記事は「新しいAI講師がダートマスコースで0.71-1.30 SDの効果サイズを達成[pdf]」を扱っています。intextbooks.science.uu.nlが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "keyPoints": [
+          "この記事は「新しいAI講師がダートマスコースで0.71-1.30 SDの効果サイズを達成[pdf]」を扱っています。",
+          "intextbooks.science.uu.nlが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
           "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
       },
       {
-        "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
-        "url": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
-        "points": 79,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-07-04T20:55:25.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
+        "title": "Show HN: KiCad in the Browser",
+        "url": "https://demo.pcbjam.com/",
+        "points": 63,
+        "comments": 31,
+        "author": "ViktorEE",
+        "createdAt": "2026-07-05T12:06:57Z",
+        "domain": "demo.pcbjam.com",
+        "sourceType": "hn",
         "category": "AIニュース",
-        "impact": "中",
-        "titleJa": "新しいGoogleコマーシャルは、AIの助けを借りて書かれた独立宣言を想像しています",
-        "summaryJa": "この記事は「新しいGoogleコマーシャルは、AIの助けを借りて書かれた独立宣言を想像しています」を扱っています。独立宣言の署名から250年後、新しいコマーシャルは次のように問いかけています。もし創設者がGoogle Workspaceにアクセスできたとしたら？",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "ブラウザにHN: KiCadを表示",
+        "summaryJa": "この記事は「ブラウザにHN: KiCadを表示」を扱っています。KiCad、PCB EDAスイートは現在ブラウザで動作しています。リンクで試すこともできますし、デモプロジェクトもありますし、独自のものを持参することもできます。",
         "keyPoints": [
-          "この記事は「新しいGoogleコマーシャルは、AIの助けを借りて書かれた独立宣言を想像しています」を扱っています。",
-          "独立宣言の署名から250年後、新しいコマーシャルは次のように問いかけています。",
-          "もし創設者がGoogle Workspaceにアクセスできたとしたら。"
-        ]
-      },
-      {
-        "title": "Australian government warns doctors over AI scribing tools as privacy and safety concerns grow",
-        "url": "https://www.digitaltrends.com/cool-tech/australian-government-warns-doctors-over-ai-scribing-tools-as-privacy-and-safety-concerns-grow/",
-        "points": 79,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-07-05T20:00:00Z",
-        "domain": "digitaltrends.com",
-        "sourceType": "gdelt",
-        "sourceLabel": "GDELT",
-        "category": "AIニュース",
-        "impact": "中",
-        "newsLens": "一般",
-        "titleJa": "オーストラリア政府は、プライバシーと安全性の懸念が高まるにつれて、AIスクライビングツールについて医師に警告",
-        "summaryJa": "この記事は「オーストラリア政府は、プライバシーと安全性の懸念が高まるにつれて、AIスクライビングツールについて医師に警告」を扱っています。オーストラリアは、規制当局が患者のプライバシー、同意、データセキュリティ、および臨床環境における監視の欠如に関する懸念を提起しているため、AI医療書記官を審査しています。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
-        "keyPoints": [
-          "この記事は「オーストラリア政府は、プライバシーと安全性の懸念が高まるにつれて、AIスクライビングツールについて医師に警告」を扱っています。",
-          "オーストラリアは、規制当局が患者のプライバシー、同意、データセキュリティ、および臨床環境における監視の欠如に関する懸念を提起しているため、AI医療書記官を審査しています。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+          "この記事は「ブラウザにHN: KiCadを表示」を扱っています。",
+          "KiCad、PCB EDAスイートは現在ブラウザで動作しています。",
+          "リンクで試すこともできますし、デモプロジェクトもありますし、独自のものを持参することもできます。"
         ]
       }
     ],
-    "fetchedAt": "2026-07-05T20:54:35.656Z",
+    "fetchedAt": "2026-07-05T21:58:06.145Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-07-05T20:54:35.656Z",
+    "fetchedAt": "2026-07-05T21:58:06.145Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-05T20:54:35.767Z"
+    "articleFetchedAt": "2026-07-05T21:58:06.766Z"
   }
 }
