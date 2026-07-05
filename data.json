@@ -2,24 +2,23 @@
   "news": {
     "items": [
       {
-        "title": "Alibaba reportedly bans employees from using Claude Code",
-        "url": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
-        "points": 105,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-07-04T16:32:08.000Z",
+        "title": "Mark Zuckerberg tells staff that AI agents haven't progressed enough",
+        "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
+        "points": 96,
+        "comments": 14,
+        "author": "msolujic",
+        "createdAt": "2026-07-05T17:05:35Z",
         "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
-        "category": "AIモデル",
-        "impact": "高",
-        "titleJa": "アリババは、従業員がClaudeコードを使用することを禁止していると伝えられています",
-        "summaryJa": "この記事は「アリババは、従業員がClaudeコードを使用することを禁止していると伝えられています」を扱っています。Alibabaは、Claude Codeを高リスクソフトウェアとして分類したと伝えられています。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "低",
+        "newsLens": "技術",
+        "titleJa": "マーク・ザッカーバーグは、AIエージェントが十分に進歩していないとスタッフに語っています",
+        "summaryJa": "この記事は「マーク・ザッカーバーグは、AIエージェントが十分に進歩していないとスタッフに語っています」を扱っています。社内ミーティングで、MetaのCEOは、AI開発の取り組みが予想ほど速く進んでいないと述べたと伝えられています。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
         "keyPoints": [
-          "この記事は「アリババは、従業員がClaudeコードを使用することを禁止していると伝えられています」を扱っています。",
-          "Alibabaは、Claude Codeを高リスクソフトウェアとして分類したと伝えられています。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+          "この記事は「マーク・ザッカーバーグは、AIエージェントが十分に進歩していないとスタッフに語っています」を扱っています。",
+          "社内ミーティングで、MetaのCEOは、AI開発の取り組みが予想ほど速く進んでいないと述べたと伝えられています。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
       },
       {
@@ -44,9 +43,30 @@
         ]
       },
       {
+        "title": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
+        "url": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
+        "points": 79,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-07-04T18:00:05.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
+        "category": "AIニュース",
+        "impact": "中",
+        "titleJa": "Midjourneyは、ハリウッドのスタジオがAIの使用の詳細を明らかにすることを望んでいます",
+        "summaryJa": "この記事は「Midjourneyは、ハリウッドのスタジオがAIの使用の詳細を明らかにすることを望んでいます」を扱っています。ハリウッドの3つのスタジオとの継続的な法的紛争の一環として、MidjourneyはそれらのスタジオがAIをどのように使用しているかを明らかにすることを強制しようとしています。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "keyPoints": [
+          "この記事は「Midjourneyは、ハリウッドのスタジオがAIの使用の詳細を明らかにすることを望んでいます」を扱っています。",
+          "ハリウッドの3つのスタジオとの継続的な法的紛争の一環として、MidjourneyはそれらのスタジオがAIをどのように使用しているかを明らかにすることを強制しようとしています。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+        ]
+      },
+      {
         "title": "sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)",
         "url": "https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/",
-        "points": 76,
+        "points": 77,
         "comments": 76,
         "author": "ognyankulev",
         "createdAt": "2026-07-05T06:19:34Z",
@@ -67,7 +87,7 @@
         "title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
         "url": "https://github.com/openai/codex/issues/30364",
         "points": 73,
-        "comments": 133,
+        "comments": 143,
         "author": "maille",
         "createdAt": "2026-07-04T21:51:09Z",
         "domain": "github.com",
@@ -82,56 +102,17 @@
           "要約CODEX TOKEN_COUNTメタデータで集計パターンを見つけました： gpt-5.5応答は正確にreasoning_output_tokens = 516に不均衡に着地し、1034と1552の周りに追加の固定境界スパイクがあります。",
           "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
-      },
-      {
-        "title": "Ford rehires human engineers after AI fails to match quality checks",
-        "url": "https://www.bbc.com/news/articles/cgrkd41n2v9o",
-        "points": 68,
-        "comments": 5,
-        "author": "JumpCrisscross",
-        "createdAt": "2026-07-05T10:42:59Z",
-        "domain": "bbc.com",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "低",
-        "newsLens": "技術",
-        "titleJa": "フォードは、AIが品質チェックに適合しなかった後、人間のエンジニアを再雇用します",
-        "summaryJa": "この記事は「フォードは、AIが品質チェックに適合しなかった後、人間のエンジニアを再雇用します」を扱っています。自動車メーカーは、AIの品質チェックがベテラン技術者のスキルと一致しないことを発見しました。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
-        "keyPoints": [
-          "この記事は「フォードは、AIが品質チェックに適合しなかった後、人間のエンジニアを再雇用します」を扱っています。",
-          "自動車メーカーは、AIの品質チェックがベテラン技術者のスキルと一致しないことを発見しました。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
-        ]
       }
     ],
-    "fetchedAt": "2026-07-05T16:04:16.047Z",
+    "fetchedAt": "2026-07-05T17:59:24.579Z",
     "mock": false
   },
   "xTrends": {
-    "items": [
-      {
-        "topic": "AI投資",
-        "locationLabel": "日本",
-        "bestRank": 11,
-        "appearances": 2,
-        "trendSource": "Trends24",
-        "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-07-05T16:04:15.974Z",
-        "url": "https://x.com/search?q=AI%E6%8A%95%E8%B3%87&src=typed_query&f=live",
-        "articleTitle": "AI投資",
-        "articleTitleJa": "公開トレンド: AI投資",
-        "articleUrl": "https://trends24.in/japan/",
-        "articleSource": "Trends24",
-        "articlePublishedAt": "2026-07-05T16:04:15.974Z",
-        "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
-        "translationVersion": 3,
-        "articleFallback": true
-      }
-    ],
-    "fetchedAt": "2026-07-05T16:04:16.047Z",
+    "items": [],
+    "fetchedAt": "2026-07-05T17:59:24.579Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-05T16:04:16.333Z"
+    "articleFetchedAt": "2026-07-05T17:59:24.688Z"
   }
 }
