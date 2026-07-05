@@ -46,8 +46,8 @@
       {
         "title": "Mouse: Precision Editing Tools for AI Coding Agents",
         "url": "https://hic-ai.com",
-        "points": 75,
-        "comments": 30,
+        "points": 77,
+        "comments": 37,
         "author": "handfuloflight",
         "createdAt": "2026-07-05T05:01:14Z",
         "domain": "hic-ai.com",
@@ -67,7 +67,7 @@
         "title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
         "url": "https://github.com/openai/codex/issues/30364",
         "points": 73,
-        "comments": 89,
+        "comments": 105,
         "author": "maille",
         "createdAt": "2026-07-04T21:51:09Z",
         "domain": "github.com",
@@ -84,27 +84,27 @@
         ]
       },
       {
-        "title": "Australian influencer Lily Jay's tangled web of AI manipulation",
-        "url": "https://www.abc.net.au/news/2026-07-05/lily-jay-foundation-posts-ai-generated-misleading-videos/106866422",
-        "points": 52,
-        "comments": 5,
-        "author": "phs318u",
-        "createdAt": "2026-07-04T21:50:14Z",
-        "domain": "abc.net.au",
+        "title": "sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)",
+        "url": "https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/",
+        "points": 73,
+        "comments": 52,
+        "author": "ognyankulev",
+        "createdAt": "2026-07-05T06:19:34Z",
+        "domain": "simonwillison.net",
         "sourceType": "hn",
-        "category": "AIニュース",
+        "category": "AIモデル",
         "impact": "低",
         "newsLens": "技術",
-        "titleJa": "オーストラリアのインフルエンサー、リリー・ジェイのAI操作の絡み合ったウェブ",
-        "summaryJa": "この記事は「オーストラリアのインフルエンサー、リリー・ジェイのAI操作の絡み合ったウェブ」を扱っています。オンラインで何百万回も視聴されているLily Jay Foundationは、世界中の子供たちを支援していると主張しています。彼女は彼女の仕事のために賞を与えられました。",
+        "titleJa": "sqlite - utils 4.0rc2、主にClaude Fableによって書かれました（約$ 149.25 ）",
+        "summaryJa": "この記事は「sqlite - utils 4.0rc2、主にClaude Fableによって書かれました（約$ 149.25 ）」を扱っています。数週間前にsqlite - utils 4.0rc1リリースについて書いた。Claude・フェイブルのMaxサブスクリプションはあと数日しかないので、次のことを決めました…。",
         "keyPoints": [
-          "この記事は「オーストラリアのインフルエンサー、リリー・ジェイのAI操作の絡み合ったウェブ」を扱っています。",
-          "オンラインで何百万回も視聴されているLily Jay Foundationは、世界中の子供たちを支援していると主張しています。",
-          "彼女は彼女の仕事のために賞を与えられました。"
+          "この記事は「sqlite - utils 4.0rc2、主にClaude Fableによって書かれました（約$ 149.25 ）」を扱っています。",
+          "数週間前にsqlite - utils 4.0rc1リリースについて書いた。",
+          "Claude・フェイブルのMaxサブスクリプションはあと数日しかないので、次のことを決めました…。"
         ]
       }
     ],
-    "fetchedAt": "2026-07-05T07:53:41.179Z",
+    "fetchedAt": "2026-07-05T10:08:16.290Z",
     "mock": false
   },
   "xTrends": {
@@ -116,22 +116,22 @@
         "appearances": 2,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-07-05T07:53:41.162Z",
+        "observedAt": "2026-07-05T10:08:16.201Z",
         "url": "https://x.com/search?q=AI%E6%8A%95%E8%B3%87&src=typed_query&f=live",
         "articleTitle": "AI投資",
         "articleTitleJa": "公開トレンド: AI投資",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-07-05T07:53:41.162Z",
+        "articlePublishedAt": "2026-07-05T10:08:16.201Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
       }
     ],
-    "fetchedAt": "2026-07-05T07:53:41.179Z",
+    "fetchedAt": "2026-07-05T10:08:16.290Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-05T07:53:41.530Z"
+    "articleFetchedAt": "2026-07-05T10:08:16.595Z"
   }
 }
