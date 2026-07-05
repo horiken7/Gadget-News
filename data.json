@@ -46,8 +46,8 @@
       {
         "title": "Mouse: Precision Editing Tools for AI Coding Agents",
         "url": "https://hic-ai.com",
-        "points": 77,
-        "comments": 37,
+        "points": 78,
+        "comments": 40,
         "author": "handfuloflight",
         "createdAt": "2026-07-05T05:01:14Z",
         "domain": "hic-ai.com",
@@ -64,30 +64,10 @@
         ]
       },
       {
-        "title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
-        "url": "https://github.com/openai/codex/issues/30364",
-        "points": 73,
-        "comments": 105,
-        "author": "maille",
-        "createdAt": "2026-07-04T21:51:09Z",
-        "domain": "github.com",
-        "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "GPT-5.5コーデックス推論-トークンクラスタリングは、パフォーマンスの低下につながる可能性があります",
-        "summaryJa": "この記事は「GPT-5.5コーデックス推論-トークンクラスタリングは、パフォーマンスの低下につながる可能性があります」を扱っています。要約CODEX TOKEN_COUNTメタデータで集計パターンを見つけました： gpt-5.5応答は正確にreasoning_output_tokens = 516に不均衡に着地し、1034と1552の周りに追加の固定境界スパイクがあります。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
-        "keyPoints": [
-          "この記事は「GPT-5.5コーデックス推論-トークンクラスタリングは、パフォーマンスの低下につながる可能性があります」を扱っています。",
-          "要約CODEX TOKEN_COUNTメタデータで集計パターンを見つけました： gpt-5.5応答は正確にreasoning_output_tokens = 516に不均衡に着地し、1034と1552の周りに追加の固定境界スパイクがあります。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
-        ]
-      },
-      {
         "title": "sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)",
         "url": "https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/",
-        "points": 73,
-        "comments": 52,
+        "points": 75,
+        "comments": 67,
         "author": "ognyankulev",
         "createdAt": "2026-07-05T06:19:34Z",
         "domain": "simonwillison.net",
@@ -102,9 +82,29 @@
           "数週間前にsqlite - utils 4.0rc1リリースについて書いた。",
           "Claude・フェイブルのMaxサブスクリプションはあと数日しかないので、次のことを決めました…。"
         ]
+      },
+      {
+        "title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
+        "url": "https://github.com/openai/codex/issues/30364",
+        "points": 73,
+        "comments": 116,
+        "author": "maille",
+        "createdAt": "2026-07-04T21:51:09Z",
+        "domain": "github.com",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "GPT-5.5コーデックス推論-トークンクラスタリングは、パフォーマンスの低下につながる可能性があります",
+        "summaryJa": "この記事は「GPT-5.5コーデックス推論-トークンクラスタリングは、パフォーマンスの低下につながる可能性があります」を扱っています。要約CODEX TOKEN_COUNTメタデータで集計パターンを見つけました： gpt-5.5応答は正確にreasoning_output_tokens = 516に不均衡に着地し、1034と1552の周りに追加の固定境界スパイクがあります。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "keyPoints": [
+          "この記事は「GPT-5.5コーデックス推論-トークンクラスタリングは、パフォーマンスの低下につながる可能性があります」を扱っています。",
+          "要約CODEX TOKEN_COUNTメタデータで集計パターンを見つけました： gpt-5.5応答は正確にreasoning_output_tokens = 516に不均衡に着地し、1034と1552の周りに追加の固定境界スパイクがあります。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+        ]
       }
     ],
-    "fetchedAt": "2026-07-05T10:08:16.290Z",
+    "fetchedAt": "2026-07-05T12:13:01.631Z",
     "mock": false
   },
   "xTrends": {
@@ -116,22 +116,22 @@
         "appearances": 2,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-07-05T10:08:16.201Z",
+        "observedAt": "2026-07-05T12:13:01.614Z",
         "url": "https://x.com/search?q=AI%E6%8A%95%E8%B3%87&src=typed_query&f=live",
         "articleTitle": "AI投資",
         "articleTitleJa": "公開トレンド: AI投資",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-07-05T10:08:16.201Z",
+        "articlePublishedAt": "2026-07-05T12:13:01.614Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
       }
     ],
-    "fetchedAt": "2026-07-05T10:08:16.290Z",
+    "fetchedAt": "2026-07-05T12:13:01.631Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-05T10:08:16.595Z"
+    "articleFetchedAt": "2026-07-05T12:13:02.029Z"
   }
 }
