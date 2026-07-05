@@ -47,7 +47,7 @@
         "title": "Mouse: Precision Editing Tools for AI Coding Agents",
         "url": "https://hic-ai.com",
         "points": 78,
-        "comments": 40,
+        "comments": 43,
         "author": "handfuloflight",
         "createdAt": "2026-07-05T05:01:14Z",
         "domain": "hic-ai.com",
@@ -66,8 +66,8 @@
       {
         "title": "sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)",
         "url": "https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/",
-        "points": 75,
-        "comments": 67,
+        "points": 76,
+        "comments": 73,
         "author": "ognyankulev",
         "createdAt": "2026-07-05T06:19:34Z",
         "domain": "simonwillison.net",
@@ -87,7 +87,7 @@
         "title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
         "url": "https://github.com/openai/codex/issues/30364",
         "points": 73,
-        "comments": 116,
+        "comments": 124,
         "author": "maille",
         "createdAt": "2026-07-04T21:51:09Z",
         "domain": "github.com",
@@ -104,7 +104,7 @@
         ]
       }
     ],
-    "fetchedAt": "2026-07-05T12:13:01.631Z",
+    "fetchedAt": "2026-07-05T14:38:13.951Z",
     "mock": false
   },
   "xTrends": {
@@ -116,22 +116,22 @@
         "appearances": 2,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-07-05T12:13:01.614Z",
+        "observedAt": "2026-07-05T14:38:13.919Z",
         "url": "https://x.com/search?q=AI%E6%8A%95%E8%B3%87&src=typed_query&f=live",
         "articleTitle": "AI投資",
         "articleTitleJa": "公開トレンド: AI投資",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-07-05T12:13:01.614Z",
+        "articlePublishedAt": "2026-07-05T14:38:13.919Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
       }
     ],
-    "fetchedAt": "2026-07-05T12:13:01.631Z",
+    "fetchedAt": "2026-07-05T14:38:13.951Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-05T12:13:02.029Z"
+    "articleFetchedAt": "2026-07-05T14:38:14.327Z"
   }
 }
