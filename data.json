@@ -4,7 +4,7 @@
       {
         "title": "If you use Google, you’re training its AI. Here’s how to opt out.",
         "url": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/",
-        "points": 133,
+        "points": 125,
         "comments": 0,
         "author": "",
         "createdAt": "2026-07-06T17:04:58.000Z",
@@ -15,44 +15,45 @@
         "category": "AIニュース",
         "impact": "高",
         "titleJa": "Googleを使用している場合は、AIをトレーニングしていることになります。配信を停止する方法は次のとおりです。",
-        "summaryJa": "この記事は「Googleを使用している場合は、AIをトレーニングしていることになります。配信を停止する方法は次のとおりです。」を扱っています。PSA ： Googleのプライバシー設定を変更すると、より多くのデータでAIをトレーニングできるようになります。配信を停止する方法は次のとおりです。",
+        "summaryJa": "この記事は「Googleを使用している場合は、AIをトレーニングしていることになります。配信を停止する方法は次のとおりです。」を扱っています。これを遅れたPSAと見なす： Googleのプライバシー設定の最近の変更により、同社はAIモデルを改善するために、「画像、ファイル、音声およびビデオ録画」などのメディアを含むより多くのデータを保存できるようになりました。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
           "この記事は「Googleを使用している場合は、AIをトレーニングしていることになります。",
           "配信を停止する方法は次のとおりです。",
-          "PSA ： Googleのプライバシー設定を変更すると、より多くのデータでAIをトレーニングできるようになります。"
+          "これを遅れたPSAと見なす： Googleのプライバシー設定の最近の変更により、同社はAIモデルを改善するために、「画像、ファイル、音声およびビデオ録画」などのメディアを含むより多くのデータを保存できるようになりました。"
         ]
       },
       {
-        "title": "Big Tech Has Suddenly Flipped on the AI Jobs Wipeout Scenario",
-        "url": "https://www.wsj.com/tech/ai/ai-workers-tech-ceos-job-losses-afc71e15",
-        "points": 108,
-        "comments": 91,
-        "author": "Brajeshwar",
-        "createdAt": "2026-07-06T17:16:41Z",
-        "domain": "wsj.com",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "中",
+        "title": "Microsoft lays off nearly 5,000 employees across Xbox, commercial sales",
+        "url": "https://techcrunch.com/2026/07/06/microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales/",
+        "points": 105,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-07-06T15:32:43.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
         "newsLens": "一般",
-        "titleJa": "ビッグテックは突然、AIジョブの一掃シナリオを反転させました",
-        "summaryJa": "この記事は「ビッグテックは突然、AIジョブの一掃シナリオを反転させました」を扱っています。wsj.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "category": "AIニュース",
+        "impact": "高",
+        "titleJa": "マイクロソフト、Xbox全体で5,000人近くの従業員を解雇、商用販売",
+        "summaryJa": "この記事は「マイクロソフト、Xbox全体で5,000人近くの従業員を解雇、商用販売」を扱っています。マイクロソフトは月曜日に約4,800人の職を削減し、世界の従業員の2.1 ％を削減した。これは、AIが雇用を置き換えるという懸念を引き起こしている一連のレイオフの最新のものだ。",
         "keyPoints": [
-          "この記事は「ビッグテックは突然、AIジョブの一掃シナリオを反転させました」を扱っています。",
-          "wsj.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+          "この記事は「マイクロソフト、Xbox全体で5,000人近くの従業員を解雇、商用販売」を扱っています。",
+          "マイクロソフトは月曜日に約4,800人の職を削減し、世界の従業員の2.1 ％を削減した。",
+          "これは、AIが雇用を置き換えるという懸念を引き起こしている一連のレイオフの最新のものだ。"
         ]
       },
       {
         "title": "OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files",
         "url": "https://github.com/iOfficeAI/OfficeCLI",
-        "points": 86,
-        "comments": 16,
+        "points": 90,
+        "comments": 25,
         "author": "maxloh",
         "createdAt": "2026-07-06T16:47:44Z",
         "domain": "github.com",
         "sourceType": "hn",
         "category": "AIニュース",
-        "impact": "中",
+        "impact": "高",
         "newsLens": "技術",
         "titleJa": "OfficeCLI: AIエージェントがMicrosoft Officeファイルを読み取り、編集するためのOfficeスイート",
         "summaryJa": "この記事は「OfficeCLI: AIエージェントがMicrosoft Officeファイルを読み取り、編集するためのOfficeスイート」を扱っています。OfficeCLIは、AIエージェントがWord、Excel、PowerPointファイルを読み取り、編集し、自動化するために設計された最初で最高のOfficeスイートです。無料、オープンソース、シングルバイナリ、Officeインストール不要。",
@@ -66,7 +67,7 @@
         "title": "Anthropic's Method to Losing Goodwill in a Few Easy Steps",
         "url": "https://raheeljunaid.com/blog/anthropics-method-to-losing-goodwill-in-a-few-easy-steps/",
         "points": 73,
-        "comments": 178,
+        "comments": 180,
         "author": "raheelrjunaid",
         "createdAt": "2026-07-06T12:37:06Z",
         "domain": "raheeljunaid.com",
@@ -86,7 +87,7 @@
         "title": "Al Vigier: Canada's AI strategy shouldn't include secret Palantir bills",
         "url": "https://www.readtheline.ca/p/al-vigier-canadas-ai-strategy-shouldnt",
         "points": 73,
-        "comments": 73,
+        "comments": 74,
         "author": "ClearwayLaw",
         "createdAt": "2026-07-06T00:04:48Z",
         "domain": "readtheline.ca",
@@ -103,15 +104,15 @@
         ]
       }
     ],
-    "fetchedAt": "2026-07-06T20:50:33.206Z",
+    "fetchedAt": "2026-07-06T22:10:59.679Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-07-06T20:50:33.206Z",
+    "fetchedAt": "2026-07-06T22:10:59.679Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-06T20:50:33.330Z"
+    "articleFetchedAt": "2026-07-06T22:10:59.786Z"
   }
 }
