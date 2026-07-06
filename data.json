@@ -2,29 +2,49 @@
   "news": {
     "items": [
       {
-        "title": "New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
-        "url": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf",
+        "title": "GPT-5.6 Sol Ultra will be in Codex",
+        "url": "https://twitter.com/thsottiaux/status/2073933490513752151",
         "points": 73,
-        "comments": 80,
-        "author": "jonahbard",
-        "createdAt": "2026-07-05T18:47:43Z",
-        "domain": "intextbooks.science.uu.nl",
+        "comments": 150,
+        "author": "mfiguiere",
+        "createdAt": "2026-07-06T01:04:03Z",
+        "domain": "twitter.com",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "GPT-5.6ソルウルトラがコーデックスに登場",
+        "summaryJa": "この記事は「GPT-5.6ソルウルトラがコーデックスに登場」を扱っています。twitter.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "keyPoints": [
+          "この記事は「GPT-5.6ソルウルトラがコーデックスに登場」を扱っています。",
+          "twitter.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+        ]
+      },
+      {
+        "title": "Al Vigier: Canada's AI strategy shouldn't include secret Palantir bills",
+        "url": "https://www.readtheline.ca/p/al-vigier-canadas-ai-strategy-shouldnt",
+        "points": 73,
+        "comments": 58,
+        "author": "ClearwayLaw",
+        "createdAt": "2026-07-06T00:04:48Z",
+        "domain": "readtheline.ca",
         "sourceType": "hn",
         "category": "AIニュース",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "新しいAI講師がダートマスコースで0.71-1.30 SDの効果サイズを達成[pdf]",
-        "summaryJa": "この記事は「新しいAI講師がダートマスコースで0.71-1.30 SDの効果サイズを達成[pdf]」を扱っています。intextbooks.science.uu.nlが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "titleJa": "Al Vigier ：カナダのAI戦略には、秘密のPalantir法案を含めるべきではありません",
+        "summaryJa": "この記事は「Al Vigier ：カナダのAI戦略には、秘密のPalantir法案を含めるべきではありません」を扱っています。代わりに、国内製品を購入し、オープンにしてください。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
         "keyPoints": [
-          "この記事は「新しいAI講師がダートマスコースで0.71-1.30 SDの効果サイズを達成[pdf]」を扱っています。",
-          "intextbooks.science.uu.nlが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "この記事は「Al Vigier ：カナダのAI戦略には、秘密のPalantir法案を含めるべきではありません」を扱っています。",
+          "代わりに、国内製品を購入し、オープンにしてください。",
           "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
       },
       {
         "title": "Claude Design System Prompt",
         "url": "https://github.com/Trystan-SA/claude-design-system-prompt",
-        "points": 70,
+        "points": 71,
         "comments": 31,
         "author": "handfuloflight",
         "createdAt": "2026-07-05T08:43:37Z",
@@ -44,7 +64,7 @@
       {
         "title": "Show HN: KiCad in the Browser",
         "url": "https://demo.pcbjam.com/",
-        "points": 65,
+        "points": 66,
         "comments": 32,
         "author": "ViktorEE",
         "createdAt": "2026-07-05T12:06:57Z",
@@ -62,55 +82,35 @@
         ]
       },
       {
-        "title": "Al Vigier: Canada's AI strategy shouldn't include secret Palantir bills",
-        "url": "https://www.readtheline.ca/p/al-vigier-canadas-ai-strategy-shouldnt",
-        "points": 64,
-        "comments": 32,
-        "author": "ClearwayLaw",
-        "createdAt": "2026-07-06T00:04:48Z",
-        "domain": "readtheline.ca",
+        "title": "New Microsoft 365 pricing live, some products up by 42% due to AI",
+        "url": "https://www.windowslatest.com/2026/07/05/microsoft-365-just-got-a-price-hike-over-continuous-innovation-but-copilot-is-the-ai-tax-on-businesses/",
+        "points": 51,
+        "comments": 28,
+        "author": "ninko",
+        "createdAt": "2026-07-05T21:58:20Z",
+        "domain": "windowslatest.com",
         "sourceType": "hn",
         "category": "AIニュース",
-        "impact": "高",
+        "impact": "低",
         "newsLens": "技術",
-        "titleJa": "Al Vigier ：カナダのAI戦略には、秘密のPalantir法案を含めるべきではありません",
-        "summaryJa": "この記事は「Al Vigier ：カナダのAI戦略には、秘密のPalantir法案を含めるべきではありません」を扱っています。代わりに、国内製品を購入し、オープンにしてください。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "titleJa": "新しいMicrosoft 365の価格はライブで、一部の製品はAIのおかげで42 ％上昇",
+        "summaryJa": "この記事は「新しいMicrosoft 365の価格はライブで、一部の製品はAIのおかげで42 ％上昇」を扱っています。Microsoft 365の値上げは2026年7月1日にヒットし、MicrosoftがCopilotとSecurity Copilotを有料ランクにバンドルするにつれて最大43 ％増加しました。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
         "keyPoints": [
-          "この記事は「Al Vigier ：カナダのAI戦略には、秘密のPalantir法案を含めるべきではありません」を扱っています。",
-          "代わりに、国内製品を購入し、オープンにしてください。",
+          "この記事は「新しいMicrosoft 365の価格はライブで、一部の製品はAIのおかげで42 ％上昇」を扱っています。",
+          "Microsoft 365の値上げは2026年7月1日にヒットし、MicrosoftがCopilotとSecurity Copilotを有料ランクにバンドルするにつれて最大43 ％増加しました。",
           "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
-        ]
-      },
-      {
-        "title": "GPT-5.6 Sol Ultra will be in Codex",
-        "url": "https://twitter.com/thsottiaux/status/2073933490513752151",
-        "points": 59,
-        "comments": 30,
-        "author": "mfiguiere",
-        "createdAt": "2026-07-06T01:04:03Z",
-        "domain": "twitter.com",
-        "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "中",
-        "newsLens": "技術",
-        "titleJa": "GPT-5.6ソルウルトラがコーデックスに登場",
-        "summaryJa": "この記事は「GPT-5.6ソルウルトラがコーデックスに登場」を扱っています。@ haider 1 Ultraはコーデックスになります。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
-        "keyPoints": [
-          "この記事は「GPT-5.6ソルウルトラがコーデックスに登場」を扱っています。",
-          "@ haider 1 Ultraはコーデックスになります。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
       }
     ],
-    "fetchedAt": "2026-07-06T02:47:43.203Z",
+    "fetchedAt": "2026-07-06T07:08:52.415Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-07-06T02:47:43.203Z",
+    "fetchedAt": "2026-07-06T07:08:52.415Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-06T02:47:43.310Z"
+    "articleFetchedAt": "2026-07-06T07:08:52.505Z"
   }
 }
