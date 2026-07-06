@@ -2,10 +2,51 @@
   "news": {
     "items": [
       {
+        "title": "Microsoft lays off nearly 5,000 employees across Xbox, commercial sales",
+        "url": "https://techcrunch.com/2026/07/06/microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales/",
+        "points": 105,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-07-06T15:32:43.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
+        "category": "AIニュース",
+        "impact": "高",
+        "titleJa": "マイクロソフト、Xbox全体で5,000人近くの従業員を解雇、商用販売",
+        "summaryJa": "この記事は「マイクロソフト、Xbox全体で5,000人近くの従業員を解雇、商用販売」を扱っています。マイクロソフトは月曜日に約4,800人の職を削減し、世界の従業員の2.1 ％を削減した。これは、AIが雇用を置き換えるという懸念を引き起こしている一連のレイオフの最新のものだ。",
+        "keyPoints": [
+          "この記事は「マイクロソフト、Xbox全体で5,000人近くの従業員を解雇、商用販売」を扱っています。",
+          "マイクロソフトは月曜日に約4,800人の職を削減し、世界の従業員の2.1 ％を削減した。",
+          "これは、AIが雇用を置き換えるという懸念を引き起こしている一連のレイオフの最新のものだ。"
+        ]
+      },
+      {
+        "title": "Anthropic's Method to Losing Goodwill in a Few Easy Steps",
+        "url": "https://raheeljunaid.com/blog/anthropics-method-to-losing-goodwill-in-a-few-easy-steps/",
+        "points": 73,
+        "comments": 148,
+        "author": "raheelrjunaid",
+        "createdAt": "2026-07-06T12:37:06Z",
+        "domain": "raheeljunaid.com",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "わずかなステップで善意を失うアントロピックの方法",
+        "summaryJa": "この記事は「わずかなステップで善意を失うアントロピックの方法」を扱っています。raheeljunaid.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "keyPoints": [
+          "この記事は「わずかなステップで善意を失うアントロピックの方法」を扱っています。",
+          "raheeljunaid.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+        ]
+      },
+      {
         "title": "Al Vigier: Canada's AI strategy shouldn't include secret Palantir bills",
         "url": "https://www.readtheline.ca/p/al-vigier-canadas-ai-strategy-shouldnt",
         "points": 73,
-        "comments": 69,
+        "comments": 72,
         "author": "ClearwayLaw",
         "createdAt": "2026-07-06T00:04:48Z",
         "domain": "readtheline.ca",
@@ -22,95 +63,56 @@
         ]
       },
       {
-        "title": "When AI Costs More Than the Engineer",
-        "url": "https://tomtunguz.com/ai-spend-breakeven-2029/",
-        "points": 68,
-        "comments": 95,
-        "author": "kiyanwang",
-        "createdAt": "2026-07-06T07:05:25Z",
-        "domain": "tomtunguz.com",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "AIがエンジニアよりもコストがかかる場合",
-        "summaryJa": "この記事は「AIがエンジニアよりもコストがかかる場合」を扱っています。Anthropicは計算に2.3倍の給与を費やしています。トップソフトウェア企業の支出は0.4倍です。",
-        "keyPoints": [
-          "この記事は「AIがエンジニアよりもコストがかかる場合」を扱っています。",
-          "Anthropicは計算に2.3倍の給与を費やしています。",
-          "トップソフトウェア企業の支出は0.4倍です。"
-        ]
-      },
-      {
-        "title": "Show HN: KiCad in the Browser",
-        "url": "https://demo.pcbjam.com/",
-        "points": 67,
-        "comments": 32,
-        "author": "ViktorEE",
-        "createdAt": "2026-07-05T12:06:57Z",
-        "domain": "demo.pcbjam.com",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "ブラウザにHN: KiCadを表示",
-        "summaryJa": "この記事は「ブラウザにHN: KiCadを表示」を扱っています。KiCad、PCB EDAスイートは現在ブラウザで動作しています。リンクで試すこともできますし、デモプロジェクトもありますし、独自のものを持参することもできます。",
-        "keyPoints": [
-          "この記事は「ブラウザにHN: KiCadを表示」を扱っています。",
-          "KiCad、PCB EDAスイートは現在ブラウザで動作しています。",
-          "リンクで試すこともできますし、デモプロジェクトもありますし、独自のものを持参することもできます。"
-        ]
-      },
-      {
-        "title": "New Microsoft 365 pricing live, some products up by 42% due to AI",
-        "url": "https://www.windowslatest.com/2026/07/05/microsoft-365-just-got-a-price-hike-over-continuous-innovation-but-copilot-is-the-ai-tax-on-businesses/",
-        "points": 52,
-        "comments": 29,
-        "author": "ninko",
-        "createdAt": "2026-07-05T21:58:20Z",
-        "domain": "windowslatest.com",
+        "title": "AMD Ryzen AI Halo – $4k AI Dev Kit",
+        "url": "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo",
+        "points": 54,
+        "comments": 51,
+        "author": "LabsLucas",
+        "createdAt": "2026-07-06T15:01:18Z",
+        "domain": "lttlabs.com",
         "sourceType": "hn",
         "category": "AIニュース",
         "impact": "低",
         "newsLens": "技術",
-        "titleJa": "新しいMicrosoft 365の価格はライブで、一部の製品はAIのおかげで42 ％上昇",
-        "summaryJa": "この記事は「新しいMicrosoft 365の価格はライブで、一部の製品はAIのおかげで42 ％上昇」を扱っています。Microsoft 365の値上げは2026年7月1日にヒットし、MicrosoftがCopilotとSecurity Copilotを有料ランクにバンドルするにつれて最大43 ％増加しました。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "titleJa": "AMD Ryzen AI Halo – $ 4,000 AI開発キット",
+        "summaryJa": "この記事は「AMD Ryzen AI Halo – $ 4,000 AI開発キット」を扱っています。lttlabs.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
         "keyPoints": [
-          "この記事は「新しいMicrosoft 365の価格はライブで、一部の製品はAIのおかげで42 ％上昇」を扱っています。",
-          "Microsoft 365の値上げは2026年7月1日にヒットし、MicrosoftがCopilotとSecurity Copilotを有料ランクにバンドルするにつれて最大43 ％増加しました。",
+          "この記事は「AMD Ryzen AI Halo – $ 4,000 AI開発キット」を扱っています。",
+          "lttlabs.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
           "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
       },
       {
-        "title": "Show HN: I hated how much my 12-year-old played Roblox, so we built our own FPS",
-        "url": "https://cooked.house",
-        "points": 47,
-        "comments": 7,
-        "author": "davitb",
-        "createdAt": "2026-07-05T17:14:45Z",
-        "domain": "cooked.house",
-        "sourceType": "hn",
+        "title": "Station F ramps up as a launchpad for Europe’s hottest AI startups",
+        "url": "https://techcrunch.com/2026/07/06/station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups/",
+        "points": 39,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-07-06T13:00:00.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
         "category": "AIニュース",
         "impact": "低",
-        "newsLens": "技術",
-        "titleJa": "ショーHN ：私は12歳の子供がRobloxをどれだけプレイしたかが大嫌いだったので、私たちは独自のFPSを構築しました",
-        "summaryJa": "この記事は「ショーHN ：私は12歳の子供がRobloxをどれだけプレイしたかが大嫌いだったので、私たちは独自のFPSを構築しました」を扱っています。彼らはRoblox、特にライバルに夢中です。多くの親のように、私たちはそれを愛していませんでした。",
+        "titleJa": "ヨーロッパで最もホットなAIスタートアップのためのランチパッドとしてステーションFが登場",
+        "summaryJa": "この記事は「ヨーロッパで最もホットなAIスタートアップのためのランチパッドとしてステーションFが登場」を扱っています。フランスの億万長者Xavier Nielによって設立されたパリに拠点を置くスタートアップハブであるStation Fは、有望なAIスタートアップの足がかりとしての地位を強化するために、F/aiアクセラレータプログラムの新版に向けて準備を進めている。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
-          "この記事は「ショーHN ：私は12歳の子供がRobloxをどれだけプレイしたかが大嫌いだったので、私たちは独自のFPSを構築しました」を扱っています。",
-          "彼らはRoblox、特にライバルに夢中です。",
-          "多くの親のように、私たちはそれを愛していませんでした。"
+          "この記事は「ヨーロッパで最もホットなAIスタートアップのためのランチパッドとしてステーションFが登場」を扱っています。",
+          "フランスの億万長者Xavier Nielによって設立されたパリに拠点を置くスタートアップハブであるStation Fは、有望なAIスタートアップの足がかりとしての地位を強化するために、F/aiアクセラレータプログラムの新版に向けて準備を進めている。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       }
     ],
-    "fetchedAt": "2026-07-06T12:00:58.004Z",
+    "fetchedAt": "2026-07-06T16:17:31.043Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-07-06T12:00:58.004Z",
+    "fetchedAt": "2026-07-06T16:17:31.043Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-06T12:00:58.170Z"
+    "articleFetchedAt": "2026-07-06T16:17:31.308Z"
   }
 }
