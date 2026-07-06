@@ -2,43 +2,23 @@
   "news": {
     "items": [
       {
-        "title": "Mark Zuckerberg tells staff that AI agents haven't progressed enough",
-        "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
-        "points": 121,
-        "comments": 133,
-        "author": "msolujic",
-        "createdAt": "2026-07-05T17:05:35Z",
-        "domain": "techcrunch.com",
+        "title": "New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
+        "url": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf",
+        "points": 73,
+        "comments": 80,
+        "author": "jonahbard",
+        "createdAt": "2026-07-05T18:47:43Z",
+        "domain": "intextbooks.science.uu.nl",
         "sourceType": "hn",
         "category": "AIニュース",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "マーク・ザッカーバーグは、AIエージェントが十分に進歩していないとスタッフに語っています",
-        "summaryJa": "この記事は「マーク・ザッカーバーグは、AIエージェントが十分に進歩していないとスタッフに語っています」を扱っています。社内ミーティングで、MetaのCEOは、AI開発の取り組みが予想ほど速く進んでいないと述べたと伝えられています。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "titleJa": "新しいAI講師がダートマスコースで0.71-1.30 SDの効果サイズを達成[pdf]",
+        "summaryJa": "この記事は「新しいAI講師がダートマスコースで0.71-1.30 SDの効果サイズを達成[pdf]」を扱っています。intextbooks.science.uu.nlが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
         "keyPoints": [
-          "この記事は「マーク・ザッカーバーグは、AIエージェントが十分に進歩していないとスタッフに語っています」を扱っています。",
-          "社内ミーティングで、MetaのCEOは、AI開発の取り組みが予想ほど速く進んでいないと述べたと伝えられています。",
+          "この記事は「新しいAI講師がダートマスコースで0.71-1.30 SDの効果サイズを達成[pdf]」を扱っています。",
+          "intextbooks.science.uu.nlが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
           "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
-        ]
-      },
-      {
-        "title": "A sociotechnical threat model for AI-driven smart home devices",
-        "url": "https://arxiv.org/abs/2602.09239",
-        "points": 109,
-        "comments": 60,
-        "author": "dijksterhuis",
-        "createdAt": "2026-07-05T17:05:57Z",
-        "domain": "arxiv.org",
-        "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "中",
-        "newsLens": "技術",
-        "titleJa": "AI駆動型スマートホームデバイスの社会技術的脅威モデル",
-        "summaryJa": "この記事は「AI駆動型スマートホームデバイスの社会技術的脅威モデル」を扱っています。ArXiv論文2602.09239のアブストラクトページ：「これらのカメラはサウロンの目に似ている」：英国に拠点を置く家庭内労働者が認識するAI駆動型スマートホームデバイスの社会技術的脅威モデル。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
-        "keyPoints": [
-          "この記事は「AI駆動型スマートホームデバイスの社会技術的脅威モデル」を扱っています。",
-          "ArXiv論文2602.09239のアブストラクトページ：「これらのカメラはサウロンの目に似ている」：英国に拠点を置く家庭内労働者が認識するAI駆動型スマートホームデバイスの社会技術的脅威モデル。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
       },
       {
@@ -62,30 +42,10 @@
         ]
       },
       {
-        "title": "New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
-        "url": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf",
-        "points": 68,
-        "comments": 70,
-        "author": "jonahbard",
-        "createdAt": "2026-07-05T18:47:43Z",
-        "domain": "intextbooks.science.uu.nl",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "新しいAI講師がダートマスコースで0.71-1.30 SDの効果サイズを達成[pdf]",
-        "summaryJa": "この記事は「新しいAI講師がダートマスコースで0.71-1.30 SDの効果サイズを達成[pdf]」を扱っています。intextbooks.science.uu.nlが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
-        "keyPoints": [
-          "この記事は「新しいAI講師がダートマスコースで0.71-1.30 SDの効果サイズを達成[pdf]」を扱っています。",
-          "intextbooks.science.uu.nlが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
-        ]
-      },
-      {
         "title": "Show HN: KiCad in the Browser",
         "url": "https://demo.pcbjam.com/",
-        "points": 63,
-        "comments": 31,
+        "points": 65,
+        "comments": 32,
         "author": "ViktorEE",
         "createdAt": "2026-07-05T12:06:57Z",
         "domain": "demo.pcbjam.com",
@@ -100,17 +60,57 @@
           "KiCad、PCB EDAスイートは現在ブラウザで動作しています。",
           "リンクで試すこともできますし、デモプロジェクトもありますし、独自のものを持参することもできます。"
         ]
+      },
+      {
+        "title": "Al Vigier: Canada's AI strategy shouldn't include secret Palantir bills",
+        "url": "https://www.readtheline.ca/p/al-vigier-canadas-ai-strategy-shouldnt",
+        "points": 64,
+        "comments": 32,
+        "author": "ClearwayLaw",
+        "createdAt": "2026-07-06T00:04:48Z",
+        "domain": "readtheline.ca",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "Al Vigier ：カナダのAI戦略には、秘密のPalantir法案を含めるべきではありません",
+        "summaryJa": "この記事は「Al Vigier ：カナダのAI戦略には、秘密のPalantir法案を含めるべきではありません」を扱っています。代わりに、国内製品を購入し、オープンにしてください。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "keyPoints": [
+          "この記事は「Al Vigier ：カナダのAI戦略には、秘密のPalantir法案を含めるべきではありません」を扱っています。",
+          "代わりに、国内製品を購入し、オープンにしてください。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+        ]
+      },
+      {
+        "title": "GPT-5.6 Sol Ultra will be in Codex",
+        "url": "https://twitter.com/thsottiaux/status/2073933490513752151",
+        "points": 59,
+        "comments": 30,
+        "author": "mfiguiere",
+        "createdAt": "2026-07-06T01:04:03Z",
+        "domain": "twitter.com",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "中",
+        "newsLens": "技術",
+        "titleJa": "GPT-5.6ソルウルトラがコーデックスに登場",
+        "summaryJa": "この記事は「GPT-5.6ソルウルトラがコーデックスに登場」を扱っています。@ haider 1 Ultraはコーデックスになります。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "keyPoints": [
+          "この記事は「GPT-5.6ソルウルトラがコーデックスに登場」を扱っています。",
+          "@ haider 1 Ultraはコーデックスになります。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+        ]
       }
     ],
-    "fetchedAt": "2026-07-05T23:03:58.386Z",
+    "fetchedAt": "2026-07-06T02:47:43.203Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-07-05T23:03:58.386Z",
+    "fetchedAt": "2026-07-06T02:47:43.203Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-05T23:03:58.610Z"
+    "articleFetchedAt": "2026-07-06T02:47:43.310Z"
   }
 }
