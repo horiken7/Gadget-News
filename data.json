@@ -2,30 +2,10 @@
   "news": {
     "items": [
       {
-        "title": "GPT-5.6 Sol Ultra will be in Codex",
-        "url": "https://twitter.com/thsottiaux/status/2073933490513752151",
-        "points": 73,
-        "comments": 150,
-        "author": "mfiguiere",
-        "createdAt": "2026-07-06T01:04:03Z",
-        "domain": "twitter.com",
-        "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "GPT-5.6ソルウルトラがコーデックスに登場",
-        "summaryJa": "この記事は「GPT-5.6ソルウルトラがコーデックスに登場」を扱っています。twitter.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
-        "keyPoints": [
-          "この記事は「GPT-5.6ソルウルトラがコーデックスに登場」を扱っています。",
-          "twitter.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
-        ]
-      },
-      {
         "title": "Al Vigier: Canada's AI strategy shouldn't include secret Palantir bills",
         "url": "https://www.readtheline.ca/p/al-vigier-canadas-ai-strategy-shouldnt",
         "points": 73,
-        "comments": 58,
+        "comments": 69,
         "author": "ClearwayLaw",
         "createdAt": "2026-07-06T00:04:48Z",
         "domain": "readtheline.ca",
@@ -42,29 +22,29 @@
         ]
       },
       {
-        "title": "Claude Design System Prompt",
-        "url": "https://github.com/Trystan-SA/claude-design-system-prompt",
-        "points": 71,
-        "comments": 31,
-        "author": "handfuloflight",
-        "createdAt": "2026-07-05T08:43:37Z",
-        "domain": "github.com",
+        "title": "When AI Costs More Than the Engineer",
+        "url": "https://tomtunguz.com/ai-spend-breakeven-2029/",
+        "points": 68,
+        "comments": 95,
+        "author": "kiyanwang",
+        "createdAt": "2026-07-06T07:05:25Z",
+        "domain": "tomtunguz.com",
         "sourceType": "hn",
-        "category": "AIモデル",
+        "category": "AIニュース",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "Claudeデザインシステムプロンプト",
-        "summaryJa": "この記事は「Claudeデザインシステムプロンプト」を扱っています。リバースエンジニアリングされたシステムプロンプトとスキルライブラリにより、LLMを固執し、アクセシビリティを意識し、AIスロップに強い設計コラボレーターに変えます。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "titleJa": "AIがエンジニアよりもコストがかかる場合",
+        "summaryJa": "この記事は「AIがエンジニアよりもコストがかかる場合」を扱っています。Anthropicは計算に2.3倍の給与を費やしています。トップソフトウェア企業の支出は0.4倍です。",
         "keyPoints": [
-          "この記事は「Claudeデザインシステムプロンプト」を扱っています。",
-          "リバースエンジニアリングされたシステムプロンプトとスキルライブラリにより、LLMを固執し、アクセシビリティを意識し、AIスロップに強い設計コラボレーターに変えます。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+          "この記事は「AIがエンジニアよりもコストがかかる場合」を扱っています。",
+          "Anthropicは計算に2.3倍の給与を費やしています。",
+          "トップソフトウェア企業の支出は0.4倍です。"
         ]
       },
       {
         "title": "Show HN: KiCad in the Browser",
         "url": "https://demo.pcbjam.com/",
-        "points": 66,
+        "points": 67,
         "comments": 32,
         "author": "ViktorEE",
         "createdAt": "2026-07-05T12:06:57Z",
@@ -84,8 +64,8 @@
       {
         "title": "New Microsoft 365 pricing live, some products up by 42% due to AI",
         "url": "https://www.windowslatest.com/2026/07/05/microsoft-365-just-got-a-price-hike-over-continuous-innovation-but-copilot-is-the-ai-tax-on-businesses/",
-        "points": 51,
-        "comments": 28,
+        "points": 52,
+        "comments": 29,
         "author": "ninko",
         "createdAt": "2026-07-05T21:58:20Z",
         "domain": "windowslatest.com",
@@ -100,17 +80,37 @@
           "Microsoft 365の値上げは2026年7月1日にヒットし、MicrosoftがCopilotとSecurity Copilotを有料ランクにバンドルするにつれて最大43 ％増加しました。",
           "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
+      },
+      {
+        "title": "Show HN: I hated how much my 12-year-old played Roblox, so we built our own FPS",
+        "url": "https://cooked.house",
+        "points": 47,
+        "comments": 7,
+        "author": "davitb",
+        "createdAt": "2026-07-05T17:14:45Z",
+        "domain": "cooked.house",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "低",
+        "newsLens": "技術",
+        "titleJa": "ショーHN ：私は12歳の子供がRobloxをどれだけプレイしたかが大嫌いだったので、私たちは独自のFPSを構築しました",
+        "summaryJa": "この記事は「ショーHN ：私は12歳の子供がRobloxをどれだけプレイしたかが大嫌いだったので、私たちは独自のFPSを構築しました」を扱っています。彼らはRoblox、特にライバルに夢中です。多くの親のように、私たちはそれを愛していませんでした。",
+        "keyPoints": [
+          "この記事は「ショーHN ：私は12歳の子供がRobloxをどれだけプレイしたかが大嫌いだったので、私たちは独自のFPSを構築しました」を扱っています。",
+          "彼らはRoblox、特にライバルに夢中です。",
+          "多くの親のように、私たちはそれを愛していませんでした。"
+        ]
       }
     ],
-    "fetchedAt": "2026-07-06T07:08:52.415Z",
+    "fetchedAt": "2026-07-06T12:00:58.004Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-07-06T07:08:52.415Z",
+    "fetchedAt": "2026-07-06T12:00:58.004Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-06T07:08:52.505Z"
+    "articleFetchedAt": "2026-07-06T12:00:58.170Z"
   }
 }
