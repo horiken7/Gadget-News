@@ -2,6 +2,27 @@
   "news": {
     "items": [
       {
+        "title": "If you use Google, you’re training its AI. Here’s how to opt out.",
+        "url": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/",
+        "points": 133,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-07-06T17:04:58.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
+        "category": "AIニュース",
+        "impact": "高",
+        "titleJa": "Googleを使用している場合は、AIをトレーニングしていることになります。配信を停止する方法は次のとおりです。",
+        "summaryJa": "この記事は「Googleを使用している場合は、AIをトレーニングしていることになります。配信を停止する方法は次のとおりです。」を扱っています。PSA ： Googleのプライバシー設定を変更すると、より多くのデータでAIをトレーニングできるようになります。配信を停止する方法は次のとおりです。",
+        "keyPoints": [
+          "この記事は「Googleを使用している場合は、AIをトレーニングしていることになります。",
+          "配信を停止する方法は次のとおりです。",
+          "PSA ： Googleのプライバシー設定を変更すると、より多くのデータでAIをトレーニングできるようになります。"
+        ]
+      },
+      {
         "title": "Microsoft lays off nearly 5,000 employees across Xbox, commercial sales",
         "url": "https://techcrunch.com/2026/07/06/microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales/",
         "points": 105,
@@ -26,7 +47,7 @@
         "title": "Anthropic's Method to Losing Goodwill in a Few Easy Steps",
         "url": "https://raheeljunaid.com/blog/anthropics-method-to-losing-goodwill-in-a-few-easy-steps/",
         "points": 73,
-        "comments": 148,
+        "comments": 172,
         "author": "raheelrjunaid",
         "createdAt": "2026-07-06T12:37:06Z",
         "domain": "raheeljunaid.com",
@@ -63,56 +84,35 @@
         ]
       },
       {
-        "title": "AMD Ryzen AI Halo – $4k AI Dev Kit",
-        "url": "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo",
+        "title": "New Microsoft 365 pricing live, some products up by 42% due to AI",
+        "url": "https://www.windowslatest.com/2026/07/05/microsoft-365-just-got-a-price-hike-over-continuous-innovation-but-copilot-is-the-ai-tax-on-businesses/",
         "points": 54,
-        "comments": 51,
-        "author": "LabsLucas",
-        "createdAt": "2026-07-06T15:01:18Z",
-        "domain": "lttlabs.com",
+        "comments": 30,
+        "author": "ninko",
+        "createdAt": "2026-07-05T21:58:20Z",
+        "domain": "windowslatest.com",
         "sourceType": "hn",
         "category": "AIニュース",
         "impact": "低",
         "newsLens": "技術",
-        "titleJa": "AMD Ryzen AI Halo – $ 4,000 AI開発キット",
-        "summaryJa": "この記事は「AMD Ryzen AI Halo – $ 4,000 AI開発キット」を扱っています。lttlabs.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "titleJa": "新しいMicrosoft 365の価格はライブで、一部の製品はAIのおかげで42 ％上昇",
+        "summaryJa": "この記事は「新しいMicrosoft 365の価格はライブで、一部の製品はAIのおかげで42 ％上昇」を扱っています。Microsoft 365の値上げは2026年7月1日にヒットし、MicrosoftがCopilotとSecurity Copilotを有料ランクにバンドルするにつれて最大43 ％増加しました。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
         "keyPoints": [
-          "この記事は「AMD Ryzen AI Halo – $ 4,000 AI開発キット」を扱っています。",
-          "lttlabs.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "この記事は「新しいMicrosoft 365の価格はライブで、一部の製品はAIのおかげで42 ％上昇」を扱っています。",
+          "Microsoft 365の値上げは2026年7月1日にヒットし、MicrosoftがCopilotとSecurity Copilotを有料ランクにバンドルするにつれて最大43 ％増加しました。",
           "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
-        ]
-      },
-      {
-        "title": "Station F ramps up as a launchpad for Europe’s hottest AI startups",
-        "url": "https://techcrunch.com/2026/07/06/station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups/",
-        "points": 39,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-07-06T13:00:00.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
-        "category": "AIニュース",
-        "impact": "低",
-        "titleJa": "ヨーロッパで最もホットなAIスタートアップのためのランチパッドとしてステーションFが登場",
-        "summaryJa": "この記事は「ヨーロッパで最もホットなAIスタートアップのためのランチパッドとしてステーションFが登場」を扱っています。フランスの億万長者Xavier Nielによって設立されたパリに拠点を置くスタートアップハブであるStation Fは、有望なAIスタートアップの足がかりとしての地位を強化するために、F/aiアクセラレータプログラムの新版に向けて準備を進めている。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
-        "keyPoints": [
-          "この記事は「ヨーロッパで最もホットなAIスタートアップのためのランチパッドとしてステーションFが登場」を扱っています。",
-          "フランスの億万長者Xavier Nielによって設立されたパリに拠点を置くスタートアップハブであるStation Fは、有望なAIスタートアップの足がかりとしての地位を強化するために、F/aiアクセラレータプログラムの新版に向けて準備を進めている。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       }
     ],
-    "fetchedAt": "2026-07-06T16:17:31.043Z",
+    "fetchedAt": "2026-07-06T18:53:17.172Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-07-06T16:17:31.043Z",
+    "fetchedAt": "2026-07-06T18:53:17.172Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-06T16:17:31.308Z"
+    "articleFetchedAt": "2026-07-06T18:53:17.334Z"
   }
 }
