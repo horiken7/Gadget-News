@@ -44,50 +44,30 @@
         ]
       },
       {
-        "title": "Anthropic's Method to Losing Goodwill in a Few Easy Steps",
-        "url": "https://raheeljunaid.com/blog/anthropics-method-to-losing-goodwill-in-a-few-easy-steps/",
-        "points": 73,
-        "comments": 181,
-        "author": "raheelrjunaid",
-        "createdAt": "2026-07-06T12:37:06Z",
-        "domain": "raheeljunaid.com",
+        "title": "Small AI Models Gain Traction In places with unreliable networks",
+        "url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
+        "points": 76,
+        "comments": 12,
+        "author": "sscaryterry",
+        "createdAt": "2026-07-06T23:59:54Z",
+        "domain": "spectrum.ieee.org",
         "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "高",
+        "category": "AIモデル",
+        "impact": "中",
         "newsLens": "技術",
-        "titleJa": "わずかなステップで善意を失うアントロピックの方法",
-        "summaryJa": "この記事は「わずかなステップで善意を失うアントロピックの方法」を扱っています。raheeljunaid.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "titleJa": "小規模なAIモデルは、信頼性の低いネットワークを持つ場所で牽引力を獲得します",
+        "summaryJa": "この記事は「小規模なAIモデルは、信頼性の低いネットワークを持つ場所で牽引力を獲得します」を扱っています。ネットワークが信頼できず、データセンターインフラストラクチャがない場所では、小さいほど良いです。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
         "keyPoints": [
-          "この記事は「わずかなステップで善意を失うアントロピックの方法」を扱っています。",
-          "raheeljunaid.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
-        ]
-      },
-      {
-        "title": "Al Vigier: Canada's AI strategy shouldn't include secret Palantir bills",
-        "url": "https://www.readtheline.ca/p/al-vigier-canadas-ai-strategy-shouldnt",
-        "points": 73,
-        "comments": 74,
-        "author": "ClearwayLaw",
-        "createdAt": "2026-07-06T00:04:48Z",
-        "domain": "readtheline.ca",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "Al Vigier ：カナダのAI戦略には、秘密のPalantir法案を含めるべきではありません",
-        "summaryJa": "この記事は「Al Vigier ：カナダのAI戦略には、秘密のPalantir法案を含めるべきではありません」を扱っています。代わりに、国内製品を購入し、オープンにしてください。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
-        "keyPoints": [
-          "この記事は「Al Vigier ：カナダのAI戦略には、秘密のPalantir法案を含めるべきではありません」を扱っています。",
-          "代わりに、国内製品を購入し、オープンにしてください。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+          "この記事は「小規模なAIモデルは、信頼性の低いネットワークを持つ場所で牽引力を獲得します」を扱っています。",
+          "ネットワークが信頼できず、データセンターインフラストラクチャがない場所では、小さいほど良いです。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
       },
       {
         "title": "GLM 5.2 and the coming AI margin collapse",
         "url": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
-        "points": 64,
-        "comments": 55,
+        "points": 73,
+        "comments": 158,
         "author": "martinald",
         "createdAt": "2026-07-06T20:14:55Z",
         "domain": "martinalderson.com",
@@ -102,17 +82,37 @@
           "GLM 5.2は、価格の約15〜20 ％で、エージェントワークのためにOpusとGPTの本物の競合他社と呼ぶ最初のオープンウェイトモデルです。",
           "AIの推論マージンが崩壊しようとしている理由の第1部。"
         ]
+      },
+      {
+        "title": "Anthropic's Method to Losing Goodwill in a Few Easy Steps",
+        "url": "https://raheeljunaid.com/blog/anthropics-method-to-losing-goodwill-in-a-few-easy-steps/",
+        "points": 73,
+        "comments": 182,
+        "author": "raheelrjunaid",
+        "createdAt": "2026-07-06T12:37:06Z",
+        "domain": "raheeljunaid.com",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "わずかなステップで善意を失うアントロピックの方法",
+        "summaryJa": "この記事は「わずかなステップで善意を失うアントロピックの方法」を扱っています。raheeljunaid.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "keyPoints": [
+          "この記事は「わずかなステップで善意を失うアントロピックの方法」を扱っています。",
+          "raheeljunaid.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+        ]
       }
     ],
-    "fetchedAt": "2026-07-07T00:04:08.216Z",
+    "fetchedAt": "2026-07-07T04:47:48.865Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-07-07T00:04:08.216Z",
+    "fetchedAt": "2026-07-07T04:47:48.865Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-07T00:04:08.340Z"
+    "articleFetchedAt": "2026-07-07T04:47:48.987Z"
   }
 }
