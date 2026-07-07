@@ -46,8 +46,8 @@
       {
         "title": "Show HN: Rowboat – Open-source, local-first alternative to Claude Desktop",
         "url": "https://github.com/rowboatlabs/rowboat",
-        "points": 76,
-        "comments": 20,
+        "points": 80,
+        "comments": 23,
         "author": "segmenta",
         "createdAt": "2026-07-07T16:10:44Z",
         "domain": "github.com",
@@ -87,7 +87,7 @@
         "title": "Re: I'm Begging You to Leave Your AI Note-Taker at Home",
         "url": "https://firesphere.dev/articles/yes-actually-i-do-fucking-mind",
         "points": 54,
-        "comments": 81,
+        "comments": 87,
         "author": "skeledrew",
         "createdAt": "2026-07-07T20:10:13Z",
         "domain": "firesphere.dev",
@@ -104,7 +104,7 @@
         ]
       }
     ],
-    "fetchedAt": "2026-07-07T22:57:33.294Z",
+    "fetchedAt": "2026-07-07T23:58:59.616Z",
     "mock": false
   },
   "xTrends": {
@@ -116,7 +116,7 @@
         "appearances": 7,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-07-07T22:57:33.155Z",
+        "observedAt": "2026-07-07T23:58:59.471Z",
         "url": "https://x.com/search?q=The%20Grok&src=typed_query&f=live",
         "articleTitle": "Show HN: Boilerroom: dialer, call recording, and managed follow-up",
         "articleTitleJa": "HN を表示: ボイラールーム: ダイヤラー、通話録音、管理されたフォローアップ",
@@ -133,7 +133,7 @@
         "appearances": 7,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-07-07T22:57:33.155Z",
+        "observedAt": "2026-07-07T23:58:59.471Z",
         "url": "https://x.com/search?q=Grok-user&src=typed_query&f=live",
         "articleTitle": "Show HN: The Banana Test: coding agents grow a 3D banana plant'",
         "articleTitleJa": "Show HN: バナナ テスト: コーディング エージェントが 3D バナナ植物を栽培します。",
@@ -150,7 +150,7 @@
         "appearances": 2,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-07-07T22:57:33.155Z",
+        "observedAt": "2026-07-07T23:58:59.471Z",
         "url": "https://x.com/search?q=For%20Grok&src=typed_query&f=live",
         "articleTitle": "Show HN: Boilerroom: dialer, call recording, and managed follow-up",
         "articleTitleJa": "HN を表示: ボイラールーム: ダイヤラー、通話録音、管理されたフォローアップ",
@@ -161,10 +161,10 @@
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-07-07T22:57:33.294Z",
+    "fetchedAt": "2026-07-07T23:58:59.616Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-07T22:57:35.023Z"
+    "articleFetchedAt": "2026-07-07T23:59:01.465Z"
   }
 }
