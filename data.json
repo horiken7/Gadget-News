@@ -2,6 +2,27 @@
   "news": {
     "items": [
       {
+        "title": "Why the rise of open source AI isn’t hurting Anthropic … yet",
+        "url": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/",
+        "points": 107,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-07-07T20:04:32.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
+        "category": "AIニュース",
+        "impact": "高",
+        "titleJa": "オープンソースAIの台頭がAnthropicを傷つけていないのはなぜですか...まだ",
+        "summaryJa": "この記事は「オープンソースAIの台頭がAnthropicを傷つけていないのはなぜですか...まだ」を扱っています。オープンソースモデルの成功は、フロンティアラボを犠牲にすることではありません。代わりに、それぞれが同じライフサイクルの2つのフェーズを捉えているようです。",
+        "keyPoints": [
+          "この記事は「オープンソースAIの台頭がAnthropicを傷つけていないのはなぜですか...まだ」を扱っています。",
+          "オープンソースモデルの成功は、フロンティアラボを犠牲にすることではありません。",
+          "代わりに、それぞれが同じライフサイクルの2つのフェーズを捉えているようです。"
+        ]
+      },
+      {
         "title": "The ‘first’ AI-run ransomware attack still needed a human",
         "url": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/",
         "points": 107,
@@ -23,31 +44,30 @@
         ]
       },
       {
-        "title": "Discord admits AI moderation bug wrongfully banned users over harmless images",
-        "url": "https://techcrunch.com/2026/07/07/discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images/",
-        "points": 79,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-07-07T19:28:38.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
-        "category": "AIニュース",
-        "impact": "中",
-        "titleJa": "Discordは、AIモデレーションのバグが無害な画像でユーザーを誤って禁止したことを認めています",
-        "summaryJa": "この記事は「Discordは、AIモデレーションのバグが無害な画像でユーザーを誤って禁止したことを認めています」を扱っています。同社は、この問題が5月以来アカウントに影響を与えていることを確認し、チームが問題を特定して修正する前に、週末にさらに200人のユーザーを禁止した。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "title": "Show HN: Rowboat – Open-source, local-first alternative to Claude Desktop",
+        "url": "https://github.com/rowboatlabs/rowboat",
+        "points": 71,
+        "comments": 12,
+        "author": "segmenta",
+        "createdAt": "2026-07-07T16:10:44Z",
+        "domain": "github.com",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "低",
+        "newsLens": "技術",
+        "titleJa": "Show HN: Rowboat - Claude Desktopに代わるオープンソースのローカルファースト",
+        "summaryJa": "この記事は「Show HN: Rowboat - Claude Desktopに代わるオープンソースのローカルファースト」を扱っています。Claudeのデスクトップアプリは素晴らしいですが、私たち自身の日々の仕事のために、チャットアプリのようではなく、本格的な仕事用アプリのようにしたいと考えていました。Rowboatは、Rowboat内に独自の作業面を構築する機能を含む、そのための試みです（以下さらに詳しく）。",
         "keyPoints": [
-          "この記事は「Discordは、AIモデレーションのバグが無害な画像でユーザーを誤って禁止したことを認めています」を扱っています。",
-          "同社は、この問題が5月以来アカウントに影響を与えていることを確認し、チームが問題を特定して修正する前に、週末にさらに200人のユーザーを禁止した。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+          "この記事は「Show HN: Rowboat - Claude Desktopに代わるオープンソースのローカルファースト」を扱っています。",
+          "Claudeのデスクトップアプリは素晴らしいですが、私たち自身の日々の仕事のために、チャットアプリのようではなく、本格的な仕事用アプリのようにしたいと考えていました。",
+          "Rowboatは、Rowboat内に独自の作業面を構築する機能を含む、そのための試みです（以下さらに詳しく）。"
         ]
       },
       {
         "title": "Show HN: Fast, native Mac file manager (filters, fuzzy find, 9 MB, no Electron)",
         "url": "https://whimfiles.com",
-        "points": 59,
-        "comments": 50,
+        "points": 60,
+        "comments": 52,
         "author": "whimbyte",
         "createdAt": "2026-07-07T08:12:12Z",
         "domain": "whimfiles.com",
@@ -66,8 +86,8 @@
       {
         "title": "The Making of Claude Code",
         "url": "https://www.anthropic.com/features/making-of-claude-code",
-        "points": 52,
-        "comments": 26,
+        "points": 53,
+        "comments": 28,
         "author": "kanamekun",
         "createdAt": "2026-07-07T06:19:20Z",
         "domain": "anthropic.com",
@@ -82,29 +102,9 @@
           "Claude Codeが内部CLIからAnthropicのコーディングエージェントになった経緯を、それを構築した研究者、エンジニア、初期のユーザーが語ります。",
           "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
-      },
-      {
-        "title": "\"We're extending access to Claude Fable 5 on all paid plans through July 12.\"",
-        "url": "https://twitter.com/claudeai/status/2074548242386178258",
-        "points": 48,
-        "comments": 10,
-        "author": "minimaxir",
-        "createdAt": "2026-07-07T17:44:50Z",
-        "domain": "twitter.com",
-        "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "低",
-        "newsLens": "技術",
-        "titleJa": "「7月12日まで、すべての有料プランでClaude寓話5へのアクセスを延長します。」",
-        "summaryJa": "この記事は「「7月12日まで、すべての有料プランでClaude寓話5へのアクセスを延長します。」」を扱っています。twitter.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
-        "keyPoints": [
-          "この記事は「「7月12日まで、すべての有料プランでClaude寓話5へのアクセスを延長します。",
-          "twitter.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
-        ]
       }
     ],
-    "fetchedAt": "2026-07-07T19:49:55.663Z",
+    "fetchedAt": "2026-07-07T21:20:18.629Z",
     "mock": false
   },
   "xTrends": {
@@ -116,7 +116,7 @@
         "appearances": 7,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-07-07T19:49:55.558Z",
+        "observedAt": "2026-07-07T21:20:18.479Z",
         "url": "https://x.com/search?q=The%20Grok&src=typed_query&f=live",
         "articleTitle": "Show HN: Boilerroom: dialer, call recording, and managed follow-up",
         "articleTitleJa": "HN を表示: ボイラールーム: ダイヤラー、通話録音、管理されたフォローアップ",
@@ -130,10 +130,10 @@
         "topic": "Grok-user",
         "locationLabel": "米国",
         "bestRank": 14,
-        "appearances": 6,
+        "appearances": 7,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-07-07T19:49:55.558Z",
+        "observedAt": "2026-07-07T21:20:18.479Z",
         "url": "https://x.com/search?q=Grok-user&src=typed_query&f=live",
         "articleTitle": "Show HN: The Banana Test: coding agents grow a 3D banana plant'",
         "articleTitleJa": "Show HN: バナナ テスト: コーディング エージェントが 3D バナナ植物を栽培します。",
@@ -142,12 +142,29 @@
         "articlePublishedAt": "2026-07-07T13:54:57Z",
         "summaryJa": "私は 5 人の AI コーディング エージェントに 1 つのプロンプトを与えました。それは、three.js でバナナの植物を一生を通して成長させることです。発芽、葉、花、果実、腐敗、そしてループを再開する子犬です。一見単純そうに見えますが、手続き型コードから正しく理解するのは非常に困難です。実際に動作するthree.jsを作成し、プラントが実際にどのように構築されるかを理解する必要があります。それがどのように垂れ下がり、老化し、朽ちていくのか。生物学を誤解すると、コードは何か奇妙なものをレンダリングします。これらはエージェントであり、ベア モデル (C",
         "translationVersion": 3
+      },
+      {
+        "topic": "For Grok",
+        "locationLabel": "米国",
+        "bestRank": 24,
+        "appearances": 2,
+        "trendSource": "Trends24",
+        "sourceUrl": "https://trends24.in/united-states/",
+        "observedAt": "2026-07-07T21:20:18.479Z",
+        "url": "https://x.com/search?q=For%20Grok&src=typed_query&f=live",
+        "articleTitle": "Show HN: Boilerroom: dialer, call recording, and managed follow-up",
+        "articleTitleJa": "HN を表示: ボイラールーム: ダイヤラー、通話録音、管理されたフォローアップ",
+        "articleUrl": "https://boilerroom.ai",
+        "articleSource": "boilerroom.ai",
+        "articlePublishedAt": "2026-07-06T18:15:21Z",
+        "summaryJa": "こんにちは、HN。私がボイラールーム ( https://boilerroom.ai ) を構築した理由を話させてください。これまでの営業活動を通じて、私が完全に腹を立てたのは、1 つのことを実行するために何百万もの場所に住むことでした。アウトバウンド モーションには、見込み客の発見 (インバウンドまたはアウトバウンド)、リサーチ、資格条件のフィルタリング、シーケンスへの投入、ダイヤラー、電子メール、LinkedIn を介したエンゲージメントなど、ファネルの最上位のすべてが含まれます。",
+        "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-07-07T19:49:55.663Z",
+    "fetchedAt": "2026-07-07T21:20:18.629Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-07T19:49:58.954Z"
+    "articleFetchedAt": "2026-07-07T21:20:20.037Z"
   }
 }
