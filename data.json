@@ -44,30 +44,10 @@
         ]
       },
       {
-        "title": "GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
-        "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/",
-        "points": 101,
-        "comments": 98,
-        "author": "ColinEberhardt",
-        "createdAt": "2026-07-08T05:25:35Z",
-        "domain": "noma.security",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "GitLost ： GitHubのAIエージェントをだましてプライベートリポジトリを漏洩させました",
-        "summaryJa": "この記事は「GitLost ： GitHubのAIエージェントをだましてプライベートリポジトリを漏洩させました」を扱っています。noma.securityが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
-        "keyPoints": [
-          "この記事は「GitLost ： GitHubのAIエージェントをだましてプライベートリポジトリを漏洩させました」を扱っています。",
-          "noma.securityが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
-        ]
-      },
-      {
         "title": "Show HN: Rowboat – Open-source, local-first alternative to Claude Desktop",
         "url": "https://github.com/rowboatlabs/rowboat",
         "points": 93,
-        "comments": 52,
+        "comments": 71,
         "author": "segmenta",
         "createdAt": "2026-07-07T16:10:44Z",
         "domain": "github.com",
@@ -103,9 +83,29 @@
           "「HalluSquatting」は、LLMが「わからない」と言えないことを武器にしています。",
           "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
+      },
+      {
+        "title": "GPT-5.6 Sol, along with Terra and Luna, will launch publicly this Thursday",
+        "url": "https://twitter.com/OpenAI/status/2074704958419792299",
+        "points": 73,
+        "comments": 190,
+        "author": "jfrbfbreudh",
+        "createdAt": "2026-07-08T04:12:13Z",
+        "domain": "twitter.com",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "GPT-5.6 Solは、TerraとLunaと共に、今週木曜日に一般公開されます",
+        "summaryJa": "この記事は「GPT-5.6 Solは、TerraとLunaと共に、今週木曜日に一般公開されます」を扱っています。GPT-5.6 Solは、TerraとLunaと共に、今週木曜日に公開されます。現在、プレビューアクセスを世界中に拡大しています。",
+        "keyPoints": [
+          "この記事は「GPT-5.6 Solは、TerraとLunaと共に、今週木曜日に一般公開されます」を扱っています。",
+          "GPT-5.6 Solは、TerraとLunaと共に、今週木曜日に公開されます。",
+          "現在、プレビューアクセスを世界中に拡大しています。"
+        ]
       }
     ],
-    "fetchedAt": "2026-07-08T11:44:20.181Z",
+    "fetchedAt": "2026-07-08T13:53:52.321Z",
     "mock": false
   },
   "xTrends": {
@@ -114,10 +114,10 @@
         "topic": "Grok 4.5",
         "locationLabel": "米国",
         "bestRank": 8,
-        "appearances": 5,
+        "appearances": 8,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-07-08T11:44:19.995Z",
+        "observedAt": "2026-07-08T13:53:52.245Z",
         "url": "https://x.com/search?q=Grok%204.5&src=typed_query&f=live",
         "articleTitle": "Grok 4.5 arriving tomorrow",
         "articleTitleJa": "Grok 4.5 明日到着",
@@ -131,16 +131,16 @@
         "topic": "GPT-5.6",
         "locationLabel": "米国",
         "bestRank": 13,
-        "appearances": 4,
+        "appearances": 7,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-07-08T11:44:19.995Z",
+        "observedAt": "2026-07-08T13:53:52.245Z",
         "url": "https://x.com/search?q=GPT-5.6&src=typed_query&f=live",
         "articleTitle": "GPT-5.6",
         "articleTitleJa": "公開トレンド: GPT-5.6",
         "articleUrl": "https://trends24.in/united-states/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-07-08T11:44:19.995Z",
+        "articlePublishedAt": "2026-07-08T13:53:52.245Z",
         "summaryJa": "米国のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -152,33 +152,16 @@
         "appearances": 3,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-07-08T11:44:19.995Z",
+        "observedAt": "2026-07-08T13:53:52.245Z",
         "url": "https://x.com/search?q=GPT-5.6%20Sol&src=typed_query&f=live",
         "articleTitle": "GPT-5.6 Sol",
         "articleTitleJa": "公開トレンド: GPT-5.6 Sol",
         "articleUrl": "https://trends24.in/united-states/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-07-08T11:44:19.995Z",
+        "articlePublishedAt": "2026-07-08T13:53:52.245Z",
         "summaryJa": "米国のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
-      },
-      {
-        "topic": "Grok-user",
-        "locationLabel": "米国",
-        "bestRank": 29,
-        "appearances": 3,
-        "trendSource": "Trends24",
-        "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-07-08T11:44:19.995Z",
-        "url": "https://x.com/search?q=Grok-user&src=typed_query&f=live",
-        "articleTitle": "Show HN: The Banana Test: coding agents grow a 3D banana plant'",
-        "articleTitleJa": "Show HN: バナナ テスト: コーディング エージェントが 3D バナナ植物を栽培します。",
-        "articleUrl": "https://francescomoramarco.com/banana-test/",
-        "articleSource": "francescomoramarco.com",
-        "articlePublishedAt": "2026-07-07T13:54:57Z",
-        "summaryJa": "私は 5 人の AI コーディング エージェントに 1 つのプロンプトを与えました。それは、three.js でバナナの植物を一生を通して成長させることです。発芽、葉、花、果実、腐敗、そしてループを再開する子犬です。一見単純そうに見えますが、手続き型コードから正しく理解するのは非常に困難です。実際に動作するthree.jsを作成し、プラントが実際にどのように構築されるかを理解する必要があります。それがどのように垂れ下がり、老化し、朽ちていくのか。生物学を誤解すると、コードは何か奇妙なものをレンダリングします。これらはエージェントであり、ベア モデル (C",
-        "translationVersion": 3
       },
       {
         "topic": "For Grok",
@@ -187,7 +170,7 @@
         "appearances": 2,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-07-08T11:44:19.995Z",
+        "observedAt": "2026-07-08T13:53:52.245Z",
         "url": "https://x.com/search?q=For%20Grok&src=typed_query&f=live",
         "articleTitle": "Show HN: Boilerroom: dialer, call recording, and managed follow-up",
         "articleTitleJa": "HN を表示: ボイラールーム: ダイヤラー、通話録音、管理されたフォローアップ",
@@ -196,12 +179,29 @@
         "articlePublishedAt": "2026-07-06T18:15:21Z",
         "summaryJa": "こんにちは、HN。私がボイラールーム ( https://boilerroom.ai ) を構築した理由を話させてください。これまでの営業活動を通じて、私が完全に腹を立てたのは、1 つのことを実行するために何百万もの場所に住むことでした。アウトバウンド モーションには、見込み客の発見 (インバウンドまたはアウトバウンド)、リサーチ、資格条件のフィルタリング、シーケンスへの投入、ダイヤラー、電子メール、LinkedIn を介したエンゲージメントなど、ファネルの最上位のすべてが含まれます。",
         "translationVersion": 3
+      },
+      {
+        "topic": "Grok-user",
+        "locationLabel": "米国",
+        "bestRank": 45,
+        "appearances": 1,
+        "trendSource": "Trends24",
+        "sourceUrl": "https://trends24.in/united-states/",
+        "observedAt": "2026-07-08T13:53:52.245Z",
+        "url": "https://x.com/search?q=Grok-user&src=typed_query&f=live",
+        "articleTitle": "Show HN: The Banana Test: coding agents grow a 3D banana plant'",
+        "articleTitleJa": "Show HN: バナナ テスト: コーディング エージェントが 3D バナナ植物を栽培します。",
+        "articleUrl": "https://francescomoramarco.com/banana-test/",
+        "articleSource": "francescomoramarco.com",
+        "articlePublishedAt": "2026-07-07T13:54:57Z",
+        "summaryJa": "私は 5 人の AI コーディング エージェントに 1 つのプロンプトを与えました。それは、three.js でバナナの植物を一生を通して成長させることです。発芽、葉、花、果実、腐敗、そしてループを再開する子犬です。一見単純そうに見えますが、手続き型コードから正しく理解するのは非常に困難です。実際に動作するthree.jsを作成し、プラントが実際にどのように構築されるかを理解する必要があります。それがどのように垂れ下がり、老化し、朽ちていくのか。生物学を誤解すると、コードは何か奇妙なものをレンダリングします。これらはエージェントであり、ベア モデル (C",
+        "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-07-08T11:44:20.181Z",
+    "fetchedAt": "2026-07-08T13:53:52.321Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": false,
-    "articleFetchedAt": "2026-07-08T11:44:25.034Z"
+    "articleFetchedAt": "2026-07-08T13:53:56.577Z"
   }
 }
