@@ -2,6 +2,27 @@
   "news": {
     "items": [
       {
+        "title": "Prime Intellect raises $130M Series A to help enterprises build their own AI agents",
+        "url": "https://techcrunch.com/2026/07/08/prime-intellect-raises-130m-series-a-to-help-enterprises-build-their-own-ai-agents/",
+        "points": 107,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-07-08T16:22:38.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
+        "category": "AIニュース",
+        "impact": "高",
+        "titleJa": "Prime IntellectがシリーズAで1億3000万$を調達し、企業が独自のAIエージェントを構築できるよう支援",
+        "summaryJa": "この記事は「Prime IntellectがシリーズAで1億3000万$を調達し、企業が独自のAIエージェントを構築できるよう支援」を扱っています。2024年に設立されたPrime Intellectの目標は、最先端のAIラボに頼ることなく、組織が独自のエージェントシステムをトレーニングできるようにすることです。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "keyPoints": [
+          "この記事は「Prime IntellectがシリーズAで1億3000万$を調達し、企業が独自のAIエージェントを構築できるよう支援」を扱っています。",
+          "2024年に設立されたPrime Intellectの目標は、最先端のAIラボに頼ることなく、組織が独自のエージェントシステムをトレーニングできるようにすることです。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+        ]
+      },
+      {
         "title": "Meta just launched a new AI generator, Muse Image, and users are already pushing back over use of their photos",
         "url": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
         "points": 107,
@@ -20,47 +41,6 @@
           "この記事は「Metaは新しいAIジェネレータMuse Imageを立ち上げたばかりで、ユーザーはすでに自分の写真の使用を後押ししています」を扱っています。",
           "新しい画像生成モデルには、広告や装飾、クリエイターベースの機会など、多数のユースケースがあります。",
           "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
-        ]
-      },
-      {
-        "title": "Why the rise of open source AI isn’t hurting Anthropic … yet",
-        "url": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/",
-        "points": 107,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-07-07T20:04:32.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
-        "category": "AIニュース",
-        "impact": "高",
-        "titleJa": "オープンソースAIの台頭がAnthropicを傷つけていないのはなぜですか...まだ",
-        "summaryJa": "この記事は「オープンソースAIの台頭がAnthropicを傷つけていないのはなぜですか...まだ」を扱っています。オープンソースモデルの成功は、フロンティアラボを犠牲にすることではありません。代わりに、それぞれが同じライフサイクルの2つのフェーズを捉えているようです。",
-        "keyPoints": [
-          "この記事は「オープンソースAIの台頭がAnthropicを傷つけていないのはなぜですか...まだ」を扱っています。",
-          "オープンソースモデルの成功は、フロンティアラボを犠牲にすることではありません。",
-          "代わりに、それぞれが同じライフサイクルの2つのフェーズを捉えているようです。"
-        ]
-      },
-      {
-        "title": "Show HN: Rowboat – Open-source, local-first alternative to Claude Desktop",
-        "url": "https://github.com/rowboatlabs/rowboat",
-        "points": 93,
-        "comments": 86,
-        "author": "segmenta",
-        "createdAt": "2026-07-07T16:10:44Z",
-        "domain": "github.com",
-        "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "Show HN: Rowboat - Claude Desktopに代わるオープンソースのローカルファースト",
-        "summaryJa": "この記事は「Show HN: Rowboat - Claude Desktopに代わるオープンソースのローカルファースト」を扱っています。Claudeのデスクトップアプリは素晴らしいですが、私たち自身の日々の仕事のために、チャットアプリのようではなく、本格的な仕事用アプリのようにしたいと考えていました。Rowboatは、Rowboat内に独自の作業面を構築する機能を含む、そのための試みです（以下さらに詳しく）。",
-        "keyPoints": [
-          "この記事は「Show HN: Rowboat - Claude Desktopに代わるオープンソースのローカルファースト」を扱っています。",
-          "Claudeのデスクトップアプリは素晴らしいですが、私たち自身の日々の仕事のために、チャットアプリのようではなく、本格的な仕事用アプリのようにしたいと考えていました。",
-          "Rowboatは、Rowboat内に独自の作業面を構築する機能を含む、そのための試みです（以下さらに詳しく）。"
         ]
       },
       {
@@ -88,7 +68,7 @@
         "title": "GPT-5.6 Sol, along with Terra and Luna, will launch publicly this Thursday",
         "url": "https://twitter.com/OpenAI/status/2074704958419792299",
         "points": 73,
-        "comments": 191,
+        "comments": 197,
         "author": "jfrbfbreudh",
         "createdAt": "2026-07-08T04:12:13Z",
         "domain": "twitter.com",
@@ -103,9 +83,29 @@
           "GPT-5.6 Solは、TerraとLunaと共に、今週木曜日に公開されます。",
           "現在、プレビューアクセスを世界中に拡大しています。"
         ]
+      },
+      {
+        "title": "Geosql: A Claude/Codex skill for geospatial data",
+        "url": "https://github.com/dekart-xyz/geosql",
+        "points": 65,
+        "comments": 13,
+        "author": "rzk",
+        "createdAt": "2026-07-08T08:37:26Z",
+        "domain": "github.com",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "Geosql ：地理空間データのためのClaude/コーデックススキル",
+        "summaryJa": "この記事は「Geosql ：地理空間データのためのClaude/コーデックススキル」を扱っています。Claude/Codexを地理空間分析エージェントにする。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "keyPoints": [
+          "この記事は「Geosql ：地理空間データのためのClaude/コーデックススキル」を扱っています。",
+          "Claude/Codexを地理空間分析エージェントにする。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+        ]
       }
     ],
-    "fetchedAt": "2026-07-08T16:00:22.158Z",
+    "fetchedAt": "2026-07-08T17:47:25.789Z",
     "mock": false
   },
   "xTrends": {
@@ -117,7 +117,7 @@
         "appearances": 10,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-07-08T16:00:22.122Z",
+        "observedAt": "2026-07-08T17:47:25.681Z",
         "url": "https://x.com/search?q=Grok%204.5&src=typed_query&f=live",
         "articleTitle": "Grok 4.5 arriving tomorrow",
         "articleTitleJa": "Grok 4.5 明日到着",
@@ -134,13 +134,13 @@
         "appearances": 7,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-07-08T16:00:22.122Z",
+        "observedAt": "2026-07-08T17:47:25.681Z",
         "url": "https://x.com/search?q=GPT-5.6&src=typed_query&f=live",
         "articleTitle": "GPT-5.6",
         "articleTitleJa": "公開トレンド: GPT-5.6",
         "articleUrl": "https://trends24.in/united-states/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-07-08T16:00:22.122Z",
+        "articlePublishedAt": "2026-07-08T17:47:25.681Z",
         "summaryJa": "米国のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -152,39 +152,22 @@
         "appearances": 3,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-07-08T16:00:22.122Z",
+        "observedAt": "2026-07-08T17:47:25.681Z",
         "url": "https://x.com/search?q=GPT-5.6%20Sol&src=typed_query&f=live",
         "articleTitle": "GPT-5.6 Sol",
         "articleTitleJa": "公開トレンド: GPT-5.6 Sol",
         "articleUrl": "https://trends24.in/united-states/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-07-08T16:00:22.122Z",
+        "articlePublishedAt": "2026-07-08T17:47:25.681Z",
         "summaryJa": "米国のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
-      },
-      {
-        "topic": "For Grok",
-        "locationLabel": "米国",
-        "bestRank": 27,
-        "appearances": 1,
-        "trendSource": "Trends24",
-        "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-07-08T16:00:22.122Z",
-        "url": "https://x.com/search?q=For%20Grok&src=typed_query&f=live",
-        "articleTitle": "Show HN: Boilerroom: dialer, call recording, and managed follow-up",
-        "articleTitleJa": "HN を表示: ボイラールーム: ダイヤラー、通話録音、管理されたフォローアップ",
-        "articleUrl": "https://boilerroom.ai",
-        "articleSource": "boilerroom.ai",
-        "articlePublishedAt": "2026-07-06T18:15:21Z",
-        "summaryJa": "こんにちは、HN。私がボイラールーム ( https://boilerroom.ai ) を構築した理由を話させてください。これまでの営業活動を通じて、私が完全に腹を立てたのは、1 つのことを実行するために何百万もの場所に住むことでした。アウトバウンド モーションには、見込み客の発見 (インバウンドまたはアウトバウンド)、リサーチ、資格条件のフィルタリング、シーケンスへの投入、ダイヤラー、電子メール、LinkedIn を介したエンゲージメントなど、ファネルの最上位のすべてが含まれます。",
-        "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-07-08T16:00:22.158Z",
+    "fetchedAt": "2026-07-08T17:47:25.789Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-08T16:00:25.592Z"
+    "articleFetchedAt": "2026-07-08T17:47:28.218Z"
   }
 }
