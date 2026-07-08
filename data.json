@@ -15,10 +15,10 @@
         "category": "AIニュース",
         "impact": "高",
         "titleJa": "Metaは新しいAIジェネレータMuse Imageを立ち上げたばかりで、ユーザーはすでに自分の写真の使用を後押ししています",
-        "summaryJa": "この記事は「Metaは新しいAIジェネレータMuse Imageを立ち上げたばかりで、ユーザーはすでに自分の写真の使用を後押ししています」を扱っています。新しい画像生成モデルには、広告、装飾、クリエイターベースの機会など、多数のユースケースがあります。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "summaryJa": "この記事は「Metaは新しいAIジェネレータMuse Imageを立ち上げたばかりで、ユーザーはすでに自分の写真の使用を後押ししています」を扱っています。新しい画像生成モデルには、広告や装飾、クリエイターベースの機会など、多数のユースケースがあります。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
           "この記事は「Metaは新しいAIジェネレータMuse Imageを立ち上げたばかりで、ユーザーはすでに自分の写真の使用を後押ししています」を扱っています。",
-          "新しい画像生成モデルには、広告、装飾、クリエイターベースの機会など、多数のユースケースがあります。",
+          "新しい画像生成モデルには、広告や装飾、クリエイターベースの機会など、多数のユースケースがあります。",
           "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       },
@@ -46,8 +46,8 @@
       {
         "title": "Show HN: Rowboat – Open-source, local-first alternative to Claude Desktop",
         "url": "https://github.com/rowboatlabs/rowboat",
-        "points": 88,
-        "comments": 27,
+        "points": 93,
+        "comments": 38,
         "author": "segmenta",
         "createdAt": "2026-07-07T16:10:44Z",
         "domain": "github.com",
@@ -64,47 +64,49 @@
         ]
       },
       {
-        "title": "We charge $10k a week to delete AI-generated code",
-        "url": "https://odra.dev/slopfix/",
-        "points": 73,
-        "comments": 142,
-        "author": "zie1ony",
-        "createdAt": "2026-07-07T20:35:42Z",
-        "domain": "odra.dev",
-        "sourceType": "hn",
-        "category": "開発ツール",
-        "impact": "高",
+        "title": "Sprinklr ( CXM ) Launches LLM Insights to Optimize Brand Presence in AI - Generated Search Results",
+        "url": "https://finance.yahoo.com/technology/ai/articles/sprinklr-cxm-launches-llm-insights-182524846.html",
+        "points": 81,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-07-08T06:00:00Z",
+        "domain": "finance.yahoo.com",
+        "sourceType": "gdelt",
+        "sourceLabel": "GDELT",
+        "category": "AIモデル",
+        "impact": "中",
         "newsLens": "技術",
-        "titleJa": "AIが生成したコードを削除するには、週に1万$が請求されます",
-        "summaryJa": "この記事は「AIが生成したコードを削除するには、週に1万$が請求されます」を扱っています。AIで構築された製品は機能しますが、100,000行を超えると、すべての変更が2つのことを壊します。3人のシニアエンジニアが、コードベースを再びメンテナンス可能にします。",
+        "titleJa": "Sprinklr （ CXM ）、AIでのブランドプレゼンスを最適化するためのLLM Insightsを発表-生成された検索結果",
+        "summaryJa": "この記事は「Sprinklr （ CXM ）、AIでのブランドプレゼンスを最適化するためのLLM Insightsを発表-生成された検索結果」を扱っています。Sprinklr Inc .（ NYSE ： CXM ）は、買うべき隠れたAI株式トップ10の1つです。6月10日、SprinklrはUnified - CXMプラットフォーム内の新しいAIネイティブ機能であるLLM Insightsの立ち上げを発表しました。",
         "keyPoints": [
-          "この記事は「AIが生成したコードを削除するには、週に1万$が請求されます」を扱っています。",
-          "AIで構築された製品は機能しますが、100,000行を超えると、すべての変更が2つのことを壊します。",
-          "3人のシニアエンジニアが、コードベースを再びメンテナンス可能にします。"
+          "この記事は「Sprinklr （ CXM ）、AIでのブランドプレゼンスを最適化するためのLLM Insightsを発表-生成された検索結果」を扱っています。",
+          "Sprinklr Inc .（ NYSE ： CXM ）は、買うべき隠れたAI株式トップ10の1つです。",
+          "6月10日、SprinklrはUnified - CXMプラットフォーム内の新しいAIネイティブ機能であるLLM Insightsの立ち上げを発表しました。"
         ]
       },
       {
-        "title": "Show HN: Fast, native Mac file manager (filters, fuzzy find, 9 MB, no Electron)",
-        "url": "https://whimfiles.com",
-        "points": 61,
-        "comments": 54,
-        "author": "whimbyte",
-        "createdAt": "2026-07-07T08:12:12Z",
-        "domain": "whimfiles.com",
-        "sourceType": "hn",
-        "category": "AIニュース",
+        "title": "DeepSeek enters AI chip race with inference processor",
+        "url": "http://www.shanghainews.net/news/279173023/deepseek-enters-ai-chip-race-with-inference-processor",
+        "points": 81,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-07-08T06:00:00Z",
+        "domain": "shanghainews.net",
+        "sourceType": "gdelt",
+        "sourceLabel": "GDELT",
+        "category": "ハードウェア",
         "impact": "中",
         "newsLens": "技術",
-        "titleJa": "HNを表示：高速、ネイティブのMacファイルマネージャ（フィルタ、あいまいな検索、9 MB、Electronなし）",
-        "summaryJa": "この記事は「HNを表示：高速、ネイティブのMacファイルマネージャ（フィルタ、あいまいな検索、9 MB、Electronなし）」を扱っています。ダウンロードフォルダは非常に長い間保存されておらず、Finderを使用してクリーンアップするのは非常に面倒でした。そこで、フォルダー内のファイルをフィルタリングして削除または移動するのに役立つシンプルなアプリを作成しました。",
+        "titleJa": "DeepSeek、推論プロセッサを搭載したAIチップレースに参戦",
+        "summaryJa": "この記事は「DeepSeek、推論プロセッサを搭載したAIチップレースに参戦」を扱っています。中国の人工知能スタートアップDeepSeekは、推論のための独自のAIチップを開発しており、NvidiaとHuaweiへの依存を減らすための大きな一歩となっている。技術面では、ロボット、GPU、データセンターなどAIを動かす基盤への影響を見る必要があります。",
         "keyPoints": [
-          "この記事は「HNを表示：高速、ネイティブのMacファイルマネージャ（フィルタ、あいまいな検索、9 MB、Electronなし）」を扱っています。",
-          "ダウンロードフォルダは非常に長い間保存されておらず、Finderを使用してクリーンアップするのは非常に面倒でした。",
-          "そこで、フォルダー内のファイルをフィルタリングして削除または移動するのに役立つシンプルなアプリを作成しました。"
+          "この記事は「DeepSeek、推論プロセッサを搭載したAIチップレースに参戦」を扱っています。",
+          "中国の人工知能スタートアップDeepSeekは、推論のための独自のAIチップを開発しており、NvidiaとHuaweiへの依存を減らすための大きな一歩となっている。",
+          "技術面では、ロボット、GPU、データセンターなどAIを動かす基盤への影響を見る必要があります。"
         ]
       }
     ],
-    "fetchedAt": "2026-07-08T03:22:55.355Z",
+    "fetchedAt": "2026-07-08T06:24:58.953Z",
     "mock": false
   },
   "xTrends": {
@@ -116,7 +118,7 @@
         "appearances": 7,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-07-08T03:22:55.298Z",
+        "observedAt": "2026-07-08T06:24:58.867Z",
         "url": "https://x.com/search?q=The%20Grok&src=typed_query&f=live",
         "articleTitle": "Show HN: Boilerroom: dialer, call recording, and managed follow-up",
         "articleTitleJa": "HN を表示: ボイラールーム: ダイヤラー、通話録音、管理されたフォローアップ",
@@ -133,7 +135,7 @@
         "appearances": 7,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-07-08T03:22:55.298Z",
+        "observedAt": "2026-07-08T06:24:58.867Z",
         "url": "https://x.com/search?q=Grok-user&src=typed_query&f=live",
         "articleTitle": "Show HN: The Banana Test: coding agents grow a 3D banana plant'",
         "articleTitleJa": "Show HN: バナナ テスト: コーディング エージェントが 3D バナナ植物を栽培します。",
@@ -144,13 +146,31 @@
         "translationVersion": 3
       },
       {
+        "topic": "GPT-5.6 Sol",
+        "locationLabel": "米国",
+        "bestRank": 9,
+        "appearances": 2,
+        "trendSource": "Trends24",
+        "sourceUrl": "https://trends24.in/united-states/",
+        "observedAt": "2026-07-08T06:24:58.867Z",
+        "url": "https://x.com/search?q=GPT-5.6%20Sol&src=typed_query&f=live",
+        "articleTitle": "GPT-5.6 Sol",
+        "articleTitleJa": "公開トレンド: GPT-5.6 Sol",
+        "articleUrl": "https://trends24.in/united-states/",
+        "articleSource": "Trends24",
+        "articlePublishedAt": "2026-07-08T06:24:58.867Z",
+        "summaryJa": "米国のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
+        "translationVersion": 3,
+        "articleFallback": true
+      },
+      {
         "topic": "For Grok",
         "locationLabel": "米国",
         "bestRank": 24,
         "appearances": 2,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-07-08T03:22:55.298Z",
+        "observedAt": "2026-07-08T06:24:58.867Z",
         "url": "https://x.com/search?q=For%20Grok&src=typed_query&f=live",
         "articleTitle": "Show HN: Boilerroom: dialer, call recording, and managed follow-up",
         "articleTitleJa": "HN を表示: ボイラールーム: ダイヤラー、通話録音、管理されたフォローアップ",
@@ -161,10 +181,10 @@
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-07-08T03:22:55.355Z",
+    "fetchedAt": "2026-07-08T06:24:58.953Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-08T03:22:56.676Z"
+    "articleFetchedAt": "2026-07-08T06:25:15.808Z"
   }
 }
