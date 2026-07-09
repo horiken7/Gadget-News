@@ -2,24 +2,24 @@
   "news": {
     "items": [
       {
-        "title": "Why this CEO thinks video games make better training data than the internet",
-        "url": "https://techcrunch.com/video/why-this-ceo-thinks-video-games-make-better-training-data-than-the-internet/",
-        "points": 125,
+        "title": "How did the government decide OpenAI’s frontier model was safe to release?",
+        "url": "https://techcrunch.com/2026/07/09/how-did-the-government-decide-openais-frontier-model-was-safe-to-release/",
+        "points": 133,
         "comments": 0,
         "author": "",
-        "createdAt": "2026-07-08T17:47:55.000Z",
+        "createdAt": "2026-07-09T18:22:39.000Z",
         "domain": "techcrunch.com",
         "sourceType": "rss",
         "sourceLabel": "TechCrunch AI",
         "newsLens": "一般",
-        "category": "AIニュース",
+        "category": "AIモデル",
         "impact": "高",
-        "titleJa": "このCEOがビデオゲームがインターネットよりも優れたトレーニングデータを生み出すと考える理由",
-        "summaryJa": "この記事は「このCEOがビデオゲームがインターネットよりも優れたトレーニングデータを生み出すと考える理由」を扱っています。人工汎用知能（ AGI ）を実現するには、大規模な言語モデルには必要なものがありません。ChatGPTやClaudeのようなモデルはテキストに優れていますが、物事が実際にどのように空間と時間を移動するかを理解する能力は低く、一般化するインテリジェンスを生成するための不可欠なスキルです。",
+        "titleJa": "政府は、OpenAIのフロンティアモデルを安全にリリースできるとどのように判断しましたか？",
+        "summaryJa": "この記事は「政府は、OpenAIのフロンティアモデルを安全にリリースできるとどのように判断しましたか？」を扱っています。「政府とAnthropicおよびOpenAIとの間のその対話が正確にどのようなものであったかは不明です。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
-          "この記事は「このCEOがビデオゲームがインターネットよりも優れたトレーニングデータを生み出すと考える理由」を扱っています。",
-          "人工汎用知能（ AGI ）を実現するには、大規模な言語モデルには必要なものがありません。",
-          "ChatGPTやClaudeのようなモデルはテキストに優れていますが、物事が実際にどのように空間と時間を移動するかを理解する能力は低く、一般化するインテリジェンスを生成するための不可欠なスキルです。"
+          "この記事は「政府は、OpenAIのフロンティアモデルを安全にリリースできるとどのように判断しましたか。",
+          "「政府とAnthropicおよびOpenAIとの間のその対話が正確にどのようなものであったかは不明です。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       },
       {
@@ -44,67 +44,67 @@
         ]
       },
       {
-        "title": "I think I have LLM burnout",
-        "url": "https://www.alecscollon.com/blog/llm-burnout/",
+        "title": "GPT-5.6",
+        "url": "https://openai.com/index/gpt-5-6/",
         "points": 101,
-        "comments": 322,
-        "author": "sosodev",
-        "createdAt": "2026-07-09T01:56:28Z",
-        "domain": "alecscollon.com",
-        "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "LLMの燃え尽き症候群だと思う",
-        "summaryJa": "この記事は「LLMの燃え尽き症候群だと思う」を扱っています。alecscollon.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
-        "keyPoints": [
-          "この記事は「LLMの燃え尽き症候群だと思う」を扱っています。",
-          "alecscollon.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
-        ]
-      },
-      {
-        "title": "Grok 4.5",
-        "url": "https://x.ai/news/grok-4-5",
-        "points": 73,
-        "comments": 1354,
-        "author": "BoumTAC",
-        "createdAt": "2026-07-08T18:00:32Z",
-        "domain": "x.ai",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "AIニュース: Grok 4.5",
-        "summaryJa": "この記事は「Grok 4.5」を扱っています。x.aiが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
-        "keyPoints": [
-          "この記事は「Grok 4.5」を扱っています。",
-          "x.aiが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
-        ]
-      },
-      {
-        "title": "GPT‑Live",
-        "url": "https://openai.com/index/introducing-gpt-live/",
-        "points": 73,
-        "comments": 502,
+        "comments": 334,
         "author": "logickkk1",
-        "createdAt": "2026-07-08T17:03:19Z",
+        "createdAt": "2026-07-09T17:04:14Z",
         "domain": "openai.com",
         "sourceType": "hn",
         "category": "AIモデル",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "AIニュース: GPT ‑ Live",
-        "summaryJa": "この記事は「GPT ‑ Live」を扱っています。openai.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "titleJa": "AIニュース: GPT-5.6",
+        "summaryJa": "この記事は「GPT-5.6」を扱っています。openai.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
         "keyPoints": [
-          "この記事は「GPT ‑ Live」を扱っています。",
+          "この記事は「GPT-5.6」を扱っています。",
+          "openai.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+        ]
+      },
+      {
+        "title": "The classifiers Anthropic puts in front of Fable are too zealous",
+        "url": "https://combine-lab.github.io/blog/2026/07/07/fable-is-not-a-useful-model.html",
+        "points": 73,
+        "comments": 189,
+        "author": "karrot-kake",
+        "createdAt": "2026-07-08T20:41:33Z",
+        "domain": "combine-lab.github.io",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "フェイブルの前に置かれた分類子「アントロピック」は熱心すぎる",
+        "summaryJa": "この記事は「フェイブルの前に置かれた分類子「アントロピック」は熱心すぎる」を扱っています。COMBINE - labは、高スループットゲノミクスのためのアルゴリズム、データ構造、およびソフトウェアを開発しています。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "keyPoints": [
+          "この記事は「フェイブルの前に置かれた分類子「アントロピック」は熱心すぎる」を扱っています。",
+          "COMBINE - labは、高スループットゲノミクスのためのアルゴリズム、データ構造、およびソフトウェアを開発しています。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+        ]
+      },
+      {
+        "title": "ChatGPT Work",
+        "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work/",
+        "points": 73,
+        "comments": 60,
+        "author": "Tiberium",
+        "createdAt": "2026-07-09T17:03:53Z",
+        "domain": "openai.com",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "AIニュース: ChatGPT Work",
+        "summaryJa": "この記事は「ChatGPT Work」を扱っています。openai.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "keyPoints": [
+          "この記事は「ChatGPT Work」を扱っています。",
           "openai.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
           "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
       }
     ],
-    "fetchedAt": "2026-07-09T16:25:24.656Z",
+    "fetchedAt": "2026-07-09T18:48:08.739Z",
     "mock": false
   },
   "xTrends": {
@@ -112,17 +112,17 @@
       {
         "topic": "Grok 4.5",
         "locationLabel": "日本",
-        "bestRank": 4,
+        "bestRank": 5,
         "appearances": 25,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-07-09T16:25:24.187Z",
+        "observedAt": "2026-07-09T18:48:08.686Z",
         "url": "https://x.com/search?q=Grok%204.5&src=typed_query&f=live",
         "articleTitle": "Grok 4.5",
         "articleTitleJa": "公開トレンド: Grok 4.5",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-07-09T16:25:24.187Z",
+        "articlePublishedAt": "2026-07-09T18:48:08.686Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -131,17 +131,34 @@
         "topic": "GPT-Live",
         "locationLabel": "日本",
         "bestRank": 36,
-        "appearances": 4,
+        "appearances": 3,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-07-09T16:25:24.187Z",
+        "observedAt": "2026-07-09T18:48:08.686Z",
         "url": "https://x.com/search?q=GPT-Live&src=typed_query&f=live",
-        "articleTitle": "Show HN: InstantVideos.org – short documentaries in ~30 seconds",
-        "articleTitleJa": "HN を表示: InstantVideos.org – 30 秒以内の短いドキュメンタリー",
-        "articleUrl": "https://instantvideos.org/",
-        "articleSource": "instantvideos.org",
-        "articlePublishedAt": "2026-07-06T23:58:38Z",
-        "summaryJa": "こんにちは！そこで、私はClaudeにビデオを作成してもらい、その結果を TikTok に投稿することに少し成功しました (そして、Claudeが自律的に生成して投稿できるようにパイプライン全体をセットアップしました)。 Nano Banana 2 Lite のリリースに伴い、この世代を早く作成できるかどうかに興味があったので、昨夜試してみて、短編ビデオ用に 30 秒程度まで下げました。 Fireworks 経由で GLM-5.2 を高速に使用してスクリプトとイメージを生成します。",
+        "articleTitle": "Show HN: I mapped 8.5M research papers into an interactive atlas",
+        "articleTitleJa": "Show HN: 850 万件の研究論文をインタラクティブなアトラスにマッピングしました",
+        "articleUrl": "https://tomesphere.com/atlas",
+        "articleSource": "tomesphere.com",
+        "articlePublishedAt": "2026-07-09T02:23:24Z",
+        "summaryJa": "論文を読むときは、データセット、コード、ビデオ、査読などを見つけるために複数のタブ間を移動する必要があります。このプロジェクトでこれを修正しようとしました。これは arXiv の論文のためだけのプロジェクトとして始まりましたが、Twitter での最初の成功 (1.9k 回のビューを獲得しました。これは私が投稿で得た最高のビュー) の後、現在は PubMed Central、bioRxiv、medRxiv、および eLife からの他のオープンに利用可能な論文を含めるようにプロジェクトを拡張しました。これらの論文はリンクされています",
+        "translationVersion": 3
+      },
+      {
+        "topic": "ChatGPT Work",
+        "locationLabel": "日本",
+        "bestRank": 3,
+        "appearances": 2,
+        "trendSource": "Trends24",
+        "sourceUrl": "https://trends24.in/japan/",
+        "observedAt": "2026-07-09T18:48:08.686Z",
+        "url": "https://x.com/search?q=ChatGPT%20Work&src=typed_query&f=live",
+        "articleTitle": "Show HN: What if your personal website was ChatGPT?",
+        "articleTitleJa": "Show HN: あなたの個人 Web サイトが ChatGPT だったらどうしますか?",
+        "articleUrl": "https://antonlorani.de/en-us/conversation",
+        "articleSource": "antonlorani.de",
+        "articlePublishedAt": "2026-07-07T12:42:24Z",
+        "summaryJa": "こんにちは、HN。私は最近、この新しい AI について触れるためにウェブサイトを更新しました。最初のアイデアは単純でした。訪問者が従来の静的な Web サイトをスキャンする代わりに、チャットによって履歴書を探索できたらどうなるでしょうか?最終バージョンの結果に非常に満足しています。 * 超低コストで、100 ～ 200 ミリ秒のレイテンシで Groq 経由で LLM 推論を実行します。トークンの生成は、対話が自然に感じられるように意図的に抑制されています。そうでない場合は、文字通り e を押すことになります。",
         "translationVersion": 3
       },
       {
@@ -151,7 +168,7 @@
         "appearances": 3,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-07-09T16:25:24.150Z",
+        "observedAt": "2026-07-09T18:48:08.636Z",
         "url": "https://x.com/search?q=Grok%20Build&src=typed_query&f=live",
         "articleTitle": "We made Grok 4.5, GPT-5.5, and Claude build the same apps",
         "articleTitleJa": "Grok 4.5、GPT-5.5、および Claude に同じアプリを構築させました",
@@ -160,12 +177,30 @@
         "articlePublishedAt": "2026-07-08T23:27:14Z",
         "summaryJa": "Grok 4.5 がリリースされました。そこで、GPT-5.5、Claude Opus 4.8、および Fable 5 で同じインタラクティブ アプリをワンショットで実行し、遅延とコストを測定しました。勝ったのはこちらです。",
         "translationVersion": 3
+      },
+      {
+        "topic": "GPT-5.6",
+        "locationLabel": "米国",
+        "bestRank": 35,
+        "appearances": 1,
+        "trendSource": "Trends24",
+        "sourceUrl": "https://trends24.in/united-states/",
+        "observedAt": "2026-07-09T18:48:08.636Z",
+        "url": "https://x.com/search?q=GPT-5.6&src=typed_query&f=live",
+        "articleTitle": "GPT-5.6",
+        "articleTitleJa": "公開トレンド: GPT-5.6",
+        "articleUrl": "https://trends24.in/united-states/",
+        "articleSource": "Trends24",
+        "articlePublishedAt": "2026-07-09T18:48:08.636Z",
+        "summaryJa": "米国のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
+        "translationVersion": 3,
+        "articleFallback": true
       }
     ],
-    "fetchedAt": "2026-07-09T16:25:24.656Z",
+    "fetchedAt": "2026-07-09T18:48:08.739Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
-    "partial": true,
-    "articleFetchedAt": "2026-07-09T16:25:32.056Z"
+    "partial": false,
+    "articleFetchedAt": "2026-07-09T18:48:15.406Z"
   }
 }
