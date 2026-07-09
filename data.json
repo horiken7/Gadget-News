@@ -47,7 +47,7 @@
         "title": "I think I have LLM burnout",
         "url": "https://www.alecscollon.com/blog/llm-burnout/",
         "points": 101,
-        "comments": 306,
+        "comments": 322,
         "author": "sosodev",
         "createdAt": "2026-07-09T01:56:28Z",
         "domain": "alecscollon.com",
@@ -64,30 +64,10 @@
         ]
       },
       {
-        "title": "GPT‑Live",
-        "url": "https://openai.com/index/introducing-gpt-live/",
-        "points": 73,
-        "comments": 489,
-        "author": "logickkk1",
-        "createdAt": "2026-07-08T17:03:19Z",
-        "domain": "openai.com",
-        "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "AIニュース: GPT ‑ Live",
-        "summaryJa": "この記事は「GPT ‑ Live」を扱っています。openai.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
-        "keyPoints": [
-          "この記事は「GPT ‑ Live」を扱っています。",
-          "openai.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
-        ]
-      },
-      {
         "title": "Grok 4.5",
         "url": "https://x.ai/news/grok-4-5",
         "points": 73,
-        "comments": 1228,
+        "comments": 1354,
         "author": "BoumTAC",
         "createdAt": "2026-07-08T18:00:32Z",
         "domain": "x.ai",
@@ -102,9 +82,29 @@
           "x.aiが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
           "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
+      },
+      {
+        "title": "GPT‑Live",
+        "url": "https://openai.com/index/introducing-gpt-live/",
+        "points": 73,
+        "comments": 502,
+        "author": "logickkk1",
+        "createdAt": "2026-07-08T17:03:19Z",
+        "domain": "openai.com",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "AIニュース: GPT ‑ Live",
+        "summaryJa": "この記事は「GPT ‑ Live」を扱っています。openai.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "keyPoints": [
+          "この記事は「GPT ‑ Live」を扱っています。",
+          "openai.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+        ]
       }
     ],
-    "fetchedAt": "2026-07-09T13:46:26.056Z",
+    "fetchedAt": "2026-07-09T16:25:24.656Z",
     "mock": false
   },
   "xTrends": {
@@ -113,16 +113,16 @@
         "topic": "Grok 4.5",
         "locationLabel": "日本",
         "bestRank": 4,
-        "appearances": 26,
+        "appearances": 25,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-07-09T13:46:25.992Z",
+        "observedAt": "2026-07-09T16:25:24.187Z",
         "url": "https://x.com/search?q=Grok%204.5&src=typed_query&f=live",
         "articleTitle": "Grok 4.5",
         "articleTitleJa": "公開トレンド: Grok 4.5",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-07-09T13:46:25.992Z",
+        "articlePublishedAt": "2026-07-09T16:25:24.187Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -134,14 +134,14 @@
         "appearances": 4,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-07-09T13:46:25.992Z",
+        "observedAt": "2026-07-09T16:25:24.187Z",
         "url": "https://x.com/search?q=GPT-Live&src=typed_query&f=live",
-        "articleTitle": "Launch HN: Manufact (YC S25) – MCP Cloud",
-        "articleTitleJa": "HN の起動: Manufact (YC S25) – MCP クラウド",
-        "articleUrl": "https://manufact.com",
-        "articleSource": "manufact.com",
-        "articlePublishedAt": "2026-07-02T15:11:20Z",
-        "summaryJa": "こんにちは、HN です。私たちは、MCP アプリとサーバー用のクラウドである Manufact ( https://manufact.com ) の共同創設者である Pietro と Luigi です。以前は mcp-use と呼ばれていましたが、現在でもその名前 https://github.com/mcp-use/mcp-use で MCP 用のオープンソース SDK を構築しています。昨年、これについて Show HN を行いました: https://news.ycombinator.com/item?id=44747229 。今日は、Vercel が Next.js に使用するのと同じように、mcp を使用するクラウド製品 Manufact について説明したいと思います。メーカーはMCです",
+        "articleTitle": "Show HN: InstantVideos.org – short documentaries in ~30 seconds",
+        "articleTitleJa": "HN を表示: InstantVideos.org – 30 秒以内の短いドキュメンタリー",
+        "articleUrl": "https://instantvideos.org/",
+        "articleSource": "instantvideos.org",
+        "articlePublishedAt": "2026-07-06T23:58:38Z",
+        "summaryJa": "こんにちは！そこで、私はClaudeにビデオを作成してもらい、その結果を TikTok に投稿することに少し成功しました (そして、Claudeが自律的に生成して投稿できるようにパイプライン全体をセットアップしました)。 Nano Banana 2 Lite のリリースに伴い、この世代を早く作成できるかどうかに興味があったので、昨夜試してみて、短編ビデオ用に 30 秒程度まで下げました。 Fireworks 経由で GLM-5.2 を高速に使用してスクリプトとイメージを生成します。",
         "translationVersion": 3
       },
       {
@@ -151,21 +151,21 @@
         "appearances": 3,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-07-09T13:46:26.038Z",
+        "observedAt": "2026-07-09T16:25:24.150Z",
         "url": "https://x.com/search?q=Grok%20Build&src=typed_query&f=live",
         "articleTitle": "We made Grok 4.5, GPT-5.5, and Claude build the same apps",
         "articleTitleJa": "Grok 4.5、GPT-5.5、および Claude に同じアプリを構築させました",
         "articleUrl": "https://www.tryai.dev/blog/grok-4.5-vs-gpt-5.5-vs-claude-build-off",
         "articleSource": "tryai.dev",
         "articlePublishedAt": "2026-07-08T23:27:14Z",
-        "summaryJa": "Grok 4.5 がリリースされました。そこで、GPT-5.5、Claude Opus 4.8、および Fable 5 で同じ対話型アプリをワンショットで実行し、遅延とコストを測定しました。勝ったのはこちらです。",
+        "summaryJa": "Grok 4.5 がリリースされました。そこで、GPT-5.5、Claude Opus 4.8、および Fable 5 で同じインタラクティブ アプリをワンショットで実行し、遅延とコストを測定しました。勝ったのはこちらです。",
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-07-09T13:46:26.056Z",
+    "fetchedAt": "2026-07-09T16:25:24.656Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-09T13:46:29.775Z"
+    "articleFetchedAt": "2026-07-09T16:25:32.056Z"
   }
 }
