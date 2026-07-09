@@ -44,10 +44,30 @@
         ]
       },
       {
+        "title": "I think I have LLM burnout",
+        "url": "https://www.alecscollon.com/blog/llm-burnout/",
+        "points": 101,
+        "comments": 207,
+        "author": "sosodev",
+        "createdAt": "2026-07-09T01:56:28Z",
+        "domain": "alecscollon.com",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "LLMの燃え尽き症候群だと思う",
+        "summaryJa": "この記事は「LLMの燃え尽き症候群だと思う」を扱っています。alecscollon.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "keyPoints": [
+          "この記事は「LLMの燃え尽き症候群だと思う」を扱っています。",
+          "alecscollon.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+        ]
+      },
+      {
         "title": "Show HN: Microsoft releases Flint, a visualization language for AI agents",
         "url": "https://microsoft.github.io/flint-chart/#/",
         "points": 101,
-        "comments": 78,
+        "comments": 99,
         "author": "chenglong-hn",
         "createdAt": "2026-07-08T17:46:12Z",
         "domain": "microsoft.github.io",
@@ -61,27 +81,6 @@
           "この記事は「Show HN ： MicrosoftがAIエージェント向けの可視化言語であるFlintをリリース」を扱っています。",
           "データの視覚化は、ユーザーとデータの架け橋です。",
           "しかし、視覚化を確実に生成できるAIエージェントを構築するのは非常に難しい場合があります。"
-        ]
-      },
-      {
-        "title": "Wistron backs Taiwan open source AI model and boosts compute for startups",
-        "url": "https://www.digitimes.com/news/a20260707PD244/wistron-taiwan-open-source-language-2026.html",
-        "points": 81,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-07-09T02:00:00Z",
-        "domain": "digitimes.com",
-        "sourceType": "gdelt",
-        "sourceLabel": "GDELT",
-        "category": "AIモデル",
-        "impact": "中",
-        "newsLens": "技術",
-        "titleJa": "Wistron、台湾のオープンソースAIモデルを支援し、スタートアップ向けのコンピューティングを強化",
-        "summaryJa": "この記事は「Wistron、台湾のオープンソースAIモデルを支援し、スタートアップ向けのコンピューティングを強化」を扱っています。ウィストロンは台湾を支援すると述べた。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
-        "keyPoints": [
-          "この記事は「Wistron、台湾のオープンソースAIモデルを支援し、スタートアップ向けのコンピューティングを強化」を扱っています。",
-          "ウィストロンは台湾を支援すると述べた。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
       },
       {
@@ -106,7 +105,7 @@
         ]
       }
     ],
-    "fetchedAt": "2026-07-09T02:35:12.534Z",
+    "fetchedAt": "2026-07-09T06:39:58.337Z",
     "mock": false
   },
   "xTrends": {
@@ -114,17 +113,17 @@
       {
         "topic": "Grok 4.5",
         "locationLabel": "日本",
-        "bestRank": 2,
-        "appearances": 21,
+        "bestRank": 1,
+        "appearances": 23,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-07-09T02:35:12.469Z",
+        "observedAt": "2026-07-09T06:39:58.320Z",
         "url": "https://x.com/search?q=Grok%204.5&src=typed_query&f=live",
         "articleTitle": "Grok 4.5",
         "articleTitleJa": "公開トレンド: Grok 4.5",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-07-09T02:35:12.469Z",
+        "articlePublishedAt": "2026-07-09T06:39:58.320Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -136,7 +135,7 @@
         "appearances": 4,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-07-09T02:35:12.469Z",
+        "observedAt": "2026-07-09T06:39:58.320Z",
         "url": "https://x.com/search?q=GPT-Live&src=typed_query&f=live",
         "articleTitle": "Spent EV Batteries Get Second Life as Higher-Performance Battery Material",
         "articleTitleJa": "使用済みEVバッテリーは高性能バッテリー材料として再利用される",
@@ -149,44 +148,26 @@
       {
         "topic": "GPT-5.6",
         "locationLabel": "米国",
-        "bestRank": 13,
-        "appearances": 7,
+        "bestRank": 19,
+        "appearances": 4,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-07-09T02:35:12.427Z",
+        "observedAt": "2026-07-09T06:39:58.221Z",
         "url": "https://x.com/search?q=GPT-5.6&src=typed_query&f=live",
         "articleTitle": "GPT-5.6",
         "articleTitleJa": "公開トレンド: GPT-5.6",
         "articleUrl": "https://trends24.in/united-states/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-07-09T02:35:12.427Z",
-        "summaryJa": "米国のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
-        "translationVersion": 3,
-        "articleFallback": true
-      },
-      {
-        "topic": "GPT-5.6 Sol",
-        "locationLabel": "米国",
-        "bestRank": 17,
-        "appearances": 3,
-        "trendSource": "Trends24",
-        "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-07-09T02:35:12.427Z",
-        "url": "https://x.com/search?q=GPT-5.6%20Sol&src=typed_query&f=live",
-        "articleTitle": "GPT-5.6 Sol",
-        "articleTitleJa": "公開トレンド: GPT-5.6 Sol",
-        "articleUrl": "https://trends24.in/united-states/",
-        "articleSource": "Trends24",
-        "articlePublishedAt": "2026-07-09T02:35:12.427Z",
+        "articlePublishedAt": "2026-07-09T06:39:58.221Z",
         "summaryJa": "米国のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
       }
     ],
-    "fetchedAt": "2026-07-09T02:35:12.534Z",
+    "fetchedAt": "2026-07-09T06:39:58.337Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-09T02:35:18.039Z"
+    "articleFetchedAt": "2026-07-09T06:40:01.268Z"
   }
 }
