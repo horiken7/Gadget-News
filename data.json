@@ -23,23 +23,23 @@
         ]
       },
       {
-        "title": "SpaceXAI releases Grok 4.5, which Elon describes as an ‘Opus-class model’",
-        "url": "https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/",
+        "title": "Popular open source AI developer tool Ollama raises $65M, grows to nearly 9M users",
+        "url": "https://techcrunch.com/2026/07/09/popular-open-source-ai-developer-tool-ollama-raises-65m-grows-to-nearly-9m-users/",
         "points": 107,
         "comments": 0,
         "author": "",
-        "createdAt": "2026-07-08T19:30:16.000Z",
+        "createdAt": "2026-07-09T13:00:00.000Z",
         "domain": "techcrunch.com",
         "sourceType": "rss",
         "sourceLabel": "TechCrunch AI",
         "newsLens": "一般",
         "category": "AIモデル",
         "impact": "高",
-        "titleJa": "SpaceXAIがGrok 4.5をリリース、イーロンはこれを「Opusクラスのモデル」と呼んでいる",
-        "summaryJa": "この記事は「SpaceXAIがGrok 4.5をリリース、イーロンはこれを「Opusクラスのモデル」と呼んでいる」を扱っています。イーロン・マスクのハイテク企業は水曜日にGrokの最新バージョンをリリースし、他の強力なAIモデルよりも安価で効率的な代替手段を約束した。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "titleJa": "人気のオープンソースAI開発者ツールOllamaが6500万$を調達し、900万人近くのユーザーに成長",
+        "summaryJa": "この記事は「人気のオープンソースAI開発者ツールOllamaが6500万$を調達し、900万人近くのユーザーに成長」を扱っています。ベンチマークに裏打ちされたOllamaは、開発者がPCでAIを簡単に実行できるようにすることで、GitHubに176,000のスターと17,000近くのフォークを蓄積しています。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
-          "この記事は「SpaceXAIがGrok 4.5をリリース、イーロンはこれを「Opusクラスのモデル」と呼んでいる」を扱っています。",
-          "イーロン・マスクのハイテク企業は水曜日にGrokの最新バージョンをリリースし、他の強力なAIモデルよりも安価で効率的な代替手段を約束した。",
+          "この記事は「人気のオープンソースAI開発者ツールOllamaが6500万$を調達し、900万人近くのユーザーに成長」を扱っています。",
+          "ベンチマークに裏打ちされたOllamaは、開発者がPCでAIを簡単に実行できるようにすることで、GitHubに176,000のスターと17,000近くのフォークを蓄積しています。",
           "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       },
@@ -47,7 +47,7 @@
         "title": "I think I have LLM burnout",
         "url": "https://www.alecscollon.com/blog/llm-burnout/",
         "points": 101,
-        "comments": 279,
+        "comments": 306,
         "author": "sosodev",
         "createdAt": "2026-07-09T01:56:28Z",
         "domain": "alecscollon.com",
@@ -64,30 +64,10 @@
         ]
       },
       {
-        "title": "Show HN: Microsoft releases Flint, a visualization language for AI agents",
-        "url": "https://microsoft.github.io/flint-chart/#/",
-        "points": 101,
-        "comments": 110,
-        "author": "chenglong-hn",
-        "createdAt": "2026-07-08T17:46:12Z",
-        "domain": "microsoft.github.io",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "Show HN ： MicrosoftがAIエージェント向けの可視化言語であるFlintをリリース",
-        "summaryJa": "この記事は「Show HN ： MicrosoftがAIエージェント向けの可視化言語であるFlintをリリース」を扱っています。データの視覚化は、ユーザーとデータの架け橋です。しかし、視覚化を確実に生成できるAIエージェントを構築するのは非常に難しい場合があります。",
-        "keyPoints": [
-          "この記事は「Show HN ： MicrosoftがAIエージェント向けの可視化言語であるFlintをリリース」を扱っています。",
-          "データの視覚化は、ユーザーとデータの架け橋です。",
-          "しかし、視覚化を確実に生成できるAIエージェントを構築するのは非常に難しい場合があります。"
-        ]
-      },
-      {
         "title": "GPT‑Live",
         "url": "https://openai.com/index/introducing-gpt-live/",
         "points": 73,
-        "comments": 465,
+        "comments": 489,
         "author": "logickkk1",
         "createdAt": "2026-07-08T17:03:19Z",
         "domain": "openai.com",
@@ -102,9 +82,29 @@
           "openai.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
           "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
+      },
+      {
+        "title": "Grok 4.5",
+        "url": "https://x.ai/news/grok-4-5",
+        "points": 73,
+        "comments": 1228,
+        "author": "BoumTAC",
+        "createdAt": "2026-07-08T18:00:32Z",
+        "domain": "x.ai",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "AIニュース: Grok 4.5",
+        "summaryJa": "この記事は「Grok 4.5」を扱っています。x.aiが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "keyPoints": [
+          "この記事は「Grok 4.5」を扱っています。",
+          "x.aiが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+        ]
       }
     ],
-    "fetchedAt": "2026-07-09T10:21:33.726Z",
+    "fetchedAt": "2026-07-09T13:46:26.056Z",
     "mock": false
   },
   "xTrends": {
@@ -112,17 +112,17 @@
       {
         "topic": "Grok 4.5",
         "locationLabel": "日本",
-        "bestRank": 1,
-        "appearances": 23,
+        "bestRank": 4,
+        "appearances": 26,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-07-09T10:21:33.711Z",
+        "observedAt": "2026-07-09T13:46:25.992Z",
         "url": "https://x.com/search?q=Grok%204.5&src=typed_query&f=live",
         "articleTitle": "Grok 4.5",
         "articleTitleJa": "公開トレンド: Grok 4.5",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-07-09T10:21:33.711Z",
+        "articlePublishedAt": "2026-07-09T13:46:25.992Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -134,24 +134,24 @@
         "appearances": 4,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-07-09T10:21:33.711Z",
+        "observedAt": "2026-07-09T13:46:25.992Z",
         "url": "https://x.com/search?q=GPT-Live&src=typed_query&f=live",
         "articleTitle": "Launch HN: Manufact (YC S25) – MCP Cloud",
         "articleTitleJa": "HN の起動: Manufact (YC S25) – MCP クラウド",
         "articleUrl": "https://manufact.com",
         "articleSource": "manufact.com",
         "articlePublishedAt": "2026-07-02T15:11:20Z",
-        "summaryJa": "こんにちは、HN です。私たちは、MCP アプリとサーバー用のクラウドである Manufact ( https://manufact.com ) の共同創設者である Pietro と Luigi です。以前は mcp-use と呼ばれていましたが、現在でもその名前 https://github.com/mcp-use/mcp-use で MCP 用のオープンソース SDK を構築しています。昨年、これについて Show HN を行いました: https://news.ycombinator.com/item?id=44747229 。今日は、Vercel が Next.js と同様に mcp を使用するクラウド製品 Manufact について説明したいと思います。メーカーはMCです",
+        "summaryJa": "こんにちは、HN です。私たちは、MCP アプリとサーバー用のクラウドである Manufact ( https://manufact.com ) の共同創設者である Pietro と Luigi です。以前は mcp-use と呼ばれていましたが、現在でもその名前 https://github.com/mcp-use/mcp-use で MCP 用のオープンソース SDK を構築しています。昨年、これについて Show HN を行いました: https://news.ycombinator.com/item?id=44747229 。今日は、Vercel が Next.js に使用するのと同じように、mcp を使用するクラウド製品 Manufact について説明したいと思います。メーカーはMCです",
         "translationVersion": 3
       },
       {
         "topic": "Grok Build",
         "locationLabel": "米国",
-        "bestRank": 32,
-        "appearances": 2,
+        "bestRank": 27,
+        "appearances": 3,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-07-09T10:21:33.624Z",
+        "observedAt": "2026-07-09T13:46:26.038Z",
         "url": "https://x.com/search?q=Grok%20Build&src=typed_query&f=live",
         "articleTitle": "We made Grok 4.5, GPT-5.5, and Claude build the same apps",
         "articleTitleJa": "Grok 4.5、GPT-5.5、および Claude に同じアプリを構築させました",
@@ -162,10 +162,10 @@
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-07-09T10:21:33.726Z",
+    "fetchedAt": "2026-07-09T13:46:26.056Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-09T10:21:37.664Z"
+    "articleFetchedAt": "2026-07-09T13:46:29.775Z"
   }
 }
