@@ -44,10 +44,30 @@
         ]
       },
       {
+        "title": "OpenAI faked inability to search training data, hid billions of logs, NYT says",
+        "url": "https://arstechnica.com/tech-policy/2026/07/openai-faked-inability-to-search-training-data-hid-billions-of-logs-nyt-says/",
+        "points": 105,
+        "comments": 9,
+        "author": "cdrnsf",
+        "createdAt": "2026-07-09T19:01:43Z",
+        "domain": "arstechnica.com",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "中",
+        "newsLens": "技術",
+        "titleJa": "OpenAIはトレーニングデータを検索できないことを偽装し、何十億ものログを隠したとNYTは述べています",
+        "summaryJa": "この記事は「OpenAIはトレーニングデータを検索できないことを偽装し、何十億ものログを隠したとNYTは述べています」を扱っています。OpenAIは、ニューヨークタイムズの著作権紛争でChatGPTログを非表示、削除したことで制裁を受ける可能性があります。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "keyPoints": [
+          "この記事は「OpenAIはトレーニングデータを検索できないことを偽装し、何十億ものログを隠したとNYTは述べています」を扱っています。",
+          "OpenAIは、ニューヨークタイムズの著作権紛争でChatGPTログを非表示、削除したことで制裁を受ける可能性があります。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+        ]
+      },
+      {
         "title": "GPT-5.6",
         "url": "https://openai.com/index/gpt-5-6/",
         "points": 101,
-        "comments": 933,
+        "comments": 986,
         "author": "logickkk1",
         "createdAt": "2026-07-09T17:04:14Z",
         "domain": "openai.com",
@@ -66,8 +86,8 @@
       {
         "title": "Launch HN: Context.dev (YC S26) – API to get structured data from any website",
         "url": "https://www.context.dev",
-        "points": 86,
-        "comments": 70,
+        "points": 87,
+        "comments": 72,
         "author": "TheYahiaBakour",
         "createdAt": "2026-07-09T15:28:39Z",
         "domain": "context.dev",
@@ -82,29 +102,9 @@
           "Webデータを製品やエージェントに簡単に統合できるように、Context.dev （ https://www.context.dev/ ）を構築しました。",
           "https://www.tella.tv/video/build-faster-with-context-dev-api... APIであるため、ドキュメントは次のとおりです。"
         ]
-      },
-      {
-        "title": "ChatGPT Work",
-        "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work/",
-        "points": 73,
-        "comments": 174,
-        "author": "Tiberium",
-        "createdAt": "2026-07-09T17:03:53Z",
-        "domain": "openai.com",
-        "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "AIニュース: ChatGPT Work",
-        "summaryJa": "この記事は「ChatGPT Work」を扱っています。openai.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
-        "keyPoints": [
-          "この記事は「ChatGPT Work」を扱っています。",
-          "openai.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
-        ]
       }
     ],
-    "fetchedAt": "2026-07-10T11:47:40.876Z",
+    "fetchedAt": "2026-07-10T14:13:33.307Z",
     "mock": false
   },
   "xTrends": {
@@ -116,13 +116,13 @@
         "appearances": 10,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-07-10T11:47:40.808Z",
+        "observedAt": "2026-07-10T14:13:33.173Z",
         "url": "https://x.com/search?q=GPT-5.6&src=typed_query&f=live",
         "articleTitle": "GPT-5.6",
         "articleTitleJa": "公開トレンド: GPT-5.6",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-07-10T11:47:40.808Z",
+        "articlePublishedAt": "2026-07-10T14:13:33.173Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -134,7 +134,7 @@
         "appearances": 8,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-07-10T11:47:40.808Z",
+        "observedAt": "2026-07-10T14:13:33.173Z",
         "url": "https://x.com/search?q=ChatGPT%20Work&src=typed_query&f=live",
         "articleTitle": "Show HN: What if your personal website was ChatGPT?",
         "articleTitleJa": "Show HN: あなたの個人 Web サイトが ChatGPT だったらどうしますか?",
@@ -151,13 +151,13 @@
         "appearances": 2,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-07-10T11:47:40.808Z",
+        "observedAt": "2026-07-10T14:13:33.173Z",
         "url": "https://x.com/search?q=ChatGPT%E3%82%A2%E3%83%97%E3%83%AA&src=typed_query&f=live",
         "articleTitle": "ChatGPTアプリ",
         "articleTitleJa": "公開トレンド: ChatGPTアプリ",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-07-10T11:47:40.808Z",
+        "articlePublishedAt": "2026-07-10T14:13:33.173Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -165,11 +165,11 @@
       {
         "topic": "OpenAI",
         "locationLabel": "米国",
-        "bestRank": 31,
+        "bestRank": 27,
         "appearances": 1,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-07-10T11:47:40.761Z",
+        "observedAt": "2026-07-10T14:13:33.142Z",
         "url": "https://x.com/search?q=OpenAI&src=typed_query&f=live",
         "articleTitle": "OpenAI faked inability to search training data, hid billions of logs, NYT says",
         "articleTitleJa": "OpenAIはトレーニングデータを検索できないように見せかけ、数十億のログを隠蔽したとNYTが発表",
@@ -182,26 +182,26 @@
       {
         "topic": "Grok 4.5",
         "locationLabel": "英国",
-        "bestRank": 9,
+        "bestRank": 10,
         "appearances": 24,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-kingdom/",
-        "observedAt": "2026-07-10T11:47:40.783Z",
+        "observedAt": "2026-07-10T14:13:33.221Z",
         "url": "https://x.com/search?q=Grok%204.5&src=typed_query&f=live",
         "articleTitle": "Grok 4.5",
         "articleTitleJa": "公開トレンド: Grok 4.5",
         "articleUrl": "https://trends24.in/united-kingdom/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-07-10T11:47:40.783Z",
+        "articlePublishedAt": "2026-07-10T14:13:33.221Z",
         "summaryJa": "英国のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
       }
     ],
-    "fetchedAt": "2026-07-10T11:47:40.876Z",
+    "fetchedAt": "2026-07-10T14:13:33.307Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": false,
-    "articleFetchedAt": "2026-07-10T11:47:43.483Z"
+    "articleFetchedAt": "2026-07-10T14:13:37.131Z"
   }
 }
