@@ -23,88 +23,90 @@
         ]
       },
       {
-        "title": "How did the government decide OpenAI’s frontier model was safe to release?",
-        "url": "https://techcrunch.com/2026/07/09/how-did-the-government-decide-openais-frontier-model-was-safe-to-release/",
-        "points": 133,
+        "title": "Open source AI matters more than ever , according to Hugging Face Clem Delangue",
+        "url": "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/",
+        "points": 101,
         "comments": 0,
         "author": "",
-        "createdAt": "2026-07-09T18:22:39.000Z",
+        "createdAt": "2026-07-10T19:45:00Z",
         "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
+        "sourceType": "gdelt",
+        "sourceLabel": "GDELT",
+        "category": "AIニュース",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "Hugging Face Clem Delangueによると、オープンソースAIはこれまで以上に重要です",
+        "summaryJa": "この記事は「Hugging Face Clem Delangueによると、オープンソースAIはこれまで以上に重要です」を扱っています。Hugging FaceのCEOであるClem Delangue氏は、企業がオープンソースAIのためのフロンティアAPIを捨てている理由と、いくつかのラボにすべてを管理させるリスクについて、Equityに語っています。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "keyPoints": [
+          "この記事は「Hugging Face Clem Delangueによると、オープンソースAIはこれまで以上に重要です」を扱っています。",
+          "Hugging FaceのCEOであるClem Delangue氏は、企業がオープンソースAIのためのフロンティアAPIを捨てている理由と、いくつかのラボにすべてを管理させるリスクについて、Equityに語っています。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+        ]
+      },
+      {
+        "title": "Meta targets September launch for in - house AI chip production",
+        "url": "http://www.northkoreatimes.com/news/279177714/meta-targets-september-launch-for-in-house-ai-chip-production",
+        "points": 81,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-07-10T19:45:00Z",
+        "domain": "northkoreatimes.com",
+        "sourceType": "gdelt",
+        "sourceLabel": "GDELT",
+        "category": "ハードウェア",
+        "impact": "中",
+        "newsLens": "技術",
+        "titleJa": "Metaは、社内AIチップ生産のための9月の発売を目標としています",
+        "summaryJa": "この記事は「Metaは、社内AIチップ生産のための9月の発売を目標としています」を扱っています。Meta Platformsは、コンピューティング能力を拡大し、外部チップサプライヤーへの依存を減らす取り組みを加速するため、9月に最新の社内人工知能チップの製造を開始する予定である。技術面では、ロボット、GPU、データセンターなどAIを動かす基盤への影響を見る必要があります。",
+        "keyPoints": [
+          "この記事は「Metaは、社内AIチップ生産のための9月の発売を目標としています」を扱っています。",
+          "Meta Platformsは、コンピューティング能力を拡大し、外部チップサプライヤーへの依存を減らす取り組みを加速するため、9月に最新の社内人工知能チップの製造を開始する予定である。",
+          "技術面では、ロボット、GPU、データセンターなどAIを動かす基盤への影響を見る必要があります。"
+        ]
+      },
+      {
+        "title": "AI co - scientist performs biomedical research at expert level in less time",
+        "url": "https://www.bioworld.com/articles/732620-ai-co-scientist-performs-biomedical-research-at-expert-level-in-less-time",
+        "points": 81,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-07-10T19:45:00Z",
+        "domain": "bioworld.com",
+        "sourceType": "gdelt",
+        "sourceLabel": "GDELT",
+        "category": "研究",
+        "impact": "中",
+        "newsLens": "技術",
+        "titleJa": "AI共同科学者が短時間で専門家レベルで生物医学研究を実施",
+        "summaryJa": "この記事は「AI共同科学者が短時間で専門家レベルで生物医学研究を実施」を扱っています。専門的なツールの形をとった生物医学リソース、数十万の出版された論文、およびオミクス、健康記録、その他のデータの巨大なリポジトリは指数関数的に増加していますが、発見はより遅く、より高価になっています。これは、スタンフォード大学の科学者が人工知能（ AI ）研究アシスタントBiomnの開発にアプローチした視点です。",
+        "keyPoints": [
+          "この記事は「AI共同科学者が短時間で専門家レベルで生物医学研究を実施」を扱っています。",
+          "専門的なツールの形をとった生物医学リソース、数十万の出版された論文、およびオミクス、健康記録、その他のデータの巨大なリポジトリは指数関数的に増加していますが、発見はより遅く、より高価になっています。",
+          "これは、スタンフォード大学の科学者が人工知能（ AI ）研究アシスタントBiomnの開発にアプローチした視点です。"
+        ]
+      },
+      {
+        "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
+        "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
+        "points": 73,
+        "comments": 124,
+        "author": "scrlk",
+        "createdAt": "2026-07-10T18:29:19Z",
+        "domain": "cdn.openai.com",
+        "sourceType": "hn",
         "category": "AIモデル",
         "impact": "高",
-        "titleJa": "政府は、OpenAIのフロンティアモデルを安全にリリースできるとどのように判断しましたか？",
-        "summaryJa": "この記事は「政府は、OpenAIのフロンティアモデルを安全にリリースできるとどのように判断しましたか？」を扱っています。「政府とAnthropicおよびOpenAIとの間のその対話が正確にどのようなものであったかは不明です。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
-        "keyPoints": [
-          "この記事は「政府は、OpenAIのフロンティアモデルを安全にリリースできるとどのように判断しましたか。",
-          "「政府とAnthropicおよびOpenAIとの間のその対話が正確にどのようなものであったかは不明です。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
-        ]
-      },
-      {
-        "title": "OpenAI faked inability to search training data, hid billions of logs, NYT says",
-        "url": "https://arstechnica.com/tech-policy/2026/07/openai-faked-inability-to-search-training-data-hid-billions-of-logs-nyt-says/",
-        "points": 105,
-        "comments": 9,
-        "author": "cdrnsf",
-        "createdAt": "2026-07-09T19:01:43Z",
-        "domain": "arstechnica.com",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "中",
         "newsLens": "技術",
-        "titleJa": "OpenAIはトレーニングデータを検索できないことを偽装し、何十億ものログを隠したとNYTは述べています",
-        "summaryJa": "この記事は「OpenAIはトレーニングデータを検索できないことを偽装し、何十億ものログを隠したとNYTは述べています」を扱っています。OpenAIは、ニューヨークタイムズの著作権紛争でChatGPTログを非表示、削除したことで制裁を受ける可能性があります。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "titleJa": "GPT-5.6 Sol Ultraは、サイクルダブルカバー予想の証明を生成します[pdf]",
+        "summaryJa": "この記事は「GPT-5.6 Sol Ultraは、サイクルダブルカバー予想の証明を生成します[pdf]」を扱っています。cdn.openai.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
         "keyPoints": [
-          "この記事は「OpenAIはトレーニングデータを検索できないことを偽装し、何十億ものログを隠したとNYTは述べています」を扱っています。",
-          "OpenAIは、ニューヨークタイムズの著作権紛争でChatGPTログを非表示、削除したことで制裁を受ける可能性があります。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
-        ]
-      },
-      {
-        "title": "Ben Bernanke Joins Anthropic Oversight Trust",
-        "url": "https://www.anthropic.com/news/ben-bernanke",
-        "points": 60,
-        "comments": 75,
-        "author": "Jimmc414",
-        "createdAt": "2026-07-10T02:39:07Z",
-        "domain": "anthropic.com",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "中",
-        "newsLens": "技術",
-        "titleJa": "ベン・バーナンキがAnthropic Oversight Trustに加わる",
-        "summaryJa": "この記事は「ベン・バーナンキがAnthropic Oversight Trustに加わる」を扱っています。Anthropicは、信頼性が高く、解釈可能で、操縦可能なAIシステムの構築に取り組んでいるAI安全調査会社です。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
-        "keyPoints": [
-          "この記事は「ベン・バーナンキがAnthropic Oversight Trustに加わる」を扱っています。",
-          "Anthropicは、信頼性が高く、解釈可能で、操縦可能なAIシステムの構築に取り組んでいるAI安全調査会社です。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
-        ]
-      },
-      {
-        "title": "Show HN: Reviving my 2001 college band with AI",
-        "url": "https://www.fadingmaize.com",
-        "points": 48,
-        "comments": 16,
-        "author": "jacobgraf",
-        "createdAt": "2026-07-09T19:49:37Z",
-        "domain": "fadingmaize.com",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "低",
-        "newsLens": "技術",
-        "titleJa": "ショーHN ： AIで2001年の大学バンドを復活させる",
-        "summaryJa": "この記事は「ショーHN ： AIで2001年の大学バンドを復活させる」を扱っています。25年前、私はウィスコンシン州のリポン・カレッジでフェイジング・メイズというバンドに参加しました。私たちは持っているものでできる限りのことをしました。",
-        "keyPoints": [
-          "この記事は「ショーHN ： AIで2001年の大学バンドを復活させる」を扱っています。",
-          "25年前、私はウィスコンシン州のリポン・カレッジでフェイジング・メイズというバンドに参加しました。",
-          "私たちは持っているものでできる限りのことをしました。"
+          "この記事は「GPT-5.6 Sol Ultraは、サイクルダブルカバー予想の証明を生成します[pdf]」を扱っています。",
+          "cdn.openai.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
       }
     ],
-    "fetchedAt": "2026-07-10T18:20:39.104Z",
+    "fetchedAt": "2026-07-10T20:19:35.659Z",
     "mock": false
   },
   "xTrends": {
@@ -116,13 +118,13 @@
         "appearances": 7,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-07-10T18:20:39.086Z",
+        "observedAt": "2026-07-10T20:19:35.577Z",
         "url": "https://x.com/search?q=GPT-5.6&src=typed_query&f=live",
         "articleTitle": "GPT-5.6",
         "articleTitleJa": "公開トレンド: GPT-5.6",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-07-10T18:20:39.086Z",
+        "articlePublishedAt": "2026-07-10T20:19:35.577Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -130,11 +132,11 @@
       {
         "topic": "ChatGPT Work",
         "locationLabel": "日本",
-        "bestRank": 37,
-        "appearances": 3,
+        "bestRank": 47,
+        "appearances": 1,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-07-10T18:20:39.086Z",
+        "observedAt": "2026-07-10T20:19:35.577Z",
         "url": "https://x.com/search?q=ChatGPT%20Work&src=typed_query&f=live",
         "articleTitle": "The ChatGPT \"Super App\" Sort of Super Sucks",
         "articleTitleJa": "ChatGPT の「スーパー アプリ」のようなものは最悪です",
@@ -151,39 +153,22 @@
         "appearances": 24,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-kingdom/",
-        "observedAt": "2026-07-10T18:20:39.010Z",
+        "observedAt": "2026-07-10T20:19:35.647Z",
         "url": "https://x.com/search?q=Grok%204.5&src=typed_query&f=live",
         "articleTitle": "Grok 4.5",
         "articleTitleJa": "公開トレンド: Grok 4.5",
         "articleUrl": "https://trends24.in/united-kingdom/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-07-10T18:20:39.010Z",
+        "articlePublishedAt": "2026-07-10T20:19:35.647Z",
         "summaryJa": "英国のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
-      },
-      {
-        "topic": "ChatGPT",
-        "locationLabel": "豪州",
-        "bestRank": 44,
-        "appearances": 1,
-        "trendSource": "Trends24",
-        "sourceUrl": "https://trends24.in/australia/",
-        "observedAt": "2026-07-10T18:20:39.043Z",
-        "url": "https://x.com/search?q=ChatGPT&src=typed_query&f=live",
-        "articleTitle": "New York Times says OpenAI hid evidence in ChatGPT copyright trial",
-        "articleTitleJa": "ニューヨーク・タイムズは、OpenAIがChatGPT著作権裁判で証拠を隠蔽したと主張",
-        "articleUrl": "https://techcrunch.com/2026/07/09/new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial/",
-        "articleSource": "techcrunch.com",
-        "articlePublishedAt": "2026-07-09T22:28:58Z",
-        "summaryJa": "ニュース発行者らは、OpenAIがChatGPT出力内に著作権で保護されたジャーナリズムを特定できるツールやデータセットを隠していたため、新たな制裁を求める申し立てで訴訟をエスカレートさせたと主張している。",
-        "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-07-10T18:20:39.104Z",
+    "fetchedAt": "2026-07-10T20:19:35.659Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-10T18:20:43.680Z"
+    "articleFetchedAt": "2026-07-10T20:19:39.533Z"
   }
 }
