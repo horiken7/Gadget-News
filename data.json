@@ -14,19 +14,19 @@
         "newsLens": "一般",
         "category": "AIニュース",
         "impact": "高",
-        "titleJa": "Hugging FaceのClem Delangueによると、オープンソースAIはこれまで以上に重要です",
-        "summaryJa": "この記事は「Hugging FaceのClem Delangueによると、オープンソースAIはこれまで以上に重要です」を扱っています。Hugging FaceのCEOであるClem Delangue氏によると、オープンソースAIは急成長しているという。同社は近年、AIのためのGitHubのようなものに成長しており、AIビルダーはオープンモデルやデータセットを共有してダウンロードすることができ、現在ではFortune 500の約半数が使用しています。",
+        "titleJa": "AIニュース: Open source AI matters more than ever, according to Hugging Face’s Clem Delangue",
+        "summaryJa": "この記事は「Open source AI matters more than ever, according to Hugging Face’s Clem Delangue」を扱っています。techcrunch.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
-          "この記事は「Hugging FaceのClem Delangueによると、オープンソースAIはこれまで以上に重要です」を扱っています。",
-          "Hugging FaceのCEOであるClem Delangue氏によると、オープンソースAIは急成長しているという。",
-          "同社は近年、AIのためのGitHubのようなものに成長しており、AIビルダーはオープンモデルやデータセットを共有してダウンロードすることができ、現在ではFortune 500の約半数が使用しています。"
+          "この記事は「Open source AI matters more than ever, according to Hugging Face’s Clem Delangue」を扱っています。",
+          "techcrunch.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       },
       {
         "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
         "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
         "points": 99,
-        "comments": 728,
+        "comments": 756,
         "author": "stock_toaster",
         "createdAt": "2026-07-10T20:47:09Z",
         "domain": "9to5mac.com",
@@ -34,10 +34,10 @@
         "category": "AIニュース",
         "impact": "高",
         "newsLens": "一般",
-        "titleJa": "AppleはOpenAIを訴え、元従業員が企業秘密を盗んだと非難",
-        "summaryJa": "この記事は「AppleはOpenAIを訴え、元従業員が企業秘密を盗んだと非難」を扱っています。9to5mac.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "titleJa": "AIニュース: Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
+        "summaryJa": "この記事は「Apple sues OpenAI, accuses ex-employees of stealing trade secrets」を扱っています。9to5mac.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
-          "この記事は「AppleはOpenAIを訴え、元従業員が企業秘密を盗んだと非難」を扱っています。",
+          "この記事は「Apple sues OpenAI, accuses ex-employees of stealing trade secrets」を扱っています。",
           "9to5mac.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
           "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
@@ -46,7 +46,7 @@
         "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
         "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
         "points": 73,
-        "comments": 408,
+        "comments": 414,
         "author": "scrlk",
         "createdAt": "2026-07-10T18:29:19Z",
         "domain": "cdn.openai.com",
@@ -54,10 +54,10 @@
         "category": "AIモデル",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "GPT-5.6 Sol Ultraは、サイクルダブルカバー予想の証明を生成します[pdf]",
-        "summaryJa": "この記事は「GPT-5.6 Sol Ultraは、サイクルダブルカバー予想の証明を生成します[pdf]」を扱っています。cdn.openai.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "titleJa": "AIニュース: GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
+        "summaryJa": "この記事は「GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]」を扱っています。cdn.openai.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
         "keyPoints": [
-          "この記事は「GPT-5.6 Sol Ultraは、サイクルダブルカバー予想の証明を生成します[pdf]」を扱っています。",
+          "この記事は「GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]」を扱っています。",
           "cdn.openai.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
           "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
@@ -66,7 +66,7 @@
         "title": "How the terrorist group Boko Haram uses frontier AI",
         "url": "https://casp.ac/reports/ai-enabled-terrorism",
         "points": 73,
-        "comments": 185,
+        "comments": 186,
         "author": "imustachyou",
         "createdAt": "2026-07-10T18:49:26Z",
         "domain": "casp.ac",
@@ -74,11 +74,11 @@
         "category": "AIニュース",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "テロリストグループ「ボコ・ハラム」がフロンティアAIをどのように活用しているか",
-        "summaryJa": "この記事は「テロリストグループ「ボコ・ハラム」がフロンティアAIをどのように活用しているか」を扱っています。Cambridge Program on AI Science & Policy （ CASP ）は、ケンブリッジ大学のフロンティアAIに関する学際的な研究プログラムです。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "titleJa": "AIニュース: How the terrorist group Boko Haram uses frontier AI",
+        "summaryJa": "この記事は「How the terrorist group Boko Haram uses frontier AI」を扱っています。casp.acが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
         "keyPoints": [
-          "この記事は「テロリストグループ「ボコ・ハラム」がフロンティアAIをどのように活用しているか」を扱っています。",
-          "Cambridge Program on AI Science & Policy （ CASP ）は、ケンブリッジ大学のフロンティアAIに関する学際的な研究プログラムです。",
+          "この記事は「How the terrorist group Boko Haram uses frontier AI」を扱っています。",
+          "casp.acが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
           "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
       },
@@ -94,16 +94,16 @@
         "category": "AIモデル",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "GPT-5.6、Grok 4.5、Claude、Muse Sparkが同じ4つのアプリを構築",
-        "summaryJa": "この記事は「GPT-5.6、Grok 4.5、Claude、Muse Sparkが同じ4つのアプリを構築」を扱っています。GPT-5.6の新しいソル、テラ、ルナのティアは、Grok 4.5、Claude、メタのミューズスパーク、そしてレイキャスター、ルービックキューブ、電卓、そしてGame of Lifeのオープンウェイトクルーと対決します。ここにコストとレイテンシを伴うすべてのビルドがあります。",
+        "titleJa": "AIニュース: GPT-5.6, Grok 4.5, Claude, and Muse Spark build the same 4 apps",
+        "summaryJa": "この記事は「GPT-5.6, Grok 4.5, Claude, and Muse Spark build the same 4 apps」を扱っています。tryai.devが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
         "keyPoints": [
-          "この記事は「GPT-5.6、Grok 4.5、Claude、Muse Sparkが同じ4つのアプリを構築」を扱っています。",
-          "GPT-5.6の新しいソル、テラ、ルナのティアは、Grok 4.5、Claude、メタのミューズスパーク、そしてレイキャスター、ルービックキューブ、電卓、そしてGame of Lifeのオープンウェイトクルーと対決します。",
-          "ここにコストとレイテンシを伴うすべてのビルドがあります。"
+          "この記事は「GPT-5.6, Grok 4.5, Claude, and Muse Spark build the same 4 apps」を扱っています。",
+          "tryai.devが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
       }
     ],
-    "fetchedAt": "2026-07-11T15:52:10.209Z",
+    "fetchedAt": "2026-07-11T16:52:52.429Z",
     "mock": false
   },
   "xTrends": {
@@ -112,43 +112,25 @@
         "topic": "OpenAI",
         "locationLabel": "米国",
         "bestRank": 11,
-        "appearances": 12,
+        "appearances": 16,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-07-11T15:52:10.113Z",
+        "observedAt": "2026-07-11T16:52:52.281Z",
         "url": "https://x.com/search?q=OpenAI&src=typed_query&f=live",
         "articleTitle": "OpenAI",
         "articleTitleJa": "公開トレンド: OpenAI",
         "articleUrl": "https://trends24.in/united-states/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-07-11T15:52:10.113Z",
+        "articlePublishedAt": "2026-07-11T16:52:52.281Z",
         "summaryJa": "米国のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
-        "translationVersion": 3,
-        "articleFallback": true
-      },
-      {
-        "topic": "Grok 4.5",
-        "locationLabel": "カナダ",
-        "bestRank": 49,
-        "appearances": 1,
-        "trendSource": "Trends24",
-        "sourceUrl": "https://trends24.in/canada/",
-        "observedAt": "2026-07-11T15:52:10.173Z",
-        "url": "https://x.com/search?q=Grok%204.5&src=typed_query&f=live",
-        "articleTitle": "Grok 4.5",
-        "articleTitleJa": "公開トレンド: Grok 4.5",
-        "articleUrl": "https://trends24.in/canada/",
-        "articleSource": "Trends24",
-        "articlePublishedAt": "2026-07-11T15:52:10.173Z",
-        "summaryJa": "カナダのTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
       }
     ],
-    "fetchedAt": "2026-07-11T15:52:10.209Z",
+    "fetchedAt": "2026-07-11T16:52:52.429Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-11T15:52:12.215Z"
+    "articleFetchedAt": "2026-07-11T16:52:53.340Z"
   }
 }
