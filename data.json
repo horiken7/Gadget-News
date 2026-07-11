@@ -44,30 +44,10 @@
         ]
       },
       {
-        "title": "Apple sues OpenAI, accusing it of stealing company secrets",
-        "url": "https://www.nytimes.com/2026/07/10/technology/apple-openai-lawsuit.html",
-        "points": 88,
-        "comments": 12,
-        "author": "jbegley",
-        "createdAt": "2026-07-10T21:20:29Z",
-        "domain": "nytimes.com",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "AppleがOpenAIを訴え、同社の機密情報を盗んだと非難",
-        "summaryJa": "この記事は「AppleがOpenAIを訴え、同社の機密情報を盗んだと非難」を扱っています。nytimes.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
-        "keyPoints": [
-          "この記事は「AppleがOpenAIを訴え、同社の機密情報を盗んだと非難」を扱っています。",
-          "nytimes.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
-        ]
-      },
-      {
         "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
         "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
         "points": 73,
-        "comments": 224,
+        "comments": 286,
         "author": "scrlk",
         "createdAt": "2026-07-10T18:29:19Z",
         "domain": "cdn.openai.com",
@@ -87,7 +67,7 @@
         "title": "How the terrorist group Boko Haram uses frontier AI",
         "url": "https://casp.ac/reports/ai-enabled-terrorism",
         "points": 73,
-        "comments": 117,
+        "comments": 151,
         "author": "imustachyou",
         "createdAt": "2026-07-10T18:49:26Z",
         "domain": "casp.ac",
@@ -102,45 +82,47 @@
           "Cambridge Program on AI Science & Policy （ CASP ）は、ケンブリッジ大学のフロンティアAIに関する学際的な研究プログラムです。",
           "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
+      },
+      {
+        "title": "GPT-5.6, Grok 4.5, Claude, and Muse Spark build the same 4 apps",
+        "url": "https://www.tryai.dev/blog/gpt-5.6-build-off-12-models",
+        "points": 73,
+        "comments": 79,
+        "author": "hershyb_",
+        "createdAt": "2026-07-10T20:52:28Z",
+        "domain": "tryai.dev",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "GPT-5.6、Grok 4.5、Claude、Muse Sparkが同じ4つのアプリを構築",
+        "summaryJa": "この記事は「GPT-5.6、Grok 4.5、Claude、Muse Sparkが同じ4つのアプリを構築」を扱っています。GPT-5.6の新しいソル、テラ、ルナのティアは、Grok 4.5、Claude、メタのミューズスパーク、そしてレイキャスター、ルービックキューブ、電卓、そしてGame of Lifeのオープンウェイトクルーと対決します。ここにコストとレイテンシを伴うすべてのビルドがあります。",
+        "keyPoints": [
+          "この記事は「GPT-5.6、Grok 4.5、Claude、Muse Sparkが同じ4つのアプリを構築」を扱っています。",
+          "GPT-5.6の新しいソル、テラ、ルナのティアは、Grok 4.5、Claude、メタのミューズスパーク、そしてレイキャスター、ルービックキューブ、電卓、そしてGame of Lifeのオープンウェイトクルーと対決します。",
+          "ここにコストとレイテンシを伴うすべてのビルドがあります。"
+        ]
       }
     ],
-    "fetchedAt": "2026-07-10T23:00:49.470Z",
+    "fetchedAt": "2026-07-11T02:12:51.618Z",
     "mock": false
   },
   "xTrends": {
     "items": [
       {
-        "topic": "GPT-5.6",
-        "locationLabel": "日本",
-        "bestRank": 35,
-        "appearances": 7,
-        "trendSource": "Trends24",
-        "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-07-10T23:00:49.344Z",
-        "url": "https://x.com/search?q=GPT-5.6&src=typed_query&f=live",
-        "articleTitle": "GPT-5.6",
-        "articleTitleJa": "公開トレンド: GPT-5.6",
-        "articleUrl": "https://trends24.in/japan/",
-        "articleSource": "Trends24",
-        "articlePublishedAt": "2026-07-10T23:00:49.344Z",
-        "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
-        "translationVersion": 3,
-        "articleFallback": true
-      },
-      {
         "topic": "OpenAI",
         "locationLabel": "米国",
         "bestRank": 11,
-        "appearances": 2,
+        "appearances": 7,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-07-10T23:00:49.374Z",
+        "observedAt": "2026-07-11T02:12:51.371Z",
         "url": "https://x.com/search?q=OpenAI&src=typed_query&f=live",
         "articleTitle": "OpenAI",
         "articleTitleJa": "公開トレンド: OpenAI",
         "articleUrl": "https://trends24.in/united-states/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-07-10T23:00:49.374Z",
+        "articlePublishedAt": "2026-07-11T02:12:51.371Z",
         "summaryJa": "米国のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -149,25 +131,43 @@
         "topic": "Grok 4.5",
         "locationLabel": "カナダ",
         "bestRank": 16,
-        "appearances": 23,
+        "appearances": 19,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/canada/",
-        "observedAt": "2026-07-10T23:00:49.431Z",
+        "observedAt": "2026-07-11T02:12:51.603Z",
         "url": "https://x.com/search?q=Grok%204.5&src=typed_query&f=live",
         "articleTitle": "Grok 4.5",
         "articleTitleJa": "公開トレンド: Grok 4.5",
         "articleUrl": "https://trends24.in/canada/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-07-10T23:00:49.431Z",
+        "articlePublishedAt": "2026-07-11T02:12:51.603Z",
+        "summaryJa": "カナダのTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
+        "translationVersion": 3,
+        "articleFallback": true
+      },
+      {
+        "topic": "GPT-5.6",
+        "locationLabel": "カナダ",
+        "bestRank": 46,
+        "appearances": 4,
+        "trendSource": "Trends24",
+        "sourceUrl": "https://trends24.in/canada/",
+        "observedAt": "2026-07-11T02:12:51.603Z",
+        "url": "https://x.com/search?q=GPT-5.6&src=typed_query&f=live",
+        "articleTitle": "GPT-5.6",
+        "articleTitleJa": "公開トレンド: GPT-5.6",
+        "articleUrl": "https://trends24.in/canada/",
+        "articleSource": "Trends24",
+        "articlePublishedAt": "2026-07-11T02:12:51.603Z",
         "summaryJa": "カナダのTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
       }
     ],
-    "fetchedAt": "2026-07-10T23:00:49.470Z",
+    "fetchedAt": "2026-07-11T02:12:51.618Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-10T23:00:52.708Z"
+    "articleFetchedAt": "2026-07-11T02:12:53.952Z"
   }
 }
