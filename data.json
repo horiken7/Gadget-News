@@ -47,7 +47,7 @@
         "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
         "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
         "points": 73,
-        "comments": 373,
+        "comments": 391,
         "author": "scrlk",
         "createdAt": "2026-07-10T18:29:19Z",
         "domain": "cdn.openai.com",
@@ -67,7 +67,7 @@
         "title": "How the terrorist group Boko Haram uses frontier AI",
         "url": "https://casp.ac/reports/ai-enabled-terrorism",
         "points": 73,
-        "comments": 173,
+        "comments": 180,
         "author": "imustachyou",
         "createdAt": "2026-07-10T18:49:26Z",
         "domain": "casp.ac",
@@ -104,7 +104,7 @@
         ]
       }
     ],
-    "fetchedAt": "2026-07-11T11:00:30.485Z",
+    "fetchedAt": "2026-07-11T13:09:44.690Z",
     "mock": false
   },
   "xTrends": {
@@ -113,16 +113,16 @@
         "topic": "OpenAI",
         "locationLabel": "米国",
         "bestRank": 11,
-        "appearances": 7,
+        "appearances": 9,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-07-11T11:00:30.383Z",
+        "observedAt": "2026-07-11T13:09:44.492Z",
         "url": "https://x.com/search?q=OpenAI&src=typed_query&f=live",
         "articleTitle": "OpenAI",
         "articleTitleJa": "公開トレンド: OpenAI",
         "articleUrl": "https://trends24.in/united-states/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-07-11T11:00:30.383Z",
+        "articlePublishedAt": "2026-07-11T13:09:44.492Z",
         "summaryJa": "米国のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -130,26 +130,26 @@
       {
         "topic": "Grok 4.5",
         "locationLabel": "カナダ",
-        "bestRank": 25,
-        "appearances": 7,
+        "bestRank": 39,
+        "appearances": 4,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/canada/",
-        "observedAt": "2026-07-11T11:00:30.450Z",
+        "observedAt": "2026-07-11T13:09:44.674Z",
         "url": "https://x.com/search?q=Grok%204.5&src=typed_query&f=live",
         "articleTitle": "Grok 4.5",
         "articleTitleJa": "公開トレンド: Grok 4.5",
         "articleUrl": "https://trends24.in/canada/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-07-11T11:00:30.450Z",
+        "articlePublishedAt": "2026-07-11T13:09:44.674Z",
         "summaryJa": "カナダのTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
       }
     ],
-    "fetchedAt": "2026-07-11T11:00:30.485Z",
+    "fetchedAt": "2026-07-11T13:09:44.690Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-11T11:00:33.630Z"
+    "articleFetchedAt": "2026-07-11T13:09:46.271Z"
   }
 }
