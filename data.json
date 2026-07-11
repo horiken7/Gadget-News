@@ -2,31 +2,10 @@
   "news": {
     "items": [
       {
-        "title": "Open source AI matters more than ever, according to Hugging Face’s Clem Delangue",
-        "url": "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/",
-        "points": 133,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-07-10T19:00:00.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
-        "category": "AIニュース",
-        "impact": "高",
-        "titleJa": "Hugging FaceのClem Delangueによると、オープンソースAIはこれまで以上に重要です",
-        "summaryJa": "この記事は「Hugging FaceのClem Delangueによると、オープンソースAIはこれまで以上に重要です」を扱っています。Hugging FaceのCEOであるClem Delangue氏によると、オープンソースAIは急成長しているという。同社は近年、AIのためのGitHubのようなものに成長しており、AIビルダーはオープンモデルやデータセットを共有してダウンロードすることができ、現在ではFortune 500の約半数が使用しています。",
-        "keyPoints": [
-          "この記事は「Hugging FaceのClem Delangueによると、オープンソースAIはこれまで以上に重要です」を扱っています。",
-          "Hugging FaceのCEOであるClem Delangue氏によると、オープンソースAIは急成長しているという。",
-          "同社は近年、AIのためのGitHubのようなものに成長しており、AIビルダーはオープンモデルやデータセットを共有してダウンロードすることができ、現在ではFortune 500の約半数が使用しています。"
-        ]
-      },
-      {
         "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
         "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
         "points": 99,
-        "comments": 818,
+        "comments": 839,
         "author": "stock_toaster",
         "createdAt": "2026-07-10T20:47:09Z",
         "domain": "9to5mac.com",
@@ -83,6 +62,27 @@
         ]
       },
       {
+        "title": "OpenAI bets on families as ChatGPT goes deeper into households",
+        "url": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
+        "points": 79,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-07-11T14:13:00.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
+        "category": "AIモデル",
+        "impact": "中",
+        "titleJa": "ChatGPTが世帯に深く浸透するにつれて、OpenAIは家族に賭けます",
+        "summaryJa": "この記事は「ChatGPTが世帯に深く浸透するにつれて、OpenAIは家族に賭けます」を扱っています。ChatGPTは、求人情報によると、家族、介護者、高齢者向けのエクスペリエンスを構築するために、専任のプロダクトマネージャーを採用しています。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "keyPoints": [
+          "この記事は「ChatGPTが世帯に深く浸透するにつれて、OpenAIは家族に賭けます」を扱っています。",
+          "ChatGPTは、求人情報によると、家族、介護者、高齢者向けのエクスペリエンスを構築するために、専任のプロダクトマネージャーを採用しています。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+        ]
+      },
+      {
         "title": "GPT-5.6, Grok 4.5, Claude, and Muse Spark build the same 4 apps",
         "url": "https://www.tryai.dev/blog/gpt-5.6-build-off-12-models",
         "points": 73,
@@ -103,7 +103,7 @@
         ]
       }
     ],
-    "fetchedAt": "2026-07-11T18:56:19.467Z",
+    "fetchedAt": "2026-07-11T20:05:15.287Z",
     "mock": false
   },
   "xTrends": {
@@ -111,26 +111,26 @@
       {
         "topic": "OpenAI",
         "locationLabel": "米国",
-        "bestRank": 13,
-        "appearances": 18,
+        "bestRank": 25,
+        "appearances": 19,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-07-11T18:56:19.338Z",
+        "observedAt": "2026-07-11T20:05:15.227Z",
         "url": "https://x.com/search?q=OpenAI&src=typed_query&f=live",
         "articleTitle": "OpenAI",
         "articleTitleJa": "公開トレンド: OpenAI",
         "articleUrl": "https://trends24.in/united-states/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-07-11T18:56:19.338Z",
+        "articlePublishedAt": "2026-07-11T20:05:15.227Z",
         "summaryJa": "米国のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
       }
     ],
-    "fetchedAt": "2026-07-11T18:56:19.467Z",
+    "fetchedAt": "2026-07-11T20:05:15.287Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-11T18:56:20.767Z"
+    "articleFetchedAt": "2026-07-11T20:05:16.186Z"
   }
 }
