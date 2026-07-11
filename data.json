@@ -47,7 +47,7 @@
         "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
         "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
         "points": 73,
-        "comments": 286,
+        "comments": 317,
         "author": "scrlk",
         "createdAt": "2026-07-10T18:29:19Z",
         "domain": "cdn.openai.com",
@@ -67,7 +67,7 @@
         "title": "How the terrorist group Boko Haram uses frontier AI",
         "url": "https://casp.ac/reports/ai-enabled-terrorism",
         "points": 73,
-        "comments": 151,
+        "comments": 164,
         "author": "imustachyou",
         "createdAt": "2026-07-10T18:49:26Z",
         "domain": "casp.ac",
@@ -87,7 +87,7 @@
         "title": "GPT-5.6, Grok 4.5, Claude, and Muse Spark build the same 4 apps",
         "url": "https://www.tryai.dev/blog/gpt-5.6-build-off-12-models",
         "points": 73,
-        "comments": 79,
+        "comments": 80,
         "author": "hershyb_",
         "createdAt": "2026-07-10T20:52:28Z",
         "domain": "tryai.dev",
@@ -104,7 +104,7 @@
         ]
       }
     ],
-    "fetchedAt": "2026-07-11T02:12:51.618Z",
+    "fetchedAt": "2026-07-11T05:36:37.487Z",
     "mock": false
   },
   "xTrends": {
@@ -116,13 +116,13 @@
         "appearances": 7,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-07-11T02:12:51.371Z",
+        "observedAt": "2026-07-11T05:36:37.422Z",
         "url": "https://x.com/search?q=OpenAI&src=typed_query&f=live",
         "articleTitle": "OpenAI",
         "articleTitleJa": "公開トレンド: OpenAI",
         "articleUrl": "https://trends24.in/united-states/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-07-11T02:12:51.371Z",
+        "articlePublishedAt": "2026-07-11T05:36:37.422Z",
         "summaryJa": "米国のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -130,17 +130,17 @@
       {
         "topic": "Grok 4.5",
         "locationLabel": "カナダ",
-        "bestRank": 16,
-        "appearances": 19,
+        "bestRank": 19,
+        "appearances": 14,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/canada/",
-        "observedAt": "2026-07-11T02:12:51.603Z",
+        "observedAt": "2026-07-11T05:36:37.385Z",
         "url": "https://x.com/search?q=Grok%204.5&src=typed_query&f=live",
         "articleTitle": "Grok 4.5",
         "articleTitleJa": "公開トレンド: Grok 4.5",
         "articleUrl": "https://trends24.in/canada/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-07-11T02:12:51.603Z",
+        "articlePublishedAt": "2026-07-11T05:36:37.385Z",
         "summaryJa": "カナダのTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -148,26 +148,26 @@
       {
         "topic": "GPT-5.6",
         "locationLabel": "カナダ",
-        "bestRank": 46,
-        "appearances": 4,
+        "bestRank": 50,
+        "appearances": 1,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/canada/",
-        "observedAt": "2026-07-11T02:12:51.603Z",
+        "observedAt": "2026-07-11T05:36:37.385Z",
         "url": "https://x.com/search?q=GPT-5.6&src=typed_query&f=live",
         "articleTitle": "GPT-5.6",
         "articleTitleJa": "公開トレンド: GPT-5.6",
         "articleUrl": "https://trends24.in/canada/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-07-11T02:12:51.603Z",
+        "articlePublishedAt": "2026-07-11T05:36:37.385Z",
         "summaryJa": "カナダのTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
       }
     ],
-    "fetchedAt": "2026-07-11T02:12:51.618Z",
+    "fetchedAt": "2026-07-11T05:36:37.487Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-11T02:12:53.952Z"
+    "articleFetchedAt": "2026-07-11T05:36:41.302Z"
   }
 }
