@@ -46,7 +46,7 @@
       {
         "title": "Show HN: Reame – a CPU inference server that gets faster as it runs",
         "url": "https://github.com/swellweb/reame",
-        "points": 75,
+        "points": 76,
         "comments": 9,
         "author": "targetbridge",
         "createdAt": "2026-07-11T16:27:44Z",
@@ -67,7 +67,7 @@
         "title": "AI 2040 and the cult of intelligence",
         "url": "https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html",
         "points": 73,
-        "comments": 163,
+        "comments": 186,
         "author": "rvz",
         "createdAt": "2026-07-11T18:04:01Z",
         "domain": "geohot.github.io",
@@ -86,8 +86,8 @@
       {
         "title": "Reverse centaurs are the answer to the AI paradox (2025)",
         "url": "https://pluralistic.net/2025/09/11/vulgar-thatcherism/#there-is-an-alternative",
-        "points": 59,
-        "comments": 29,
+        "points": 61,
+        "comments": 35,
         "author": "jason_s",
         "createdAt": "2026-07-11T17:23:52Z",
         "domain": "pluralistic.net",
@@ -104,7 +104,7 @@
         ]
       }
     ],
-    "fetchedAt": "2026-07-11T21:44:18.631Z",
+    "fetchedAt": "2026-07-11T22:43:00.553Z",
     "mock": false
   },
   "xTrends": {
@@ -116,22 +116,22 @@
         "appearances": 21,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-kingdom/",
-        "observedAt": "2026-07-11T21:44:18.502Z",
+        "observedAt": "2026-07-11T22:43:00.527Z",
         "url": "https://x.com/search?q=OpenAI&src=typed_query&f=live",
         "articleTitle": "OpenAI",
         "articleTitleJa": "公開トレンド: OpenAI",
         "articleUrl": "https://trends24.in/united-kingdom/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-07-11T21:44:18.502Z",
+        "articlePublishedAt": "2026-07-11T22:43:00.527Z",
         "summaryJa": "英国のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
       }
     ],
-    "fetchedAt": "2026-07-11T21:44:18.631Z",
+    "fetchedAt": "2026-07-11T22:43:00.553Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-11T21:44:19.895Z"
+    "articleFetchedAt": "2026-07-11T22:43:01.566Z"
   }
 }
