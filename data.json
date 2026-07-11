@@ -26,7 +26,7 @@
         "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
         "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
         "points": 99,
-        "comments": 698,
+        "comments": 728,
         "author": "stock_toaster",
         "createdAt": "2026-07-10T20:47:09Z",
         "domain": "9to5mac.com",
@@ -43,31 +43,10 @@
         ]
       },
       {
-        "title": "AI Visibility Rankings Arent Stable â€ New Research Shows It Mostly Statistical Noise",
-        "url": "https://www.searchenginejournal.com/ai-visibility-rankings-arent-stable-new-research-shows-its-mostly-statistical-noise/581905/",
-        "points": 81,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-07-11T14:15:00Z",
-        "domain": "searchenginejournal.com",
-        "sourceType": "gdelt",
-        "sourceLabel": "GDELT",
-        "category": "研究",
-        "impact": "中",
-        "newsLens": "技術",
-        "titleJa": "AI可視性ランキングArent Stable â €新しい研究では、主に統計的なノイズが示されています",
-        "summaryJa": "この記事は「AI可視性ランキングArent Stable â €新しい研究では、主に統計的なノイズが示されています」を扱っています。新しい研究では、AIの可視性ランキングが実行間で変化することが示されています。単一の読み取りが主にノイズである理由と、実際に必要なサンプルの数を学びます。",
-        "keyPoints": [
-          "この記事は「AI可視性ランキングArent Stable â €新しい研究では、主に統計的なノイズが示されています」を扱っています。",
-          "新しい研究では、AIの可視性ランキングが実行間で変化することが示されています。",
-          "単一の読み取りが主にノイズである理由と、実際に必要なサンプルの数を学びます。"
-        ]
-      },
-      {
         "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
         "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
         "points": 73,
-        "comments": 403,
+        "comments": 408,
         "author": "scrlk",
         "createdAt": "2026-07-10T18:29:19Z",
         "domain": "cdn.openai.com",
@@ -102,9 +81,29 @@
           "Cambridge Program on AI Science & Policy （ CASP ）は、ケンブリッジ大学のフロンティアAIに関する学際的な研究プログラムです。",
           "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
+      },
+      {
+        "title": "GPT-5.6, Grok 4.5, Claude, and Muse Spark build the same 4 apps",
+        "url": "https://www.tryai.dev/blog/gpt-5.6-build-off-12-models",
+        "points": 73,
+        "comments": 84,
+        "author": "hershyb_",
+        "createdAt": "2026-07-10T20:52:28Z",
+        "domain": "tryai.dev",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "GPT-5.6、Grok 4.5、Claude、Muse Sparkが同じ4つのアプリを構築",
+        "summaryJa": "この記事は「GPT-5.6、Grok 4.5、Claude、Muse Sparkが同じ4つのアプリを構築」を扱っています。GPT-5.6の新しいソル、テラ、ルナのティアは、Grok 4.5、Claude、メタのミューズスパーク、そしてレイキャスター、ルービックキューブ、電卓、そしてGame of Lifeのオープンウェイトクルーと対決します。ここにコストとレイテンシを伴うすべてのビルドがあります。",
+        "keyPoints": [
+          "この記事は「GPT-5.6、Grok 4.5、Claude、Muse Sparkが同じ4つのアプリを構築」を扱っています。",
+          "GPT-5.6の新しいソル、テラ、ルナのティアは、Grok 4.5、Claude、メタのミューズスパーク、そしてレイキャスター、ルービックキューブ、電卓、そしてGame of Lifeのオープンウェイトクルーと対決します。",
+          "ここにコストとレイテンシを伴うすべてのビルドがあります。"
+        ]
       }
     ],
-    "fetchedAt": "2026-07-11T14:49:17.761Z",
+    "fetchedAt": "2026-07-11T15:52:10.209Z",
     "mock": false
   },
   "xTrends": {
@@ -113,16 +112,16 @@
         "topic": "OpenAI",
         "locationLabel": "米国",
         "bestRank": 11,
-        "appearances": 11,
+        "appearances": 12,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-07-11T14:49:17.641Z",
+        "observedAt": "2026-07-11T15:52:10.113Z",
         "url": "https://x.com/search?q=OpenAI&src=typed_query&f=live",
         "articleTitle": "OpenAI",
         "articleTitleJa": "公開トレンド: OpenAI",
         "articleUrl": "https://trends24.in/united-states/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-07-11T14:49:17.641Z",
+        "articlePublishedAt": "2026-07-11T15:52:10.113Z",
         "summaryJa": "米国のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -130,26 +129,26 @@
       {
         "topic": "Grok 4.5",
         "locationLabel": "カナダ",
-        "bestRank": 48,
-        "appearances": 3,
+        "bestRank": 49,
+        "appearances": 1,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/canada/",
-        "observedAt": "2026-07-11T14:49:17.705Z",
+        "observedAt": "2026-07-11T15:52:10.173Z",
         "url": "https://x.com/search?q=Grok%204.5&src=typed_query&f=live",
         "articleTitle": "Grok 4.5",
         "articleTitleJa": "公開トレンド: Grok 4.5",
         "articleUrl": "https://trends24.in/canada/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-07-11T14:49:17.705Z",
+        "articlePublishedAt": "2026-07-11T15:52:10.173Z",
         "summaryJa": "カナダのTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
       }
     ],
-    "fetchedAt": "2026-07-11T14:49:17.761Z",
+    "fetchedAt": "2026-07-11T15:52:10.209Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-11T14:49:19.291Z"
+    "articleFetchedAt": "2026-07-11T15:52:12.215Z"
   }
 }
