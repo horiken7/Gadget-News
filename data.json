@@ -26,7 +26,7 @@
         "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
         "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
         "points": 99,
-        "comments": 788,
+        "comments": 818,
         "author": "stock_toaster",
         "createdAt": "2026-07-10T20:47:09Z",
         "domain": "9to5mac.com",
@@ -43,42 +43,42 @@
         ]
       },
       {
-        "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
-        "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
-        "points": 73,
-        "comments": 415,
-        "author": "scrlk",
-        "createdAt": "2026-07-10T18:29:19Z",
-        "domain": "cdn.openai.com",
-        "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "GPT-5.6 Sol Ultraは、サイクルダブルカバー予想の証明を生成します[pdf]",
-        "summaryJa": "この記事は「GPT-5.6 Sol Ultraは、サイクルダブルカバー予想の証明を生成します[pdf]」を扱っています。cdn.openai.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
-        "keyPoints": [
-          "この記事は「GPT-5.6 Sol Ultraは、サイクルダブルカバー予想の証明を生成します[pdf]」を扱っています。",
-          "cdn.openai.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
-        ]
-      },
-      {
-        "title": "How the terrorist group Boko Haram uses frontier AI",
-        "url": "https://casp.ac/reports/ai-enabled-terrorism",
-        "points": 73,
-        "comments": 186,
-        "author": "imustachyou",
-        "createdAt": "2026-07-10T18:49:26Z",
-        "domain": "casp.ac",
+        "title": "Apple sues OpenAI, accusing it of stealing company secrets",
+        "url": "https://www.nytimes.com/2026/07/10/technology/apple-openai-lawsuit.html",
+        "points": 89,
+        "comments": 15,
+        "author": "jbegley",
+        "createdAt": "2026-07-10T21:20:29Z",
+        "domain": "nytimes.com",
         "sourceType": "hn",
         "category": "AIニュース",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "テロリストグループ「ボコ・ハラム」がフロンティアAIをどのように活用しているか",
-        "summaryJa": "この記事は「テロリストグループ「ボコ・ハラム」がフロンティアAIをどのように活用しているか」を扱っています。Cambridge Program on AI Science & Policy （ CASP ）は、ケンブリッジ大学のフロンティアAIに関する学際的な研究プログラムです。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "titleJa": "AppleがOpenAIを訴え、同社の機密情報を盗んだと非難",
+        "summaryJa": "この記事は「AppleがOpenAIを訴え、同社の機密情報を盗んだと非難」を扱っています。nytimes.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
         "keyPoints": [
-          "この記事は「テロリストグループ「ボコ・ハラム」がフロンティアAIをどのように活用しているか」を扱っています。",
-          "Cambridge Program on AI Science & Policy （ CASP ）は、ケンブリッジ大学のフロンティアAIに関する学際的な研究プログラムです。",
+          "この記事は「AppleがOpenAIを訴え、同社の機密情報を盗んだと非難」を扱っています。",
+          "nytimes.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+        ]
+      },
+      {
+        "title": "Apple Sues OpenAI, Alleging It Stole Trade Secrets",
+        "url": "https://www.wsj.com/tech/apple-openai-lawsuit-f86bd58c",
+        "points": 80,
+        "comments": 5,
+        "author": "m348e912",
+        "createdAt": "2026-07-10T20:35:38Z",
+        "domain": "wsj.com",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "中",
+        "newsLens": "技術",
+        "titleJa": "AppleがOpenAIを訴え、企業秘密を盗んだと主張",
+        "summaryJa": "この記事は「AppleがOpenAIを訴え、企業秘密を盗んだと主張」を扱っています。wsj.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "keyPoints": [
+          "この記事は「AppleがOpenAIを訴え、企業秘密を盗んだと主張」を扱っています。",
+          "wsj.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
           "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
       },
@@ -103,7 +103,7 @@
         ]
       }
     ],
-    "fetchedAt": "2026-07-11T17:52:21.912Z",
+    "fetchedAt": "2026-07-11T18:56:19.467Z",
     "mock": false
   },
   "xTrends": {
@@ -111,26 +111,26 @@
       {
         "topic": "OpenAI",
         "locationLabel": "米国",
-        "bestRank": 11,
-        "appearances": 17,
+        "bestRank": 13,
+        "appearances": 18,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-07-11T17:52:21.787Z",
+        "observedAt": "2026-07-11T18:56:19.338Z",
         "url": "https://x.com/search?q=OpenAI&src=typed_query&f=live",
         "articleTitle": "OpenAI",
         "articleTitleJa": "公開トレンド: OpenAI",
         "articleUrl": "https://trends24.in/united-states/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-07-11T17:52:21.787Z",
+        "articlePublishedAt": "2026-07-11T18:56:19.338Z",
         "summaryJa": "米国のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
       }
     ],
-    "fetchedAt": "2026-07-11T17:52:21.912Z",
+    "fetchedAt": "2026-07-11T18:56:19.467Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-11T17:52:22.890Z"
+    "articleFetchedAt": "2026-07-11T18:56:20.767Z"
   }
 }
