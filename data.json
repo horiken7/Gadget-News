@@ -5,7 +5,7 @@
         "title": "Mesh LLM: distributed AI computing on iroh",
         "url": "https://www.iroh.computer/blog/mesh-llm",
         "points": 101,
-        "comments": 40,
+        "comments": 49,
         "author": "tionis",
         "createdAt": "2026-07-11T22:38:57Z",
         "domain": "iroh.computer",
@@ -25,7 +25,7 @@
         "title": "Stop Telling Me to Ask an LLM",
         "url": "https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm/",
         "points": 101,
-        "comments": 102,
+        "comments": 104,
         "author": "theorchid",
         "createdAt": "2026-07-11T22:28:48Z",
         "domain": "blog.yaelwrites.com",
@@ -63,30 +63,10 @@
         ]
       },
       {
-        "title": "AI 2040 and the cult of intelligence",
-        "url": "https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html",
-        "points": 73,
-        "comments": 228,
-        "author": "rvz",
-        "createdAt": "2026-07-11T18:04:01Z",
-        "domain": "geohot.github.io",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "AI 2040とインテリジェンスの崇拝",
-        "summaryJa": "この記事は「AI 2040とインテリジェンスの崇拝」を扱っています。私も昔はそういう人たちの一人だった。私はYudkowskyを読んで、OMGの再帰的な自己改善ハードテイクオフAIが来ているようなものでした。",
-        "keyPoints": [
-          "この記事は「AI 2040とインテリジェンスの崇拝」を扱っています。",
-          "私も昔はそういう人たちの一人だった。",
-          "私はYudkowskyを読んで、OMGの再帰的な自己改善ハードテイクオフAIが来ているようなものでした。"
-        ]
-      },
-      {
         "title": "What xAI's Grok Build CLI Actually Sends to xAI",
         "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
         "points": 73,
-        "comments": 96,
+        "comments": 122,
         "author": "jhoho",
         "createdAt": "2026-07-12T01:09:50Z",
         "domain": "gist.github.com",
@@ -101,36 +81,56 @@
           "XAI Grok Build CLIが実際にxAIに送信するもの-ワイヤーレベルの分析（ grok 0.2.93 ） - grok-build-cli-wire-analysis.md。",
           "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
+      },
+      {
+        "title": "I used to love Claude, but the latest models are slowly ruining it",
+        "url": "https://www.androidauthority.com/claude-latest-models-pushback-bad-3683521/",
+        "points": 53,
+        "comments": 60,
+        "author": "Brajeshwar",
+        "createdAt": "2026-07-11T20:21:25Z",
+        "domain": "androidauthority.com",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "低",
+        "newsLens": "技術",
+        "titleJa": "私はClaudeを愛していましたが、最新のモデルが徐々にそれを台無しにしています",
+        "summaryJa": "この記事は「私はClaudeを愛していましたが、最新のモデルが徐々にそれを台無しにしています」を扱っています。長い間、Claudeは私のお気に入りのAIチャットボットを手放していました。しかし、それは最新モデルがリリースされた後に変更されました。",
+        "keyPoints": [
+          "この記事は「私はClaudeを愛していましたが、最新のモデルが徐々にそれを台無しにしています」を扱っています。",
+          "長い間、Claudeは私のお気に入りのAIチャットボットを手放していました。",
+          "しかし、それは最新モデルがリリースされた後に変更されました。"
+        ]
       }
     ],
-    "fetchedAt": "2026-07-12T05:53:32.759Z",
+    "fetchedAt": "2026-07-12T08:10:29.844Z",
     "mock": false
   },
   "xTrends": {
     "items": [
       {
         "topic": "OpenAI",
-        "locationLabel": "英国",
-        "bestRank": 1,
-        "appearances": 12,
+        "locationLabel": "カナダ",
+        "bestRank": 14,
+        "appearances": 8,
         "trendSource": "Trends24",
-        "sourceUrl": "https://trends24.in/united-kingdom/",
-        "observedAt": "2026-07-12T05:53:32.721Z",
+        "sourceUrl": "https://trends24.in/canada/",
+        "observedAt": "2026-07-12T08:10:29.812Z",
         "url": "https://x.com/search?q=OpenAI&src=typed_query&f=live",
         "articleTitle": "OpenAI",
         "articleTitleJa": "公開トレンド: OpenAI",
-        "articleUrl": "https://trends24.in/united-kingdom/",
+        "articleUrl": "https://trends24.in/canada/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-07-12T05:53:32.721Z",
-        "summaryJa": "英国のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
+        "articlePublishedAt": "2026-07-12T08:10:29.812Z",
+        "summaryJa": "カナダのTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
       }
     ],
-    "fetchedAt": "2026-07-12T05:53:32.759Z",
+    "fetchedAt": "2026-07-12T08:10:29.844Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-12T05:53:33.936Z"
+    "articleFetchedAt": "2026-07-12T08:10:30.777Z"
   }
 }
