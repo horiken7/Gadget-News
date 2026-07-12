@@ -4,8 +4,8 @@
       {
         "title": "AI Boosts Research Careers but Flattens Scientific Discovery",
         "url": "https://spectrum.ieee.org/ai-science-research-flattens-discovery",
-        "points": 111,
-        "comments": 69,
+        "points": 114,
+        "comments": 76,
         "author": "zaikunzhang",
         "createdAt": "2026-07-12T13:26:13Z",
         "domain": "spectrum.ieee.org",
@@ -45,7 +45,7 @@
         "title": "Stop Telling Me to Ask an LLM",
         "url": "https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm/",
         "points": 101,
-        "comments": 106,
+        "comments": 108,
         "author": "theorchid",
         "createdAt": "2026-07-11T22:28:48Z",
         "domain": "blog.yaelwrites.com",
@@ -65,7 +65,7 @@
         "title": "What xAI's Grok Build CLI Actually Sends to xAI",
         "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
         "points": 73,
-        "comments": 143,
+        "comments": 146,
         "author": "jhoho",
         "createdAt": "2026-07-12T01:09:50Z",
         "domain": "gist.github.com",
@@ -102,15 +102,15 @@
         ]
       }
     ],
-    "fetchedAt": "2026-07-12T16:57:26.055Z",
+    "fetchedAt": "2026-07-12T17:59:16.274Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-07-12T16:57:26.055Z",
+    "fetchedAt": "2026-07-12T17:59:16.274Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-12T16:57:26.165Z"
+    "articleFetchedAt": "2026-07-12T17:59:16.483Z"
   }
 }
