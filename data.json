@@ -2,30 +2,10 @@
   "news": {
     "items": [
       {
-        "title": "AI Boosts Research Careers but Flattens Scientific Discovery",
-        "url": "https://spectrum.ieee.org/ai-science-research-flattens-discovery",
-        "points": 114,
-        "comments": 76,
-        "author": "zaikunzhang",
-        "createdAt": "2026-07-12T13:26:13Z",
-        "domain": "spectrum.ieee.org",
-        "sourceType": "hn",
-        "category": "研究",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "AIは研究キャリアを促進しますが、科学的発見を平らにします",
-        "summaryJa": "この記事は「AIは研究キャリアを促進しますが、科学的発見を平らにします」を扱っています。新しい分析は、AIツールが探求したアイデアの範囲を狭めることを示唆しています。研究・実装面では、手法の新しさ、再現性、既存モデルとの差分が見るべき点です。",
-        "keyPoints": [
-          "この記事は「AIは研究キャリアを促進しますが、科学的発見を平らにします」を扱っています。",
-          "新しい分析は、AIツールが探求したアイデアの範囲を狭めることを示唆しています。",
-          "研究・実装面では、手法の新しさ、再現性、既存モデルとの差分が見るべき点です。"
-        ]
-      },
-      {
         "title": "Mesh LLM: distributed AI computing on iroh",
         "url": "https://www.iroh.computer/blog/mesh-llm",
         "points": 101,
-        "comments": 72,
+        "comments": 76,
         "author": "tionis",
         "createdAt": "2026-07-11T22:38:57Z",
         "domain": "iroh.computer",
@@ -62,55 +42,77 @@
         ]
       },
       {
-        "title": "What xAI's Grok Build CLI Actually Sends to xAI",
-        "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
-        "points": 73,
-        "comments": 146,
-        "author": "jhoho",
-        "createdAt": "2026-07-12T01:09:50Z",
-        "domain": "gist.github.com",
+        "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
+        "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
+        "points": 88,
+        "comments": 27,
+        "author": "systima",
+        "createdAt": "2026-07-12T18:25:51Z",
+        "domain": "systima.ai",
         "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "高",
+        "category": "AIモデル",
+        "impact": "中",
         "newsLens": "技術",
-        "titleJa": "XAIのGrok Build CLIが実際にxAIに送信するもの",
-        "summaryJa": "この記事は「XAIのGrok Build CLIが実際にxAIに送信するもの」を扱っています。XAI Grok Build CLIが実際にxAIに送信するもの-ワイヤーレベルの分析（ grok 0.2.93 ） - grok-build-cli-wire-analysis.md。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "titleJa": "Claudeコードはプロンプトを読む前に33 kトークンを送信します。OpenCodeは7 kを送信します",
+        "summaryJa": "この記事は「Claudeコードはプロンプトを読む前に33 kトークンを送信します。OpenCodeは7 kを送信します」を扱っています。私たちは通常OpenCodeを使用していますが、Meridianの問題のためにClaude Codeをしばらく使用することを「強制」されました。その間、OpenCodeを使用したときよりもはるかに早く、使用量メーターが上昇するのを見ました。",
         "keyPoints": [
-          "この記事は「XAIのGrok Build CLIが実際にxAIに送信するもの」を扱っています。",
-          "XAI Grok Build CLIが実際にxAIに送信するもの-ワイヤーレベルの分析（ grok 0.2.93 ） - grok-build-cli-wire-analysis.md。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+          "この記事は「Claudeコードはプロンプトを読む前に33 kトークンを送信します。",
+          "OpenCodeは7 kを送信します」を扱っています。",
+          "私たちは通常OpenCodeを使用していますが、Meridianの問題のためにClaude Codeをしばらく使用することを「強制」されました。"
         ]
       },
       {
-        "title": "I used to love Claude, but the latest models are slowly ruining it",
-        "url": "https://www.androidauthority.com/claude-latest-models-pushback-bad-3683521/",
-        "points": 53,
-        "comments": 61,
-        "author": "Brajeshwar",
-        "createdAt": "2026-07-11T20:21:25Z",
-        "domain": "androidauthority.com",
-        "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "低",
-        "newsLens": "技術",
-        "titleJa": "私はClaudeを愛していましたが、最新のモデルが徐々にそれを台無しにしています",
-        "summaryJa": "この記事は「私はClaudeを愛していましたが、最新のモデルが徐々にそれを台無しにしています」を扱っています。長い間、Claudeは私のお気に入りのAIチャットボットを手放していました。しかし、それは最新モデルがリリースされた後に変更されました。",
+        "title": "Over 200 protesters march to OpenAI , Google DeepMind offices demanding AI regulation and pause in AI race",
+        "url": "https://www.hindustantimes.com/world-news/us-news/over-200-protesters-march-to-openai-google-deepmind-offices-demanding-ai-regulation-and-pause-in-ai-race-101783875995570.html",
+        "points": 79,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-07-12T18:30:00Z",
+        "domain": "hindustantimes.com",
+        "sourceType": "gdelt",
+        "sourceLabel": "GDELT",
+        "category": "AIニュース",
+        "impact": "中",
+        "newsLens": "一般",
+        "titleJa": "200人以上の抗議者がOpenAIに行進、Google DeepMindオフィスはAI規制とAIレースの一時停止を要求",
+        "summaryJa": "この記事は「200人以上の抗議者がOpenAIに行進、Google DeepMindオフィスはAI規制とAIレースの一時停止を要求」を扱っています。200人以上の抗議者がOpenAIとGoogle DeepMindのオフィスに行進し、より厳しいAI規制と高度なAIモデルの開発の一時停止を求めた。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
-          "この記事は「私はClaudeを愛していましたが、最新のモデルが徐々にそれを台無しにしています」を扱っています。",
-          "長い間、Claudeは私のお気に入りのAIチャットボットを手放していました。",
-          "しかし、それは最新モデルがリリースされた後に変更されました。"
+          "この記事は「200人以上の抗議者がOpenAIに行進、Google DeepMindオフィスはAI規制とAIレースの一時停止を要求」を扱っています。",
+          "200人以上の抗議者がOpenAIとGoogle DeepMindのオフィスに行進し、より厳しいAI規制と高度なAIモデルの開発の一時停止を求めた。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+        ]
+      },
+      {
+        "title": "Apple sues OpenAI over alleged theft of hardware trade secrets",
+        "url": "http://www.bignewsnetwork.com/news/279181168/apple-sues-openai-over-alleged-theft-of-hardware-trade-secrets",
+        "points": 53,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-07-12T18:30:00Z",
+        "domain": "bignewsnetwork.com",
+        "sourceType": "gdelt",
+        "sourceLabel": "GDELT",
+        "category": "ハードウェア",
+        "impact": "低",
+        "newsLens": "一般",
+        "titleJa": "Appleは、ハードウェアの企業秘密の窃盗の疑いでOpenAIを訴えます",
+        "summaryJa": "この記事は「Appleは、ハードウェアの企業秘密の窃盗の疑いでOpenAIを訴えます」を扱っています。Appleは、OpenAIと2人の元従業員を起訴し、ChatGPTメーカーの消費者向けハードウェアへの取り組みを加速させ、2つのテクノロジー企業間の緊張を高めるために企業秘密を不正流用したと非難している。一般向けには、AIがソフトウェアだけでなく、ロボットや端末など現実の製品に広がっている点が重要です。",
+        "keyPoints": [
+          "この記事は「Appleは、ハードウェアの企業秘密の窃盗の疑いでOpenAIを訴えます」を扱っています。",
+          "Appleは、OpenAIと2人の元従業員を起訴し、ChatGPTメーカーの消費者向けハードウェアへの取り組みを加速させ、2つのテクノロジー企業間の緊張を高めるために企業秘密を不正流用したと非難している。",
+          "一般向けには、AIがソフトウェアだけでなく、ロボットや端末など現実の製品に広がっている点が重要です。"
         ]
       }
     ],
-    "fetchedAt": "2026-07-12T17:59:16.274Z",
+    "fetchedAt": "2026-07-12T19:14:25.078Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-07-12T17:59:16.274Z",
+    "fetchedAt": "2026-07-12T19:14:25.077Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-12T17:59:16.483Z"
+    "articleFetchedAt": "2026-07-12T19:14:25.187Z"
   }
 }
