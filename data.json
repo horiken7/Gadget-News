@@ -2,30 +2,10 @@
   "news": {
     "items": [
       {
-        "title": "Mesh LLM: distributed AI computing on iroh",
-        "url": "https://www.iroh.computer/blog/mesh-llm",
-        "points": 101,
-        "comments": 77,
-        "author": "tionis",
-        "createdAt": "2026-07-11T22:38:57Z",
-        "domain": "iroh.computer",
-        "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "Mesh LLM ： irohでの分散型AIコンピューティング",
-        "summaryJa": "この記事は「Mesh LLM ： irohでの分散型AIコンピューティング」を扱っています。Mesh LLMがマシン間で既存のGPUリソースを、iroh上に構築された単一のOpenAI互換APIにプールする方法。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
-        "keyPoints": [
-          "この記事は「Mesh LLM ： irohでの分散型AIコンピューティング」を扱っています。",
-          "Mesh LLMがマシン間で既存のGPUリソースを、iroh上に構築された単一のOpenAI互換APIにプールする方法。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
-        ]
-      },
-      {
         "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
         "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
         "points": 101,
-        "comments": 123,
+        "comments": 177,
         "author": "systima",
         "createdAt": "2026-07-12T18:25:51Z",
         "domain": "systima.ai",
@@ -44,8 +24,8 @@
       {
         "title": "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
         "url": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
-        "points": 78,
-        "comments": 6,
+        "points": 83,
+        "comments": 7,
         "author": "brryant",
         "createdAt": "2026-07-12T17:13:07Z",
         "domain": "ploy.ai",
@@ -62,10 +42,30 @@
         ]
       },
       {
+        "title": "The One-Step Trap (In AI Research)",
+        "url": "http://incompleteideas.net/IncIdeas/OneStepTrap.html",
+        "points": 77,
+        "comments": 5,
+        "author": "jxmorris12",
+        "createdAt": "2026-07-12T18:41:15Z",
+        "domain": "incompleteideas.net",
+        "sourceType": "hn",
+        "category": "研究",
+        "impact": "低",
+        "newsLens": "技術",
+        "titleJa": "ワンステップトラップ（ AI研究中）",
+        "summaryJa": "この記事は「ワンステップトラップ（ AI研究中）」を扱っています。incompleteideas.netが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。研究・実装面では、手法の新しさ、再現性、既存モデルとの差分が見るべき点です。",
+        "keyPoints": [
+          "この記事は「ワンステップトラップ（ AI研究中）」を扱っています。",
+          "incompleteideas.netが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "研究・実装面では、手法の新しさ、再現性、既存モデルとの差分が見るべき点です。"
+        ]
+      },
+      {
         "title": "What xAI's Grok build CLI sends to xAI: A wire-level analysis",
         "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
         "points": 73,
-        "comments": 148,
+        "comments": 153,
         "author": "jhoho",
         "createdAt": "2026-07-12T01:09:50Z",
         "domain": "gist.github.com",
@@ -85,7 +85,7 @@
         "title": "Claude Code May–July 2026 weekly limits promotion",
         "url": "https://support.claude.com/en/articles/15910845-claude-code-may-july-2026-weekly-limits-promotion",
         "points": 51,
-        "comments": 59,
+        "comments": 60,
         "author": "alvis",
         "createdAt": "2026-07-12T18:01:29Z",
         "domain": "support.claude.com",
@@ -102,15 +102,15 @@
         ]
       }
     ],
-    "fetchedAt": "2026-07-12T20:40:35.237Z",
+    "fetchedAt": "2026-07-12T21:44:26.854Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-07-12T20:40:35.237Z",
+    "fetchedAt": "2026-07-12T21:44:26.854Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-12T20:40:35.541Z"
+    "articleFetchedAt": "2026-07-12T21:44:26.963Z"
   }
 }
