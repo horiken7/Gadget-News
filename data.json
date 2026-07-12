@@ -5,7 +5,7 @@
         "title": "Mesh LLM: distributed AI computing on iroh",
         "url": "https://www.iroh.computer/blog/mesh-llm",
         "points": 101,
-        "comments": 59,
+        "comments": 63,
         "author": "tionis",
         "createdAt": "2026-07-11T22:38:57Z",
         "domain": "iroh.computer",
@@ -45,7 +45,7 @@
         "title": "Wealthy AI workers send San Francisco house prices soaring",
         "url": "https://www.bbc.com/news/articles/c9q29j47v9ro",
         "points": 96,
-        "comments": 41,
+        "comments": 43,
         "author": "root-parent",
         "createdAt": "2026-07-11T20:06:38Z",
         "domain": "bbc.com",
@@ -86,7 +86,7 @@
         "title": "What xAI's Grok Build CLI Actually Sends to xAI",
         "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
         "points": 73,
-        "comments": 130,
+        "comments": 133,
         "author": "jhoho",
         "createdAt": "2026-07-12T01:09:50Z",
         "domain": "gist.github.com",
@@ -103,7 +103,7 @@
         ]
       }
     ],
-    "fetchedAt": "2026-07-12T10:23:49.568Z",
+    "fetchedAt": "2026-07-12T11:56:15.852Z",
     "mock": false
   },
   "xTrends": {
@@ -112,25 +112,25 @@
         "topic": "OpenAI",
         "locationLabel": "カナダ",
         "bestRank": 14,
-        "appearances": 5,
+        "appearances": 3,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/canada/",
-        "observedAt": "2026-07-12T10:23:49.466Z",
+        "observedAt": "2026-07-12T11:56:15.793Z",
         "url": "https://x.com/search?q=OpenAI&src=typed_query&f=live",
         "articleTitle": "OpenAI",
         "articleTitleJa": "公開トレンド: OpenAI",
         "articleUrl": "https://trends24.in/canada/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-07-12T10:23:49.466Z",
+        "articlePublishedAt": "2026-07-12T11:56:15.793Z",
         "summaryJa": "カナダのTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
       }
     ],
-    "fetchedAt": "2026-07-12T10:23:49.568Z",
+    "fetchedAt": "2026-07-12T11:56:15.852Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-12T10:23:50.722Z"
+    "articleFetchedAt": "2026-07-12T11:56:16.826Z"
   }
 }
