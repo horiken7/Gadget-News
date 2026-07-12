@@ -2,30 +2,10 @@
   "news": {
     "items": [
       {
-        "title": "Stop Telling Me to Ask an LLM",
-        "url": "https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm/",
-        "points": 101,
-        "comments": 89,
-        "author": "theorchid",
-        "createdAt": "2026-07-11T22:28:48Z",
-        "domain": "blog.yaelwrites.com",
-        "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "LLMに尋ねるように言うのはやめてください",
-        "summaryJa": "この記事は「LLMに尋ねるように言うのはやめてください」を扱っています。blog.yaelwrites.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
-        "keyPoints": [
-          "この記事は「LLMに尋ねるように言うのはやめてください」を扱っています。",
-          "blog.yaelwrites.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
-        ]
-      },
-      {
         "title": "Mesh LLM: distributed AI computing on iroh",
         "url": "https://www.iroh.computer/blog/mesh-llm",
-        "points": 94,
-        "comments": 26,
+        "points": 101,
+        "comments": 40,
         "author": "tionis",
         "createdAt": "2026-07-11T22:38:57Z",
         "domain": "iroh.computer",
@@ -42,23 +22,22 @@
         ]
       },
       {
-        "title": "给多智能体LLM装上 「 图记忆工作流路由器 」， 搞定调用 、 协作规划",
-        "url": "https://www.163.com/dy/article/L1KIHKD80511ABV6.html",
-        "points": 81,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-07-12T01:45:00Z",
-        "domain": "163.com",
-        "sourceType": "gdelt",
-        "sourceLabel": "GDELT",
+        "title": "Stop Telling Me to Ask an LLM",
+        "url": "https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm/",
+        "points": 101,
+        "comments": 102,
+        "author": "theorchid",
+        "createdAt": "2026-07-11T22:28:48Z",
+        "domain": "blog.yaelwrites.com",
+        "sourceType": "hn",
         "category": "AIモデル",
-        "impact": "中",
+        "impact": "高",
         "newsLens": "技術",
-        "titleJa": "给多智能体LLM装上 「 图记忆工作流路由器 」， 搞定调用 、 协作规划",
-        "summaryJa": "この記事は「给多智能体LLM装上 「 图记忆工作流路由器 」， 搞定调用 、 协作规划」を扱っています。给多智能体LLM装上「图记忆工作流路由器」 ，,,,,, query搞定调用、协作规划调用路由工作流系列模型, workflow。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "titleJa": "LLMに尋ねるように言うのはやめてください",
+        "summaryJa": "この記事は「LLMに尋ねるように言うのはやめてください」を扱っています。blog.yaelwrites.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
         "keyPoints": [
-          "この記事は「给多智能体LLM装上 「 图记忆工作流路由器 」， 搞定调用 、 协作规划」を扱っています。",
-          "给多智能体LLM装上「图记忆工作流路由器」 ，,,,,, query搞定调用、协作规划调用路由工作流系列模型, workflow。",
+          "この記事は「LLMに尋ねるように言うのはやめてください」を扱っています。",
+          "blog.yaelwrites.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
           "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
       },
@@ -84,28 +63,47 @@
         ]
       },
       {
-        "title": "बैंकिंग में AI और क्वांटम टेक्नोलॉजी को बढ़ावा , IIT दिल्ली - नेटवेस्ट ने शुरू किया फिनटेक प्रोग्राम - iit delhi natwest launch fintech program for ai banking",
-        "url": "https://www.jagran.com/delhi/new-delhi-city-iit-delhi-natwest-launch-fintech-program-for-ai-banking-40303416.html",
-        "points": 53,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-07-12T02:00:00Z",
-        "domain": "jagran.com",
-        "sourceType": "gdelt",
-        "sourceLabel": "GDELT",
-        "category": "開発ツール",
-        "impact": "低",
-        "newsLens": "一般",
-        "titleJa": "AIニュース: iit delhi natwest launch fintech program for ai banking",
-        "summaryJa": "この記事は「iit delhi natwest launch fintech program for ai banking」を扱っています。月月月月月月月月月月月月月月月月月月月月月月月月月。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "title": "AI 2040 and the cult of intelligence",
+        "url": "https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html",
+        "points": 73,
+        "comments": 228,
+        "author": "rvz",
+        "createdAt": "2026-07-11T18:04:01Z",
+        "domain": "geohot.github.io",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "AI 2040とインテリジェンスの崇拝",
+        "summaryJa": "この記事は「AI 2040とインテリジェンスの崇拝」を扱っています。私も昔はそういう人たちの一人だった。私はYudkowskyを読んで、OMGの再帰的な自己改善ハードテイクオフAIが来ているようなものでした。",
         "keyPoints": [
-          "この記事は「iit delhi natwest launch fintech program for ai banking」を扱っています。",
-          "月月月月月月月月月月月月月月月月月月月月月月月月月。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+          "この記事は「AI 2040とインテリジェンスの崇拝」を扱っています。",
+          "私も昔はそういう人たちの一人だった。",
+          "私はYudkowskyを読んで、OMGの再帰的な自己改善ハードテイクオフAIが来ているようなものでした。"
+        ]
+      },
+      {
+        "title": "What xAI's Grok Build CLI Actually Sends to xAI",
+        "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
+        "points": 73,
+        "comments": 96,
+        "author": "jhoho",
+        "createdAt": "2026-07-12T01:09:50Z",
+        "domain": "gist.github.com",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "XAIのGrok Build CLIが実際にxAIに送信するもの",
+        "summaryJa": "この記事は「XAIのGrok Build CLIが実際にxAIに送信するもの」を扱っています。XAI Grok Build CLIが実際にxAIに送信するもの-ワイヤーレベルの分析（ grok 0.2.93 ） - grok-build-cli-wire-analysis.md。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "keyPoints": [
+          "この記事は「XAIのGrok Build CLIが実際にxAIに送信するもの」を扱っています。",
+          "XAI Grok Build CLIが実際にxAIに送信するもの-ワイヤーレベルの分析（ grok 0.2.93 ） - grok-build-cli-wire-analysis.md。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
       }
     ],
-    "fetchedAt": "2026-07-12T02:23:51.398Z",
+    "fetchedAt": "2026-07-12T05:53:32.759Z",
     "mock": false
   },
   "xTrends": {
@@ -113,26 +111,26 @@
       {
         "topic": "OpenAI",
         "locationLabel": "英国",
-        "bestRank": 13,
-        "appearances": 16,
+        "bestRank": 1,
+        "appearances": 12,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-kingdom/",
-        "observedAt": "2026-07-12T02:23:51.381Z",
+        "observedAt": "2026-07-12T05:53:32.721Z",
         "url": "https://x.com/search?q=OpenAI&src=typed_query&f=live",
         "articleTitle": "OpenAI",
         "articleTitleJa": "公開トレンド: OpenAI",
         "articleUrl": "https://trends24.in/united-kingdom/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-07-12T02:23:51.381Z",
+        "articlePublishedAt": "2026-07-12T05:53:32.721Z",
         "summaryJa": "英国のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
       }
     ],
-    "fetchedAt": "2026-07-12T02:23:51.398Z",
+    "fetchedAt": "2026-07-12T05:53:32.759Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-12T02:23:52.522Z"
+    "articleFetchedAt": "2026-07-12T05:53:33.936Z"
   }
 }
