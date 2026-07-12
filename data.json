@@ -5,7 +5,7 @@
         "title": "Mesh LLM: distributed AI computing on iroh",
         "url": "https://www.iroh.computer/blog/mesh-llm",
         "points": 101,
-        "comments": 49,
+        "comments": 59,
         "author": "tionis",
         "createdAt": "2026-07-11T22:38:57Z",
         "domain": "iroh.computer",
@@ -42,6 +42,26 @@
         ]
       },
       {
+        "title": "Wealthy AI workers send San Francisco house prices soaring",
+        "url": "https://www.bbc.com/news/articles/c9q29j47v9ro",
+        "points": 96,
+        "comments": 41,
+        "author": "root-parent",
+        "createdAt": "2026-07-11T20:06:38Z",
+        "domain": "bbc.com",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "低",
+        "newsLens": "一般",
+        "titleJa": "裕福なAI労働者がサンフランシスコの住宅価格を高騰させる",
+        "summaryJa": "この記事は「裕福なAI労働者がサンフランシスコの住宅価格を高騰させる」を扱っています。最新の数字によると、市内の住宅価格の中央値は現在170万$で、過去最高となっています。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "keyPoints": [
+          "この記事は「裕福なAI労働者がサンフランシスコの住宅価格を高騰させる」を扱っています。",
+          "最新の数字によると、市内の住宅価格の中央値は現在170万$で、過去最高となっています。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+        ]
+      },
+      {
         "title": "OpenAI bets on families as ChatGPT goes deeper into households",
         "url": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
         "points": 79,
@@ -66,7 +86,7 @@
         "title": "What xAI's Grok Build CLI Actually Sends to xAI",
         "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
         "points": 73,
-        "comments": 122,
+        "comments": 130,
         "author": "jhoho",
         "createdAt": "2026-07-12T01:09:50Z",
         "domain": "gist.github.com",
@@ -81,29 +101,9 @@
           "XAI Grok Build CLIが実際にxAIに送信するもの-ワイヤーレベルの分析（ grok 0.2.93 ） - grok-build-cli-wire-analysis.md。",
           "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
-      },
-      {
-        "title": "I used to love Claude, but the latest models are slowly ruining it",
-        "url": "https://www.androidauthority.com/claude-latest-models-pushback-bad-3683521/",
-        "points": 53,
-        "comments": 60,
-        "author": "Brajeshwar",
-        "createdAt": "2026-07-11T20:21:25Z",
-        "domain": "androidauthority.com",
-        "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "低",
-        "newsLens": "技術",
-        "titleJa": "私はClaudeを愛していましたが、最新のモデルが徐々にそれを台無しにしています",
-        "summaryJa": "この記事は「私はClaudeを愛していましたが、最新のモデルが徐々にそれを台無しにしています」を扱っています。長い間、Claudeは私のお気に入りのAIチャットボットを手放していました。しかし、それは最新モデルがリリースされた後に変更されました。",
-        "keyPoints": [
-          "この記事は「私はClaudeを愛していましたが、最新のモデルが徐々にそれを台無しにしています」を扱っています。",
-          "長い間、Claudeは私のお気に入りのAIチャットボットを手放していました。",
-          "しかし、それは最新モデルがリリースされた後に変更されました。"
-        ]
       }
     ],
-    "fetchedAt": "2026-07-12T08:10:29.844Z",
+    "fetchedAt": "2026-07-12T10:23:49.568Z",
     "mock": false
   },
   "xTrends": {
@@ -112,25 +112,25 @@
         "topic": "OpenAI",
         "locationLabel": "カナダ",
         "bestRank": 14,
-        "appearances": 8,
+        "appearances": 5,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/canada/",
-        "observedAt": "2026-07-12T08:10:29.812Z",
+        "observedAt": "2026-07-12T10:23:49.466Z",
         "url": "https://x.com/search?q=OpenAI&src=typed_query&f=live",
         "articleTitle": "OpenAI",
         "articleTitleJa": "公開トレンド: OpenAI",
         "articleUrl": "https://trends24.in/canada/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-07-12T08:10:29.812Z",
+        "articlePublishedAt": "2026-07-12T10:23:49.466Z",
         "summaryJa": "カナダのTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
       }
     ],
-    "fetchedAt": "2026-07-12T08:10:29.844Z",
+    "fetchedAt": "2026-07-12T10:23:49.568Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-12T08:10:30.777Z"
+    "articleFetchedAt": "2026-07-12T10:23:50.722Z"
   }
 }
