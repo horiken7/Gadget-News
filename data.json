@@ -5,7 +5,7 @@
         "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
         "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
         "points": 101,
-        "comments": 177,
+        "comments": 202,
         "author": "systima",
         "createdAt": "2026-07-12T18:25:51Z",
         "domain": "systima.ai",
@@ -24,14 +24,14 @@
       {
         "title": "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
         "url": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
-        "points": 83,
-        "comments": 7,
+        "points": 89,
+        "comments": 15,
         "author": "brryant",
         "createdAt": "2026-07-12T17:13:07Z",
         "domain": "ploy.ai",
         "sourceType": "hn",
         "category": "AIモデル",
-        "impact": "低",
+        "impact": "中",
         "newsLens": "技術",
         "titleJa": "本番AIエージェントをGPT-5.6に移行： 2.2倍高速、27 ％安価",
         "summaryJa": "この記事は「本番AIエージェントをGPT-5.6に移行： 2.2倍高速、27 ％安価」を扱っています。私たちはフロンティアモデルを高い水準に保ち、4か月間Claude・オーパスに勝るものはありませんでした。これが、私たちが持っていればよかった移行ガイドです。",
@@ -44,8 +44,8 @@
       {
         "title": "The One-Step Trap (In AI Research)",
         "url": "http://incompleteideas.net/IncIdeas/OneStepTrap.html",
-        "points": 77,
-        "comments": 5,
+        "points": 78,
+        "comments": 7,
         "author": "jxmorris12",
         "createdAt": "2026-07-12T18:41:15Z",
         "domain": "incompleteideas.net",
@@ -102,15 +102,15 @@
         ]
       }
     ],
-    "fetchedAt": "2026-07-12T21:44:26.854Z",
+    "fetchedAt": "2026-07-12T22:42:50.386Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-07-12T21:44:26.854Z",
+    "fetchedAt": "2026-07-12T22:42:50.386Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-12T21:44:26.963Z"
+    "articleFetchedAt": "2026-07-12T22:42:50.511Z"
   }
 }
