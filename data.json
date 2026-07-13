@@ -5,7 +5,7 @@
         "title": "Samsung Health app threatens data deletion if users opt out AI training",
         "url": "https://neow.in/cWsyMTV3",
         "points": 127,
-        "comments": 52,
+        "comments": 61,
         "author": "bundie",
         "createdAt": "2026-07-13T20:01:43Z",
         "domain": "neow.in",
@@ -67,7 +67,7 @@
         "title": "Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
         "url": "https://raymyers.org/post/zed-creator-calls-spade-a-spade/",
         "points": 73,
-        "comments": 688,
+        "comments": 695,
         "author": "crowdhailer",
         "createdAt": "2026-07-13T08:39:39Z",
         "domain": "raymyers.org",
@@ -104,15 +104,15 @@
         ]
       }
     ],
-    "fetchedAt": "2026-07-13T22:53:06.453Z",
+    "fetchedAt": "2026-07-13T23:51:19.233Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-07-13T22:53:06.453Z",
+    "fetchedAt": "2026-07-13T23:51:19.233Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-13T22:53:06.597Z"
+    "articleFetchedAt": "2026-07-13T23:51:19.352Z"
   }
 }
