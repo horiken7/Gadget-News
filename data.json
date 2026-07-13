@@ -5,7 +5,7 @@
         "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
         "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
         "points": 101,
-        "comments": 323,
+        "comments": 337,
         "author": "systima",
         "createdAt": "2026-07-12T18:25:51Z",
         "domain": "systima.ai",
@@ -22,30 +22,30 @@
         ]
       },
       {
-        "title": "Ask HN: Add flag for AI-generated articles",
-        "url": "https://news.ycombinator.com/item?id=48886741",
-        "points": 93,
-        "comments": 311,
-        "author": "levkk",
-        "createdAt": "2026-07-13T01:24:20Z",
-        "domain": "news.ycombinator.com",
+        "title": "Show HN: Kurvengefahr – browser CAD/CAM for pen plotters",
+        "url": "https://kurvengefahr.org/",
+        "points": 74,
+        "comments": 6,
+        "author": "tibordp",
+        "createdAt": "2026-07-12T14:09:23Z",
+        "domain": "kurvengefahr.org",
         "sourceType": "hn",
         "category": "AIニュース",
-        "impact": "高",
+        "impact": "低",
         "newsLens": "技術",
-        "titleJa": "HNに質問: AIが生成した記事にフラグを追加します。",
-        "summaryJa": "この記事は「HNに質問: AIが生成した記事にフラグを追加します。」を扱っています。HNは、記事にAI生成としてフラグを立てる機能を追加する必要がありますか？これは通常のフラグとして機能する必要はありません。",
+        "titleJa": "Show HN: Kurvengefahr –ペンプロッター用ブラウザCAD/CAM",
+        "summaryJa": "この記事は「Show HN: Kurvengefahr –ペンプロッター用ブラウザCAD/CAM」を扱っています。数年前、Prusa MK 4 （ https://www.printables.com/model/827264-pen-plotter-attachme... ）のペンプロッターアタッチメントを作成しましたが、当時はアートワークをGコードに変換する良い方法がなく、プロジェクトをしばらく氷の上に置きました。最近、もう一度ラインアートに触れたいと思って、簡単にするために小さなブラウザアプリを作りました。",
         "keyPoints": [
-          "この記事は「HNに質問: AIが生成した記事にフラグを追加します。",
-          "HNは、記事にAI生成としてフラグを立てる機能を追加する必要がありますか。",
-          "これは通常のフラグとして機能する必要はありません。"
+          "この記事は「Show HN: Kurvengefahr –ペンプロッター用ブラウザCAD/CAM」を扱っています。",
+          "数年前、Prusa MK 4 （ https://www.printables.com/model/827264-pen-plotter-attachme... ）のペンプロッターアタッチメントを作成しましたが、当時はアートワークをGコードに変換する良い方法がなく、プロジェクトをしばらく氷の上に置きました。",
+          "最近、もう一度ラインアートに触れたいと思って、簡単にするために小さなブラウザアプリを作りました。"
         ]
       },
       {
         "title": "Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
         "url": "https://raymyers.org/post/zed-creator-calls-spade-a-spade/",
         "points": 73,
-        "comments": 114,
+        "comments": 330,
         "author": "crowdhailer",
         "createdAt": "2026-07-13T08:39:39Z",
         "domain": "raymyers.org",
@@ -65,7 +65,7 @@
         "title": "Claude Code May–July 2026 weekly limits promotion",
         "url": "https://support.claude.com/en/articles/15910845-claude-code-may-july-2026-weekly-limits-promotion",
         "points": 52,
-        "comments": 64,
+        "comments": 66,
         "author": "alvis",
         "createdAt": "2026-07-12T18:01:29Z",
         "domain": "support.claude.com",
@@ -102,7 +102,7 @@
         ]
       }
     ],
-    "fetchedAt": "2026-07-13T10:21:28.505Z",
+    "fetchedAt": "2026-07-13T13:19:39.438Z",
     "mock": false
   },
   "xTrends": {
@@ -114,7 +114,7 @@
         "appearances": 2,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-07-13T10:21:28.428Z",
+        "observedAt": "2026-07-13T13:19:39.358Z",
         "url": "https://x.com/search?q=AI-generated&src=typed_query&f=live",
         "articleTitle": "We charge $10k a week to delete AI-generated code",
         "articleTitleJa": "AI が生成したコードの削除には 1 週間あたり 10,000 ドルを請求します",
@@ -131,7 +131,7 @@
         "appearances": 2,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-07-13T10:21:28.428Z",
+        "observedAt": "2026-07-13T13:19:39.358Z",
         "url": "https://x.com/search?q=AI%20Generated&src=typed_query&f=live",
         "articleTitle": "We charge $10k a week to delete AI-generated code",
         "articleTitleJa": "AI が生成したコードの削除には 1 週間あたり 10,000 ドルを請求します",
@@ -142,10 +142,10 @@
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-07-13T10:21:28.505Z",
+    "fetchedAt": "2026-07-13T13:19:39.438Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-13T10:21:30.609Z"
+    "articleFetchedAt": "2026-07-13T13:19:42.726Z"
   }
 }
