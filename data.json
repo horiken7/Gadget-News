@@ -5,7 +5,7 @@
         "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
         "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
         "points": 101,
-        "comments": 337,
+        "comments": 352,
         "author": "systima",
         "createdAt": "2026-07-12T18:25:51Z",
         "domain": "systima.ai",
@@ -22,30 +22,52 @@
         ]
       },
       {
-        "title": "Show HN: Kurvengefahr – browser CAD/CAM for pen plotters",
-        "url": "https://kurvengefahr.org/",
-        "points": 74,
-        "comments": 6,
-        "author": "tibordp",
-        "createdAt": "2026-07-12T14:09:23Z",
-        "domain": "kurvengefahr.org",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "低",
-        "newsLens": "技術",
-        "titleJa": "Show HN: Kurvengefahr –ペンプロッター用ブラウザCAD/CAM",
-        "summaryJa": "この記事は「Show HN: Kurvengefahr –ペンプロッター用ブラウザCAD/CAM」を扱っています。数年前、Prusa MK 4 （ https://www.printables.com/model/827264-pen-plotter-attachme... ）のペンプロッターアタッチメントを作成しましたが、当時はアートワークをGコードに変換する良い方法がなく、プロジェクトをしばらく氷の上に置きました。最近、もう一度ラインアートに触れたいと思って、簡単にするために小さなブラウザアプリを作りました。",
+        "title": "Anthropic starts localizing Claude pricing for India, its biggest market after the US",
+        "url": "https://techcrunch.com/2026/07/13/anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-the-us/",
+        "points": 79,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-07-13T15:34:59.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
+        "category": "AIモデル",
+        "impact": "中",
+        "titleJa": "Anthropicは、米国に次ぐ最大の市場であるインドのClaude価格設定のローカライズを開始",
+        "summaryJa": "この記事は「Anthropicは、米国に次ぐ最大の市場であるインドのClaude価格設定のローカライズを開始」を扱っています。インドのClaudeユーザーは、インドルピー建てのサブスクリプションプランを見始めています。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
-          "この記事は「Show HN: Kurvengefahr –ペンプロッター用ブラウザCAD/CAM」を扱っています。",
-          "数年前、Prusa MK 4 （ https://www.printables.com/model/827264-pen-plotter-attachme... ）のペンプロッターアタッチメントを作成しましたが、当時はアートワークをGコードに変換する良い方法がなく、プロジェクトをしばらく氷の上に置きました。",
-          "最近、もう一度ラインアートに触れたいと思って、簡単にするために小さなブラウザアプリを作りました。"
+          "この記事は「Anthropicは、米国に次ぐ最大の市場であるインドのClaude価格設定のローカライズを開始」を扱っています。",
+          "インドのClaudeユーザーは、インドルピー建てのサブスクリプションプランを見始めています。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+        ]
+      },
+      {
+        "title": "Waze adds new AI-powered features and customization updates",
+        "url": "https://techcrunch.com/2026/07/13/waze-adds-new-ai-powered-features-and-customization-updates/",
+        "points": 79,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-07-13T14:18:16.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
+        "category": "AIニュース",
+        "impact": "中",
+        "titleJa": "Wazeは、新しいAI搭載の機能とカスタマイズのアップデートを追加します",
+        "summaryJa": "この記事は「Wazeは、新しいAI搭載の機能とカスタマイズのアップデートを追加します」を扱っています。新機能の一部は、GoogleのGemini AIアシスタントを搭載している。これは、同社の製品全体にGeminiを統合すると同時に、Apple Mapsなどのライバルサービスと競合するようにWazeをより適切に配置するという、同社の幅広い取り組みを反映している。",
+        "keyPoints": [
+          "この記事は「Wazeは、新しいAI搭載の機能とカスタマイズのアップデートを追加します」を扱っています。",
+          "新機能の一部は、GoogleのGemini AIアシスタントを搭載している。",
+          "これは、同社の製品全体にGeminiを統合すると同時に、Apple Mapsなどのライバルサービスと競合するようにWazeをより適切に配置するという、同社の幅広い取り組みを反映している。"
         ]
       },
       {
         "title": "Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
         "url": "https://raymyers.org/post/zed-creator-calls-spade-a-spade/",
         "points": 73,
-        "comments": 330,
+        "comments": 572,
         "author": "crowdhailer",
         "createdAt": "2026-07-13T08:39:39Z",
         "domain": "raymyers.org",
@@ -54,55 +76,35 @@
         "impact": "高",
         "newsLens": "技術",
         "titleJa": "ジグ・クリエイター・コール・スペード・ア・スペード、アントロピック・ブローズ・スモーク",
-        "summaryJa": "この記事は「ジグ・クリエイター・コール・スペード・ア・スペード、アントロピック・ブローズ・スモーク」を扱っています。テックブラザーズがソフトウェアエンジニアリングの終わりを過大評価するにつれて、プログラミング言語のドラマが続きます。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "summaryJa": "この記事は「ジグ・クリエイター・コール・スペード・ア・スペード、アントロピック・ブローズ・スモーク」を扱っています。raymyers.orgが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
         "keyPoints": [
           "この記事は「ジグ・クリエイター・コール・スペード・ア・スペード、アントロピック・ブローズ・スモーク」を扱っています。",
-          "テックブラザーズがソフトウェアエンジニアリングの終わりを過大評価するにつれて、プログラミング言語のドラマが続きます。",
+          "raymyers.orgが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
           "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
       },
       {
-        "title": "Claude Code May–July 2026 weekly limits promotion",
-        "url": "https://support.claude.com/en/articles/15910845-claude-code-may-july-2026-weekly-limits-promotion",
-        "points": 52,
-        "comments": 66,
-        "author": "alvis",
-        "createdAt": "2026-07-12T18:01:29Z",
-        "domain": "support.claude.com",
+        "title": "Grok uploaded my user directory to xAI's servers",
+        "url": "https://twitter.com/a_green_being/status/2076598897779020159",
+        "points": 73,
+        "comments": 195,
+        "author": "tnolet",
+        "createdAt": "2026-07-13T13:39:59Z",
+        "domain": "twitter.com",
         "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "低",
+        "category": "AIニュース",
+        "impact": "高",
         "newsLens": "技術",
-        "titleJa": "Claude・コード2026年5月～ 7月週間限度額プロモーション",
-        "summaryJa": "この記事は「Claude・コード2026年5月～ 7月週間限度額プロモーション」を扱っています。support.claude.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "titleJa": "GrokがユーザーディレクトリをxAIのサーバーにアップロードしました",
+        "summaryJa": "この記事は「GrokがユーザーディレクトリをxAIのサーバーにアップロードしました」を扱っています。@ XBToshi OK、grokは私のユーザーディレクトリ全体をxAIのサーバーにアップロードしました。SSHキー、パスワードマネージャーデータベース、ドキュメント、写真、ビデオ、すべてが含まれています...。",
         "keyPoints": [
-          "この記事は「Claude・コード2026年5月～ 7月週間限度額プロモーション」を扱っています。",
-          "support.claude.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
-        ]
-      },
-      {
-        "title": "Autoresearch, Claude and Constrained Optimization",
-        "url": "https://www.elliotcsmith.com/autoresearch-claude-and-constrained-optimization/",
-        "points": 49,
-        "comments": 5,
-        "author": "gmays",
-        "createdAt": "2026-07-12T14:32:00Z",
-        "domain": "elliotcsmith.com",
-        "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "低",
-        "newsLens": "技術",
-        "titleJa": "オートサーチ、Claude、制約付き最適化",
-        "summaryJa": "この記事は「オートサーチ、Claude、制約付き最適化」を扱っています。はじめに人々が何十人もの人々の仕事をするためにAIを使用してきたという主張を見つけるために遠くを見る必要はありません。私は、証拠なしに改善について議論する主張に懐疑的である傾向があります。",
-        "keyPoints": [
-          "この記事は「オートサーチ、Claude、制約付き最適化」を扱っています。",
-          "はじめに人々が何十人もの人々の仕事をするためにAIを使用してきたという主張を見つけるために遠くを見る必要はありません。",
-          "私は、証拠なしに改善について議論する主張に懐疑的である傾向があります。"
+          "この記事は「GrokがユーザーディレクトリをxAIのサーバーにアップロードしました」を扱っています。",
+          "@ XBToshi OK、grokは私のユーザーディレクトリ全体をxAIのサーバーにアップロードしました。",
+          "SSHキー、パスワードマネージャーデータベース、ドキュメント、写真、ビデオ、すべてが含まれています...。"
         ]
       }
     ],
-    "fetchedAt": "2026-07-13T13:19:39.438Z",
+    "fetchedAt": "2026-07-13T16:28:23.629Z",
     "mock": false
   },
   "xTrends": {
@@ -114,7 +116,7 @@
         "appearances": 2,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-07-13T13:19:39.358Z",
+        "observedAt": "2026-07-13T16:28:23.491Z",
         "url": "https://x.com/search?q=AI-generated&src=typed_query&f=live",
         "articleTitle": "We charge $10k a week to delete AI-generated code",
         "articleTitleJa": "AI が生成したコードの削除には 1 週間あたり 10,000 ドルを請求します",
@@ -131,7 +133,7 @@
         "appearances": 2,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-07-13T13:19:39.358Z",
+        "observedAt": "2026-07-13T16:28:23.491Z",
         "url": "https://x.com/search?q=AI%20Generated&src=typed_query&f=live",
         "articleTitle": "We charge $10k a week to delete AI-generated code",
         "articleTitleJa": "AI が生成したコードの削除には 1 週間あたり 10,000 ドルを請求します",
@@ -142,10 +144,10 @@
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-07-13T13:19:39.438Z",
+    "fetchedAt": "2026-07-13T16:28:23.629Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-13T13:19:42.726Z"
+    "articleFetchedAt": "2026-07-13T16:28:25.292Z"
   }
 }
