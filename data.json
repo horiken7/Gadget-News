@@ -23,51 +23,30 @@
         ]
       },
       {
-        "title": "Should AI help you get away with killing your spouse?",
-        "url": "https://techcrunch.com/2026/07/13/should-ai-help-you-get-away-with-killing-your-spouse/",
-        "points": 79,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-07-13T16:31:23.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
-        "category": "AIニュース",
-        "impact": "中",
-        "titleJa": "AIはあなたの配偶者を殺して逃げるのを助けるべきですか？",
-        "summaryJa": "この記事は「AIはあなたの配偶者を殺して逃げるのを助けるべきですか？」を扱っています。ユーザーに合わせた総合的なAIの世界は実際にはどのように見えますか？一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
-        "keyPoints": [
-          "この記事は「AIはあなたの配偶者を殺して逃げるのを助けるべきですか。",
-          "ユーザーに合わせた総合的なAIの世界は実際にはどのように見えますか。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
-        ]
-      },
-      {
-        "title": "Show HN: BillAI Bass, an AI-Powered Big Mouth Billy Bass Using Strands Agents",
-        "url": "https://github.com/morganwilliscloud/billai-bass",
-        "points": 75,
-        "comments": 11,
-        "author": "mtw14",
-        "createdAt": "2026-07-13T18:18:23Z",
-        "domain": "github.com",
+        "title": "Samsung will delete your health data if you don't let them use it to train AI",
+        "url": "https://neow.in/cWsyMTV3",
+        "points": 99,
+        "comments": 37,
+        "author": "bundie",
+        "createdAt": "2026-07-13T20:01:43Z",
+        "domain": "neow.in",
         "sourceType": "hn",
         "category": "AIニュース",
-        "impact": "低",
-        "newsLens": "技術",
-        "titleJa": "ショーHN ： BillAIベース、ストランドのエージェントを使用したAI搭載のビッグマウスビリーベース",
-        "summaryJa": "この記事は「ショーHN ： BillAIベース、ストランドのエージェントを使用したAI搭載のビッグマウスビリーベース」を扱っています。github.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "impact": "高",
+        "newsLens": "一般",
+        "titleJa": "サムスンは、AIのトレーニングに使用されない場合、あなたの健康データを削除します",
+        "summaryJa": "この記事は「サムスンは、AIのトレーニングに使用されない場合、あなたの健康データを削除します」を扱っています。Samsungは、データが削除されないようにしたい場合は、データがAIトレーニングに使用されることに同意する必要があるという物議を醸す通知をSamsung Healthユーザーに表示し始めました。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
-          "この記事は「ショーHN ： BillAIベース、ストランドのエージェントを使用したAI搭載のビッグマウスビリーベース」を扱っています。",
-          "github.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+          "この記事は「サムスンは、AIのトレーニングに使用されない場合、あなたの健康データを削除します」を扱っています。",
+          "Samsungは、データが削除されないようにしたい場合は、データがAIトレーニングに使用されることに同意する必要があるという物議を醸す通知をSamsung Healthユーザーに表示し始めました。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       },
       {
         "title": "Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
         "url": "https://raymyers.org/post/zed-creator-calls-spade-a-spade/",
         "points": 73,
-        "comments": 663,
+        "comments": 678,
         "author": "crowdhailer",
         "createdAt": "2026-07-13T08:39:39Z",
         "domain": "raymyers.org",
@@ -87,7 +66,7 @@
         "title": "Grok uploaded my user directory to xAI's servers",
         "url": "https://twitter.com/a_green_being/status/2076598897779020159",
         "points": 73,
-        "comments": 15,
+        "comments": 16,
         "author": "tnolet",
         "createdAt": "2026-07-13T13:39:59Z",
         "domain": "twitter.com",
@@ -102,9 +81,29 @@
           "@ XBToshi OK、grokは私のユーザーディレクトリ全体をxAIのサーバーにアップロードしました。",
           "SSHキー、パスワードマネージャーデータベース、ドキュメント、写真、ビデオ、すべてが含まれています...。"
         ]
+      },
+      {
+        "title": "xAI's Grok Build CLI Uploads Git Repositories to a Google Cloud Bucket",
+        "url": "https://www.internationalcyberdigest.com/xais-grok-build-cli-uploads-entire-git-repositories-to-a-google-cloud-bucket/",
+        "points": 65,
+        "comments": 2,
+        "author": "svoice",
+        "createdAt": "2026-07-13T18:10:23Z",
+        "domain": "internationalcyberdigest.com",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "xAIのGrok Build CLIがGitリポジトリをGoogleクラウドバケットにアップロード",
+        "summaryJa": "この記事は「xAIのGrok Build CLIがGitリポジトリをGoogleクラウドバケットにアップロード」を扱っています。ワイヤレベルの分析では、xAIのコーディングエージェントが、完全なGitリポジトリ、プライベートコード、および編集されていない秘密を会社のクラウドバケットにアップロードしていることが示されました。1日後、アップロードは静かに停止しました。",
+        "keyPoints": [
+          "この記事は「xAIのGrok Build CLIがGitリポジトリをGoogleクラウドバケットにアップロード」を扱っています。",
+          "ワイヤレベルの分析では、xAIのコーディングエージェントが、完全なGitリポジトリ、プライベートコード、および編集されていない秘密を会社のクラウドバケットにアップロードしていることが示されました。",
+          "1日後、アップロードは静かに停止しました。"
+        ]
       }
     ],
-    "fetchedAt": "2026-07-13T20:11:14.296Z",
+    "fetchedAt": "2026-07-13T21:52:52.408Z",
     "mock": false
   },
   "xTrends": {
@@ -112,11 +111,11 @@
       {
         "topic": "AI-generated",
         "locationLabel": "米国",
-        "bestRank": 18,
-        "appearances": 2,
+        "bestRank": 33,
+        "appearances": 1,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-07-13T20:11:14.171Z",
+        "observedAt": "2026-07-13T21:52:52.308Z",
         "url": "https://x.com/search?q=AI-generated&src=typed_query&f=live",
         "articleTitle": "We charge $10k a week to delete AI-generated code",
         "articleTitleJa": "AI が生成したコードの削除には 1 週間あたり 10,000 ドルを請求します",
@@ -125,29 +124,12 @@
         "articlePublishedAt": "2026-07-07T20:35:42Z",
         "summaryJa": "AI で構築された製品は機能しますが、100,000 行を超えると変更が 2 つ発生します。 3 人の上級エンジニアがコードベースを再び保守しやすくします。 1週間、定額、保証付き。",
         "translationVersion": 3
-      },
-      {
-        "topic": "AI Generated",
-        "locationLabel": "米国",
-        "bestRank": 46,
-        "appearances": 1,
-        "trendSource": "Trends24",
-        "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-07-13T20:11:14.171Z",
-        "url": "https://x.com/search?q=AI%20Generated&src=typed_query&f=live",
-        "articleTitle": "We charge $10k a week to delete AI-generated code",
-        "articleTitleJa": "AI が生成したコードの削除には 1 週間あたり 10,000 ドルを請求します",
-        "articleUrl": "https://odra.dev/slopfix/",
-        "articleSource": "odra.dev",
-        "articlePublishedAt": "2026-07-07T20:35:42Z",
-        "summaryJa": "AI で構築された製品は機能しますが、100,000 行を超えると変更が 2 つ発生します。 3 人の上級エンジニアがコードベースを再び保守しやすくします。 1週間、定額、保証付き。",
-        "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-07-13T20:11:14.296Z",
+    "fetchedAt": "2026-07-13T21:52:52.408Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-13T20:11:15.636Z"
+    "articleFetchedAt": "2026-07-13T21:52:55.515Z"
   }
 }
