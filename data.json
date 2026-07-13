@@ -2,72 +2,52 @@
   "news": {
     "items": [
       {
-        "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
-        "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
-        "points": 101,
-        "comments": 352,
-        "author": "systima",
-        "createdAt": "2026-07-12T18:25:51Z",
-        "domain": "systima.ai",
-        "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "Claudeコードはプロンプトを読む前に33 kトークンを送信します。OpenCodeは7 kを送信します",
-        "summaryJa": "この記事は「Claudeコードはプロンプトを読む前に33 kトークンを送信します。OpenCodeは7 kを送信します」を扱っています。私たちは通常OpenCodeを使用していますが、Meridianの問題のためにClaude Codeをしばらく使用することを「強制」されました。その間、OpenCodeを使用したときよりもはるかに早く、使用量メーターが上昇するのを見ました。",
-        "keyPoints": [
-          "この記事は「Claudeコードはプロンプトを読む前に33 kトークンを送信します。",
-          "OpenCodeは7 kを送信します」を扱っています。",
-          "私たちは通常OpenCodeを使用していますが、Meridianの問題のためにClaude Codeをしばらく使用することを「強制」されました。"
-        ]
-      },
-      {
-        "title": "Anthropic starts localizing Claude pricing for India, its biggest market after the US",
-        "url": "https://techcrunch.com/2026/07/13/anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-the-us/",
-        "points": 79,
+        "title": "The wildest allegations in Apple’s trade secrets lawsuit against OpenAI",
+        "url": "https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/",
+        "points": 105,
         "comments": 0,
         "author": "",
-        "createdAt": "2026-07-13T15:34:59.000Z",
+        "createdAt": "2026-07-13T18:22:10.000Z",
         "domain": "techcrunch.com",
         "sourceType": "rss",
         "sourceLabel": "TechCrunch AI",
         "newsLens": "一般",
-        "category": "AIモデル",
-        "impact": "中",
-        "titleJa": "Anthropicは、米国に次ぐ最大の市場であるインドのClaude価格設定のローカライズを開始",
-        "summaryJa": "この記事は「Anthropicは、米国に次ぐ最大の市場であるインドのClaude価格設定のローカライズを開始」を扱っています。インドのClaudeユーザーは、インドルピー建てのサブスクリプションプランを見始めています。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "category": "AIニュース",
+        "impact": "高",
+        "titleJa": "OpenAIに対するAppleの企業秘密訴訟の中で最もワイルドな申し立て",
+        "summaryJa": "この記事は「OpenAIに対するAppleの企業秘密訴訟の中で最もワイルドな申し立て」を扱っています。OpenAIに対するAppleの企業秘密訴訟には、Appleのシステムへの不正アクセスについて冗談を言っている従業員から、求職者がAppleのハードウェアを面接に持ち込むよう求められたという主張まで、さまざまな申し立てが含まれています。苦情の最も目を引く主張は次のとおりです。",
         "keyPoints": [
-          "この記事は「Anthropicは、米国に次ぐ最大の市場であるインドのClaude価格設定のローカライズを開始」を扱っています。",
-          "インドのClaudeユーザーは、インドルピー建てのサブスクリプションプランを見始めています。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+          "この記事は「OpenAIに対するAppleの企業秘密訴訟の中で最もワイルドな申し立て」を扱っています。",
+          "OpenAIに対するAppleの企業秘密訴訟には、Appleのシステムへの不正アクセスについて冗談を言っている従業員から、求職者がAppleのハードウェアを面接に持ち込むよう求められたという主張まで、さまざまな申し立てが含まれています。",
+          "苦情の最も目を引く主張は次のとおりです。"
         ]
       },
       {
-        "title": "Waze adds new AI-powered features and customization updates",
-        "url": "https://techcrunch.com/2026/07/13/waze-adds-new-ai-powered-features-and-customization-updates/",
+        "title": "Should AI help you get away with killing your spouse?",
+        "url": "https://techcrunch.com/2026/07/13/should-ai-help-you-get-away-with-killing-your-spouse/",
         "points": 79,
         "comments": 0,
         "author": "",
-        "createdAt": "2026-07-13T14:18:16.000Z",
+        "createdAt": "2026-07-13T16:31:23.000Z",
         "domain": "techcrunch.com",
         "sourceType": "rss",
         "sourceLabel": "TechCrunch AI",
         "newsLens": "一般",
         "category": "AIニュース",
         "impact": "中",
-        "titleJa": "Wazeは、新しいAI搭載の機能とカスタマイズのアップデートを追加します",
-        "summaryJa": "この記事は「Wazeは、新しいAI搭載の機能とカスタマイズのアップデートを追加します」を扱っています。新機能の一部は、GoogleのGemini AIアシスタントを搭載している。これは、同社の製品全体にGeminiを統合すると同時に、Apple Mapsなどのライバルサービスと競合するようにWazeをより適切に配置するという、同社の幅広い取り組みを反映している。",
+        "titleJa": "AIはあなたの配偶者を殺して逃げるのを助けるべきですか？",
+        "summaryJa": "この記事は「AIはあなたの配偶者を殺して逃げるのを助けるべきですか？」を扱っています。ユーザーに合わせた総合的なAIの世界は実際にはどのように見えますか？一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
-          "この記事は「Wazeは、新しいAI搭載の機能とカスタマイズのアップデートを追加します」を扱っています。",
-          "新機能の一部は、GoogleのGemini AIアシスタントを搭載している。",
-          "これは、同社の製品全体にGeminiを統合すると同時に、Apple Mapsなどのライバルサービスと競合するようにWazeをより適切に配置するという、同社の幅広い取り組みを反映している。"
+          "この記事は「AIはあなたの配偶者を殺して逃げるのを助けるべきですか。",
+          "ユーザーに合わせた総合的なAIの世界は実際にはどのように見えますか。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       },
       {
         "title": "Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
         "url": "https://raymyers.org/post/zed-creator-calls-spade-a-spade/",
         "points": 73,
-        "comments": 572,
+        "comments": 634,
         "author": "crowdhailer",
         "createdAt": "2026-07-13T08:39:39Z",
         "domain": "raymyers.org",
@@ -87,7 +67,7 @@
         "title": "Grok uploaded my user directory to xAI's servers",
         "url": "https://twitter.com/a_green_being/status/2076598897779020159",
         "points": 73,
-        "comments": 195,
+        "comments": 15,
         "author": "tnolet",
         "createdAt": "2026-07-13T13:39:59Z",
         "domain": "twitter.com",
@@ -102,9 +82,29 @@
           "@ XBToshi OK、grokは私のユーザーディレクトリ全体をxAIのサーバーにアップロードしました。",
           "SSHキー、パスワードマネージャーデータベース、ドキュメント、写真、ビデオ、すべてが含まれています...。"
         ]
+      },
+      {
+        "title": "xAI's Grok Build CLI Uploads Git Repositories to a Google Cloud Bucket",
+        "url": "https://www.internationalcyberdigest.com/xais-grok-build-cli-uploads-entire-git-repositories-to-a-google-cloud-bucket/",
+        "points": 53,
+        "comments": 11,
+        "author": "svoice",
+        "createdAt": "2026-07-13T18:10:23Z",
+        "domain": "internationalcyberdigest.com",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "低",
+        "newsLens": "技術",
+        "titleJa": "xAIのGrok Build CLIがGitリポジトリをGoogleクラウドバケットにアップロード",
+        "summaryJa": "この記事は「xAIのGrok Build CLIがGitリポジトリをGoogleクラウドバケットにアップロード」を扱っています。ワイヤレベルの分析では、xAIのコーディングエージェントが、完全なGitリポジトリ、プライベートコード、および編集されていない秘密を会社のクラウドバケットにアップロードしていることが示されました。1日後、アップロードは静かに停止しました。",
+        "keyPoints": [
+          "この記事は「xAIのGrok Build CLIがGitリポジトリをGoogleクラウドバケットにアップロード」を扱っています。",
+          "ワイヤレベルの分析では、xAIのコーディングエージェントが、完全なGitリポジトリ、プライベートコード、および編集されていない秘密を会社のクラウドバケットにアップロードしていることが示されました。",
+          "1日後、アップロードは静かに停止しました。"
+        ]
       }
     ],
-    "fetchedAt": "2026-07-13T16:28:23.629Z",
+    "fetchedAt": "2026-07-13T18:41:20.852Z",
     "mock": false
   },
   "xTrends": {
@@ -116,7 +116,7 @@
         "appearances": 2,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-07-13T16:28:23.491Z",
+        "observedAt": "2026-07-13T18:41:20.802Z",
         "url": "https://x.com/search?q=AI-generated&src=typed_query&f=live",
         "articleTitle": "We charge $10k a week to delete AI-generated code",
         "articleTitleJa": "AI が生成したコードの削除には 1 週間あたり 10,000 ドルを請求します",
@@ -133,7 +133,7 @@
         "appearances": 2,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-07-13T16:28:23.491Z",
+        "observedAt": "2026-07-13T18:41:20.802Z",
         "url": "https://x.com/search?q=AI%20Generated&src=typed_query&f=live",
         "articleTitle": "We charge $10k a week to delete AI-generated code",
         "articleTitleJa": "AI が生成したコードの削除には 1 週間あたり 10,000 ドルを請求します",
@@ -144,10 +144,10 @@
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-07-13T16:28:23.629Z",
+    "fetchedAt": "2026-07-13T18:41:20.852Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-13T16:28:25.292Z"
+    "articleFetchedAt": "2026-07-13T18:41:22.529Z"
   }
 }
