@@ -2,6 +2,26 @@
   "news": {
     "items": [
       {
+        "title": "Samsung Health app threatens data deletion if users opt out AI training",
+        "url": "https://neow.in/cWsyMTV3",
+        "points": 127,
+        "comments": 52,
+        "author": "bundie",
+        "createdAt": "2026-07-13T20:01:43Z",
+        "domain": "neow.in",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "ユーザーがAIトレーニングをオプトアウトすると、Samsung Healthアプリがデータ削除を脅かす",
+        "summaryJa": "この記事は「ユーザーがAIトレーニングをオプトアウトすると、Samsung Healthアプリがデータ削除を脅かす」を扱っています。Samsungは、データが削除されないようにしたい場合は、データがAIトレーニングに使用されることに同意する必要があるという物議を醸す通知をSamsung Healthユーザーに表示し始めました。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "keyPoints": [
+          "この記事は「ユーザーがAIトレーニングをオプトアウトすると、Samsung Healthアプリがデータ削除を脅かす」を扱っています。",
+          "Samsungは、データが削除されないようにしたい場合は、データがAIトレーニングに使用されることに同意する必要があるという物議を醸す通知をSamsung Healthユーザーに表示し始めました。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+        ]
+      },
+      {
         "title": "The wildest allegations in Apple’s trade secrets lawsuit against OpenAI",
         "url": "https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/",
         "points": 105,
@@ -23,30 +43,31 @@
         ]
       },
       {
-        "title": "Samsung will delete your health data if you don't let them use it to train AI",
-        "url": "https://neow.in/cWsyMTV3",
-        "points": 99,
-        "comments": 37,
-        "author": "bundie",
-        "createdAt": "2026-07-13T20:01:43Z",
-        "domain": "neow.in",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "高",
+        "title": "Satya Nadella has issued a shocking warning to companies using AI",
+        "url": "https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/",
+        "points": 79,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-07-13T20:59:00.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
         "newsLens": "一般",
-        "titleJa": "サムスンは、AIのトレーニングに使用されない場合、あなたの健康データを削除します",
-        "summaryJa": "この記事は「サムスンは、AIのトレーニングに使用されない場合、あなたの健康データを削除します」を扱っています。Samsungは、データが削除されないようにしたい場合は、データがAIトレーニングに使用されることに同意する必要があるという物議を醸す通知をSamsung Healthユーザーに表示し始めました。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "category": "AIニュース",
+        "impact": "中",
+        "titleJa": "Satya Nadellaは、AIを使用している企業に衝撃的な警告を発しました",
+        "summaryJa": "この記事は「Satya Nadellaは、AIを使用している企業に衝撃的な警告を発しました」を扱っています。AIの潜在的な欠点について激しく議論されているすべての議論の中で、シリコンバレーのAI愛好家の間で最も悩まされる1つの懸念があります。それは、独自のモデルを販売する巨大なAIラボが何らかの形でトロイの木馬のように振る舞っていることです。",
         "keyPoints": [
-          "この記事は「サムスンは、AIのトレーニングに使用されない場合、あなたの健康データを削除します」を扱っています。",
-          "Samsungは、データが削除されないようにしたい場合は、データがAIトレーニングに使用されることに同意する必要があるという物議を醸す通知をSamsung Healthユーザーに表示し始めました。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+          "この記事は「Satya Nadellaは、AIを使用している企業に衝撃的な警告を発しました」を扱っています。",
+          "AIの潜在的な欠点について激しく議論されているすべての議論の中で、シリコンバレーのAI愛好家の間で最も悩まされる1つの懸念があります。",
+          "それは、独自のモデルを販売する巨大なAIラボが何らかの形でトロイの木馬のように振る舞っていることです。"
         ]
       },
       {
         "title": "Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
         "url": "https://raymyers.org/post/zed-creator-calls-spade-a-spade/",
         "points": 73,
-        "comments": 678,
+        "comments": 688,
         "author": "crowdhailer",
         "createdAt": "2026-07-13T08:39:39Z",
         "domain": "raymyers.org",
@@ -81,55 +102,17 @@
           "@ XBToshi OK、grokは私のユーザーディレクトリ全体をxAIのサーバーにアップロードしました。",
           "SSHキー、パスワードマネージャーデータベース、ドキュメント、写真、ビデオ、すべてが含まれています...。"
         ]
-      },
-      {
-        "title": "xAI's Grok Build CLI Uploads Git Repositories to a Google Cloud Bucket",
-        "url": "https://www.internationalcyberdigest.com/xais-grok-build-cli-uploads-entire-git-repositories-to-a-google-cloud-bucket/",
-        "points": 65,
-        "comments": 2,
-        "author": "svoice",
-        "createdAt": "2026-07-13T18:10:23Z",
-        "domain": "internationalcyberdigest.com",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "xAIのGrok Build CLIがGitリポジトリをGoogleクラウドバケットにアップロード",
-        "summaryJa": "この記事は「xAIのGrok Build CLIがGitリポジトリをGoogleクラウドバケットにアップロード」を扱っています。ワイヤレベルの分析では、xAIのコーディングエージェントが、完全なGitリポジトリ、プライベートコード、および編集されていない秘密を会社のクラウドバケットにアップロードしていることが示されました。1日後、アップロードは静かに停止しました。",
-        "keyPoints": [
-          "この記事は「xAIのGrok Build CLIがGitリポジトリをGoogleクラウドバケットにアップロード」を扱っています。",
-          "ワイヤレベルの分析では、xAIのコーディングエージェントが、完全なGitリポジトリ、プライベートコード、および編集されていない秘密を会社のクラウドバケットにアップロードしていることが示されました。",
-          "1日後、アップロードは静かに停止しました。"
-        ]
       }
     ],
-    "fetchedAt": "2026-07-13T21:52:52.408Z",
+    "fetchedAt": "2026-07-13T22:53:06.453Z",
     "mock": false
   },
   "xTrends": {
-    "items": [
-      {
-        "topic": "AI-generated",
-        "locationLabel": "米国",
-        "bestRank": 33,
-        "appearances": 1,
-        "trendSource": "Trends24",
-        "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-07-13T21:52:52.308Z",
-        "url": "https://x.com/search?q=AI-generated&src=typed_query&f=live",
-        "articleTitle": "We charge $10k a week to delete AI-generated code",
-        "articleTitleJa": "AI が生成したコードの削除には 1 週間あたり 10,000 ドルを請求します",
-        "articleUrl": "https://odra.dev/slopfix/",
-        "articleSource": "odra.dev",
-        "articlePublishedAt": "2026-07-07T20:35:42Z",
-        "summaryJa": "AI で構築された製品は機能しますが、100,000 行を超えると変更が 2 つ発生します。 3 人の上級エンジニアがコードベースを再び保守しやすくします。 1週間、定額、保証付き。",
-        "translationVersion": 3
-      }
-    ],
-    "fetchedAt": "2026-07-13T21:52:52.408Z",
+    "items": [],
+    "fetchedAt": "2026-07-13T22:53:06.453Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-13T21:52:55.515Z"
+    "articleFetchedAt": "2026-07-13T22:53:06.597Z"
   }
 }
