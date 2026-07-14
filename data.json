@@ -67,7 +67,7 @@
         "title": "How to stop Claude from saying load-bearing",
         "url": "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing",
         "points": 73,
-        "comments": 450,
+        "comments": 468,
         "author": "shintoist",
         "createdAt": "2026-07-14T11:46:02Z",
         "domain": "jola.dev",
@@ -86,7 +86,7 @@
       {
         "title": "OpenAI's Ad Business Is on Pace to Miss Its Own Forecast by 90%, Analyst Says",
         "url": "https://www.adweek.com/media/openais-ad-business-is-on-pace-to-miss-its-own-forecast-by-90-analyst-says/",
-        "points": 58,
+        "points": 59,
         "comments": 64,
         "author": "EvgeniyZh",
         "createdAt": "2026-07-14T05:21:02Z",
@@ -104,15 +104,15 @@
         ]
       }
     ],
-    "fetchedAt": "2026-07-14T22:56:34.525Z",
+    "fetchedAt": "2026-07-14T23:52:46.562Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-07-14T22:56:34.525Z",
+    "fetchedAt": "2026-07-14T23:52:46.562Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-14T22:56:34.650Z"
+    "articleFetchedAt": "2026-07-14T23:52:46.711Z"
   }
 }
