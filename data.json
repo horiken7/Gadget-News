@@ -5,7 +5,7 @@
         "title": "Samsung Health app threatens data deletion if users opt out AI training",
         "url": "https://neow.in/cWsyMTV3",
         "points": 127,
-        "comments": 61,
+        "comments": 69,
         "author": "bundie",
         "createdAt": "2026-07-13T20:01:43Z",
         "domain": "neow.in",
@@ -43,31 +43,31 @@
         ]
       },
       {
-        "title": "Satya Nadella has issued a shocking warning to companies using AI",
-        "url": "https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/",
+        "title": "Uber’s product chief on hotels, robotaxis, and why the company doesn’t want to be “everything for everyone”",
+        "url": "https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/",
         "points": 79,
         "comments": 0,
         "author": "",
-        "createdAt": "2026-07-13T20:59:00.000Z",
+        "createdAt": "2026-07-14T00:45:00.000Z",
         "domain": "techcrunch.com",
         "sourceType": "rss",
         "sourceLabel": "TechCrunch AI",
         "newsLens": "一般",
-        "category": "AIニュース",
+        "category": "ハードウェア",
         "impact": "中",
-        "titleJa": "Satya Nadellaは、AIを使用している企業に衝撃的な警告を発しました",
-        "summaryJa": "この記事は「Satya Nadellaは、AIを使用している企業に衝撃的な警告を発しました」を扱っています。AIの潜在的な欠点について激しく議論されているすべての議論の中で、シリコンバレーのAI愛好家の間で最も悩まされる1つの懸念があります。それは、独自のモデルを販売する巨大なAIラボが何らかの形でトロイの木馬のように振る舞っていることです。",
+        "titleJa": "ホテル、ロボットタクシー、そしてUberが「すべての人のためのすべて」ではない理由に関するUberのプロダクトチーフ",
+        "summaryJa": "この記事は「ホテル、ロボットタクシー、そしてUberが「すべての人のためのすべて」ではない理由に関するUberのプロダクトチーフ」を扱っています。Uberの最高製品責任者であるSachin Kansal氏は、TechCrunchに対し、同社の金融サービスの野心、Waymoとの複雑化する関係、新しいAV Labsのデータ運用、そして乗客やドライバーが実際に気づく方法でAIがどのように現れ始めているかを説明します。一般向けには、AIがソフトウェアだけでなく、ロボットや端末など現実の製品に広がっている点が重要です。",
         "keyPoints": [
-          "この記事は「Satya Nadellaは、AIを使用している企業に衝撃的な警告を発しました」を扱っています。",
-          "AIの潜在的な欠点について激しく議論されているすべての議論の中で、シリコンバレーのAI愛好家の間で最も悩まされる1つの懸念があります。",
-          "それは、独自のモデルを販売する巨大なAIラボが何らかの形でトロイの木馬のように振る舞っていることです。"
+          "この記事は「ホテル、ロボットタクシー、そしてUberが「すべての人のためのすべて」ではない理由に関するUberのプロダクトチーフ」を扱っています。",
+          "Uberの最高製品責任者であるSachin Kansal氏は、TechCrunchに対し、同社の金融サービスの野心、Waymoとの複雑化する関係、新しいAV Labsのデータ運用、そして乗客やドライバーが実際に気づく方法でAIがどのように現れ始めているかを説明します。",
+          "一般向けには、AIがソフトウェアだけでなく、ロボットや端末など現実の製品に広がっている点が重要です。"
         ]
       },
       {
         "title": "Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
         "url": "https://raymyers.org/post/zed-creator-calls-spade-a-spade/",
         "points": 73,
-        "comments": 695,
+        "comments": 706,
         "author": "crowdhailer",
         "createdAt": "2026-07-13T08:39:39Z",
         "domain": "raymyers.org",
@@ -87,7 +87,7 @@
         "title": "Grok uploaded my user directory to xAI's servers",
         "url": "https://twitter.com/a_green_being/status/2076598897779020159",
         "points": 73,
-        "comments": 16,
+        "comments": 17,
         "author": "tnolet",
         "createdAt": "2026-07-13T13:39:59Z",
         "domain": "twitter.com",
@@ -104,15 +104,15 @@
         ]
       }
     ],
-    "fetchedAt": "2026-07-13T23:51:19.233Z",
+    "fetchedAt": "2026-07-14T02:04:34.626Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-07-13T23:51:19.233Z",
+    "fetchedAt": "2026-07-14T02:04:34.626Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-13T23:51:19.352Z"
+    "articleFetchedAt": "2026-07-14T02:04:34.736Z"
   }
 }
