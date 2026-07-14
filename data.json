@@ -46,7 +46,7 @@
       {
         "title": "Show HN: I implemented a neural network in SQL",
         "url": "https://github.com/xqlsystems/xarray-sql/blob/claude/xarray-sql-mnist-demo/benchmarks/nn.py",
-        "points": 95,
+        "points": 96,
         "comments": 19,
         "author": "alxmrs",
         "createdAt": "2026-07-13T20:00:10Z",
@@ -66,7 +66,7 @@
       {
         "title": "Show HN: YouTube Guitar Tab Parser",
         "url": "https://github.com/marcelpanse/youtube-guitar-tab-parser",
-        "points": 87,
+        "points": 88,
         "comments": 63,
         "author": "neogenix",
         "createdAt": "2026-07-13T20:13:14Z",
@@ -84,35 +84,35 @@
         ]
       },
       {
-        "title": "Claude Code plugin that plays a Mr. Meeseeks voice line whene Claude is waiting",
-        "url": "https://github.com/thephw/claude-meseeks",
+        "title": "Are we offloading too much of our thinking to AI?",
+        "url": "https://www.artfish.ai/p/offloading-thinking-to-ai",
         "points": 73,
-        "comments": 54,
-        "author": "patrickwiseman",
-        "createdAt": "2026-07-13T22:03:54Z",
-        "domain": "github.com",
+        "comments": 133,
+        "author": "yenniejun111",
+        "createdAt": "2026-07-14T15:18:13Z",
+        "domain": "artfish.ai",
         "sourceType": "hn",
-        "category": "AIモデル",
+        "category": "AIニュース",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "Claudeが待っているときにMr. Meeseeksのボイスラインを再生するClaude Codeプラグイン",
-        "summaryJa": "この記事は「Claudeが待っているときにMr. Meeseeksのボイスラインを再生するClaude Codeプラグイン」を扱っています。Claude Codeプラグインは、Claudeがあなたを待っているときはいつでもMr. Meeseeksの音声回線を再生します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "titleJa": "私たちは考えすぎてAIに負担をかけているのでしょうか？",
+        "summaryJa": "この記事は「私たちは考えすぎてAIに負担をかけているのでしょうか？」を扱っています。自律性と自分自身のために考えることの価値についての省察。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
         "keyPoints": [
-          "この記事は「Claudeが待っているときにMr. Meeseeksのボイスラインを再生するClaude Codeプラグイン」を扱っています。",
-          "Claude Codeプラグインは、Claudeがあなたを待っているときはいつでもMr. Meeseeksの音声回線を再生します。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+          "この記事は「私たちは考えすぎてAIに負担をかけているのでしょうか。",
+          "自律性と自分自身のために考えることの価値についての省察。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
       }
     ],
-    "fetchedAt": "2026-07-14T15:21:35.563Z",
+    "fetchedAt": "2026-07-14T17:10:41.797Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-07-14T15:21:35.563Z",
+    "fetchedAt": "2026-07-14T17:10:41.797Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-14T15:21:35.671Z"
+    "articleFetchedAt": "2026-07-14T17:10:42.086Z"
   }
 }
