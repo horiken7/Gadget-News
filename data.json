@@ -25,7 +25,7 @@
       {
         "title": "Show HN: I implemented a neural network in SQL",
         "url": "https://github.com/xqlsystems/xarray-sql/blob/claude/xarray-sql-mnist-demo/benchmarks/nn.py",
-        "points": 94,
+        "points": 95,
         "comments": 18,
         "author": "alxmrs",
         "createdAt": "2026-07-13T20:00:10Z",
@@ -63,6 +63,27 @@
         ]
       },
       {
+        "title": "Dame Prue Leith teams up with Currys to launch free AI classes for the over 65s after research reveals 94 % fear AI scams",
+        "url": "https://www.plymouthherald.co.uk/news/uk-world-news/dame-prue-leith-teams-up-11058301",
+        "points": 81,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-07-14T12:15:00Z",
+        "domain": "plymouthherald.co.uk",
+        "sourceType": "gdelt",
+        "sourceLabel": "GDELT",
+        "category": "研究",
+        "impact": "中",
+        "newsLens": "技術",
+        "titleJa": "調査で94 ％がAI詐欺を恐れていることが明らかになった後、Dame Prue LeithはCurrysと協力して65歳以上のための無料AIクラスを開始します",
+        "summaryJa": "この記事は「調査で94 ％がAI詐欺を恐れていることが明らかになった後、Dame Prue LeithはCurrysと協力して65歳以上のための無料AIクラスを開始します」を扱っています。Dame Prue LeithはCurrysと協力して、高齢者がAIの新しい世界をナビゲートできるよう支援しました。研究・実装面では、手法の新しさ、再現性、既存モデルとの差分が見るべき点です。",
+        "keyPoints": [
+          "この記事は「調査で94 ％がAI詐欺を恐れていることが明らかになった後、Dame Prue LeithはCurrysと協力して65歳以上のための無料AIクラスを開始します」を扱っています。",
+          "Dame Prue LeithはCurrysと協力して、高齢者がAIの新しい世界をナビゲートできるよう支援しました。",
+          "研究・実装面では、手法の新しさ、再現性、既存モデルとの差分が見るべき点です。"
+        ]
+      },
+      {
         "title": "Already rich, already successful, why the last wave of tech winners is grinding again",
         "url": "https://techcrunch.com/2026/07/13/already-rich-already-successful-why-the-last-wave-of-tech-winners-is-grinding-again/",
         "points": 79,
@@ -82,37 +103,17 @@
           "どうやらAIの決定的な瞬間を逃すこと、そしておそらく、さらに多くのお金を稼ぐという魅力を失うことを恐れているようです。",
           "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
-      },
-      {
-        "title": "Grok uploaded my user directory to xAI's servers",
-        "url": "https://twitter.com/a_green_being/status/2076598897779020159",
-        "points": 73,
-        "comments": 18,
-        "author": "tnolet",
-        "createdAt": "2026-07-13T13:39:59Z",
-        "domain": "twitter.com",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "GrokがユーザーディレクトリをxAIのサーバーにアップロードしました",
-        "summaryJa": "この記事は「GrokがユーザーディレクトリをxAIのサーバーにアップロードしました」を扱っています。@ XBToshi OK、grokは私のユーザーディレクトリ全体をxAIのサーバーにアップロードしました。SSHキー、パスワードマネージャーデータベース、ドキュメント、写真、ビデオ、すべてが含まれています...。",
-        "keyPoints": [
-          "この記事は「GrokがユーザーディレクトリをxAIのサーバーにアップロードしました」を扱っています。",
-          "@ XBToshi OK、grokは私のユーザーディレクトリ全体をxAIのサーバーにアップロードしました。",
-          "SSHキー、パスワードマネージャーデータベース、ドキュメント、写真、ビデオ、すべてが含まれています...。"
-        ]
       }
     ],
-    "fetchedAt": "2026-07-14T11:24:29.967Z",
+    "fetchedAt": "2026-07-14T13:25:20.701Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-07-14T11:24:29.967Z",
+    "fetchedAt": "2026-07-14T13:25:20.701Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-14T11:24:30.275Z"
+    "articleFetchedAt": "2026-07-14T13:25:20.801Z"
   }
 }
