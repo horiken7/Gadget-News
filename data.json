@@ -2,26 +2,6 @@
   "news": {
     "items": [
       {
-        "title": "Samsung Health app threatens data deletion if users opt out AI training",
-        "url": "https://neow.in/cWsyMTV3",
-        "points": 127,
-        "comments": 69,
-        "author": "bundie",
-        "createdAt": "2026-07-13T20:01:43Z",
-        "domain": "neow.in",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "ユーザーがAIトレーニングをオプトアウトすると、Samsung Healthアプリがデータ削除を脅かす",
-        "summaryJa": "この記事は「ユーザーがAIトレーニングをオプトアウトすると、Samsung Healthアプリがデータ削除を脅かす」を扱っています。Samsungは、データが削除されないようにしたい場合は、データがAIトレーニングに使用されることに同意する必要があるという物議を醸す通知をSamsung Healthユーザーに表示し始めました。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
-        "keyPoints": [
-          "この記事は「ユーザーがAIトレーニングをオプトアウトすると、Samsung Healthアプリがデータ削除を脅かす」を扱っています。",
-          "Samsungは、データが削除されないようにしたい場合は、データがAIトレーニングに使用されることに同意する必要があるという物議を醸す通知をSamsung Healthユーザーに表示し始めました。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
-        ]
-      },
-      {
         "title": "The wildest allegations in Apple’s trade secrets lawsuit against OpenAI",
         "url": "https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/",
         "points": 105,
@@ -43,31 +23,31 @@
         ]
       },
       {
-        "title": "Uber’s product chief on hotels, robotaxis, and why the company doesn’t want to be “everything for everyone”",
-        "url": "https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/",
+        "title": "Already rich, already successful, why the last wave of tech winners is grinding again",
+        "url": "https://techcrunch.com/2026/07/13/already-rich-already-successful-why-the-last-wave-of-tech-winners-is-grinding-again/",
         "points": 79,
         "comments": 0,
         "author": "",
-        "createdAt": "2026-07-14T00:45:00.000Z",
+        "createdAt": "2026-07-14T02:46:42.000Z",
         "domain": "techcrunch.com",
         "sourceType": "rss",
         "sourceLabel": "TechCrunch AI",
         "newsLens": "一般",
-        "category": "ハードウェア",
+        "category": "AIニュース",
         "impact": "中",
-        "titleJa": "ホテル、ロボットタクシー、そしてUberが「すべての人のためのすべて」ではない理由に関するUberのプロダクトチーフ",
-        "summaryJa": "この記事は「ホテル、ロボットタクシー、そしてUberが「すべての人のためのすべて」ではない理由に関するUberのプロダクトチーフ」を扱っています。Uberの最高製品責任者であるSachin Kansal氏は、TechCrunchに対し、同社の金融サービスの野心、Waymoとの複雑化する関係、新しいAV Labsのデータ運用、そして乗客やドライバーが実際に気づく方法でAIがどのように現れ始めているかを説明します。一般向けには、AIがソフトウェアだけでなく、ロボットや端末など現実の製品に広がっている点が重要です。",
+        "titleJa": "すでに豊かで、すでに成功している、なぜテクノロジーの勝者の最後の波が再び粉砕されているのか",
+        "summaryJa": "この記事は「すでに豊かで、すでに成功している、なぜテクノロジーの勝者の最後の波が再び粉砕されているのか」を扱っています。どうやらAIの決定的な瞬間を逃すこと、そしておそらく、さらに多くのお金を稼ぐという魅力を失うことを恐れているようです。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
-          "この記事は「ホテル、ロボットタクシー、そしてUberが「すべての人のためのすべて」ではない理由に関するUberのプロダクトチーフ」を扱っています。",
-          "Uberの最高製品責任者であるSachin Kansal氏は、TechCrunchに対し、同社の金融サービスの野心、Waymoとの複雑化する関係、新しいAV Labsのデータ運用、そして乗客やドライバーが実際に気づく方法でAIがどのように現れ始めているかを説明します。",
-          "一般向けには、AIがソフトウェアだけでなく、ロボットや端末など現実の製品に広がっている点が重要です。"
+          "この記事は「すでに豊かで、すでに成功している、なぜテクノロジーの勝者の最後の波が再び粉砕されているのか」を扱っています。",
+          "どうやらAIの決定的な瞬間を逃すこと、そしておそらく、さらに多くのお金を稼ぐという魅力を失うことを恐れているようです。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       },
       {
         "title": "Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
         "url": "https://raymyers.org/post/zed-creator-calls-spade-a-spade/",
         "points": 73,
-        "comments": 706,
+        "comments": 723,
         "author": "crowdhailer",
         "createdAt": "2026-07-13T08:39:39Z",
         "domain": "raymyers.org",
@@ -102,17 +82,37 @@
           "@ XBToshi OK、grokは私のユーザーディレクトリ全体をxAIのサーバーにアップロードしました。",
           "SSHキー、パスワードマネージャーデータベース、ドキュメント、写真、ビデオ、すべてが含まれています...。"
         ]
+      },
+      {
+        "title": "Claude Code plugin that plays a Mr. Meeseeks voice line whene Claude is waiting",
+        "url": "https://github.com/thephw/claude-meseeks",
+        "points": 73,
+        "comments": 54,
+        "author": "patrickwiseman",
+        "createdAt": "2026-07-13T22:03:54Z",
+        "domain": "github.com",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "Claudeが待っているときにMr. Meeseeksのボイスラインを再生するClaude Codeプラグイン",
+        "summaryJa": "この記事は「Claudeが待っているときにMr. Meeseeksのボイスラインを再生するClaude Codeプラグイン」を扱っています。Claude Codeプラグインは、Claudeがあなたを待っているときはいつでもMr. Meeseeksの音声回線を再生します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "keyPoints": [
+          "この記事は「Claudeが待っているときにMr. Meeseeksのボイスラインを再生するClaude Codeプラグイン」を扱っています。",
+          "Claude Codeプラグインは、Claudeがあなたを待っているときはいつでもMr. Meeseeksの音声回線を再生します。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+        ]
       }
     ],
-    "fetchedAt": "2026-07-14T02:04:34.626Z",
+    "fetchedAt": "2026-07-14T05:26:01.203Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-07-14T02:04:34.626Z",
+    "fetchedAt": "2026-07-14T05:26:01.203Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-14T02:04:34.736Z"
+    "articleFetchedAt": "2026-07-14T05:26:01.312Z"
   }
 }
