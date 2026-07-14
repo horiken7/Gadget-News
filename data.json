@@ -2,6 +2,27 @@
   "news": {
     "items": [
       {
+        "title": "Google faces another AI training lawsuit from major publishers",
+        "url": "https://techcrunch.com/2026/07/14/google-faces-another-ai-training-lawsuit-from-major-publishers/",
+        "points": 133,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-07-14T18:33:31.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
+        "category": "AIニュース",
+        "impact": "高",
+        "titleJa": "Googleは、大手パブリッシャーからの別のAIトレーニング訴訟に直面している",
+        "summaryJa": "この記事は「Googleは、大手パブリッシャーからの別のAIトレーニング訴訟に直面している」を扱っています。Hachette、Cengage、Elsevier、およびその他のパブリッシャーは、Googleが必要な許可なしに著作権で保護された作品でAIをトレーニングしたと主張しています。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "keyPoints": [
+          "この記事は「Googleは、大手パブリッシャーからの別のAIトレーニング訴訟に直面している」を扱っています。",
+          "Hachette、Cengage、Elsevier、およびその他のパブリッシャーは、Googleが必要な許可なしに著作権で保護された作品でAIをトレーニングしたと主張しています。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+        ]
+      },
+      {
         "title": "The real AI race may no longer be at the frontier",
         "url": "https://techcrunch.com/2026/07/14/the-real-ai-race-may-no-longer-be-at-the-frontier-open-models-hugging-face/",
         "points": 133,
@@ -20,27 +41,6 @@
           "この記事は「本当のAI種族はもはやフロンティアにいないかもしれません」を扱っています。",
           "Hugging FaceのCEOであるClem Delangue氏は、コスト、アクセシビリティ、所有権のために、企業はオープンモデルをますます望んでいると述べています。",
           "ほとんどのプロダクションAIがオープンモデルで実行される場合、フロンティアモデルは依然として重要ですか。"
-        ]
-      },
-      {
-        "title": "Reflection inks $1B compute deal with Nebius",
-        "url": "https://techcrunch.com/2026/07/14/reflection-inks-1b-compute-deal-with-nebius/",
-        "points": 107,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-07-14T14:37:48.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
-        "category": "AIニュース",
-        "impact": "高",
-        "titleJa": "リフレクションインク$ 10億Nebiusとのコンピューティング契約",
-        "summaryJa": "この記事は「リフレクションインク$ 10億Nebiusとのコンピューティング契約」を扱っています。Reflection AIは、Nebiusのコンピューティングにアクセスするために10億$の契約を締結しました。Reflectionは2024年に設立され、オープンソースのAI技術を開発しています。",
-        "keyPoints": [
-          "この記事は「リフレクションインク$ 10億Nebiusとのコンピューティング契約」を扱っています。",
-          "Reflection AIは、Nebiusのコンピューティングにアクセスするために10億$の契約を締結しました。",
-          "Reflectionは2024年に設立され、オープンソースのAI技術を開発しています。"
         ]
       },
       {
@@ -84,35 +84,35 @@
         ]
       },
       {
-        "title": "Are we offloading too much of our thinking to AI?",
-        "url": "https://www.artfish.ai/p/offloading-thinking-to-ai",
+        "title": "How to stop Claude from saying load-bearing",
+        "url": "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing",
         "points": 73,
-        "comments": 133,
-        "author": "yenniejun111",
-        "createdAt": "2026-07-14T15:18:13Z",
-        "domain": "artfish.ai",
+        "comments": 342,
+        "author": "shintoist",
+        "createdAt": "2026-07-14T11:46:02Z",
+        "domain": "jola.dev",
         "sourceType": "hn",
-        "category": "AIニュース",
+        "category": "AIモデル",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "私たちは考えすぎてAIに負担をかけているのでしょうか？",
-        "summaryJa": "この記事は「私たちは考えすぎてAIに負担をかけているのでしょうか？」を扱っています。自律性と自分自身のために考えることの価値についての省察。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "titleJa": "Claudeが耐荷重と言うのを止める方法",
+        "summaryJa": "この記事は「Claudeが耐荷重と言うのを止める方法」を扱っています。Claudeコードのテキスト出力をハッキングして、人生を少しばかげたものにしましょう。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
         "keyPoints": [
-          "この記事は「私たちは考えすぎてAIに負担をかけているのでしょうか。",
-          "自律性と自分自身のために考えることの価値についての省察。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+          "この記事は「Claudeが耐荷重と言うのを止める方法」を扱っています。",
+          "Claudeコードのテキスト出力をハッキングして、人生を少しばかげたものにしましょう。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
       }
     ],
-    "fetchedAt": "2026-07-14T17:10:41.797Z",
+    "fetchedAt": "2026-07-14T19:13:30.728Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-07-14T17:10:41.797Z",
+    "fetchedAt": "2026-07-14T19:13:30.728Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-14T17:10:42.086Z"
+    "articleFetchedAt": "2026-07-14T19:13:30.834Z"
   }
 }
