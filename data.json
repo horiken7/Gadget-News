@@ -44,30 +44,10 @@
         ]
       },
       {
-        "title": "A Study of Microsoft's Early 2026 Rollout of Claude Code and GitHub Copilot CLI",
-        "url": "https://arxiv.org/abs/2607.01418",
-        "points": 106,
-        "comments": 41,
-        "author": "softwaredoug",
-        "createdAt": "2026-07-13T21:43:51Z",
-        "domain": "arxiv.org",
-        "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "中",
-        "newsLens": "技術",
-        "titleJa": "マイクロソフトの2026年初頭のClaude CodeとGitHub Copilot CLIのロールアウトに関する調査",
-        "summaryJa": "この記事は「マイクロソフトの2026年初頭のClaude CodeとGitHub Copilot CLIのロールアウトに関する調査」を扱っています。ArXiv論文2607.01418の要約ページ：コマンドラインAIコーディングエージェントの採用と影響： Microsoftの2026年初頭のClaude CodeとGitHub Copilot CLIのロールアウトに関する研究。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
-        "keyPoints": [
-          "この記事は「マイクロソフトの2026年初頭のClaude CodeとGitHub Copilot CLIのロールアウトに関する調査」を扱っています。",
-          "ArXiv論文2607.01418の要約ページ：コマンドラインAIコーディングエージェントの採用と影響： Microsoftの2026年初頭のClaude CodeとGitHub Copilot CLIのロールアウトに関する研究。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
-        ]
-      },
-      {
         "title": "How to stop Claude from saying load-bearing",
         "url": "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing",
         "points": 73,
-        "comments": 405,
+        "comments": 425,
         "author": "shintoist",
         "createdAt": "2026-07-14T11:46:02Z",
         "domain": "jola.dev",
@@ -102,17 +82,37 @@
           "Claude Codeプラグインは、Claudeがあなたを待っているときはいつでもMr. Meeseeksの音声回線を再生します。",
           "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
+      },
+      {
+        "title": "OpenAI's Ad Business Is on Pace to Miss Its Own Forecast by 90%, Analyst Says",
+        "url": "https://www.adweek.com/media/openais-ad-business-is-on-pace-to-miss-its-own-forecast-by-90-analyst-says/",
+        "points": 58,
+        "comments": 64,
+        "author": "EvgeniyZh",
+        "createdAt": "2026-07-14T05:21:02Z",
+        "domain": "adweek.com",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "中",
+        "newsLens": "技術",
+        "titleJa": "OpenAIの広告ビジネスは、独自の予測を90 ％見逃すペースにあるとアナリストは述べています",
+        "summaryJa": "この記事は「OpenAIの広告ビジネスは、独自の予測を90 ％見逃すペースにあるとアナリストは述べています」を扱っています。OpenAIは、2030年までに1,000億$の広告収入を見込んでいます。Emarketerは、チャットボット広告市場全体の上限をわずか54.1億$に設定しています。",
+        "keyPoints": [
+          "この記事は「OpenAIの広告ビジネスは、独自の予測を90 ％見逃すペースにあるとアナリストは述べています」を扱っています。",
+          "OpenAIは、2030年までに1,000億$の広告収入を見込んでいます。",
+          "Emarketerは、チャットボット広告市場全体の上限をわずか54.1億$に設定しています。"
+        ]
       }
     ],
-    "fetchedAt": "2026-07-14T20:56:46.635Z",
+    "fetchedAt": "2026-07-14T21:56:50.385Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-07-14T20:56:46.635Z",
+    "fetchedAt": "2026-07-14T21:56:50.385Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-14T20:56:46.751Z"
+    "articleFetchedAt": "2026-07-14T21:56:50.490Z"
   }
 }
