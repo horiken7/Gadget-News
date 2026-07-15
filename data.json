@@ -47,7 +47,7 @@
         "title": "Launch HN: Agnost AI (YC S26) – Extract user feedback from agent conversations",
         "url": "https://agnost.ai",
         "points": 89,
-        "comments": 41,
+        "comments": 44,
         "author": "laalshaitaan",
         "createdAt": "2026-07-14T16:06:18Z",
         "domain": "agnost.ai",
@@ -64,30 +64,30 @@
         ]
       },
       {
-        "title": "How to stop Claude from saying load-bearing",
-        "url": "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing",
-        "points": 73,
-        "comments": 561,
-        "author": "shintoist",
-        "createdAt": "2026-07-14T11:46:02Z",
-        "domain": "jola.dev",
+        "title": "Show HN: Oodle.ai – $10 per million agent traces",
+        "url": "https://www.oodle.ai/product/agent-observability",
+        "points": 77,
+        "comments": 10,
+        "author": "kirankgollu",
+        "createdAt": "2026-07-14T14:36:28Z",
+        "domain": "oodle.ai",
         "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "高",
+        "category": "AIニュース",
+        "impact": "低",
         "newsLens": "技術",
-        "titleJa": "Claudeが耐荷重と言うのを止める方法",
-        "summaryJa": "この記事は「Claudeが耐荷重と言うのを止める方法」を扱っています。Claudeコードのテキスト出力をハッキングして、人生を少しばかげたものにしましょう。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "titleJa": "HNを表示： Oodle.ai –エージェントトレースあたり100万$ 10",
+        "summaryJa": "この記事は「HNを表示： Oodle.ai –エージェントトレースあたり100万$ 10」を扱っています。過去2年間で、ログ、メトリクス、トレースなど、観測可能な列ストレージエンジンを構築しました。今日、その基盤の上に構築したもの、LLMエージェントの観察可能性を紹介することは、私たちにとってエキサイティングなことです。",
         "keyPoints": [
-          "この記事は「Claudeが耐荷重と言うのを止める方法」を扱っています。",
-          "Claudeコードのテキスト出力をハッキングして、人生を少しばかげたものにしましょう。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+          "この記事は「HNを表示： Oodle.ai –エージェントトレースあたり100万$ 10」を扱っています。",
+          "過去2年間で、ログ、メトリクス、トレースなど、観測可能な列ストレージエンジンを構築しました。",
+          "今日、その基盤の上に構築したもの、LLMエージェントの観察可能性を紹介することは、私たちにとってエキサイティングなことです。"
         ]
       },
       {
         "title": "I tricked Claude into leaking your deepest, darkest secrets",
         "url": "https://www.ayush.digital/blog/the-memory-heist",
         "points": 73,
-        "comments": 154,
+        "comments": 197,
         "author": "macleginn",
         "createdAt": "2026-07-15T06:28:00Z",
         "domain": "ayush.digital",
@@ -104,7 +104,7 @@
         ]
       }
     ],
-    "fetchedAt": "2026-07-15T10:45:35.906Z",
+    "fetchedAt": "2026-07-15T12:12:00.201Z",
     "mock": false
   },
   "xTrends": {
@@ -112,11 +112,11 @@
       {
         "topic": "GPT-5.6 Sol",
         "locationLabel": "米国",
-        "bestRank": 1,
-        "appearances": 7,
+        "bestRank": 2,
+        "appearances": 10,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-07-15T10:45:35.875Z",
+        "observedAt": "2026-07-15T12:12:00.047Z",
         "url": "https://x.com/search?q=GPT-5.6%20Sol&src=typed_query&f=live",
         "articleTitle": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
         "articleTitleJa": "GPT-5.6 Sol Ultra はサイクル ダブル カバー予想の証明を生成 [pdf]",
@@ -130,19 +130,36 @@
         "topic": "GPT-5.6",
         "locationLabel": "カナダ",
         "bestRank": 32,
-        "appearances": 1,
+        "appearances": 4,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/canada/",
-        "observedAt": "2026-07-15T10:45:35.841Z",
+        "observedAt": "2026-07-15T12:12:00.184Z",
         "url": "https://x.com/search?q=GPT-5.6&src=typed_query&f=live",
         "articleTitle": "GPT-5.6",
         "articleTitleJa": "公開トレンド: GPT-5.6",
         "articleUrl": "https://trends24.in/canada/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-07-15T10:45:35.841Z",
+        "articlePublishedAt": "2026-07-15T12:12:00.184Z",
         "summaryJa": "カナダのTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
+      },
+      {
+        "topic": "AI in Australia",
+        "locationLabel": "豪州",
+        "bestRank": 10,
+        "appearances": 2,
+        "trendSource": "Trends24",
+        "sourceUrl": "https://trends24.in/australia/",
+        "observedAt": "2026-07-15T12:12:00.156Z",
+        "url": "https://x.com/search?q=AI%20in%20Australia&src=typed_query&f=live",
+        "articleTitle": "AI in Australia's Interests",
+        "articleTitleJa": "オーストラリアの利益における AI",
+        "articleUrl": "https://www.pm.gov.au/media/ai-australias-interests-0",
+        "articleSource": "pm.gov.au",
+        "articlePublishedAt": "2026-07-15T09:46:12Z",
+        "summaryJa": "私は、私たちが出会った土地の伝統的な所有者に感謝することから始め、過去、現在、そして新たに誕生した長老たちに敬意を表します。たくさんの思い出が詰まったシドニー大学に戻れてうれしいです。1980 年代に私がここで経済学を勉強していたとき、世界は経済合理主義の意味を教えられていました。イギリスではサッチャリズム、アメリカではレーガノミクス。しかし、ここオーストラリアでは私たちは異なる選択をしており、",
+        "translationVersion": 3
       },
       {
         "topic": "GPT 5.6 Sol",
@@ -151,7 +168,7 @@
         "appearances": 1,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/australia/",
-        "observedAt": "2026-07-15T10:45:35.858Z",
+        "observedAt": "2026-07-15T12:12:00.156Z",
         "url": "https://x.com/search?q=GPT%205.6%20Sol&src=typed_query&f=live",
         "articleTitle": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
         "articleTitleJa": "GPT-5.6 Sol Ultra はサイクル ダブル カバー予想の証明を生成 [pdf]",
@@ -162,10 +179,10 @@
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-07-15T10:45:35.906Z",
+    "fetchedAt": "2026-07-15T12:12:00.201Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-15T10:45:40.086Z"
+    "articleFetchedAt": "2026-07-15T12:12:03.478Z"
   }
 }
