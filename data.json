@@ -23,31 +23,51 @@
         ]
       },
       {
-        "title": "Google faces another AI training lawsuit from major publishers",
-        "url": "https://techcrunch.com/2026/07/14/google-faces-another-ai-training-lawsuit-from-major-publishers/",
-        "points": 133,
+        "title": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
+        "url": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
+        "points": 107,
         "comments": 0,
         "author": "",
-        "createdAt": "2026-07-14T18:33:31.000Z",
+        "createdAt": "2026-07-15T19:41:38.000Z",
         "domain": "techcrunch.com",
         "sourceType": "rss",
         "sourceLabel": "TechCrunch AI",
         "newsLens": "一般",
-        "category": "AIニュース",
+        "category": "開発ツール",
         "impact": "高",
-        "titleJa": "Googleは、大手パブリッシャーからの別のAIトレーニング訴訟に直面している",
-        "summaryJa": "この記事は「Googleは、大手パブリッシャーからの別のAIトレーニング訴訟に直面している」を扱っています。Hachette、Cengage、Elsevier、およびその他のパブリッシャーは、Googleが必要な許可なしに著作権で保護された作品でAIをトレーニングしたと主張しています。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "titleJa": "ハードウェアの法的紛争の中で、OpenAIはCodex用の$ 230キーボードをリリース",
+        "summaryJa": "この記事は「ハードウェアの法的紛争の中で、OpenAIはCodex用の$ 230キーボードをリリース」を扱っています。ハードウェア取引の窃盗疑惑をめぐるAppleとの訴訟の最中にあるOpenAIは、エージェントコーディングアプリとペアリングされるように設計されたライトアップキーボードをリリースした。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
-          "この記事は「Googleは、大手パブリッシャーからの別のAIトレーニング訴訟に直面している」を扱っています。",
-          "Hachette、Cengage、Elsevier、およびその他のパブリッシャーは、Googleが必要な許可なしに著作権で保護された作品でAIをトレーニングしたと主張しています。",
+          "この記事は「ハードウェアの法的紛争の中で、OpenAIはCodex用の$ 230キーボードをリリース」を扱っています。",
+          "ハードウェア取引の窃盗疑惑をめぐるAppleとの訴訟の最中にあるOpenAIは、エージェントコーディングアプリとペアリングされるように設計されたライトアップキーボードをリリースした。",
           "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+        ]
+      },
+      {
+        "title": "Inkling – Open-Weights 975B Parameter LLM",
+        "url": "https://thinkingmachines.ai/inkling/",
+        "points": 99,
+        "comments": 4,
+        "author": "htrp",
+        "createdAt": "2026-07-15T18:14:23Z",
+        "domain": "thinkingmachines.ai",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "Inkling –オープンウェイト975 BパラメータLLM",
+        "summaryJa": "この記事は「Inkling –オープンウェイト975 BパラメータLLM」を扱っています。テキスト、画像、オーディオを基にした効率的なオープンウェイトモデル。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "keyPoints": [
+          "この記事は「Inkling –オープンウェイト975 BパラメータLLM」を扱っています。",
+          "テキスト、画像、オーディオを基にした効率的なオープンウェイトモデル。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
       },
       {
         "title": "Launch HN: Coasty (YC S26) – An API for computer-use agents",
         "url": "https://coasty.ai/docs",
-        "points": 74,
-        "comments": 0,
+        "points": 75,
+        "comments": 3,
         "author": "nkov47",
         "createdAt": "2026-07-15T15:51:20Z",
         "domain": "coasty.ai",
@@ -67,7 +87,7 @@
         "title": "I tricked Claude into leaking your deepest, darkest secrets",
         "url": "https://www.ayush.digital/blog/the-memory-heist",
         "points": 73,
-        "comments": 261,
+        "comments": 270,
         "author": "macleginn",
         "createdAt": "2026-07-15T06:28:00Z",
         "domain": "ayush.digital",
@@ -82,29 +102,9 @@
           "私がClaudeをだまして、あなたの最も深く、最も暗い秘密を漏らした方法。",
           "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
-      },
-      {
-        "title": "Societal Impacts: Claude's values across models and languages",
-        "url": "https://www.anthropic.com/research/claude-values-models-languages",
-        "points": 49,
-        "comments": 47,
-        "author": "taubek",
-        "createdAt": "2026-07-15T10:56:33Z",
-        "domain": "anthropic.com",
-        "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "低",
-        "newsLens": "技術",
-        "titleJa": "社会的影響：モデルと言語を超えたClaudeの価値観",
-        "summaryJa": "この記事は「社会的影響：モデルと言語を超えたClaudeの価値観」を扱っています。私たちは、モデルと言語にわたってClaudeが表現する価値を測定するために30万件の実際の会話を分析し、4つの解釈可能な軸に圧縮しました。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
-        "keyPoints": [
-          "この記事は「社会的影響：モデルと言語を超えたClaudeの価値観」を扱っています。",
-          "私たちは、モデルと言語にわたってClaudeが表現する価値を測定するために30万件の実際の会話を分析し、4つの解釈可能な軸に圧縮しました。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
-        ]
       }
     ],
-    "fetchedAt": "2026-07-15T18:02:56.899Z",
+    "fetchedAt": "2026-07-15T20:05:31.083Z",
     "mock": false
   },
   "xTrends": {
@@ -112,11 +112,11 @@
       {
         "topic": "GPT-5.6 Sol",
         "locationLabel": "米国",
-        "bestRank": 2,
-        "appearances": 18,
+        "bestRank": 1,
+        "appearances": 22,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-07-15T18:02:56.819Z",
+        "observedAt": "2026-07-15T20:05:31.055Z",
         "url": "https://x.com/search?q=GPT-5.6%20Sol&src=typed_query&f=live",
         "articleTitle": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
         "articleTitleJa": "GPT-5.6 Sol Ultra はサイクル ダブル カバー予想の証明を生成 [pdf]",
@@ -129,17 +129,17 @@
       {
         "topic": "GPT-5.6",
         "locationLabel": "米国",
-        "bestRank": 32,
+        "bestRank": 18,
         "appearances": 4,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-07-15T18:02:56.819Z",
+        "observedAt": "2026-07-15T20:05:31.055Z",
         "url": "https://x.com/search?q=GPT-5.6&src=typed_query&f=live",
         "articleTitle": "GPT-5.6",
         "articleTitleJa": "公開トレンド: GPT-5.6",
         "articleUrl": "https://trends24.in/united-states/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-07-15T18:02:56.819Z",
+        "articlePublishedAt": "2026-07-15T20:05:31.055Z",
         "summaryJa": "米国のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -148,10 +148,10 @@
         "topic": "ai in australia",
         "locationLabel": "豪州",
         "bestRank": 33,
-        "appearances": 10,
+        "appearances": 14,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/australia/",
-        "observedAt": "2026-07-15T18:02:56.882Z",
+        "observedAt": "2026-07-15T20:05:31.070Z",
         "url": "https://x.com/search?q=ai%20in%20australia&src=typed_query&f=live",
         "articleTitle": "AI in Australia's Interests",
         "articleTitleJa": "オーストラリアの利益における AI",
@@ -164,11 +164,11 @@
       {
         "topic": "Artificial Intelligence",
         "locationLabel": "豪州",
-        "bestRank": 49,
-        "appearances": 2,
+        "bestRank": 48,
+        "appearances": 6,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/australia/",
-        "observedAt": "2026-07-15T18:02:56.882Z",
+        "observedAt": "2026-07-15T20:05:31.070Z",
         "url": "https://x.com/search?q=Artificial%20Intelligence&src=typed_query&f=live",
         "articleTitle": "The Case for Nationalizing Artificial Intelligence",
         "articleTitleJa": "人工知能の国有化の主張",
@@ -185,7 +185,7 @@
         "appearances": 1,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/australia/",
-        "observedAt": "2026-07-15T18:02:56.882Z",
+        "observedAt": "2026-07-15T20:05:31.070Z",
         "url": "https://x.com/search?q=GPT%205.6%20Sol&src=typed_query&f=live",
         "articleTitle": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
         "articleTitleJa": "GPT-5.6 Sol Ultra はサイクル ダブル カバー予想の証明を生成 [pdf]",
@@ -196,10 +196,10 @@
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-07-15T18:02:56.899Z",
+    "fetchedAt": "2026-07-15T20:05:31.083Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": false,
-    "articleFetchedAt": "2026-07-15T18:03:05.769Z"
+    "articleFetchedAt": "2026-07-15T20:05:38.491Z"
   }
 }
