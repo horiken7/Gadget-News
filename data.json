@@ -23,6 +23,27 @@
         ]
       },
       {
+        "title": "Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents",
+        "url": "https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents",
+        "points": 107,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-07-15T22:24:17.000Z",
+        "domain": "venturebeat.com",
+        "sourceType": "rss",
+        "sourceLabel": "VentureBeat AI",
+        "newsLens": "技術",
+        "category": "AIニュース",
+        "impact": "中",
+        "titleJa": "エージェントのオーケストレーション：エンタープライズAI組織は、プラットフォームの問題ではなく、展開の問題を抱えており、ほとんどがチャットボットエージェントを呼び出しています",
+        "summaryJa": "この記事は「エージェントのオーケストレーション：エンタープライズAI組織は、プラットフォームの問題ではなく、展開の問題を抱えており、ほとんどがチャットボットエージェントを呼び出しています」を扱っています。101の企業にわたって、エージェントオーケストレーションはモデルプロバイダプラットフォームに統合されています。AnthropicのClaudeは、基礎となるモデルの重要性を考慮して選択され、信頼性の高いマルチステップ実行で判断されます。",
+        "keyPoints": [
+          "この記事は「エージェントのオーケストレーション：エンタープライズAI組織は、プラットフォームの問題ではなく、展開の問題を抱えており、ほとんどがチャットボットエージェントを呼び出しています」を扱っています。",
+          "101の企業にわたって、エージェントオーケストレーションはモデルプロバイダプラットフォームに統合されています。",
+          "AnthropicのClaudeは、基礎となるモデルの重要性を考慮して選択され、信頼性の高いマルチステップ実行で判断されます。"
+        ]
+      },
+      {
         "title": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
         "url": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
         "points": 107,
@@ -67,7 +88,7 @@
         "title": "I tricked Claude into leaking your deepest, darkest secrets",
         "url": "https://www.ayush.digital/blog/the-memory-heist",
         "points": 73,
-        "comments": 276,
+        "comments": 279,
         "author": "macleginn",
         "createdAt": "2026-07-15T06:28:00Z",
         "domain": "ayush.digital",
@@ -82,29 +103,9 @@
           "私がClaudeをだまして、あなたの最も深く、最も暗い秘密を漏らした方法。",
           "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
-      },
-      {
-        "title": "Grok Build",
-        "url": "https://github.com/xai-org/grok-build",
-        "points": 63,
-        "comments": 101,
-        "author": "skp1995",
-        "createdAt": "2026-07-15T20:24:58Z",
-        "domain": "github.com",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "Grok建造",
-        "summaryJa": "この記事は「Grok建造」を扱っています。SpaceXAIのコーディングエージェントハーネスとTUI。フルスクリーン、マウスインタラクティブ、拡張可能。",
-        "keyPoints": [
-          "この記事は「Grok建造」を扱っています。",
-          "SpaceXAIのコーディングエージェントハーネスとTUI。",
-          "フルスクリーン、マウスインタラクティブ、拡張可能。"
-        ]
       }
     ],
-    "fetchedAt": "2026-07-15T21:56:10.426Z",
+    "fetchedAt": "2026-07-15T22:57:08.321Z",
     "mock": false
   },
   "xTrends": {
@@ -113,10 +114,10 @@
         "topic": "GPT-5.6 Sol",
         "locationLabel": "米国",
         "bestRank": 2,
-        "appearances": 21,
+        "appearances": 19,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-07-15T21:56:10.375Z",
+        "observedAt": "2026-07-15T22:57:08.202Z",
         "url": "https://x.com/search?q=GPT-5.6%20Sol&src=typed_query&f=live",
         "articleTitle": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
         "articleTitleJa": "GPT-5.6 Sol Ultra はサイクル ダブル カバー予想の証明を生成 [pdf]",
@@ -133,13 +134,13 @@
         "appearances": 4,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-07-15T21:56:10.375Z",
+        "observedAt": "2026-07-15T22:57:08.202Z",
         "url": "https://x.com/search?q=GPT-5.6&src=typed_query&f=live",
         "articleTitle": "GPT-5.6",
         "articleTitleJa": "公開トレンド: GPT-5.6",
         "articleUrl": "https://trends24.in/united-states/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-07-15T21:56:10.375Z",
+        "articlePublishedAt": "2026-07-15T22:57:08.202Z",
         "summaryJa": "米国のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -151,7 +152,7 @@
         "appearances": 15,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/australia/",
-        "observedAt": "2026-07-15T21:56:10.328Z",
+        "observedAt": "2026-07-15T22:57:08.280Z",
         "url": "https://x.com/search?q=ai%20in%20australia&src=typed_query&f=live",
         "articleTitle": "AI in Australia's Interests",
         "articleTitleJa": "オーストラリアの利益における AI",
@@ -168,7 +169,7 @@
         "appearances": 6,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/australia/",
-        "observedAt": "2026-07-15T21:56:10.328Z",
+        "observedAt": "2026-07-15T22:57:08.280Z",
         "url": "https://x.com/search?q=Artificial%20Intelligence&src=typed_query&f=live",
         "articleTitle": "The Case for Nationalizing Artificial Intelligence",
         "articleTitleJa": "人工知能の国有化の主張",
@@ -185,7 +186,7 @@
         "appearances": 1,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/australia/",
-        "observedAt": "2026-07-15T21:56:10.328Z",
+        "observedAt": "2026-07-15T22:57:08.280Z",
         "url": "https://x.com/search?q=GPT%205.6%20Sol&src=typed_query&f=live",
         "articleTitle": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
         "articleTitleJa": "GPT-5.6 Sol Ultra はサイクル ダブル カバー予想の証明を生成 [pdf]",
@@ -196,10 +197,10 @@
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-07-15T21:56:10.426Z",
+    "fetchedAt": "2026-07-15T22:57:08.321Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": false,
-    "articleFetchedAt": "2026-07-15T21:56:14.154Z"
+    "articleFetchedAt": "2026-07-15T22:57:12.179Z"
   }
 }
