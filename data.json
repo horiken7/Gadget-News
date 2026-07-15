@@ -23,24 +23,24 @@
         ]
       },
       {
-        "title": "The real AI race may no longer be at the frontier",
-        "url": "https://techcrunch.com/2026/07/14/the-real-ai-race-may-no-longer-be-at-the-frontier-open-models-hugging-face/",
-        "points": 133,
+        "title": "Vint Cerf is working on a plan to unleash AI agents on the open internet",
+        "url": "https://techcrunch.com/2026/07/15/vint-cerf-is-working-on-a-plan-to-unleash-ai-agents-on-the-open-internet/",
+        "points": 107,
         "comments": 0,
         "author": "",
-        "createdAt": "2026-07-14T14:24:53.000Z",
+        "createdAt": "2026-07-15T12:00:00.000Z",
         "domain": "techcrunch.com",
         "sourceType": "rss",
         "sourceLabel": "TechCrunch AI",
         "newsLens": "一般",
         "category": "AIニュース",
         "impact": "高",
-        "titleJa": "本当のAI種族はもはやフロンティアにいないかもしれません",
-        "summaryJa": "この記事は「本当のAI種族はもはやフロンティアにいないかもしれません」を扱っています。Hugging FaceのCEOであるClem Delangue氏は、コスト、アクセシビリティ、所有権のために、企業はオープンモデルをますます望んでいると述べています。ほとんどのプロダクションAIがオープンモデルで実行される場合、フロンティアモデルは依然として重要ですか？",
+        "titleJa": "Vint Cerfは、オープンインターネット上でAIエージェントを解放する計画に取り組んでいます",
+        "summaryJa": "この記事は「Vint Cerfは、オープンインターネット上でAIエージェントを解放する計画に取り組んでいます」を扱っています。TCP/IPの背後にいる男は、野生のAIエージェントを識別するための標準に取り組んでいます。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
-          "この記事は「本当のAI種族はもはやフロンティアにいないかもしれません」を扱っています。",
-          "Hugging FaceのCEOであるClem Delangue氏は、コスト、アクセシビリティ、所有権のために、企業はオープンモデルをますます望んでいると述べています。",
-          "ほとんどのプロダクションAIがオープンモデルで実行される場合、フロンティアモデルは依然として重要ですか。"
+          "この記事は「Vint Cerfは、オープンインターネット上でAIエージェントを解放する計画に取り組んでいます」を扱っています。",
+          "TCP/IPの背後にいる男は、野生のAIエージェントを識別するための標準に取り組んでいます。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       },
       {
@@ -64,30 +64,10 @@
         ]
       },
       {
-        "title": "Show HN: Oodle.ai – $10 per million agent traces",
-        "url": "https://www.oodle.ai/product/agent-observability",
-        "points": 77,
-        "comments": 10,
-        "author": "kirankgollu",
-        "createdAt": "2026-07-14T14:36:28Z",
-        "domain": "oodle.ai",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "低",
-        "newsLens": "技術",
-        "titleJa": "HNを表示： Oodle.ai –エージェントトレースあたり100万$ 10",
-        "summaryJa": "この記事は「HNを表示： Oodle.ai –エージェントトレースあたり100万$ 10」を扱っています。過去2年間で、ログ、メトリクス、トレースなど、観測可能な列ストレージエンジンを構築しました。今日、その基盤の上に構築したもの、LLMエージェントの観察可能性を紹介することは、私たちにとってエキサイティングなことです。",
-        "keyPoints": [
-          "この記事は「HNを表示： Oodle.ai –エージェントトレースあたり100万$ 10」を扱っています。",
-          "過去2年間で、ログ、メトリクス、トレースなど、観測可能な列ストレージエンジンを構築しました。",
-          "今日、その基盤の上に構築したもの、LLMエージェントの観察可能性を紹介することは、私たちにとってエキサイティングなことです。"
-        ]
-      },
-      {
         "title": "I tricked Claude into leaking your deepest, darkest secrets",
         "url": "https://www.ayush.digital/blog/the-memory-heist",
         "points": 73,
-        "comments": 197,
+        "comments": 229,
         "author": "macleginn",
         "createdAt": "2026-07-15T06:28:00Z",
         "domain": "ayush.digital",
@@ -102,9 +82,29 @@
           "私がClaudeをだまして、あなたの最も深く、最も暗い秘密を漏らした方法。",
           "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
+      },
+      {
+        "title": "The Three-Second Theft: Why AI Voice Fraud Outruns Every Defence",
+        "url": "https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence",
+        "points": 55,
+        "comments": 52,
+        "author": "dxs",
+        "createdAt": "2026-07-15T13:18:15Z",
+        "domain": "smarterarticles.co.uk",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "低",
+        "newsLens": "技術",
+        "titleJa": "3秒間の盗難： AI音声詐欺がすべての防御を上回る理由",
+        "summaryJa": "この記事は「3秒間の盗難： AI音声詐欺がすべての防御を上回る理由」を扱っています。シャロン・ブライトウェルは、娘が泣き叫んでいるのを聞きました。それは彼女が乗っていたかもしれない防御の終わりでした。",
+        "keyPoints": [
+          "この記事は「3秒間の盗難： AI音声詐欺がすべての防御を上回る理由」を扱っています。",
+          "シャロン・ブライトウェルは、娘が泣き叫んでいるのを聞きました。",
+          "それは彼女が乗っていたかもしれない防御の終わりでした。"
+        ]
       }
     ],
-    "fetchedAt": "2026-07-15T12:12:00.201Z",
+    "fetchedAt": "2026-07-15T14:45:45.283Z",
     "mock": false
   },
   "xTrends": {
@@ -113,10 +113,10 @@
         "topic": "GPT-5.6 Sol",
         "locationLabel": "米国",
         "bestRank": 2,
-        "appearances": 10,
+        "appearances": 13,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-07-15T12:12:00.047Z",
+        "observedAt": "2026-07-15T14:45:45.201Z",
         "url": "https://x.com/search?q=GPT-5.6%20Sol&src=typed_query&f=live",
         "articleTitle": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
         "articleTitleJa": "GPT-5.6 Sol Ultra はサイクル ダブル カバー予想の証明を生成 [pdf]",
@@ -128,31 +128,31 @@
       },
       {
         "topic": "GPT-5.6",
-        "locationLabel": "カナダ",
+        "locationLabel": "米国",
         "bestRank": 32,
         "appearances": 4,
         "trendSource": "Trends24",
-        "sourceUrl": "https://trends24.in/canada/",
-        "observedAt": "2026-07-15T12:12:00.184Z",
+        "sourceUrl": "https://trends24.in/united-states/",
+        "observedAt": "2026-07-15T14:45:45.201Z",
         "url": "https://x.com/search?q=GPT-5.6&src=typed_query&f=live",
         "articleTitle": "GPT-5.6",
         "articleTitleJa": "公開トレンド: GPT-5.6",
-        "articleUrl": "https://trends24.in/canada/",
+        "articleUrl": "https://trends24.in/united-states/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-07-15T12:12:00.184Z",
-        "summaryJa": "カナダのTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
+        "articlePublishedAt": "2026-07-15T14:45:45.201Z",
+        "summaryJa": "米国のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
       },
       {
-        "topic": "AI in Australia",
+        "topic": "ai in australia",
         "locationLabel": "豪州",
-        "bestRank": 10,
-        "appearances": 2,
+        "bestRank": 37,
+        "appearances": 5,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/australia/",
-        "observedAt": "2026-07-15T12:12:00.156Z",
-        "url": "https://x.com/search?q=AI%20in%20Australia&src=typed_query&f=live",
+        "observedAt": "2026-07-15T14:45:45.257Z",
+        "url": "https://x.com/search?q=ai%20in%20australia&src=typed_query&f=live",
         "articleTitle": "AI in Australia's Interests",
         "articleTitleJa": "オーストラリアの利益における AI",
         "articleUrl": "https://www.pm.gov.au/media/ai-australias-interests-0",
@@ -168,7 +168,7 @@
         "appearances": 1,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/australia/",
-        "observedAt": "2026-07-15T12:12:00.156Z",
+        "observedAt": "2026-07-15T14:45:45.257Z",
         "url": "https://x.com/search?q=GPT%205.6%20Sol&src=typed_query&f=live",
         "articleTitle": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
         "articleTitleJa": "GPT-5.6 Sol Ultra はサイクル ダブル カバー予想の証明を生成 [pdf]",
@@ -179,10 +179,10 @@
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-07-15T12:12:00.201Z",
+    "fetchedAt": "2026-07-15T14:45:45.283Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-15T12:12:03.478Z"
+    "articleFetchedAt": "2026-07-15T14:45:49.515Z"
   }
 }
