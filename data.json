@@ -44,36 +44,16 @@
         ]
       },
       {
-        "title": "Guardian Angels: LLM Personalization for Productivity and Security",
-        "url": "https://gwern.net/guardian-angel",
-        "points": 114,
-        "comments": 13,
-        "author": "andsoitis",
-        "createdAt": "2026-07-14T12:50:29Z",
-        "domain": "gwern.net",
-        "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "中",
-        "newsLens": "技術",
-        "titleJa": "Guardian Angels ：生産性とセキュリティのためのLLMパーソナライゼーション",
-        "summaryJa": "この記事は「Guardian Angels ：生産性とセキュリティのためのLLMパーソナライゼーション」を扱っています。私は、高度にパーソナライズされたLLM、近い将来の生産性向上、そしてますます強力になるLLMに対する個人情報/サイバーセキュリティのためのアプローチを提案します。アップロードの精神で、プリンシパルを増幅するために、ユーザーの価値観と好みをエミュレートする必要があります。",
-        "keyPoints": [
-          "この記事は「Guardian Angels ：生産性とセキュリティのためのLLMパーソナライゼーション」を扱っています。",
-          "私は、高度にパーソナライズされたLLM、近い将来の生産性向上、そしてますます強力になるLLMに対する個人情報/サイバーセキュリティのためのアプローチを提案します。",
-          "アップロードの精神で、プリンシパルを増幅するために、ユーザーの価値観と好みをエミュレートする必要があります。"
-        ]
-      },
-      {
         "title": "Launch HN: Agnost AI (YC S26) – Extract user feedback from agent conversations",
         "url": "https://agnost.ai",
-        "points": 81,
-        "comments": 36,
+        "points": 88,
+        "comments": 38,
         "author": "laalshaitaan",
         "createdAt": "2026-07-14T16:06:18Z",
         "domain": "agnost.ai",
         "sourceType": "hn",
         "category": "AIニュース",
-        "impact": "低",
+        "impact": "中",
         "newsLens": "技術",
         "titleJa": "HNを立ち上げる： Agnost AI （ YC S 26 ） –エージェントの会話からユーザーのフィードバックを抽出する",
         "summaryJa": "この記事は「HNを立ち上げる： Agnost AI （ YC S 26 ） –エージェントの会話からユーザーのフィードバックを抽出する」を扱っています。私たちはShubham ＆ Parth、Agnost AI （ https://agnost.ai ）を構築している子供時代の友人、チャットとボイスエージェントを構築するチームのための製品分析です。プロダクションの会話を読んで、ユーザーが怒りを誘う（エージェントを罵る）、同じリクエストを繰り返し言い換える、エージェントを訂正する、不足している機能を尋ねる、技術的に答えた後に去るなどの行動上の失敗を見つけます。",
@@ -84,10 +64,30 @@
         ]
       },
       {
+        "title": "Show HN: Oodle.ai – $10 per million agent traces",
+        "url": "https://www.oodle.ai/product/agent-observability",
+        "points": 77,
+        "comments": 10,
+        "author": "kirankgollu",
+        "createdAt": "2026-07-14T14:36:28Z",
+        "domain": "oodle.ai",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "低",
+        "newsLens": "技術",
+        "titleJa": "HNを表示： Oodle.ai –エージェントトレースあたり100万$ 10",
+        "summaryJa": "この記事は「HNを表示： Oodle.ai –エージェントトレースあたり100万$ 10」を扱っています。過去2年間で、ログ、メトリクス、トレースなど、観測可能な列ストレージエンジンを構築しました。今日、その基盤の上に構築したもの、LLMエージェントの観察可能性を紹介することは、私たちにとってエキサイティングなことです。",
+        "keyPoints": [
+          "この記事は「HNを表示： Oodle.ai –エージェントトレースあたり100万$ 10」を扱っています。",
+          "過去2年間で、ログ、メトリクス、トレースなど、観測可能な列ストレージエンジンを構築しました。",
+          "今日、その基盤の上に構築したもの、LLMエージェントの観察可能性を紹介することは、私たちにとってエキサイティングなことです。"
+        ]
+      },
+      {
         "title": "How to stop Claude from saying load-bearing",
         "url": "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing",
         "points": 73,
-        "comments": 524,
+        "comments": 540,
         "author": "shintoist",
         "createdAt": "2026-07-14T11:46:02Z",
         "domain": "jola.dev",
@@ -104,15 +104,33 @@
         ]
       }
     ],
-    "fetchedAt": "2026-07-15T05:26:33.558Z",
+    "fetchedAt": "2026-07-15T08:01:30.829Z",
     "mock": false
   },
   "xTrends": {
-    "items": [],
-    "fetchedAt": "2026-07-15T05:26:33.558Z",
+    "items": [
+      {
+        "topic": "GPT-5.6 Sol",
+        "locationLabel": "米国",
+        "bestRank": 1,
+        "appearances": 4,
+        "trendSource": "Trends24",
+        "sourceUrl": "https://trends24.in/united-states/",
+        "observedAt": "2026-07-15T08:01:30.744Z",
+        "url": "https://x.com/search?q=GPT-5.6%20Sol&src=typed_query&f=live",
+        "articleTitle": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
+        "articleTitleJa": "GPT-5.6 Sol Ultra はサイクル ダブル カバー予想の証明を生成 [pdf]",
+        "articleUrl": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
+        "articleSource": "cdn.openai.com",
+        "articlePublishedAt": "2026-07-10T18:29:19Z",
+        "summaryJa": "https://x.com/__eknight__/status/2075643450196971805、https://xcancel.com/__eknight__/status/2075643450196971805 プロンプト: https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98...",
+        "translationVersion": 3
+      }
+    ],
+    "fetchedAt": "2026-07-15T08:01:30.829Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-15T05:26:33.679Z"
+    "articleFetchedAt": "2026-07-15T08:01:33.235Z"
   }
 }
