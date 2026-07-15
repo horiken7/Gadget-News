@@ -44,30 +44,10 @@
         ]
       },
       {
-        "title": "Launch HN: Agnost AI (YC S26) – Extract user feedback from agent conversations",
-        "url": "https://agnost.ai",
-        "points": 89,
-        "comments": 44,
-        "author": "laalshaitaan",
-        "createdAt": "2026-07-14T16:06:18Z",
-        "domain": "agnost.ai",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "中",
-        "newsLens": "技術",
-        "titleJa": "HNを立ち上げる： Agnost AI （ YC S 26 ） –エージェントの会話からユーザーのフィードバックを抽出する",
-        "summaryJa": "この記事は「HNを立ち上げる： Agnost AI （ YC S 26 ） –エージェントの会話からユーザーのフィードバックを抽出する」を扱っています。私たちはShubham ＆ Parth、Agnost AI （ https://agnost.ai ）を構築している子供時代の友人、チャットとボイスエージェントを構築するチームのための製品分析です。プロダクションの会話を読んで、ユーザーが怒りを誘う（エージェントを罵る）、同じリクエストを繰り返し言い換える、エージェントを訂正する、不足している機能を尋ねる、技術的に答えた後に去るなどの行動上の失敗を見つけます。",
-        "keyPoints": [
-          "この記事は「HNを立ち上げる： Agnost AI （ YC S 26 ） –エージェントの会話からユーザーのフィードバックを抽出する」を扱っています。",
-          "私たちはShubham ＆ Parth、Agnost AI （ https://agnost.ai ）を構築している子供時代の友人、チャットとボイスエージェントを構築するチームのための製品分析です。",
-          "プロダクションの会話を読んで、ユーザーが怒りを誘う（エージェントを罵る）、同じリクエストを繰り返し言い換える、エージェントを訂正する、不足している機能を尋ねる、技術的に答えた後に去るなどの行動上の失敗を見つけます。"
-        ]
-      },
-      {
         "title": "I tricked Claude into leaking your deepest, darkest secrets",
         "url": "https://www.ayush.digital/blog/the-memory-heist",
         "points": 73,
-        "comments": 229,
+        "comments": 250,
         "author": "macleginn",
         "createdAt": "2026-07-15T06:28:00Z",
         "domain": "ayush.digital",
@@ -84,27 +64,47 @@
         ]
       },
       {
-        "title": "The Three-Second Theft: Why AI Voice Fraud Outruns Every Defence",
-        "url": "https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence",
-        "points": 55,
-        "comments": 52,
-        "author": "dxs",
-        "createdAt": "2026-07-15T13:18:15Z",
-        "domain": "smarterarticles.co.uk",
+        "title": "If you want Claude to speak nicely to you, try Hindi or Arabic",
+        "url": "https://www.theregister.com/ai-and-ml/2026/07/14/if-you-want-claude-to-speak-nicely-to-you-try-hindi-or-arabic/5271409",
+        "points": 65,
+        "comments": 1,
+        "author": "Bender",
+        "createdAt": "2026-07-15T13:04:25Z",
+        "domain": "theregister.com",
         "sourceType": "hn",
-        "category": "AIニュース",
+        "category": "AIモデル",
         "impact": "低",
         "newsLens": "技術",
-        "titleJa": "3秒間の盗難： AI音声詐欺がすべての防御を上回る理由",
-        "summaryJa": "この記事は「3秒間の盗難： AI音声詐欺がすべての防御を上回る理由」を扱っています。シャロン・ブライトウェルは、娘が泣き叫んでいるのを聞きました。それは彼女が乗っていたかもしれない防御の終わりでした。",
+        "titleJa": "Claudeに上手に話してもらいたい場合は、ヒンディー語またはアラビア語を試してみてください",
+        "summaryJa": "この記事は「Claudeに上手に話してもらいたい場合は、ヒンディー語またはアラビア語を試してみてください」を扱っています。Anthropicは、Claudeが言語間で異なる価値観を表現していることを発見しました。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
         "keyPoints": [
-          "この記事は「3秒間の盗難： AI音声詐欺がすべての防御を上回る理由」を扱っています。",
-          "シャロン・ブライトウェルは、娘が泣き叫んでいるのを聞きました。",
-          "それは彼女が乗っていたかもしれない防御の終わりでした。"
+          "この記事は「Claudeに上手に話してもらいたい場合は、ヒンディー語またはアラビア語を試してみてください」を扱っています。",
+          "Anthropicは、Claudeが言語間で異なる価値観を表現していることを発見しました。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+        ]
+      },
+      {
+        "title": "Societal Impacts: Claude's values across models and languages",
+        "url": "https://www.anthropic.com/research/claude-values-models-languages",
+        "points": 49,
+        "comments": 45,
+        "author": "taubek",
+        "createdAt": "2026-07-15T10:56:33Z",
+        "domain": "anthropic.com",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "低",
+        "newsLens": "技術",
+        "titleJa": "社会的影響：モデルと言語を超えたClaudeの価値観",
+        "summaryJa": "この記事は「社会的影響：モデルと言語を超えたClaudeの価値観」を扱っています。私たちは、モデルと言語にわたってClaudeが表現する価値を測定するために30万件の実際の会話を分析し、4つの解釈可能な軸に圧縮しました。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "keyPoints": [
+          "この記事は「社会的影響：モデルと言語を超えたClaudeの価値観」を扱っています。",
+          "私たちは、モデルと言語にわたってClaudeが表現する価値を測定するために30万件の実際の会話を分析し、4つの解釈可能な軸に圧縮しました。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
       }
     ],
-    "fetchedAt": "2026-07-15T14:45:45.283Z",
+    "fetchedAt": "2026-07-15T16:17:36.398Z",
     "mock": false
   },
   "xTrends": {
@@ -113,10 +113,10 @@
         "topic": "GPT-5.6 Sol",
         "locationLabel": "米国",
         "bestRank": 2,
-        "appearances": 13,
+        "appearances": 16,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-07-15T14:45:45.201Z",
+        "observedAt": "2026-07-15T16:17:36.260Z",
         "url": "https://x.com/search?q=GPT-5.6%20Sol&src=typed_query&f=live",
         "articleTitle": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
         "articleTitleJa": "GPT-5.6 Sol Ultra はサイクル ダブル カバー予想の証明を生成 [pdf]",
@@ -133,13 +133,13 @@
         "appearances": 4,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-07-15T14:45:45.201Z",
+        "observedAt": "2026-07-15T16:17:36.260Z",
         "url": "https://x.com/search?q=GPT-5.6&src=typed_query&f=live",
         "articleTitle": "GPT-5.6",
         "articleTitleJa": "公開トレンド: GPT-5.6",
         "articleUrl": "https://trends24.in/united-states/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-07-15T14:45:45.201Z",
+        "articlePublishedAt": "2026-07-15T16:17:36.260Z",
         "summaryJa": "米国のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -147,11 +147,11 @@
       {
         "topic": "ai in australia",
         "locationLabel": "豪州",
-        "bestRank": 37,
-        "appearances": 5,
+        "bestRank": 33,
+        "appearances": 8,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/australia/",
-        "observedAt": "2026-07-15T14:45:45.257Z",
+        "observedAt": "2026-07-15T16:17:36.339Z",
         "url": "https://x.com/search?q=ai%20in%20australia&src=typed_query&f=live",
         "articleTitle": "AI in Australia's Interests",
         "articleTitleJa": "オーストラリアの利益における AI",
@@ -168,7 +168,7 @@
         "appearances": 1,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/australia/",
-        "observedAt": "2026-07-15T14:45:45.257Z",
+        "observedAt": "2026-07-15T16:17:36.339Z",
         "url": "https://x.com/search?q=GPT%205.6%20Sol&src=typed_query&f=live",
         "articleTitle": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
         "articleTitleJa": "GPT-5.6 Sol Ultra はサイクル ダブル カバー予想の証明を生成 [pdf]",
@@ -179,10 +179,10 @@
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-07-15T14:45:45.283Z",
+    "fetchedAt": "2026-07-15T16:17:36.398Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-15T14:45:49.515Z"
+    "articleFetchedAt": "2026-07-15T16:17:39.345Z"
   }
 }
