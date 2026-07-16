@@ -68,7 +68,7 @@
         "title": "Grok Build is open source",
         "url": "https://github.com/xai-org/grok-build",
         "points": 101,
-        "comments": 434,
+        "comments": 508,
         "author": "skp1995",
         "createdAt": "2026-07-15T20:24:58Z",
         "domain": "github.com",
@@ -105,54 +105,19 @@
         ]
       }
     ],
-    "fetchedAt": "2026-07-16T08:06:04.011Z",
+    "fetchedAt": "2026-07-16T10:55:31.906Z",
     "mock": false
   },
   "xTrends": {
     "items": [
       {
-        "topic": "GPT-5.6 Sol",
-        "locationLabel": "米国",
-        "bestRank": 25,
-        "appearances": 9,
-        "trendSource": "Trends24",
-        "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-07-16T08:06:03.890Z",
-        "url": "https://x.com/search?q=GPT-5.6%20Sol&src=typed_query&f=live",
-        "articleTitle": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
-        "articleTitleJa": "GPT-5.6 Sol Ultra はサイクル ダブル カバー予想の証明を生成 [pdf]",
-        "articleUrl": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
-        "articleSource": "cdn.openai.com",
-        "articlePublishedAt": "2026-07-10T18:29:19Z",
-        "summaryJa": "https://x.com/__eknight__/status/2075643450196971805、https://xcancel.com/__eknight__/status/2075643450196971805 プロンプト: https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98...",
-        "translationVersion": 3
-      },
-      {
-        "topic": "GPT-5.6",
-        "locationLabel": "米国",
-        "bestRank": 48,
-        "appearances": 1,
-        "trendSource": "Trends24",
-        "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-07-16T08:06:03.890Z",
-        "url": "https://x.com/search?q=GPT-5.6&src=typed_query&f=live",
-        "articleTitle": "GPT-5.6",
-        "articleTitleJa": "公開トレンド: GPT-5.6",
-        "articleUrl": "https://trends24.in/united-states/",
-        "articleSource": "Trends24",
-        "articlePublishedAt": "2026-07-16T08:06:03.890Z",
-        "summaryJa": "米国のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
-        "translationVersion": 3,
-        "articleFallback": true
-      },
-      {
         "topic": "ai in australia",
         "locationLabel": "豪州",
-        "bestRank": 33,
-        "appearances": 10,
+        "bestRank": 35,
+        "appearances": 6,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/australia/",
-        "observedAt": "2026-07-16T08:06:03.969Z",
+        "observedAt": "2026-07-16T10:55:31.829Z",
         "url": "https://x.com/search?q=ai%20in%20australia&src=typed_query&f=live",
         "articleTitle": "AI in Australia's Interests",
         "articleTitleJa": "オーストラリアの利益における AI",
@@ -163,13 +128,30 @@
         "translationVersion": 3
       },
       {
+        "topic": "GPT-5.6 Sol",
+        "locationLabel": "豪州",
+        "bestRank": 36,
+        "appearances": 5,
+        "trendSource": "Trends24",
+        "sourceUrl": "https://trends24.in/australia/",
+        "observedAt": "2026-07-16T10:55:31.829Z",
+        "url": "https://x.com/search?q=GPT-5.6%20Sol&src=typed_query&f=live",
+        "articleTitle": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
+        "articleTitleJa": "GPT-5.6 Sol Ultra はサイクル ダブル カバー予想の証明を生成 [pdf]",
+        "articleUrl": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
+        "articleSource": "cdn.openai.com",
+        "articlePublishedAt": "2026-07-10T18:29:19Z",
+        "summaryJa": "https://x.com/__eknight__/status/2075643450196971805、https://xcancel.com/__eknight__/status/2075643450196971805 プロンプト: https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98...",
+        "translationVersion": 3
+      },
+      {
         "topic": "Artificial Intelligence",
         "locationLabel": "豪州",
         "bestRank": 48,
-        "appearances": 6,
+        "appearances": 5,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/australia/",
-        "observedAt": "2026-07-16T08:06:03.969Z",
+        "observedAt": "2026-07-16T10:55:31.829Z",
         "url": "https://x.com/search?q=Artificial%20Intelligence&src=typed_query&f=live",
         "articleTitle": "The Case for Nationalizing Artificial Intelligence",
         "articleTitleJa": "人工知能の国有化の主張",
@@ -180,10 +162,10 @@
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-07-16T08:06:04.011Z",
+    "fetchedAt": "2026-07-16T10:55:31.906Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-16T08:06:06.351Z"
+    "articleFetchedAt": "2026-07-16T10:55:34.187Z"
   }
 }
