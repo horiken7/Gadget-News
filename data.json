@@ -2,6 +2,27 @@
   "news": {
     "items": [
       {
+        "title": "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
+        "url": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
+        "points": 133,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-07-16T19:02:38.000Z",
+        "domain": "venturebeat.com",
+        "sourceType": "rss",
+        "sourceLabel": "VentureBeat AI",
+        "newsLens": "技術",
+        "category": "AIニュース",
+        "impact": "中",
+        "titleJa": "エージェントのセキュリティギャップ：企業の54 ％がすでにAIエージェントのインシデントを経験しており、ほとんどの企業は依然としてエージェントに資格情報を共有させています",
+        "summaryJa": "この記事は「エージェントのセキュリティギャップ：企業の54 ％がすでにAIエージェントのインシデントを経験しており、ほとんどの企業は依然としてエージェントに資格情報を共有させています」を扱っています。107の企業にわたって、AIエージェントはシステムやデータに実際にアクセスできるようになっていますが、それらを封じ込めるためのコントロールは遅れています。半数以上が既にエージェントのセキュリティインシデントまたはニアミスを確認しています。",
+        "keyPoints": [
+          "この記事は「エージェントのセキュリティギャップ：企業の54 ％がすでにAIエージェントのインシデントを経験しており、ほとんどの企業は依然としてエージェントに資格情報を共有させています」を扱っています。",
+          "107の企業にわたって、AIエージェントはシステムやデータに実際にアクセスできるようになっていますが、それらを封じ込めるためのコントロールは遅れています。",
+          "半数以上が既にエージェントのセキュリティインシデントまたはニアミスを確認しています。"
+        ]
+      },
+      {
         "title": "Moonshot’s upcoming Kimi 3 is expected to close the gap with Anthropic’s Opus 4.8",
         "url": "https://techcrunch.com/2026/07/16/moonshots-upcoming-kimi-3-is-expected-to-close-the-gap-with-anthropics-opus-4-8/",
         "points": 133,
@@ -49,7 +70,7 @@
         "points": 107,
         "comments": 0,
         "author": "",
-        "createdAt": "2026-07-16T17:35:19.000Z",
+        "createdAt": "2026-07-16T19:16:48.000Z",
         "domain": "venturebeat.com",
         "sourceType": "rss",
         "sourceLabel": "VentureBeat AI",
@@ -84,38 +105,17 @@
           "101の企業にわたって、AIエージェントにビジネスコンテキストを提供するインフラストラクチャは、信頼できるよりも速く構築されています。",
           "検索拡張生成は既にデフォルトのコンテキストソースであり、プロバイダーネイティブ検索は、カテゴリを定義する専用のベクターデータベースを静かに追い越しています。"
         ]
-      },
-      {
-        "title": "The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem — and most are shipping to production anyway",
-        "url": "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway",
-        "points": 107,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-07-16T16:40:48.000Z",
-        "domain": "venturebeat.com",
-        "sourceType": "rss",
-        "sourceLabel": "VentureBeat AI",
-        "newsLens": "技術",
-        "category": "AIニュース",
-        "impact": "中",
-        "titleJa": "エージェント評価のギャップ：エンタープライズAI組織は、カバレッジの問題ではなく、現実との整合性の問題を抱えており、ほとんどがとにかく本番環境に出荷されています",
-        "summaryJa": "この記事は「エージェント評価のギャップ：エンタープライズAI組織は、カバレッジの問題ではなく、現実との整合性の問題を抱えており、ほとんどがとにかく本番環境に出荷されています」を扱っています。157の企業にわたって、組織はAIエージェントにより多くの自律性を付与し、その自律性を低下させるための評価を信頼しています。半数はすでに社内評価に合格したエージェントを出荷した後、顧客が生産に失敗しました。",
-        "keyPoints": [
-          "この記事は「エージェント評価のギャップ：エンタープライズAI組織は、カバレッジの問題ではなく、現実との整合性の問題を抱えており、ほとんどがとにかく本番環境に出荷されています」を扱っています。",
-          "157の企業にわたって、組織はAIエージェントにより多くの自律性を付与し、その自律性を低下させるための評価を信頼しています。",
-          "半数はすでに社内評価に合格したエージェントを出荷した後、顧客が生産に失敗しました。"
-        ]
       }
     ],
-    "fetchedAt": "2026-07-16T18:03:25.413Z",
+    "fetchedAt": "2026-07-16T20:00:08.595Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-07-16T18:03:25.413Z",
+    "fetchedAt": "2026-07-16T20:00:08.595Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-16T18:03:25.641Z"
+    "articleFetchedAt": "2026-07-16T20:00:08.710Z"
   }
 }
