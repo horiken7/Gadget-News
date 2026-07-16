@@ -68,7 +68,7 @@
         "title": "Grok Build is open source",
         "url": "https://github.com/xai-org/grok-build",
         "points": 101,
-        "comments": 387,
+        "comments": 434,
         "author": "skp1995",
         "createdAt": "2026-07-15T20:24:58Z",
         "domain": "github.com",
@@ -105,7 +105,7 @@
         ]
       }
     ],
-    "fetchedAt": "2026-07-16T05:36:44.073Z",
+    "fetchedAt": "2026-07-16T08:06:04.011Z",
     "mock": false
   },
   "xTrends": {
@@ -113,11 +113,11 @@
       {
         "topic": "GPT-5.6 Sol",
         "locationLabel": "米国",
-        "bestRank": 2,
-        "appearances": 12,
+        "bestRank": 25,
+        "appearances": 9,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-07-16T05:36:43.997Z",
+        "observedAt": "2026-07-16T08:06:03.890Z",
         "url": "https://x.com/search?q=GPT-5.6%20Sol&src=typed_query&f=live",
         "articleTitle": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
         "articleTitleJa": "GPT-5.6 Sol Ultra はサイクル ダブル カバー予想の証明を生成 [pdf]",
@@ -130,17 +130,17 @@
       {
         "topic": "GPT-5.6",
         "locationLabel": "米国",
-        "bestRank": 5,
-        "appearances": 3,
+        "bestRank": 48,
+        "appearances": 1,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-07-16T05:36:43.997Z",
+        "observedAt": "2026-07-16T08:06:03.890Z",
         "url": "https://x.com/search?q=GPT-5.6&src=typed_query&f=live",
         "articleTitle": "GPT-5.6",
         "articleTitleJa": "公開トレンド: GPT-5.6",
         "articleUrl": "https://trends24.in/united-states/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-07-16T05:36:43.997Z",
+        "articlePublishedAt": "2026-07-16T08:06:03.890Z",
         "summaryJa": "米国のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -149,10 +149,10 @@
         "topic": "ai in australia",
         "locationLabel": "豪州",
         "bestRank": 33,
-        "appearances": 13,
+        "appearances": 10,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/australia/",
-        "observedAt": "2026-07-16T05:36:44.018Z",
+        "observedAt": "2026-07-16T08:06:03.969Z",
         "url": "https://x.com/search?q=ai%20in%20australia&src=typed_query&f=live",
         "articleTitle": "AI in Australia's Interests",
         "articleTitleJa": "オーストラリアの利益における AI",
@@ -169,7 +169,7 @@
         "appearances": 6,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/australia/",
-        "observedAt": "2026-07-16T05:36:44.018Z",
+        "observedAt": "2026-07-16T08:06:03.969Z",
         "url": "https://x.com/search?q=Artificial%20Intelligence&src=typed_query&f=live",
         "articleTitle": "The Case for Nationalizing Artificial Intelligence",
         "articleTitleJa": "人工知能の国有化の主張",
@@ -180,10 +180,10 @@
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-07-16T05:36:44.073Z",
+    "fetchedAt": "2026-07-16T08:06:04.011Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-16T05:36:48.430Z"
+    "articleFetchedAt": "2026-07-16T08:06:06.351Z"
   }
 }
