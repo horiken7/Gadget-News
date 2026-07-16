@@ -2,6 +2,27 @@
   "news": {
     "items": [
       {
+        "title": "Moonshot’s upcoming Kimi 3 is expected to close the gap with Anthropic’s Opus 4.8",
+        "url": "https://techcrunch.com/2026/07/16/moonshots-upcoming-kimi-3-is-expected-to-close-the-gap-with-anthropics-opus-4-8/",
+        "points": 133,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-07-16T14:26:29.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
+        "category": "AIニュース",
+        "impact": "高",
+        "titleJa": "ムーンショットの今後のKimi 3は、AnthropicのOpus 4.8とのギャップを縮めることが期待されています",
+        "summaryJa": "この記事は「ムーンショットの今後のKimi 3は、AnthropicのOpus 4.8とのギャップを縮めることが期待されています」を扱っています。Kimi K 3は、2兆から3兆の間のパラメータ数を持つ中国最大のオープンAIモデルになるとFTは報告しています。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "keyPoints": [
+          "この記事は「ムーンショットの今後のKimi 3は、AnthropicのOpus 4.8とのギャップを縮めることが期待されています」を扱っています。",
+          "Kimi K 3は、2兆から3兆の間のパラメータ数を持つ中国最大のオープンAIモデルになるとFTは報告しています。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+        ]
+      },
+      {
         "title": "Microsoft patches record number of security vulnerabilities, citing its use of AI",
         "url": "https://techcrunch.com/2026/07/15/microsoft-patches-record-number-of-security-vulnerabilities-citing-its-use-of-ai/",
         "points": 133,
@@ -44,31 +65,10 @@
         ]
       },
       {
-        "title": "Applied Computing wants to give oil and gas operators an AI model for the entire plant",
-        "url": "https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/",
-        "points": 107,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-07-16T04:00:00.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
-        "category": "AIモデル",
-        "impact": "高",
-        "titleJa": "Applied Computingは、石油およびガス事業者にプラント全体のAIモデルを提供したいと考えています",
-        "summaryJa": "この記事は「Applied Computingは、石油およびガス事業者にプラント全体のAIモデルを提供したいと考えています」を扱っています。Applied Computingは、石油、ガス、石油化学業界向けの基盤AIモデルを構築するために、2000万$のシリーズAを調達しました。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
-        "keyPoints": [
-          "この記事は「Applied Computingは、石油およびガス事業者にプラント全体のAIモデルを提供したいと考えています」を扱っています。",
-          "Applied Computingは、石油、ガス、石油化学業界向けの基盤AIモデルを構築するために、2000万$のシリーズAを調達しました。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
-        ]
-      },
-      {
         "title": "Grok Build is open source",
         "url": "https://github.com/xai-org/grok-build",
         "points": 101,
-        "comments": 530,
+        "comments": 563,
         "author": "skp1995",
         "createdAt": "2026-07-15T20:24:58Z",
         "domain": "github.com",
@@ -85,87 +85,35 @@
         ]
       },
       {
-        "title": "Inkling – Open-Weights 975B Parameter LLM",
-        "url": "https://thinkingmachines.ai/inkling/",
-        "points": 99,
-        "comments": 4,
-        "author": "htrp",
-        "createdAt": "2026-07-15T18:14:23Z",
-        "domain": "thinkingmachines.ai",
+        "title": "The LLM Critics Are Right. I Use LLMs Anyway",
+        "url": "https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/",
+        "points": 97,
+        "comments": 115,
+        "author": "JeremyTheo",
+        "createdAt": "2026-07-16T11:59:01Z",
+        "domain": "theocharis.dev",
         "sourceType": "hn",
         "category": "AIモデル",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "Inkling –オープンウェイト975 BパラメータLLM",
-        "summaryJa": "この記事は「Inkling –オープンウェイト975 BパラメータLLM」を扱っています。テキスト、画像、オーディオを基にした効率的なオープンウェイトモデル。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "titleJa": "LLMの批評家は正しい。とにかくLLMを使用する",
+        "summaryJa": "この記事は「LLMの批評家は正しい。とにかくLLMを使用する」を扱っています。私はLLMの批評家のすべてにほぼ同意しますが、私はまだLLMを頻繁に使用しています。私はこれが妄想のように聞こえることを知っていますが、私は。",
         "keyPoints": [
-          "この記事は「Inkling –オープンウェイト975 BパラメータLLM」を扱っています。",
-          "テキスト、画像、オーディオを基にした効率的なオープンウェイトモデル。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+          "この記事は「LLMの批評家は正しい。",
+          "とにかくLLMを使用する」を扱っています。",
+          "私はLLMの批評家のすべてにほぼ同意しますが、私はまだLLMを頻繁に使用しています。"
         ]
       }
     ],
-    "fetchedAt": "2026-07-16T12:18:41.488Z",
+    "fetchedAt": "2026-07-16T14:58:02.391Z",
     "mock": false
   },
   "xTrends": {
-    "items": [
-      {
-        "topic": "ai in australia",
-        "locationLabel": "豪州",
-        "bestRank": 35,
-        "appearances": 3,
-        "trendSource": "Trends24",
-        "sourceUrl": "https://trends24.in/australia/",
-        "observedAt": "2026-07-16T12:18:41.473Z",
-        "url": "https://x.com/search?q=ai%20in%20australia&src=typed_query&f=live",
-        "articleTitle": "AI in Australia's Interests",
-        "articleTitleJa": "オーストラリアの利益における AI",
-        "articleUrl": "https://www.pm.gov.au/media/ai-australias-interests-0",
-        "articleSource": "pm.gov.au",
-        "articlePublishedAt": "2026-07-15T09:46:12Z",
-        "summaryJa": "私は、私たちが出会った土地の伝統的な所有者に感謝することから始め、過去、現在、そして新たに誕生した長老たちに敬意を表します。たくさんの思い出が詰まったシドニー大学に戻れてうれしいです。1980 年代に私がここで経済学を勉強していたとき、世界は経済合理主義の意味を教えられていました。イギリスではサッチャリズム、アメリカではレーガノミクス。しかし、ここオーストラリアでは私たちは異なる選択をしており、",
-        "translationVersion": 3
-      },
-      {
-        "topic": "GPT-5.6 Sol",
-        "locationLabel": "豪州",
-        "bestRank": 46,
-        "appearances": 2,
-        "trendSource": "Trends24",
-        "sourceUrl": "https://trends24.in/australia/",
-        "observedAt": "2026-07-16T12:18:41.473Z",
-        "url": "https://x.com/search?q=GPT-5.6%20Sol&src=typed_query&f=live",
-        "articleTitle": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
-        "articleTitleJa": "GPT-5.6 Sol Ultra はサイクル ダブル カバー予想の証明を生成 [pdf]",
-        "articleUrl": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
-        "articleSource": "cdn.openai.com",
-        "articlePublishedAt": "2026-07-10T18:29:19Z",
-        "summaryJa": "https://x.com/__eknight__/status/2075643450196971805、https://xcancel.com/__eknight__/status/2075643450196971805 プロンプト: https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98...",
-        "translationVersion": 3
-      },
-      {
-        "topic": "Artificial Intelligence",
-        "locationLabel": "豪州",
-        "bestRank": 48,
-        "appearances": 2,
-        "trendSource": "Trends24",
-        "sourceUrl": "https://trends24.in/australia/",
-        "observedAt": "2026-07-16T12:18:41.473Z",
-        "url": "https://x.com/search?q=Artificial%20Intelligence&src=typed_query&f=live",
-        "articleTitle": "The Case for Nationalizing Artificial Intelligence",
-        "articleTitleJa": "人工知能の国有化の主張",
-        "articleUrl": "https://jacobin.com/2026/07/ai-policy-nationalization-commons-work",
-        "articleSource": "jacobin.com",
-        "articlePublishedAt": "2026-07-09T15:04:54Z",
-        "summaryJa": "人工知能は人類の共同作業を奪うことによって構築されてきました。 AI を構築したのは一般の人々です。それを所有すべきは一握りの億万長者ではなく、私たちです。",
-        "translationVersion": 3
-      }
-    ],
-    "fetchedAt": "2026-07-16T12:18:41.488Z",
+    "items": [],
+    "fetchedAt": "2026-07-16T14:58:02.391Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-16T12:18:43.280Z"
+    "articleFetchedAt": "2026-07-16T14:58:02.494Z"
   }
 }
