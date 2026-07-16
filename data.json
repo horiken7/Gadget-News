@@ -44,23 +44,23 @@
         ]
       },
       {
-        "title": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
-        "url": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
+        "title": "Applied Computing wants to give oil and gas operators an AI model for the entire plant",
+        "url": "https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/",
         "points": 107,
         "comments": 0,
         "author": "",
-        "createdAt": "2026-07-15T23:59:44.000Z",
+        "createdAt": "2026-07-16T04:00:00.000Z",
         "domain": "techcrunch.com",
         "sourceType": "rss",
         "sourceLabel": "TechCrunch AI",
         "newsLens": "一般",
-        "category": "AIニュース",
+        "category": "AIモデル",
         "impact": "高",
-        "titleJa": "マイクロソフトは、OpenAIとAnthropicについて話すために営業担当者を訓練していると伝えられています",
-        "summaryJa": "この記事は「マイクロソフトは、OpenAIとAnthropicについて話すために営業担当者を訓練していると伝えられています」を扱っています。マイクロソフトは、競合他社のモデルよりも効率的で費用対効果の高い社内AIモデルを販売しようとしている。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "titleJa": "Applied Computingは、石油およびガス事業者にプラント全体のAIモデルを提供したいと考えています",
+        "summaryJa": "この記事は「Applied Computingは、石油およびガス事業者にプラント全体のAIモデルを提供したいと考えています」を扱っています。Applied Computingは、石油、ガス、石油化学業界向けの基盤AIモデルを構築するために、2000万$のシリーズAを調達しました。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
-          "この記事は「マイクロソフトは、OpenAIとAnthropicについて話すために営業担当者を訓練していると伝えられています」を扱っています。",
-          "マイクロソフトは、競合他社のモデルよりも効率的で費用対効果の高い社内AIモデルを販売しようとしている。",
+          "この記事は「Applied Computingは、石油およびガス事業者にプラント全体のAIモデルを提供したいと考えています」を扱っています。",
+          "Applied Computingは、石油、ガス、石油化学業界向けの基盤AIモデルを構築するために、2000万$のシリーズAを調達しました。",
           "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       },
@@ -68,7 +68,7 @@
         "title": "Grok Build is open source",
         "url": "https://github.com/xai-org/grok-build",
         "points": 101,
-        "comments": 332,
+        "comments": 387,
         "author": "skp1995",
         "createdAt": "2026-07-15T20:24:58Z",
         "domain": "github.com",
@@ -105,7 +105,7 @@
         ]
       }
     ],
-    "fetchedAt": "2026-07-16T02:52:58.570Z",
+    "fetchedAt": "2026-07-16T05:36:44.073Z",
     "mock": false
   },
   "xTrends": {
@@ -114,10 +114,10 @@
         "topic": "GPT-5.6 Sol",
         "locationLabel": "米国",
         "bestRank": 2,
-        "appearances": 15,
+        "appearances": 12,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-07-16T02:52:58.550Z",
+        "observedAt": "2026-07-16T05:36:43.997Z",
         "url": "https://x.com/search?q=GPT-5.6%20Sol&src=typed_query&f=live",
         "articleTitle": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
         "articleTitleJa": "GPT-5.6 Sol Ultra はサイクル ダブル カバー予想の証明を生成 [pdf]",
@@ -130,17 +130,17 @@
       {
         "topic": "GPT-5.6",
         "locationLabel": "米国",
-        "bestRank": 4,
-        "appearances": 4,
+        "bestRank": 5,
+        "appearances": 3,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-07-16T02:52:58.550Z",
+        "observedAt": "2026-07-16T05:36:43.997Z",
         "url": "https://x.com/search?q=GPT-5.6&src=typed_query&f=live",
         "articleTitle": "GPT-5.6",
         "articleTitleJa": "公開トレンド: GPT-5.6",
         "articleUrl": "https://trends24.in/united-states/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-07-16T02:52:58.550Z",
+        "articlePublishedAt": "2026-07-16T05:36:43.997Z",
         "summaryJa": "米国のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -149,10 +149,10 @@
         "topic": "ai in australia",
         "locationLabel": "豪州",
         "bestRank": 33,
-        "appearances": 15,
+        "appearances": 13,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/australia/",
-        "observedAt": "2026-07-16T02:52:58.453Z",
+        "observedAt": "2026-07-16T05:36:44.018Z",
         "url": "https://x.com/search?q=ai%20in%20australia&src=typed_query&f=live",
         "articleTitle": "AI in Australia's Interests",
         "articleTitleJa": "オーストラリアの利益における AI",
@@ -169,7 +169,7 @@
         "appearances": 6,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/australia/",
-        "observedAt": "2026-07-16T02:52:58.453Z",
+        "observedAt": "2026-07-16T05:36:44.018Z",
         "url": "https://x.com/search?q=Artificial%20Intelligence&src=typed_query&f=live",
         "articleTitle": "The Case for Nationalizing Artificial Intelligence",
         "articleTitleJa": "人工知能の国有化の主張",
@@ -180,10 +180,10 @@
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-07-16T02:52:58.570Z",
+    "fetchedAt": "2026-07-16T05:36:44.073Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-16T02:53:01.142Z"
+    "articleFetchedAt": "2026-07-16T05:36:48.430Z"
   }
 }
