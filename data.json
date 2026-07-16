@@ -68,7 +68,7 @@
         "title": "Grok Build is open source",
         "url": "https://github.com/xai-org/grok-build",
         "points": 101,
-        "comments": 563,
+        "comments": 583,
         "author": "skp1995",
         "createdAt": "2026-07-15T20:24:58Z",
         "domain": "github.com",
@@ -87,8 +87,8 @@
       {
         "title": "The LLM Critics Are Right. I Use LLMs Anyway",
         "url": "https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/",
-        "points": 97,
-        "comments": 115,
+        "points": 101,
+        "comments": 147,
         "author": "JeremyTheo",
         "createdAt": "2026-07-16T11:59:01Z",
         "domain": "theocharis.dev",
@@ -105,15 +105,15 @@
         ]
       }
     ],
-    "fetchedAt": "2026-07-16T14:58:02.391Z",
+    "fetchedAt": "2026-07-16T16:18:56.776Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-07-16T14:58:02.391Z",
+    "fetchedAt": "2026-07-16T16:18:56.776Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-16T14:58:02.494Z"
+    "articleFetchedAt": "2026-07-16T16:18:56.934Z"
   }
 }
