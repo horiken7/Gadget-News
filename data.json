@@ -107,11 +107,45 @@
         ]
       }
     ],
-    "fetchedAt": "2026-07-16T22:54:17.990Z",
+    "fetchedAt": "2026-07-16T23:55:44.009Z",
     "mock": false
   },
   "xTrends": {
     "items": [
+      {
+        "topic": "Gemini Notebook",
+        "locationLabel": "日本",
+        "bestRank": 17,
+        "appearances": 1,
+        "trendSource": "Trends24",
+        "sourceUrl": "https://trends24.in/japan/",
+        "observedAt": "2026-07-16T23:55:43.972Z",
+        "url": "https://x.com/search?q=Gemini%20Notebook&src=typed_query&f=live",
+        "articleTitle": "NotebookLM is now Gemini Notebook",
+        "articleTitleJa": "NotebookLM は Gemini Notebook になりました",
+        "articleUrl": "https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/",
+        "articleSource": "blog.google",
+        "articlePublishedAt": "2026-07-16T16:08:13Z",
+        "summaryJa": "NotebookLM は Gemini Notebook になりました。Google との統合が強化され、安全なクラウド コンピューターを備えた同じスタンドアロン製品です。",
+        "translationVersion": 3
+      },
+      {
+        "topic": "DeepSeek",
+        "locationLabel": "米国",
+        "bestRank": 39,
+        "appearances": 1,
+        "trendSource": "Trends24",
+        "sourceUrl": "https://trends24.in/united-states/",
+        "observedAt": "2026-07-16T23:55:43.893Z",
+        "url": "https://x.com/search?q=DeepSeek&src=typed_query&f=live",
+        "articleTitle": "DeepSeek prepares for IPO filing as soon as 2026, eyes US$71B valuation: FT",
+        "articleTitleJa": "DeepSeek、早ければ2026年にIPO申請準備、評価額710億ドルを目指す：FT",
+        "articleUrl": "https://www.businesstimes.com.sg/startups-tech/technology/deepseek-prepares-ipo-filing-soon-2026-eyes-us71-billion-valuation-ft",
+        "articleSource": "businesstimes.com.sg",
+        "articlePublishedAt": "2026-07-15T06:12:21Z",
+        "summaryJa": "ビジネスタイムズ紙の情報筋によると、このAIスタートアップは上海のスターマーケットへの上場の可能性について早期の検討を開始したという。",
+        "translationVersion": 3
+      },
       {
         "topic": "Gemini 3.5 Pro",
         "locationLabel": "米国",
@@ -119,22 +153,22 @@
         "appearances": 1,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-07-16T22:54:17.908Z",
+        "observedAt": "2026-07-16T23:55:43.893Z",
         "url": "https://x.com/search?q=Gemini%203.5%20Pro&src=typed_query&f=live",
         "articleTitle": "Gemini 3.5 Pro",
         "articleTitleJa": "公開トレンド: Gemini 3.5 Pro",
         "articleUrl": "https://trends24.in/united-states/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-07-16T22:54:17.908Z",
+        "articlePublishedAt": "2026-07-16T23:55:43.893Z",
         "summaryJa": "米国のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
       }
     ],
-    "fetchedAt": "2026-07-16T22:54:17.990Z",
+    "fetchedAt": "2026-07-16T23:55:44.009Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-16T22:54:18.303Z"
+    "articleFetchedAt": "2026-07-16T23:55:49.006Z"
   }
 }
