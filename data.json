@@ -68,7 +68,7 @@
         "title": "Grok Build is open source",
         "url": "https://github.com/xai-org/grok-build",
         "points": 101,
-        "comments": 508,
+        "comments": 530,
         "author": "skp1995",
         "createdAt": "2026-07-15T20:24:58Z",
         "domain": "github.com",
@@ -105,7 +105,7 @@
         ]
       }
     ],
-    "fetchedAt": "2026-07-16T10:55:31.906Z",
+    "fetchedAt": "2026-07-16T12:18:41.488Z",
     "mock": false
   },
   "xTrends": {
@@ -114,10 +114,10 @@
         "topic": "ai in australia",
         "locationLabel": "豪州",
         "bestRank": 35,
-        "appearances": 6,
+        "appearances": 3,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/australia/",
-        "observedAt": "2026-07-16T10:55:31.829Z",
+        "observedAt": "2026-07-16T12:18:41.473Z",
         "url": "https://x.com/search?q=ai%20in%20australia&src=typed_query&f=live",
         "articleTitle": "AI in Australia's Interests",
         "articleTitleJa": "オーストラリアの利益における AI",
@@ -130,11 +130,11 @@
       {
         "topic": "GPT-5.6 Sol",
         "locationLabel": "豪州",
-        "bestRank": 36,
-        "appearances": 5,
+        "bestRank": 46,
+        "appearances": 2,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/australia/",
-        "observedAt": "2026-07-16T10:55:31.829Z",
+        "observedAt": "2026-07-16T12:18:41.473Z",
         "url": "https://x.com/search?q=GPT-5.6%20Sol&src=typed_query&f=live",
         "articleTitle": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
         "articleTitleJa": "GPT-5.6 Sol Ultra はサイクル ダブル カバー予想の証明を生成 [pdf]",
@@ -148,10 +148,10 @@
         "topic": "Artificial Intelligence",
         "locationLabel": "豪州",
         "bestRank": 48,
-        "appearances": 5,
+        "appearances": 2,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/australia/",
-        "observedAt": "2026-07-16T10:55:31.829Z",
+        "observedAt": "2026-07-16T12:18:41.473Z",
         "url": "https://x.com/search?q=Artificial%20Intelligence&src=typed_query&f=live",
         "articleTitle": "The Case for Nationalizing Artificial Intelligence",
         "articleTitleJa": "人工知能の国有化の主張",
@@ -162,10 +162,10 @@
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-07-16T10:55:31.906Z",
+    "fetchedAt": "2026-07-16T12:18:41.488Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-16T10:55:34.187Z"
+    "articleFetchedAt": "2026-07-16T12:18:43.280Z"
   }
 }
