@@ -23,23 +23,22 @@
         ]
       },
       {
-        "title": "Why AMI Labs’ Alexandre LeBrun won’t call his AI ‘AGI’ or ‘superintelligence’",
-        "url": "https://techcrunch.com/2026/07/16/why-ami-labs-alexandre-lebrun-wont-call-his-ai-agi-or-superintelligence/",
-        "points": 115,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-07-16T14:40:00.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
+        "title": "Apple targets dozens of OpenAI employees with legal letters",
+        "url": "https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166",
+        "points": 119,
+        "comments": 154,
+        "author": "merksittich",
+        "createdAt": "2026-07-17T12:02:39Z",
+        "domain": "ft.com",
+        "sourceType": "hn",
         "category": "AIニュース",
         "impact": "高",
-        "titleJa": "AMI LabsのAlexandre LeBrunがAIを「AGI」や「スーパーインテリジェンス」と呼ばない理由",
-        "summaryJa": "この記事は「AMI LabsのAlexandre LeBrunがAIを「AGI」や「スーパーインテリジェンス」と呼ばない理由」を扱っています。AIのすべての人が「スーパーインテリジェンス」を追い求めている間に、ヤン・ルクンの世界的なモデルスタートアップであるAMI LabsのCEOであるアレクサンドル・ルブランはこの言葉を却下した。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "newsLens": "一般",
+        "titleJa": "Appleは、法的手紙で何十人ものOpenAI従業員をターゲットにしています",
+        "summaryJa": "この記事は「Appleは、法的手紙で何十人ものOpenAI従業員をターゲットにしています」を扱っています。ft.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
-          "この記事は「AMI LabsのAlexandre LeBrunがAIを「AGI」や「スーパーインテリジェンス」と呼ばない理由」を扱っています。",
-          "AIのすべての人が「スーパーインテリジェンス」を追い求めている間に、ヤン・ルクンの世界的なモデルスタートアップであるAMI LabsのCEOであるアレクサンドル・ルブランはこの言葉を却下した。",
+          "この記事は「Appleは、法的手紙で何十人ものOpenAI従業員をターゲットにしています」を扱っています。",
+          "ft.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
           "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       },
@@ -65,24 +64,24 @@
         ]
       },
       {
-        "title": "Why the first GPU financiers are turning to inference chips in a $400 million deal",
-        "url": "https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/",
+        "title": "Patreon stops asking AI bots not to scrape — and starts blocking them",
+        "url": "https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/",
         "points": 107,
         "comments": 0,
         "author": "",
-        "createdAt": "2026-07-17T12:00:00.000Z",
+        "createdAt": "2026-07-17T15:21:17.000Z",
         "domain": "techcrunch.com",
         "sourceType": "rss",
         "sourceLabel": "TechCrunch AI",
         "newsLens": "一般",
-        "category": "ハードウェア",
+        "category": "AIニュース",
         "impact": "高",
-        "titleJa": "最初のGPUファイナンシャーが4億$の取引で推論チップに目を向けている理由",
-        "summaryJa": "この記事は「最初のGPUファイナンシャーが4億$の取引で推論チップに目を向けている理由」を扱っています。4億$のチップに裏打ちされた融資は、AIインフラストラクチャの取引の次の波を示しています。一般向けには、AIがソフトウェアだけでなく、ロボットや端末など現実の製品に広がっている点が重要です。",
+        "titleJa": "PatreonはAIボットにスクレイピングしないように依頼するのをやめ、ブロックを開始します",
+        "summaryJa": "この記事は「PatreonはAIボットにスクレイピングしないように依頼するのをやめ、ブロックを開始します」を扱っています。Patreonは、Cloudflareと協力して、許可なくクリエイターのコンテンツでAIモデルをトレーニングするボットをブロックすることで、AIスクレイピングに対する防御を強化しています。この動きは、不正なAIトレーニングを積極的にブロックするために、robots.txtのみを使用してウェブサイトに依存することからのシフトを示しています。",
         "keyPoints": [
-          "この記事は「最初のGPUファイナンシャーが4億$の取引で推論チップに目を向けている理由」を扱っています。",
-          "4億$のチップに裏打ちされた融資は、AIインフラストラクチャの取引の次の波を示しています。",
-          "一般向けには、AIがソフトウェアだけでなく、ロボットや端末など現実の製品に広がっている点が重要です。"
+          "この記事は「PatreonはAIボットにスクレイピングしないように依頼するのをやめ、ブロックを開始します」を扱っています。",
+          "Patreonは、Cloudflareと協力して、許可なくクリエイターのコンテンツでAIモデルをトレーニングするボットをブロックすることで、AIスクレイピングに対する防御を強化しています。",
+          "この動きは、不正なAIトレーニングを積極的にブロックするために、robots.txtのみを使用してウェブサイトに依存することからのシフトを示しています。"
         ]
       },
       {
@@ -107,7 +106,7 @@
         ]
       }
     ],
-    "fetchedAt": "2026-07-17T14:39:57.575Z",
+    "fetchedAt": "2026-07-17T16:11:49.591Z",
     "mock": false
   },
   "xTrends": {
@@ -119,7 +118,7 @@
         "appearances": 4,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-07-17T14:39:57.519Z",
+        "observedAt": "2026-07-17T16:11:49.530Z",
         "url": "https://x.com/search?q=Gemini%20Notebook&src=typed_query&f=live",
         "articleTitle": "NotebookLM is now Gemini Notebook",
         "articleTitleJa": "NotebookLM は Gemini Notebook になりました",
@@ -136,7 +135,7 @@
         "appearances": 1,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-07-17T14:39:57.538Z",
+        "observedAt": "2026-07-17T16:11:49.574Z",
         "url": "https://x.com/search?q=DeepSeek&src=typed_query&f=live",
         "articleTitle": "DeepSeek prepares for IPO filing as soon as 2026, eyes US$71B valuation: FT",
         "articleTitleJa": "DeepSeek、早ければ2026年にIPO申請準備、評価額710億ドルを目指す：FT",
@@ -147,10 +146,10 @@
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-07-17T14:39:57.575Z",
+    "fetchedAt": "2026-07-17T16:11:49.591Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-17T14:40:00.668Z"
+    "articleFetchedAt": "2026-07-17T16:11:56.166Z"
   }
 }
