@@ -2,10 +2,31 @@
   "news": {
     "items": [
       {
+        "title": "Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs",
+        "url": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
+        "points": 133,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-07-17T22:55:09.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
+        "category": "AIニュース",
+        "impact": "高",
+        "titleJa": "Vertuは、幹部がAIエージェントに$ 6,880を支払うことを望んでいます。実際のパフォーマンスは次のとおりです。",
+        "summaryJa": "この記事は「Vertuは、幹部がAIエージェントに$ 6,880を支払うことを望んでいます。実際のパフォーマンスは次のとおりです。」を扱っています。AIワークフローからバッテリー寿命とセキュリティまで、Vertuの豪華な折りたたみ式の毎日と一緒に暮らすことの本当の気分は次のとおりです。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "keyPoints": [
+          "この記事は「Vertuは、幹部がAIエージェントに$ 6,880を支払うことを望んでいます。",
+          "実際のパフォーマンスは次のとおりです。",
+          "AIワークフローからバッテリー寿命とセキュリティまで、Vertuの豪華な折りたたみ式の毎日と一緒に暮らすことの本当の気分は次のとおりです。"
+        ]
+      },
+      {
         "title": "Apple targets dozens of OpenAI employees with legal letters",
         "url": "https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166",
         "points": 119,
-        "comments": 308,
+        "comments": 312,
         "author": "merksittich",
         "createdAt": "2026-07-17T12:02:39Z",
         "domain": "ft.com",
@@ -22,30 +43,29 @@
         ]
       },
       {
-        "title": "Patreon stops asking AI bots not to scrape — and starts blocking them",
-        "url": "https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/",
-        "points": 107,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-07-17T15:21:17.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
+        "title": "Homomorphically encrypted CIFAR-10 inference in 200ms",
+        "url": "https://sofar.belfortlabs.cloud/",
+        "points": 84,
+        "comments": 31,
+        "author": "j2kun",
+        "createdAt": "2026-07-17T16:29:52Z",
+        "domain": "sofar.belfortlabs.cloud",
+        "sourceType": "hn",
         "category": "AIニュース",
-        "impact": "高",
-        "titleJa": "PatreonはAIボットにスクレイピングしないように依頼するのをやめ、ブロックを開始します",
-        "summaryJa": "この記事は「PatreonはAIボットにスクレイピングしないように依頼するのをやめ、ブロックを開始します」を扱っています。Patreonは、Cloudflareと協力して、許可なくクリエイターのコンテンツでAIモデルをトレーニングするボットをブロックすることで、AIスクレイピングに対する防御を強化しています。この動きは、不正なAIトレーニングを積極的にブロックするために、robots.txtのみを使用してウェブサイトに依存することからのシフトを示しています。",
+        "impact": "中",
+        "newsLens": "技術",
+        "titleJa": "200ミリ秒での同型暗号化CIFAR -10推論",
+        "summaryJa": "この記事は「200ミリ秒での同型暗号化CIFAR -10推論」を扱っています。FHEの下でライブ暗号化されたResNet -20推論。サーバーに画像が表示されることはありません。",
         "keyPoints": [
-          "この記事は「PatreonはAIボットにスクレイピングしないように依頼するのをやめ、ブロックを開始します」を扱っています。",
-          "Patreonは、Cloudflareと協力して、許可なくクリエイターのコンテンツでAIモデルをトレーニングするボットをブロックすることで、AIスクレイピングに対する防御を強化しています。",
-          "この動きは、不正なAIトレーニングを積極的にブロックするために、robots.txtのみを使用してウェブサイトに依存することからのシフトを示しています。"
+          "この記事は「200ミリ秒での同型暗号化CIFAR -10推論」を扱っています。",
+          "FHEの下でライブ暗号化されたResNet -20推論。",
+          "サーバーに画像が表示されることはありません。"
         ]
       },
       {
         "title": "Ask HN: Did Fable disappear from your Claude usage and requires credits now?",
         "url": "https://news.ycombinator.com/item?id=48950477",
-        "points": 81,
+        "points": 82,
         "comments": 84,
         "author": "cromka",
         "createdAt": "2026-07-17T18:18:23Z",
@@ -63,30 +83,10 @@
         ]
       },
       {
-        "title": "Homomorphically encrypted CIFAR-10 inference in 200ms",
-        "url": "https://sofar.belfortlabs.cloud/",
-        "points": 81,
-        "comments": 29,
-        "author": "j2kun",
-        "createdAt": "2026-07-17T16:29:52Z",
-        "domain": "sofar.belfortlabs.cloud",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "低",
-        "newsLens": "技術",
-        "titleJa": "200ミリ秒での同型暗号化CIFAR -10推論",
-        "summaryJa": "この記事は「200ミリ秒での同型暗号化CIFAR -10推論」を扱っています。FHEの下でライブ暗号化されたResNet -20推論。サーバーに画像が表示されることはありません。",
-        "keyPoints": [
-          "この記事は「200ミリ秒での同型暗号化CIFAR -10推論」を扱っています。",
-          "FHEの下でライブ暗号化されたResNet -20推論。",
-          "サーバーに画像が表示されることはありません。"
-        ]
-      },
-      {
         "title": "Claude Code: Anatomy of a Misfeature",
         "url": "https://www.olafalders.com/2026/07/17/claude-code-anatomy-of-a-misfeature/",
         "points": 73,
-        "comments": 115,
+        "comments": 116,
         "author": "oalders",
         "createdAt": "2026-07-17T14:26:58Z",
         "domain": "olafalders.com",
@@ -103,15 +103,15 @@
         ]
       }
     ],
-    "fetchedAt": "2026-07-17T22:44:31.371Z",
+    "fetchedAt": "2026-07-17T23:48:52.125Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-07-17T22:44:31.371Z",
+    "fetchedAt": "2026-07-17T23:48:52.125Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-17T22:44:31.575Z"
+    "articleFetchedAt": "2026-07-17T23:48:52.228Z"
   }
 }
