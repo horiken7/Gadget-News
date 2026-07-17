@@ -2,31 +2,10 @@
   "news": {
     "items": [
       {
-        "title": "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
-        "url": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
-        "points": 133,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-07-16T19:02:38.000Z",
-        "domain": "venturebeat.com",
-        "sourceType": "rss",
-        "sourceLabel": "VentureBeat AI",
-        "newsLens": "技術",
-        "category": "AIニュース",
-        "impact": "中",
-        "titleJa": "エージェントのセキュリティギャップ：企業の54 ％がすでにAIエージェントのインシデントを経験しており、ほとんどの企業は依然としてエージェントに資格情報を共有させています",
-        "summaryJa": "この記事は「エージェントのセキュリティギャップ：企業の54 ％がすでにAIエージェントのインシデントを経験しており、ほとんどの企業は依然としてエージェントに資格情報を共有させています」を扱っています。107の企業にわたって、AIエージェントはシステムやデータに実際にアクセスできるようになっていますが、それらを封じ込めるためのコントロールは遅れています。半数以上が既にエージェントのセキュリティインシデントまたはニアミスを確認しています。",
-        "keyPoints": [
-          "この記事は「エージェントのセキュリティギャップ：企業の54 ％がすでにAIエージェントのインシデントを経験しており、ほとんどの企業は依然としてエージェントに資格情報を共有させています」を扱っています。",
-          "107の企業にわたって、AIエージェントはシステムやデータに実際にアクセスできるようになっていますが、それらを封じ込めるためのコントロールは遅れています。",
-          "半数以上が既にエージェントのセキュリティインシデントまたはニアミスを確認しています。"
-        ]
-      },
-      {
         "title": "Apple targets dozens of OpenAI employees with legal letters",
         "url": "https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166",
         "points": 119,
-        "comments": 218,
+        "comments": 260,
         "author": "merksittich",
         "createdAt": "2026-07-17T12:02:39Z",
         "domain": "ft.com",
@@ -40,27 +19,6 @@
           "この記事は「Appleは、法的手紙で何十人ものOpenAI従業員をターゲットにしています」を扱っています。",
           "ft.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
           "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
-        ]
-      },
-      {
-        "title": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs",
-        "url": "https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs",
-        "points": 107,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-07-16T19:16:48.000Z",
-        "domain": "venturebeat.com",
-        "sourceType": "rss",
-        "sourceLabel": "VentureBeat AI",
-        "newsLens": "技術",
-        "category": "AIニュース",
-        "impact": "中",
-        "titleJa": "AIコンピューティングギャップ：企業は、コストを測定することができないほど高速でインフラストラクチャを購入しています",
-        "summaryJa": "この記事は「AIコンピューティングギャップ：企業は、コストを測定することができないほど高速でインフラストラクチャを購入しています」を扱っています。107社の企業全体で、AIインフラ支出は、その経済性を見たり操縦したりする能力をはるかに上回って加速しています。ほとんどの組織は、ハイパースケーラーとモデルプロバイダーAPIの使い慣れたベースでAIを実行していますが、次のドルは、現在ほとんど使用していない特殊なコンピューティングを目的としています。",
-        "keyPoints": [
-          "この記事は「AIコンピューティングギャップ：企業は、コストを測定することができないほど高速でインフラストラクチャを購入しています」を扱っています。",
-          "107社の企業全体で、AIインフラ支出は、その経済性を見たり操縦したりする能力をはるかに上回って加速しています。",
-          "ほとんどの組織は、ハイパースケーラーとモデルプロバイダーAPIの使い慣れたベースでAIを実行していますが、次のドルは、現在ほとんど使用していない特殊なコンピューティングを目的としています。"
         ]
       },
       {
@@ -85,53 +43,75 @@
         ]
       },
       {
-        "title": "Mozilla: The state of open source AI",
-        "url": "https://stateofopensource.ai/",
-        "points": 101,
-        "comments": 146,
-        "author": "rellem",
-        "createdAt": "2026-07-17T14:31:10Z",
-        "domain": "stateofopensource.ai",
+        "title": "Ask HN: Did Fable disappear from your Claude usage and requires credits now?",
+        "url": "https://news.ycombinator.com/item?id=48950477",
+        "points": 81,
+        "comments": 84,
+        "author": "cromka",
+        "createdAt": "2026-07-17T18:18:23Z",
+        "domain": "news.ycombinator.com",
         "sourceType": "hn",
-        "category": "AIニュース",
+        "category": "AIモデル",
+        "impact": "中",
+        "newsLens": "技術",
+        "titleJa": "HNに尋ねる：フェイブルはClaudeの使用から消え、今すぐクレジットが必要になりましたか？",
+        "summaryJa": "この記事は「HNに尋ねる：フェイブルはClaudeの使用から消え、今すぐクレジットが必要になりましたか？」を扱っています。先週のSolとKimmiのリリースを考慮すると、実際には今日はすべての人にそれを有効にするだろうと思っていました。編集：アウテージでしたが、修正しました（ https://status.claude.com/ ）。",
+        "keyPoints": [
+          "この記事は「HNに尋ねる：フェイブルはClaudeの使用から消え、今すぐクレジットが必要になりましたか。",
+          "先週のSolとKimmiのリリースを考慮すると、実際には今日はすべての人にそれを有効にするだろうと思っていました。",
+          "編集：アウテージでしたが、修正しました（ https://status.claude.com/ ）。"
+        ]
+      },
+      {
+        "title": "Claude Code: Anatomy of a Misfeature",
+        "url": "https://www.olafalders.com/2026/07/17/claude-code-anatomy-of-a-misfeature/",
+        "points": 73,
+        "comments": 105,
+        "author": "oalders",
+        "createdAt": "2026-07-17T14:26:58Z",
+        "domain": "olafalders.com",
+        "sourceType": "hn",
+        "category": "AIモデル",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "Mozilla ：オープンソースAIの現状",
-        "summaryJa": "この記事は「Mozilla ：オープンソースAIの現状」を扱っています。stateofopensource.aiが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "titleJa": "Claude・コード：不具合の解剖学",
+        "summaryJa": "この記事は「Claude・コード：不具合の解剖学」を扱っています。2026年のカナダの日（ 7月1日）に、Anthropicは驚くべき。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
         "keyPoints": [
-          "この記事は「Mozilla ：オープンソースAIの現状」を扱っています。",
-          "stateofopensource.aiが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+          "この記事は「Claude・コード：不具合の解剖学」を扱っています。",
+          "2026年のカナダの日（ 7月1日）に、Anthropicは驚くべき。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+        ]
+      },
+      {
+        "title": "Homomorphically encrypted CIFAR-10 inference in 200ms",
+        "url": "https://sofar.belfortlabs.cloud/",
+        "points": 73,
+        "comments": 16,
+        "author": "j2kun",
+        "createdAt": "2026-07-17T16:29:52Z",
+        "domain": "sofar.belfortlabs.cloud",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "低",
+        "newsLens": "技術",
+        "titleJa": "200ミリ秒での同型暗号化CIFAR -10推論",
+        "summaryJa": "この記事は「200ミリ秒での同型暗号化CIFAR -10推論」を扱っています。FHEの下でライブ暗号化されたResNet -20推論。サーバーに画像が表示されることはありません。",
+        "keyPoints": [
+          "この記事は「200ミリ秒での同型暗号化CIFAR -10推論」を扱っています。",
+          "FHEの下でライブ暗号化されたResNet -20推論。",
+          "サーバーに画像が表示されることはありません。"
         ]
       }
     ],
-    "fetchedAt": "2026-07-17T18:01:56.313Z",
+    "fetchedAt": "2026-07-17T20:02:54.618Z",
     "mock": false
   },
   "xTrends": {
-    "items": [
-      {
-        "topic": "Gemini Notebook",
-        "locationLabel": "日本",
-        "bestRank": 16,
-        "appearances": 3,
-        "trendSource": "Trends24",
-        "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-07-17T18:01:56.199Z",
-        "url": "https://x.com/search?q=Gemini%20Notebook&src=typed_query&f=live",
-        "articleTitle": "NotebookLM is now Gemini Notebook",
-        "articleTitleJa": "NotebookLM は Gemini Notebook になりました",
-        "articleUrl": "https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/",
-        "articleSource": "blog.google",
-        "articlePublishedAt": "2026-07-16T16:08:13Z",
-        "summaryJa": "NotebookLM は Gemini Notebook になりました。Google との統合が強化され、安全なクラウド コンピューターを備えた同じスタンドアロン製品です。",
-        "translationVersion": 3
-      }
-    ],
-    "fetchedAt": "2026-07-17T18:01:56.313Z",
+    "items": [],
+    "fetchedAt": "2026-07-17T20:02:54.618Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-17T18:01:57.165Z"
+    "articleFetchedAt": "2026-07-17T20:02:54.813Z"
   }
 }
