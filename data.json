@@ -5,7 +5,7 @@
         "title": "Apple targets dozens of OpenAI employees with legal letters",
         "url": "https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166",
         "points": 119,
-        "comments": 300,
+        "comments": 308,
         "author": "merksittich",
         "createdAt": "2026-07-17T12:02:39Z",
         "domain": "ft.com",
@@ -43,27 +43,6 @@
         ]
       },
       {
-        "title": "Chinese AI model takes US tech industry by surprise with abilities rivaling Claude and ChatGPT",
-        "url": "https://www.ksat.com/business/2026/07/17/chinese-ai-model-takes-us-tech-industry-by-surprise-with-abilities-rivaling-claude-and-chatgpt/",
-        "points": 81,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-07-17T21:15:00Z",
-        "domain": "ksat.com",
-        "sourceType": "gdelt",
-        "sourceLabel": "GDELT",
-        "category": "AIモデル",
-        "impact": "中",
-        "newsLens": "技術",
-        "titleJa": "中国のAIモデルは、ClaudeとChatGPTに匹敵する能力で米国のテクノロジー業界を驚かせます",
-        "summaryJa": "この記事は「中国のAIモデルは、ClaudeとChatGPTに匹敵する能力で米国のテクノロジー業界を驚かせます」を扱っています。中国からのもう1つの強力な新しい人工知能モデルは、米国のハイテク業界を驚かせています。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
-        "keyPoints": [
-          "この記事は「中国のAIモデルは、ClaudeとChatGPTに匹敵する能力で米国のテクノロジー業界を驚かせます」を扱っています。",
-          "中国からのもう1つの強力な新しい人工知能モデルは、米国のハイテク業界を驚かせています。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
-        ]
-      },
-      {
         "title": "Ask HN: Did Fable disappear from your Claude usage and requires credits now?",
         "url": "https://news.ycombinator.com/item?id=48950477",
         "points": 81,
@@ -86,8 +65,8 @@
       {
         "title": "Homomorphically encrypted CIFAR-10 inference in 200ms",
         "url": "https://sofar.belfortlabs.cloud/",
-        "points": 77,
-        "comments": 28,
+        "points": 81,
+        "comments": 29,
         "author": "j2kun",
         "createdAt": "2026-07-17T16:29:52Z",
         "domain": "sofar.belfortlabs.cloud",
@@ -102,17 +81,37 @@
           "FHEの下でライブ暗号化されたResNet -20推論。",
           "サーバーに画像が表示されることはありません。"
         ]
+      },
+      {
+        "title": "Claude Code: Anatomy of a Misfeature",
+        "url": "https://www.olafalders.com/2026/07/17/claude-code-anatomy-of-a-misfeature/",
+        "points": 73,
+        "comments": 115,
+        "author": "oalders",
+        "createdAt": "2026-07-17T14:26:58Z",
+        "domain": "olafalders.com",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "Claude・コード：不具合の解剖学",
+        "summaryJa": "この記事は「Claude・コード：不具合の解剖学」を扱っています。2026年のカナダの日（ 7月1日）に、Anthropicは驚くべき。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "keyPoints": [
+          "この記事は「Claude・コード：不具合の解剖学」を扱っています。",
+          "2026年のカナダの日（ 7月1日）に、Anthropicは驚くべき。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+        ]
       }
     ],
-    "fetchedAt": "2026-07-17T21:49:12.592Z",
+    "fetchedAt": "2026-07-17T22:44:31.371Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-07-17T21:49:12.592Z",
+    "fetchedAt": "2026-07-17T22:44:31.371Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-17T21:49:12.684Z"
+    "articleFetchedAt": "2026-07-17T22:44:31.575Z"
   }
 }
