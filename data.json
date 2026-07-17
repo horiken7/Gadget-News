@@ -23,27 +23,6 @@
         ]
       },
       {
-        "title": "Moonshot’s upcoming Kimi 3 is expected to close the gap with Anthropic’s Opus 4.8",
-        "url": "https://techcrunch.com/2026/07/16/moonshots-upcoming-kimi-3-is-expected-to-close-the-gap-with-anthropics-opus-4-8/",
-        "points": 133,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-07-16T14:26:29.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
-        "category": "AIニュース",
-        "impact": "高",
-        "titleJa": "ムーンショットの今後のKimi 3は、AnthropicのOpus 4.8とのギャップを縮めることが期待されています",
-        "summaryJa": "この記事は「ムーンショットの今後のKimi 3は、AnthropicのOpus 4.8とのギャップを縮めることが期待されています」を扱っています。Kimi K 3は、2兆から3兆の間のパラメータ数を持つ中国最大のオープンAIモデルになるとFTは報告しています。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
-        "keyPoints": [
-          "この記事は「ムーンショットの今後のKimi 3は、AnthropicのOpus 4.8とのギャップを縮めることが期待されています」を扱っています。",
-          "Kimi K 3は、2兆から3兆の間のパラメータ数を持つ中国最大のオープンAIモデルになるとFTは報告しています。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
-        ]
-      },
-      {
         "title": "Why AMI Labs’ Alexandre LeBrun won’t call his AI ‘AGI’ or ‘superintelligence’",
         "url": "https://techcrunch.com/2026/07/16/why-ami-labs-alexandre-lebrun-wont-call-his-ai-agi-or-superintelligence/",
         "points": 115,
@@ -86,6 +65,27 @@
         ]
       },
       {
+        "title": "Why the first GPU financiers are turning to inference chips in a $400 million deal",
+        "url": "https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/",
+        "points": 107,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-07-17T12:00:00.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
+        "category": "ハードウェア",
+        "impact": "高",
+        "titleJa": "最初のGPUファイナンシャーが4億$の取引で推論チップに目を向けている理由",
+        "summaryJa": "この記事は「最初のGPUファイナンシャーが4億$の取引で推論チップに目を向けている理由」を扱っています。4億$のチップに裏打ちされた融資は、AIインフラストラクチャの取引の次の波を示しています。一般向けには、AIがソフトウェアだけでなく、ロボットや端末など現実の製品に広がっている点が重要です。",
+        "keyPoints": [
+          "この記事は「最初のGPUファイナンシャーが4億$の取引で推論チップに目を向けている理由」を扱っています。",
+          "4億$のチップに裏打ちされた融資は、AIインフラストラクチャの取引の次の波を示しています。",
+          "一般向けには、AIがソフトウェアだけでなく、ロボットや端末など現実の製品に広がっている点が重要です。"
+        ]
+      },
+      {
         "title": "The AI context gap: Enterprise AI organizations have a trust problem, not a retrieval problem — and most are still building the fix",
         "url": "https://venturebeat.com/ai/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix",
         "points": 107,
@@ -107,7 +107,7 @@
         ]
       }
     ],
-    "fetchedAt": "2026-07-17T12:05:59.430Z",
+    "fetchedAt": "2026-07-17T14:39:57.575Z",
     "mock": false
   },
   "xTrends": {
@@ -119,7 +119,7 @@
         "appearances": 4,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-07-17T12:05:59.353Z",
+        "observedAt": "2026-07-17T14:39:57.519Z",
         "url": "https://x.com/search?q=Gemini%20Notebook&src=typed_query&f=live",
         "articleTitle": "NotebookLM is now Gemini Notebook",
         "articleTitleJa": "NotebookLM は Gemini Notebook になりました",
@@ -136,7 +136,7 @@
         "appearances": 1,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-07-17T12:05:59.321Z",
+        "observedAt": "2026-07-17T14:39:57.538Z",
         "url": "https://x.com/search?q=DeepSeek&src=typed_query&f=live",
         "articleTitle": "DeepSeek prepares for IPO filing as soon as 2026, eyes US$71B valuation: FT",
         "articleTitleJa": "DeepSeek、早ければ2026年にIPO申請準備、評価額710億ドルを目指す：FT",
@@ -145,29 +145,12 @@
         "articlePublishedAt": "2026-07-15T06:12:21Z",
         "summaryJa": "ビジネスタイムズ紙の情報筋によると、このAIスタートアップは上海のスターマーケットへの上場の可能性について早期の検討を開始したという。",
         "translationVersion": 3
-      },
-      {
-        "topic": "Gemini 3.5 Pro",
-        "locationLabel": "米国",
-        "bestRank": 46,
-        "appearances": 1,
-        "trendSource": "Trends24",
-        "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-07-17T12:05:59.321Z",
-        "url": "https://x.com/search?q=Gemini%203.5%20Pro&src=typed_query&f=live",
-        "articleTitle": "Alphabet shares fall on Gemini 3.5 Pro delay",
-        "articleTitleJa": "Gemini 3.5 Proの遅れでアルファベット株下落",
-        "articleUrl": "https://www.cnbc.com/2026/07/16/alphabet-stock-gemini-3-5-pro-ai.html",
-        "articleSource": "cnbc.com",
-        "articlePublishedAt": "2026-07-17T00:06:43Z",
-        "summaryJa": "アルファベットは5月にGemini 3.5 Pro AIを発表し、社内で使用されているが、翌月まで広範な展開の準備が整わないと述べた。",
-        "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-07-17T12:05:59.430Z",
+    "fetchedAt": "2026-07-17T14:39:57.575Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-17T12:06:02.209Z"
+    "articleFetchedAt": "2026-07-17T14:40:00.668Z"
   }
 }
