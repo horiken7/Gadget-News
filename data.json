@@ -107,7 +107,7 @@
         ]
       }
     ],
-    "fetchedAt": "2026-07-16T23:55:44.009Z",
+    "fetchedAt": "2026-07-17T02:22:20.609Z",
     "mock": false
   },
   "xTrends": {
@@ -115,11 +115,11 @@
       {
         "topic": "Gemini Notebook",
         "locationLabel": "日本",
-        "bestRank": 17,
-        "appearances": 1,
+        "bestRank": 16,
+        "appearances": 4,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-07-16T23:55:43.972Z",
+        "observedAt": "2026-07-17T02:22:20.592Z",
         "url": "https://x.com/search?q=Gemini%20Notebook&src=typed_query&f=live",
         "articleTitle": "NotebookLM is now Gemini Notebook",
         "articleTitleJa": "NotebookLM は Gemini Notebook になりました",
@@ -136,7 +136,7 @@
         "appearances": 1,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-07-16T23:55:43.893Z",
+        "observedAt": "2026-07-17T02:22:20.490Z",
         "url": "https://x.com/search?q=DeepSeek&src=typed_query&f=live",
         "articleTitle": "DeepSeek prepares for IPO filing as soon as 2026, eyes US$71B valuation: FT",
         "articleTitleJa": "DeepSeek、早ければ2026年にIPO申請準備、評価額710億ドルを目指す：FT",
@@ -153,22 +153,21 @@
         "appearances": 1,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-07-16T23:55:43.893Z",
+        "observedAt": "2026-07-17T02:22:20.490Z",
         "url": "https://x.com/search?q=Gemini%203.5%20Pro&src=typed_query&f=live",
-        "articleTitle": "Gemini 3.5 Pro",
-        "articleTitleJa": "公開トレンド: Gemini 3.5 Pro",
-        "articleUrl": "https://trends24.in/united-states/",
-        "articleSource": "Trends24",
-        "articlePublishedAt": "2026-07-16T23:55:43.893Z",
-        "summaryJa": "米国のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
-        "translationVersion": 3,
-        "articleFallback": true
+        "articleTitle": "Alphabet shares fall on Gemini 3.5 Pro delay",
+        "articleTitleJa": "Gemini 3.5 Proの遅れでアルファベット株下落",
+        "articleUrl": "https://www.cnbc.com/2026/07/16/alphabet-stock-gemini-3-5-pro-ai.html",
+        "articleSource": "cnbc.com",
+        "articlePublishedAt": "2026-07-17T00:06:43Z",
+        "summaryJa": "アルファベットは5月にGemini 3.5 Pro AIを発表し、社内で使用されているが、翌月まで広範な展開の準備が整わないと述べた。",
+        "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-07-16T23:55:44.009Z",
+    "fetchedAt": "2026-07-17T02:22:20.609Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-16T23:55:49.006Z"
+    "articleFetchedAt": "2026-07-17T02:22:25.979Z"
   }
 }
