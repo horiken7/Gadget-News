@@ -26,7 +26,7 @@
         "title": "Apple targets dozens of OpenAI employees with legal letters",
         "url": "https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166",
         "points": 119,
-        "comments": 154,
+        "comments": 218,
         "author": "merksittich",
         "createdAt": "2026-07-17T12:02:39Z",
         "domain": "ft.com",
@@ -85,28 +85,27 @@
         ]
       },
       {
-        "title": "The AI context gap: Enterprise AI organizations have a trust problem, not a retrieval problem — and most are still building the fix",
-        "url": "https://venturebeat.com/ai/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix",
-        "points": 107,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-07-16T17:06:08.000Z",
-        "domain": "venturebeat.com",
-        "sourceType": "rss",
-        "sourceLabel": "VentureBeat AI",
-        "newsLens": "技術",
+        "title": "Mozilla: The state of open source AI",
+        "url": "https://stateofopensource.ai/",
+        "points": 101,
+        "comments": 146,
+        "author": "rellem",
+        "createdAt": "2026-07-17T14:31:10Z",
+        "domain": "stateofopensource.ai",
+        "sourceType": "hn",
         "category": "AIニュース",
-        "impact": "中",
-        "titleJa": "AIコンテキストのギャップ：エンタープライズAI組織は、取得の問題ではなく、信頼の問題を抱えており、ほとんどの組織はまだ修正を構築しています",
-        "summaryJa": "この記事は「AIコンテキストのギャップ：エンタープライズAI組織は、取得の問題ではなく、信頼の問題を抱えており、ほとんどの組織はまだ修正を構築しています」を扱っています。101の企業にわたって、AIエージェントにビジネスコンテキストを提供するインフラストラクチャは、信頼できるよりも速く構築されています。検索拡張生成は既にデフォルトのコンテキストソースであり、プロバイダーネイティブ検索は、カテゴリを定義する専用のベクターデータベースを静かに追い越しています。",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "Mozilla ：オープンソースAIの現状",
+        "summaryJa": "この記事は「Mozilla ：オープンソースAIの現状」を扱っています。stateofopensource.aiが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
         "keyPoints": [
-          "この記事は「AIコンテキストのギャップ：エンタープライズAI組織は、取得の問題ではなく、信頼の問題を抱えており、ほとんどの組織はまだ修正を構築しています」を扱っています。",
-          "101の企業にわたって、AIエージェントにビジネスコンテキストを提供するインフラストラクチャは、信頼できるよりも速く構築されています。",
-          "検索拡張生成は既にデフォルトのコンテキストソースであり、プロバイダーネイティブ検索は、カテゴリを定義する専用のベクターデータベースを静かに追い越しています。"
+          "この記事は「Mozilla ：オープンソースAIの現状」を扱っています。",
+          "stateofopensource.aiが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
       }
     ],
-    "fetchedAt": "2026-07-17T16:11:49.591Z",
+    "fetchedAt": "2026-07-17T18:01:56.313Z",
     "mock": false
   },
   "xTrends": {
@@ -115,10 +114,10 @@
         "topic": "Gemini Notebook",
         "locationLabel": "日本",
         "bestRank": 16,
-        "appearances": 4,
+        "appearances": 3,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-07-17T16:11:49.530Z",
+        "observedAt": "2026-07-17T18:01:56.199Z",
         "url": "https://x.com/search?q=Gemini%20Notebook&src=typed_query&f=live",
         "articleTitle": "NotebookLM is now Gemini Notebook",
         "articleTitleJa": "NotebookLM は Gemini Notebook になりました",
@@ -127,29 +126,12 @@
         "articlePublishedAt": "2026-07-16T16:08:13Z",
         "summaryJa": "NotebookLM は Gemini Notebook になりました。Google との統合が強化され、安全なクラウド コンピューターを備えた同じスタンドアロン製品です。",
         "translationVersion": 3
-      },
-      {
-        "topic": "DeepSeek",
-        "locationLabel": "米国",
-        "bestRank": 39,
-        "appearances": 1,
-        "trendSource": "Trends24",
-        "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-07-17T16:11:49.574Z",
-        "url": "https://x.com/search?q=DeepSeek&src=typed_query&f=live",
-        "articleTitle": "DeepSeek prepares for IPO filing as soon as 2026, eyes US$71B valuation: FT",
-        "articleTitleJa": "DeepSeek、早ければ2026年にIPO申請準備、評価額710億ドルを目指す：FT",
-        "articleUrl": "https://www.businesstimes.com.sg/startups-tech/technology/deepseek-prepares-ipo-filing-soon-2026-eyes-us71-billion-valuation-ft",
-        "articleSource": "businesstimes.com.sg",
-        "articlePublishedAt": "2026-07-15T06:12:21Z",
-        "summaryJa": "ビジネスタイムズ紙の情報筋によると、このAIスタートアップは上海のスターマーケットへの上場の可能性について早期の検討を開始したという。",
-        "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-07-17T16:11:49.591Z",
+    "fetchedAt": "2026-07-17T18:01:56.313Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-17T16:11:56.166Z"
+    "articleFetchedAt": "2026-07-17T18:01:57.165Z"
   }
 }
