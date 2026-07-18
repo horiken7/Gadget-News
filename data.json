@@ -26,7 +26,7 @@
         "title": "Apple targets dozens of OpenAI employees with legal letters",
         "url": "https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166",
         "points": 119,
-        "comments": 332,
+        "comments": 336,
         "author": "merksittich",
         "createdAt": "2026-07-17T12:02:39Z",
         "domain": "ft.com",
@@ -45,7 +45,7 @@
       {
         "title": "Homomorphically encrypted CIFAR-10 inference in 200ms",
         "url": "https://sofar.belfortlabs.cloud/",
-        "points": 86,
+        "points": 88,
         "comments": 33,
         "author": "j2kun",
         "createdAt": "2026-07-17T16:29:52Z",
@@ -103,7 +103,7 @@
         ]
       }
     ],
-    "fetchedAt": "2026-07-18T05:20:56.827Z",
+    "fetchedAt": "2026-07-18T07:42:49.490Z",
     "mock": false
   },
   "xTrends": {
@@ -115,22 +115,22 @@
         "appearances": 1,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-07-18T05:20:56.705Z",
+        "observedAt": "2026-07-18T07:42:49.393Z",
         "url": "https://x.com/search?q=%E4%B8%AD%E5%9B%BDAI%E3%82%B7%E3%83%A7%E3%83%83%E3%82%AF&src=typed_query&f=live",
         "articleTitle": "中国AIショック",
         "articleTitleJa": "公開トレンド: 中国AIショック",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-07-18T05:20:56.705Z",
+        "articlePublishedAt": "2026-07-18T07:42:49.393Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
       }
     ],
-    "fetchedAt": "2026-07-18T05:20:56.827Z",
+    "fetchedAt": "2026-07-18T07:42:49.490Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-18T05:20:57.167Z"
+    "articleFetchedAt": "2026-07-18T07:42:49.814Z"
   }
 }
