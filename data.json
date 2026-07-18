@@ -23,23 +23,24 @@
         ]
       },
       {
-        "title": "Apple targets dozens of OpenAI employees with legal letters",
-        "url": "https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166",
-        "points": 119,
-        "comments": 346,
-        "author": "merksittich",
-        "createdAt": "2026-07-17T12:02:39Z",
-        "domain": "ft.com",
-        "sourceType": "hn",
+        "title": "Patreon stops asking AI bots not to scrape — and starts blocking them",
+        "url": "https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/",
+        "points": 107,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-07-17T15:21:17.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
         "category": "AIニュース",
         "impact": "高",
-        "newsLens": "一般",
-        "titleJa": "Appleは、法的手紙で何十人ものOpenAI従業員をターゲットにしています",
-        "summaryJa": "この記事は「Appleは、法的手紙で何十人ものOpenAI従業員をターゲットにしています」を扱っています。ft.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "titleJa": "PatreonはAIボットにスクレイピングしないように依頼するのをやめ、ブロックを開始します",
+        "summaryJa": "この記事は「PatreonはAIボットにスクレイピングしないように依頼するのをやめ、ブロックを開始します」を扱っています。Patreonは、Cloudflareと協力して、許可なくクリエイターのコンテンツでAIモデルをトレーニングするボットをブロックすることで、AIスクレイピングに対する防御を強化しています。この動きは、不正なAIトレーニングを積極的にブロックするために、robots.txtのみを使用してウェブサイトに依存することからのシフトを示しています。",
         "keyPoints": [
-          "この記事は「Appleは、法的手紙で何十人ものOpenAI従業員をターゲットにしています」を扱っています。",
-          "ft.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+          "この記事は「PatreonはAIボットにスクレイピングしないように依頼するのをやめ、ブロックを開始します」を扱っています。",
+          "Patreonは、Cloudflareと協力して、許可なくクリエイターのコンテンツでAIモデルをトレーニングするボットをブロックすることで、AIスクレイピングに対する防御を強化しています。",
+          "この動きは、不正なAIトレーニングを積極的にブロックするために、robots.txtのみを使用してウェブサイトに依存することからのシフトを示しています。"
         ]
       },
       {
@@ -83,27 +84,27 @@
         ]
       },
       {
-        "title": "Claude Code: Anatomy of a Misfeature",
-        "url": "https://www.olafalders.com/2026/07/17/claude-code-anatomy-of-a-misfeature/",
+        "title": "Why do AI company logos look like buttholes? (2025)",
+        "url": "https://velvetshark.com/ai-company-logos-that-look-like-buttholes",
         "points": 73,
-        "comments": 118,
-        "author": "oalders",
-        "createdAt": "2026-07-17T14:26:58Z",
-        "domain": "olafalders.com",
+        "comments": 84,
+        "author": "miniBill",
+        "createdAt": "2026-07-18T11:06:50Z",
+        "domain": "velvetshark.com",
         "sourceType": "hn",
-        "category": "AIモデル",
+        "category": "AIニュース",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "Claude・コード：不具合の解剖学",
-        "summaryJa": "この記事は「Claude・コード：不具合の解剖学」を扱っています。2026年のカナダの日（ 7月1日）に、Anthropicは驚くべき。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "titleJa": "AI企業のロゴがバットホールのように見えるのはなぜですか？ （ 2025年）",
+        "summaryJa": "この記事は「AI企業のロゴがバットホールのように見えるのはなぜですか？ （ 2025年）」を扱っています。AI企業のロゴと人間の解剖学的構造の間の不思議な類似性のユーモラスな探求。円形のグラデーションベースのデザインがなぜAI業界を支配しているのか、そしてこのデザインコンバージェンスがテクノロジーにおけるブランディングについて何を教えてくれるのかをご覧ください。",
         "keyPoints": [
-          "この記事は「Claude・コード：不具合の解剖学」を扱っています。",
-          "2026年のカナダの日（ 7月1日）に、Anthropicは驚くべき。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+          "この記事は「AI企業のロゴがバットホールのように見えるのはなぜですか。",
+          "（ 2025年）」を扱っています。",
+          "AI企業のロゴと人間の解剖学的構造の間の不思議な類似性のユーモラスな探求。"
         ]
       }
     ],
-    "fetchedAt": "2026-07-18T11:56:57.911Z",
+    "fetchedAt": "2026-07-18T13:15:10.965Z",
     "mock": false
   },
   "xTrends": {
@@ -115,22 +116,22 @@
         "appearances": 1,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-07-18T11:56:57.720Z",
+        "observedAt": "2026-07-18T13:15:10.906Z",
         "url": "https://x.com/search?q=%E4%B8%AD%E5%9B%BDAI%E3%82%B7%E3%83%A7%E3%83%83%E3%82%AF&src=typed_query&f=live",
         "articleTitle": "中国AIショック",
         "articleTitleJa": "公開トレンド: 中国AIショック",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-07-18T11:56:57.720Z",
+        "articlePublishedAt": "2026-07-18T13:15:10.906Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
       }
     ],
-    "fetchedAt": "2026-07-18T11:56:57.911Z",
+    "fetchedAt": "2026-07-18T13:15:10.965Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-18T11:56:58.323Z"
+    "articleFetchedAt": "2026-07-18T13:15:11.281Z"
   }
 }
