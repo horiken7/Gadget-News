@@ -67,7 +67,7 @@
         "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
         "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
         "points": 73,
-        "comments": 291,
+        "comments": 303,
         "author": "mbustamanter",
         "createdAt": "2026-07-18T13:00:52Z",
         "domain": "old.reddit.com",
@@ -87,7 +87,7 @@
         "title": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
         "url": "https://ykdojo.github.io/claude-controls-mac/",
         "points": 73,
-        "comments": 96,
+        "comments": 110,
         "author": "ykev",
         "createdAt": "2026-07-18T16:12:08Z",
         "domain": "ykdojo.github.io",
@@ -104,15 +104,15 @@
         ]
       }
     ],
-    "fetchedAt": "2026-07-18T21:45:57.863Z",
+    "fetchedAt": "2026-07-18T22:44:01.762Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-07-18T21:45:57.863Z",
+    "fetchedAt": "2026-07-18T22:44:01.761Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-18T21:45:58.010Z"
+    "articleFetchedAt": "2026-07-18T22:44:01.914Z"
   }
 }
