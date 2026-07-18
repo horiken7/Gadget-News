@@ -26,7 +26,7 @@
         "title": "Apple targets dozens of OpenAI employees with legal letters",
         "url": "https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166",
         "points": 119,
-        "comments": 312,
+        "comments": 324,
         "author": "merksittich",
         "createdAt": "2026-07-17T12:02:39Z",
         "domain": "ft.com",
@@ -45,8 +45,8 @@
       {
         "title": "Homomorphically encrypted CIFAR-10 inference in 200ms",
         "url": "https://sofar.belfortlabs.cloud/",
-        "points": 84,
-        "comments": 31,
+        "points": 86,
+        "comments": 33,
         "author": "j2kun",
         "createdAt": "2026-07-17T16:29:52Z",
         "domain": "sofar.belfortlabs.cloud",
@@ -65,14 +65,14 @@
       {
         "title": "Ask HN: Did Fable disappear from your Claude usage and requires credits now?",
         "url": "https://news.ycombinator.com/item?id=48950477",
-        "points": 82,
-        "comments": 84,
+        "points": 83,
+        "comments": 85,
         "author": "cromka",
         "createdAt": "2026-07-17T18:18:23Z",
         "domain": "news.ycombinator.com",
         "sourceType": "hn",
         "category": "AIモデル",
-        "impact": "中",
+        "impact": "高",
         "newsLens": "技術",
         "titleJa": "HNに尋ねる：フェイブルはClaudeの使用から消え、今すぐクレジットが必要になりましたか？",
         "summaryJa": "この記事は「HNに尋ねる：フェイブルはClaudeの使用から消え、今すぐクレジットが必要になりましたか？」を扱っています。先週のSolとKimmiのリリースを考慮すると、実際には今日はすべての人にそれを有効にするだろうと思っていました。編集：アウテージでしたが、修正しました（ https://status.claude.com/ ）。",
@@ -103,15 +103,34 @@
         ]
       }
     ],
-    "fetchedAt": "2026-07-17T23:48:52.125Z",
+    "fetchedAt": "2026-07-18T02:03:51.671Z",
     "mock": false
   },
   "xTrends": {
-    "items": [],
-    "fetchedAt": "2026-07-17T23:48:52.125Z",
+    "items": [
+      {
+        "topic": "中国AIショック",
+        "locationLabel": "日本",
+        "bestRank": 46,
+        "appearances": 1,
+        "trendSource": "Trends24",
+        "sourceUrl": "https://trends24.in/japan/",
+        "observedAt": "2026-07-18T02:03:51.634Z",
+        "url": "https://x.com/search?q=%E4%B8%AD%E5%9B%BDAI%E3%82%B7%E3%83%A7%E3%83%83%E3%82%AF&src=typed_query&f=live",
+        "articleTitle": "中国AIショック",
+        "articleTitleJa": "公開トレンド: 中国AIショック",
+        "articleUrl": "https://trends24.in/japan/",
+        "articleSource": "Trends24",
+        "articlePublishedAt": "2026-07-18T02:03:51.634Z",
+        "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
+        "translationVersion": 3,
+        "articleFallback": true
+      }
+    ],
+    "fetchedAt": "2026-07-18T02:03:51.671Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-17T23:48:52.228Z"
+    "articleFetchedAt": "2026-07-18T02:03:52.016Z"
   }
 }
