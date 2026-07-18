@@ -2,27 +2,6 @@
   "news": {
     "items": [
       {
-        "title": "Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs",
-        "url": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
-        "points": 133,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-07-17T22:55:09.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
-        "category": "AIニュース",
-        "impact": "高",
-        "titleJa": "Vertuは、幹部がAIエージェントに$ 6,880を支払うことを望んでいます。実際のパフォーマンスは次のとおりです。",
-        "summaryJa": "この記事は「Vertuは、幹部がAIエージェントに$ 6,880を支払うことを望んでいます。実際のパフォーマンスは次のとおりです。」を扱っています。AIワークフローからバッテリー寿命とセキュリティまで、Vertuの豪華な折りたたみ式の毎日と一緒に暮らすことの本当の気分は次のとおりです。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
-        "keyPoints": [
-          "この記事は「Vertuは、幹部がAIエージェントに$ 6,880を支払うことを望んでいます。",
-          "実際のパフォーマンスは次のとおりです。",
-          "AIワークフローからバッテリー寿命とセキュリティまで、Vertuの豪華な折りたたみ式の毎日と一緒に暮らすことの本当の気分は次のとおりです。"
-        ]
-      },
-      {
         "title": "Kimi: Threat or menace?",
         "url": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
         "points": 107,
@@ -64,10 +43,31 @@
         ]
       },
       {
+        "title": "Neil Rimer thinks the AI money is coming back out",
+        "url": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
+        "points": 79,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-07-18T04:47:25.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
+        "category": "AIニュース",
+        "impact": "中",
+        "titleJa": "ニール・ライマーは、AIのお金が戻ってきていると考えています",
+        "summaryJa": "この記事は「ニール・ライマーは、AIのお金が戻ってきていると考えています」を扱っています。Index Venturesを共同設立したベンチャーキャピタリストのNeil Rimer氏は、AIがシリコンバレーで生み出している歴史的な富は、自発的または非自発的に再分配されなければならないと予測しています。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "keyPoints": [
+          "この記事は「ニール・ライマーは、AIのお金が戻ってきていると考えています」を扱っています。",
+          "Index Venturesを共同設立したベンチャーキャピタリストのNeil Rimer氏は、AIがシリコンバレーで生み出している歴史的な富は、自発的または非自発的に再分配されなければならないと予測しています。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+        ]
+      },
+      {
         "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
         "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
         "points": 73,
-        "comments": 303,
+        "comments": 308,
         "author": "mbustamanter",
         "createdAt": "2026-07-18T13:00:52Z",
         "domain": "old.reddit.com",
@@ -87,7 +87,7 @@
         "title": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
         "url": "https://ykdojo.github.io/claude-controls-mac/",
         "points": 73,
-        "comments": 110,
+        "comments": 124,
         "author": "ykev",
         "createdAt": "2026-07-18T16:12:08Z",
         "domain": "ykdojo.github.io",
@@ -104,15 +104,15 @@
         ]
       }
     ],
-    "fetchedAt": "2026-07-18T22:44:01.762Z",
+    "fetchedAt": "2026-07-18T23:50:24.887Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-07-18T22:44:01.761Z",
+    "fetchedAt": "2026-07-18T23:50:24.887Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-18T22:44:01.914Z"
+    "articleFetchedAt": "2026-07-18T23:50:25.009Z"
   }
 }
