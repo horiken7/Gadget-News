@@ -23,27 +23,6 @@
         ]
       },
       {
-        "title": "Patreon stops asking AI bots not to scrape — and starts blocking them",
-        "url": "https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/",
-        "points": 107,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-07-17T15:21:17.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
-        "category": "AIニュース",
-        "impact": "高",
-        "titleJa": "PatreonはAIボットにスクレイピングしないように依頼するのをやめ、ブロックを開始します",
-        "summaryJa": "この記事は「PatreonはAIボットにスクレイピングしないように依頼するのをやめ、ブロックを開始します」を扱っています。Patreonは、Cloudflareと協力して、許可なくクリエイターのコンテンツでAIモデルをトレーニングするボットをブロックすることで、AIスクレイピングに対する防御を強化しています。この動きは、不正なAIトレーニングを積極的にブロックするために、robots.txtのみを使用してウェブサイトに依存することからのシフトを示しています。",
-        "keyPoints": [
-          "この記事は「PatreonはAIボットにスクレイピングしないように依頼するのをやめ、ブロックを開始します」を扱っています。",
-          "Patreonは、Cloudflareと協力して、許可なくクリエイターのコンテンツでAIモデルをトレーニングするボットをブロックすることで、AIスクレイピングに対する防御を強化しています。",
-          "この動きは、不正なAIトレーニングを積極的にブロックするために、robots.txtのみを使用してウェブサイトに依存することからのシフトを示しています。"
-        ]
-      },
-      {
         "title": "Ask HN: Did Fable disappear from your Claude usage and requires credits now?",
         "url": "https://news.ycombinator.com/item?id=48950477",
         "points": 83,
@@ -64,10 +43,31 @@
         ]
       },
       {
+        "title": "Neil Rimer thinks the AI money is coming back out",
+        "url": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
+        "points": 79,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-07-18T04:47:25.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
+        "category": "AIニュース",
+        "impact": "中",
+        "titleJa": "ニール・ライマーは、AIのお金が戻ってきていると考えています",
+        "summaryJa": "この記事は「ニール・ライマーは、AIのお金が戻ってきていると考えています」を扱っています。Index Venturesを共同設立したベンチャーキャピタリストのNeil Rimer氏は、AIがシリコンバレーで生み出している歴史的な富は、自発的または非自発的に再分配されなければならないと予測しています。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "keyPoints": [
+          "この記事は「ニール・ライマーは、AIのお金が戻ってきていると考えています」を扱っています。",
+          "Index Venturesを共同設立したベンチャーキャピタリストのNeil Rimer氏は、AIがシリコンバレーで生み出している歴史的な富は、自発的または非自発的に再分配されなければならないと予測しています。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+        ]
+      },
+      {
         "title": "Why do AI company logos look like buttholes? (2025)",
         "url": "https://velvetshark.com/ai-company-logos-that-look-like-buttholes",
         "points": 73,
-        "comments": 116,
+        "comments": 121,
         "author": "miniBill",
         "createdAt": "2026-07-18T11:06:50Z",
         "domain": "velvetshark.com",
@@ -87,7 +87,7 @@
         "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
         "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
         "points": 73,
-        "comments": 77,
+        "comments": 111,
         "author": "mbustamanter",
         "createdAt": "2026-07-18T13:00:52Z",
         "domain": "old.reddit.com",
@@ -104,7 +104,7 @@
         ]
       }
     ],
-    "fetchedAt": "2026-07-18T14:47:56.799Z",
+    "fetchedAt": "2026-07-18T15:52:50.021Z",
     "mock": false
   },
   "xTrends": {
@@ -116,22 +116,22 @@
         "appearances": 1,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-07-18T14:47:56.760Z",
+        "observedAt": "2026-07-18T15:52:49.909Z",
         "url": "https://x.com/search?q=%E4%B8%AD%E5%9B%BDAI%E3%82%B7%E3%83%A7%E3%83%83%E3%82%AF&src=typed_query&f=live",
         "articleTitle": "中国AIショック",
         "articleTitleJa": "公開トレンド: 中国AIショック",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-07-18T14:47:56.760Z",
+        "articlePublishedAt": "2026-07-18T15:52:49.909Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
       }
     ],
-    "fetchedAt": "2026-07-18T14:47:56.799Z",
+    "fetchedAt": "2026-07-18T15:52:50.021Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-18T14:47:57.131Z"
+    "articleFetchedAt": "2026-07-18T15:52:50.399Z"
   }
 }
