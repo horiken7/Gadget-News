@@ -44,26 +44,6 @@
         ]
       },
       {
-        "title": "Homomorphically encrypted CIFAR-10 inference in 200ms",
-        "url": "https://sofar.belfortlabs.cloud/",
-        "points": 89,
-        "comments": 38,
-        "author": "j2kun",
-        "createdAt": "2026-07-17T16:29:52Z",
-        "domain": "sofar.belfortlabs.cloud",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "中",
-        "newsLens": "技術",
-        "titleJa": "200ミリ秒での同型暗号化CIFAR -10推論",
-        "summaryJa": "この記事は「200ミリ秒での同型暗号化CIFAR -10推論」を扱っています。FHEの下でライブ暗号化されたResNet -20推論。サーバーに画像が表示されることはありません。",
-        "keyPoints": [
-          "この記事は「200ミリ秒での同型暗号化CIFAR -10推論」を扱っています。",
-          "FHEの下でライブ暗号化されたResNet -20推論。",
-          "サーバーに画像が表示されることはありません。"
-        ]
-      },
-      {
         "title": "Ask HN: Did Fable disappear from your Claude usage and requires credits now?",
         "url": "https://news.ycombinator.com/item?id=48950477",
         "points": 83,
@@ -87,7 +67,7 @@
         "title": "Why do AI company logos look like buttholes? (2025)",
         "url": "https://velvetshark.com/ai-company-logos-that-look-like-buttholes",
         "points": 73,
-        "comments": 84,
+        "comments": 116,
         "author": "miniBill",
         "createdAt": "2026-07-18T11:06:50Z",
         "domain": "velvetshark.com",
@@ -102,9 +82,29 @@
           "（ 2025年）」を扱っています。",
           "AI企業のロゴと人間の解剖学的構造の間の不思議な類似性のユーモラスな探求。"
         ]
+      },
+      {
+        "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+        "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
+        "points": 73,
+        "comments": 77,
+        "author": "mbustamanter",
+        "createdAt": "2026-07-18T13:00:52Z",
+        "domain": "old.reddit.com",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "GPT-5.6は、凸最適化の30年間のギャップを埋めるためにプロンプトを使用しました",
+        "summaryJa": "この記事は「GPT-5.6は、凸最適化の30年間のギャップを埋めるためにプロンプトを使用しました」を扱っています。old.reddit.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "keyPoints": [
+          "この記事は「GPT-5.6は、凸最適化の30年間のギャップを埋めるためにプロンプトを使用しました」を扱っています。",
+          "old.reddit.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+        ]
       }
     ],
-    "fetchedAt": "2026-07-18T13:15:10.965Z",
+    "fetchedAt": "2026-07-18T14:47:56.799Z",
     "mock": false
   },
   "xTrends": {
@@ -116,22 +116,22 @@
         "appearances": 1,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-07-18T13:15:10.906Z",
+        "observedAt": "2026-07-18T14:47:56.760Z",
         "url": "https://x.com/search?q=%E4%B8%AD%E5%9B%BDAI%E3%82%B7%E3%83%A7%E3%83%83%E3%82%AF&src=typed_query&f=live",
         "articleTitle": "中国AIショック",
         "articleTitleJa": "公開トレンド: 中国AIショック",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-07-18T13:15:10.906Z",
+        "articlePublishedAt": "2026-07-18T14:47:56.760Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
       }
     ],
-    "fetchedAt": "2026-07-18T13:15:10.965Z",
+    "fetchedAt": "2026-07-18T14:47:56.799Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-18T13:15:11.281Z"
+    "articleFetchedAt": "2026-07-18T14:47:57.131Z"
   }
 }
