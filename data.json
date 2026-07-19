@@ -45,8 +45,8 @@
       {
         "title": "Claude Code uses Bun written in Rust now",
         "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
-        "points": 85,
-        "comments": 93,
+        "points": 91,
+        "comments": 145,
         "author": "tosh",
         "createdAt": "2026-07-19T10:03:23Z",
         "domain": "simonwillison.net",
@@ -63,30 +63,30 @@
         ]
       },
       {
-        "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
-        "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
-        "points": 73,
-        "comments": 367,
-        "author": "mbustamanter",
-        "createdAt": "2026-07-18T13:00:52Z",
-        "domain": "old.reddit.com",
+        "title": "OpenAI reduces Codex Model Context Size from 372k to 272k",
+        "url": "https://github.com/openai/codex/pull/33972/files",
+        "points": 85,
+        "comments": 29,
+        "author": "AmazingTurtle",
+        "createdAt": "2026-07-19T07:54:39Z",
+        "domain": "github.com",
         "sourceType": "hn",
         "category": "AIモデル",
-        "impact": "高",
+        "impact": "中",
         "newsLens": "技術",
-        "titleJa": "GPT-5.6は、凸最適化の30年間のギャップを埋めるためにプロンプトを使用しました",
-        "summaryJa": "この記事は「GPT-5.6は、凸最適化の30年間のギャップを埋めるためにプロンプトを使用しました」を扱っています。old.reddit.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "titleJa": "OpenAI、Codexモデルのコンテキストサイズを372 kから272 kに削減",
+        "summaryJa": "この記事は「OpenAI、Codexモデルのコンテキストサイズを372 kから272 kに削減」を扱っています。概要d 26 a 9 bf 671 b 1 c 03 aabfc 32 e 1092 d 137 c 1 feb 3962を0.144リリースラインにバックポートします。バンドルされたGPT-5.6モデルの指示とコンテキストウィンドウのメタデータを更新します。",
         "keyPoints": [
-          "この記事は「GPT-5.6は、凸最適化の30年間のギャップを埋めるためにプロンプトを使用しました」を扱っています。",
-          "old.reddit.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+          "この記事は「OpenAI、Codexモデルのコンテキストサイズを372 kから272 kに削減」を扱っています。",
+          "概要d 26 a 9 bf 671 b 1 c 03 aabfc 32 e 1092 d 137 c 1 feb 3962を0.144リリースラインにバックポートします。",
+          "バンドルされたGPT-5.6モデルの指示とコンテキストウィンドウのメタデータを更新します。"
         ]
       },
       {
         "title": "AI Mania Is Eviscerating Global Decision-Making",
         "url": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3",
         "points": 73,
-        "comments": 92,
+        "comments": 117,
         "author": "subset",
         "createdAt": "2026-07-19T01:29:19Z",
         "domain": "ludic.mataroa.blog",
@@ -103,15 +103,15 @@
         ]
       }
     ],
-    "fetchedAt": "2026-07-19T11:53:55.745Z",
+    "fetchedAt": "2026-07-19T13:08:17.289Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-07-19T11:53:55.745Z",
+    "fetchedAt": "2026-07-19T13:08:17.289Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-19T11:53:55.870Z"
+    "articleFetchedAt": "2026-07-19T13:08:17.419Z"
   }
 }
