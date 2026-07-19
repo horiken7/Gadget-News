@@ -43,23 +43,23 @@
         ]
       },
       {
-        "title": "Neil Rimer thinks the AI money is coming back out",
-        "url": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
+        "title": "Xi Jinping pitches China as leader of new global AI order",
+        "url": "http://www.argentinastar.com/news/279194475/challenging-us-xi-jinping-calls-china-the-new-leader-of-global-ai",
         "points": 79,
         "comments": 0,
         "author": "",
-        "createdAt": "2026-07-18T04:47:25.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
+        "createdAt": "2026-07-19T05:15:00Z",
+        "domain": "argentinastar.com",
+        "sourceType": "gdelt",
+        "sourceLabel": "GDELT",
         "category": "AIニュース",
         "impact": "中",
-        "titleJa": "ニール・ライマーは、AIのお金が戻ってきていると考えています",
-        "summaryJa": "この記事は「ニール・ライマーは、AIのお金が戻ってきていると考えています」を扱っています。Index Venturesを共同設立したベンチャーキャピタリストのNeil Rimer氏は、AIがシリコンバレーで生み出している歴史的な富は、自発的または非自発的に再分配されなければならないと予測しています。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "newsLens": "一般",
+        "titleJa": "習近平、世界の新しいAI秩序のリーダーとして中国を売り込む",
+        "summaryJa": "この記事は「習近平、世界の新しいAI秩序のリーダーとして中国を売り込む」を扱っています。7月17日、中国の習近平国家主席は、人工知能（ AI ）の新しいグローバルシステムのリーダーとして中国を紹介した。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
-          "この記事は「ニール・ライマーは、AIのお金が戻ってきていると考えています」を扱っています。",
-          "Index Venturesを共同設立したベンチャーキャピタリストのNeil Rimer氏は、AIがシリコンバレーで生み出している歴史的な富は、自発的または非自発的に再分配されなければならないと予測しています。",
+          "この記事は「習近平、世界の新しいAI秩序のリーダーとして中国を売り込む」を扱っています。",
+          "7月17日、中国の習近平国家主席は、人工知能（ AI ）の新しいグローバルシステムのリーダーとして中国を紹介した。",
           "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       },
@@ -67,7 +67,7 @@
         "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
         "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
         "points": 73,
-        "comments": 325,
+        "comments": 343,
         "author": "mbustamanter",
         "createdAt": "2026-07-18T13:00:52Z",
         "domain": "old.reddit.com",
@@ -87,7 +87,7 @@
         "title": "Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
         "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
         "points": 73,
-        "comments": 107,
+        "comments": 167,
         "author": "gnabgib",
         "createdAt": "2026-07-18T22:13:39Z",
         "domain": "petapixel.com",
@@ -104,15 +104,15 @@
         ]
       }
     ],
-    "fetchedAt": "2026-07-19T02:18:33.461Z",
+    "fetchedAt": "2026-07-19T05:48:04.765Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-07-19T02:18:33.461Z",
+    "fetchedAt": "2026-07-19T05:48:04.765Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-19T02:18:33.600Z"
+    "articleFetchedAt": "2026-07-19T05:48:04.880Z"
   }
 }
