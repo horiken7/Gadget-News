@@ -2,10 +2,31 @@
   "news": {
     "items": [
       {
+        "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
+        "url": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
+        "points": 105,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-07-19T19:24:45.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
+        "category": "ハードウェア",
+        "impact": "高",
+        "titleJa": "Appleの訴訟はOpenAIのハードウェア計画を逸脱させる可能性がありますか？",
+        "summaryJa": "この記事は「Appleの訴訟はOpenAIのハードウェア計画を逸脱させる可能性がありますか？」を扱っています。Equityの最新エピソードでは、Appleの訴訟が、ハードウェアに参入して公開するというOpenAiの広く議論されている計画を覆すかどうかを議論している。一般向けには、AIがソフトウェアだけでなく、ロボットや端末など現実の製品に広がっている点が重要です。",
+        "keyPoints": [
+          "この記事は「Appleの訴訟はOpenAIのハードウェア計画を逸脱させる可能性がありますか。",
+          "Equityの最新エピソードでは、Appleの訴訟が、ハードウェアに参入して公開するというOpenAiの広く議論されている計画を覆すかどうかを議論している。",
+          "一般向けには、AIがソフトウェアだけでなく、ロボットや端末など現実の製品に広がっている点が重要です。"
+        ]
+      },
+      {
         "title": "OpenAI reduces Codex Model Context Size from 372k to 272k",
         "url": "https://github.com/openai/codex/pull/33972/files",
         "points": 101,
-        "comments": 104,
+        "comments": 118,
         "author": "AmazingTurtle",
         "createdAt": "2026-07-19T07:54:39Z",
         "domain": "github.com",
@@ -25,7 +46,7 @@
         "title": "Claude Code uses Bun written in Rust now",
         "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
         "points": 93,
-        "comments": 362,
+        "comments": 427,
         "author": "tosh",
         "createdAt": "2026-07-19T10:03:23Z",
         "domain": "simonwillison.net",
@@ -63,31 +84,10 @@
         ]
       },
       {
-        "title": "Nonprofit Current AI is racing to build the World Wide Web of AI, free for all",
-        "url": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
-        "points": 79,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-07-19T14:00:00.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
-        "category": "AIニュース",
-        "impact": "中",
-        "titleJa": "非営利団体Current AIは、すべての人に無料のWorld Wide Web of AIを構築するために競争しています",
-        "summaryJa": "この記事は「非営利団体Current AIは、すべての人に無料のWorld Wide Web of AIを構築するために競争しています」を扱っています。現在のAIは、1つの文化を置き去りにしない非営利のAIであり、デバイス、AIチャットなどで目覚ましい進歩を遂げています。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
-        "keyPoints": [
-          "この記事は「非営利団体Current AIは、すべての人に無料のWorld Wide Web of AIを構築するために競争しています」を扱っています。",
-          "現在のAIは、1つの文化を置き去りにしない非営利のAIであり、デバイス、AIチャットなどで目覚ましい進歩を遂げています。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
-        ]
-      },
-      {
         "title": "LLM-Integrated Multivariable Calculus Course",
         "url": "https://calculus.academa.ai/",
         "points": 79,
-        "comments": 44,
+        "comments": 45,
         "author": "sinaatalay",
         "createdAt": "2026-07-19T02:55:43Z",
         "domain": "calculus.academa.ai",
@@ -104,15 +104,15 @@
         ]
       }
     ],
-    "fetchedAt": "2026-07-19T19:00:38.856Z",
+    "fetchedAt": "2026-07-19T20:41:22.024Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-07-19T19:00:38.856Z",
+    "fetchedAt": "2026-07-19T20:41:22.024Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-19T19:00:39.052Z"
+    "articleFetchedAt": "2026-07-19T20:41:22.249Z"
   }
 }
