@@ -26,7 +26,7 @@
         "title": "OpenAI reduces Codex Model Context Size from 372k to 272k",
         "url": "https://github.com/openai/codex/pull/33972/files",
         "points": 101,
-        "comments": 86,
+        "comments": 93,
         "author": "AmazingTurtle",
         "createdAt": "2026-07-19T07:54:39Z",
         "domain": "github.com",
@@ -46,7 +46,7 @@
         "title": "Claude Code uses Bun written in Rust now",
         "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
         "points": 93,
-        "comments": 292,
+        "comments": 326,
         "author": "tosh",
         "createdAt": "2026-07-19T10:03:23Z",
         "domain": "simonwillison.net",
@@ -104,15 +104,15 @@
         ]
       }
     ],
-    "fetchedAt": "2026-07-19T16:54:07.154Z",
+    "fetchedAt": "2026-07-19T17:55:16.904Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-07-19T16:54:07.154Z",
+    "fetchedAt": "2026-07-19T17:55:16.904Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-19T16:54:07.270Z"
+    "articleFetchedAt": "2026-07-19T17:55:17.134Z"
   }
 }
