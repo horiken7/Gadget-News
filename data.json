@@ -26,7 +26,7 @@
         "title": "OpenAI reduces Codex Model Context Size from 372k to 272k",
         "url": "https://github.com/openai/codex/pull/33972/files",
         "points": 101,
-        "comments": 134,
+        "comments": 142,
         "author": "AmazingTurtle",
         "createdAt": "2026-07-19T07:54:39Z",
         "domain": "github.com",
@@ -46,7 +46,7 @@
         "title": "Claude Code uses Bun written in Rust now",
         "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
         "points": 93,
-        "comments": 481,
+        "comments": 505,
         "author": "tosh",
         "createdAt": "2026-07-19T10:03:23Z",
         "domain": "simonwillison.net",
@@ -84,35 +84,35 @@
         ]
       },
       {
-        "title": "Moonshot AI suspends new subscriptions due to Kimi K3 demand",
-        "url": "https://twitter.com/kimi_moonshot/status/2078855608565207130",
-        "points": 73,
-        "comments": 57,
-        "author": "serialx",
-        "createdAt": "2026-07-19T16:02:25Z",
-        "domain": "twitter.com",
+        "title": "LLM-Integrated Multivariable Calculus Course",
+        "url": "https://calculus.academa.ai/",
+        "points": 79,
+        "comments": 46,
+        "author": "sinaatalay",
+        "createdAt": "2026-07-19T02:55:43Z",
+        "domain": "calculus.academa.ai",
         "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "高",
+        "category": "AIモデル",
+        "impact": "低",
         "newsLens": "技術",
-        "titleJa": "Moonshot AIがKimi K 3の需要を理由に新規サブスクリプションを一時停止",
-        "summaryJa": "この記事は「Moonshot AIがKimi K 3の需要を理由に新規サブスクリプションを一時停止」を扱っています。Kimi K 3は私たちが予想していたよりもはるかに多くの愛を受け取っており、私たちのGPUはそれを感じています。過去48時間にわたり、需要は現在のキャパシティの限界に近づいています。",
+        "titleJa": "LLM統合多変量微積分コース",
+        "summaryJa": "この記事は「LLM統合多変量微積分コース」を扱っています。calculus.academa.aiが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
         "keyPoints": [
-          "この記事は「Moonshot AIがKimi K 3の需要を理由に新規サブスクリプションを一時停止」を扱っています。",
-          "Kimi K 3は私たちが予想していたよりもはるかに多くの愛を受け取っており、私たちのGPUはそれを感じています。",
-          "過去48時間にわたり、需要は現在のキャパシティの限界に近づいています。"
+          "この記事は「LLM統合多変量微積分コース」を扱っています。",
+          "calculus.academa.aiが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
       }
     ],
-    "fetchedAt": "2026-07-19T22:47:25.320Z",
+    "fetchedAt": "2026-07-19T23:53:33.497Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-07-19T22:47:25.320Z",
+    "fetchedAt": "2026-07-19T23:53:33.497Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-19T22:47:25.480Z"
+    "articleFetchedAt": "2026-07-19T23:53:33.604Z"
   }
 }
