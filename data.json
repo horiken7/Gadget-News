@@ -14,11 +14,11 @@
         "newsLens": "一般",
         "category": "ハードウェア",
         "impact": "高",
-        "titleJa": "AIニュース: Can an Apple lawsuit derail OpenAI’s hardware plans?",
-        "summaryJa": "この記事は「Can an Apple lawsuit derail OpenAI’s hardware plans?」を扱っています。techcrunch.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。一般向けには、AIがソフトウェアだけでなく、ロボットや端末など現実の製品に広がっている点が重要です。",
+        "titleJa": "Appleの訴訟はOpenAIのハードウェア計画を逸脱させる可能性がありますか？",
+        "summaryJa": "この記事は「Appleの訴訟はOpenAIのハードウェア計画を逸脱させる可能性がありますか？」を扱っています。Equityの最新エピソードでは、Appleの訴訟が、ハードウェアに参入して公開するというOpenAiの広く議論されている計画を覆すかどうかを議論している。一般向けには、AIがソフトウェアだけでなく、ロボットや端末など現実の製品に広がっている点が重要です。",
         "keyPoints": [
-          "この記事は「Can an Apple lawsuit derail OpenAI’s hardware plans?」を扱っています。",
-          "techcrunch.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "この記事は「Appleの訴訟はOpenAIのハードウェア計画を逸脱させる可能性がありますか。",
+          "Equityの最新エピソードでは、Appleの訴訟が、ハードウェアに参入して公開するというOpenAiの広く議論されている計画を覆すかどうかを議論している。",
           "一般向けには、AIがソフトウェアだけでなく、ロボットや端末など現実の製品に広がっている点が重要です。"
         ]
       },
@@ -26,7 +26,7 @@
         "title": "OpenAI reduces Codex Model Context Size from 372k to 272k",
         "url": "https://github.com/openai/codex/pull/33972/files",
         "points": 101,
-        "comments": 124,
+        "comments": 134,
         "author": "AmazingTurtle",
         "createdAt": "2026-07-19T07:54:39Z",
         "domain": "github.com",
@@ -34,19 +34,19 @@
         "category": "AIモデル",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "AIニュース: OpenAI reduces Codex Model Context Size from 372k to 272k",
-        "summaryJa": "この記事は「OpenAI reduces Codex Model Context Size from 372k to 272k」を扱っています。github.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "titleJa": "OpenAI、Codexモデルのコンテキストサイズを372 kから272 kに削減",
+        "summaryJa": "この記事は「OpenAI、Codexモデルのコンテキストサイズを372 kから272 kに削減」を扱っています。概要d 26 a 9 bf 671 b 1 c 03 aabfc 32 e 1092 d 137 c 1 feb 3962を0.144リリースラインにバックポートします。バンドルされたGPT-5.6モデルの指示とコンテキストウィンドウのメタデータを更新します。",
         "keyPoints": [
-          "この記事は「OpenAI reduces Codex Model Context Size from 372k to 272k」を扱っています。",
-          "github.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+          "この記事は「OpenAI、Codexモデルのコンテキストサイズを372 kから272 kに削減」を扱っています。",
+          "概要d 26 a 9 bf 671 b 1 c 03 aabfc 32 e 1092 d 137 c 1 feb 3962を0.144リリースラインにバックポートします。",
+          "バンドルされたGPT-5.6モデルの指示とコンテキストウィンドウのメタデータを更新します。"
         ]
       },
       {
         "title": "Claude Code uses Bun written in Rust now",
         "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
         "points": 93,
-        "comments": 456,
+        "comments": 481,
         "author": "tosh",
         "createdAt": "2026-07-19T10:03:23Z",
         "domain": "simonwillison.net",
@@ -54,12 +54,12 @@
         "category": "AIモデル",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "AIニュース: Claude Code uses Bun written in Rust now",
-        "summaryJa": "この記事は「Claude Code uses Bun written in Rust now」を扱っています。simonwillison.netが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "titleJa": "Claude Codeは現在Rustで書かれたBUNを使用しています",
+        "summaryJa": "この記事は「Claude Codeは現在Rustで書かれたBUNを使用しています」を扱っています。Rewriting Bun in Rustで、Jarred Sumnerは次のように主張しました： Claude Code v2.1.181 （ 6月17日にリリース）と後でBunのRustポートを使用します。スタートアップは10 ％速くなりました…。",
         "keyPoints": [
-          "この記事は「Claude Code uses Bun written in Rust now」を扱っています。",
-          "simonwillison.netが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+          "この記事は「Claude Codeは現在Rustで書かれたBUNを使用しています」を扱っています。",
+          "Rewriting Bun in Rustで、Jarred Sumnerは次のように主張しました： Claude Code v2.1.181 （ 6月17日にリリース）と後でBunのRustポートを使用します。",
+          "スタートアップは10 ％速くなりました…。"
         ]
       },
       {
@@ -75,44 +75,44 @@
         "newsLens": "一般",
         "category": "AIニュース",
         "impact": "中",
-        "titleJa": "AIニュース: ‘Odyssey’ director Christopher Nolan calls AI an obvious ‘Trojan horse’",
-        "summaryJa": "この記事は「‘Odyssey’ director Christopher Nolan calls AI an obvious ‘Trojan horse’」を扱っています。techcrunch.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "titleJa": "「オデッセイ」のクリストファー・ノーラン監督は、AIを明らかな「トロイの木馬」と呼んでいます",
+        "summaryJa": "この記事は「「オデッセイ」のクリストファー・ノーラン監督は、AIを明らかな「トロイの木馬」と呼んでいます」を扱っています。「ギリシャ人が中にいることは誰もが知っています。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
-          "この記事は「‘Odyssey’ director Christopher Nolan calls AI an obvious ‘Trojan horse’」を扱っています。",
-          "techcrunch.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "この記事は「「オデッセイ」のクリストファー・ノーラン監督は、AIを明らかな「トロイの木馬」と呼んでいます」を扱っています。",
+          "「ギリシャ人が中にいることは誰もが知っています。",
           "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       },
       {
-        "title": "LLM-Integrated Multivariable Calculus Course",
-        "url": "https://calculus.academa.ai/",
-        "points": 79,
-        "comments": 45,
-        "author": "sinaatalay",
-        "createdAt": "2026-07-19T02:55:43Z",
-        "domain": "calculus.academa.ai",
+        "title": "Moonshot AI suspends new subscriptions due to Kimi K3 demand",
+        "url": "https://twitter.com/kimi_moonshot/status/2078855608565207130",
+        "points": 73,
+        "comments": 57,
+        "author": "serialx",
+        "createdAt": "2026-07-19T16:02:25Z",
+        "domain": "twitter.com",
         "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "低",
+        "category": "AIニュース",
+        "impact": "高",
         "newsLens": "技術",
-        "titleJa": "AIニュース: LLM-Integrated Multivariable Calculus Course",
-        "summaryJa": "この記事は「LLM-Integrated Multivariable Calculus Course」を扱っています。calculus.academa.aiが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "titleJa": "Moonshot AIがKimi K 3の需要を理由に新規サブスクリプションを一時停止",
+        "summaryJa": "この記事は「Moonshot AIがKimi K 3の需要を理由に新規サブスクリプションを一時停止」を扱っています。Kimi K 3は私たちが予想していたよりもはるかに多くの愛を受け取っており、私たちのGPUはそれを感じています。過去48時間にわたり、需要は現在のキャパシティの限界に近づいています。",
         "keyPoints": [
-          "この記事は「LLM-Integrated Multivariable Calculus Course」を扱っています。",
-          "calculus.academa.aiが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+          "この記事は「Moonshot AIがKimi K 3の需要を理由に新規サブスクリプションを一時停止」を扱っています。",
+          "Kimi K 3は私たちが予想していたよりもはるかに多くの愛を受け取っており、私たちのGPUはそれを感じています。",
+          "過去48時間にわたり、需要は現在のキャパシティの限界に近づいています。"
         ]
       }
     ],
-    "fetchedAt": "2026-07-19T21:47:27.534Z",
+    "fetchedAt": "2026-07-19T22:47:25.320Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-07-19T21:47:27.534Z",
+    "fetchedAt": "2026-07-19T22:47:25.320Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-19T21:47:27.652Z"
+    "articleFetchedAt": "2026-07-19T22:47:25.480Z"
   }
 }
