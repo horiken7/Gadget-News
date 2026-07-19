@@ -25,7 +25,7 @@
       {
         "title": "LG ThinQ Terms of Use",
         "url": "https://news.ycombinator.com/item?id=48958273",
-        "points": 102,
+        "points": 103,
         "comments": 27,
         "author": "tedggh",
         "createdAt": "2026-07-18T14:04:55Z",
@@ -67,7 +67,7 @@
         "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
         "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
         "points": 73,
-        "comments": 308,
+        "comments": 325,
         "author": "mbustamanter",
         "createdAt": "2026-07-18T13:00:52Z",
         "domain": "old.reddit.com",
@@ -84,35 +84,35 @@
         ]
       },
       {
-        "title": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
-        "url": "https://ykdojo.github.io/claude-controls-mac/",
+        "title": "Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
+        "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
         "points": 73,
-        "comments": 124,
-        "author": "ykev",
-        "createdAt": "2026-07-18T16:12:08Z",
-        "domain": "ykdojo.github.io",
+        "comments": 107,
+        "author": "gnabgib",
+        "createdAt": "2026-07-18T22:13:39Z",
+        "domain": "petapixel.com",
         "sourceType": "hn",
-        "category": "AIモデル",
+        "category": "AIニュース",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "Claude Codeを制御するための予備のMacの設定、ステップバイステップガイド",
-        "summaryJa": "この記事は「Claude Codeを制御するための予備のMacの設定、ステップバイステップガイド」を扱っています。スペアMacを常時稼働のマシンにするためのステップバイステップガイドClaude Codeは完全に制御できます。Claudeアプリを介して携帯電話から、またはSSHを介してメインのMacから通話します。",
+        "titleJa": "マムダニ市長、家主はAI画像を広告に使用できないと発言",
+        "summaryJa": "この記事は「マムダニ市長、家主はAI画像を広告に使用できないと発言」を扱っています。ニューヨーク市のマムダニ市長は、不動産リスティングにおけるAIの開示要件を含む、テナント向けの新しい推奨事項を発表しました。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
         "keyPoints": [
-          "この記事は「Claude Codeを制御するための予備のMacの設定、ステップバイステップガイド」を扱っています。",
-          "スペアMacを常時稼働のマシンにするためのステップバイステップガイドClaude Codeは完全に制御できます。",
-          "Claudeアプリを介して携帯電話から、またはSSHを介してメインのMacから通話します。"
+          "この記事は「マムダニ市長、家主はAI画像を広告に使用できないと発言」を扱っています。",
+          "ニューヨーク市のマムダニ市長は、不動産リスティングにおけるAIの開示要件を含む、テナント向けの新しい推奨事項を発表しました。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
       }
     ],
-    "fetchedAt": "2026-07-18T23:50:24.887Z",
+    "fetchedAt": "2026-07-19T02:18:33.461Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-07-18T23:50:24.887Z",
+    "fetchedAt": "2026-07-19T02:18:33.461Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-18T23:50:25.009Z"
+    "articleFetchedAt": "2026-07-19T02:18:33.600Z"
   }
 }
