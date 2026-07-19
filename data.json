@@ -26,7 +26,7 @@
         "title": "OpenAI reduces Codex Model Context Size from 372k to 272k",
         "url": "https://github.com/openai/codex/pull/33972/files",
         "points": 101,
-        "comments": 66,
+        "comments": 86,
         "author": "AmazingTurtle",
         "createdAt": "2026-07-19T07:54:39Z",
         "domain": "github.com",
@@ -46,7 +46,7 @@
         "title": "Claude Code uses Bun written in Rust now",
         "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
         "points": 93,
-        "comments": 224,
+        "comments": 292,
         "author": "tosh",
         "createdAt": "2026-07-19T10:03:23Z",
         "domain": "simonwillison.net",
@@ -60,26 +60,6 @@
           "この記事は「Claude Codeは現在Rustで書かれたBUNを使用しています」を扱っています。",
           "Rewriting Bun in Rustで、Jarred Sumnerは次のように主張しました： Claude Code v2.1.181 （ 6月17日にリリース）と後でBunのRustポートを使用します。",
           "スタートアップは10 ％速くなりました…。"
-        ]
-      },
-      {
-        "title": "Perforce charges $500 for training training videos.. and it's AI narrated",
-        "url": "https://training.perforce.com/learn/courses/535/p4-helix-core-user-basic",
-        "points": 81,
-        "comments": 73,
-        "author": "TZubiri",
-        "createdAt": "2026-07-19T08:00:24Z",
-        "domain": "training.perforce.com",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "低",
-        "newsLens": "技術",
-        "titleJa": "Perforceはトレーニングビデオに500 $を請求します。AIナレーション付きです",
-        "summaryJa": "この記事は「Perforceはトレーニングビデオに500 $を請求します。AIナレーション付きです」を扱っています。training.perforce.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
-        "keyPoints": [
-          "この記事は「Perforceはトレーニングビデオに500 $を請求します。",
-          "AIナレーション付きです」を扱っています。",
-          "training.perforce.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。"
         ]
       },
       {
@@ -102,17 +82,37 @@
           "「ギリシャ人が中にいることは誰もが知っています。",
           "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
+      },
+      {
+        "title": "LLM-Integrated Multivariable Calculus Course",
+        "url": "https://calculus.academa.ai/",
+        "points": 78,
+        "comments": 44,
+        "author": "sinaatalay",
+        "createdAt": "2026-07-19T02:55:43Z",
+        "domain": "calculus.academa.ai",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "低",
+        "newsLens": "技術",
+        "titleJa": "LLM統合多変量微積分コース",
+        "summaryJa": "この記事は「LLM統合多変量微積分コース」を扱っています。calculus.academa.aiが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "keyPoints": [
+          "この記事は「LLM統合多変量微積分コース」を扱っています。",
+          "calculus.academa.aiが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+        ]
       }
     ],
-    "fetchedAt": "2026-07-19T15:53:58.767Z",
+    "fetchedAt": "2026-07-19T16:54:07.154Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-07-19T15:53:58.767Z",
+    "fetchedAt": "2026-07-19T16:54:07.154Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-19T15:53:58.894Z"
+    "articleFetchedAt": "2026-07-19T16:54:07.270Z"
   }
 }
