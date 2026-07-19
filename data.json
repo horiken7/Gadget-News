@@ -25,8 +25,8 @@
       {
         "title": "OpenAI reduces Codex Model Context Size from 372k to 272k",
         "url": "https://github.com/openai/codex/pull/33972/files",
-        "points": 97,
-        "comments": 47,
+        "points": 101,
+        "comments": 66,
         "author": "AmazingTurtle",
         "createdAt": "2026-07-19T07:54:39Z",
         "domain": "github.com",
@@ -46,7 +46,7 @@
         "title": "Claude Code uses Bun written in Rust now",
         "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
         "points": 93,
-        "comments": 191,
+        "comments": 224,
         "author": "tosh",
         "createdAt": "2026-07-19T10:03:23Z",
         "domain": "simonwillison.net",
@@ -66,7 +66,7 @@
         "title": "Perforce charges $500 for training training videos.. and it's AI narrated",
         "url": "https://training.perforce.com/learn/courses/535/p4-helix-core-user-basic",
         "points": 81,
-        "comments": 69,
+        "comments": 73,
         "author": "TZubiri",
         "createdAt": "2026-07-19T08:00:24Z",
         "domain": "training.perforce.com",
@@ -83,36 +83,36 @@
         ]
       },
       {
-        "title": "Nonprofit Current AI is racing to build the World Wide Web of AI, free for all",
-        "url": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
+        "title": "‘Odyssey’ director Christopher Nolan calls AI an obvious ‘Trojan horse’",
+        "url": "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/",
         "points": 79,
         "comments": 0,
         "author": "",
-        "createdAt": "2026-07-19T14:00:00.000Z",
+        "createdAt": "2026-07-19T14:52:08.000Z",
         "domain": "techcrunch.com",
         "sourceType": "rss",
         "sourceLabel": "TechCrunch AI",
         "newsLens": "一般",
         "category": "AIニュース",
         "impact": "中",
-        "titleJa": "非営利団体Current AIは、すべての人に無料のWorld Wide Web of AIを構築するために競争しています",
-        "summaryJa": "この記事は「非営利団体Current AIは、すべての人に無料のWorld Wide Web of AIを構築するために競争しています」を扱っています。現在のAIは、1つの文化を置き去りにしない非営利のAIであり、デバイス、AIチャットなどで目覚ましい進歩を遂げています。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "titleJa": "「オデッセイ」のクリストファー・ノーラン監督は、AIを明らかな「トロイの木馬」と呼んでいます",
+        "summaryJa": "この記事は「「オデッセイ」のクリストファー・ノーラン監督は、AIを明らかな「トロイの木馬」と呼んでいます」を扱っています。「ギリシャ人が中にいることは誰もが知っています。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
-          "この記事は「非営利団体Current AIは、すべての人に無料のWorld Wide Web of AIを構築するために競争しています」を扱っています。",
-          "現在のAIは、1つの文化を置き去りにしない非営利のAIであり、デバイス、AIチャットなどで目覚ましい進歩を遂げています。",
+          "この記事は「「オデッセイ」のクリストファー・ノーラン監督は、AIを明らかな「トロイの木馬」と呼んでいます」を扱っています。",
+          "「ギリシャ人が中にいることは誰もが知っています。",
           "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       }
     ],
-    "fetchedAt": "2026-07-19T14:51:27.491Z",
+    "fetchedAt": "2026-07-19T15:53:58.767Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-07-19T14:51:27.491Z",
+    "fetchedAt": "2026-07-19T15:53:58.767Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-19T14:51:27.760Z"
+    "articleFetchedAt": "2026-07-19T15:53:58.894Z"
   }
 }
