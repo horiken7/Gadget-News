@@ -23,31 +23,10 @@
         ]
       },
       {
-        "title": "China New AI Can Build Apple OS Without Coding",
-        "url": "https://propakistani.pk/2026/07/19/chinas-new-ai-can-build-apple-os-without-coding/",
-        "points": 107,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-07-19T10:00:00Z",
-        "domain": "propakistani.pk",
-        "sourceType": "gdelt",
-        "sourceLabel": "GDELT",
-        "category": "AIニュース",
-        "impact": "高",
-        "newsLens": "一般",
-        "titleJa": "中国の新しいAIはコーディングなしでApple OSを構築できます",
-        "summaryJa": "この記事は「中国の新しいAIはコーディングなしでApple OSを構築できます」を扱っています。中国で新たにリリースされたAIモデルKimi K 3は、1人のユーザーから機能的なmacOSスタイルのWebアプリケーションを生成した後、広く注目されています。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
-        "keyPoints": [
-          "この記事は「中国の新しいAIはコーディングなしでApple OSを構築できます」を扱っています。",
-          "中国で新たにリリースされたAIモデルKimi K 3は、1人のユーザーから機能的なmacOSスタイルのWebアプリケーションを生成した後、広く注目されています。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
-        ]
-      },
-      {
         "title": "LG ThinQ Terms of Use",
         "url": "https://news.ycombinator.com/item?id=48958273",
         "points": 104,
-        "comments": 28,
+        "comments": 29,
         "author": "tedggh",
         "createdAt": "2026-07-18T14:04:55Z",
         "domain": "news.ycombinator.com",
@@ -64,31 +43,30 @@
         ]
       },
       {
-        "title": "Mark Zuckerberg Meta Is Putting Its In - House Iris AI Chip Into Production in September as Part of a Plan to Double Its Computing Capacity to 14 Gigawatts",
-        "url": "https://finance.yahoo.com/technology/ai/articles/mark-zuckerbergs-meta-putting-house-070200269.html",
-        "points": 81,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-07-19T10:00:00Z",
-        "domain": "finance.yahoo.com",
-        "sourceType": "gdelt",
-        "sourceLabel": "GDELT",
-        "category": "ハードウェア",
-        "impact": "中",
+        "title": "Claude Code uses Bun written in Rust now",
+        "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
+        "points": 85,
+        "comments": 93,
+        "author": "tosh",
+        "createdAt": "2026-07-19T10:03:23Z",
+        "domain": "simonwillison.net",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "高",
         "newsLens": "技術",
-        "titleJa": "Mark Zuckerberg Metaは、コンピューティング容量を14ギガワットに倍増させる計画の一環として、9月にIris AIチップを生産する予定です",
-        "summaryJa": "この記事は「Mark Zuckerberg Metaは、コンピューティング容量を14ギガワットに倍増させる計画の一環として、9月にIris AIチップを生産する予定です」を扱っています。ウォール街はMetaへの影響を過小評価している。技術面では、ロボット、GPU、データセンターなどAIを動かす基盤への影響を見る必要があります。",
+        "titleJa": "Claude Codeは現在Rustで書かれたBUNを使用しています",
+        "summaryJa": "この記事は「Claude Codeは現在Rustで書かれたBUNを使用しています」を扱っています。Rewriting Bun in Rustで、Jarred Sumnerは次のように主張しました： Claude Code v2.1.181 （ 6月17日にリリース）と後でBunのRustポートを使用します。スタートアップは10 ％速くなりました…。",
         "keyPoints": [
-          "この記事は「Mark Zuckerberg Metaは、コンピューティング容量を14ギガワットに倍増させる計画の一環として、9月にIris AIチップを生産する予定です」を扱っています。",
-          "ウォール街はMetaへの影響を過小評価している。",
-          "技術面では、ロボット、GPU、データセンターなどAIを動かす基盤への影響を見る必要があります。"
+          "この記事は「Claude Codeは現在Rustで書かれたBUNを使用しています」を扱っています。",
+          "Rewriting Bun in Rustで、Jarred Sumnerは次のように主張しました： Claude Code v2.1.181 （ 6月17日にリリース）と後でBunのRustポートを使用します。",
+          "スタートアップは10 ％速くなりました…。"
         ]
       },
       {
         "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
         "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
         "points": 73,
-        "comments": 363,
+        "comments": 367,
         "author": "mbustamanter",
         "createdAt": "2026-07-18T13:00:52Z",
         "domain": "old.reddit.com",
@@ -103,17 +81,37 @@
           "old.reddit.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
           "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
+      },
+      {
+        "title": "AI Mania Is Eviscerating Global Decision-Making",
+        "url": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3",
+        "points": 73,
+        "comments": 92,
+        "author": "subset",
+        "createdAt": "2026-07-19T01:29:19Z",
+        "domain": "ludic.mataroa.blog",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "AIマニアがグローバルな意思決定を掘り起こしている",
+        "summaryJa": "この記事は「AIマニアがグローバルな意思決定を掘り起こしている」を扱っています。ludic.mataroa.blogが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "keyPoints": [
+          "この記事は「AIマニアがグローバルな意思決定を掘り起こしている」を扱っています。",
+          "ludic.mataroa.blogが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+        ]
       }
     ],
-    "fetchedAt": "2026-07-19T10:24:00.471Z",
+    "fetchedAt": "2026-07-19T11:53:55.745Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-07-19T10:24:00.471Z",
+    "fetchedAt": "2026-07-19T11:53:55.745Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-19T10:24:00.580Z"
+    "articleFetchedAt": "2026-07-19T11:53:55.870Z"
   }
 }
