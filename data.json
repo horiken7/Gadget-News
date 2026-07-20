@@ -23,30 +23,30 @@
         ]
       },
       {
-        "title": "OpenAI reduces Codex Model Context Size from 372k to 272k",
-        "url": "https://github.com/openai/codex/pull/33972/files",
+        "title": "Tech Workers Face Evaporating Financial Security as AI Transforms Industry",
+        "url": "https://www.adn.com/nation-world/2026/07/19/the-biggest-winners-of-the-american-economy-fear-theyre-sinking-fast/",
         "points": 101,
-        "comments": 157,
-        "author": "AmazingTurtle",
-        "createdAt": "2026-07-19T07:54:39Z",
-        "domain": "github.com",
+        "comments": 7,
+        "author": "nlpnerd",
+        "createdAt": "2026-07-20T02:45:14Z",
+        "domain": "adn.com",
         "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "高",
+        "category": "AIニュース",
+        "impact": "低",
         "newsLens": "技術",
-        "titleJa": "OpenAI、Codexモデルのコンテキストサイズを372 kから272 kに削減",
-        "summaryJa": "この記事は「OpenAI、Codexモデルのコンテキストサイズを372 kから272 kに削減」を扱っています。概要d 26 a 9 bf 671 b 1 c 03 aabfc 32 e 1092 d 137 c 1 feb 3962を0.144リリースラインにバックポートします。バンドルされたGPT-5.6モデルの指示とコンテキストウィンドウのメタデータを更新します。",
+        "titleJa": "AIが業界を変革するにつれて、技術労働者は金融セキュリティの蒸発に直面しています",
+        "summaryJa": "この記事は「AIが業界を変革するにつれて、技術労働者は金融セキュリティの蒸発に直面しています」を扱っています。レイオフの波と雇用の自動化への圧力の高まりは、ハイテク業界に実存的なパニックを引き起こしています。経済学者によると、次は他のホワイトカラー労働者だという。",
         "keyPoints": [
-          "この記事は「OpenAI、Codexモデルのコンテキストサイズを372 kから272 kに削減」を扱っています。",
-          "概要d 26 a 9 bf 671 b 1 c 03 aabfc 32 e 1092 d 137 c 1 feb 3962を0.144リリースラインにバックポートします。",
-          "バンドルされたGPT-5.6モデルの指示とコンテキストウィンドウのメタデータを更新します。"
+          "この記事は「AIが業界を変革するにつれて、技術労働者は金融セキュリティの蒸発に直面しています」を扱っています。",
+          "レイオフの波と雇用の自動化への圧力の高まりは、ハイテク業界に実存的なパニックを引き起こしています。",
+          "経済学者によると、次は他のホワイトカラー労働者だという。"
         ]
       },
       {
         "title": "Claude Code uses Bun written in Rust now",
         "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
         "points": 93,
-        "comments": 620,
+        "comments": 685,
         "author": "tosh",
         "createdAt": "2026-07-19T10:03:23Z",
         "domain": "simonwillison.net",
@@ -84,35 +84,35 @@
         ]
       },
       {
-        "title": "Ask HN: What are your favorite blogs not about AI?",
-        "url": "https://news.ycombinator.com/item?id=48972858",
-        "points": 78,
-        "comments": 29,
-        "author": "azhenley",
-        "createdAt": "2026-07-19T23:58:12Z",
-        "domain": "news.ycombinator.com",
+        "title": "Claude Fable produced a counterexample to the Jacobian Conjecture",
+        "url": "https://xcancel.com/__alpoge__/status/2079028340955197566",
+        "points": 73,
+        "comments": 233,
+        "author": "loubbrad",
+        "createdAt": "2026-07-20T02:51:16Z",
+        "domain": "xcancel.com",
         "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "中",
+        "category": "AIモデル",
+        "impact": "高",
         "newsLens": "技術",
-        "titleJa": "HNさんにお尋ねします。AIに関するブログではなく、お気に入りのブログは何ですか？",
-        "summaryJa": "この記事は「HNさんにお尋ねします。AIに関するブログではなく、お気に入りのブログは何ですか？」を扱っています。私のお気に入りのブロガーの多くは、執筆をやめました（またはトピックを劇的に変えました）。個人的なプロジェクトや超ニッチなファクトイドについてブログを書く2009年の時代が懐かしいです。",
+        "titleJa": "Claude・フェイブルは、ジャコビアン予想への反例を生み出した",
+        "summaryJa": "この記事は「Claude・フェイブルは、ジャコビアン予想への反例を生み出した」を扱っています。こんにちは、ヤコビアン予想は、それについて尋ねた私の親友のAkhilと、ワールドカップ決勝で働いた私の他の親友の寓話（ （ 1 + xy ）^ 3 z + y ^ 2 （ 1 + xy ） （ 4 +3 xy ）、y + 3 x （ 1 + xy ）^ 2 z + 3 x y ^ 2 （ 4 +3 xy ）、2 x - 3 x ^ 2 y - x ^ 3 z ） ：\\ C ^ 3\\ to\\ C ^ 3には、ヤコビアン行列式-2があり、（ 0、0、-1/4 ）、（ 1、-3/2、13/2 ）、および（-1、3/2、13/2 ）を（-1/4、0、0 ）に送信します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
         "keyPoints": [
-          "この記事は「HNさんにお尋ねします。",
-          "AIに関するブログではなく、お気に入りのブログは何ですか。",
-          "私のお気に入りのブロガーの多くは、執筆をやめました（またはトピックを劇的に変えました）。"
+          "この記事は「Claude・フェイブルは、ジャコビアン予想への反例を生み出した」を扱っています。",
+          "こんにちは、ヤコビアン予想は、それについて尋ねた私の親友のAkhilと、ワールドカップ決勝で働いた私の他の親友の寓話（ （ 1 + xy ）^ 3 z + y ^ 2 （ 1 + xy ） （ 4 +3 xy ）、y + 3 x （ 1 + xy ）^ 2 z + 3 x y ^ 2 （ 4 +3 xy ）、2 x - 3 x ^ 2 y - x ^ 3 z ） ：\\ C ^ 3\\ to\\ C ^ 3には、ヤコビアン行列式-2があり、（ 0、0、-1/4 ）、（ 1、-3/2、13/2 ）、および（-1、3/2、13/2 ）を（-1/4、0、0 ）に送信します。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
       }
     ],
-    "fetchedAt": "2026-07-20T06:13:57.864Z",
+    "fetchedAt": "2026-07-20T09:56:28.989Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-07-20T06:13:57.864Z",
+    "fetchedAt": "2026-07-20T09:56:28.989Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-20T06:13:58.003Z"
+    "articleFetchedAt": "2026-07-20T09:56:29.114Z"
   }
 }
