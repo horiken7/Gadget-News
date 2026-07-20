@@ -23,10 +23,50 @@
         ]
       },
       {
+        "title": "China's open-weights AI strategy is winning",
+        "url": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
+        "points": 99,
+        "comments": 279,
+        "author": "benwerd",
+        "createdAt": "2026-07-20T14:21:47Z",
+        "domain": "werd.io",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "高",
+        "newsLens": "一般",
+        "titleJa": "中国のオープンウェイトAI戦略が勝利",
+        "summaryJa": "この記事は「中国のオープンウェイトAI戦略が勝利」を扱っています。中国のオープンウェイトAI戦略は勝利を収めています。米国のクローズドファーストでロックダウンされた戦略は失敗する運命にあり、米国経済をダウンさせる可能性がある。",
+        "keyPoints": [
+          "この記事は「中国のオープンウェイトAI戦略が勝利」を扱っています。",
+          "中国のオープンウェイトAI戦略は勝利を収めています。",
+          "米国のクローズドファーストでロックダウンされた戦略は失敗する運命にあり、米国経済をダウンさせる可能性がある。"
+        ]
+      },
+      {
+        "title": "Over 30% of new ArXiv submissions now read as AI-written",
+        "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
+        "points": 86,
+        "comments": 51,
+        "author": "dopamine_daddy",
+        "createdAt": "2026-07-20T16:36:36Z",
+        "domain": "unslop.run",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "中",
+        "newsLens": "技術",
+        "titleJa": "ArXivの新規提出物の30 ％以上がAIによって書かれたものとして読まれるようになりました",
+        "summaryJa": "この記事は「ArXivの新規提出物の30 ％以上がAIによって書かれたものとして読まれるようになりました」を扱っています。12,750のarXiv論文の全文を採点したところ、新しい論文の約3分の1が機械で書かれたものであることがわかりました。ここに方法、結果、そして限界の正直な説明があります。",
+        "keyPoints": [
+          "この記事は「ArXivの新規提出物の30 ％以上がAIによって書かれたものとして読まれるようになりました」を扱っています。",
+          "12,750のarXiv論文の全文を採点したところ、新しい論文の約3分の1が機械で書かれたものであることがわかりました。",
+          "ここに方法、結果、そして限界の正直な説明があります。"
+        ]
+      },
+      {
         "title": "Claude Fable produced a counterexample to the Jacobian Conjecture",
         "url": "https://xcancel.com/__alpoge__/status/2079028340955197566",
         "points": 73,
-        "comments": 342,
+        "comments": 377,
         "author": "loubbrad",
         "createdAt": "2026-07-20T02:51:16Z",
         "domain": "xcancel.com",
@@ -43,75 +83,35 @@
         ]
       },
       {
-        "title": "OpenAI is breaking Silicon Valley unwritten code. That's why Apple is so angry",
-        "url": "https://www.businessinsider.com/openai-breaking-silicon-valley-unspoken-rule-apple-talent-2026-7",
-        "points": 64,
-        "comments": 4,
-        "author": "RestlessMind",
-        "createdAt": "2026-07-19T17:23:57Z",
-        "domain": "businessinsider.com",
+        "title": "Kimi K3, Qwen 3.8, and Anthropic's (Potential) Unravelling",
+        "url": "https://www.emergingtrajectories.com/lh/frontier-lab-economics/",
+        "points": 73,
+        "comments": 152,
+        "author": "cl42",
+        "createdAt": "2026-07-20T15:13:42Z",
+        "domain": "emergingtrajectories.com",
         "sourceType": "hn",
-        "category": "開発ツール",
-        "impact": "低",
+        "category": "AIニュース",
+        "impact": "高",
         "newsLens": "技術",
-        "titleJa": "OpenAIは、シリコンバレーの書かれていないコードを解読しています。だからこそAppleはとても怒っています",
-        "summaryJa": "この記事は「OpenAIは、シリコンバレーの書かれていないコードを解読しています。だからこそAppleはとても怒っています」を扱っています。OpenAIはシリコンバレーで最も古い作戦帳を無視しており、Appleがなぜこれほど激しく戦っているのかを説明するのに役立っている。技術者にとっては、開発フロー、API、セキュリティ、運用コストへの影響が確認ポイントです。",
+        "titleJa": "Kimi K 3、Qwen 3.8、Anthropicの（潜在的な）解明",
+        "summaryJa": "この記事は「Kimi K 3、Qwen 3.8、Anthropicの（潜在的な）解明」を扱っています。Kimi K 3とQwen 3.8は、オープンモデルがフロンティアに到達できることを証明しています。なぜフロンティアラボの経済がインフラストラクチャーの所有者に有利なのか、そしてなぜAnthropicのモデルのみの立場が崩壊するリスクがあるのか。",
         "keyPoints": [
-          "この記事は「OpenAIは、シリコンバレーの書かれていないコードを解読しています。",
-          "だからこそAppleはとても怒っています」を扱っています。",
-          "OpenAIはシリコンバレーで最も古い作戦帳を無視しており、Appleがなぜこれほど激しく戦っているのかを説明するのに役立っている。"
-        ]
-      },
-      {
-        "title": "Tweet claiming Claude Fable 5 has helped disprove the Jacobian conjecture",
-        "url": "https://twitter.com/__alpoge__/status/2079028340955197566",
-        "points": 44,
-        "comments": 3,
-        "author": "meowface",
-        "createdAt": "2026-07-20T03:47:48Z",
-        "domain": "twitter.com",
-        "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "低",
-        "newsLens": "技術",
-        "titleJa": "Claude寓話5がジェイコビアン予想の反証に役立ったと主張するツイート",
-        "summaryJa": "この記事は「Claude寓話5がジェイコビアン予想の反証に役立ったと主張するツイート」を扱っています。こんにちは、ヤコビアン予想は、それについて尋ねた私の親友のAkhilと、ワールドカップ決勝で働いた私の他の親友の寓話（ （ 1 + xy ）^ 3 z + y ^ 2 （ 1 + xy ） （ 4 +3 x ）、y + 3 x （ 1 + xy ）^ 2 z + 3 x y ^ 2 （ 4 +3 xy ）、2 x - 3 x ^ 2 y - x ^ 3 z ） ：\\ C ^ 3\\ to\\ C ^ 3、。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
-        "keyPoints": [
-          "この記事は「Claude寓話5がジェイコビアン予想の反証に役立ったと主張するツイート」を扱っています。",
-          "こんにちは、ヤコビアン予想は、それについて尋ねた私の親友のAkhilと、ワールドカップ決勝で働いた私の他の親友の寓話（ （ 1 + xy ）^ 3 z + y ^ 2 （ 1 + xy ） （ 4 +3 x ）、y + 3 x （ 1 + xy ）^ 2 z + 3 x y ^ 2 （ 4 +3 xy ）、2 x - 3 x ^ 2 y - x ^ 3 z ） ：\\ C ^ 3\\ to\\ C ^ 3、。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
-        ]
-      },
-      {
-        "title": "Claude Fable 5 on your plan",
-        "url": "https://support.claude.com/en/articles/15424964-claude-fable-5-on-your-plan",
-        "points": 44,
-        "comments": 7,
-        "author": "tidbeck",
-        "createdAt": "2026-07-20T06:53:31Z",
-        "domain": "support.claude.com",
-        "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "低",
-        "newsLens": "技術",
-        "titleJa": "プランにClaudeの寓話5が含まれています",
-        "summaryJa": "この記事は「プランにClaudeの寓話5が含まれています」を扱っています。support.claude.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
-        "keyPoints": [
-          "この記事は「プランにClaudeの寓話5が含まれています」を扱っています。",
-          "support.claude.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+          "この記事は「Kimi K 3、Qwen 3.8、Anthropicの（潜在的な）解明」を扱っています。",
+          "Kimi K 3とQwen 3.8は、オープンモデルがフロンティアに到達できることを証明しています。",
+          "なぜフロンティアラボの経済がインフラストラクチャーの所有者に有利なのか、そしてなぜAnthropicのモデルのみの立場が崩壊するリスクがあるのか。"
         ]
       }
     ],
-    "fetchedAt": "2026-07-20T15:08:19.727Z",
+    "fetchedAt": "2026-07-20T17:57:09.117Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-07-20T15:08:19.727Z",
+    "fetchedAt": "2026-07-20T17:57:09.117Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-20T15:08:19.855Z"
+    "articleFetchedAt": "2026-07-20T17:57:09.252Z"
   }
 }
