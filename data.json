@@ -2,30 +2,31 @@
   "news": {
     "items": [
       {
-        "title": "How we measured AI writing across arXiv, and where the measurement breaks",
-        "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
-        "points": 101,
-        "comments": 107,
-        "author": "dopamine_daddy",
-        "createdAt": "2026-07-20T16:36:36Z",
-        "domain": "unslop.run",
-        "sourceType": "hn",
+        "title": "AI’s most important protocol is getting a little bit easier to use",
+        "url": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/",
+        "points": 107,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-07-20T20:50:40.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
         "category": "AIニュース",
         "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "ArXiv全体でAIライティングをどのように測定し、測定がどこで中断するか",
-        "summaryJa": "この記事は「ArXiv全体でAIライティングをどのように測定し、測定がどこで中断するか」を扱っています。12,750のarXiv論文の全文を採点したところ、新しい論文の約3分の1が機械で書かれたものであることがわかりました。ここに方法、結果、そして限界の正直な説明があります。",
+        "titleJa": "AIの最も重要なプロトコルは、少し使いやすくなることです",
+        "summaryJa": "この記事は「AIの最も重要なプロトコルは、少し使いやすくなることです」を扱っています。モデルコンテキストプロトコル（ MCP ）は、AI相互運用性の基本的なビルディングブロックの1つであり、AIモデルに外部データソースとサービスにアクセスするための安全な方法を提供します。エンジニアがすべての接続用にカスタムパイプを構築するのではなく、チャットボットがカレンダー、データベース、または内部ツールにアクセスできるようにする配管です。",
         "keyPoints": [
-          "この記事は「ArXiv全体でAIライティングをどのように測定し、測定がどこで中断するか」を扱っています。",
-          "12,750のarXiv論文の全文を採点したところ、新しい論文の約3分の1が機械で書かれたものであることがわかりました。",
-          "ここに方法、結果、そして限界の正直な説明があります。"
+          "この記事は「AIの最も重要なプロトコルは、少し使いやすくなることです」を扱っています。",
+          "モデルコンテキストプロトコル（ MCP ）は、AI相互運用性の基本的なビルディングブロックの1つであり、AIモデルに外部データソースとサービスにアクセスするための安全な方法を提供します。",
+          "エンジニアがすべての接続用にカスタムパイプを構築するのではなく、チャットボットがカレンダー、データベース、または内部ツールにアクセスできるようにする配管です。"
         ]
       },
       {
         "title": "China's open-weights AI strategy is winning",
         "url": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
         "points": 99,
-        "comments": 477,
+        "comments": 610,
         "author": "benwerd",
         "createdAt": "2026-07-20T14:21:47Z",
         "domain": "werd.io",
@@ -42,31 +43,31 @@
         ]
       },
       {
-        "title": "OpenAI is scared of open-weight models. Should the US be?",
-        "url": "https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/",
-        "points": 79,
+        "title": "Scientists Warn Wildlife Photographer AI - Enhanced Bird Photos Could Threaten Research",
+        "url": "https://petapixel.com/2026/07/20/scientists-warn-wildlife-photographers-ai-enhanced-bird-photos-could-threaten-research/",
+        "points": 81,
         "comments": 0,
         "author": "",
-        "createdAt": "2026-07-20T19:33:25.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
-        "category": "AIモデル",
+        "createdAt": "2026-07-20T20:45:00Z",
+        "domain": "petapixel.com",
+        "sourceType": "gdelt",
+        "sourceLabel": "GDELT",
+        "category": "研究",
         "impact": "中",
-        "titleJa": "OpenAIはオープンウェイトモデルを恐れている。米国はそうあるべきか？",
-        "summaryJa": "この記事は「OpenAIはオープンウェイトモデルを恐れている。米国はそうあるべきか？」を扱っています。中国製のオープンウェイトLLMを禁止するという話は、AIをビジネスに変えるという課題を明らかにしています。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "newsLens": "技術",
+        "titleJa": "科学者が野生動物写真家に警告AI -強化された鳥の写真は研究を脅かす可能性がある",
+        "summaryJa": "この記事は「科学者が野生動物写真家に警告AI -強化された鳥の写真は研究を脅かす可能性がある」を扱っています。科学者たちは、完璧な鳥の写真を求めている野生動物写真家によるAI編集ツールの使用が増えていることは、研究を脅かす可能性があると警告しています。研究・実装面では、手法の新しさ、再現性、既存モデルとの差分が見るべき点です。",
         "keyPoints": [
-          "この記事は「OpenAIはオープンウェイトモデルを恐れている。",
-          "米国はそうあるべきか。",
-          "中国製のオープンウェイトLLMを禁止するという話は、AIをビジネスに変えるという課題を明らかにしています。"
+          "この記事は「科学者が野生動物写真家に警告AI -強化された鳥の写真は研究を脅かす可能性がある」を扱っています。",
+          "科学者たちは、完璧な鳥の写真を求めている野生動物写真家によるAI編集ツールの使用が増えていることは、研究を脅かす可能性があると警告しています。",
+          "研究・実装面では、手法の新しさ、再現性、既存モデルとの差分が見るべき点です。"
         ]
       },
       {
         "title": "Claude Fable produced a counterexample to the Jacobian Conjecture",
         "url": "https://xcancel.com/__alpoge__/status/2079028340955197566",
         "points": 73,
-        "comments": 389,
+        "comments": 399,
         "author": "loubbrad",
         "createdAt": "2026-07-20T02:51:16Z",
         "domain": "xcancel.com",
@@ -86,7 +87,7 @@
         "title": "Kimi K3, Qwen 3.8, and Anthropic's (Potential) Unravelling",
         "url": "https://www.emergingtrajectories.com/lh/frontier-lab-economics/",
         "points": 73,
-        "comments": 203,
+        "comments": 235,
         "author": "cl42",
         "createdAt": "2026-07-20T15:13:42Z",
         "domain": "emergingtrajectories.com",
@@ -103,15 +104,33 @@
         ]
       }
     ],
-    "fetchedAt": "2026-07-20T19:44:02.547Z",
+    "fetchedAt": "2026-07-20T21:07:56.113Z",
     "mock": false
   },
   "xTrends": {
-    "items": [],
-    "fetchedAt": "2026-07-20T19:44:02.547Z",
+    "items": [
+      {
+        "topic": "ChatGPT Work",
+        "locationLabel": "米国",
+        "bestRank": 34,
+        "appearances": 2,
+        "trendSource": "Trends24",
+        "sourceUrl": "https://trends24.in/united-states/",
+        "observedAt": "2026-07-20T21:07:55.823Z",
+        "url": "https://x.com/search?q=ChatGPT%20Work&src=typed_query&f=live",
+        "articleTitle": "Codex / ChatGPT Work has reached 8M active users",
+        "articleTitleJa": "Codex / ChatGPT Work のアクティブ ユーザーが 800 万人に達しました",
+        "articleUrl": "https://twitter.com/thsottiaux/status/2077114635308986427",
+        "articleSource": "twitter.com",
+        "articlePublishedAt": "2026-07-14T19:57:15Z",
+        "summaryJa": "こんにちは。 Codex と ChatGPT Work のアクティブ ユーザー数は 800 万人に達しました。すべてのユーザーの使用制限を再度リセットします。また、5 時間のレート制限も引き続き設けず、誰もが GPT-5.6 Sol の境界を探索し、どれだけ野心的になれるかを発見できるようにします。",
+        "translationVersion": 3
+      }
+    ],
+    "fetchedAt": "2026-07-20T21:07:56.113Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-20T19:44:02.667Z"
+    "articleFetchedAt": "2026-07-20T21:07:58.806Z"
   }
 }
