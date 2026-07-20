@@ -26,7 +26,7 @@
         "title": "OpenAI reduces Codex Model Context Size from 372k to 272k",
         "url": "https://github.com/openai/codex/pull/33972/files",
         "points": 101,
-        "comments": 152,
+        "comments": 157,
         "author": "AmazingTurtle",
         "createdAt": "2026-07-19T07:54:39Z",
         "domain": "github.com",
@@ -46,7 +46,7 @@
         "title": "Claude Code uses Bun written in Rust now",
         "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
         "points": 93,
-        "comments": 563,
+        "comments": 620,
         "author": "tosh",
         "createdAt": "2026-07-19T10:03:23Z",
         "domain": "simonwillison.net",
@@ -84,35 +84,35 @@
         ]
       },
       {
-        "title": "LLM-Integrated Multivariable Calculus Course",
-        "url": "https://calculus.academa.ai/",
-        "points": 79,
-        "comments": 46,
-        "author": "sinaatalay",
-        "createdAt": "2026-07-19T02:55:43Z",
-        "domain": "calculus.academa.ai",
+        "title": "Ask HN: What are your favorite blogs not about AI?",
+        "url": "https://news.ycombinator.com/item?id=48972858",
+        "points": 78,
+        "comments": 29,
+        "author": "azhenley",
+        "createdAt": "2026-07-19T23:58:12Z",
+        "domain": "news.ycombinator.com",
         "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "低",
+        "category": "AIニュース",
+        "impact": "中",
         "newsLens": "技術",
-        "titleJa": "LLM統合多変量微積分コース",
-        "summaryJa": "この記事は「LLM統合多変量微積分コース」を扱っています。calculus.academa.aiが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "titleJa": "HNさんにお尋ねします。AIに関するブログではなく、お気に入りのブログは何ですか？",
+        "summaryJa": "この記事は「HNさんにお尋ねします。AIに関するブログではなく、お気に入りのブログは何ですか？」を扱っています。私のお気に入りのブロガーの多くは、執筆をやめました（またはトピックを劇的に変えました）。個人的なプロジェクトや超ニッチなファクトイドについてブログを書く2009年の時代が懐かしいです。",
         "keyPoints": [
-          "この記事は「LLM統合多変量微積分コース」を扱っています。",
-          "calculus.academa.aiが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+          "この記事は「HNさんにお尋ねします。",
+          "AIに関するブログではなく、お気に入りのブログは何ですか。",
+          "私のお気に入りのブロガーの多くは、執筆をやめました（またはトピックを劇的に変えました）。"
         ]
       }
     ],
-    "fetchedAt": "2026-07-20T02:35:54.203Z",
+    "fetchedAt": "2026-07-20T06:13:57.864Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-07-20T02:35:54.203Z",
+    "fetchedAt": "2026-07-20T06:13:57.864Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-20T02:35:54.419Z"
+    "articleFetchedAt": "2026-07-20T06:13:58.003Z"
   }
 }
