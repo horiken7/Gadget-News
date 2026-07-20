@@ -44,31 +44,10 @@
         ]
       },
       {
-        "title": "Frontier LLMs couldnt help Hugging Face fight off evil agents",
-        "url": "https://www.theregister.com/cyber-crime/2026/07/20/frontier-llms-couldnt-help-hugging-face-fight-off-evil-agents/5275168",
-        "points": 101,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-07-20T22:30:00Z",
-        "domain": "theregister.com",
-        "sourceType": "gdelt",
-        "sourceLabel": "GDELT",
-        "category": "AIモデル",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "Frontier LLMは、Hugging Faceが邪悪なエージェントを撃退するのを助けることができませんでした",
-        "summaryJa": "この記事は「Frontier LLMは、Hugging Faceが邪悪なエージェントを撃退するのを助けることができませんでした」を扱っています。中国オープンウェイトモデルGLM 5.2 HAPPYLY OVERSIBED。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
-        "keyPoints": [
-          "この記事は「Frontier LLMは、Hugging Faceが邪悪なエージェントを撃退するのを助けることができませんでした」を扱っています。",
-          "中国オープンウェイトモデルGLM 5.2 HAPPYLY OVERSIBED。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
-        ]
-      },
-      {
         "title": "Claude Fable produced a counterexample to the Jacobian Conjecture",
         "url": "https://xcancel.com/__alpoge__/status/2079028340955197566",
         "points": 73,
-        "comments": 413,
+        "comments": 419,
         "author": "loubbrad",
         "createdAt": "2026-07-20T02:51:16Z",
         "domain": "xcancel.com",
@@ -88,7 +67,7 @@
         "title": "Kimi K3, Qwen 3.8, and Anthropic's (Potential) Unravelling",
         "url": "https://www.emergingtrajectories.com/lh/frontier-lab-economics/",
         "points": 73,
-        "comments": 259,
+        "comments": 277,
         "author": "cl42",
         "createdAt": "2026-07-20T15:13:42Z",
         "domain": "emergingtrajectories.com",
@@ -103,9 +82,29 @@
           "Kimi K 3とQwen 3.8は、オープンモデルがフロンティアに到達できることを証明しています。",
           "なぜフロンティアラボの経済がインフラストラクチャーの所有者に有利なのか、そしてなぜAnthropicのモデルのみの立場が崩壊するリスクがあるのか。"
         ]
+      },
+      {
+        "title": "Chrome installed a global Ctrl+G keyboard shortcut to launch Gemini",
+        "url": "https://mastodon.online/users/mwichary/statuses/116952836351215165",
+        "points": 45,
+        "comments": 3,
+        "author": "jervant",
+        "createdAt": "2026-07-20T16:17:17Z",
+        "domain": "mastodon.online",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "低",
+        "newsLens": "技術",
+        "titleJa": "Chromeは、Geminiを起動するためのグローバルCtrl + Gキーボードショートカットをインストールしました",
+        "summaryJa": "この記事は「Chromeは、Geminiを起動するためのグローバルCtrl + Gキーボードショートカットをインストールしました」を扱っています。Chromeは、別のアプリを使用していてもGeminiを起動するための*グローバル* Ctrl + Gキーボードショートカットをインストールしましたが、それについては尋ねられませんでした。[編集： Chromeを離れる前にスレッドの残りの部分をお読みください]。",
+        "keyPoints": [
+          "この記事は「Chromeは、Geminiを起動するためのグローバルCtrl + Gキーボードショートカットをインストールしました」を扱っています。",
+          "Chromeは、別のアプリを使用していてもGeminiを起動するための*グローバル* Ctrl + Gキーボードショートカットをインストールしましたが、それについては尋ねられませんでした。",
+          "[編集： Chromeを離れる前にスレッドの残りの部分をお読みください]。"
+        ]
       }
     ],
-    "fetchedAt": "2026-07-20T22:56:05.253Z",
+    "fetchedAt": "2026-07-20T23:55:01.671Z",
     "mock": false
   },
   "xTrends": {
@@ -113,11 +112,11 @@
       {
         "topic": "ChatGPT Work",
         "locationLabel": "米国",
-        "bestRank": 13,
-        "appearances": 3,
+        "bestRank": 6,
+        "appearances": 4,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-07-20T22:56:05.165Z",
+        "observedAt": "2026-07-20T23:55:01.556Z",
         "url": "https://x.com/search?q=ChatGPT%20Work&src=typed_query&f=live",
         "articleTitle": "Codex / ChatGPT Work has reached 8M active users",
         "articleTitleJa": "Codex / ChatGPT Work のアクティブ ユーザーが 800 万人に達しました",
@@ -128,10 +127,10 @@
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-07-20T22:56:05.253Z",
+    "fetchedAt": "2026-07-20T23:55:01.671Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-20T22:56:06.291Z"
+    "articleFetchedAt": "2026-07-20T23:55:04.942Z"
   }
 }
