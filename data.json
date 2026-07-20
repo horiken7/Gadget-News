@@ -23,46 +23,6 @@
         ]
       },
       {
-        "title": "Tech Workers Face Evaporating Financial Security as AI Transforms Industry",
-        "url": "https://www.adn.com/nation-world/2026/07/19/the-biggest-winners-of-the-american-economy-fear-theyre-sinking-fast/",
-        "points": 101,
-        "comments": 7,
-        "author": "nlpnerd",
-        "createdAt": "2026-07-20T02:45:14Z",
-        "domain": "adn.com",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "低",
-        "newsLens": "技術",
-        "titleJa": "AIが業界を変革するにつれて、技術労働者は金融セキュリティの蒸発に直面しています",
-        "summaryJa": "この記事は「AIが業界を変革するにつれて、技術労働者は金融セキュリティの蒸発に直面しています」を扱っています。レイオフの波と雇用の自動化への圧力の高まりは、ハイテク業界に実存的なパニックを引き起こしています。経済学者によると、次は他のホワイトカラー労働者だという。",
-        "keyPoints": [
-          "この記事は「AIが業界を変革するにつれて、技術労働者は金融セキュリティの蒸発に直面しています」を扱っています。",
-          "レイオフの波と雇用の自動化への圧力の高まりは、ハイテク業界に実存的なパニックを引き起こしています。",
-          "経済学者によると、次は他のホワイトカラー労働者だという。"
-        ]
-      },
-      {
-        "title": "Claude Code uses Bun written in Rust now",
-        "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
-        "points": 93,
-        "comments": 685,
-        "author": "tosh",
-        "createdAt": "2026-07-19T10:03:23Z",
-        "domain": "simonwillison.net",
-        "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "Claude Codeは現在Rustで書かれたBUNを使用しています",
-        "summaryJa": "この記事は「Claude Codeは現在Rustで書かれたBUNを使用しています」を扱っています。Rewriting Bun in Rustで、Jarred Sumnerは次のように主張しました： Claude Code v2.1.181 （ 6月17日にリリース）と後でBunのRustポートを使用します。スタートアップは10 ％速くなりました…。",
-        "keyPoints": [
-          "この記事は「Claude Codeは現在Rustで書かれたBUNを使用しています」を扱っています。",
-          "Rewriting Bun in Rustで、Jarred Sumnerは次のように主張しました： Claude Code v2.1.181 （ 6月17日にリリース）と後でBunのRustポートを使用します。",
-          "スタートアップは10 ％速くなりました…。"
-        ]
-      },
-      {
         "title": "‘Odyssey’ director Christopher Nolan calls AI an obvious ‘Trojan horse’",
         "url": "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/",
         "points": 79,
@@ -87,7 +47,7 @@
         "title": "Claude Fable produced a counterexample to the Jacobian Conjecture",
         "url": "https://xcancel.com/__alpoge__/status/2079028340955197566",
         "points": 73,
-        "comments": 233,
+        "comments": 304,
         "author": "loubbrad",
         "createdAt": "2026-07-20T02:51:16Z",
         "domain": "xcancel.com",
@@ -102,17 +62,57 @@
           "こんにちは、ヤコビアン予想は、それについて尋ねた私の親友のAkhilと、ワールドカップ決勝で働いた私の他の親友の寓話（ （ 1 + xy ）^ 3 z + y ^ 2 （ 1 + xy ） （ 4 +3 xy ）、y + 3 x （ 1 + xy ）^ 2 z + 3 x y ^ 2 （ 4 +3 xy ）、2 x - 3 x ^ 2 y - x ^ 3 z ） ：\\ C ^ 3\\ to\\ C ^ 3には、ヤコビアン行列式-2があり、（ 0、0、-1/4 ）、（ 1、-3/2、13/2 ）、および（-1、3/2、13/2 ）を（-1/4、0、0 ）に送信します。",
           "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
+      },
+      {
+        "title": "Big tech needs to justify AI spending as investors dump stocks",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-19/big-tech-needs-to-justify-ai-spending-as-investors-dump-stocks",
+        "points": 72,
+        "comments": 14,
+        "author": "1vuio0pswjnm7",
+        "createdAt": "2026-07-20T04:41:10Z",
+        "domain": "bloomberg.com",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "低",
+        "newsLens": "技術",
+        "titleJa": "大手テクノロジー企業は、投資家が株を投げ捨てるにつれて、AI支出を正当化する必要がある",
+        "summaryJa": "この記事は「大手テクノロジー企業は、投資家が株を投げ捨てるにつれて、AI支出を正当化する必要がある」を扱っています。先週のチップの一掃とテクノロジー株のより広範な売却の後、人工知能の最大の支出者が、ますますかゆみのある指が売りボタンにぶら下がっている、悩まされているトレーダーへの支出を正当化する圧力が高まっています。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "keyPoints": [
+          "この記事は「大手テクノロジー企業は、投資家が株を投げ捨てるにつれて、AI支出を正当化する必要がある」を扱っています。",
+          "先週のチップの一掃とテクノロジー株のより広範な売却の後、人工知能の最大の支出者が、ますますかゆみのある指が売りボタンにぶら下がっている、悩まされているトレーダーへの支出を正当化する圧力が高まっています。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+        ]
+      },
+      {
+        "title": "OpenAI is breaking Silicon Valley unwritten code. That's why Apple is so angry",
+        "url": "https://www.businessinsider.com/openai-breaking-silicon-valley-unspoken-rule-apple-talent-2026-7",
+        "points": 64,
+        "comments": 4,
+        "author": "RestlessMind",
+        "createdAt": "2026-07-19T17:23:57Z",
+        "domain": "businessinsider.com",
+        "sourceType": "hn",
+        "category": "開発ツール",
+        "impact": "低",
+        "newsLens": "技術",
+        "titleJa": "OpenAIは、シリコンバレーの書かれていないコードを解読しています。だからこそAppleはとても怒っています",
+        "summaryJa": "この記事は「OpenAIは、シリコンバレーの書かれていないコードを解読しています。だからこそAppleはとても怒っています」を扱っています。OpenAIはシリコンバレーで最も古い作戦帳を無視しており、Appleがなぜこれほど激しく戦っているのかを説明するのに役立っている。技術者にとっては、開発フロー、API、セキュリティ、運用コストへの影響が確認ポイントです。",
+        "keyPoints": [
+          "この記事は「OpenAIは、シリコンバレーの書かれていないコードを解読しています。",
+          "だからこそAppleはとても怒っています」を扱っています。",
+          "OpenAIはシリコンバレーで最も古い作戦帳を無視しており、Appleがなぜこれほど激しく戦っているのかを説明するのに役立っている。"
+        ]
       }
     ],
-    "fetchedAt": "2026-07-20T09:56:28.989Z",
+    "fetchedAt": "2026-07-20T12:15:36.723Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-07-20T09:56:28.989Z",
+    "fetchedAt": "2026-07-20T12:15:36.723Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-20T09:56:29.114Z"
+    "articleFetchedAt": "2026-07-20T12:15:36.828Z"
   }
 }
