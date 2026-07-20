@@ -2,31 +2,30 @@
   "news": {
     "items": [
       {
-        "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
-        "url": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
-        "points": 105,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-07-19T19:24:45.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
-        "category": "ハードウェア",
+        "title": "How we measured AI writing across arXiv, and where the measurement breaks",
+        "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
+        "points": 101,
+        "comments": 107,
+        "author": "dopamine_daddy",
+        "createdAt": "2026-07-20T16:36:36Z",
+        "domain": "unslop.run",
+        "sourceType": "hn",
+        "category": "AIニュース",
         "impact": "高",
-        "titleJa": "Appleの訴訟はOpenAIのハードウェア計画を逸脱させる可能性がありますか？",
-        "summaryJa": "この記事は「Appleの訴訟はOpenAIのハードウェア計画を逸脱させる可能性がありますか？」を扱っています。Equityの最新エピソードでは、Appleの訴訟が、ハードウェアに参入して公開するというOpenAiの多くの議論された計画に影を落とすかどうかを議論している。一般向けには、AIがソフトウェアだけでなく、ロボットや端末など現実の製品に広がっている点が重要です。",
+        "newsLens": "技術",
+        "titleJa": "ArXiv全体でAIライティングをどのように測定し、測定がどこで中断するか",
+        "summaryJa": "この記事は「ArXiv全体でAIライティングをどのように測定し、測定がどこで中断するか」を扱っています。12,750のarXiv論文の全文を採点したところ、新しい論文の約3分の1が機械で書かれたものであることがわかりました。ここに方法、結果、そして限界の正直な説明があります。",
         "keyPoints": [
-          "この記事は「Appleの訴訟はOpenAIのハードウェア計画を逸脱させる可能性がありますか。",
-          "Equityの最新エピソードでは、Appleの訴訟が、ハードウェアに参入して公開するというOpenAiの多くの議論された計画に影を落とすかどうかを議論している。",
-          "一般向けには、AIがソフトウェアだけでなく、ロボットや端末など現実の製品に広がっている点が重要です。"
+          "この記事は「ArXiv全体でAIライティングをどのように測定し、測定がどこで中断するか」を扱っています。",
+          "12,750のarXiv論文の全文を採点したところ、新しい論文の約3分の1が機械で書かれたものであることがわかりました。",
+          "ここに方法、結果、そして限界の正直な説明があります。"
         ]
       },
       {
         "title": "China's open-weights AI strategy is winning",
         "url": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
         "points": 99,
-        "comments": 279,
+        "comments": 477,
         "author": "benwerd",
         "createdAt": "2026-07-20T14:21:47Z",
         "domain": "werd.io",
@@ -43,30 +42,31 @@
         ]
       },
       {
-        "title": "Over 30% of new ArXiv submissions now read as AI-written",
-        "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
-        "points": 86,
-        "comments": 51,
-        "author": "dopamine_daddy",
-        "createdAt": "2026-07-20T16:36:36Z",
-        "domain": "unslop.run",
-        "sourceType": "hn",
-        "category": "AIニュース",
+        "title": "OpenAI is scared of open-weight models. Should the US be?",
+        "url": "https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/",
+        "points": 79,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-07-20T19:33:25.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
+        "category": "AIモデル",
         "impact": "中",
-        "newsLens": "技術",
-        "titleJa": "ArXivの新規提出物の30 ％以上がAIによって書かれたものとして読まれるようになりました",
-        "summaryJa": "この記事は「ArXivの新規提出物の30 ％以上がAIによって書かれたものとして読まれるようになりました」を扱っています。12,750のarXiv論文の全文を採点したところ、新しい論文の約3分の1が機械で書かれたものであることがわかりました。ここに方法、結果、そして限界の正直な説明があります。",
+        "titleJa": "OpenAIはオープンウェイトモデルを恐れている。米国はそうあるべきか？",
+        "summaryJa": "この記事は「OpenAIはオープンウェイトモデルを恐れている。米国はそうあるべきか？」を扱っています。中国製のオープンウェイトLLMを禁止するという話は、AIをビジネスに変えるという課題を明らかにしています。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
-          "この記事は「ArXivの新規提出物の30 ％以上がAIによって書かれたものとして読まれるようになりました」を扱っています。",
-          "12,750のarXiv論文の全文を採点したところ、新しい論文の約3分の1が機械で書かれたものであることがわかりました。",
-          "ここに方法、結果、そして限界の正直な説明があります。"
+          "この記事は「OpenAIはオープンウェイトモデルを恐れている。",
+          "米国はそうあるべきか。",
+          "中国製のオープンウェイトLLMを禁止するという話は、AIをビジネスに変えるという課題を明らかにしています。"
         ]
       },
       {
         "title": "Claude Fable produced a counterexample to the Jacobian Conjecture",
         "url": "https://xcancel.com/__alpoge__/status/2079028340955197566",
         "points": 73,
-        "comments": 377,
+        "comments": 389,
         "author": "loubbrad",
         "createdAt": "2026-07-20T02:51:16Z",
         "domain": "xcancel.com",
@@ -86,7 +86,7 @@
         "title": "Kimi K3, Qwen 3.8, and Anthropic's (Potential) Unravelling",
         "url": "https://www.emergingtrajectories.com/lh/frontier-lab-economics/",
         "points": 73,
-        "comments": 152,
+        "comments": 203,
         "author": "cl42",
         "createdAt": "2026-07-20T15:13:42Z",
         "domain": "emergingtrajectories.com",
@@ -103,15 +103,15 @@
         ]
       }
     ],
-    "fetchedAt": "2026-07-20T17:57:09.117Z",
+    "fetchedAt": "2026-07-20T19:44:02.547Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-07-20T17:57:09.117Z",
+    "fetchedAt": "2026-07-20T19:44:02.547Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-20T17:57:09.252Z"
+    "articleFetchedAt": "2026-07-20T19:44:02.667Z"
   }
 }
