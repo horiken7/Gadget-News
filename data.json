@@ -15,39 +15,18 @@
         "category": "ハードウェア",
         "impact": "高",
         "titleJa": "Appleの訴訟はOpenAIのハードウェア計画を逸脱させる可能性がありますか？",
-        "summaryJa": "この記事は「Appleの訴訟はOpenAIのハードウェア計画を逸脱させる可能性がありますか？」を扱っています。Equityの最新エピソードでは、Appleの訴訟が、ハードウェアに参入して公開するというOpenAiの広く議論されている計画を覆すかどうかを議論している。一般向けには、AIがソフトウェアだけでなく、ロボットや端末など現実の製品に広がっている点が重要です。",
+        "summaryJa": "この記事は「Appleの訴訟はOpenAIのハードウェア計画を逸脱させる可能性がありますか？」を扱っています。Equityの最新エピソードでは、Appleの訴訟が、ハードウェアに参入して公開するというOpenAiの多くの議論された計画に影を落とすかどうかを議論している。一般向けには、AIがソフトウェアだけでなく、ロボットや端末など現実の製品に広がっている点が重要です。",
         "keyPoints": [
           "この記事は「Appleの訴訟はOpenAIのハードウェア計画を逸脱させる可能性がありますか。",
-          "Equityの最新エピソードでは、Appleの訴訟が、ハードウェアに参入して公開するというOpenAiの広く議論されている計画を覆すかどうかを議論している。",
+          "Equityの最新エピソードでは、Appleの訴訟が、ハードウェアに参入して公開するというOpenAiの多くの議論された計画に影を落とすかどうかを議論している。",
           "一般向けには、AIがソフトウェアだけでなく、ロボットや端末など現実の製品に広がっている点が重要です。"
-        ]
-      },
-      {
-        "title": "‘Odyssey’ director Christopher Nolan calls AI an obvious ‘Trojan horse’",
-        "url": "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/",
-        "points": 79,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-07-19T14:52:08.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
-        "category": "AIニュース",
-        "impact": "中",
-        "titleJa": "「オデッセイ」のクリストファー・ノーラン監督は、AIを明らかな「トロイの木馬」と呼んでいます",
-        "summaryJa": "この記事は「「オデッセイ」のクリストファー・ノーラン監督は、AIを明らかな「トロイの木馬」と呼んでいます」を扱っています。「ギリシャ人が中にいることは誰もが知っています。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
-        "keyPoints": [
-          "この記事は「「オデッセイ」のクリストファー・ノーラン監督は、AIを明らかな「トロイの木馬」と呼んでいます」を扱っています。",
-          "「ギリシャ人が中にいることは誰もが知っています。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       },
       {
         "title": "Claude Fable produced a counterexample to the Jacobian Conjecture",
         "url": "https://xcancel.com/__alpoge__/status/2079028340955197566",
         "points": 73,
-        "comments": 304,
+        "comments": 342,
         "author": "loubbrad",
         "createdAt": "2026-07-20T02:51:16Z",
         "domain": "xcancel.com",
@@ -61,26 +40,6 @@
           "この記事は「Claude・フェイブルは、ジャコビアン予想への反例を生み出した」を扱っています。",
           "こんにちは、ヤコビアン予想は、それについて尋ねた私の親友のAkhilと、ワールドカップ決勝で働いた私の他の親友の寓話（ （ 1 + xy ）^ 3 z + y ^ 2 （ 1 + xy ） （ 4 +3 xy ）、y + 3 x （ 1 + xy ）^ 2 z + 3 x y ^ 2 （ 4 +3 xy ）、2 x - 3 x ^ 2 y - x ^ 3 z ） ：\\ C ^ 3\\ to\\ C ^ 3には、ヤコビアン行列式-2があり、（ 0、0、-1/4 ）、（ 1、-3/2、13/2 ）、および（-1、3/2、13/2 ）を（-1/4、0、0 ）に送信します。",
           "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
-        ]
-      },
-      {
-        "title": "Big tech needs to justify AI spending as investors dump stocks",
-        "url": "https://www.bloomberg.com/news/articles/2026-07-19/big-tech-needs-to-justify-ai-spending-as-investors-dump-stocks",
-        "points": 72,
-        "comments": 14,
-        "author": "1vuio0pswjnm7",
-        "createdAt": "2026-07-20T04:41:10Z",
-        "domain": "bloomberg.com",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "低",
-        "newsLens": "技術",
-        "titleJa": "大手テクノロジー企業は、投資家が株を投げ捨てるにつれて、AI支出を正当化する必要がある",
-        "summaryJa": "この記事は「大手テクノロジー企業は、投資家が株を投げ捨てるにつれて、AI支出を正当化する必要がある」を扱っています。先週のチップの一掃とテクノロジー株のより広範な売却の後、人工知能の最大の支出者が、ますますかゆみのある指が売りボタンにぶら下がっている、悩まされているトレーダーへの支出を正当化する圧力が高まっています。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
-        "keyPoints": [
-          "この記事は「大手テクノロジー企業は、投資家が株を投げ捨てるにつれて、AI支出を正当化する必要がある」を扱っています。",
-          "先週のチップの一掃とテクノロジー株のより広範な売却の後、人工知能の最大の支出者が、ますますかゆみのある指が売りボタンにぶら下がっている、悩まされているトレーダーへの支出を正当化する圧力が高まっています。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
       },
       {
@@ -102,17 +61,57 @@
           "だからこそAppleはとても怒っています」を扱っています。",
           "OpenAIはシリコンバレーで最も古い作戦帳を無視しており、Appleがなぜこれほど激しく戦っているのかを説明するのに役立っている。"
         ]
+      },
+      {
+        "title": "Tweet claiming Claude Fable 5 has helped disprove the Jacobian conjecture",
+        "url": "https://twitter.com/__alpoge__/status/2079028340955197566",
+        "points": 44,
+        "comments": 3,
+        "author": "meowface",
+        "createdAt": "2026-07-20T03:47:48Z",
+        "domain": "twitter.com",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "低",
+        "newsLens": "技術",
+        "titleJa": "Claude寓話5がジェイコビアン予想の反証に役立ったと主張するツイート",
+        "summaryJa": "この記事は「Claude寓話5がジェイコビアン予想の反証に役立ったと主張するツイート」を扱っています。こんにちは、ヤコビアン予想は、それについて尋ねた私の親友のAkhilと、ワールドカップ決勝で働いた私の他の親友の寓話（ （ 1 + xy ）^ 3 z + y ^ 2 （ 1 + xy ） （ 4 +3 x ）、y + 3 x （ 1 + xy ）^ 2 z + 3 x y ^ 2 （ 4 +3 xy ）、2 x - 3 x ^ 2 y - x ^ 3 z ） ：\\ C ^ 3\\ to\\ C ^ 3、。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "keyPoints": [
+          "この記事は「Claude寓話5がジェイコビアン予想の反証に役立ったと主張するツイート」を扱っています。",
+          "こんにちは、ヤコビアン予想は、それについて尋ねた私の親友のAkhilと、ワールドカップ決勝で働いた私の他の親友の寓話（ （ 1 + xy ）^ 3 z + y ^ 2 （ 1 + xy ） （ 4 +3 x ）、y + 3 x （ 1 + xy ）^ 2 z + 3 x y ^ 2 （ 4 +3 xy ）、2 x - 3 x ^ 2 y - x ^ 3 z ） ：\\ C ^ 3\\ to\\ C ^ 3、。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+        ]
+      },
+      {
+        "title": "Claude Fable 5 on your plan",
+        "url": "https://support.claude.com/en/articles/15424964-claude-fable-5-on-your-plan",
+        "points": 44,
+        "comments": 7,
+        "author": "tidbeck",
+        "createdAt": "2026-07-20T06:53:31Z",
+        "domain": "support.claude.com",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "低",
+        "newsLens": "技術",
+        "titleJa": "プランにClaudeの寓話5が含まれています",
+        "summaryJa": "この記事は「プランにClaudeの寓話5が含まれています」を扱っています。support.claude.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "keyPoints": [
+          "この記事は「プランにClaudeの寓話5が含まれています」を扱っています。",
+          "support.claude.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+        ]
       }
     ],
-    "fetchedAt": "2026-07-20T12:15:36.723Z",
+    "fetchedAt": "2026-07-20T15:08:19.727Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-07-20T12:15:36.723Z",
+    "fetchedAt": "2026-07-20T15:08:19.727Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-20T12:15:36.828Z"
+    "articleFetchedAt": "2026-07-20T15:08:19.855Z"
   }
 }
