@@ -47,7 +47,7 @@
         "title": "Kimi K3, Qwen 3.8, and Anthropic's (Potential) Unravelling",
         "url": "https://www.emergingtrajectories.com/lh/frontier-lab-economics/",
         "points": 73,
-        "comments": 302,
+        "comments": 309,
         "author": "cl42",
         "createdAt": "2026-07-20T15:13:42Z",
         "domain": "emergingtrajectories.com",
@@ -64,16 +64,36 @@
         ]
       },
       {
+        "title": "Chrome installed a global Ctrl+G keyboard shortcut to launch Gemini",
+        "url": "https://mastodon.online/users/mwichary/statuses/116952836351215165",
+        "points": 46,
+        "comments": 3,
+        "author": "jervant",
+        "createdAt": "2026-07-20T16:17:17Z",
+        "domain": "mastodon.online",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "低",
+        "newsLens": "技術",
+        "titleJa": "Chromeは、Geminiを起動するためのグローバルCtrl + Gキーボードショートカットをインストールしました",
+        "summaryJa": "この記事は「Chromeは、Geminiを起動するためのグローバルCtrl + Gキーボードショートカットをインストールしました」を扱っています。Chromeは、別のアプリを使用していてもGeminiを起動するための*グローバル* Ctrl + Gキーボードショートカットをインストールしましたが、それについては尋ねられませんでした。[編集： Chromeを離れる前にスレッドの残りの部分をお読みください]。",
+        "keyPoints": [
+          "この記事は「Chromeは、Geminiを起動するためのグローバルCtrl + Gキーボードショートカットをインストールしました」を扱っています。",
+          "Chromeは、別のアプリを使用していてもGeminiを起動するための*グローバル* Ctrl + Gキーボードショートカットをインストールしましたが、それについては尋ねられませんでした。",
+          "[編集： Chromeを離れる前にスレッドの残りの部分をお読みください]。"
+        ]
+      },
+      {
         "title": "Launch HN: Bloomy (YC S26) – AI-powered mastery learning for K-12",
         "url": "https://news.ycombinator.com/item?id=48981136",
-        "points": 41,
-        "comments": 81,
+        "points": 42,
+        "comments": 86,
         "author": "alexsouthmayd",
         "createdAt": "2026-07-20T16:32:10Z",
         "domain": "news.ycombinator.com",
         "sourceType": "hn",
         "category": "AIニュース",
-        "impact": "中",
+        "impact": "高",
         "newsLens": "技術",
         "titleJa": "HN: Bloomy (YC S 26)を立ち上げる– K -12向けのAIを活用したマスタリーラーニング",
         "summaryJa": "この記事は「HN: Bloomy (YC S 26)を立ち上げる– K -12向けのAIを活用したマスタリーラーニング」を扱っています。K -12の生徒向けのAIを活用したマスタリーラーニングプラットフォームであるBloomy （ https://bloomylearning.com ）の創設者であるAlex Southmaydです。Bloomyは、適応カリキュラム（現在は数学、英語芸術、ライティング）と並んでAIチューターを学生に提供しています。",
@@ -82,29 +102,9 @@
           "K -12の生徒向けのAIを活用したマスタリーラーニングプラットフォームであるBloomy （ https://bloomylearning.com ）の創設者であるAlex Southmaydです。",
           "Bloomyは、適応カリキュラム（現在は数学、英語芸術、ライティング）と並んでAIチューターを学生に提供しています。"
         ]
-      },
-      {
-        "title": "Five US tech giants' hidden debts soar to $1.65T on opaque AI funding",
-        "url": "https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding",
-        "points": -14,
-        "comments": 22,
-        "author": "NordStreamYacht",
-        "createdAt": "2026-07-21T03:56:03Z",
-        "domain": "asia.nikkei.com",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "米国のハイテク大手5社の隠された負債は、不透明なAI資金で1.65 T $に急増",
-        "summaryJa": "この記事は「米国のハイテク大手5社の隠された負債は、不透明なAI資金で1.65 T $に急増」を扱っています。カリフォルニア州パロアルト--米国のハイテク大手の隠された負債は約4年間で8倍に膨れ上がり、人工知能として推定1.65兆$に達した。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
-        "keyPoints": [
-          "この記事は「米国のハイテク大手5社の隠された負債は、不透明なAI資金で1.65 T $に急増」を扱っています。",
-          "カリフォルニア州パロアルト--米国のハイテク大手の隠された負債は約4年間で8倍に膨れ上がり、人工知能として推定1.65兆$に達した。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
-        ]
       }
     ],
-    "fetchedAt": "2026-07-21T05:46:35.670Z",
+    "fetchedAt": "2026-07-21T08:21:14.272Z",
     "mock": false
   },
   "xTrends": {
@@ -112,11 +112,11 @@
       {
         "topic": "ChatGPT Work",
         "locationLabel": "日本",
-        "bestRank": 11,
-        "appearances": 12,
+        "bestRank": 5,
+        "appearances": 16,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-07-21T05:46:35.554Z",
+        "observedAt": "2026-07-21T08:21:14.203Z",
         "url": "https://x.com/search?q=ChatGPT%20Work&src=typed_query&f=live",
         "articleTitle": "Codex / ChatGPT Work has reached 8M active users",
         "articleTitleJa": "Codex / ChatGPT Work のアクティブ ユーザーが 800 万人に達しました",
@@ -127,10 +127,10 @@
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-07-21T05:46:35.670Z",
+    "fetchedAt": "2026-07-21T08:21:14.272Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-21T05:46:39.384Z"
+    "articleFetchedAt": "2026-07-21T08:21:15.116Z"
   }
 }
