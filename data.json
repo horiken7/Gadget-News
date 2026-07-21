@@ -23,88 +23,88 @@
         ]
       },
       {
-        "title": "Anthropic’s landmark $1.5B copyright settlement is approved",
-        "url": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
+        "title": "US threatens sanctions against Chinese AI models over IP theft",
+        "url": "https://techcrunch.com/2026/07/21/us-threatens-sanctions-against-chinese-ai-models-over-ip-theft/",
         "points": 105,
         "comments": 0,
         "author": "",
-        "createdAt": "2026-07-21T00:12:24.000Z",
+        "createdAt": "2026-07-21T15:37:05.000Z",
         "domain": "techcrunch.com",
         "sourceType": "rss",
         "sourceLabel": "TechCrunch AI",
         "newsLens": "一般",
-        "category": "AIニュース",
+        "category": "AIモデル",
         "impact": "高",
-        "titleJa": "Anthropicのランドマーク的な15億$の著作権和解が承認されました",
-        "summaryJa": "この記事は「Anthropicのランドマーク的な15億$の著作権和解が承認されました」を扱っています。最終的な承認は1つのケースを解決しますが、AIモデルのトレーニングに著作権で保護された作品を使用するというより広範な問題を解決するものではありません。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "titleJa": "米国、知的財産窃盗をめぐる中国のAIモデルに対する制裁を脅かす",
+        "summaryJa": "この記事は「米国、知的財産窃盗をめぐる中国のAIモデルに対する制裁を脅かす」を扱っています。スコット・ベッセント財務長官は、米国は知的財産窃盗の疑いで中国のオープンAIモデルを制裁する可能性があり、中国のAI進歩を遅らせるためのトランプ政権のキャンペーンを拡大すると述べた。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
-          "この記事は「Anthropicのランドマーク的な15億$の著作権和解が承認されました」を扱っています。",
-          "最終的な承認は1つのケースを解決しますが、AIモデルのトレーニングに著作権で保護された作品を使用するというより広範な問題を解決するものではありません。",
+          "この記事は「米国、知的財産窃盗をめぐる中国のAIモデルに対する制裁を脅かす」を扱っています。",
+          "スコット・ベッセント財務長官は、米国は知的財産窃盗の疑いで中国のオープンAIモデルを制裁する可能性があり、中国のAI進歩を遅らせるためのトランプ政権のキャンペーンを拡大すると述べた。",
           "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       },
       {
-        "title": "Kimi K3, Qwen 3.8, and Anthropic's (Potential) Unravelling",
-        "url": "https://www.emergingtrajectories.com/lh/frontier-lab-economics/",
-        "points": 73,
-        "comments": 317,
-        "author": "cl42",
-        "createdAt": "2026-07-20T15:13:42Z",
-        "domain": "emergingtrajectories.com",
+        "title": "Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/",
+        "points": 58,
+        "comments": 28,
+        "author": "logickkk1",
+        "createdAt": "2026-07-21T15:17:16Z",
+        "domain": "blog.google",
         "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "高",
+        "category": "AIモデル",
+        "impact": "中",
         "newsLens": "技術",
-        "titleJa": "Kimi K 3、Qwen 3.8、Anthropicの（潜在的な）解明",
-        "summaryJa": "この記事は「Kimi K 3、Qwen 3.8、Anthropicの（潜在的な）解明」を扱っています。Kimi K 3とQwen 3.8は、オープンモデルがフロンティアに到達できることを証明しています。なぜフロンティアラボの経済がインフラストラクチャーの所有者に有利なのか、そしてなぜAnthropicのモデルのみの立場が崩壊するリスクがあるのか。",
+        "titleJa": "AIニュース: Gemini 3.6 Flash、3.5 Flash - Lite、3.5 Flash Cyber",
+        "summaryJa": "この記事は「Gemini 3.6 Flash、3.5 Flash - Lite、3.5 Flash Cyber」を扱っています。Gemini 3.6 Flash、3.5 Flash - Lite、3.5 Flash Cyberなどの新しいGeminiモデルを導入します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
         "keyPoints": [
-          "この記事は「Kimi K 3、Qwen 3.8、Anthropicの（潜在的な）解明」を扱っています。",
-          "Kimi K 3とQwen 3.8は、オープンモデルがフロンティアに到達できることを証明しています。",
-          "なぜフロンティアラボの経済がインフラストラクチャーの所有者に有利なのか、そしてなぜAnthropicのモデルのみの立場が崩壊するリスクがあるのか。"
+          "この記事は「Gemini 3.6 Flash、3.5 Flash - Lite、3.5 Flash Cyber」を扱っています。",
+          "Gemini 3.6 Flash、3.5 Flash - Lite、3.5 Flash Cyberなどの新しいGeminiモデルを導入します。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
       },
       {
-        "title": "Chrome installed a global Ctrl+G keyboard shortcut to launch Gemini",
-        "url": "https://mastodon.online/users/mwichary/statuses/116952836351215165",
-        "points": 46,
-        "comments": 3,
-        "author": "jervant",
-        "createdAt": "2026-07-20T16:17:17Z",
-        "domain": "mastodon.online",
+        "title": "Claude Is Not a Compiler",
+        "url": "https://blog.exe.dev/claude-is-not-a-compiler",
+        "points": 55,
+        "comments": 37,
+        "author": "bryanmikaelian",
+        "createdAt": "2026-07-21T14:49:18Z",
+        "domain": "blog.exe.dev",
         "sourceType": "hn",
         "category": "AIモデル",
         "impact": "低",
         "newsLens": "技術",
-        "titleJa": "Chromeは、Geminiを起動するためのグローバルCtrl + Gキーボードショートカットをインストールしました",
-        "summaryJa": "この記事は「Chromeは、Geminiを起動するためのグローバルCtrl + Gキーボードショートカットをインストールしました」を扱っています。Chromeは、別のアプリを使用していてもGeminiを起動するための*グローバル* Ctrl + Gキーボードショートカットをインストールしましたが、それについては尋ねられませんでした。[編集： Chromeを離れる前にスレッドの残りの部分をお読みください]。",
+        "titleJa": "Claudeはコンパイラではありません",
+        "summaryJa": "この記事は「Claudeはコンパイラではありません」を扱っています。blog.exe.devが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
         "keyPoints": [
-          "この記事は「Chromeは、Geminiを起動するためのグローバルCtrl + Gキーボードショートカットをインストールしました」を扱っています。",
-          "Chromeは、別のアプリを使用していてもGeminiを起動するための*グローバル* Ctrl + Gキーボードショートカットをインストールしましたが、それについては尋ねられませんでした。",
-          "[編集： Chromeを離れる前にスレッドの残りの部分をお読みください]。"
+          "この記事は「Claudeはコンパイラではありません」を扱っています。",
+          "blog.exe.devが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
       },
       {
-        "title": "Launch HN: Bloomy (YC S26) – AI-powered mastery learning for K-12",
-        "url": "https://news.ycombinator.com/item?id=48981136",
-        "points": 44,
-        "comments": 93,
-        "author": "alexsouthmayd",
-        "createdAt": "2026-07-20T16:32:10Z",
-        "domain": "news.ycombinator.com",
+        "title": "Gemini 3.6 Flash",
+        "url": "https://console.cloud.google.com/agent-platform/publishers/google/model-garden/gemini-3.6-flash",
+        "points": 53,
+        "comments": 46,
+        "author": "marrf",
+        "createdAt": "2026-07-21T14:56:15Z",
+        "domain": "console.cloud.google.com",
         "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "高",
+        "category": "AIモデル",
+        "impact": "低",
         "newsLens": "技術",
-        "titleJa": "HN: Bloomy (YC S 26)を立ち上げる– K -12向けのAIを活用したマスタリーラーニング",
-        "summaryJa": "この記事は「HN: Bloomy (YC S 26)を立ち上げる– K -12向けのAIを活用したマスタリーラーニング」を扱っています。K -12の生徒向けのAIを活用したマスタリーラーニングプラットフォームであるBloomy （ https://bloomylearning.com ）の創設者であるAlex Southmaydです。Bloomyは、適応カリキュラム（現在は数学、英語芸術、ライティング）と並んでAIチューターを学生に提供しています。",
+        "titleJa": "Gemini3.6フラッシュ",
+        "summaryJa": "この記事は「Gemini3.6フラッシュ」を扱っています。console.cloud.google.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
         "keyPoints": [
-          "この記事は「HN: Bloomy (YC S 26)を立ち上げる– K -12向けのAIを活用したマスタリーラーニング」を扱っています。",
-          "K -12の生徒向けのAIを活用したマスタリーラーニングプラットフォームであるBloomy （ https://bloomylearning.com ）の創設者であるAlex Southmaydです。",
-          "Bloomyは、適応カリキュラム（現在は数学、英語芸術、ライティング）と並んでAIチューターを学生に提供しています。"
+          "この記事は「Gemini3.6フラッシュ」を扱っています。",
+          "console.cloud.google.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
       }
     ],
-    "fetchedAt": "2026-07-21T13:38:56.521Z",
+    "fetchedAt": "2026-07-21T15:40:22.364Z",
     "mock": false
   },
   "xTrends": {
@@ -113,10 +113,10 @@
         "topic": "ChatGPT Work",
         "locationLabel": "日本",
         "bestRank": 3,
-        "appearances": 23,
+        "appearances": 22,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-07-21T13:38:56.313Z",
+        "observedAt": "2026-07-21T15:40:22.338Z",
         "url": "https://x.com/search?q=ChatGPT%20Work&src=typed_query&f=live",
         "articleTitle": "Codex / ChatGPT Work has reached 8M active users",
         "articleTitleJa": "Codex / ChatGPT Work のアクティブ ユーザーが 800 万人に達しました",
@@ -127,10 +127,10 @@
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-07-21T13:38:56.521Z",
+    "fetchedAt": "2026-07-21T15:40:22.364Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-21T13:38:57.428Z"
+    "articleFetchedAt": "2026-07-21T15:40:23.908Z"
   }
 }
