@@ -46,14 +46,14 @@
       {
         "title": "Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
         "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/",
-        "points": 58,
-        "comments": 28,
+        "points": 73,
+        "comments": 213,
         "author": "logickkk1",
         "createdAt": "2026-07-21T15:17:16Z",
         "domain": "blog.google",
         "sourceType": "hn",
         "category": "AIモデル",
-        "impact": "中",
+        "impact": "高",
         "newsLens": "技術",
         "titleJa": "AIニュース: Gemini 3.6 Flash、3.5 Flash - Lite、3.5 Flash Cyber",
         "summaryJa": "この記事は「Gemini 3.6 Flash、3.5 Flash - Lite、3.5 Flash Cyber」を扱っています。Gemini 3.6 Flash、3.5 Flash - Lite、3.5 Flash Cyberなどの新しいGeminiモデルを導入します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
@@ -64,16 +64,36 @@
         ]
       },
       {
+        "title": "Google is building a chip with Gemini baked into the silicon",
+        "url": "https://thenextweb.com/news/google-frozen-chip-gemini-silicon",
+        "points": 73,
+        "comments": 1,
+        "author": "itvision",
+        "createdAt": "2026-07-20T20:08:47Z",
+        "domain": "thenextweb.com",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "低",
+        "newsLens": "技術",
+        "titleJa": "Googleは、Geminiをシリコンに焼き付けたチップを構築しています",
+        "summaryJa": "この記事は「Googleは、Geminiをシリコンに焼き付けたチップを構築しています」を扱っています。報告書によると、Google Frozenチップは、2028年までにGeminiをシリコンに接続し、最大10倍の効率を実現するという。それがAIにとって何を意味するのか。",
+        "keyPoints": [
+          "この記事は「Googleは、Geminiをシリコンに焼き付けたチップを構築しています」を扱っています。",
+          "報告書によると、Google Frozenチップは、2028年までにGeminiをシリコンに接続し、最大10倍の効率を実現するという。",
+          "それがAIにとって何を意味するのか。"
+        ]
+      },
+      {
         "title": "Claude Is Not a Compiler",
         "url": "https://blog.exe.dev/claude-is-not-a-compiler",
-        "points": 55,
-        "comments": 37,
+        "points": 67,
+        "comments": 102,
         "author": "bryanmikaelian",
         "createdAt": "2026-07-21T14:49:18Z",
         "domain": "blog.exe.dev",
         "sourceType": "hn",
         "category": "AIモデル",
-        "impact": "低",
+        "impact": "高",
         "newsLens": "技術",
         "titleJa": "Claudeはコンパイラではありません",
         "summaryJa": "この記事は「Claudeはコンパイラではありません」を扱っています。blog.exe.devが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
@@ -82,29 +102,9 @@
           "blog.exe.devが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
           "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
-      },
-      {
-        "title": "Gemini 3.6 Flash",
-        "url": "https://console.cloud.google.com/agent-platform/publishers/google/model-garden/gemini-3.6-flash",
-        "points": 53,
-        "comments": 46,
-        "author": "marrf",
-        "createdAt": "2026-07-21T14:56:15Z",
-        "domain": "console.cloud.google.com",
-        "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "低",
-        "newsLens": "技術",
-        "titleJa": "Gemini3.6フラッシュ",
-        "summaryJa": "この記事は「Gemini3.6フラッシュ」を扱っています。console.cloud.google.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
-        "keyPoints": [
-          "この記事は「Gemini3.6フラッシュ」を扱っています。",
-          "console.cloud.google.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
-        ]
       }
     ],
-    "fetchedAt": "2026-07-21T15:40:22.364Z",
+    "fetchedAt": "2026-07-21T17:13:29.550Z",
     "mock": false
   },
   "xTrends": {
@@ -113,10 +113,10 @@
         "topic": "ChatGPT Work",
         "locationLabel": "日本",
         "bestRank": 3,
-        "appearances": 22,
+        "appearances": 21,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-07-21T15:40:22.338Z",
+        "observedAt": "2026-07-21T17:13:29.485Z",
         "url": "https://x.com/search?q=ChatGPT%20Work&src=typed_query&f=live",
         "articleTitle": "Codex / ChatGPT Work has reached 8M active users",
         "articleTitleJa": "Codex / ChatGPT Work のアクティブ ユーザーが 800 万人に達しました",
@@ -125,12 +125,46 @@
         "articlePublishedAt": "2026-07-14T19:57:15Z",
         "summaryJa": "こんにちは。 Codex と ChatGPT Work のアクティブ ユーザー数は 800 万人に達しました。すべてのユーザーの使用制限を再度リセットします。また、5 時間のレート制限も引き続き設けず、誰もが GPT-5.6 Sol の境界を探索し、どれだけ野心的になれるかを発見できるようにします。",
         "translationVersion": 3
+      },
+      {
+        "topic": "Gemini 3.6 Flash",
+        "locationLabel": "日本",
+        "bestRank": 11,
+        "appearances": 2,
+        "trendSource": "Trends24",
+        "sourceUrl": "https://trends24.in/japan/",
+        "observedAt": "2026-07-21T17:13:29.485Z",
+        "url": "https://x.com/search?q=Gemini%203.6%20Flash&src=typed_query&f=live",
+        "articleTitle": "Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+        "articleTitleJa": "Gemini 3.6 フラッシュ、3.5 フラッシュ ライト、および 3.5 フラッシュ サイバー",
+        "articleUrl": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/",
+        "articleSource": "blog.google",
+        "articlePublishedAt": "2026-07-21T15:17:16Z",
+        "summaryJa": "Gemini 3.6 Flash、3.5 Flash-Lite、3.5 Flash Cyber​​ などの新しい Gemini モデルを導入します。",
+        "translationVersion": 3
+      },
+      {
+        "topic": "Gemini 4",
+        "locationLabel": "米国",
+        "bestRank": 2,
+        "appearances": 2,
+        "trendSource": "Trends24",
+        "sourceUrl": "https://trends24.in/united-states/",
+        "observedAt": "2026-07-21T17:13:29.414Z",
+        "url": "https://x.com/search?q=Gemini%204&src=typed_query&f=live",
+        "articleTitle": "Google launches Gemini 3.6 Flash and teases Gemini 4",
+        "articleTitleJa": "Google、Gemini 3.6 Flashを発表し、Gemini 4をからかう",
+        "articleUrl": "https://9to5google.com/2026/07/21/gemini-3-6-flash-launch/",
+        "articleSource": "9to5google.com",
+        "articlePublishedAt": "2026-07-21T15:13:05Z",
+        "summaryJa": "3.5 Pro を待つ間、Google は本日、Gemini 3.6 Flash と 3.5 Flash-Lite を発表するとともに、次に来るものについての最新情報を提供しました。",
+        "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-07-21T15:40:22.364Z",
+    "fetchedAt": "2026-07-21T17:13:29.550Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-21T15:40:23.908Z"
+    "articleFetchedAt": "2026-07-21T17:13:32.898Z"
   }
 }
