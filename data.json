@@ -23,23 +23,23 @@
         ]
       },
       {
-        "title": "Trump’s latest AI czar has already resigned",
-        "url": "https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/",
+        "title": "Anthropic’s landmark $1.5B copyright settlement is approved",
+        "url": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
         "points": 105,
         "comments": 0,
         "author": "",
-        "createdAt": "2026-07-20T22:21:04.000Z",
+        "createdAt": "2026-07-21T00:12:24.000Z",
         "domain": "techcrunch.com",
         "sourceType": "rss",
         "sourceLabel": "TechCrunch AI",
         "newsLens": "一般",
         "category": "AIニュース",
         "impact": "高",
-        "titleJa": "トランプ大統領の最新のAI皇帝はすでに辞任している",
-        "summaryJa": "この記事は「トランプ大統領の最新のAI皇帝はすでに辞任している」を扱っています。デビッド・サックスが皇帝を去って以来、AI標準イノベーションセンター（ CAISI ）のディレクターの役割は回転ドアになっています。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "titleJa": "Anthropicのランドマーク的な15億$の著作権和解が承認されました",
+        "summaryJa": "この記事は「Anthropicのランドマーク的な15億$の著作権和解が承認されました」を扱っています。最終的な承認は1つのケースを解決しますが、AIモデルのトレーニングに著作権で保護された作品を使用するというより広範な問題を解決するものではありません。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
-          "この記事は「トランプ大統領の最新のAI皇帝はすでに辞任している」を扱っています。",
-          "デビッド・サックスが皇帝を去って以来、AI標準イノベーションセンター（ CAISI ）のディレクターの役割は回転ドアになっています。",
+          "この記事は「Anthropicのランドマーク的な15億$の著作権和解が承認されました」を扱っています。",
+          "最終的な承認は1つのケースを解決しますが、AIモデルのトレーニングに著作権で保護された作品を使用するというより広範な問題を解決するものではありません。",
           "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       },
@@ -47,7 +47,7 @@
         "title": "Claude Fable produced a counterexample to the Jacobian Conjecture",
         "url": "https://xcancel.com/__alpoge__/status/2079028340955197566",
         "points": 73,
-        "comments": 419,
+        "comments": 440,
         "author": "loubbrad",
         "createdAt": "2026-07-20T02:51:16Z",
         "domain": "xcancel.com",
@@ -67,7 +67,7 @@
         "title": "Kimi K3, Qwen 3.8, and Anthropic's (Potential) Unravelling",
         "url": "https://www.emergingtrajectories.com/lh/frontier-lab-economics/",
         "points": 73,
-        "comments": 277,
+        "comments": 298,
         "author": "cl42",
         "createdAt": "2026-07-20T15:13:42Z",
         "domain": "emergingtrajectories.com",
@@ -84,39 +84,39 @@
         ]
       },
       {
-        "title": "Chrome installed a global Ctrl+G keyboard shortcut to launch Gemini",
-        "url": "https://mastodon.online/users/mwichary/statuses/116952836351215165",
-        "points": 45,
-        "comments": 3,
-        "author": "jervant",
-        "createdAt": "2026-07-20T16:17:17Z",
-        "domain": "mastodon.online",
+        "title": "Launch HN: Bloomy (YC S26) – AI-powered mastery learning for K-12",
+        "url": "https://news.ycombinator.com/item?id=48981136",
+        "points": 36,
+        "comments": 75,
+        "author": "alexsouthmayd",
+        "createdAt": "2026-07-20T16:32:10Z",
+        "domain": "news.ycombinator.com",
         "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "低",
+        "category": "AIニュース",
+        "impact": "中",
         "newsLens": "技術",
-        "titleJa": "Chromeは、Geminiを起動するためのグローバルCtrl + Gキーボードショートカットをインストールしました",
-        "summaryJa": "この記事は「Chromeは、Geminiを起動するためのグローバルCtrl + Gキーボードショートカットをインストールしました」を扱っています。Chromeは、別のアプリを使用していてもGeminiを起動するための*グローバル* Ctrl + Gキーボードショートカットをインストールしましたが、それについては尋ねられませんでした。[編集： Chromeを離れる前にスレッドの残りの部分をお読みください]。",
+        "titleJa": "HN: Bloomy (YC S 26)を立ち上げる– K -12向けのAIを活用したマスタリーラーニング",
+        "summaryJa": "この記事は「HN: Bloomy (YC S 26)を立ち上げる– K -12向けのAIを活用したマスタリーラーニング」を扱っています。K -12の生徒向けのAIを活用したマスタリーラーニングプラットフォームであるBloomy （ https://bloomylearning.com ）の創設者であるAlex Southmaydです。Bloomyは、適応カリキュラム（現在は数学、英語芸術、ライティング）と並んでAIチューターを学生に提供しています。",
         "keyPoints": [
-          "この記事は「Chromeは、Geminiを起動するためのグローバルCtrl + Gキーボードショートカットをインストールしました」を扱っています。",
-          "Chromeは、別のアプリを使用していてもGeminiを起動するための*グローバル* Ctrl + Gキーボードショートカットをインストールしましたが、それについては尋ねられませんでした。",
-          "[編集： Chromeを離れる前にスレッドの残りの部分をお読みください]。"
+          "この記事は「HN: Bloomy (YC S 26)を立ち上げる– K -12向けのAIを活用したマスタリーラーニング」を扱っています。",
+          "K -12の生徒向けのAIを活用したマスタリーラーニングプラットフォームであるBloomy （ https://bloomylearning.com ）の創設者であるAlex Southmaydです。",
+          "Bloomyは、適応カリキュラム（現在は数学、英語芸術、ライティング）と並んでAIチューターを学生に提供しています。"
         ]
       }
     ],
-    "fetchedAt": "2026-07-20T23:55:01.671Z",
+    "fetchedAt": "2026-07-21T02:14:26.902Z",
     "mock": false
   },
   "xTrends": {
     "items": [
       {
         "topic": "ChatGPT Work",
-        "locationLabel": "米国",
-        "bestRank": 6,
-        "appearances": 4,
+        "locationLabel": "日本",
+        "bestRank": 11,
+        "appearances": 7,
         "trendSource": "Trends24",
-        "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-07-20T23:55:01.556Z",
+        "sourceUrl": "https://trends24.in/japan/",
+        "observedAt": "2026-07-21T02:14:26.845Z",
         "url": "https://x.com/search?q=ChatGPT%20Work&src=typed_query&f=live",
         "articleTitle": "Codex / ChatGPT Work has reached 8M active users",
         "articleTitleJa": "Codex / ChatGPT Work のアクティブ ユーザーが 800 万人に達しました",
@@ -127,10 +127,10 @@
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-07-20T23:55:01.671Z",
+    "fetchedAt": "2026-07-21T02:14:26.902Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-20T23:55:04.942Z"
+    "articleFetchedAt": "2026-07-21T02:14:27.792Z"
   }
 }
