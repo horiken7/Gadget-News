@@ -23,31 +23,52 @@
         ]
       },
       {
-        "title": "Anthropic’s landmark $1.5B copyright settlement is approved",
-        "url": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
-        "points": 105,
+        "title": "Orihuela Council Restricts Staff Use of Public AI Tools Over Data and Security Risks",
+        "url": "https://theleader.info/2026/07/21/orihuela-council-restricts-staff-use-of-public-ai-tools-over-data-and-security-risks/",
+        "points": 107,
         "comments": 0,
         "author": "",
-        "createdAt": "2026-07-21T00:12:24.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
+        "createdAt": "2026-07-21T10:15:00Z",
+        "domain": "theleader.info",
+        "sourceType": "gdelt",
+        "sourceLabel": "GDELT",
         "category": "AIニュース",
         "impact": "高",
-        "titleJa": "Anthropicのランドマーク的な15億$の著作権和解が承認されました",
-        "summaryJa": "この記事は「Anthropicのランドマーク的な15億$の著作権和解が承認されました」を扱っています。最終的な承認は1つのケースを解決しますが、AIモデルのトレーニングに著作権で保護された作品を使用するというより広範な問題を解決するものではありません。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "newsLens": "一般",
+        "titleJa": "Orihuela評議会は、データとセキュリティのリスクを上回るパブリックAIツールの使用をスタッフに制限します",
+        "summaryJa": "この記事は「Orihuela評議会は、データとセキュリティのリスクを上回るパブリックAIツールの使用をスタッフに制限します」を扱っています。theleader.infoが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
-          "この記事は「Anthropicのランドマーク的な15億$の著作権和解が承認されました」を扱っています。",
-          "最終的な承認は1つのケースを解決しますが、AIモデルのトレーニングに著作権で保護された作品を使用するというより広範な問題を解決するものではありません。",
+          "この記事は「Orihuela評議会は、データとセキュリティのリスクを上回るパブリックAIツールの使用をスタッフに制限します」を扱っています。",
+          "theleader.infoが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
           "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+        ]
+      },
+      {
+        "title": "Google Dikabarkan Kembangkan Chip AI Baru yang Jauh Lebih Hemat Daya , Siap Perkuat Gemini",
+        "url": "https://www.jawapos.com/oto-dan-tekno/2607210299/google-dikabarkan-kembangkan-chip-ai-baru-yang-jauh-lebih-hemat-daya-siap-perkuat-gemini",
+        "points": 81,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-07-21T10:15:00Z",
+        "domain": "jawapos.com",
+        "sourceType": "gdelt",
+        "sourceLabel": "GDELT",
+        "category": "AIモデル",
+        "impact": "中",
+        "newsLens": "技術",
+        "titleJa": "AIニュース: Google Dikabarkan Kembangkan Chip AI Baru yang Jauh Lebih Hemat Daya、Siap Perkuat Gemini",
+        "summaryJa": "この記事は「Google Dikabarkan Kembangkan Chip AI Baru yang Jauh Lebih Hemat Daya、Siap Perkuat Gemini」を扱っています。jawapos.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "keyPoints": [
+          "この記事は「Google Dikabarkan Kembangkan Chip AI Baru yang Jauh Lebih Hemat Daya、Siap Perkuat Gemini」を扱っています。",
+          "jawapos.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
       },
       {
         "title": "Kimi K3, Qwen 3.8, and Anthropic's (Potential) Unravelling",
         "url": "https://www.emergingtrajectories.com/lh/frontier-lab-economics/",
         "points": 73,
-        "comments": 309,
+        "comments": 312,
         "author": "cl42",
         "createdAt": "2026-07-20T15:13:42Z",
         "domain": "emergingtrajectories.com",
@@ -82,29 +103,9 @@
           "Chromeは、別のアプリを使用していてもGeminiを起動するための*グローバル* Ctrl + Gキーボードショートカットをインストールしましたが、それについては尋ねられませんでした。",
           "[編集： Chromeを離れる前にスレッドの残りの部分をお読みください]。"
         ]
-      },
-      {
-        "title": "Launch HN: Bloomy (YC S26) – AI-powered mastery learning for K-12",
-        "url": "https://news.ycombinator.com/item?id=48981136",
-        "points": 42,
-        "comments": 86,
-        "author": "alexsouthmayd",
-        "createdAt": "2026-07-20T16:32:10Z",
-        "domain": "news.ycombinator.com",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "HN: Bloomy (YC S 26)を立ち上げる– K -12向けのAIを活用したマスタリーラーニング",
-        "summaryJa": "この記事は「HN: Bloomy (YC S 26)を立ち上げる– K -12向けのAIを活用したマスタリーラーニング」を扱っています。K -12の生徒向けのAIを活用したマスタリーラーニングプラットフォームであるBloomy （ https://bloomylearning.com ）の創設者であるAlex Southmaydです。Bloomyは、適応カリキュラム（現在は数学、英語芸術、ライティング）と並んでAIチューターを学生に提供しています。",
-        "keyPoints": [
-          "この記事は「HN: Bloomy (YC S 26)を立ち上げる– K -12向けのAIを活用したマスタリーラーニング」を扱っています。",
-          "K -12の生徒向けのAIを活用したマスタリーラーニングプラットフォームであるBloomy （ https://bloomylearning.com ）の創設者であるAlex Southmaydです。",
-          "Bloomyは、適応カリキュラム（現在は数学、英語芸術、ライティング）と並んでAIチューターを学生に提供しています。"
-        ]
       }
     ],
-    "fetchedAt": "2026-07-21T08:21:14.272Z",
+    "fetchedAt": "2026-07-21T11:04:43.795Z",
     "mock": false
   },
   "xTrends": {
@@ -112,11 +113,11 @@
       {
         "topic": "ChatGPT Work",
         "locationLabel": "日本",
-        "bestRank": 5,
-        "appearances": 16,
+        "bestRank": 3,
+        "appearances": 20,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-07-21T08:21:14.203Z",
+        "observedAt": "2026-07-21T11:04:43.713Z",
         "url": "https://x.com/search?q=ChatGPT%20Work&src=typed_query&f=live",
         "articleTitle": "Codex / ChatGPT Work has reached 8M active users",
         "articleTitleJa": "Codex / ChatGPT Work のアクティブ ユーザーが 800 万人に達しました",
@@ -127,10 +128,10 @@
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-07-21T08:21:14.272Z",
+    "fetchedAt": "2026-07-21T11:04:43.795Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-21T08:21:15.116Z"
+    "articleFetchedAt": "2026-07-21T11:04:44.769Z"
   }
 }
