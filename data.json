@@ -44,10 +44,30 @@
         ]
       },
       {
+        "title": "Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting",
+        "url": "https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git",
+        "points": 86,
+        "comments": 59,
+        "author": "ryanmerket",
+        "createdAt": "2026-07-21T17:14:06Z",
+        "domain": "runtimewire.com",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "中",
+        "newsLens": "技術",
+        "titleJa": "Jack Dorseyがチームチャット、AIエージェント、Gitホスティングを組み合わせたBuzzを発表",
+        "summaryJa": "この記事は「Jack Dorseyがチームチャット、AIエージェント、Gitホスティングを組み合わせたBuzzを発表」を扱っています。Block's Buzzは、チームチャット、AIエージェント、ワークフロー、Gitホスティングを、署名されたNostrイベントに基づいて構築された自己ホスト可能なワークスペースで組み合わせています。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "keyPoints": [
+          "この記事は「Jack Dorseyがチームチャット、AIエージェント、Gitホスティングを組み合わせたBuzzを発表」を扱っています。",
+          "Block's Buzzは、チームチャット、AIエージェント、ワークフロー、Gitホスティングを、署名されたNostrイベントに基づいて構築された自己ホスト可能なワークスペースで組み合わせています。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+        ]
+      },
+      {
         "title": "Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
         "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/",
         "points": 73,
-        "comments": 213,
+        "comments": 341,
         "author": "logickkk1",
         "createdAt": "2026-07-21T15:17:16Z",
         "domain": "blog.google",
@@ -64,30 +84,10 @@
         ]
       },
       {
-        "title": "Google is building a chip with Gemini baked into the silicon",
-        "url": "https://thenextweb.com/news/google-frozen-chip-gemini-silicon",
-        "points": 73,
-        "comments": 1,
-        "author": "itvision",
-        "createdAt": "2026-07-20T20:08:47Z",
-        "domain": "thenextweb.com",
-        "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "低",
-        "newsLens": "技術",
-        "titleJa": "Googleは、Geminiをシリコンに焼き付けたチップを構築しています",
-        "summaryJa": "この記事は「Googleは、Geminiをシリコンに焼き付けたチップを構築しています」を扱っています。報告書によると、Google Frozenチップは、2028年までにGeminiをシリコンに接続し、最大10倍の効率を実現するという。それがAIにとって何を意味するのか。",
-        "keyPoints": [
-          "この記事は「Googleは、Geminiをシリコンに焼き付けたチップを構築しています」を扱っています。",
-          "報告書によると、Google Frozenチップは、2028年までにGeminiをシリコンに接続し、最大10倍の効率を実現するという。",
-          "それがAIにとって何を意味するのか。"
-        ]
-      },
-      {
         "title": "Claude Is Not a Compiler",
         "url": "https://blog.exe.dev/claude-is-not-a-compiler",
-        "points": 67,
-        "comments": 102,
+        "points": 73,
+        "comments": 141,
         "author": "bryanmikaelian",
         "createdAt": "2026-07-21T14:49:18Z",
         "domain": "blog.exe.dev",
@@ -104,7 +104,7 @@
         ]
       }
     ],
-    "fetchedAt": "2026-07-21T17:13:29.550Z",
+    "fetchedAt": "2026-07-21T19:14:46.960Z",
     "mock": false
   },
   "xTrends": {
@@ -113,10 +113,10 @@
         "topic": "ChatGPT Work",
         "locationLabel": "日本",
         "bestRank": 3,
-        "appearances": 21,
+        "appearances": 18,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-07-21T17:13:29.485Z",
+        "observedAt": "2026-07-21T19:14:46.949Z",
         "url": "https://x.com/search?q=ChatGPT%20Work&src=typed_query&f=live",
         "articleTitle": "Codex / ChatGPT Work has reached 8M active users",
         "articleTitleJa": "Codex / ChatGPT Work のアクティブ ユーザーが 800 万人に達しました",
@@ -130,10 +130,10 @@
         "topic": "Gemini 3.6 Flash",
         "locationLabel": "日本",
         "bestRank": 11,
-        "appearances": 2,
+        "appearances": 5,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-07-21T17:13:29.485Z",
+        "observedAt": "2026-07-21T19:14:46.949Z",
         "url": "https://x.com/search?q=Gemini%203.6%20Flash&src=typed_query&f=live",
         "articleTitle": "Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
         "articleTitleJa": "Gemini 3.6 フラッシュ、3.5 フラッシュ ライト、および 3.5 フラッシュ サイバー",
@@ -146,25 +146,25 @@
       {
         "topic": "Gemini 4",
         "locationLabel": "米国",
-        "bestRank": 2,
-        "appearances": 2,
+        "bestRank": 28,
+        "appearances": 3,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-07-21T17:13:29.414Z",
+        "observedAt": "2026-07-21T19:14:46.765Z",
         "url": "https://x.com/search?q=Gemini%204&src=typed_query&f=live",
-        "articleTitle": "Google launches Gemini 3.6 Flash and teases Gemini 4",
-        "articleTitleJa": "Google、Gemini 3.6 Flashを発表し、Gemini 4をからかう",
-        "articleUrl": "https://9to5google.com/2026/07/21/gemini-3-6-flash-launch/",
-        "articleSource": "9to5google.com",
-        "articlePublishedAt": "2026-07-21T15:13:05Z",
-        "summaryJa": "3.5 Pro を待つ間、Google は本日、Gemini 3.6 Flash と 3.5 Flash-Lite を発表するとともに、次に来るものについての最新情報を提供しました。",
+        "articleTitle": "Google has started Pre-Training Gemini 4",
+        "articleTitleJa": "Google が Gemini 4 の事前トレーニングを開始",
+        "articleUrl": "https://twitter.com/OfficialLoganK/status/2079594867161022817",
+        "articleSource": "twitter.com",
+        "articlePublishedAt": "2026-07-21T16:39:29Z",
+        "summaryJa": "私たちは Gemini 4 向けにこれまでで最も野心的な事前トレーニングを開始しており、その進捗に興奮しています :)",
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-07-21T17:13:29.550Z",
+    "fetchedAt": "2026-07-21T19:14:46.960Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-21T17:13:32.898Z"
+    "articleFetchedAt": "2026-07-21T19:14:51.547Z"
   }
 }
