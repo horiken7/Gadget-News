@@ -2,6 +2,27 @@
   "news": {
     "items": [
       {
+        "title": "Treasury threatens sanctions after White House claims Moonshot distilled Anthropic’s Fable",
+        "url": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/",
+        "points": 133,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-07-22T20:49:03.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
+        "category": "AIニュース",
+        "impact": "高",
+        "titleJa": "ホワイトハウスがムーンショットが「Anthropic's Fable」を蒸留したと主張した後、財務省は制裁を脅かす",
+        "summaryJa": "この記事は「ホワイトハウスがムーンショットが「Anthropic's Fable」を蒸留したと主張した後、財務省は制裁を脅かす」を扱っています。スコット・ベッセント財務長官は、ホワイトハウス当局者がムーンショット氏がキミK 3を開発するためにAnthropicのFableモデルを蒸留したと非難した後、米国政府が中国のAI企業を制裁する可能性があると警告した。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "keyPoints": [
+          "この記事は「ホワイトハウスがムーンショットが「Anthropic's Fable」を蒸留したと主張した後、財務省は制裁を脅かす」を扱っています。",
+          "スコット・ベッセント財務長官は、ホワイトハウス当局者がムーンショット氏がキミK 3を開発するためにAnthropicのFableモデルを蒸留したと非難した後、米国政府が中国のAI企業を制裁する可能性があると警告した。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+        ]
+      },
+      {
         "title": "Synthesia’s AI training platform is moving beyond videos into live coaching",
         "url": "https://techcrunch.com/2026/07/22/synthesias-ai-training-platform-is-moving-beyond-videos-into-live-coaching/",
         "points": 133,
@@ -23,50 +44,10 @@
         ]
       },
       {
-        "title": "OpenAI and Hugging Face address security incident during model evaluation",
-        "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
-        "points": 127,
-        "comments": 1064,
-        "author": "mfiguiere",
-        "createdAt": "2026-07-21T20:09:52Z",
-        "domain": "openai.com",
-        "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "OpenAIとHugging Faceは、モデル評価中のセキュリティインシデントに対処します",
-        "summaryJa": "この記事は「OpenAIとHugging Faceは、モデル評価中のセキュリティインシデントに対処します」を扱っています。https://www.axios.com/2026/07/21/openai-says-hugging-face-br...セキュリティインシデントの開示もご覧ください– 2026年7月- https://news.ycombinator.com/item?技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
-        "keyPoints": [
-          "この記事は「OpenAIとHugging Faceは、モデル評価中のセキュリティインシデントに対処します」を扱っています。",
-          "https://www.axios.com/2026/07/21/openai-says-hugging-face-br...セキュリティインシデントの開示もご覧ください– 2026年7月- https://news.ycombinator.com/item?技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
-        ]
-      },
-      {
-        "title": "Travis Kalanick’s robotics company raises $1.7B, led by a16z",
-        "url": "https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/",
-        "points": 107,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-07-22T18:50:44.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
-        "category": "ハードウェア",
-        "impact": "高",
-        "titleJa": "Travis Kalanickのロボット会社が17億$を調達、a 16 zがリード",
-        "summaryJa": "この記事は「Travis Kalanickのロボット会社が17億$を調達、a 16 zがリード」を扱っています。Uberはまた、産業用AIを使用して世界を近代化するというガージーな主張をしているTravis Kalanickの会社Atomsにも投資しています。一般向けには、AIがソフトウェアだけでなく、ロボットや端末など現実の製品に広がっている点が重要です。",
-        "keyPoints": [
-          "この記事は「Travis Kalanickのロボット会社が17億$を調達、a 16 zがリード」を扱っています。",
-          "Uberはまた、産業用AIを使用して世界を近代化するというガージーな主張をしているTravis Kalanickの会社Atomsにも投資しています。",
-          "一般向けには、AIがソフトウェアだけでなく、ロボットや端末など現実の製品に広がっている点が重要です。"
-        ]
-      },
-      {
         "title": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)",
         "url": "https://bento.page/slides/",
         "points": 101,
-        "comments": 89,
+        "comments": 111,
         "author": "starfallg",
         "createdAt": "2026-07-22T15:19:23Z",
         "domain": "bento.page",
@@ -83,10 +64,30 @@
         ]
       },
       {
+        "title": "Can a MUD evaluate LLMs? A $99 proof of concept",
+        "url": "https://cruciblebench.ai/",
+        "points": 88,
+        "comments": 43,
+        "author": "Davisb135",
+        "createdAt": "2026-07-22T15:39:01Z",
+        "domain": "cruciblebench.ai",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "中",
+        "newsLens": "技術",
+        "titleJa": "MUDはLLMを評価できますか？ 99 $のコンセプト実証",
+        "summaryJa": "この記事は「MUDはLLMを評価できますか？ 99 $のコンセプト実証」を扱っています。私は友人の論文の著者であり、1970年代に始まったテキストゲームであるMUDをLLMの評価に使用できるかどうか興味があった後に書きました。私たちはこの数ヶ月間、夜と週末にこの実験を行い、約99 $のAPIクレジットを持つパソコンだけで論文を書いてきました。",
+        "keyPoints": [
+          "この記事は「MUDはLLMを評価できますか。",
+          "99 $のコンセプト実証」を扱っています。",
+          "私は友人の論文の著者であり、1970年代に始まったテキストゲームであるMUDをLLMの評価に使用できるかどうか興味があった後に書きました。"
+        ]
+      },
+      {
         "title": "Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA",
         "url": "https://fireworks.ai/blog/kimik3-fable",
         "points": 73,
-        "comments": 427,
+        "comments": 430,
         "author": "piotrgrabowski",
         "createdAt": "2026-07-21T22:35:24Z",
         "domain": "fireworks.ai",
@@ -103,7 +104,7 @@
         ]
       }
     ],
-    "fetchedAt": "2026-07-22T19:08:58.304Z",
+    "fetchedAt": "2026-07-22T21:01:47.732Z",
     "mock": false
   },
   "xTrends": {
@@ -115,13 +116,13 @@
         "appearances": 3,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-07-22T19:08:58.186Z",
+        "observedAt": "2026-07-22T21:01:47.668Z",
         "url": "https://x.com/search?q=%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3AI%E3%81%AE%E3%83%A2%E3%83%87%E3%83%AB&src=typed_query&f=live",
         "articleTitle": "オープンAIのモデル",
         "articleTitleJa": "公開トレンド: オープンAIのモデル",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-07-22T19:08:58.186Z",
+        "articlePublishedAt": "2026-07-22T21:01:47.668Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -130,17 +131,17 @@
         "topic": "Hugging Face",
         "locationLabel": "米国",
         "bestRank": 1,
-        "appearances": 21,
+        "appearances": 24,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-07-22T19:08:58.144Z",
+        "observedAt": "2026-07-22T21:01:47.618Z",
         "url": "https://x.com/search?q=Hugging%20Face&src=typed_query&f=live",
         "articleTitle": "OpenAI and Hugging Face address security incident during model evaluation",
         "articleTitleJa": "OpenAI と Hugging Face がモデル評価中のセキュリティ インシデントに対処",
         "articleUrl": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
         "articleSource": "openai.com",
         "articlePublishedAt": "2026-07-21T20:09:52Z",
-        "summaryJa": "https://www.axios.com/2026/07/21/openai-says-hugging-face-br... セキュリティインシデントの開示 – 2026 年 7 月 – https://news.ycombinator.com/item?id=48956248 (コメント 9 件) も参照してください。",
+        "summaryJa": "https://www.axios.com/2026/07/21/openai-says-hugging-face-br... 参照 セキュリティインシデントの開示 - 2026 年 7 月 - https://news.ycombinator.com/item?id=48956248 (コメント 9 件) https://www.bbc.com/news/articles/c3ek3gvdnj3o",
         "translationVersion": 3
       },
       {
@@ -150,14 +151,14 @@
         "appearances": 11,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-07-22T19:08:58.144Z",
+        "observedAt": "2026-07-22T21:01:47.618Z",
         "url": "https://x.com/search?q=OpenAI&src=typed_query&f=live",
         "articleTitle": "OpenAI and Hugging Face address security incident during model evaluation",
         "articleTitleJa": "OpenAI と Hugging Face がモデル評価中のセキュリティ インシデントに対処",
         "articleUrl": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
         "articleSource": "openai.com",
         "articlePublishedAt": "2026-07-21T20:09:52Z",
-        "summaryJa": "https://www.axios.com/2026/07/21/openai-says-hugging-face-br... セキュリティインシデントの開示 – 2026 年 7 月 – https://news.ycombinator.com/item?id=48956248 (コメント 9 件) も参照してください。",
+        "summaryJa": "https://www.axios.com/2026/07/21/openai-says-hugging-face-br... 参照 セキュリティインシデントの開示 - 2026 年 7 月 - https://news.ycombinator.com/item?id=48956248 (コメント 9 件) https://www.bbc.com/news/articles/c3ek3gvdnj3o",
         "translationVersion": 3
       },
       {
@@ -167,13 +168,13 @@
         "appearances": 1,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-07-22T19:08:58.144Z",
+        "observedAt": "2026-07-22T21:01:47.618Z",
         "url": "https://x.com/search?q=MetalCore%20AI&src=typed_query&f=live",
         "articleTitle": "MetalCore AI",
         "articleTitleJa": "公開トレンド: MetalCore AI",
         "articleUrl": "https://trends24.in/united-states/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-07-22T19:08:58.144Z",
+        "articlePublishedAt": "2026-07-22T21:01:47.618Z",
         "summaryJa": "米国のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -185,7 +186,7 @@
         "appearances": 1,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/australia/",
-        "observedAt": "2026-07-22T19:08:58.286Z",
+        "observedAt": "2026-07-22T21:01:47.692Z",
         "url": "https://x.com/search?q=ChatGPT%20Work&src=typed_query&f=live",
         "articleTitle": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)",
         "articleTitleJa": "HN を表示: Bento - PowerPoint 全体を 1 つの HTML ファイルにまとめたもの (編集+表示+データ+コラボレーション)",
@@ -196,10 +197,10 @@
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-07-22T19:08:58.304Z",
+    "fetchedAt": "2026-07-22T21:01:47.732Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": false,
-    "articleFetchedAt": "2026-07-22T19:09:00.915Z"
+    "articleFetchedAt": "2026-07-22T21:01:51.786Z"
   }
 }
