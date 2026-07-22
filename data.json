@@ -2,10 +2,31 @@
   "news": {
     "items": [
       {
+        "title": "Synthesia’s AI training platform is moving beyond videos into live coaching",
+        "url": "https://techcrunch.com/2026/07/22/synthesias-ai-training-platform-is-moving-beyond-videos-into-live-coaching/",
+        "points": 133,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-07-22T08:00:00.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
+        "category": "AIニュース",
+        "impact": "高",
+        "titleJa": "SynthesiaのAIトレーニングプラットフォームは、ビデオを超えてライブコーチングに移行しています",
+        "summaryJa": "この記事は「SynthesiaのAIトレーニングプラットフォームは、ビデオを超えてライブコーチングに移行しています」を扱っています。Synthesiaは、インタラクティブなエンタープライズトレーニングプラットフォームであるAIロールプレイセッションを立ち上げました。従業員は、フィードバック、スコアリング、分析を提供するAIアバターとの職場での会話を練習し、企業がトレーニングの効果を測定するのに役立ちます。",
+        "keyPoints": [
+          "この記事は「SynthesiaのAIトレーニングプラットフォームは、ビデオを超えてライブコーチングに移行しています」を扱っています。",
+          "Synthesiaは、インタラクティブなエンタープライズトレーニングプラットフォームであるAIロールプレイセッションを立ち上げました。",
+          "従業員は、フィードバック、スコアリング、分析を提供するAIアバターとの職場での会話を練習し、企業がトレーニングの効果を測定するのに役立ちます。"
+        ]
+      },
+      {
         "title": "OpenAI and Hugging Face address security incident during model evaluation",
         "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
         "points": 127,
-        "comments": 640,
+        "comments": 727,
         "author": "mfiguiere",
         "createdAt": "2026-07-21T20:09:52Z",
         "domain": "openai.com",
@@ -42,31 +63,10 @@
         ]
       },
       {
-        "title": "Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents",
-        "url": "https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/",
-        "points": 107,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-07-21T19:43:41.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
-        "category": "AIニュース",
-        "impact": "高",
-        "titleJa": "Jack Dorseyは、チームとAIエージェント向けのグループチャットプラットフォームであるBuzzでSlackに挑戦しています",
-        "summaryJa": "この記事は「Jack Dorseyは、チームとAIエージェント向けのグループチャットプラットフォームであるBuzzでSlackに挑戦しています」を扱っています。Buzzは、人間とAIエージェントを同じ会話に参加させる、職場向けのグループチャットプラットフォームです。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
-        "keyPoints": [
-          "この記事は「Jack Dorseyは、チームとAIエージェント向けのグループチャットプラットフォームであるBuzzでSlackに挑戦しています」を扱っています。",
-          "Buzzは、人間とAIエージェントを同じ会話に参加させる、職場向けのグループチャットプラットフォームです。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
-        ]
-      },
-      {
         "title": "Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
         "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/",
         "points": 101,
-        "comments": 511,
+        "comments": 517,
         "author": "logickkk1",
         "createdAt": "2026-07-21T15:17:16Z",
         "domain": "blog.google",
@@ -86,7 +86,7 @@
         "title": "Judge approves $1.5B Anthropic settlement for pirated books used to train Claude",
         "url": "https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63",
         "points": 93,
-        "comments": 171,
+        "comments": 242,
         "author": "BeetleB",
         "createdAt": "2026-07-21T19:04:39Z",
         "domain": "apnews.com",
@@ -103,7 +103,7 @@
         ]
       }
     ],
-    "fetchedAt": "2026-07-22T05:45:29.331Z",
+    "fetchedAt": "2026-07-22T08:21:39.871Z",
     "mock": false
   },
   "xTrends": {
@@ -115,13 +115,13 @@
         "appearances": 10,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-07-22T05:45:29.269Z",
+        "observedAt": "2026-07-22T08:21:39.803Z",
         "url": "https://x.com/search?q=Gemini%203.6%20Flash&src=typed_query&f=live",
         "articleTitle": "Gemini 3.6 Flash",
         "articleTitleJa": "公開トレンド: Gemini 3.6 Flash",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-07-22T05:45:29.269Z",
+        "articlePublishedAt": "2026-07-22T08:21:39.803Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -129,11 +129,11 @@
       {
         "topic": "Hugging Face",
         "locationLabel": "米国",
-        "bestRank": 9,
-        "appearances": 11,
+        "bestRank": 4,
+        "appearances": 14,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-07-22T05:45:29.295Z",
+        "observedAt": "2026-07-22T08:21:39.783Z",
         "url": "https://x.com/search?q=Hugging%20Face&src=typed_query&f=live",
         "articleTitle": "OpenAI and Hugging Face address security incident during model evaluation",
         "articleTitleJa": "OpenAI と Hugging Face がモデル評価中のセキュリティ インシデントに対処",
@@ -144,30 +144,13 @@
         "translationVersion": 3
       },
       {
-        "topic": "ChatGPT Work",
-        "locationLabel": "米国",
-        "bestRank": 28,
-        "appearances": 5,
-        "trendSource": "Trends24",
-        "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-07-22T05:45:29.295Z",
-        "url": "https://x.com/search?q=ChatGPT%20Work&src=typed_query&f=live",
-        "articleTitle": "Show HN: My triathlon coach (not a human) now texts me on iMessage",
-        "articleTitleJa": "Show HN: 私のトライアスロンコーチ (人間ではありません) が iMessage で私にテキストメッセージを送ってきました",
-        "articleUrl": "https://www.athletedata.health",
-        "articleSource": "athletedata.health",
-        "articlePublishedAt": "2026-07-16T10:39:07Z",
-        "summaryJa": "2018年にトライアスロンを始めたとき、私の「トレーニング計画」は、自分がやったことをApple Notesに書き留め、YouTubeを見てアドバイスを得ることでした。その後、初めてのフルディスタンスのアイアンマンに向けたトレーニングを行ったとき、私は、後でセルフコーチングできるように早期に学習することを目標として、コーチに月額 130 ユーロを支払いました。固定プラン (再利用できる 40 週間プランを購入) に切り替えたとき、毎週日曜日に 20 ～ 30 分をかけて、仕事、旅行、プライベートな予定に関するセッションを入れ替えるようになりました。早いうちに",
-        "translationVersion": 3
-      },
-      {
         "topic": "Gemini 4",
         "locationLabel": "米国",
         "bestRank": 28,
         "appearances": 3,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-07-22T05:45:29.295Z",
+        "observedAt": "2026-07-22T08:21:39.783Z",
         "url": "https://x.com/search?q=Gemini%204&src=typed_query&f=live",
         "articleTitle": "Google launches Gemini 3.6 Flash and teases Gemini 4",
         "articleTitleJa": "Google、Gemini 3.6 Flashを発表し、Gemini 4をからかう",
@@ -176,12 +159,29 @@
         "articlePublishedAt": "2026-07-21T15:13:05Z",
         "summaryJa": "3.5 Pro を待つ間、Google は本日、Gemini 3.6 Flash と 3.5 Flash-Lite を発表するとともに、次に来るものについての最新情報を提供しました。",
         "translationVersion": 3
+      },
+      {
+        "topic": "ChatGPT Work",
+        "locationLabel": "豪州",
+        "bestRank": 29,
+        "appearances": 2,
+        "trendSource": "Trends24",
+        "sourceUrl": "https://trends24.in/australia/",
+        "observedAt": "2026-07-22T08:21:39.824Z",
+        "url": "https://x.com/search?q=ChatGPT%20Work&src=typed_query&f=live",
+        "articleTitle": "Show HN: My triathlon coach (not a human) now texts me on iMessage",
+        "articleTitleJa": "Show HN: 私のトライアスロンコーチ (人間ではありません) が iMessage で私にテキストメッセージを送ってきました",
+        "articleUrl": "https://www.athletedata.health",
+        "articleSource": "athletedata.health",
+        "articlePublishedAt": "2026-07-16T10:39:07Z",
+        "summaryJa": "2018年にトライアスロンを始めたとき、私の「トレーニング計画」は、自分がやったことをApple Notesに書き留め、YouTubeを見てアドバイスを得ることでした。その後、初めてのフルディスタンスのアイアンマンに向けたトレーニングを行ったとき、私は、後でセルフコーチングできるように早期に学習することを目標として、コーチに月額 130 ユーロを支払いました。固定プラン (再利用できる 40 週間プランを購入) に切り替えたとき、毎週日曜日に 20 ～ 30 分をかけて、仕事、旅行、プライベートな予定に関するセッションを入れ替えるようになりました。早いうちに",
+        "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-07-22T05:45:29.331Z",
+    "fetchedAt": "2026-07-22T08:21:39.871Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-22T05:45:32.204Z"
+    "articleFetchedAt": "2026-07-22T08:21:42.882Z"
   }
 }
