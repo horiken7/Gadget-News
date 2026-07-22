@@ -26,7 +26,7 @@
         "title": "OpenAI and Hugging Face address security incident during model evaluation",
         "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
         "points": 127,
-        "comments": 912,
+        "comments": 979,
         "author": "mfiguiere",
         "createdAt": "2026-07-21T20:09:52Z",
         "domain": "openai.com",
@@ -63,30 +63,10 @@
         ]
       },
       {
-        "title": "Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
-        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/",
-        "points": 101,
-        "comments": 544,
-        "author": "logickkk1",
-        "createdAt": "2026-07-21T15:17:16Z",
-        "domain": "blog.google",
-        "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "AIニュース: Gemini 3.6 Flash、3.5 Flash - Lite、3.5 Flash Cyber",
-        "summaryJa": "この記事は「Gemini 3.6 Flash、3.5 Flash - Lite、3.5 Flash Cyber」を扱っています。blog.googleが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
-        "keyPoints": [
-          "この記事は「Gemini 3.6 Flash、3.5 Flash - Lite、3.5 Flash Cyber」を扱っています。",
-          "blog.googleが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
-        ]
-      },
-      {
         "title": "Judge approves $1.5B Anthropic settlement for pirated books used to train Claude",
         "url": "https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63",
         "points": 93,
-        "comments": 415,
+        "comments": 487,
         "author": "BeetleB",
         "createdAt": "2026-07-21T19:04:39Z",
         "domain": "apnews.com",
@@ -101,31 +81,33 @@
           "連邦裁判所は、AI企業Anthropicを巻き込んだ15億$の著作権和解を承認した。",
           "同社は、海賊版コピーを使用してClaudeチャットボットを訓練するために、本1冊あたり約3,000 $を数千人の著者に支払う予定です。"
         ]
+      },
+      {
+        "title": "Advertise in ChatGPT",
+        "url": "https://ads.openai.com/",
+        "points": 73,
+        "comments": 772,
+        "author": "montecarl",
+        "createdAt": "2026-07-21T18:58:44Z",
+        "domain": "ads.openai.com",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "ChatGPTで広告する",
+        "summaryJa": "この記事は「ChatGPTで広告する」を扱っています。ads.openai.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "keyPoints": [
+          "この記事は「ChatGPTで広告する」を扱っています。",
+          "ads.openai.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+        ]
       }
     ],
-    "fetchedAt": "2026-07-22T13:42:25.160Z",
+    "fetchedAt": "2026-07-22T15:37:20.843Z",
     "mock": false
   },
   "xTrends": {
     "items": [
-      {
-        "topic": "Gemini 3.6 Flash",
-        "locationLabel": "日本",
-        "bestRank": 15,
-        "appearances": 6,
-        "trendSource": "Trends24",
-        "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-07-22T13:42:25.103Z",
-        "url": "https://x.com/search?q=Gemini%203.6%20Flash&src=typed_query&f=live",
-        "articleTitle": "Gemini 3.6 Flash",
-        "articleTitleJa": "公開トレンド: Gemini 3.6 Flash",
-        "articleUrl": "https://trends24.in/japan/",
-        "articleSource": "Trends24",
-        "articlePublishedAt": "2026-07-22T13:42:25.103Z",
-        "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
-        "translationVersion": 3,
-        "articleFallback": true
-      },
       {
         "topic": "オープンAIのモデル",
         "locationLabel": "日本",
@@ -133,13 +115,31 @@
         "appearances": 3,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-07-22T13:42:25.103Z",
+        "observedAt": "2026-07-22T15:37:20.824Z",
         "url": "https://x.com/search?q=%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3AI%E3%81%AE%E3%83%A2%E3%83%87%E3%83%AB&src=typed_query&f=live",
         "articleTitle": "オープンAIのモデル",
         "articleTitleJa": "公開トレンド: オープンAIのモデル",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-07-22T13:42:25.103Z",
+        "articlePublishedAt": "2026-07-22T15:37:20.824Z",
+        "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
+        "translationVersion": 3,
+        "articleFallback": true
+      },
+      {
+        "topic": "Gemini 3.6 Flash",
+        "locationLabel": "日本",
+        "bestRank": 34,
+        "appearances": 2,
+        "trendSource": "Trends24",
+        "sourceUrl": "https://trends24.in/japan/",
+        "observedAt": "2026-07-22T15:37:20.824Z",
+        "url": "https://x.com/search?q=Gemini%203.6%20Flash&src=typed_query&f=live",
+        "articleTitle": "Gemini 3.6 Flash",
+        "articleTitleJa": "公開トレンド: Gemini 3.6 Flash",
+        "articleUrl": "https://trends24.in/japan/",
+        "articleSource": "Trends24",
+        "articlePublishedAt": "2026-07-22T15:37:20.824Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -147,11 +147,11 @@
       {
         "topic": "Hugging Face",
         "locationLabel": "米国",
-        "bestRank": 2,
-        "appearances": 22,
+        "bestRank": 1,
+        "appearances": 23,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-07-22T13:42:25.046Z",
+        "observedAt": "2026-07-22T15:37:20.742Z",
         "url": "https://x.com/search?q=Hugging%20Face&src=typed_query&f=live",
         "articleTitle": "OpenAI and Hugging Face address security incident during model evaluation",
         "articleTitleJa": "OpenAI と Hugging Face がモデル評価中のセキュリティ インシデントに対処",
@@ -164,11 +164,11 @@
       {
         "topic": "OpenAI",
         "locationLabel": "米国",
-        "bestRank": 1,
-        "appearances": 5,
+        "bestRank": 3,
+        "appearances": 7,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-07-22T13:42:25.046Z",
+        "observedAt": "2026-07-22T15:37:20.742Z",
         "url": "https://x.com/search?q=OpenAI&src=typed_query&f=live",
         "articleTitle": "OpenAI and Hugging Face address security incident during model evaluation",
         "articleTitleJa": "OpenAI と Hugging Face がモデル評価中のセキュリティ インシデントに対処",
@@ -185,7 +185,7 @@
         "appearances": 1,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/australia/",
-        "observedAt": "2026-07-22T13:42:25.124Z",
+        "observedAt": "2026-07-22T15:37:20.785Z",
         "url": "https://x.com/search?q=ChatGPT%20Work&src=typed_query&f=live",
         "articleTitle": "Show HN: Recall – an MCP server that turns your notes into flashcards",
         "articleTitleJa": "Show HN: Recall – メモをフラッシュカードに変える MCP サーバー",
@@ -196,10 +196,10 @@
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-07-22T13:42:25.160Z",
+    "fetchedAt": "2026-07-22T15:37:20.843Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": false,
-    "articleFetchedAt": "2026-07-22T13:42:29.934Z"
+    "articleFetchedAt": "2026-07-22T15:37:25.702Z"
   }
 }
