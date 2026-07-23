@@ -5,7 +5,7 @@
         "title": "OpenAI’s accidental attack against Hugging Face is science fiction that happened",
         "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack/",
         "points": 147,
-        "comments": 185,
+        "comments": 250,
         "author": "abhisek",
         "createdAt": "2026-07-23T01:16:14Z",
         "domain": "simonwillison.net",
@@ -18,6 +18,27 @@
         "keyPoints": [
           "この記事は「Hugging Faceに対するOpenAIの偶発的な攻撃は、起こったサイエンスフィクションです」を扱っています。",
           "OpenAIとHugging Faceは、モデル評価中にセキュリティインシデントに対処- https://news.ycombinator.com/item?技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+        ]
+      },
+      {
+        "title": "Anthropic updates Claude voice mode with more capable models",
+        "url": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/",
+        "points": 107,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-07-23T19:00:00.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
+        "category": "AIモデル",
+        "impact": "高",
+        "titleJa": "Anthropicは、より機能的なモデルでClaude音声モードを更新します",
+        "summaryJa": "この記事は「Anthropicは、より機能的なモデルでClaude音声モードを更新します」を扱っています。Claudeの新しい音声モデルを使用すると、会議のスケジュールを変更したり、メールの下書きを作成したりできます。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "keyPoints": [
+          "この記事は「Anthropicは、より機能的なモデルでClaude音声モードを更新します」を扱っています。",
+          "Claudeの新しい音声モデルを使用すると、会議のスケジュールを変更したり、メールの下書きを作成したりできます。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       },
       {
@@ -42,126 +63,51 @@
         ]
       },
       {
-        "title": "How OpenAI’s human mistake led to the AI-powered hack on Hugging Face",
-        "url": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/",
-        "points": 107,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-07-22T19:11:46.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
-        "category": "AIニュース",
-        "impact": "高",
-        "titleJa": "OpenAIのヒューマンミスがHugging FaceのAIハッキングにどのようにつながったか",
-        "summaryJa": "この記事は「OpenAIのヒューマンミスがHugging FaceのAIハッキングにどのようにつながったか」を扱っています。OpenAIは、「高度に隔離された」テスト環境とサンドボックスと呼ばれるものを設定する際に間違いを犯しました。サイバーセキュリティの専門家によると、その人為的なミスが、Hugging Faceに対するAI攻撃を可能にしたのです。",
-        "keyPoints": [
-          "この記事は「OpenAIのヒューマンミスがHugging FaceのAIハッキングにどのようにつながったか」を扱っています。",
-          "OpenAIは、「高度に隔離された」テスト環境とサンドボックスと呼ばれるものを設定する際に間違いを犯しました。",
-          "サイバーセキュリティの専門家によると、その人為的なミスが、Hugging Faceに対するAI攻撃を可能にしたのです。"
-        ]
-      },
-      {
-        "title": "Show HN: Cactus Hybrid: We taught Gemma 4 to know when it's wrong",
-        "url": "https://github.com/cactus-compute/cactus-hybrid",
-        "points": 101,
-        "comments": 38,
-        "author": "HenryNdubuaku",
-        "createdAt": "2026-07-22T17:56:29Z",
-        "domain": "github.com",
+        "title": "OpenAI and Anthropic unite against open-weight AI risks to their bottom line",
+        "url": "https://www.axios.com/2026/07/22/openai-anthropic-open-models-trump-china",
+        "points": 93,
+        "comments": 295,
+        "author": "yogthos",
+        "createdAt": "2026-07-23T13:00:03Z",
+        "domain": "axios.com",
         "sourceType": "hn",
         "category": "AIニュース",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "HN ：サボテンハイブリッド： Gemma 4に間違っていることを知るように教えました",
-        "summaryJa": "この記事は「HN ：サボテンハイブリッド： Gemma 4に間違っていることを知るように教えました」を扱っています。こんにちは、サボテンのHN、ヘンリー、ローマンです。小型のオンデバイスモデルは高速でプライベートですが、時には間違っていますが、フロンティアモデルはかなり早く高価になっています。",
+        "titleJa": "OpenAIとAnthropicは、彼らの収益に対するオープンウェイトAIリスクに対して団結します",
+        "summaryJa": "この記事は「OpenAIとAnthropicは、彼らの収益に対するオープンウェイトAIリスクに対して団結します」を扱っています。axios.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
         "keyPoints": [
-          "この記事は「HN ：サボテンハイブリッド： Gemma 4に間違っていることを知るように教えました」を扱っています。",
-          "こんにちは、サボテンのHN、ヘンリー、ローマンです。",
-          "小型のオンデバイスモデルは高速でプライベートですが、時には間違っていますが、フロンティアモデルはかなり早く高価になっています。"
+          "この記事は「OpenAIとAnthropicは、彼らの収益に対するオープンウェイトAIリスクに対して団結します」を扱っています。",
+          "axios.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
       },
       {
-        "title": "Anthropomorphism in Children's Interactions with LLM Chatbots",
-        "url": "https://arxiv.org/abs/2607.18250",
-        "points": 97,
-        "comments": 38,
-        "author": "StatsAreFun",
-        "createdAt": "2026-07-22T22:49:58Z",
-        "domain": "arxiv.org",
+        "title": "The arguments against open source AI are bad",
+        "url": "https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/",
+        "points": 87,
+        "comments": 35,
+        "author": "jjfoooo4",
+        "createdAt": "2026-07-23T16:49:57Z",
+        "domain": "tombedor.dev",
         "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "低",
+        "category": "AIニュース",
+        "impact": "中",
         "newsLens": "技術",
-        "titleJa": "LLMチャットボットとの子供の相互作用における擬人化",
-        "summaryJa": "この記事は「LLMチャットボットとの子供の相互作用における擬人化」を扱っています。ArXiv論文2607.18250の要約ページ： LLMチャットボットとの子供の相互作用における擬人化：ドライバーと結果の体系的レビュー。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "titleJa": "オープンソースAIに反対する議論は悪い",
+        "summaryJa": "この記事は「オープンソースAIに反対する議論は悪い」を扱っています。Kimi K 3のリリースは、新たな不安と混乱した談話を開きました。オープンソースAIは危険な脅威であると主張するジャーナリスト、ビジネスリーダー、政治家の大勢がいます。",
         "keyPoints": [
-          "この記事は「LLMチャットボットとの子供の相互作用における擬人化」を扱っています。",
-          "ArXiv論文2607.18250の要約ページ： LLMチャットボットとの子供の相互作用における擬人化：ドライバーと結果の体系的レビュー。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+          "この記事は「オープンソースAIに反対する議論は悪い」を扱っています。",
+          "Kimi K 3のリリースは、新たな不安と混乱した談話を開きました。",
+          "オープンソースAIは危険な脅威であると主張するジャーナリスト、ビジネスリーダー、政治家の大勢がいます。"
         ]
       }
     ],
-    "fetchedAt": "2026-07-23T17:17:12.996Z",
+    "fetchedAt": "2026-07-23T19:08:47.707Z",
     "mock": false
   },
   "xTrends": {
     "items": [
-      {
-        "topic": "別のAI新興企業",
-        "locationLabel": "日本",
-        "bestRank": 31,
-        "appearances": 2,
-        "trendSource": "Trends24",
-        "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-07-23T17:17:12.745Z",
-        "url": "https://x.com/search?q=%E5%88%A5%E3%81%AEAI%E6%96%B0%E8%88%88%E4%BC%81%E6%A5%AD&src=typed_query&f=live",
-        "articleTitle": "別のAI新興企業",
-        "articleTitleJa": "公開トレンド: 別のAI新興企業",
-        "articleUrl": "https://trends24.in/japan/",
-        "articleSource": "Trends24",
-        "articlePublishedAt": "2026-07-23T17:17:12.745Z",
-        "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
-        "translationVersion": 3,
-        "articleFallback": true
-      },
-      {
-        "topic": "オープンAI",
-        "locationLabel": "日本",
-        "bestRank": 33,
-        "appearances": 2,
-        "trendSource": "Trends24",
-        "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-07-23T17:17:12.745Z",
-        "url": "https://x.com/search?q=%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3AI&src=typed_query&f=live",
-        "articleTitle": "オープンAI",
-        "articleTitleJa": "公開トレンド: オープンAI",
-        "articleUrl": "https://trends24.in/japan/",
-        "articleSource": "Trends24",
-        "articlePublishedAt": "2026-07-23T17:17:12.745Z",
-        "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
-        "translationVersion": 3,
-        "articleFallback": true
-      },
-      {
-        "topic": "開発中のAI",
-        "locationLabel": "日本",
-        "bestRank": 36,
-        "appearances": 2,
-        "trendSource": "Trends24",
-        "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-07-23T17:17:12.745Z",
-        "url": "https://x.com/search?q=%E9%96%8B%E7%99%BA%E4%B8%AD%E3%81%AEAI&src=typed_query&f=live",
-        "articleTitle": "開発中のAI",
-        "articleTitleJa": "公開トレンド: 開発中のAI",
-        "articleUrl": "https://trends24.in/japan/",
-        "articleSource": "Trends24",
-        "articlePublishedAt": "2026-07-23T17:17:12.745Z",
-        "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
-        "translationVersion": 3,
-        "articleFallback": true
-      },
       {
         "topic": "Hugging Face",
         "locationLabel": "米国",
@@ -169,7 +115,7 @@
         "appearances": 25,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-07-23T17:17:12.724Z",
+        "observedAt": "2026-07-23T19:08:47.660Z",
         "url": "https://x.com/search?q=Hugging%20Face&src=typed_query&f=live",
         "articleTitle": "OpenAI and Hugging Face address security incident during model evaluation",
         "articleTitleJa": "OpenAI と Hugging Face がモデル評価中のセキュリティ インシデントに対処",
@@ -180,10 +126,10 @@
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-07-23T17:17:12.996Z",
+    "fetchedAt": "2026-07-23T19:08:47.707Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-23T17:17:15.686Z"
+    "articleFetchedAt": "2026-07-23T19:08:48.319Z"
   }
 }
