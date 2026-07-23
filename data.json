@@ -2,31 +2,10 @@
   "news": {
     "items": [
       {
-        "title": "Synthesia’s AI training platform is moving beyond videos into live coaching",
-        "url": "https://techcrunch.com/2026/07/22/synthesias-ai-training-platform-is-moving-beyond-videos-into-live-coaching/",
-        "points": 133,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-07-22T08:00:00.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
-        "category": "AIニュース",
-        "impact": "高",
-        "titleJa": "SynthesiaのAIトレーニングプラットフォームは、ビデオを超えてライブコーチングに移行しています",
-        "summaryJa": "この記事は「SynthesiaのAIトレーニングプラットフォームは、ビデオを超えてライブコーチングに移行しています」を扱っています。Synthesiaは、インタラクティブなエンタープライズトレーニングプラットフォームであるAIロールプレイセッションを立ち上げました。従業員は、フィードバック、スコアリング、分析を提供するAIアバターとの職場での会話を練習し、企業がトレーニングの効果を測定するのに役立ちます。",
-        "keyPoints": [
-          "この記事は「SynthesiaのAIトレーニングプラットフォームは、ビデオを超えてライブコーチングに移行しています」を扱っています。",
-          "Synthesiaは、インタラクティブなエンタープライズトレーニングプラットフォームであるAIロールプレイセッションを立ち上げました。",
-          "従業員は、フィードバック、スコアリング、分析を提供するAIアバターとの職場での会話を練習し、企業がトレーニングの効果を測定するのに役立ちます。"
-        ]
-      },
-      {
         "title": "OpenAI’s accidental attack against Hugging Face is science fiction that happened",
         "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack/",
-        "points": 114,
-        "comments": 82,
+        "points": 116,
+        "comments": 99,
         "author": "abhisek",
         "createdAt": "2026-07-23T01:16:14Z",
         "domain": "simonwillison.net",
@@ -64,10 +43,31 @@
         ]
       },
       {
+        "title": "Travis Kalanick’s robotics company raises $1.7B, led by a16z",
+        "url": "https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/",
+        "points": 107,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-07-22T18:50:44.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
+        "category": "ハードウェア",
+        "impact": "高",
+        "titleJa": "Travis Kalanickのロボット会社が17億$を調達、a 16 zがリード",
+        "summaryJa": "この記事は「Travis Kalanickのロボット会社が17億$を調達、a 16 zがリード」を扱っています。Uberはまた、産業用AIを使用して世界を近代化するというガージーな主張をしているTravis Kalanickの会社Atomsにも投資しています。一般向けには、AIがソフトウェアだけでなく、ロボットや端末など現実の製品に広がっている点が重要です。",
+        "keyPoints": [
+          "この記事は「Travis Kalanickのロボット会社が17億$を調達、a 16 zがリード」を扱っています。",
+          "Uberはまた、産業用AIを使用して世界を近代化するというガージーな主張をしているTravis Kalanickの会社Atomsにも投資しています。",
+          "一般向けには、AIがソフトウェアだけでなく、ロボットや端末など現実の製品に広がっている点が重要です。"
+        ]
+      },
+      {
         "title": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)",
         "url": "https://bento.page/slides/",
         "points": 101,
-        "comments": 175,
+        "comments": 189,
         "author": "starfallg",
         "createdAt": "2026-07-22T15:19:23Z",
         "domain": "bento.page",
@@ -86,8 +86,8 @@
       {
         "title": "Show HN: Cactus Hybrid: We taught Gemma 4 to know when it's wrong",
         "url": "https://github.com/cactus-compute/cactus-hybrid",
-        "points": 99,
-        "comments": 16,
+        "points": 101,
+        "comments": 25,
         "author": "HenryNdubuaku",
         "createdAt": "2026-07-22T17:56:29Z",
         "domain": "github.com",
@@ -104,7 +104,7 @@
         ]
       }
     ],
-    "fetchedAt": "2026-07-23T07:29:38.930Z",
+    "fetchedAt": "2026-07-23T10:17:04.057Z",
     "mock": false
   },
   "xTrends": {
@@ -116,13 +116,13 @@
         "appearances": 2,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-07-23T07:29:38.886Z",
+        "observedAt": "2026-07-23T10:17:03.999Z",
         "url": "https://x.com/search?q=%E5%88%A5%E3%81%AEAI%E6%96%B0%E8%88%88%E4%BC%81%E6%A5%AD&src=typed_query&f=live",
         "articleTitle": "別のAI新興企業",
         "articleTitleJa": "公開トレンド: 別のAI新興企業",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-07-23T07:29:38.886Z",
+        "articlePublishedAt": "2026-07-23T10:17:03.999Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -134,13 +134,13 @@
         "appearances": 2,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-07-23T07:29:38.886Z",
+        "observedAt": "2026-07-23T10:17:03.999Z",
         "url": "https://x.com/search?q=%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3AI&src=typed_query&f=live",
         "articleTitle": "オープンAI",
         "articleTitleJa": "公開トレンド: オープンAI",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-07-23T07:29:38.886Z",
+        "articlePublishedAt": "2026-07-23T10:17:03.999Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -152,13 +152,13 @@
         "appearances": 2,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-07-23T07:29:38.886Z",
+        "observedAt": "2026-07-23T10:17:03.999Z",
         "url": "https://x.com/search?q=%E9%96%8B%E7%99%BA%E4%B8%AD%E3%81%AEAI&src=typed_query&f=live",
         "articleTitle": "開発中のAI",
         "articleTitleJa": "公開トレンド: 開発中のAI",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-07-23T07:29:38.886Z",
+        "articlePublishedAt": "2026-07-23T10:17:03.999Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -166,11 +166,11 @@
       {
         "topic": "Hugging Face",
         "locationLabel": "米国",
-        "bestRank": 4,
-        "appearances": 25,
+        "bestRank": 6,
+        "appearances": 24,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-07-23T07:29:38.834Z",
+        "observedAt": "2026-07-23T10:17:03.983Z",
         "url": "https://x.com/search?q=Hugging%20Face&src=typed_query&f=live",
         "articleTitle": "OpenAI and Hugging Face address security incident during model evaluation",
         "articleTitleJa": "OpenAI と Hugging Face がモデル評価中のセキュリティ インシデントに対処",
@@ -183,11 +183,11 @@
       {
         "topic": "OpenAI",
         "locationLabel": "米国",
-        "bestRank": 2,
-        "appearances": 6,
+        "bestRank": 16,
+        "appearances": 3,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-07-23T07:29:38.834Z",
+        "observedAt": "2026-07-23T10:17:03.983Z",
         "url": "https://x.com/search?q=OpenAI&src=typed_query&f=live",
         "articleTitle": "OpenAI and Hugging Face address security incident during model evaluation",
         "articleTitleJa": "OpenAI と Hugging Face がモデル評価中のセキュリティ インシデントに対処",
@@ -198,10 +198,10 @@
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-07-23T07:29:38.930Z",
+    "fetchedAt": "2026-07-23T10:17:04.057Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": false,
-    "articleFetchedAt": "2026-07-23T07:29:40.533Z"
+    "articleFetchedAt": "2026-07-23T10:17:05.726Z"
   }
 }
