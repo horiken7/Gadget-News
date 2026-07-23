@@ -23,6 +23,26 @@
         ]
       },
       {
+        "title": "OpenAI’s accidental attack against Hugging Face is science fiction that happened",
+        "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack/",
+        "points": 114,
+        "comments": 82,
+        "author": "abhisek",
+        "createdAt": "2026-07-23T01:16:14Z",
+        "domain": "simonwillison.net",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "Hugging Faceに対するOpenAIの偶発的な攻撃は、起こったサイエンスフィクションです",
+        "summaryJa": "この記事は「Hugging Faceに対するOpenAIの偶発的な攻撃は、起こったサイエンスフィクションです」を扱っています。ショートバージョン： OpenAIは、モデルのガードレール機能をオフにして、未リリースのモデルに対してサイバーセキュリティテストを実行していました。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "keyPoints": [
+          "この記事は「Hugging Faceに対するOpenAIの偶発的な攻撃は、起こったサイエンスフィクションです」を扱っています。",
+          "ショートバージョン： OpenAIは、モデルのガードレール機能をオフにして、未リリースのモデルに対してサイバーセキュリティテストを実行していました。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+        ]
+      },
+      {
         "title": "How OpenAI’s human mistake led to the AI-powered hack on Hugging Face",
         "url": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/",
         "points": 107,
@@ -47,7 +67,7 @@
         "title": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)",
         "url": "https://bento.page/slides/",
         "points": 101,
-        "comments": 158,
+        "comments": 175,
         "author": "starfallg",
         "createdAt": "2026-07-22T15:19:23Z",
         "domain": "bento.page",
@@ -64,30 +84,10 @@
         ]
       },
       {
-        "title": "Can a MUD evaluate LLMs? A $99 proof of concept",
-        "url": "https://cruciblebench.ai/",
-        "points": 94,
-        "comments": 70,
-        "author": "Davisb135",
-        "createdAt": "2026-07-22T15:39:01Z",
-        "domain": "cruciblebench.ai",
-        "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "MUDはLLMを評価できますか？ 99 $のコンセプト実証",
-        "summaryJa": "この記事は「MUDはLLMを評価できますか？ 99 $のコンセプト実証」を扱っています。私は友人の論文の著者であり、1970年代に始まったテキストゲームであるMUDをLLMの評価に使用できるかどうか興味があった後に書きました。私たちはこの数ヶ月間、夜と週末にこの実験を行い、約99 $のAPIクレジットを持つパソコンだけで論文を書いてきました。",
-        "keyPoints": [
-          "この記事は「MUDはLLMを評価できますか。",
-          "99 $のコンセプト実証」を扱っています。",
-          "私は友人の論文の著者であり、1970年代に始まったテキストゲームであるMUDをLLMの評価に使用できるかどうか興味があった後に書きました。"
-        ]
-      },
-      {
         "title": "Show HN: Cactus Hybrid: We taught Gemma 4 to know when it's wrong",
         "url": "https://github.com/cactus-compute/cactus-hybrid",
-        "points": 92,
-        "comments": 14,
+        "points": 99,
+        "comments": 16,
         "author": "HenryNdubuaku",
         "createdAt": "2026-07-22T17:56:29Z",
         "domain": "github.com",
@@ -104,7 +104,7 @@
         ]
       }
     ],
-    "fetchedAt": "2026-07-23T04:12:16.736Z",
+    "fetchedAt": "2026-07-23T07:29:38.930Z",
     "mock": false
   },
   "xTrends": {
@@ -116,31 +116,13 @@
         "appearances": 2,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-07-23T04:12:16.721Z",
+        "observedAt": "2026-07-23T07:29:38.886Z",
         "url": "https://x.com/search?q=%E5%88%A5%E3%81%AEAI%E6%96%B0%E8%88%88%E4%BC%81%E6%A5%AD&src=typed_query&f=live",
         "articleTitle": "別のAI新興企業",
         "articleTitleJa": "公開トレンド: 別のAI新興企業",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-07-23T04:12:16.721Z",
-        "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
-        "translationVersion": 3,
-        "articleFallback": true
-      },
-      {
-        "topic": "オープンAIのモデル",
-        "locationLabel": "日本",
-        "bestRank": 32,
-        "appearances": 2,
-        "trendSource": "Trends24",
-        "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-07-23T04:12:16.721Z",
-        "url": "https://x.com/search?q=%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3AI%E3%81%AE%E3%83%A2%E3%83%87%E3%83%AB&src=typed_query&f=live",
-        "articleTitle": "オープンAIのモデル",
-        "articleTitleJa": "公開トレンド: オープンAIのモデル",
-        "articleUrl": "https://trends24.in/japan/",
-        "articleSource": "Trends24",
-        "articlePublishedAt": "2026-07-23T04:12:16.721Z",
+        "articlePublishedAt": "2026-07-23T07:29:38.886Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -152,13 +134,13 @@
         "appearances": 2,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-07-23T04:12:16.721Z",
+        "observedAt": "2026-07-23T07:29:38.886Z",
         "url": "https://x.com/search?q=%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3AI&src=typed_query&f=live",
         "articleTitle": "オープンAI",
         "articleTitleJa": "公開トレンド: オープンAI",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-07-23T04:12:16.721Z",
+        "articlePublishedAt": "2026-07-23T07:29:38.886Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -170,13 +152,13 @@
         "appearances": 2,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-07-23T04:12:16.721Z",
+        "observedAt": "2026-07-23T07:29:38.886Z",
         "url": "https://x.com/search?q=%E9%96%8B%E7%99%BA%E4%B8%AD%E3%81%AEAI&src=typed_query&f=live",
         "articleTitle": "開発中のAI",
         "articleTitleJa": "公開トレンド: 開発中のAI",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-07-23T04:12:16.721Z",
+        "articlePublishedAt": "2026-07-23T07:29:38.886Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -188,8 +170,25 @@
         "appearances": 25,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-07-23T04:12:16.598Z",
+        "observedAt": "2026-07-23T07:29:38.834Z",
         "url": "https://x.com/search?q=Hugging%20Face&src=typed_query&f=live",
+        "articleTitle": "OpenAI and Hugging Face address security incident during model evaluation",
+        "articleTitleJa": "OpenAI と Hugging Face がモデル評価中のセキュリティ インシデントに対処",
+        "articleUrl": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
+        "articleSource": "openai.com",
+        "articlePublishedAt": "2026-07-21T20:09:52Z",
+        "summaryJa": "https://www.axios.com/2026/07/21/openai-says-hugging-face-br... 参照 セキュリティインシデントの開示 - 2026 年 7 月 - https://news.ycombinator.com/item?id=48956248 (コメント 9 件) https://www.bbc.com/news/articles/c3ek3gvdnj3o",
+        "translationVersion": 3
+      },
+      {
+        "topic": "OpenAI",
+        "locationLabel": "米国",
+        "bestRank": 2,
+        "appearances": 6,
+        "trendSource": "Trends24",
+        "sourceUrl": "https://trends24.in/united-states/",
+        "observedAt": "2026-07-23T07:29:38.834Z",
+        "url": "https://x.com/search?q=OpenAI&src=typed_query&f=live",
         "articleTitle": "OpenAI and Hugging Face address security incident during model evaluation",
         "articleTitleJa": "OpenAI と Hugging Face がモデル評価中のセキュリティ インシデントに対処",
         "articleUrl": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
@@ -199,10 +198,10 @@
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-07-23T04:12:16.736Z",
+    "fetchedAt": "2026-07-23T07:29:38.930Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": false,
-    "articleFetchedAt": "2026-07-23T04:12:18.090Z"
+    "articleFetchedAt": "2026-07-23T07:29:40.533Z"
   }
 }
