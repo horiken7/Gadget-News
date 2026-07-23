@@ -5,7 +5,7 @@
         "title": "OpenAI’s accidental attack against Hugging Face is science fiction that happened",
         "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack/",
         "points": 147,
-        "comments": 274,
+        "comments": 291,
         "author": "abhisek",
         "createdAt": "2026-07-23T01:16:14Z",
         "domain": "simonwillison.net",
@@ -45,7 +45,7 @@
         "title": "Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models",
         "url": "https://news.ycombinator.com/item?id=49026810",
         "points": 121,
-        "comments": 62,
+        "comments": 90,
         "author": "adam_rida",
         "createdAt": "2026-07-23T19:26:01Z",
         "domain": "news.ycombinator.com",
@@ -103,7 +103,7 @@
         ]
       }
     ],
-    "fetchedAt": "2026-07-23T22:08:14.779Z",
+    "fetchedAt": "2026-07-23T23:56:46.277Z",
     "mock": false
   },
   "xTrends": {
@@ -111,11 +111,11 @@
       {
         "topic": "Hugging Face",
         "locationLabel": "米国",
-        "bestRank": 9,
-        "appearances": 19,
+        "bestRank": 15,
+        "appearances": 18,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-07-23T22:08:14.739Z",
+        "observedAt": "2026-07-23T23:56:46.133Z",
         "url": "https://x.com/search?q=Hugging%20Face&src=typed_query&f=live",
         "articleTitle": "OpenAI and Hugging Face address security incident during model evaluation",
         "articleTitleJa": "OpenAI と Hugging Face がモデル評価中のセキュリティ インシデントに対処",
@@ -126,10 +126,10 @@
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-07-23T22:08:14.779Z",
+    "fetchedAt": "2026-07-23T23:56:46.277Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-23T22:08:16.265Z"
+    "articleFetchedAt": "2026-07-23T23:56:46.817Z"
   }
 }
