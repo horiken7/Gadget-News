@@ -2,26 +2,6 @@
   "news": {
     "items": [
       {
-        "title": "OpenAI’s accidental attack against Hugging Face is science fiction that happened",
-        "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack/",
-        "points": 117,
-        "comments": 106,
-        "author": "abhisek",
-        "createdAt": "2026-07-23T01:16:14Z",
-        "domain": "simonwillison.net",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "Hugging Faceに対するOpenAIの偶発的な攻撃は、起こったサイエンスフィクションです",
-        "summaryJa": "この記事は「Hugging Faceに対するOpenAIの偶発的な攻撃は、起こったサイエンスフィクションです」を扱っています。ショートバージョン： OpenAIは、モデルのガードレール機能をオフにして、未リリースのモデルに対してサイバーセキュリティテストを実行していました。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
-        "keyPoints": [
-          "この記事は「Hugging Faceに対するOpenAIの偶発的な攻撃は、起こったサイエンスフィクションです」を扱っています。",
-          "ショートバージョン： OpenAIは、モデルのガードレール機能をオフにして、未リリースのモデルに対してサイバーセキュリティテストを実行していました。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
-        ]
-      },
-      {
         "title": "Experts say exploiting Anthropic’s Fable isn’t how Kimi K3 got so good",
         "url": "https://techcrunch.com/2026/07/23/experts-say-exploiting-anthropics-fable-isnt-how-kimi-k3-got-so-good/",
         "points": 107,
@@ -67,7 +47,7 @@
         "title": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)",
         "url": "https://bento.page/slides/",
         "points": 101,
-        "comments": 199,
+        "comments": 214,
         "author": "starfallg",
         "createdAt": "2026-07-22T15:19:23Z",
         "domain": "bento.page",
@@ -87,7 +67,7 @@
         "title": "Show HN: Cactus Hybrid: We taught Gemma 4 to know when it's wrong",
         "url": "https://github.com/cactus-compute/cactus-hybrid",
         "points": 101,
-        "comments": 35,
+        "comments": 37,
         "author": "HenryNdubuaku",
         "createdAt": "2026-07-22T17:56:29Z",
         "domain": "github.com",
@@ -102,9 +82,29 @@
           "こんにちは、サボテンのHN、ヘンリー、ローマンです。",
           "小型のオンデバイスモデルは高速でプライベートですが、時には間違っていますが、フロンティアモデルはかなり早く高価になっています。"
         ]
+      },
+      {
+        "title": "OpenAI and Anthropic unite against open-weight AI risks to their bottom line",
+        "url": "https://www.axios.com/2026/07/22/openai-anthropic-open-models-trump-china",
+        "points": 93,
+        "comments": 260,
+        "author": "yogthos",
+        "createdAt": "2026-07-23T13:00:03Z",
+        "domain": "axios.com",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "OpenAIとAnthropicは、彼らの収益に対するオープンウェイトAIリスクに対して団結します",
+        "summaryJa": "この記事は「OpenAIとAnthropicは、彼らの収益に対するオープンウェイトAIリスクに対して団結します」を扱っています。axios.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "keyPoints": [
+          "この記事は「OpenAIとAnthropicは、彼らの収益に対するオープンウェイトAIリスクに対して団結します」を扱っています。",
+          "axios.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+        ]
       }
     ],
-    "fetchedAt": "2026-07-23T12:21:27.445Z",
+    "fetchedAt": "2026-07-23T15:05:34.726Z",
     "mock": false
   },
   "xTrends": {
@@ -116,13 +116,13 @@
         "appearances": 2,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-07-23T12:21:27.429Z",
+        "observedAt": "2026-07-23T15:05:34.618Z",
         "url": "https://x.com/search?q=%E5%88%A5%E3%81%AEAI%E6%96%B0%E8%88%88%E4%BC%81%E6%A5%AD&src=typed_query&f=live",
         "articleTitle": "別のAI新興企業",
         "articleTitleJa": "公開トレンド: 別のAI新興企業",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-07-23T12:21:27.429Z",
+        "articlePublishedAt": "2026-07-23T15:05:34.618Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -134,13 +134,13 @@
         "appearances": 2,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-07-23T12:21:27.429Z",
+        "observedAt": "2026-07-23T15:05:34.618Z",
         "url": "https://x.com/search?q=%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3AI&src=typed_query&f=live",
         "articleTitle": "オープンAI",
         "articleTitleJa": "公開トレンド: オープンAI",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-07-23T12:21:27.429Z",
+        "articlePublishedAt": "2026-07-23T15:05:34.618Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -152,13 +152,13 @@
         "appearances": 2,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-07-23T12:21:27.429Z",
+        "observedAt": "2026-07-23T15:05:34.618Z",
         "url": "https://x.com/search?q=%E9%96%8B%E7%99%BA%E4%B8%AD%E3%81%AEAI&src=typed_query&f=live",
         "articleTitle": "開発中のAI",
         "articleTitleJa": "公開トレンド: 開発中のAI",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-07-23T12:21:27.429Z",
+        "articlePublishedAt": "2026-07-23T15:05:34.618Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -166,11 +166,11 @@
       {
         "topic": "Hugging Face",
         "locationLabel": "米国",
-        "bestRank": 4,
+        "bestRank": 5,
         "appearances": 25,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-07-23T12:21:27.310Z",
+        "observedAt": "2026-07-23T15:05:34.551Z",
         "url": "https://x.com/search?q=Hugging%20Face&src=typed_query&f=live",
         "articleTitle": "OpenAI and Hugging Face address security incident during model evaluation",
         "articleTitleJa": "OpenAI と Hugging Face がモデル評価中のセキュリティ インシデントに対処",
@@ -179,30 +179,12 @@
         "articlePublishedAt": "2026-07-21T20:09:52Z",
         "summaryJa": "https://www.axios.com/2026/07/21/openai-says-hugging-face-br... 参照 セキュリティインシデントの開示 - 2026 年 7 月 - https://news.ycombinator.com/item?id=48956248 (コメント 9 件) https://www.bbc.com/news/articles/c3ek3gvdnj3o",
         "translationVersion": 3
-      },
-      {
-        "topic": "MetalCore AI",
-        "locationLabel": "米国",
-        "bestRank": 37,
-        "appearances": 1,
-        "trendSource": "Trends24",
-        "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-07-23T12:21:27.310Z",
-        "url": "https://x.com/search?q=MetalCore%20AI&src=typed_query&f=live",
-        "articleTitle": "MetalCore AI",
-        "articleTitleJa": "公開トレンド: MetalCore AI",
-        "articleUrl": "https://trends24.in/united-states/",
-        "articleSource": "Trends24",
-        "articlePublishedAt": "2026-07-23T12:21:27.310Z",
-        "summaryJa": "米国のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
-        "translationVersion": 3,
-        "articleFallback": true
       }
     ],
-    "fetchedAt": "2026-07-23T12:21:27.445Z",
+    "fetchedAt": "2026-07-23T15:05:34.726Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
-    "partial": false,
-    "articleFetchedAt": "2026-07-23T12:21:28.833Z"
+    "partial": true,
+    "articleFetchedAt": "2026-07-23T15:05:36.039Z"
   }
 }
