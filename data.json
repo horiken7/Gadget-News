@@ -26,7 +26,7 @@
         "title": "Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models",
         "url": "https://news.ycombinator.com/item?id=49026810",
         "points": 121,
-        "comments": 207,
+        "comments": 210,
         "author": "adam_rida",
         "createdAt": "2026-07-23T19:26:01Z",
         "domain": "news.ycombinator.com",
@@ -43,31 +43,31 @@
         ]
       },
       {
-        "title": "OpenAI’s new voice mode makes it to the ChatGPT desktop app",
-        "url": "https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/",
+        "title": "As US weighs response to Chinese AI, industry urges against broad open-weight restrictions",
+        "url": "https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/",
         "points": 107,
         "comments": 0,
         "author": "",
-        "createdAt": "2026-07-24T13:36:42.000Z",
+        "createdAt": "2026-07-24T15:51:49.000Z",
         "domain": "techcrunch.com",
         "sourceType": "rss",
         "sourceLabel": "TechCrunch AI",
         "newsLens": "一般",
-        "category": "AIモデル",
+        "category": "AIニュース",
         "impact": "高",
-        "titleJa": "OpenAIの新しい音声モードがChatGPTデスクトップアプリになります",
-        "summaryJa": "この記事は「OpenAIの新しい音声モードがChatGPTデスクトップアプリになります」を扱っています。デスクトップ上のChatGPT Voiceは、ChatGPT WorkとCodexの両方と連携してタスクを完了し、エージェントを制御できます。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "titleJa": "米国が中国のAIへの対応を重視するにつれて、業界は広範なオープンウェイト制限に反対するよう促す",
+        "summaryJa": "この記事は「米国が中国のAIへの対応を重視するにつれて、業界は広範なオープンウェイト制限に反対するよう促す」を扱っています。NvidiaやMistralを含むAI企業は、ワシントンが中国のAIへの対応とモデル蒸留とされるものについて議論する中で、オープンウェイトAIモデルに対する幅広い制限を回避するよう政策立案者に促している。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
-          "この記事は「OpenAIの新しい音声モードがChatGPTデスクトップアプリになります」を扱っています。",
-          "デスクトップ上のChatGPT Voiceは、ChatGPT WorkとCodexの両方と連携してタスクを完了し、エージェントを制御できます。",
+          "この記事は「米国が中国のAIへの対応を重視するにつれて、業界は広範なオープンウェイト制限に反対するよう促す」を扱っています。",
+          "NvidiaやMistralを含むAI企業は、ワシントンが中国のAIへの対応とモデル蒸留とされるものについて議論する中で、オープンウェイトAIモデルに対する幅広い制限を回避するよう政策立案者に促している。",
           "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       },
       {
         "title": "Hetzner is working on LLM Inference",
         "url": "https://sliplane.io/blog/hetzner-inference",
-        "points": 98,
-        "comments": 48,
+        "points": 101,
+        "comments": 59,
         "author": "jonas_scholz",
         "createdAt": "2026-07-24T09:24:44Z",
         "domain": "sliplane.io",
@@ -84,31 +84,49 @@
         ]
       },
       {
-        "title": "Show HN: Palmier Pro – Open-source macOS video editor built for AI",
-        "url": "https://github.com/palmier-io/palmier-pro",
-        "points": 93,
-        "comments": 26,
-        "author": "harrisontin",
-        "createdAt": "2026-07-23T15:11:37Z",
-        "domain": "github.com",
+        "title": "Claude Cookbook",
+        "url": "https://platform.claude.com/cookbook/",
+        "points": 73,
+        "comments": 122,
+        "author": "saikatsg",
+        "createdAt": "2026-07-24T05:09:15Z",
+        "domain": "platform.claude.com",
         "sourceType": "hn",
-        "category": "AIニュース",
+        "category": "AIモデル",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "Show HN ： Palmier Pro – AI用に構築されたオープンソースのmacOSビデオエディタ",
-        "summaryJa": "この記事は「Show HN ： Palmier Pro – AI用に構築されたオープンソースのmacOSビデオエディタ」を扱っています。Palmier （ https://palmier.io ）の共同創設者であるMarcosとHarrisonです。私たちは、オープンソースのmacOSビデオエディタであるPalmier Proを構築しています。",
+        "titleJa": "Claude・クックブック",
+        "summaryJa": "この記事は「Claude・クックブック」を扱っています。Claudeと一緒に構築するための実用的なガイドとコード例。プロンプトのテクニック、ツールの使用、マルチモーダル機能などを学びましょう。",
         "keyPoints": [
-          "この記事は「Show HN ： Palmier Pro – AI用に構築されたオープンソースのmacOSビデオエディタ」を扱っています。",
-          "Palmier （ https://palmier.io ）の共同創設者であるMarcosとHarrisonです。",
-          "私たちは、オープンソースのmacOSビデオエディタであるPalmier Proを構築しています。"
+          "この記事は「Claude・クックブック」を扱っています。",
+          "Claudeと一緒に構築するための実用的なガイドとコード例。",
+          "プロンプトのテクニック、ツールの使用、マルチモーダル機能などを学びましょう。"
         ]
       }
     ],
-    "fetchedAt": "2026-07-24T14:52:10.145Z",
+    "fetchedAt": "2026-07-24T16:32:43.783Z",
     "mock": false
   },
   "xTrends": {
     "items": [
+      {
+        "topic": "AI DATA CENTERS NEED COPPER",
+        "locationLabel": "米国",
+        "bestRank": 24,
+        "appearances": 1,
+        "trendSource": "Trends24",
+        "sourceUrl": "https://trends24.in/united-states/",
+        "observedAt": "2026-07-24T16:32:43.670Z",
+        "url": "https://x.com/search?q=AI%20DATA%20CENTERS%20NEED%20COPPER&src=typed_query&f=live",
+        "articleTitle": "AI DATA CENTERS NEED COPPER",
+        "articleTitleJa": "公開トレンド: AI DATA CENTERS NEED COPPER",
+        "articleUrl": "https://trends24.in/united-states/",
+        "articleSource": "Trends24",
+        "articlePublishedAt": "2026-07-24T16:32:43.670Z",
+        "summaryJa": "米国のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
+        "translationVersion": 3,
+        "articleFallback": true
+      },
       {
         "topic": "Hugging Face",
         "locationLabel": "豪州",
@@ -116,7 +134,7 @@
         "appearances": 9,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/australia/",
-        "observedAt": "2026-07-24T14:52:10.131Z",
+        "observedAt": "2026-07-24T16:32:43.750Z",
         "url": "https://x.com/search?q=Hugging%20Face&src=typed_query&f=live",
         "articleTitle": "OpenAI and Hugging Face address security incident during model evaluation",
         "articleTitleJa": "OpenAI と Hugging Face がモデル評価中のセキュリティ インシデントに対処",
@@ -127,10 +145,10 @@
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-07-24T14:52:10.145Z",
+    "fetchedAt": "2026-07-24T16:32:43.783Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-24T14:52:10.776Z"
+    "articleFetchedAt": "2026-07-24T16:32:44.561Z"
   }
 }
