@@ -26,7 +26,7 @@
         "title": "Be skeptical of OpenAI's rogue hacker agent story",
         "url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
         "points": 121,
-        "comments": 130,
+        "comments": 180,
         "author": "rwmj",
         "createdAt": "2026-07-24T16:33:31Z",
         "domain": "theguardian.com",
@@ -67,7 +67,7 @@
         "title": "Hetzner is working on LLM Inference",
         "url": "https://sliplane.io/blog/hetzner-inference",
         "points": 101,
-        "comments": 71,
+        "comments": 76,
         "author": "jonas_scholz",
         "createdAt": "2026-07-24T09:24:44Z",
         "domain": "sliplane.io",
@@ -87,7 +87,7 @@
         "title": "Claude Opus 5",
         "url": "https://www.anthropic.com/news/claude-opus-5",
         "points": 73,
-        "comments": 488,
+        "comments": 581,
         "author": "alvis",
         "createdAt": "2026-07-24T16:57:41Z",
         "domain": "anthropic.com",
@@ -104,7 +104,7 @@
         ]
       }
     ],
-    "fetchedAt": "2026-07-24T20:17:15.655Z",
+    "fetchedAt": "2026-07-24T22:01:47.892Z",
     "mock": false
   },
   "xTrends": {
@@ -116,13 +116,13 @@
         "appearances": 1,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-07-24T20:17:15.544Z",
+        "observedAt": "2026-07-24T22:01:47.818Z",
         "url": "https://x.com/search?q=AI%20DATA%20CENTERS%20NEED%20COPPER&src=typed_query&f=live",
         "articleTitle": "AI DATA CENTERS NEED COPPER",
         "articleTitleJa": "公開トレンド: AI DATA CENTERS NEED COPPER",
         "articleUrl": "https://trends24.in/united-states/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-07-24T20:17:15.544Z",
+        "articlePublishedAt": "2026-07-24T22:01:47.818Z",
         "summaryJa": "米国のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -131,10 +131,10 @@
         "topic": "Hugging Face",
         "locationLabel": "豪州",
         "bestRank": 46,
-        "appearances": 6,
+        "appearances": 4,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/australia/",
-        "observedAt": "2026-07-24T20:17:15.637Z",
+        "observedAt": "2026-07-24T22:01:47.863Z",
         "url": "https://x.com/search?q=Hugging%20Face&src=typed_query&f=live",
         "articleTitle": "OpenAI and Hugging Face address security incident during model evaluation",
         "articleTitleJa": "OpenAI と Hugging Face がモデル評価中のセキュリティ インシデントに対処",
@@ -145,10 +145,10 @@
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-07-24T20:17:15.655Z",
+    "fetchedAt": "2026-07-24T22:01:47.892Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-24T20:17:16.344Z"
+    "articleFetchedAt": "2026-07-24T22:01:48.930Z"
   }
 }
