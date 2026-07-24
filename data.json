@@ -26,7 +26,7 @@
         "title": "Be skeptical of OpenAI's rogue hacker agent story",
         "url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
         "points": 121,
-        "comments": 180,
+        "comments": 210,
         "author": "rwmj",
         "createdAt": "2026-07-24T16:33:31Z",
         "domain": "theguardian.com",
@@ -43,23 +43,23 @@
         ]
       },
       {
-        "title": "As US weighs response to Chinese AI, industry urges against broad open-weight restrictions",
-        "url": "https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/",
+        "title": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
+        "url": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
         "points": 107,
         "comments": 0,
         "author": "",
-        "createdAt": "2026-07-24T15:51:49.000Z",
+        "createdAt": "2026-07-24T22:25:58.000Z",
         "domain": "techcrunch.com",
         "sourceType": "rss",
         "sourceLabel": "TechCrunch AI",
         "newsLens": "一般",
         "category": "AIニュース",
         "impact": "高",
-        "titleJa": "米国が中国のAIへの対応を重視するにつれて、業界は広範なオープンウェイト制限に反対するよう促す",
-        "summaryJa": "この記事は「米国が中国のAIへの対応を重視するにつれて、業界は広範なオープンウェイト制限に反対するよう促す」を扱っています。NvidiaやMistralを含むAI企業は、ワシントンが中国のAIへの対応とモデル蒸留とされるものについて議論する中で、オープンウェイトAIモデルに対する幅広い制限を回避するよう政策立案者に促している。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "titleJa": "リード・ホフマンとマーク・ピンカスが共同設立した新しいAIラボ、プレンティスが1億$の資金調達について話し合っている",
+        "summaryJa": "この記事は「リード・ホフマンとマーク・ピンカスが共同設立した新しいAIラボ、プレンティスが1億$の資金調達について話し合っている」を扱っています。Neolabは、AIの最大のユースケースとして、ルーチンのコンピュータタスクの自動化がすぐにコーディングを上回るだろうと賭けている。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
-          "この記事は「米国が中国のAIへの対応を重視するにつれて、業界は広範なオープンウェイト制限に反対するよう促す」を扱っています。",
-          "NvidiaやMistralを含むAI企業は、ワシントンが中国のAIへの対応とモデル蒸留とされるものについて議論する中で、オープンウェイトAIモデルに対する幅広い制限を回避するよう政策立案者に促している。",
+          "この記事は「リード・ホフマンとマーク・ピンカスが共同設立した新しいAIラボ、プレンティスが1億$の資金調達について話し合っている」を扱っています。",
+          "Neolabは、AIの最大のユースケースとして、ルーチンのコンピュータタスクの自動化がすぐにコーディングを上回るだろうと賭けている。",
           "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       },
@@ -67,7 +67,7 @@
         "title": "Hetzner is working on LLM Inference",
         "url": "https://sliplane.io/blog/hetzner-inference",
         "points": 101,
-        "comments": 76,
+        "comments": 77,
         "author": "jonas_scholz",
         "createdAt": "2026-07-24T09:24:44Z",
         "domain": "sliplane.io",
@@ -87,7 +87,7 @@
         "title": "Claude Opus 5",
         "url": "https://www.anthropic.com/news/claude-opus-5",
         "points": 73,
-        "comments": 581,
+        "comments": 660,
         "author": "alvis",
         "createdAt": "2026-07-24T16:57:41Z",
         "domain": "anthropic.com",
@@ -104,7 +104,7 @@
         ]
       }
     ],
-    "fetchedAt": "2026-07-24T22:01:47.892Z",
+    "fetchedAt": "2026-07-24T23:59:53.652Z",
     "mock": false
   },
   "xTrends": {
@@ -116,13 +116,13 @@
         "appearances": 1,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-07-24T22:01:47.818Z",
+        "observedAt": "2026-07-24T23:59:53.580Z",
         "url": "https://x.com/search?q=AI%20DATA%20CENTERS%20NEED%20COPPER&src=typed_query&f=live",
         "articleTitle": "AI DATA CENTERS NEED COPPER",
         "articleTitleJa": "公開トレンド: AI DATA CENTERS NEED COPPER",
         "articleUrl": "https://trends24.in/united-states/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-07-24T22:01:47.818Z",
+        "articlePublishedAt": "2026-07-24T23:59:53.580Z",
         "summaryJa": "米国のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -130,11 +130,11 @@
       {
         "topic": "Hugging Face",
         "locationLabel": "豪州",
-        "bestRank": 46,
-        "appearances": 4,
+        "bestRank": 48,
+        "appearances": 2,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/australia/",
-        "observedAt": "2026-07-24T22:01:47.863Z",
+        "observedAt": "2026-07-24T23:59:53.620Z",
         "url": "https://x.com/search?q=Hugging%20Face&src=typed_query&f=live",
         "articleTitle": "OpenAI and Hugging Face address security incident during model evaluation",
         "articleTitleJa": "OpenAI と Hugging Face がモデル評価中のセキュリティ インシデントに対処",
@@ -145,10 +145,10 @@
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-07-24T22:01:47.892Z",
+    "fetchedAt": "2026-07-24T23:59:53.652Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-24T22:01:48.930Z"
+    "articleFetchedAt": "2026-07-24T23:59:55.417Z"
   }
 }
