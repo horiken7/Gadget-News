@@ -23,51 +23,10 @@
         ]
       },
       {
-        "title": "AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing",
-        "url": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/",
-        "points": 133,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-07-23T18:38:34.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
-        "category": "AIニュース",
-        "impact": "高",
-        "titleJa": "元Googleセキュリティエグゼクティブによって設立されたAegisAIは、AI主導のスピアフィッシングを阻止するために$ 36 Mを拠出",
-        "summaryJa": "この記事は「元Googleセキュリティエグゼクティブによって設立されたAegisAIは、AI主導のスピアフィッシングを阻止するために$ 36 Mを拠出」を扱っています。AegisAIの共同創設者は、人間のように各メッセージをすばやく分析し、最も精巧なチェックリストでさえ捕捉できない小さな異常に注意を払うAIエージェントを開発しました。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
-        "keyPoints": [
-          "この記事は「元Googleセキュリティエグゼクティブによって設立されたAegisAIは、AI主導のスピアフィッシングを阻止するために$ 36 Mを拠出」を扱っています。",
-          "AegisAIの共同創設者は、人間のように各メッセージをすばやく分析し、最も精巧なチェックリストでさえ捕捉できない小さな異常に注意を払うAIエージェントを開発しました。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
-        ]
-      },
-      {
-        "title": "Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models",
-        "url": "https://news.ycombinator.com/item?id=49026810",
-        "points": 121,
-        "comments": 211,
-        "author": "adam_rida",
-        "createdAt": "2026-07-23T19:26:01Z",
-        "domain": "news.ycombinator.com",
-        "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "HNを表示：エコー–オープンウェイトモデルを使用すると、1/3のコストで寓話レベルの結果が得られます",
-        "summaryJa": "この記事は「HNを表示：エコー–オープンウェイトモデルを使用すると、1/3のコストで寓話レベルの結果が得られます」を扱っています。これは、単一のモデルを選択してすべてのタスクに使用するのではなく、オープンウェイトモデルのプールから1つのAIシステムを作成する実験です。GLM-5.2、Kimi K2.7などのモデルのグループを取り、同じ評価で実行しました。",
-        "keyPoints": [
-          "この記事は「HNを表示：エコー–オープンウェイトモデルを使用すると、1/3のコストで寓話レベルの結果が得られます」を扱っています。",
-          "これは、単一のモデルを選択してすべてのタスクに使用するのではなく、オープンウェイトモデルのプールから1つのAIシステムを作成する実験です。",
-          "GLM-5.2、Kimi K2.7などのモデルのグループを取り、同じ評価で実行しました。"
-        ]
-      },
-      {
         "title": "Be skeptical of OpenAI's rogue hacker agent story",
         "url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
         "points": 121,
-        "comments": 51,
+        "comments": 130,
         "author": "rwmj",
         "createdAt": "2026-07-24T16:33:31Z",
         "domain": "theguardian.com",
@@ -84,10 +43,31 @@
         ]
       },
       {
+        "title": "As US weighs response to Chinese AI, industry urges against broad open-weight restrictions",
+        "url": "https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/",
+        "points": 107,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-07-24T15:51:49.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
+        "category": "AIニュース",
+        "impact": "高",
+        "titleJa": "米国が中国のAIへの対応を重視するにつれて、業界は広範なオープンウェイト制限に反対するよう促す",
+        "summaryJa": "この記事は「米国が中国のAIへの対応を重視するにつれて、業界は広範なオープンウェイト制限に反対するよう促す」を扱っています。NvidiaやMistralを含むAI企業は、ワシントンが中国のAIへの対応とモデル蒸留とされるものについて議論する中で、オープンウェイトAIモデルに対する幅広い制限を回避するよう政策立案者に促している。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "keyPoints": [
+          "この記事は「米国が中国のAIへの対応を重視するにつれて、業界は広範なオープンウェイト制限に反対するよう促す」を扱っています。",
+          "NvidiaやMistralを含むAI企業は、ワシントンが中国のAIへの対応とモデル蒸留とされるものについて議論する中で、オープンウェイトAIモデルに対する幅広い制限を回避するよう政策立案者に促している。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+        ]
+      },
+      {
         "title": "Hetzner is working on LLM Inference",
         "url": "https://sliplane.io/blog/hetzner-inference",
         "points": 101,
-        "comments": 65,
+        "comments": 71,
         "author": "jonas_scholz",
         "createdAt": "2026-07-24T09:24:44Z",
         "domain": "sliplane.io",
@@ -102,9 +82,29 @@
           "Hetznerは、実験的なLLM推論APIを立ち上げました。",
           "私はそのQwenモデルをテストし、製品が次にどこに向かうかについていくつかの推測を持っています。"
         ]
+      },
+      {
+        "title": "Claude Opus 5",
+        "url": "https://www.anthropic.com/news/claude-opus-5",
+        "points": 73,
+        "comments": 488,
+        "author": "alvis",
+        "createdAt": "2026-07-24T16:57:41Z",
+        "domain": "anthropic.com",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "Claude・オーパス5",
+        "summaryJa": "この記事は「Claude・オーパス5」を扱っています。anthropic.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "keyPoints": [
+          "この記事は「Claude・オーパス5」を扱っています。",
+          "anthropic.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+        ]
       }
     ],
-    "fetchedAt": "2026-07-24T18:15:57.845Z",
+    "fetchedAt": "2026-07-24T20:17:15.655Z",
     "mock": false
   },
   "xTrends": {
@@ -116,13 +116,13 @@
         "appearances": 1,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-07-24T18:15:57.677Z",
+        "observedAt": "2026-07-24T20:17:15.544Z",
         "url": "https://x.com/search?q=AI%20DATA%20CENTERS%20NEED%20COPPER&src=typed_query&f=live",
         "articleTitle": "AI DATA CENTERS NEED COPPER",
         "articleTitleJa": "公開トレンド: AI DATA CENTERS NEED COPPER",
         "articleUrl": "https://trends24.in/united-states/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-07-24T18:15:57.677Z",
+        "articlePublishedAt": "2026-07-24T20:17:15.544Z",
         "summaryJa": "米国のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -131,10 +131,10 @@
         "topic": "Hugging Face",
         "locationLabel": "豪州",
         "bestRank": 46,
-        "appearances": 8,
+        "appearances": 6,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/australia/",
-        "observedAt": "2026-07-24T18:15:57.827Z",
+        "observedAt": "2026-07-24T20:17:15.637Z",
         "url": "https://x.com/search?q=Hugging%20Face&src=typed_query&f=live",
         "articleTitle": "OpenAI and Hugging Face address security incident during model evaluation",
         "articleTitleJa": "OpenAI と Hugging Face がモデル評価中のセキュリティ インシデントに対処",
@@ -145,10 +145,10 @@
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-07-24T18:15:57.845Z",
+    "fetchedAt": "2026-07-24T20:17:15.655Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-24T18:15:58.512Z"
+    "articleFetchedAt": "2026-07-24T20:17:16.344Z"
   }
 }
