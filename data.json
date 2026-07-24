@@ -26,7 +26,7 @@
         "title": "Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models",
         "url": "https://news.ycombinator.com/item?id=49026810",
         "points": 121,
-        "comments": 120,
+        "comments": 150,
         "author": "adam_rida",
         "createdAt": "2026-07-23T19:26:01Z",
         "domain": "news.ycombinator.com",
@@ -67,7 +67,7 @@
         "title": "OpenAI and Anthropic unite against open-weight AI risks to their bottom line",
         "url": "https://www.axios.com/2026/07/22/openai-anthropic-open-models-trump-china",
         "points": 93,
-        "comments": 313,
+        "comments": 314,
         "author": "yogthos",
         "createdAt": "2026-07-23T13:00:03Z",
         "domain": "axios.com",
@@ -86,8 +86,8 @@
       {
         "title": "Show HN: Palmier Pro – Open-source macOS video editor built for AI",
         "url": "https://github.com/palmier-io/palmier-pro",
-        "points": 92,
-        "comments": 20,
+        "points": 93,
+        "comments": 21,
         "author": "harrisontin",
         "createdAt": "2026-07-23T15:11:37Z",
         "domain": "github.com",
@@ -104,7 +104,7 @@
         ]
       }
     ],
-    "fetchedAt": "2026-07-24T02:37:26.709Z",
+    "fetchedAt": "2026-07-24T05:47:02.055Z",
     "mock": false
   },
   "xTrends": {
@@ -112,11 +112,11 @@
       {
         "topic": "Hugging Face",
         "locationLabel": "米国",
-        "bestRank": 17,
-        "appearances": 18,
+        "bestRank": 20,
+        "appearances": 17,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-07-24T02:37:26.563Z",
+        "observedAt": "2026-07-24T05:47:01.928Z",
         "url": "https://x.com/search?q=Hugging%20Face&src=typed_query&f=live",
         "articleTitle": "OpenAI and Hugging Face address security incident during model evaluation",
         "articleTitleJa": "OpenAI と Hugging Face がモデル評価中のセキュリティ インシデントに対処",
@@ -127,10 +127,10 @@
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-07-24T02:37:26.709Z",
+    "fetchedAt": "2026-07-24T05:47:02.055Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-24T02:37:27.264Z"
+    "articleFetchedAt": "2026-07-24T05:47:02.867Z"
   }
 }
