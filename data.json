@@ -26,7 +26,7 @@
         "title": "Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models",
         "url": "https://news.ycombinator.com/item?id=49026810",
         "points": 121,
-        "comments": 196,
+        "comments": 207,
         "author": "adam_rida",
         "createdAt": "2026-07-23T19:26:01Z",
         "domain": "news.ycombinator.com",
@@ -43,44 +43,44 @@
         ]
       },
       {
-        "title": "Anthropic updates Claude voice mode with more capable models",
-        "url": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/",
+        "title": "OpenAI’s new voice mode makes it to the ChatGPT desktop app",
+        "url": "https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/",
         "points": 107,
         "comments": 0,
         "author": "",
-        "createdAt": "2026-07-23T19:00:00.000Z",
+        "createdAt": "2026-07-24T13:36:42.000Z",
         "domain": "techcrunch.com",
         "sourceType": "rss",
         "sourceLabel": "TechCrunch AI",
         "newsLens": "一般",
         "category": "AIモデル",
         "impact": "高",
-        "titleJa": "Anthropicは、より機能的なモデルでClaude音声モードを更新します",
-        "summaryJa": "この記事は「Anthropicは、より機能的なモデルでClaude音声モードを更新します」を扱っています。Claudeの新しい音声モデルを使用すると、会議のスケジュールを変更したり、メールの下書きを作成したりできます。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "titleJa": "OpenAIの新しい音声モードがChatGPTデスクトップアプリになります",
+        "summaryJa": "この記事は「OpenAIの新しい音声モードがChatGPTデスクトップアプリになります」を扱っています。デスクトップ上のChatGPT Voiceは、ChatGPT WorkとCodexの両方と連携してタスクを完了し、エージェントを制御できます。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
-          "この記事は「Anthropicは、より機能的なモデルでClaude音声モードを更新します」を扱っています。",
-          "Claudeの新しい音声モデルを使用すると、会議のスケジュールを変更したり、メールの下書きを作成したりできます。",
+          "この記事は「OpenAIの新しい音声モードがChatGPTデスクトップアプリになります」を扱っています。",
+          "デスクトップ上のChatGPT Voiceは、ChatGPT WorkとCodexの両方と連携してタスクを完了し、エージェントを制御できます。",
           "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       },
       {
-        "title": "OpenAI and Anthropic unite against open-weight AI risks to their bottom line",
-        "url": "https://www.axios.com/2026/07/22/openai-anthropic-open-models-trump-china",
-        "points": 93,
-        "comments": 322,
-        "author": "yogthos",
-        "createdAt": "2026-07-23T13:00:03Z",
-        "domain": "axios.com",
+        "title": "Hetzner is working on LLM Inference",
+        "url": "https://sliplane.io/blog/hetzner-inference",
+        "points": 98,
+        "comments": 48,
+        "author": "jonas_scholz",
+        "createdAt": "2026-07-24T09:24:44Z",
+        "domain": "sliplane.io",
         "sourceType": "hn",
-        "category": "AIニュース",
+        "category": "AIモデル",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "OpenAIとAnthropicは、彼らの収益に対するオープンウェイトAIリスクに対して団結します",
-        "summaryJa": "この記事は「OpenAIとAnthropicは、彼らの収益に対するオープンウェイトAIリスクに対して団結します」を扱っています。axios.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "titleJa": "HetznerはLLM推論に取り組んでいます",
+        "summaryJa": "この記事は「HetznerはLLM推論に取り組んでいます」を扱っています。Hetznerは、実験的なLLM推論APIを立ち上げました。私はそのQwenモデルをテストし、製品が次にどこに向かうかについていくつかの推測を持っています。",
         "keyPoints": [
-          "この記事は「OpenAIとAnthropicは、彼らの収益に対するオープンウェイトAIリスクに対して団結します」を扱っています。",
-          "axios.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+          "この記事は「HetznerはLLM推論に取り組んでいます」を扱っています。",
+          "Hetznerは、実験的なLLM推論APIを立ち上げました。",
+          "私はそのQwenモデルをテストし、製品が次にどこに向かうかについていくつかの推測を持っています。"
         ]
       },
       {
@@ -104,19 +104,19 @@
         ]
       }
     ],
-    "fetchedAt": "2026-07-24T12:24:12.877Z",
+    "fetchedAt": "2026-07-24T14:52:10.145Z",
     "mock": false
   },
   "xTrends": {
     "items": [
       {
         "topic": "Hugging Face",
-        "locationLabel": "カナダ",
+        "locationLabel": "豪州",
         "bestRank": 46,
         "appearances": 9,
         "trendSource": "Trends24",
-        "sourceUrl": "https://trends24.in/canada/",
-        "observedAt": "2026-07-24T12:24:12.792Z",
+        "sourceUrl": "https://trends24.in/australia/",
+        "observedAt": "2026-07-24T14:52:10.131Z",
         "url": "https://x.com/search?q=Hugging%20Face&src=typed_query&f=live",
         "articleTitle": "OpenAI and Hugging Face address security incident during model evaluation",
         "articleTitleJa": "OpenAI と Hugging Face がモデル評価中のセキュリティ インシデントに対処",
@@ -127,10 +127,10 @@
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-07-24T12:24:12.877Z",
+    "fetchedAt": "2026-07-24T14:52:10.145Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-24T12:24:13.375Z"
+    "articleFetchedAt": "2026-07-24T14:52:10.776Z"
   }
 }
