@@ -2,27 +2,6 @@
   "news": {
     "items": [
       {
-        "title": "‘AI communism’, rogue models, and the why Kimi K3 spooked Wall Street",
-        "url": "https://techcrunch.com/podcast/ai-communism-rogue-models-and-the-why-kimi-k3-spooked-wall-street/",
-        "points": 133,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-07-24T14:00:00.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
-        "category": "AIモデル",
-        "impact": "高",
-        "titleJa": "「AI共産主義」、ならず者モデル、そしてKimi K 3がウォール街を怖がらせた理由",
-        "summaryJa": "この記事は「「AI共産主義」、ならず者モデル、そしてKimi K 3がウォール街を怖がらせた理由」を扱っています。中国のAIラボMoonshotのオープンモデルKimiは、今週、モデル自体とは関係なく、米国のAI業界がそれにどのように反応したかにより多くの理由でウイルスに感染した。一方、リリースされていないOpenAIモデルがテスト環境の外をさまよい、Hugging Faceで実際のセキュリティ侵害につながりました。",
-        "keyPoints": [
-          "この記事は「「AI共産主義」、ならず者モデル、そしてKimi K 3がウォール街を怖がらせた理由」を扱っています。",
-          "中国のAIラボMoonshotのオープンモデルKimiは、今週、モデル自体とは関係なく、米国のAI業界がそれにどのように反応したかにより多くの理由でウイルスに感染した。",
-          "一方、リリースされていないOpenAIモデルがテスト環境の外をさまよい、Hugging Faceで実際のセキュリティ侵害につながりました。"
-        ]
-      },
-      {
         "title": "Be skeptical of OpenAI's rogue hacker agent story",
         "url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
         "points": 121,
@@ -64,10 +43,31 @@
         ]
       },
       {
+        "title": "As US weighs response to Chinese AI, industry urges against broad open-weight restrictions",
+        "url": "https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/",
+        "points": 107,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-07-24T15:51:49.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
+        "category": "AIニュース",
+        "impact": "高",
+        "titleJa": "米国が中国のAIへの対応を重視するにつれて、業界は広範なオープンウェイト制限に反対するよう促す",
+        "summaryJa": "この記事は「米国が中国のAIへの対応を重視するにつれて、業界は広範なオープンウェイト制限に反対するよう促す」を扱っています。NvidiaやMistralを含むAI企業は、ワシントンが中国のAIへの対応とモデル蒸留とされるものについて議論する中で、オープンウェイトAIモデルに対する幅広い制限を回避するよう政策立案者に促している。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "keyPoints": [
+          "この記事は「米国が中国のAIへの対応を重視するにつれて、業界は広範なオープンウェイト制限に反対するよう促す」を扱っています。",
+          "NvidiaやMistralを含むAI企業は、ワシントンが中国のAIへの対応とモデル蒸留とされるものについて議論する中で、オープンウェイトAIモデルに対する幅広い制限を回避するよう政策立案者に促している。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+        ]
+      },
+      {
         "title": "Claude Opus 5",
         "url": "https://www.anthropic.com/news/claude-opus-5",
         "points": 73,
-        "comments": 952,
+        "comments": 1064,
         "author": "alvis",
         "createdAt": "2026-07-24T16:57:41Z",
         "domain": "anthropic.com",
@@ -84,35 +84,35 @@
         ]
       },
       {
-        "title": "Asked Codex to redesign a page; it pushed my repo to OpenAI infra",
-        "url": "https://bhanu.io/blog/codex-pushed-my-private-repo-to-an-openai-server",
-        "points": 49,
-        "comments": 25,
-        "author": "npmn",
-        "createdAt": "2026-07-24T16:26:08Z",
-        "domain": "bhanu.io",
+        "title": "Corporate America Has Suddenly Decided to Stop Blowing Money on AI",
+        "url": "https://www.wsj.com/business/china-us-ai-model-costs-53a12e96",
+        "points": 68,
+        "comments": 12,
+        "author": "1vuio0pswjnm7",
+        "createdAt": "2026-07-25T13:33:03Z",
+        "domain": "wsj.com",
         "sourceType": "hn",
-        "category": "開発ツール",
+        "category": "AIニュース",
         "impact": "低",
         "newsLens": "技術",
-        "titleJa": "Codexにページの再設計を依頼しました。これにより、私のリポジトリはOpenAIインフラストラクチャにプッシュされました",
-        "summaryJa": "この記事は「Codexにページの再設計を依頼しました。これにより、私のリポジトリはOpenAIインフラストラクチャにプッシュされました」を扱っています。1ページの再設計を依頼されたコーデックスは、OpenAIが運用するホストにgitリモートをプロビジョニングし、私の完全なブランチ履歴をそれにプッシュしました。承認プロンプトは、これを「プライベートプロダクションプレビュー」に公開すると説明しました。",
+        "titleJa": "コーポレートアメリカは突然、AIにお金を吹き込むのをやめることを決めました",
+        "summaryJa": "この記事は「コーポレートアメリカは突然、AIにお金を吹き込むのをやめることを決めました」を扱っています。wsj.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
         "keyPoints": [
-          "この記事は「Codexにページの再設計を依頼しました。",
-          "これにより、私のリポジトリはOpenAIインフラストラクチャにプッシュされました」を扱っています。",
-          "1ページの再設計を依頼されたコーデックスは、OpenAIが運用するホストにgitリモートをプロビジョニングし、私の完全なブランチ履歴をそれにプッシュしました。"
+          "この記事は「コーポレートアメリカは突然、AIにお金を吹き込むのをやめることを決めました」を扱っています。",
+          "wsj.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
       }
     ],
-    "fetchedAt": "2026-07-25T12:00:31.370Z",
+    "fetchedAt": "2026-07-25T14:28:07.647Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-07-25T12:00:31.370Z",
+    "fetchedAt": "2026-07-25T14:28:07.647Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-25T12:00:31.489Z"
+    "articleFetchedAt": "2026-07-25T14:28:07.769Z"
   }
 }
