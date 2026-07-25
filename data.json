@@ -67,7 +67,7 @@
         "title": "Claude Opus 5",
         "url": "https://www.anthropic.com/news/claude-opus-5",
         "points": 73,
-        "comments": 914,
+        "comments": 952,
         "author": "alvis",
         "createdAt": "2026-07-24T16:57:41Z",
         "domain": "anthropic.com",
@@ -86,7 +86,7 @@
       {
         "title": "Asked Codex to redesign a page; it pushed my repo to OpenAI infra",
         "url": "https://bhanu.io/blog/codex-pushed-my-private-repo-to-an-openai-server",
-        "points": 48,
+        "points": 49,
         "comments": 25,
         "author": "npmn",
         "createdAt": "2026-07-24T16:26:08Z",
@@ -104,15 +104,15 @@
         ]
       }
     ],
-    "fetchedAt": "2026-07-25T10:36:49.695Z",
+    "fetchedAt": "2026-07-25T12:00:31.370Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-07-25T10:36:49.695Z",
+    "fetchedAt": "2026-07-25T12:00:31.370Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-25T10:36:49.848Z"
+    "articleFetchedAt": "2026-07-25T12:00:31.489Z"
   }
 }
