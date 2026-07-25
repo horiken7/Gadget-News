@@ -26,7 +26,7 @@
         "title": "Be skeptical of OpenAI's rogue hacker agent story",
         "url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
         "points": 121,
-        "comments": 253,
+        "comments": 276,
         "author": "rwmj",
         "createdAt": "2026-07-24T16:33:31Z",
         "domain": "theguardian.com",
@@ -84,28 +84,27 @@
         ]
       },
       {
-        "title": "I knew it . Some of these AI agents will be as lazy and unscrupulous as we are .",
-        "url": "https://www.expertclick.com/NewsRelease/I-knew-it-Some-of-these-AI-agents-will-be-as-lazy-and-unscrupulous-as-we-are-Patrick-Asare-,2026316026.aspx",
-        "points": 81,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-07-25T02:30:00Z",
-        "domain": "expertclick.com",
-        "sourceType": "gdelt",
-        "sourceLabel": "GDELT",
-        "category": "AIニュース",
-        "impact": "中",
+        "title": "Claude Opus 5",
+        "url": "https://www.anthropic.com/news/claude-opus-5",
+        "points": 73,
+        "comments": 791,
+        "author": "alvis",
+        "createdAt": "2026-07-24T16:57:41Z",
+        "domain": "anthropic.com",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "高",
         "newsLens": "技術",
-        "titleJa": "わかっていました。AIエージェントの中には、私たちと同じくらい怠け者で卑劣な者もいるでしょう。",
-        "summaryJa": "この記事は「わかっていました。AIエージェントの中には、私たちと同じくらい怠け者で卑劣な者もいるでしょう。」を扱っています。今では、ほとんどの人がOpenAIのAIエージェントが不正に行ったという話を聞いています。別のAI企業であるHugging Faceは先週、AIエージェントが同社のシステムをハッキングするために使用されたことを法執行機関に通知した。",
+        "titleJa": "Claude・オーパス5",
+        "summaryJa": "この記事は「Claude・オーパス5」を扱っています。anthropic.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
         "keyPoints": [
-          "この記事は「わかっていました。",
-          "AIエージェントの中には、私たちと同じくらい怠け者で卑劣な者もいるでしょう。",
-          "今では、ほとんどの人がOpenAIのAIエージェントが不正に行ったという話を聞いています。"
+          "この記事は「Claude・オーパス5」を扱っています。",
+          "anthropic.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
       }
     ],
-    "fetchedAt": "2026-07-25T03:30:08.863Z",
+    "fetchedAt": "2026-07-25T06:13:19.095Z",
     "mock": false
   },
   "xTrends": {
@@ -117,22 +116,22 @@
         "appearances": 1,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-07-25T03:30:08.751Z",
+        "observedAt": "2026-07-25T06:13:18.980Z",
         "url": "https://x.com/search?q=AI%20DATA%20CENTERS%20NEED%20COPPER&src=typed_query&f=live",
         "articleTitle": "AI DATA CENTERS NEED COPPER",
         "articleTitleJa": "公開トレンド: AI DATA CENTERS NEED COPPER",
         "articleUrl": "https://trends24.in/united-states/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-07-25T03:30:08.751Z",
+        "articlePublishedAt": "2026-07-25T06:13:18.980Z",
         "summaryJa": "米国のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
       }
     ],
-    "fetchedAt": "2026-07-25T03:30:08.863Z",
+    "fetchedAt": "2026-07-25T06:13:19.095Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-25T03:30:09.222Z"
+    "articleFetchedAt": "2026-07-25T06:13:19.533Z"
   }
 }
