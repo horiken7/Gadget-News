@@ -2,26 +2,6 @@
   "news": {
     "items": [
       {
-        "title": "Be skeptical of OpenAI's rogue hacker agent story",
-        "url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
-        "points": 121,
-        "comments": 283,
-        "author": "rwmj",
-        "createdAt": "2026-07-24T16:33:31Z",
-        "domain": "theguardian.com",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "OpenAIの不正なハッカーエージェントの話に懐疑的であること",
-        "summaryJa": "この記事は「OpenAIの不正なハッカーエージェントの話に懐疑的であること」を扱っています。OpenAIがAIがどれほど危険であるかを大声で宣言すれば、投資家はそれがどれほど強力であるかを聞くでしょう。そして、誰がその恩恵を受けるのでしょうか？",
-        "keyPoints": [
-          "この記事は「OpenAIの不正なハッカーエージェントの話に懐疑的であること」を扱っています。",
-          "OpenAIがAIがどれほど危険であるかを大声で宣言すれば、投資家はそれがどれほど強力であるかを聞くでしょう。",
-          "そして、誰がその恩恵を受けるのでしょうか。"
-        ]
-      },
-      {
         "title": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
         "url": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
         "points": 107,
@@ -43,51 +23,50 @@
         ]
       },
       {
-        "title": "Why Cognition bought Poke: AI personality is becoming a competitive advantage",
-        "url": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
-        "points": 89,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-07-24T18:07:32.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
+        "title": "OpenAI did not notice Hugging Face hack for a week",
+        "url": "https://www.reuters.com/business/its-ai-agent-spent-days-hacking-company-sources-say-openai-did-not-notice-week-2026-07-24/",
+        "points": 96,
+        "comments": 6,
+        "author": "himaraya",
+        "createdAt": "2026-07-25T00:14:44Z",
+        "domain": "reuters.com",
+        "sourceType": "hn",
         "category": "AIニュース",
-        "impact": "高",
-        "titleJa": "CognitionがPokeを買収した理由： AIパーソナリティが競争上の優位性になりつつある",
-        "summaryJa": "この記事は「CognitionがPokeを買収した理由： AIパーソナリティが競争上の優位性になりつつある」を扱っています。この買収は、Pokeの会話スタイルとインタラクションモデルをCognitionのコーディングエージェントDevinにもたらし、AIアシスタントがユーザーとどのように対話するかは、ユーザーを動かすモデルと同じくらい重要であるという確信が高まっていることを反映しています。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "impact": "低",
+        "newsLens": "技術",
+        "titleJa": "OpenAIは、ハグフェイスハックに1週間気づかなかった",
+        "summaryJa": "この記事は「OpenAIは、ハグフェイスハックに1週間気づかなかった」を扱っています。reuters.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
         "keyPoints": [
-          "この記事は「CognitionがPokeを買収した理由： AIパーソナリティが競争上の優位性になりつつある」を扱っています。",
-          "この買収は、Pokeの会話スタイルとインタラクションモデルをCognitionのコーディングエージェントDevinにもたらし、AIアシスタントがユーザーとどのように対話するかは、ユーザーを動かすモデルと同じくらい重要であるという確信が高まっていることを反映しています。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+          "この記事は「OpenAIは、ハグフェイスハックに1週間気づかなかった」を扱っています。",
+          "reuters.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
       },
       {
-        "title": "Claude Opus 5",
-        "url": "https://www.anthropic.com/news/claude-opus-5",
-        "points": 73,
-        "comments": 1162,
-        "author": "alvis",
-        "createdAt": "2026-07-24T16:57:41Z",
-        "domain": "anthropic.com",
+        "title": "The AI jobs apocalypse probably isn't coming anytime soon",
+        "url": "https://www.theguardian.com/technology/2026/jul/25/ai-jobs-apocalypse-human-labor",
+        "points": 96,
+        "comments": 60,
+        "author": "beardyw",
+        "createdAt": "2026-07-25T14:41:06Z",
+        "domain": "theguardian.com",
         "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "Claude・オーパス5",
-        "summaryJa": "この記事は「Claude・オーパス5」を扱っています。anthropic.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "category": "AIニュース",
+        "impact": "低",
+        "newsLens": "一般",
+        "titleJa": "AIの仕事の黙示録はおそらくすぐには来ないでしょう",
+        "summaryJa": "この記事は「AIの仕事の黙示録はおそらくすぐには来ないでしょう」を扱っています。人工知能は、人類が喜んで支払う代償で、膨大な経済的機会の約束を果たさないかもしれない。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
-          "この記事は「Claude・オーパス5」を扱っています。",
-          "anthropic.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+          "この記事は「AIの仕事の黙示録はおそらくすぐには来ないでしょう」を扱っています。",
+          "人工知能は、人類が喜んで支払う代償で、膨大な経済的機会の約束を果たさないかもしれない。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       },
       {
         "title": "Corporate America Has Suddenly Decided to Stop Blowing Money on AI",
         "url": "https://www.wsj.com/business/china-us-ai-model-costs-53a12e96",
-        "points": 73,
-        "comments": 64,
+        "points": 75,
+        "comments": 72,
         "author": "1vuio0pswjnm7",
         "createdAt": "2026-07-25T13:33:03Z",
         "domain": "wsj.com",
@@ -102,17 +81,37 @@
           "wsj.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
           "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
+      },
+      {
+        "title": "Open-weight AI is having its Kubernetes moment. Let's not ruin it",
+        "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/",
+        "points": 63,
+        "comments": 59,
+        "author": "tknaup",
+        "createdAt": "2026-07-25T14:49:49Z",
+        "domain": "tobi.knaup.me",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "オープンウェイトAIはKubernetesの瞬間を迎えています。台無しにしないで",
+        "summaryJa": "この記事は「オープンウェイトAIはKubernetesの瞬間を迎えています。台無しにしないで」を扱っています。tobi.knaup.meが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "keyPoints": [
+          "この記事は「オープンウェイトAIはKubernetesの瞬間を迎えています。",
+          "台無しにしないで」を扱っています。",
+          "tobi.knaup.meが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。"
+        ]
       }
     ],
-    "fetchedAt": "2026-07-25T16:00:47.111Z",
+    "fetchedAt": "2026-07-25T17:56:05.789Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-07-25T16:00:47.111Z",
+    "fetchedAt": "2026-07-25T17:56:05.789Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-25T16:00:47.251Z"
+    "articleFetchedAt": "2026-07-25T17:56:05.900Z"
   }
 }
