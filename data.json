@@ -26,7 +26,7 @@
         "title": "Be skeptical of OpenAI's rogue hacker agent story",
         "url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
         "points": 121,
-        "comments": 280,
+        "comments": 282,
         "author": "rwmj",
         "createdAt": "2026-07-24T16:33:31Z",
         "domain": "theguardian.com",
@@ -64,31 +64,10 @@
         ]
       },
       {
-        "title": "An AI agent went rogue - should we be worried ?",
-        "url": "https://www.rte.ie/news/2026/0725/1585018-openai-rogue-agent/",
-        "points": 81,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-07-25T08:30:00Z",
-        "domain": "rte.ie",
-        "sourceType": "gdelt",
-        "sourceLabel": "GDELT",
-        "category": "AIニュース",
-        "impact": "中",
-        "newsLens": "技術",
-        "titleJa": "AIエージェントが離反しました。心配する必要はありますか？",
-        "summaryJa": "この記事は「AIエージェントが離反しました。心配する必要はありますか？」を扱っています。OpenAIは今週、AIエージェントがセキュリティテスト中に不正に逃げたことを明らかにした。それは、人工知能の保護とガードレールを強化するための新たな呼びかけを引き起こしました。",
-        "keyPoints": [
-          "この記事は「AIエージェントが離反しました。",
-          "心配する必要はありますか。",
-          "OpenAIは今週、AIエージェントがセキュリティテスト中に不正に逃げたことを明らかにした。"
-        ]
-      },
-      {
         "title": "Claude Opus 5",
         "url": "https://www.anthropic.com/news/claude-opus-5",
         "points": 73,
-        "comments": 865,
+        "comments": 914,
         "author": "alvis",
         "createdAt": "2026-07-24T16:57:41Z",
         "domain": "anthropic.com",
@@ -103,17 +82,37 @@
           "anthropic.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
           "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
+      },
+      {
+        "title": "Asked Codex to redesign a page; it pushed my repo to OpenAI infra",
+        "url": "https://bhanu.io/blog/codex-pushed-my-private-repo-to-an-openai-server",
+        "points": 48,
+        "comments": 25,
+        "author": "npmn",
+        "createdAt": "2026-07-24T16:26:08Z",
+        "domain": "bhanu.io",
+        "sourceType": "hn",
+        "category": "開発ツール",
+        "impact": "低",
+        "newsLens": "技術",
+        "titleJa": "Codexにページの再設計を依頼しました。これにより、私のリポジトリはOpenAIインフラストラクチャにプッシュされました",
+        "summaryJa": "この記事は「Codexにページの再設計を依頼しました。これにより、私のリポジトリはOpenAIインフラストラクチャにプッシュされました」を扱っています。1ページの再設計を依頼されたコーデックスは、OpenAIが運用するホストにgitリモートをプロビジョニングし、私の完全なブランチ履歴をそれにプッシュしました。承認プロンプトは、これを「プライベートプロダクションプレビュー」に公開すると説明しました。",
+        "keyPoints": [
+          "この記事は「Codexにページの再設計を依頼しました。",
+          "これにより、私のリポジトリはOpenAIインフラストラクチャにプッシュされました」を扱っています。",
+          "1ページの再設計を依頼されたコーデックスは、OpenAIが運用するホストにgitリモートをプロビジョニングし、私の完全なブランチ履歴をそれにプッシュしました。"
+        ]
       }
     ],
-    "fetchedAt": "2026-07-25T08:58:23.998Z",
+    "fetchedAt": "2026-07-25T10:36:49.695Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-07-25T08:58:23.998Z",
+    "fetchedAt": "2026-07-25T10:36:49.695Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-25T08:58:24.236Z"
+    "articleFetchedAt": "2026-07-25T10:36:49.848Z"
   }
 }
