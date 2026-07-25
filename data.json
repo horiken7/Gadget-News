@@ -5,7 +5,7 @@
         "title": "Be skeptical of OpenAI's rogue hacker agent story",
         "url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
         "points": 121,
-        "comments": 282,
+        "comments": 283,
         "author": "rwmj",
         "createdAt": "2026-07-24T16:33:31Z",
         "domain": "theguardian.com",
@@ -43,23 +43,23 @@
         ]
       },
       {
-        "title": "As US weighs response to Chinese AI, industry urges against broad open-weight restrictions",
-        "url": "https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/",
-        "points": 107,
+        "title": "Why Cognition bought Poke: AI personality is becoming a competitive advantage",
+        "url": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
+        "points": 89,
         "comments": 0,
         "author": "",
-        "createdAt": "2026-07-24T15:51:49.000Z",
+        "createdAt": "2026-07-24T18:07:32.000Z",
         "domain": "techcrunch.com",
         "sourceType": "rss",
         "sourceLabel": "TechCrunch AI",
         "newsLens": "一般",
         "category": "AIニュース",
         "impact": "高",
-        "titleJa": "米国が中国のAIへの対応を重視するにつれて、業界は広範なオープンウェイト制限に反対するよう促す",
-        "summaryJa": "この記事は「米国が中国のAIへの対応を重視するにつれて、業界は広範なオープンウェイト制限に反対するよう促す」を扱っています。NvidiaやMistralを含むAI企業は、ワシントンが中国のAIへの対応とモデル蒸留とされるものについて議論する中で、オープンウェイトAIモデルに対する幅広い制限を回避するよう政策立案者に促している。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "titleJa": "CognitionがPokeを買収した理由： AIパーソナリティが競争上の優位性になりつつある",
+        "summaryJa": "この記事は「CognitionがPokeを買収した理由： AIパーソナリティが競争上の優位性になりつつある」を扱っています。この買収は、Pokeの会話スタイルとインタラクションモデルをCognitionのコーディングエージェントDevinにもたらし、AIアシスタントがユーザーとどのように対話するかは、ユーザーを動かすモデルと同じくらい重要であるという確信が高まっていることを反映しています。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
-          "この記事は「米国が中国のAIへの対応を重視するにつれて、業界は広範なオープンウェイト制限に反対するよう促す」を扱っています。",
-          "NvidiaやMistralを含むAI企業は、ワシントンが中国のAIへの対応とモデル蒸留とされるものについて議論する中で、オープンウェイトAIモデルに対する幅広い制限を回避するよう政策立案者に促している。",
+          "この記事は「CognitionがPokeを買収した理由： AIパーソナリティが競争上の優位性になりつつある」を扱っています。",
+          "この買収は、Pokeの会話スタイルとインタラクションモデルをCognitionのコーディングエージェントDevinにもたらし、AIアシスタントがユーザーとどのように対話するかは、ユーザーを動かすモデルと同じくらい重要であるという確信が高まっていることを反映しています。",
           "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       },
@@ -67,7 +67,7 @@
         "title": "Claude Opus 5",
         "url": "https://www.anthropic.com/news/claude-opus-5",
         "points": 73,
-        "comments": 1064,
+        "comments": 1162,
         "author": "alvis",
         "createdAt": "2026-07-24T16:57:41Z",
         "domain": "anthropic.com",
@@ -86,8 +86,8 @@
       {
         "title": "Corporate America Has Suddenly Decided to Stop Blowing Money on AI",
         "url": "https://www.wsj.com/business/china-us-ai-model-costs-53a12e96",
-        "points": 68,
-        "comments": 12,
+        "points": 73,
+        "comments": 64,
         "author": "1vuio0pswjnm7",
         "createdAt": "2026-07-25T13:33:03Z",
         "domain": "wsj.com",
@@ -104,15 +104,15 @@
         ]
       }
     ],
-    "fetchedAt": "2026-07-25T14:28:07.647Z",
+    "fetchedAt": "2026-07-25T16:00:47.111Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-07-25T14:28:07.647Z",
+    "fetchedAt": "2026-07-25T16:00:47.111Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-25T14:28:07.769Z"
+    "articleFetchedAt": "2026-07-25T16:00:47.251Z"
   }
 }
