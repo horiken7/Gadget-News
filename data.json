@@ -2,27 +2,6 @@
   "news": {
     "items": [
       {
-        "title": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
-        "url": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
-        "points": 107,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-07-24T22:25:58.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
-        "category": "AIニュース",
-        "impact": "高",
-        "titleJa": "リード・ホフマンとマーク・ピンカスが共同設立した新しいAIラボ、プレンティスが1億$の資金調達について話し合っている",
-        "summaryJa": "この記事は「リード・ホフマンとマーク・ピンカスが共同設立した新しいAIラボ、プレンティスが1億$の資金調達について話し合っている」を扱っています。Neolabは、AIの最大のユースケースとして、ルーチンのコンピュータタスクの自動化がすぐにコーディングを上回るだろうと賭けている。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
-        "keyPoints": [
-          "この記事は「リード・ホフマンとマーク・ピンカスが共同設立した新しいAIラボ、プレンティスが1億$の資金調達について話し合っている」を扱っています。",
-          "Neolabは、AIの最大のユースケースとして、ルーチンのコンピュータタスクの自動化がすぐにコーディングを上回るだろうと賭けている。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
-        ]
-      },
-      {
         "title": "OpenAI did not notice Hugging Face hack for a week",
         "url": "https://www.reuters.com/business/its-ai-agent-spent-days-hacking-company-sources-say-openai-did-not-notice-week-2026-07-24/",
         "points": 96,
@@ -64,27 +43,6 @@
         ]
       },
       {
-        "title": "I added an LLM to my jailbroken Kindle , expecting a gimmick it became essential",
-        "url": "https://www.howtogeek.com/added-llm-to-jailbroken-kindle/",
-        "points": 81,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-07-25T20:00:00Z",
-        "domain": "howtogeek.com",
-        "sourceType": "gdelt",
-        "sourceLabel": "GDELT",
-        "category": "AIモデル",
-        "impact": "中",
-        "newsLens": "技術",
-        "titleJa": "私はジェイルブレイクしたKindleにLLMを追加し、それが不可欠になるギミックを期待しました",
-        "summaryJa": "この記事は「私はジェイルブレイクしたKindleにLLMを追加し、それが不可欠になるギミックを期待しました」を扱っています。KindleのAIが良いとは誰が知っていましたか？技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
-        "keyPoints": [
-          "この記事は「私はジェイルブレイクしたKindleにLLMを追加し、それが不可欠になるギミックを期待しました」を扱っています。",
-          "KindleのAIが良いとは誰が知っていましたか。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
-        ]
-      },
-      {
         "title": "Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech",
         "url": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/",
         "points": 79,
@@ -104,17 +62,59 @@
           "全国の図書館では、「AIを避ける」ワークショップが前例のない需要を呼び起こしています。",
           "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
+      },
+      {
+        "title": "One fallen power line exposed a growing AI data center problem. Here’s how to fix it.",
+        "url": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
+        "points": 79,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-07-25T13:05:00.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
+        "category": "AIニュース",
+        "impact": "中",
+        "titleJa": "1本の落下した電力線は、増大するAIデータセンターの問題を明らかにしました。修正方法は次のとおりです。",
+        "summaryJa": "この記事は「1本の落下した電力線は、増大するAIデータセンターの問題を明らかにしました。修正方法は次のとおりです。」を扱っています。バージニア州北部で行われた詳細な電話会議では、グリッドの中断に対するデータセンターの対応がどれほど不十分であるかが明らかになりました。問題を解決する方法は次のとおりです。",
+        "keyPoints": [
+          "この記事は「1本の落下した電力線は、増大するAIデータセンターの問題を明らかにしました。",
+          "修正方法は次のとおりです。",
+          "バージニア州北部で行われた詳細な電話会議では、グリッドの中断に対するデータセンターの対応がどれほど不十分であるかが明らかになりました。"
+        ]
+      },
+      {
+        "title": "Samsung $200 Billion Chip Deal with Broadcom : AI Partnership",
+        "url": "https://techstory.in/silicon-megadeal-samsung-lands-landmark-200-billion-ai-chip-contract-with-broadcom/",
+        "points": 63,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-07-25T21:15:00Z",
+        "domain": "techstory.in",
+        "sourceType": "gdelt",
+        "sourceLabel": "GDELT",
+        "category": "ハードウェア",
+        "impact": "中",
+        "newsLens": "技術",
+        "titleJa": "サムスン、Broadcomと2000億$のチップ取引： AIパートナーシップ",
+        "summaryJa": "この記事は「サムスン、Broadcomと2000億$のチップ取引： AIパートナーシップ」を扱っています。サムスンは、Broadcomとの歴史的な2,000億$のチップ契約を確保し、2030年まで2 nm AIアクセラレータ、HBMメモリ、および高度なパッケージングを製造しています。技術面では、ロボット、GPU、データセンターなどAIを動かす基盤への影響を見る必要があります。",
+        "keyPoints": [
+          "この記事は「サムスン、Broadcomと2000億$のチップ取引： AIパートナーシップ」を扱っています。",
+          "サムスンは、Broadcomとの歴史的な2,000億$のチップ契約を確保し、2030年まで2 nm AIアクセラレータ、HBMメモリ、および高度なパッケージングを製造しています。",
+          "技術面では、ロボット、GPU、データセンターなどAIを動かす基盤への影響を見る必要があります。"
+        ]
       }
     ],
-    "fetchedAt": "2026-07-25T21:51:54.862Z",
+    "fetchedAt": "2026-07-25T22:51:36.314Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-07-25T21:51:54.862Z",
+    "fetchedAt": "2026-07-25T22:51:36.314Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-25T21:51:54.993Z"
+    "articleFetchedAt": "2026-07-25T22:51:36.449Z"
   }
 }
