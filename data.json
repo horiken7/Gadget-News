@@ -23,26 +23,6 @@
         ]
       },
       {
-        "title": "LLM Usage in Debian: Three Proposals",
-        "url": "https://www.debian.org/vote/2026/vote_002",
-        "points": 101,
-        "comments": 192,
-        "author": "zdw",
-        "createdAt": "2026-07-25T19:44:39Z",
-        "domain": "debian.org",
-        "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "DebianでのLLMの使用： 3つの提案",
-        "summaryJa": "この記事は「DebianでのLLMの使用： 3つの提案」を扱っています。debian.orgが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
-        "keyPoints": [
-          "この記事は「DebianでのLLMの使用： 3つの提案」を扱っています。",
-          "debian.orgが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
-        ]
-      },
-      {
         "title": "Becoming a Research Engineer at a Big LLM Lab",
         "url": "https://www.maxmynter.com/pages/blog/jobhunt",
         "points": 80,
@@ -63,48 +43,68 @@
         ]
       },
       {
-        "title": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
-        "url": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+        "title": "Making sense of the panic over Chinese AI",
+        "url": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
         "points": 79,
         "comments": 0,
         "author": "",
-        "createdAt": "2026-07-26T01:30:00.000Z",
+        "createdAt": "2026-07-26T19:40:57.000Z",
         "domain": "techcrunch.com",
         "sourceType": "rss",
         "sourceLabel": "TechCrunch AI",
         "newsLens": "一般",
         "category": "AIニュース",
         "impact": "中",
-        "titleJa": "Monday.comは、レイオフのためにAIを非難する最新のハイテク企業です。他に20社があります",
-        "summaryJa": "この記事は「Monday.comは、レイオフのためにAIを非難する最新のハイテク企業です。他に20社があります」を扱っています。今年、AIを要因とした大規模なレイオフを発表した大手ハイテク企業を、逆の時系列で見ている。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "titleJa": "中国のAIに対するパニックを理解する",
+        "summaryJa": "この記事は「中国のAIに対するパニックを理解する」を扱っています。エクイティの最新エピソードでは、ムーンショットAIのキミがなぜシリコンバレーとウォール街をパニックに陥れたのかについて話し合いました。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
-          "この記事は「Monday.comは、レイオフのためにAIを非難する最新のハイテク企業です。",
-          "他に20社があります」を扱っています。",
-          "今年、AIを要因とした大規模なレイオフを発表した大手ハイテク企業を、逆の時系列で見ている。"
+          "この記事は「中国のAIに対するパニックを理解する」を扱っています。",
+          "エクイティの最新エピソードでは、ムーンショットAIのキミがなぜシリコンバレーとウォール街をパニックに陥れたのかについて話し合いました。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       },
       {
-        "title": "The new rules of context engineering for Claude 5 generation models",
-        "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
-        "points": 73,
-        "comments": 335,
-        "author": "mellosouls",
-        "createdAt": "2026-07-25T20:42:35Z",
-        "domain": "claude.com",
+        "title": "Show HN: Cuts Long Horizon Inference Costs by 50% via external KV Cache Offload",
+        "url": "https://github.com/openlake-project/openlake",
+        "points": 74,
+        "comments": 0,
+        "author": "arnav__1",
+        "createdAt": "2026-07-26T13:02:21Z",
+        "domain": "github.com",
         "sourceType": "hn",
-        "category": "AIモデル",
+        "category": "AIニュース",
+        "impact": "低",
+        "newsLens": "技術",
+        "titleJa": "Show HN ：外部KVキャッシュオフロードにより、ロングホライズン推論コストを50 ％削減",
+        "summaryJa": "この記事は「Show HN ：外部KVキャッシュオフロードにより、ロングホライズン推論コストを50 ％削減」を扱っています。OpenLakeは、GPUメモリからLLM KVキャッシュをRAMとNVMeの共有階層にオフロードするためのオープンソースストレージエンジンです。KVキャッシュがGPUメモリを超えているため、OpenLakeを構築しました。",
+        "keyPoints": [
+          "この記事は「Show HN ：外部KVキャッシュオフロードにより、ロングホライズン推論コストを50 ％削減」を扱っています。",
+          "OpenLakeは、GPUメモリからLLM KVキャッシュをRAMとNVMeの共有階層にオフロードするためのオープンソースストレージエンジンです。",
+          "KVキャッシュがGPUメモリを超えているため、OpenLakeを構築しました。"
+        ]
+      },
+      {
+        "title": "DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
+        "url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
+        "points": 73,
+        "comments": 183,
+        "author": "oliculipolicula",
+        "createdAt": "2026-07-25T23:32:50Z",
+        "domain": "github.com",
+        "sourceType": "hn",
+        "category": "AIニュース",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "Claude5世代モデルのコンテキストエンジニアリングの新しいルール",
-        "summaryJa": "この記事は「Claude5世代モデルのコンテキストエンジニアリングの新しいルール」を扱っています。より高度なモデルのために、Claude Codeのシステムプロンプトの80 ％以上を削除しました。学んだ教訓をClaude Codeのコンテキストエンジニアリングやエージェントに適用する方法。",
+        "titleJa": "DeepSeekは、米国へのコンピューティングギャップに関するコメントが漏洩した後、資金調達を一時停止します（成績証明書）[ pdf]",
+        "summaryJa": "この記事は「DeepSeekは、米国へのコンピューティングギャップに関するコメントが漏洩した後、資金調達を一時停止します（成績証明書）[ pdf]」を扱っています。github.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
         "keyPoints": [
-          "この記事は「Claude5世代モデルのコンテキストエンジニアリングの新しいルール」を扱っています。",
-          "より高度なモデルのために、Claude Codeのシステムプロンプトの80 ％以上を削除しました。",
-          "学んだ教訓をClaude Codeのコンテキストエンジニアリングやエージェントに適用する方法。"
+          "この記事は「DeepSeekは、米国へのコンピューティングギャップに関するコメントが漏洩した後、資金調達を一時停止します（成績証明書）[ pdf]」を扱っています。",
+          "github.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
       }
     ],
-    "fetchedAt": "2026-07-26T19:19:10.576Z",
+    "fetchedAt": "2026-07-26T20:53:45.228Z",
     "mock": false
   },
   "xTrends": {
@@ -116,22 +116,22 @@
         "appearances": 4,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-07-26T19:19:10.556Z",
+        "observedAt": "2026-07-26T20:53:45.176Z",
         "url": "https://x.com/search?q=AI%E3%83%8F%E3%83%A4%E3%83%88&src=typed_query&f=live",
         "articleTitle": "AIハヤト",
         "articleTitleJa": "公開トレンド: AIハヤト",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-07-26T19:19:10.556Z",
+        "articlePublishedAt": "2026-07-26T20:53:45.176Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
       }
     ],
-    "fetchedAt": "2026-07-26T19:19:10.576Z",
+    "fetchedAt": "2026-07-26T20:53:45.227Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-26T19:19:10.949Z"
+    "articleFetchedAt": "2026-07-26T20:53:45.561Z"
   }
 }
