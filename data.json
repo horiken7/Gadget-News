@@ -23,30 +23,10 @@
         ]
       },
       {
-        "title": "Running a 28.9M parameter LLM on an $8 microcontroller",
-        "url": "https://github.com/slvDev/esp32-ai",
-        "points": 101,
-        "comments": 65,
-        "author": "boveyking",
-        "createdAt": "2026-07-25T18:59:50Z",
-        "domain": "github.com",
-        "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "$ 8マイクロコントローラで28.9MパラメータLLMを実行",
-        "summaryJa": "この記事は「$ 8マイクロコントローラで28.9MパラメータLLMを実行」を扱っています。GitHubでアカウントを作成して、slvDev/esp 32 - ai開発に貢献します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
-        "keyPoints": [
-          "この記事は「$ 8マイクロコントローラで28.9MパラメータLLMを実行」を扱っています。",
-          "GitHubでアカウントを作成して、slvDev/esp 32 - ai開発に貢献します。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
-        ]
-      },
-      {
         "title": "LLM Usage in Debian: Three Proposals",
         "url": "https://www.debian.org/vote/2026/vote_002",
         "points": 101,
-        "comments": 187,
+        "comments": 192,
         "author": "zdw",
         "createdAt": "2026-07-25T19:44:39Z",
         "domain": "debian.org",
@@ -60,6 +40,26 @@
           "この記事は「DebianでのLLMの使用： 3つの提案」を扱っています。",
           "debian.orgが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
           "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+        ]
+      },
+      {
+        "title": "Becoming a Research Engineer at a Big LLM Lab",
+        "url": "https://www.maxmynter.com/pages/blog/jobhunt",
+        "points": 80,
+        "comments": 18,
+        "author": "felixdoerp",
+        "createdAt": "2026-07-25T21:19:42Z",
+        "domain": "maxmynter.com",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "低",
+        "newsLens": "技術",
+        "titleJa": "大きなLLMラボで研究エンジニアになる",
+        "summaryJa": "この記事は「大きなLLMラボで研究エンジニアになる」を扱っています。Max Mynter -フルスタックマシンラーニングエンジニア。ブログとポートフォリオをご覧ください。",
+        "keyPoints": [
+          "この記事は「大きなLLMラボで研究エンジニアになる」を扱っています。",
+          "Max Mynter -フルスタックマシンラーニングエンジニア。",
+          "ブログとポートフォリオをご覧ください。"
         ]
       },
       {
@@ -87,7 +87,7 @@
         "title": "The new rules of context engineering for Claude 5 generation models",
         "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
         "points": 73,
-        "comments": 328,
+        "comments": 335,
         "author": "mellosouls",
         "createdAt": "2026-07-25T20:42:35Z",
         "domain": "claude.com",
@@ -104,7 +104,7 @@
         ]
       }
     ],
-    "fetchedAt": "2026-07-26T17:59:04.925Z",
+    "fetchedAt": "2026-07-26T19:19:10.576Z",
     "mock": false
   },
   "xTrends": {
@@ -116,22 +116,22 @@
         "appearances": 4,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-07-26T17:59:04.839Z",
+        "observedAt": "2026-07-26T19:19:10.556Z",
         "url": "https://x.com/search?q=AI%E3%83%8F%E3%83%A4%E3%83%88&src=typed_query&f=live",
         "articleTitle": "AIハヤト",
         "articleTitleJa": "公開トレンド: AIハヤト",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-07-26T17:59:04.839Z",
+        "articlePublishedAt": "2026-07-26T19:19:10.556Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
       }
     ],
-    "fetchedAt": "2026-07-26T17:59:04.925Z",
+    "fetchedAt": "2026-07-26T19:19:10.576Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-26T17:59:05.228Z"
+    "articleFetchedAt": "2026-07-26T19:19:10.949Z"
   }
 }
