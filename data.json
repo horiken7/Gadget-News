@@ -23,26 +23,6 @@
         ]
       },
       {
-        "title": "Becoming a Research Engineer at a Big LLM Lab",
-        "url": "https://www.maxmynter.com/pages/blog/jobhunt",
-        "points": 80,
-        "comments": 18,
-        "author": "felixdoerp",
-        "createdAt": "2026-07-25T21:19:42Z",
-        "domain": "maxmynter.com",
-        "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "低",
-        "newsLens": "技術",
-        "titleJa": "大きなLLMラボで研究エンジニアになる",
-        "summaryJa": "この記事は「大きなLLMラボで研究エンジニアになる」を扱っています。Max Mynter -フルスタックマシンラーニングエンジニア。ブログとポートフォリオをご覧ください。",
-        "keyPoints": [
-          "この記事は「大きなLLMラボで研究エンジニアになる」を扱っています。",
-          "Max Mynter -フルスタックマシンラーニングエンジニア。",
-          "ブログとポートフォリオをご覧ください。"
-        ]
-      },
-      {
         "title": "Making sense of the panic over Chinese AI",
         "url": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
         "points": 79,
@@ -84,10 +64,30 @@
         ]
       },
       {
+        "title": "Show HN: What 180k words look like as a temporal knowledge graph (Oz series)",
+        "url": "https://synaptale.com/graph?ch=100",
+        "points": 74,
+        "comments": 10,
+        "author": "ald0r",
+        "createdAt": "2026-07-26T02:18:31Z",
+        "domain": "synaptale.com",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "低",
+        "newsLens": "技術",
+        "titleJa": "HNを表示：一時的な知識グラフ（ Ozシリーズ）として18万語がどのように見えるか",
+        "summaryJa": "この記事は「HNを表示：一時的な知識グラフ（ Ozシリーズ）として18万語がどのように見えるか」を扱っています。グラフは自由に探索でき、登録は必要ありません。SynapTaleは、ノード（エンティティ）とエッジ（それらのアクションと関係）で構成される時間グラフとしてストーリーのモデルを構築します。",
+        "keyPoints": [
+          "この記事は「HNを表示：一時的な知識グラフ（ Ozシリーズ）として18万語がどのように見えるか」を扱っています。",
+          "グラフは自由に探索でき、登録は必要ありません。",
+          "SynapTaleは、ノード（エンティティ）とエッジ（それらのアクションと関係）で構成される時間グラフとしてストーリーのモデルを構築します。"
+        ]
+      },
+      {
         "title": "DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
         "url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
         "points": 73,
-        "comments": 183,
+        "comments": 186,
         "author": "oliculipolicula",
         "createdAt": "2026-07-25T23:32:50Z",
         "domain": "github.com",
@@ -104,7 +104,7 @@
         ]
       }
     ],
-    "fetchedAt": "2026-07-26T20:53:45.228Z",
+    "fetchedAt": "2026-07-26T21:55:50.836Z",
     "mock": false
   },
   "xTrends": {
@@ -116,22 +116,22 @@
         "appearances": 4,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-07-26T20:53:45.176Z",
+        "observedAt": "2026-07-26T21:55:50.804Z",
         "url": "https://x.com/search?q=AI%E3%83%8F%E3%83%A4%E3%83%88&src=typed_query&f=live",
         "articleTitle": "AIハヤト",
         "articleTitleJa": "公開トレンド: AIハヤト",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-07-26T20:53:45.176Z",
+        "articlePublishedAt": "2026-07-26T21:55:50.804Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
       }
     ],
-    "fetchedAt": "2026-07-26T20:53:45.227Z",
+    "fetchedAt": "2026-07-26T21:55:50.836Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-26T20:53:45.561Z"
+    "articleFetchedAt": "2026-07-26T21:55:51.252Z"
   }
 }
