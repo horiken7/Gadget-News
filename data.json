@@ -4,8 +4,8 @@
       {
         "title": "Running a 28.9M parameter LLM on an $8 microcontroller",
         "url": "https://github.com/slvDev/esp32-ai",
-        "points": 91,
-        "comments": 18,
+        "points": 101,
+        "comments": 28,
         "author": "boveyking",
         "createdAt": "2026-07-25T18:59:50Z",
         "domain": "github.com",
@@ -24,8 +24,8 @@
       {
         "title": "LLM Usage in Debian: Three Proposals",
         "url": "https://www.debian.org/vote/2026/vote_002",
-        "points": 90,
-        "comments": 79,
+        "points": 99,
+        "comments": 107,
         "author": "zdw",
         "createdAt": "2026-07-25T19:44:39Z",
         "domain": "debian.org",
@@ -39,26 +39,6 @@
           "この記事は「DebianでのLLMの使用： 3つの提案」を扱っています。",
           "debian.orgが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
           "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
-        ]
-      },
-      {
-        "title": "What is happening to jobs? Separating AI hype from reality",
-        "url": "https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality",
-        "points": 81,
-        "comments": 65,
-        "author": "pod_krad",
-        "createdAt": "2026-07-25T22:51:10Z",
-        "domain": "siepr.stanford.edu",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "低",
-        "newsLens": "一般",
-        "titleJa": "仕事に何が起こっているのか？ AIの誇大宣伝を現実から切り離す",
-        "summaryJa": "この記事は「仕事に何が起こっているのか？ AIの誇大宣伝を現実から切り離す」を扱っています。siepr.stanford.eduが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
-        "keyPoints": [
-          "この記事は「仕事に何が起こっているのか。",
-          "AIの誇大宣伝を現実から切り離す」を扱っています。",
-          "siepr.stanford.eduが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。"
         ]
       },
       {
@@ -83,10 +63,31 @@
         ]
       },
       {
+        "title": "Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech",
+        "url": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/",
+        "points": 79,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-07-25T16:00:00.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
+        "category": "AIニュース",
+        "impact": "中",
+        "titleJa": "図書館員は、ビッグテックにうんざりしている人々のために、バイラルな「AIを回避する」ワークショップを開催しています",
+        "summaryJa": "この記事は「図書館員は、ビッグテックにうんざりしている人々のために、バイラルな「AIを回避する」ワークショップを開催しています」を扱っています。全国の図書館では、「AIを避ける」ワークショップが前例のない需要を呼び起こしています。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "keyPoints": [
+          "この記事は「図書館員は、ビッグテックにうんざりしている人々のために、バイラルな「AIを回避する」ワークショップを開催しています」を扱っています。",
+          "全国の図書館では、「AIを避ける」ワークショップが前例のない需要を呼び起こしています。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+        ]
+      },
+      {
         "title": "The new rules of context engineering for Claude 5 generation models",
         "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
         "points": 73,
-        "comments": 121,
+        "comments": 160,
         "author": "mellosouls",
         "createdAt": "2026-07-25T20:42:35Z",
         "domain": "claude.com",
@@ -103,15 +104,15 @@
         ]
       }
     ],
-    "fetchedAt": "2026-07-26T02:44:38.981Z",
+    "fetchedAt": "2026-07-26T05:57:08.750Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-07-26T02:44:38.981Z",
+    "fetchedAt": "2026-07-26T05:57:08.749Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-26T02:44:39.107Z"
+    "articleFetchedAt": "2026-07-26T05:57:08.860Z"
   }
 }
