@@ -2,6 +2,27 @@
   "news": {
     "items": [
       {
+        "title": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
+        "url": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
+        "points": 133,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-07-26T16:33:13.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
+        "category": "AIニュース",
+        "impact": "高",
+        "titleJa": "Hugging FaceのCEOは、「前例のない」OpenAIハッキングの後、「急進的な透明性」を求めています",
+        "summaryJa": "この記事は「Hugging FaceのCEOは、「前例のない」OpenAIハッキングの後、「急進的な透明性」を求めています」を扱っています。「最初の自律的なエージェントのサイバー攻撃は前例のない出来事です。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "keyPoints": [
+          "この記事は「Hugging FaceのCEOは、「前例のない」OpenAIハッキングの後、「急進的な透明性」を求めています」を扱っています。",
+          "「最初の自律的なエージェントのサイバー攻撃は前例のない出来事です。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+        ]
+      },
+      {
         "title": "Running a 28.9M parameter LLM on an $8 microcontroller",
         "url": "https://github.com/slvDev/esp32-ai",
         "points": 101,
@@ -25,7 +46,7 @@
         "title": "LLM Usage in Debian: Three Proposals",
         "url": "https://www.debian.org/vote/2026/vote_002",
         "points": 101,
-        "comments": 172,
+        "comments": 183,
         "author": "zdw",
         "createdAt": "2026-07-25T19:44:39Z",
         "domain": "debian.org",
@@ -39,6 +60,26 @@
           "この記事は「DebianでのLLMの使用： 3つの提案」を扱っています。",
           "debian.orgが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
           "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+        ]
+      },
+      {
+        "title": "Becoming a Research Engineer at a Big LLM Lab",
+        "url": "https://www.maxmynter.com/pages/blog/jobhunt",
+        "points": 80,
+        "comments": 18,
+        "author": "felixdoerp",
+        "createdAt": "2026-07-25T21:19:42Z",
+        "domain": "maxmynter.com",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "低",
+        "newsLens": "技術",
+        "titleJa": "大きなLLMラボで研究エンジニアになる",
+        "summaryJa": "この記事は「大きなLLMラボで研究エンジニアになる」を扱っています。Max Mynter -フルスタックマシンラーニングエンジニア。ブログとポートフォリオをご覧ください。",
+        "keyPoints": [
+          "この記事は「大きなLLMラボで研究エンジニアになる」を扱っています。",
+          "Max Mynter -フルスタックマシンラーニングエンジニア。",
+          "ブログとポートフォリオをご覧ください。"
         ]
       },
       {
@@ -61,58 +102,36 @@
           "他に20社があります」を扱っています。",
           "今年、AIを要因とした大規模なレイオフを発表した大手ハイテク企業を、逆の時系列で見ている。"
         ]
-      },
-      {
-        "title": "Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech",
-        "url": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/",
-        "points": 79,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-07-25T16:00:00.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
-        "category": "AIニュース",
-        "impact": "中",
-        "titleJa": "図書館員は、ビッグテックにうんざりしている人々のために、バイラルな「AIを回避する」ワークショップを開催しています",
-        "summaryJa": "この記事は「図書館員は、ビッグテックにうんざりしている人々のために、バイラルな「AIを回避する」ワークショップを開催しています」を扱っています。全国の図書館では、「AIを避ける」ワークショップが前例のない需要を呼び起こしています。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
-        "keyPoints": [
-          "この記事は「図書館員は、ビッグテックにうんざりしている人々のために、バイラルな「AIを回避する」ワークショップを開催しています」を扱っています。",
-          "全国の図書館では、「AIを避ける」ワークショップが前例のない需要を呼び起こしています。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
-        ]
-      },
-      {
-        "title": "Becoming a Research Engineer at a Big LLM Lab",
-        "url": "https://www.maxmynter.com/pages/blog/jobhunt",
-        "points": 79,
-        "comments": 18,
-        "author": "felixdoerp",
-        "createdAt": "2026-07-25T21:19:42Z",
-        "domain": "maxmynter.com",
-        "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "低",
-        "newsLens": "技術",
-        "titleJa": "大きなLLMラボで研究エンジニアになる",
-        "summaryJa": "この記事は「大きなLLMラボで研究エンジニアになる」を扱っています。Max Mynter -フルスタックマシンラーニングエンジニア。ブログとポートフォリオをご覧ください。",
-        "keyPoints": [
-          "この記事は「大きなLLMラボで研究エンジニアになる」を扱っています。",
-          "Max Mynter -フルスタックマシンラーニングエンジニア。",
-          "ブログとポートフォリオをご覧ください。"
-        ]
       }
     ],
-    "fetchedAt": "2026-07-26T15:01:41.334Z",
+    "fetchedAt": "2026-07-26T16:54:21.637Z",
     "mock": false
   },
   "xTrends": {
-    "items": [],
-    "fetchedAt": "2026-07-26T15:01:41.334Z",
+    "items": [
+      {
+        "topic": "AIハヤト",
+        "locationLabel": "日本",
+        "bestRank": 32,
+        "appearances": 4,
+        "trendSource": "Trends24",
+        "sourceUrl": "https://trends24.in/japan/",
+        "observedAt": "2026-07-26T16:54:21.620Z",
+        "url": "https://x.com/search?q=AI%E3%83%8F%E3%83%A4%E3%83%88&src=typed_query&f=live",
+        "articleTitle": "AIハヤト",
+        "articleTitleJa": "公開トレンド: AIハヤト",
+        "articleUrl": "https://trends24.in/japan/",
+        "articleSource": "Trends24",
+        "articlePublishedAt": "2026-07-26T16:54:21.620Z",
+        "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
+        "translationVersion": 3,
+        "articleFallback": true
+      }
+    ],
+    "fetchedAt": "2026-07-26T16:54:21.637Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-26T15:01:41.499Z"
+    "articleFetchedAt": "2026-07-26T16:54:21.956Z"
   }
 }
