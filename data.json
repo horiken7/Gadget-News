@@ -5,7 +5,7 @@
         "title": "Running a 28.9M parameter LLM on an $8 microcontroller",
         "url": "https://github.com/slvDev/esp32-ai",
         "points": 101,
-        "comments": 50,
+        "comments": 55,
         "author": "boveyking",
         "createdAt": "2026-07-25T18:59:50Z",
         "domain": "github.com",
@@ -25,7 +25,7 @@
         "title": "LLM Usage in Debian: Three Proposals",
         "url": "https://www.debian.org/vote/2026/vote_002",
         "points": 101,
-        "comments": 156,
+        "comments": 161,
         "author": "zdw",
         "createdAt": "2026-07-25T19:44:39Z",
         "domain": "debian.org",
@@ -84,35 +84,35 @@
         ]
       },
       {
-        "title": "The new rules of context engineering for Claude 5 generation models",
-        "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
-        "points": 73,
-        "comments": 253,
-        "author": "mellosouls",
-        "createdAt": "2026-07-25T20:42:35Z",
-        "domain": "claude.com",
+        "title": "Becoming a Research Engineer at a Big LLM Lab",
+        "url": "https://www.maxmynter.com/pages/blog/jobhunt",
+        "points": 78,
+        "comments": 15,
+        "author": "felixdoerp",
+        "createdAt": "2026-07-25T21:19:42Z",
+        "domain": "maxmynter.com",
         "sourceType": "hn",
         "category": "AIモデル",
-        "impact": "高",
+        "impact": "低",
         "newsLens": "技術",
-        "titleJa": "Claude5世代モデルのコンテキストエンジニアリングの新しいルール",
-        "summaryJa": "この記事は「Claude5世代モデルのコンテキストエンジニアリングの新しいルール」を扱っています。より高度なモデルのために、Claude Codeのシステムプロンプトの80 ％以上を削除しました。学んだ教訓をClaude Codeのコンテキストエンジニアリングやエージェントに適用する方法。",
+        "titleJa": "大きなLLMラボで研究エンジニアになる",
+        "summaryJa": "この記事は「大きなLLMラボで研究エンジニアになる」を扱っています。Max Mynter -フルスタックマシンラーニングエンジニア。ブログとポートフォリオをご覧ください。",
         "keyPoints": [
-          "この記事は「Claude5世代モデルのコンテキストエンジニアリングの新しいルール」を扱っています。",
-          "より高度なモデルのために、Claude Codeのシステムプロンプトの80 ％以上を削除しました。",
-          "学んだ教訓をClaude Codeのコンテキストエンジニアリングやエージェントに適用する方法。"
+          "この記事は「大きなLLMラボで研究エンジニアになる」を扱っています。",
+          "Max Mynter -フルスタックマシンラーニングエンジニア。",
+          "ブログとポートフォリオをご覧ください。"
         ]
       }
     ],
-    "fetchedAt": "2026-07-26T11:59:45.697Z",
+    "fetchedAt": "2026-07-26T13:45:31.550Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-07-26T11:59:45.697Z",
+    "fetchedAt": "2026-07-26T13:45:31.550Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-26T11:59:45.814Z"
+    "articleFetchedAt": "2026-07-26T13:45:31.668Z"
   }
 }
