@@ -5,7 +5,7 @@
         "title": "Running a 28.9M parameter LLM on an $8 microcontroller",
         "url": "https://github.com/slvDev/esp32-ai",
         "points": 101,
-        "comments": 55,
+        "comments": 65,
         "author": "boveyking",
         "createdAt": "2026-07-25T18:59:50Z",
         "domain": "github.com",
@@ -25,7 +25,7 @@
         "title": "LLM Usage in Debian: Three Proposals",
         "url": "https://www.debian.org/vote/2026/vote_002",
         "points": 101,
-        "comments": 161,
+        "comments": 172,
         "author": "zdw",
         "createdAt": "2026-07-25T19:44:39Z",
         "domain": "debian.org",
@@ -86,8 +86,8 @@
       {
         "title": "Becoming a Research Engineer at a Big LLM Lab",
         "url": "https://www.maxmynter.com/pages/blog/jobhunt",
-        "points": 78,
-        "comments": 15,
+        "points": 79,
+        "comments": 18,
         "author": "felixdoerp",
         "createdAt": "2026-07-25T21:19:42Z",
         "domain": "maxmynter.com",
@@ -104,15 +104,15 @@
         ]
       }
     ],
-    "fetchedAt": "2026-07-26T13:45:31.550Z",
+    "fetchedAt": "2026-07-26T15:01:41.334Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-07-26T13:45:31.550Z",
+    "fetchedAt": "2026-07-26T15:01:41.334Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-26T13:45:31.668Z"
+    "articleFetchedAt": "2026-07-26T15:01:41.499Z"
   }
 }
