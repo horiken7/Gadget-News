@@ -5,7 +5,7 @@
         "title": "Running a 28.9M parameter LLM on an $8 microcontroller",
         "url": "https://github.com/slvDev/esp32-ai",
         "points": 101,
-        "comments": 47,
+        "comments": 50,
         "author": "boveyking",
         "createdAt": "2026-07-25T18:59:50Z",
         "domain": "github.com",
@@ -25,7 +25,7 @@
         "title": "LLM Usage in Debian: Three Proposals",
         "url": "https://www.debian.org/vote/2026/vote_002",
         "points": 101,
-        "comments": 147,
+        "comments": 156,
         "author": "zdw",
         "createdAt": "2026-07-25T19:44:39Z",
         "domain": "debian.org",
@@ -87,7 +87,7 @@
         "title": "The new rules of context engineering for Claude 5 generation models",
         "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
         "points": 73,
-        "comments": 230,
+        "comments": 253,
         "author": "mellosouls",
         "createdAt": "2026-07-25T20:42:35Z",
         "domain": "claude.com",
@@ -104,15 +104,15 @@
         ]
       }
     ],
-    "fetchedAt": "2026-07-26T10:41:39.878Z",
+    "fetchedAt": "2026-07-26T11:59:45.697Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-07-26T10:41:39.878Z",
+    "fetchedAt": "2026-07-26T11:59:45.697Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-26T10:41:39.991Z"
+    "articleFetchedAt": "2026-07-26T11:59:45.814Z"
   }
 }
