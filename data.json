@@ -2,6 +2,27 @@
   "news": {
     "items": [
       {
+        "title": "Microsoft unveils AI security tools it says outperform competing platforms",
+        "url": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/",
+        "points": 133,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-07-27T21:56:14.000Z",
+        "domain": "arstechnica.com",
+        "sourceType": "rss",
+        "sourceLabel": "Ars Technica",
+        "newsLens": "技術",
+        "category": "AIニュース",
+        "impact": "高",
+        "titleJa": "マイクロソフト、競合プラットフォームを上回るAIセキュリティツールを発表",
+        "summaryJa": "この記事は「マイクロソフト、競合プラットフォームを上回るAIセキュリティツールを発表」を扱っています。マイクロソフトは、ツールは競合他社よりもコストが低く、パフォーマンスも優れていると述べています。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "keyPoints": [
+          "この記事は「マイクロソフト、競合プラットフォームを上回るAIセキュリティツールを発表」を扱っています。",
+          "マイクロソフトは、ツールは競合他社よりもコストが低く、パフォーマンスも優れていると述べています。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+        ]
+      },
+      {
         "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
         "url": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
         "points": 133,
@@ -23,51 +44,31 @@
         ]
       },
       {
-        "title": "OpenAI’s Hugging Face breach has reignited the debate over alignment and control",
-        "url": "https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/",
+        "title": "Satya Nadella says companies that trust one AI for everything may not survive",
+        "url": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
         "points": 107,
         "comments": 0,
         "author": "",
-        "createdAt": "2026-07-27T17:28:42.000Z",
+        "createdAt": "2026-07-27T21:17:11.000Z",
         "domain": "techcrunch.com",
         "sourceType": "rss",
         "sourceLabel": "TechCrunch AI",
         "newsLens": "一般",
         "category": "AIニュース",
         "impact": "高",
-        "titleJa": "OpenAIのHugging Face違反は、アライメントとコントロールに関する議論を再燃させました",
-        "summaryJa": "この記事は「OpenAIのHugging Face違反は、アライメントとコントロールに関する議論を再燃させました」を扱っています。OpenAIのHugging Faceの侵害は、AIの整合性と制御に関する議論を再燃させ、ますます能力のあるAIをより整合させるべきか、より封じ込めるべきか、またはその両方であるべきかについての競合する見解を明らかにしました。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "titleJa": "Satya Nadellaは、1つのAIをすべて信頼する企業は生き残れないかもしれないと言います",
+        "summaryJa": "この記事は「Satya Nadellaは、1つのAIをすべて信頼する企業は生き残れないかもしれないと言います」を扱っています。ナデラ氏によると、独自のモデルを持たない企業、またはモデル自体からプロンプトを分離するためのAIゲートウェイとして知られるAIインフラストラクチャの層を持たない企業は、問題を抱えているという。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
-          "この記事は「OpenAIのHugging Face違反は、アライメントとコントロールに関する議論を再燃させました」を扱っています。",
-          "OpenAIのHugging Faceの侵害は、AIの整合性と制御に関する議論を再燃させ、ますます能力のあるAIをより整合させるべきか、より封じ込めるべきか、またはその両方であるべきかについての競合する見解を明らかにしました。",
+          "この記事は「Satya Nadellaは、1つのAIをすべて信頼する企業は生き残れないかもしれないと言います」を扱っています。",
+          "ナデラ氏によると、独自のモデルを持たない企業、またはモデル自体からプロンプトを分離するためのAIゲートウェイとして知られるAIインフラストラクチャの層を持たない企業は、問題を抱えているという。",
           "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
-        ]
-      },
-      {
-        "title": "Show HN: FeyNoBg – Automatic background removal model and training library",
-        "url": "https://usefeyn.com/blog/feynobg/",
-        "points": 82,
-        "comments": 13,
-        "author": "snyy",
-        "createdAt": "2026-07-27T16:59:08Z",
-        "domain": "usefeyn.com",
-        "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "低",
-        "newsLens": "技術",
-        "titleJa": "HNを表示： FeyNoBg –自動バックグラウンド除去モデルとトレーニングライブラリ",
-        "summaryJa": "この記事は「HNを表示： FeyNoBg –自動バックグラウンド除去モデルとトレーニングライブラリ」を扱っています。当社は、企業がデータからカスタムモデルを構築するのを支援します。本日、自動バックグラウンド除去モデルであるFeyNoBgをリリースします。",
-        "keyPoints": [
-          "この記事は「HNを表示： FeyNoBg –自動バックグラウンド除去モデルとトレーニングライブラリ」を扱っています。",
-          "当社は、企業がデータからカスタムモデルを構築するのを支援します。",
-          "本日、自動バックグラウンド除去モデルであるFeyNoBgをリリースします。"
         ]
       },
       {
         "title": "Elevated errors on Claude Opus 5",
         "url": "https://status.claude.com/incidents/mfdtrknpxghq",
-        "points": 63,
-        "comments": 62,
+        "points": 65,
+        "comments": 63,
         "author": "croemer",
         "createdAt": "2026-07-27T11:32:32Z",
         "domain": "status.claude.com",
@@ -84,49 +85,31 @@
         ]
       },
       {
-        "title": "Jensen Huang's first post on Twitter is in defense of open access to AI models",
-        "url": "https://www.pcgamer.com/software/ai/jensen-huangs-first-ever-post-on-x-is-in-defense-of-open-access-to-ai-models-alongside-google-openai-and-meta/",
-        "points": 52,
-        "comments": 20,
-        "author": "01-_-",
-        "createdAt": "2026-07-27T17:56:20Z",
-        "domain": "pcgamer.com",
+        "title": "Professor's invisible prompt trap catches 32/35 students cheating with AI",
+        "url": "https://www.techspot.com/news/113243-professor-invisible-prompt-trap-catches-32-students-cheating.html",
+        "points": 58,
+        "comments": 65,
+        "author": "leephillips",
+        "createdAt": "2026-07-27T19:46:05Z",
+        "domain": "techspot.com",
         "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "低",
+        "category": "AIニュース",
+        "impact": "中",
         "newsLens": "技術",
-        "titleJa": "Jensen HuangのTwitterへの最初の投稿は、AIモデルへのオープンアクセスを擁護するものです",
-        "summaryJa": "この記事は「Jensen HuangのTwitterへの最初の投稿は、AIモデルへのオープンアクセスを擁護するものです」を扱っています。多くの企業は、オープンなAIを持つ悪人は、オープンなAIを持つ善人と戦うのが最善だと主張しています。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "titleJa": "教授の目に見えないプロンプトトラップは、32/35の学生がAIで不正行為をしているのをキャッチします",
+        "summaryJa": "この記事は「教授の目に見えないプロンプトトラップは、32/35の学生がAIで不正行為をしているのをキャッチします」を扱っています。オンラインディスカッションの投稿で、アルコーン州立大学の歴史教授ジェイソン・ギブソン博士は、彼の学生の中間試験の一部を表す質問を提起した。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
         "keyPoints": [
-          "この記事は「Jensen HuangのTwitterへの最初の投稿は、AIモデルへのオープンアクセスを擁護するものです」を扱っています。",
-          "多くの企業は、オープンなAIを持つ悪人は、オープンなAIを持つ善人と戦うのが最善だと主張しています。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+          "この記事は「教授の目に見えないプロンプトトラップは、32/35の学生がAIで不正行為をしているのをキャッチします」を扱っています。",
+          "オンラインディスカッションの投稿で、アルコーン州立大学の歴史教授ジェイソン・ギブソン博士は、彼の学生の中間試験の一部を表す質問を提起した。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
       }
     ],
-    "fetchedAt": "2026-07-27T20:19:35.112Z",
+    "fetchedAt": "2026-07-27T22:02:51.869Z",
     "mock": false
   },
   "xTrends": {
     "items": [
-      {
-        "topic": "OpenAIと交渉中",
-        "locationLabel": "日本",
-        "bestRank": 48,
-        "appearances": 1,
-        "trendSource": "Trends24",
-        "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-07-27T20:19:35.082Z",
-        "url": "https://x.com/search?q=OpenAI%E3%81%A8%E4%BA%A4%E6%B8%89%E4%B8%AD&src=typed_query&f=live",
-        "articleTitle": "OpenAIと交渉中",
-        "articleTitleJa": "公開トレンド: OpenAIと交渉中",
-        "articleUrl": "https://trends24.in/japan/",
-        "articleSource": "Trends24",
-        "articlePublishedAt": "2026-07-27T20:19:35.082Z",
-        "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
-        "translationVersion": 3,
-        "articleFallback": true
-      },
       {
         "topic": "Open Secure AI Alliance",
         "locationLabel": "米国",
@@ -134,7 +117,7 @@
         "appearances": 5,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-07-27T20:19:34.995Z",
+        "observedAt": "2026-07-27T22:02:51.761Z",
         "url": "https://x.com/search?q=Open%20Secure%20AI%20Alliance&src=typed_query&f=live",
         "articleTitle": "Nvidia Launches Open Secure AI Alliance",
         "articleTitleJa": "Nvidia が Open Secure AI Alliance を開始",
@@ -145,10 +128,10 @@
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-07-27T20:19:35.112Z",
+    "fetchedAt": "2026-07-27T22:02:51.869Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-27T20:19:36.903Z"
+    "articleFetchedAt": "2026-07-27T22:02:52.749Z"
   }
 }
