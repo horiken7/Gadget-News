@@ -2,6 +2,27 @@
   "news": {
     "items": [
       {
+        "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
+        "url": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
+        "points": 133,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-07-27T18:32:11.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
+        "category": "AIモデル",
+        "impact": "高",
+        "titleJa": "マイクロソフト、初のサイバーセキュリティモデルと新しいエージェント型サイバーセキュリティシステムを発表",
+        "summaryJa": "この記事は「マイクロソフト、初のサイバーセキュリティモデルと新しいエージェント型サイバーセキュリティシステムを発表」を扱っています。マイクロソフトは今週、最初のAIセキュリティモデルと新しいセキュリティプラットフォームの立ち上げにより、AIサイバーセキュリティ製品を強化しました。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "keyPoints": [
+          "この記事は「マイクロソフト、初のサイバーセキュリティモデルと新しいエージェント型サイバーセキュリティシステムを発表」を扱っています。",
+          "マイクロソフトは今週、最初のAIセキュリティモデルと新しいセキュリティプラットフォームの立ち上げにより、AIサイバーセキュリティ製品を強化しました。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+        ]
+      },
+      {
         "title": "OpenAI’s Hugging Face breach has reignited the debate over alignment and control",
         "url": "https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/",
         "points": 107,
@@ -23,51 +44,10 @@
         ]
       },
       {
-        "title": "Ilya Sutskever’s Safe Superintelligence partners with Nvidia to scale its AI research",
-        "url": "https://techcrunch.com/2026/07/27/ilya-sutskevers-safe-superintelligence-partners-with-nvidia-to-scale-its-ai-research/",
-        "points": 89,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-07-27T15:01:50.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
-        "category": "研究",
-        "impact": "高",
-        "titleJa": "Ilya SutskeverのSafe SuperintelligenceがNVIDIAと提携してAI研究を拡大",
-        "summaryJa": "この記事は「Ilya SutskeverのSafe SuperintelligenceがNVIDIAと提携してAI研究を拡大」を扱っています。ステルスで2年を過ごしたSafe Superintelligenceは、NVIDIAとの長期的なパートナーシップを発表し、次の段階へのスケールアップを準備しています。一般向けには、AIが社会にどう受け止められ、どの分野で使われ始めているかを知る材料になります。",
-        "keyPoints": [
-          "この記事は「Ilya SutskeverのSafe SuperintelligenceがNVIDIAと提携してAI研究を拡大」を扱っています。",
-          "ステルスで2年を過ごしたSafe Superintelligenceは、NVIDIAとの長期的なパートナーシップを発表し、次の段階へのスケールアップを準備しています。",
-          "一般向けには、AIが社会にどう受け止められ、どの分野で使われ始めているかを知る材料になります。"
-        ]
-      },
-      {
-        "title": "Nvidia's $750B in Deals Reignite Circular AI Fears",
-        "url": "https://www.bloomberg.com/news/articles/2026-07-27/nvidia-s-750-billion-deals-revive-fear-of-ai-circular-financing",
-        "points": 78,
-        "comments": 50,
-        "author": "petethomas",
-        "createdAt": "2026-07-27T16:02:00Z",
-        "domain": "bloomberg.com",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "中",
-        "newsLens": "技術",
-        "titleJa": "NVIDIAの7500億$のDeals Reignite Circular AI Fears",
-        "summaryJa": "この記事は「NVIDIAの7500億$のDeals Reignite Circular AI Fears」を扱っています。bloomberg.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
-        "keyPoints": [
-          "この記事は「NVIDIAの7500億$のDeals Reignite Circular AI Fears」を扱っています。",
-          "bloomberg.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
-        ]
-      },
-      {
         "title": "Show HN: FeyNoBg – Automatic background removal model and training library",
         "url": "https://usefeyn.com/blog/feynobg/",
-        "points": 75,
-        "comments": 6,
+        "points": 82,
+        "comments": 13,
         "author": "snyy",
         "createdAt": "2026-07-27T16:59:08Z",
         "domain": "usefeyn.com",
@@ -86,14 +66,14 @@
       {
         "title": "Elevated errors on Claude Opus 5",
         "url": "https://status.claude.com/incidents/mfdtrknpxghq",
-        "points": 61,
-        "comments": 57,
+        "points": 63,
+        "comments": 62,
         "author": "croemer",
         "createdAt": "2026-07-27T11:32:32Z",
         "domain": "status.claude.com",
         "sourceType": "hn",
         "category": "AIモデル",
-        "impact": "中",
+        "impact": "高",
         "newsLens": "技術",
         "titleJa": "Claude・オーパスのエラー増加5",
         "summaryJa": "この記事は「Claude・オーパスのエラー増加5」を扱っています。Claudeのステータスページ-Claude・オーパスの誤りの増加5.。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
@@ -102,9 +82,29 @@
           "Claudeのステータスページ-Claude・オーパスの誤りの増加5.。",
           "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
+      },
+      {
+        "title": "Jensen Huang's first post on Twitter is in defense of open access to AI models",
+        "url": "https://www.pcgamer.com/software/ai/jensen-huangs-first-ever-post-on-x-is-in-defense-of-open-access-to-ai-models-alongside-google-openai-and-meta/",
+        "points": 52,
+        "comments": 20,
+        "author": "01-_-",
+        "createdAt": "2026-07-27T17:56:20Z",
+        "domain": "pcgamer.com",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "低",
+        "newsLens": "技術",
+        "titleJa": "Jensen HuangのTwitterへの最初の投稿は、AIモデルへのオープンアクセスを擁護するものです",
+        "summaryJa": "この記事は「Jensen HuangのTwitterへの最初の投稿は、AIモデルへのオープンアクセスを擁護するものです」を扱っています。多くの企業は、オープンなAIを持つ悪人は、オープンなAIを持つ善人と戦うのが最善だと主張しています。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "keyPoints": [
+          "この記事は「Jensen HuangのTwitterへの最初の投稿は、AIモデルへのオープンアクセスを擁護するものです」を扱っています。",
+          "多くの企業は、オープンなAIを持つ悪人は、オープンなAIを持つ善人と戦うのが最善だと主張しています。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+        ]
       }
     ],
-    "fetchedAt": "2026-07-27T18:22:07.307Z",
+    "fetchedAt": "2026-07-27T20:19:35.112Z",
     "mock": false
   },
   "xTrends": {
@@ -116,13 +116,13 @@
         "appearances": 1,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-07-27T18:22:07.193Z",
+        "observedAt": "2026-07-27T20:19:35.082Z",
         "url": "https://x.com/search?q=OpenAI%E3%81%A8%E4%BA%A4%E6%B8%89%E4%B8%AD&src=typed_query&f=live",
         "articleTitle": "OpenAIと交渉中",
         "articleTitleJa": "公開トレンド: OpenAIと交渉中",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-07-27T18:22:07.193Z",
+        "articlePublishedAt": "2026-07-27T20:19:35.082Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -134,7 +134,7 @@
         "appearances": 5,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-07-27T18:22:07.229Z",
+        "observedAt": "2026-07-27T20:19:34.995Z",
         "url": "https://x.com/search?q=Open%20Secure%20AI%20Alliance&src=typed_query&f=live",
         "articleTitle": "Nvidia Launches Open Secure AI Alliance",
         "articleTitleJa": "Nvidia が Open Secure AI Alliance を開始",
@@ -145,10 +145,10 @@
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-07-27T18:22:07.307Z",
+    "fetchedAt": "2026-07-27T20:19:35.112Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-27T18:22:08.184Z"
+    "articleFetchedAt": "2026-07-27T20:19:36.903Z"
   }
 }
