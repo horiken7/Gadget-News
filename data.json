@@ -2,23 +2,23 @@
   "news": {
     "items": [
       {
-        "title": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
-        "url": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
-        "points": 133,
+        "title": "OpenAI’s Hugging Face breach has reignited the debate over alignment and control",
+        "url": "https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/",
+        "points": 107,
         "comments": 0,
         "author": "",
-        "createdAt": "2026-07-26T16:33:13.000Z",
+        "createdAt": "2026-07-27T17:28:42.000Z",
         "domain": "techcrunch.com",
         "sourceType": "rss",
         "sourceLabel": "TechCrunch AI",
         "newsLens": "一般",
         "category": "AIニュース",
         "impact": "高",
-        "titleJa": "Hugging FaceのCEOは、「前例のない」OpenAIハッキングの後、「急進的な透明性」を求めています",
-        "summaryJa": "この記事は「Hugging FaceのCEOは、「前例のない」OpenAIハッキングの後、「急進的な透明性」を求めています」を扱っています。「最初の自律的なエージェントのサイバー攻撃は前例のない出来事です。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "titleJa": "OpenAIのHugging Face違反は、アライメントとコントロールに関する議論を再燃させました",
+        "summaryJa": "この記事は「OpenAIのHugging Face違反は、アライメントとコントロールに関する議論を再燃させました」を扱っています。OpenAIのHugging Faceの侵害は、AIの整合性と制御に関する議論を再燃させ、ますます能力のあるAIをより整合させるべきか、より封じ込めるべきか、またはその両方であるべきかについての競合する見解を明らかにしました。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
-          "この記事は「Hugging FaceのCEOは、「前例のない」OpenAIハッキングの後、「急進的な透明性」を求めています」を扱っています。",
-          "「最初の自律的なエージェントのサイバー攻撃は前例のない出来事です。",
+          "この記事は「OpenAIのHugging Face違反は、アライメントとコントロールに関する議論を再燃させました」を扱っています。",
+          "OpenAIのHugging Faceの侵害は、AIの整合性と制御に関する議論を再燃させ、ますます能力のあるAIをより整合させるべきか、より封じ込めるべきか、またはその両方であるべきかについての競合する見解を明らかにしました。",
           "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       },
@@ -44,67 +44,67 @@
         ]
       },
       {
-        "title": "AI companies spend record sums on Washington lobbying",
-        "url": "https://www.ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db",
-        "points": 81,
-        "comments": 23,
-        "author": "1vuio0pswjnm7",
-        "createdAt": "2026-07-27T14:07:48Z",
-        "domain": "ft.com",
+        "title": "Nvidia's $750B in Deals Reignite Circular AI Fears",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-27/nvidia-s-750-billion-deals-revive-fear-of-ai-circular-financing",
+        "points": 78,
+        "comments": 50,
+        "author": "petethomas",
+        "createdAt": "2026-07-27T16:02:00Z",
+        "domain": "bloomberg.com",
         "sourceType": "hn",
         "category": "AIニュース",
         "impact": "中",
         "newsLens": "技術",
-        "titleJa": "AI企業はワシントンのロビー活動に記録的な金額を費やしている",
-        "summaryJa": "この記事は「AI企業はワシントンのロビー活動に記録的な金額を費やしている」を扱っています。ft.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "titleJa": "NVIDIAの7500億$のDeals Reignite Circular AI Fears",
+        "summaryJa": "この記事は「NVIDIAの7500億$のDeals Reignite Circular AI Fears」を扱っています。bloomberg.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
         "keyPoints": [
-          "この記事は「AI企業はワシントンのロビー活動に記録的な金額を費やしている」を扱っています。",
-          "ft.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "この記事は「NVIDIAの7500億$のDeals Reignite Circular AI Fears」を扱っています。",
+          "bloomberg.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
           "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
       },
       {
-        "title": "Show HN: Watch 14-Byte AI \"brains\" attempt to solve a 2D maze (Its hard)",
-        "url": "https://con-dog.github.io/MINIMIO-PUBLIC-FRONTEND/",
-        "points": 74,
-        "comments": 3,
-        "author": "purple-leafy",
-        "createdAt": "2026-07-27T07:15:15Z",
-        "domain": "con-dog.github.io",
+        "title": "Show HN: FeyNoBg – Automatic background removal model and training library",
+        "url": "https://usefeyn.com/blog/feynobg/",
+        "points": 75,
+        "comments": 6,
+        "author": "snyy",
+        "createdAt": "2026-07-27T16:59:08Z",
+        "domain": "usefeyn.com",
         "sourceType": "hn",
-        "category": "AIニュース",
+        "category": "AIモデル",
         "impact": "低",
         "newsLens": "技術",
-        "titleJa": "HNを表示： 2 D迷路を解決しようとする14バイトのAI「ブレイン」の試みを見る（難しい）",
-        "summaryJa": "この記事は「HNを表示： 2 D迷路を解決しようとする14バイトのAI「ブレイン」の試みを見る（難しい）」を扱っています。私はこの数週間で、失敗したゲームの起動時のパレットクレンザーとしてこのプロジェクトを構築しました。AI/ニューラルネットワークについて少し学びたかったのですが、100 ％の解決率で小さな迷路を解くAIを週末に構築できると素朴に思っていました。",
+        "titleJa": "HNを表示： FeyNoBg –自動バックグラウンド除去モデルとトレーニングライブラリ",
+        "summaryJa": "この記事は「HNを表示： FeyNoBg –自動バックグラウンド除去モデルとトレーニングライブラリ」を扱っています。当社は、企業がデータからカスタムモデルを構築するのを支援します。本日、自動バックグラウンド除去モデルであるFeyNoBgをリリースします。",
         "keyPoints": [
-          "この記事は「HNを表示： 2 D迷路を解決しようとする14バイトのAI「ブレイン」の試みを見る（難しい）」を扱っています。",
-          "私はこの数週間で、失敗したゲームの起動時のパレットクレンザーとしてこのプロジェクトを構築しました。",
-          "AI/ニューラルネットワークについて少し学びたかったのですが、100 ％の解決率で小さな迷路を解くAIを週末に構築できると素朴に思っていました。"
+          "この記事は「HNを表示： FeyNoBg –自動バックグラウンド除去モデルとトレーニングライブラリ」を扱っています。",
+          "当社は、企業がデータからカスタムモデルを構築するのを支援します。",
+          "本日、自動バックグラウンド除去モデルであるFeyNoBgをリリースします。"
         ]
       },
       {
-        "title": "Apple Will 'Watch Everything Burn' When the AI Bubble Bursts",
-        "url": "https://www.macrumors.com/2026/07/27/ed-zitron-apple-watch-it-burn-ai-bubble-bursts/",
-        "points": 73,
-        "comments": 79,
-        "author": "thm",
-        "createdAt": "2026-07-27T14:42:41Z",
-        "domain": "macrumors.com",
+        "title": "Elevated errors on Claude Opus 5",
+        "url": "https://status.claude.com/incidents/mfdtrknpxghq",
+        "points": 61,
+        "comments": 57,
+        "author": "croemer",
+        "createdAt": "2026-07-27T11:32:32Z",
+        "domain": "status.claude.com",
         "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "高",
+        "category": "AIモデル",
+        "impact": "中",
         "newsLens": "技術",
-        "titleJa": "AppleはAIバブルが破裂したときに「すべてが燃えるのを見る」",
-        "summaryJa": "この記事は「AppleはAIバブルが破裂したときに「すべてが燃えるのを見る」」を扱っています。メモリの価格は2倍になり、MacとiPadは上昇し、iPhoneもそれに続くと予想されています。ニュースレター「Where's Your Ed At」を執筆し、「Better Offline」ポッドキャストをホストしているエド・ジトロン（ Ed Zitron ）氏は、AIブームの最も「刺激的なガドフライ」と評されているが、何年にもわたって、これらのコストを推進するビルドアウトがそれ自体のために支払うことは決してないと主張してきた。",
+        "titleJa": "Claude・オーパスのエラー増加5",
+        "summaryJa": "この記事は「Claude・オーパスのエラー増加5」を扱っています。Claudeのステータスページ-Claude・オーパスの誤りの増加5.。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
         "keyPoints": [
-          "この記事は「AppleはAIバブルが破裂したときに「すべてが燃えるのを見る」」を扱っています。",
-          "メモリの価格は2倍になり、MacとiPadは上昇し、iPhoneもそれに続くと予想されています。",
-          "ニュースレター「Where's Your Ed At」を執筆し、「Better Offline」ポッドキャストをホストしているエド・ジトロン（ Ed Zitron ）氏は、AIブームの最も「刺激的なガドフライ」と評されているが、何年にもわたって、これらのコストを推進するビルドアウトがそれ自体のために支払うことは決してないと主張してきた。"
+          "この記事は「Claude・オーパスのエラー増加5」を扱っています。",
+          "Claudeのステータスページ-Claude・オーパスの誤りの増加5.。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
       }
     ],
-    "fetchedAt": "2026-07-27T16:13:56.523Z",
+    "fetchedAt": "2026-07-27T18:22:07.307Z",
     "mock": false
   },
   "xTrends": {
@@ -116,13 +116,13 @@
         "appearances": 1,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-07-27T16:13:56.452Z",
+        "observedAt": "2026-07-27T18:22:07.193Z",
         "url": "https://x.com/search?q=OpenAI%E3%81%A8%E4%BA%A4%E6%B8%89%E4%B8%AD&src=typed_query&f=live",
         "articleTitle": "OpenAIと交渉中",
         "articleTitleJa": "公開トレンド: OpenAIと交渉中",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-07-27T16:13:56.452Z",
+        "articlePublishedAt": "2026-07-27T18:22:07.193Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -134,7 +134,7 @@
         "appearances": 5,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-07-27T16:13:56.384Z",
+        "observedAt": "2026-07-27T18:22:07.229Z",
         "url": "https://x.com/search?q=Open%20Secure%20AI%20Alliance&src=typed_query&f=live",
         "articleTitle": "Nvidia Launches Open Secure AI Alliance",
         "articleTitleJa": "Nvidia が Open Secure AI Alliance を開始",
@@ -145,10 +145,10 @@
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-07-27T16:13:56.523Z",
+    "fetchedAt": "2026-07-27T18:22:07.307Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-27T16:13:57.669Z"
+    "articleFetchedAt": "2026-07-27T18:22:08.184Z"
   }
 }
