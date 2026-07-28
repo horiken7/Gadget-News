@@ -67,8 +67,8 @@
       {
         "title": "Kimi K3 Now Available via Telnyx Inference API",
         "url": "https://telnyx.com/release-notes/kimi-k3-telnyx-inference",
-        "points": 98,
-        "comments": 66,
+        "points": 100,
+        "comments": 79,
         "author": "fionaattelnyx",
         "createdAt": "2026-07-27T22:46:28Z",
         "domain": "telnyx.com",
@@ -87,8 +87,8 @@
       {
         "title": "Don't ask an LLM for a confidence score",
         "url": "https://justinflick.com/2026/07/27/llm-confidence-scores.html",
-        "points": 85,
-        "comments": 18,
+        "points": 89,
+        "comments": 25,
         "author": "pamplemeese",
         "createdAt": "2026-07-28T00:06:53Z",
         "domain": "justinflick.com",
@@ -105,7 +105,7 @@
         ]
       }
     ],
-    "fetchedAt": "2026-07-28T13:55:40.241Z",
+    "fetchedAt": "2026-07-28T16:04:04.072Z",
     "mock": false
   },
   "xTrends": {
@@ -117,22 +117,22 @@
         "appearances": 1,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-07-28T13:55:40.224Z",
+        "observedAt": "2026-07-28T16:04:03.971Z",
         "url": "https://x.com/search?q=AI%E3%83%88%E3%83%AC%E3%83%BC%E3%83%89&src=typed_query&f=live",
         "articleTitle": "AIトレード",
         "articleTitleJa": "公開トレンド: AIトレード",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-07-28T13:55:40.224Z",
+        "articlePublishedAt": "2026-07-28T16:04:03.971Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
       }
     ],
-    "fetchedAt": "2026-07-28T13:55:40.241Z",
+    "fetchedAt": "2026-07-28T16:04:04.072Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-28T13:55:40.587Z"
+    "articleFetchedAt": "2026-07-28T16:04:04.495Z"
   }
 }
