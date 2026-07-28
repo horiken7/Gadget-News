@@ -67,8 +67,8 @@
       {
         "title": "Kimi K3 Now Available via Telnyx Inference API",
         "url": "https://telnyx.com/release-notes/kimi-k3-telnyx-inference",
-        "points": 93,
-        "comments": 51,
+        "points": 98,
+        "comments": 66,
         "author": "fionaattelnyx",
         "createdAt": "2026-07-27T22:46:28Z",
         "domain": "telnyx.com",
@@ -87,14 +87,14 @@
       {
         "title": "Don't ask an LLM for a confidence score",
         "url": "https://justinflick.com/2026/07/27/llm-confidence-scores.html",
-        "points": 80,
-        "comments": 3,
+        "points": 85,
+        "comments": 18,
         "author": "pamplemeese",
         "createdAt": "2026-07-28T00:06:53Z",
         "domain": "justinflick.com",
         "sourceType": "hn",
         "category": "AIモデル",
-        "impact": "低",
+        "impact": "中",
         "newsLens": "技術",
         "titleJa": "LLMに自信のスコアを求めない",
         "summaryJa": "この記事は「LLMに自信のスコアを求めない」を扱っています。justinflick.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
@@ -105,7 +105,7 @@
         ]
       }
     ],
-    "fetchedAt": "2026-07-28T11:53:46.689Z",
+    "fetchedAt": "2026-07-28T13:55:40.241Z",
     "mock": false
   },
   "xTrends": {
@@ -117,22 +117,22 @@
         "appearances": 1,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-07-28T11:53:46.676Z",
+        "observedAt": "2026-07-28T13:55:40.224Z",
         "url": "https://x.com/search?q=AI%E3%83%88%E3%83%AC%E3%83%BC%E3%83%89&src=typed_query&f=live",
         "articleTitle": "AIトレード",
         "articleTitleJa": "公開トレンド: AIトレード",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-07-28T11:53:46.676Z",
+        "articlePublishedAt": "2026-07-28T13:55:40.224Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
       }
     ],
-    "fetchedAt": "2026-07-28T11:53:46.689Z",
+    "fetchedAt": "2026-07-28T13:55:40.241Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-28T11:53:47.034Z"
+    "articleFetchedAt": "2026-07-28T13:55:40.587Z"
   }
 }
