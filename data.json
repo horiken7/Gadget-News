@@ -65,30 +65,30 @@
         ]
       },
       {
-        "title": "Show HN: FeyNoBg – Automatic background removal model and training library",
-        "url": "https://usefeyn.com/blog/feynobg/",
-        "points": 93,
-        "comments": 22,
-        "author": "snyy",
-        "createdAt": "2026-07-27T16:59:08Z",
-        "domain": "usefeyn.com",
+        "title": "Kimi K3 Now Available via Telnyx Inference API",
+        "url": "https://telnyx.com/release-notes/kimi-k3-telnyx-inference",
+        "points": 80,
+        "comments": 14,
+        "author": "fionaattelnyx",
+        "createdAt": "2026-07-27T22:46:28Z",
+        "domain": "telnyx.com",
         "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "高",
+        "category": "AIニュース",
+        "impact": "低",
         "newsLens": "技術",
-        "titleJa": "HNを表示： FeyNoBg –自動バックグラウンド除去モデルとトレーニングライブラリ",
-        "summaryJa": "この記事は「HNを表示： FeyNoBg –自動バックグラウンド除去モデルとトレーニングライブラリ」を扱っています。当社は、企業がデータからカスタムモデルを構築するのを支援します。本日、自動バックグラウンド除去モデルであるFeyNoBgをリリースします。",
+        "titleJa": "Kimi K 3がTelnyx Inference API経由で利用可能になりました",
+        "summaryJa": "この記事は「Kimi K 3がTelnyx Inference API経由で利用可能になりました」を扱っています。Moonshot AIは本日、Kimi K 3のオープンウェイトをリリースし、Telnyx Inferenceでライブ配信されています。アーキテクチャとムーンショット自身のベンチマークは、彼らの技術ブログに掲載されています。",
         "keyPoints": [
-          "この記事は「HNを表示： FeyNoBg –自動バックグラウンド除去モデルとトレーニングライブラリ」を扱っています。",
-          "当社は、企業がデータからカスタムモデルを構築するのを支援します。",
-          "本日、自動バックグラウンド除去モデルであるFeyNoBgをリリースします。"
+          "この記事は「Kimi K 3がTelnyx Inference API経由で利用可能になりました」を扱っています。",
+          "Moonshot AIは本日、Kimi K 3のオープンウェイトをリリースし、Telnyx Inferenceでライブ配信されています。",
+          "アーキテクチャとムーンショット自身のベンチマークは、彼らの技術ブログに掲載されています。"
         ]
       },
       {
         "title": "Elevated errors on Claude Opus 5",
         "url": "https://status.claude.com/incidents/mfdtrknpxghq",
         "points": 66,
-        "comments": 71,
+        "comments": 72,
         "author": "croemer",
         "createdAt": "2026-07-27T11:32:32Z",
         "domain": "status.claude.com",
@@ -105,11 +105,29 @@
         ]
       }
     ],
-    "fetchedAt": "2026-07-28T03:13:21.239Z",
+    "fetchedAt": "2026-07-28T06:22:53.851Z",
     "mock": false
   },
   "xTrends": {
     "items": [
+      {
+        "topic": "AIトレード",
+        "locationLabel": "日本",
+        "bestRank": 22,
+        "appearances": 1,
+        "trendSource": "Trends24",
+        "sourceUrl": "https://trends24.in/japan/",
+        "observedAt": "2026-07-28T06:22:53.723Z",
+        "url": "https://x.com/search?q=AI%E3%83%88%E3%83%AC%E3%83%BC%E3%83%89&src=typed_query&f=live",
+        "articleTitle": "AIトレード",
+        "articleTitleJa": "公開トレンド: AIトレード",
+        "articleUrl": "https://trends24.in/japan/",
+        "articleSource": "Trends24",
+        "articlePublishedAt": "2026-07-28T06:22:53.723Z",
+        "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
+        "translationVersion": 3,
+        "articleFallback": true
+      },
       {
         "topic": "Open Secure AI Alliance",
         "locationLabel": "米国",
@@ -117,7 +135,7 @@
         "appearances": 5,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-07-28T03:13:20.976Z",
+        "observedAt": "2026-07-28T06:22:53.678Z",
         "url": "https://x.com/search?q=Open%20Secure%20AI%20Alliance&src=typed_query&f=live",
         "articleTitle": "Nvidia Launches Open Secure AI Alliance",
         "articleTitleJa": "Nvidia が Open Secure AI Alliance を開始",
@@ -128,10 +146,10 @@
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-07-28T03:13:21.239Z",
+    "fetchedAt": "2026-07-28T06:22:53.851Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-28T03:13:23.107Z"
+    "articleFetchedAt": "2026-07-28T06:22:54.696Z"
   }
 }
