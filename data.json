@@ -2,52 +2,30 @@
   "news": {
     "items": [
       {
-        "title": "Microsoft unveils AI security tools it says outperform competing platforms",
-        "url": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/",
-        "points": 133,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-07-27T21:56:14.000Z",
-        "domain": "arstechnica.com",
-        "sourceType": "rss",
-        "sourceLabel": "Ars Technica",
+        "title": "OpenAI just open-sourced Codex Security",
+        "url": "https://github.com/openai/codex-security",
+        "points": 127,
+        "comments": 21,
+        "author": "bakigul",
+        "createdAt": "2026-07-28T20:52:55Z",
+        "domain": "github.com",
+        "sourceType": "hn",
+        "category": "開発ツール",
+        "impact": "高",
         "newsLens": "技術",
-        "category": "AIニュース",
-        "impact": "高",
-        "titleJa": "マイクロソフト、競合プラットフォームを上回るAIセキュリティツールを発表",
-        "summaryJa": "この記事は「マイクロソフト、競合プラットフォームを上回るAIセキュリティツールを発表」を扱っています。マイクロソフトは、ツールは競合他社よりもコストが低く、パフォーマンスも優れていると述べています。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "titleJa": "OpenAIは、コーデックスセキュリティをオープンソース化しました",
+        "summaryJa": "この記事は「OpenAIは、コーデックスセキュリティをオープンソース化しました」を扱っています。コーデックスセキュリティのためのSDKとCLI。GitHubでアカウントを作成して、openai/codex - security開発に貢献します。",
         "keyPoints": [
-          "この記事は「マイクロソフト、競合プラットフォームを上回るAIセキュリティツールを発表」を扱っています。",
-          "マイクロソフトは、ツールは競合他社よりもコストが低く、パフォーマンスも優れていると述べています。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
-        ]
-      },
-      {
-        "title": "Satya Nadella says companies that trust one AI for everything may not survive",
-        "url": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
-        "points": 107,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-07-27T21:17:11.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
-        "category": "AIニュース",
-        "impact": "高",
-        "titleJa": "Satya Nadellaは、1つのAIをすべて信頼する企業は生き残れないかもしれないと言います",
-        "summaryJa": "この記事は「Satya Nadellaは、1つのAIをすべて信頼する企業は生き残れないかもしれないと言います」を扱っています。ナデラ氏によると、独自のモデルを持たない企業、またはモデル自体からプロンプトを分離するためのAIゲートウェイとして知られるAIインフラストラクチャの層を持たない企業は、問題を抱えているという。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
-        "keyPoints": [
-          "この記事は「Satya Nadellaは、1つのAIをすべて信頼する企業は生き残れないかもしれないと言います」を扱っています。",
-          "ナデラ氏によると、独自のモデルを持たない企業、またはモデル自体からプロンプトを分離するためのAIゲートウェイとして知られるAIインフラストラクチャの層を持たない企業は、問題を抱えているという。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+          "この記事は「OpenAIは、コーデックスセキュリティをオープンソース化しました」を扱っています。",
+          "コーデックスセキュリティのためのSDKとCLI。",
+          "GitHubでアカウントを作成して、openai/codex - security開発に貢献します。"
         ]
       },
       {
         "title": "Kimi K3 Now Available via Telnyx Inference API",
         "url": "https://telnyx.com/release-notes/kimi-k3-telnyx-inference",
         "points": 101,
-        "comments": 80,
+        "comments": 83,
         "author": "fionaattelnyx",
         "createdAt": "2026-07-27T22:46:28Z",
         "domain": "telnyx.com",
@@ -88,7 +66,7 @@
         "title": "Fast Remediation Is the New Trust Model (JFrog and OpenAI Zero-Day Findings)",
         "url": "https://jfrog.com/blog/jfrog-and-openai-collaboration-on-zero-day-security-findings/",
         "points": 82,
-        "comments": 32,
+        "comments": 33,
         "author": "882542F3884314B",
         "createdAt": "2026-07-28T12:02:57Z",
         "domain": "jfrog.com",
@@ -103,17 +81,38 @@
           "AIモデルがゼロデイ脆弱性をどのように公開しているか、そして迅速な修復が最新のソフトウェアサプライチェーンセキュリティに不可欠である理由をご覧ください。",
           "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
+      },
+      {
+        "title": "Recursive Superintelligence signs $410M compute deal with Amazon",
+        "url": "https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon/",
+        "points": 79,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-07-28T13:19:17.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
+        "category": "AIニュース",
+        "impact": "中",
+        "titleJa": "再帰的スーパーインテリジェンスがAmazonと4億1000万$のコンピューティング契約を締結",
+        "summaryJa": "この記事は「再帰的スーパーインテリジェンスがAmazonと4億1000万$のコンピューティング契約を締結」を扱っています。自己改善AIシステムに重点を置いていることは、同社が独自の製品開発プロセスを自動化しようとしているため、従来は人員と運用に費やされていた予算の多くが直接コンピューティングに投入されることを意味します。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "keyPoints": [
+          "この記事は「再帰的スーパーインテリジェンスがAmazonと4億1000万$のコンピューティング契約を締結」を扱っています。",
+          "自己改善AIシステムに重点を置いていることは、同社が独自の製品開発プロセスを自動化しようとしているため、従来は人員と運用に費やされていた予算の多くが直接コンピューティングに投入されることを意味します。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+        ]
       }
     ],
-    "fetchedAt": "2026-07-28T20:13:52.486Z",
+    "fetchedAt": "2026-07-28T21:59:43.722Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-07-28T20:13:52.486Z",
+    "fetchedAt": "2026-07-28T21:59:43.722Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-28T20:13:52.604Z"
+    "articleFetchedAt": "2026-07-28T21:59:43.838Z"
   }
 }
