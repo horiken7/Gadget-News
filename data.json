@@ -67,8 +67,8 @@
       {
         "title": "Kimi K3 Now Available via Telnyx Inference API",
         "url": "https://telnyx.com/release-notes/kimi-k3-telnyx-inference",
-        "points": 90,
-        "comments": 39,
+        "points": 93,
+        "comments": 51,
         "author": "fionaattelnyx",
         "createdAt": "2026-07-27T22:46:28Z",
         "domain": "telnyx.com",
@@ -87,8 +87,8 @@
       {
         "title": "Don't ask an LLM for a confidence score",
         "url": "https://justinflick.com/2026/07/27/llm-confidence-scores.html",
-        "points": 76,
-        "comments": 1,
+        "points": 80,
+        "comments": 3,
         "author": "pamplemeese",
         "createdAt": "2026-07-28T00:06:53Z",
         "domain": "justinflick.com",
@@ -105,7 +105,7 @@
         ]
       }
     ],
-    "fetchedAt": "2026-07-28T09:33:36.881Z",
+    "fetchedAt": "2026-07-28T11:53:46.689Z",
     "mock": false
   },
   "xTrends": {
@@ -117,39 +117,22 @@
         "appearances": 1,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-07-28T09:33:36.862Z",
+        "observedAt": "2026-07-28T11:53:46.676Z",
         "url": "https://x.com/search?q=AI%E3%83%88%E3%83%AC%E3%83%BC%E3%83%89&src=typed_query&f=live",
         "articleTitle": "AIトレード",
         "articleTitleJa": "公開トレンド: AIトレード",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-07-28T09:33:36.862Z",
+        "articlePublishedAt": "2026-07-28T11:53:46.676Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
-      },
-      {
-        "topic": "Open Secure AI Alliance",
-        "locationLabel": "米国",
-        "bestRank": 18,
-        "appearances": 4,
-        "trendSource": "Trends24",
-        "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-07-28T09:33:36.761Z",
-        "url": "https://x.com/search?q=Open%20Secure%20AI%20Alliance&src=typed_query&f=live",
-        "articleTitle": "Nvidia Launches Open Secure AI Alliance",
-        "articleTitleJa": "Nvidia が Open Secure AI Alliance を開始",
-        "articleUrl": "https://blogs.nvidia.com/blog/open-secure-ai-alliance/",
-        "articleSource": "blogs.nvidia.com",
-        "articlePublishedAt": "2026-07-27T12:31:17Z",
-        "summaryJa": "NVIDIA と創設メンバーは、AI の責任ある使用と信頼を促進するオープン ツールを構築および共有するための新しい提携を結成します。",
-        "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-07-28T09:33:36.881Z",
+    "fetchedAt": "2026-07-28T11:53:46.689Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-28T09:33:37.957Z"
+    "articleFetchedAt": "2026-07-28T11:53:47.034Z"
   }
 }
