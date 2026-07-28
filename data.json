@@ -5,7 +5,7 @@
         "title": "OpenAI just open-sourced Codex Security",
         "url": "https://github.com/openai/codex-security",
         "points": 127,
-        "comments": 21,
+        "comments": 47,
         "author": "bakigul",
         "createdAt": "2026-07-28T20:52:55Z",
         "domain": "github.com",
@@ -22,23 +22,24 @@
         ]
       },
       {
-        "title": "Kimi K3 Now Available via Telnyx Inference API",
-        "url": "https://telnyx.com/release-notes/kimi-k3-telnyx-inference",
-        "points": 101,
-        "comments": 83,
-        "author": "fionaattelnyx",
-        "createdAt": "2026-07-27T22:46:28Z",
-        "domain": "telnyx.com",
-        "sourceType": "hn",
+        "title": "We now have a better understanding how OpenAI hacked into Hugging Face",
+        "url": "https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/",
+        "points": 107,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-07-28T21:36:39.000Z",
+        "domain": "arstechnica.com",
+        "sourceType": "rss",
+        "sourceLabel": "Ars Technica",
+        "newsLens": "技術",
         "category": "AIニュース",
         "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "Kimi K 3がTelnyx Inference API経由で利用可能になりました",
-        "summaryJa": "この記事は「Kimi K 3がTelnyx Inference API経由で利用可能になりました」を扱っています。Moonshot AIは本日、Kimi K 3のオープンウェイトをリリースし、Telnyx Inferenceでライブ配信されています。アーキテクチャとムーンショット自身のベンチマークは、彼らの技術ブログに掲載されています。",
+        "titleJa": "OpenAIがHugging Faceにどのようにハッキングしたかをよりよく理解できるようになりました",
+        "summaryJa": "この記事は「OpenAIがHugging Faceにどのようにハッキングしたかをよりよく理解できるようになりました」を扱っています。JFrog Artifactoryを悪用したOpenAIモデルから10日が経過し、パッチがリリースされました。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
         "keyPoints": [
-          "この記事は「Kimi K 3がTelnyx Inference API経由で利用可能になりました」を扱っています。",
-          "Moonshot AIは本日、Kimi K 3のオープンウェイトをリリースし、Telnyx Inferenceでライブ配信されています。",
-          "アーキテクチャとムーンショット自身のベンチマークは、彼らの技術ブログに掲載されています。"
+          "この記事は「OpenAIがHugging Faceにどのようにハッキングしたかをよりよく理解できるようになりました」を扱っています。",
+          "JFrog Artifactoryを悪用したOpenAIモデルから10日が経過し、パッチがリリースされました。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
       },
       {
@@ -66,7 +67,7 @@
         "title": "Fast Remediation Is the New Trust Model (JFrog and OpenAI Zero-Day Findings)",
         "url": "https://jfrog.com/blog/jfrog-and-openai-collaboration-on-zero-day-security-findings/",
         "points": 82,
-        "comments": 33,
+        "comments": 34,
         "author": "882542F3884314B",
         "createdAt": "2026-07-28T12:02:57Z",
         "domain": "jfrog.com",
@@ -104,15 +105,15 @@
         ]
       }
     ],
-    "fetchedAt": "2026-07-28T21:59:43.722Z",
+    "fetchedAt": "2026-07-28T23:08:16.688Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-07-28T21:59:43.722Z",
+    "fetchedAt": "2026-07-28T23:08:16.688Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-28T21:59:43.838Z"
+    "articleFetchedAt": "2026-07-28T23:08:16.817Z"
   }
 }
