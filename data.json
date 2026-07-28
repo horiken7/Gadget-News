@@ -23,27 +23,6 @@
         ]
       },
       {
-        "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
-        "url": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
-        "points": 133,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-07-27T18:32:11.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
-        "category": "AIモデル",
-        "impact": "高",
-        "titleJa": "マイクロソフト、初のサイバーセキュリティモデルと新しいエージェント型サイバーセキュリティシステムを発表",
-        "summaryJa": "この記事は「マイクロソフト、初のサイバーセキュリティモデルと新しいエージェント型サイバーセキュリティシステムを発表」を扱っています。マイクロソフトは今週、最初のAIセキュリティモデルと新しいセキュリティプラットフォームの立ち上げにより、AIサイバーセキュリティ製品を強化しました。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
-        "keyPoints": [
-          "この記事は「マイクロソフト、初のサイバーセキュリティモデルと新しいエージェント型サイバーセキュリティシステムを発表」を扱っています。",
-          "マイクロソフトは今週、最初のAIセキュリティモデルと新しいセキュリティプラットフォームの立ち上げにより、AIサイバーセキュリティ製品を強化しました。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
-        ]
-      },
-      {
         "title": "Satya Nadella says companies that trust one AI for everything may not survive",
         "url": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
         "points": 107,
@@ -85,54 +64,56 @@
         ]
       },
       {
-        "title": "Don't ask an LLM for a confidence score",
-        "url": "https://justinflick.com/2026/07/27/llm-confidence-scores.html",
-        "points": 90,
-        "comments": 30,
-        "author": "pamplemeese",
-        "createdAt": "2026-07-28T00:06:53Z",
-        "domain": "justinflick.com",
+        "title": "Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI",
+        "url": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
+        "points": 87,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-07-28T00:13:33.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
+        "category": "AIモデル",
+        "impact": "高",
+        "titleJa": "AnthropicのDario Amodeiは次のように答えています。オープンウェイトモデルに反対しているわけではないが、中国のAIを恐れている",
+        "summaryJa": "この記事は「AnthropicのDario Amodeiは次のように答えています。オープンウェイトモデルに反対しているわけではないが、中国のAIを恐れている」を扱っています。Anthropicの創設者兼CEOであるDario Amodei氏は、オープンウェイトモデルと中国の成長するAI機能について明確な見解を示しました。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "keyPoints": [
+          "この記事は「AnthropicのDario Amodeiは次のように答えています。",
+          "オープンウェイトモデルに反対しているわけではないが、中国のAIを恐れている」を扱っています。",
+          "Anthropicの創設者兼CEOであるDario Amodei氏は、オープンウェイトモデルと中国の成長するAI機能について明確な見解を示しました。"
+        ]
+      },
+      {
+        "title": "Fast Remediation Is the New Trust Model (JFrog and OpenAI Zero-Day Findings)",
+        "url": "https://jfrog.com/blog/jfrog-and-openai-collaboration-on-zero-day-security-findings/",
+        "points": 82,
+        "comments": 32,
+        "author": "882542F3884314B",
+        "createdAt": "2026-07-28T12:02:57Z",
+        "domain": "jfrog.com",
         "sourceType": "hn",
         "category": "AIモデル",
-        "impact": "中",
+        "impact": "低",
         "newsLens": "技術",
-        "titleJa": "LLMに自信のスコアを求めない",
-        "summaryJa": "この記事は「LLMに自信のスコアを求めない」を扱っています。justinflick.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "titleJa": "高速修復は新しい信頼モデルです（ JFrogとOpenAIゼロデイ調査結果）",
+        "summaryJa": "この記事は「高速修復は新しい信頼モデルです（ JFrogとOpenAIゼロデイ調査結果）」を扱っています。AIモデルがゼロデイ脆弱性をどのように公開しているか、そして迅速な修復が最新のソフトウェアサプライチェーンセキュリティに不可欠である理由をご覧ください。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
         "keyPoints": [
-          "この記事は「LLMに自信のスコアを求めない」を扱っています。",
-          "justinflick.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "この記事は「高速修復は新しい信頼モデルです（ JFrogとOpenAIゼロデイ調査結果）」を扱っています。",
+          "AIモデルがゼロデイ脆弱性をどのように公開しているか、そして迅速な修復が最新のソフトウェアサプライチェーンセキュリティに不可欠である理由をご覧ください。",
           "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
       }
     ],
-    "fetchedAt": "2026-07-28T18:10:38.819Z",
+    "fetchedAt": "2026-07-28T20:13:52.486Z",
     "mock": false
   },
   "xTrends": {
-    "items": [
-      {
-        "topic": "AIトレード",
-        "locationLabel": "日本",
-        "bestRank": 22,
-        "appearances": 1,
-        "trendSource": "Trends24",
-        "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-07-28T18:10:38.734Z",
-        "url": "https://x.com/search?q=AI%E3%83%88%E3%83%AC%E3%83%BC%E3%83%89&src=typed_query&f=live",
-        "articleTitle": "AIトレード",
-        "articleTitleJa": "公開トレンド: AIトレード",
-        "articleUrl": "https://trends24.in/japan/",
-        "articleSource": "Trends24",
-        "articlePublishedAt": "2026-07-28T18:10:38.734Z",
-        "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
-        "translationVersion": 3,
-        "articleFallback": true
-      }
-    ],
-    "fetchedAt": "2026-07-28T18:10:38.819Z",
+    "items": [],
+    "fetchedAt": "2026-07-28T20:13:52.486Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-28T18:10:39.427Z"
+    "articleFetchedAt": "2026-07-28T20:13:52.604Z"
   }
 }
