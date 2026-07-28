@@ -65,47 +65,49 @@
         ]
       },
       {
-        "title": "Elevated errors on Claude Opus 5",
-        "url": "https://status.claude.com/incidents/mfdtrknpxghq",
-        "points": 65,
-        "comments": 63,
-        "author": "croemer",
-        "createdAt": "2026-07-27T11:32:32Z",
-        "domain": "status.claude.com",
-        "sourceType": "hn",
-        "category": "AIモデル",
+        "title": "OpenAI’s Hugging Face breach has reignited the debate over alignment and control",
+        "url": "https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/",
+        "points": 107,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-07-27T17:28:42.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
+        "category": "AIニュース",
         "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "Claude・オーパスのエラー増加5",
-        "summaryJa": "この記事は「Claude・オーパスのエラー増加5」を扱っています。Claudeのステータスページ-Claude・オーパスの誤りの増加5.。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "titleJa": "OpenAIのHugging Face違反は、アライメントとコントロールに関する議論を再燃させました",
+        "summaryJa": "この記事は「OpenAIのHugging Face違反は、アライメントとコントロールに関する議論を再燃させました」を扱っています。OpenAIのHugging Faceの侵害は、AIの整合性と制御に関する議論を再燃させ、ますます能力のあるAIをより整合させるべきか、より封じ込めるべきか、またはその両方であるべきかについての競合する見解を明らかにしました。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
-          "この記事は「Claude・オーパスのエラー増加5」を扱っています。",
-          "Claudeのステータスページ-Claude・オーパスの誤りの増加5.。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+          "この記事は「OpenAIのHugging Face違反は、アライメントとコントロールに関する議論を再燃させました」を扱っています。",
+          "OpenAIのHugging Faceの侵害は、AIの整合性と制御に関する議論を再燃させ、ますます能力のあるAIをより整合させるべきか、より封じ込めるべきか、またはその両方であるべきかについての競合する見解を明らかにしました。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       },
       {
-        "title": "Professor's invisible prompt trap catches 32/35 students cheating with AI",
-        "url": "https://www.techspot.com/news/113243-professor-invisible-prompt-trap-catches-32-students-cheating.html",
-        "points": 58,
-        "comments": 65,
-        "author": "leephillips",
-        "createdAt": "2026-07-27T19:46:05Z",
-        "domain": "techspot.com",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "中",
-        "newsLens": "技術",
-        "titleJa": "教授の目に見えないプロンプトトラップは、32/35の学生がAIで不正行為をしているのをキャッチします",
-        "summaryJa": "この記事は「教授の目に見えないプロンプトトラップは、32/35の学生がAIで不正行為をしているのをキャッチします」を扱っています。オンラインディスカッションの投稿で、アルコーン州立大学の歴史教授ジェイソン・ギブソン博士は、彼の学生の中間試験の一部を表す質問を提起した。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "title": "Ilya Sutskever’s Safe Superintelligence partners with Nvidia to scale its AI research",
+        "url": "https://techcrunch.com/2026/07/27/ilya-sutskevers-safe-superintelligence-partners-with-nvidia-to-scale-its-ai-research/",
+        "points": 89,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-07-27T15:01:50.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
+        "category": "研究",
+        "impact": "高",
+        "titleJa": "Ilya SutskeverのSafe SuperintelligenceがNVIDIAと提携してAI研究を拡大",
+        "summaryJa": "この記事は「Ilya SutskeverのSafe SuperintelligenceがNVIDIAと提携してAI研究を拡大」を扱っています。ステルスで2年を過ごしたSafe Superintelligenceは、NVIDIAとの長期的なパートナーシップを発表し、次の段階へのスケールアップを準備しています。一般向けには、AIが社会にどう受け止められ、どの分野で使われ始めているかを知る材料になります。",
         "keyPoints": [
-          "この記事は「教授の目に見えないプロンプトトラップは、32/35の学生がAIで不正行為をしているのをキャッチします」を扱っています。",
-          "オンラインディスカッションの投稿で、アルコーン州立大学の歴史教授ジェイソン・ギブソン博士は、彼の学生の中間試験の一部を表す質問を提起した。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+          "この記事は「Ilya SutskeverのSafe SuperintelligenceがNVIDIAと提携してAI研究を拡大」を扱っています。",
+          "ステルスで2年を過ごしたSafe Superintelligenceは、NVIDIAとの長期的なパートナーシップを発表し、次の段階へのスケールアップを準備しています。",
+          "一般向けには、AIが社会にどう受け止められ、どの分野で使われ始めているかを知る材料になります。"
         ]
       }
     ],
-    "fetchedAt": "2026-07-27T22:02:51.869Z",
+    "fetchedAt": "2026-07-28T00:00:55.941Z",
     "mock": false
   },
   "xTrends": {
@@ -117,7 +119,7 @@
         "appearances": 5,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-07-27T22:02:51.761Z",
+        "observedAt": "2026-07-28T00:00:55.883Z",
         "url": "https://x.com/search?q=Open%20Secure%20AI%20Alliance&src=typed_query&f=live",
         "articleTitle": "Nvidia Launches Open Secure AI Alliance",
         "articleTitleJa": "Nvidia が Open Secure AI Alliance を開始",
@@ -128,10 +130,10 @@
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-07-27T22:02:51.869Z",
+    "fetchedAt": "2026-07-28T00:00:55.941Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-27T22:02:52.749Z"
+    "articleFetchedAt": "2026-07-28T00:01:00.909Z"
   }
 }
