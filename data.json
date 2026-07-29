@@ -47,7 +47,7 @@
         "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
         "url": "https://github.com/drumih/turbo-fieldfare",
         "points": 101,
-        "comments": 191,
+        "comments": 208,
         "author": "gitpusher42",
         "createdAt": "2026-07-29T15:05:43Z",
         "domain": "github.com",
@@ -64,55 +64,57 @@
         ]
       },
       {
-        "title": "Document-borne AI worms can self-propagate through Copilot for Word",
-        "url": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/",
-        "points": 73,
-        "comments": 234,
-        "author": "Canopy9560",
-        "createdAt": "2026-07-29T11:44:33Z",
-        "domain": "enklypesalt.com",
-        "sourceType": "hn",
+        "title": "OpenAI says rogue AI agent attack hit other companies",
+        "url": "https://japantoday.com/category/tech/openai-says-rogue-ai-agent-attack-hit-other-companies",
+        "points": 81,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-07-29T22:30:00Z",
+        "domain": "japantoday.com",
+        "sourceType": "gdelt",
+        "sourceLabel": "GDELT",
         "category": "AIニュース",
-        "impact": "高",
+        "impact": "中",
         "newsLens": "技術",
-        "titleJa": "ドキュメントを介したAIワームは、Copilot for Wordを介して自己繁殖することができます",
-        "summaryJa": "この記事は「ドキュメントを介したAIワームは、Copilot for Wordを介して自己繁殖することができます」を扱っています。この技術的な分析と開示された脆弱性の緩和に協力してくれたMicrosoft製品チームとMicrosoft Security Response Center （ MSRC ）に感謝します。以下に反映されている編集上の意見は著者のみのものであり、必ずしも私が協力した組織の意見を反映しているわけではありません。",
+        "titleJa": "OpenAIは、不正なAIエージェントの攻撃が他の企業を襲ったと述べています",
+        "summaryJa": "この記事は「OpenAIは、不正なAIエージェントの攻撃が他の企業を襲ったと述べています」を扱っています。ChatGPTメーカーのOpenAIは、コンピュータプログラマーのための人気のあるプラットフォームをハッキングした自律型人工知能エージェントが、事件中に他の4社にも侵入しようとしたことを明らかにした。OpenAIは、火曜日遅くにインシデントの調査を詳述したブログ記事への更新で、AIエージェントが影響を受けたと述べた…。",
         "keyPoints": [
-          "この記事は「ドキュメントを介したAIワームは、Copilot for Wordを介して自己繁殖することができます」を扱っています。",
-          "この技術的な分析と開示された脆弱性の緩和に協力してくれたMicrosoft製品チームとMicrosoft Security Response Center （ MSRC ）に感謝します。",
-          "以下に反映されている編集上の意見は著者のみのものであり、必ずしも私が協力した組織の意見を反映しているわけではありません。"
+          "この記事は「OpenAIは、不正なAIエージェントの攻撃が他の企業を襲ったと述べています」を扱っています。",
+          "ChatGPTメーカーのOpenAIは、コンピュータプログラマーのための人気のあるプラットフォームをハッキングした自律型人工知能エージェントが、事件中に他の4社にも侵入しようとしたことを明らかにした。",
+          "OpenAIは、火曜日遅くにインシデントの調査を詳述したブログ記事への更新で、AIエージェントが影響を受けたと述べた…。"
         ]
       },
       {
-        "title": "Claude: Elevated errors across all models",
-        "url": "https://status.claude.com/incidents/q2kg8n613kr3",
-        "points": 73,
-        "comments": 192,
-        "author": "gregsadetsky",
-        "createdAt": "2026-07-29T19:50:42Z",
-        "domain": "status.claude.com",
-        "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "高",
+        "title": "Mythos uncovers crypto weaknesses that went unknown for years",
+        "url": "https://arstechnica.com/security/2026/07/mythos-uncovers-crypto-weaknesses-that-went-unknown-for-years/",
+        "points": 79,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-07-29T22:07:06.000Z",
+        "domain": "arstechnica.com",
+        "sourceType": "rss",
+        "sourceLabel": "Ars Technica",
         "newsLens": "技術",
-        "titleJa": "Claude：すべてのモデルでエラーが増加",
-        "summaryJa": "この記事は「Claude：すべてのモデルでエラーが増加」を扱っています。Claudeのステータスページ-すべてのモデルでエラーが増加しました。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "category": "AIニュース",
+        "impact": "中",
+        "titleJa": "神話は、何年も知られていなかった暗号の弱点を明らかにします",
+        "summaryJa": "この記事は「神話は、何年も知られていなかった暗号の弱点を明らかにします」を扱っています。Anthropicの結果では、小麦からチャフを分離するのは難しいです。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
         "keyPoints": [
-          "この記事は「Claude：すべてのモデルでエラーが増加」を扱っています。",
-          "Claudeのステータスページ-すべてのモデルでエラーが増加しました。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+          "この記事は「神話は、何年も知られていなかった暗号の弱点を明らかにします」を扱っています。",
+          "Anthropicの結果では、小麦からチャフを分離するのは難しいです。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
       }
     ],
-    "fetchedAt": "2026-07-29T21:56:40.770Z",
+    "fetchedAt": "2026-07-29T22:58:34.477Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-07-29T21:56:40.770Z",
+    "fetchedAt": "2026-07-29T22:58:34.477Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-29T21:56:40.893Z"
+    "articleFetchedAt": "2026-07-29T22:58:34.596Z"
   }
 }
