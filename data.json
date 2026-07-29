@@ -44,10 +44,30 @@
         ]
       },
       {
+        "title": "Chip stocks slide in US and Asia as AI jitters rattle investors",
+        "url": "https://www.bbc.com/news/articles/cly8zng43npo",
+        "points": 103,
+        "comments": 36,
+        "author": "yogthos",
+        "createdAt": "2026-07-29T01:56:00Z",
+        "domain": "bbc.com",
+        "sourceType": "hn",
+        "category": "ハードウェア",
+        "impact": "低",
+        "newsLens": "技術",
+        "titleJa": "AIが投資家を不安にさせているため、米国とアジアのチップ株が下落",
+        "summaryJa": "この記事は「AIが投資家を不安にさせているため、米国とアジアのチップ株が下落」を扱っています。韓国のコスピインデックスの取引は、8 ％下落した後、火曜日の朝に一時的に停止されました。技術面では、ロボット、GPU、データセンターなどAIを動かす基盤への影響を見る必要があります。",
+        "keyPoints": [
+          "この記事は「AIが投資家を不安にさせているため、米国とアジアのチップ株が下落」を扱っています。",
+          "韓国のコスピインデックスの取引は、8 ％下落した後、火曜日の朝に一時的に停止されました。",
+          "技術面では、ロボット、GPU、データセンターなどAIを動かす基盤への影響を見る必要があります。"
+        ]
+      },
+      {
         "title": "Fast Remediation Is the New Trust Model (JFrog and OpenAI Zero-Day Findings)",
         "url": "https://jfrog.com/blog/jfrog-and-openai-collaboration-on-zero-day-security-findings/",
         "points": 83,
-        "comments": 36,
+        "comments": 37,
         "author": "882542F3884314B",
         "createdAt": "2026-07-28T12:02:57Z",
         "domain": "jfrog.com",
@@ -83,37 +103,17 @@
           "自己改善AIシステムに重点を置いていることは、同社が独自の製品開発プロセスを自動化しようとしているため、従来は人員と運用に費やされていた予算の多くが直接コンピューティングに投入されることを意味します。",
           "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
-      },
-      {
-        "title": "Discovering Cryptographic Weaknesses with Claude",
-        "url": "https://www.anthropic.com/research/discovering-cryptographic-weaknesses",
-        "points": 73,
-        "comments": 137,
-        "author": "gslin",
-        "createdAt": "2026-07-28T17:22:16Z",
-        "domain": "anthropic.com",
-        "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "Claudeと一緒に暗号の弱点を発見しよう",
-        "summaryJa": "この記事は「Claudeと一緒に暗号の弱点を発見しよう」を扱っています。Anthropic学研究者がClaude Mythos Previewで暗号アルゴリズムの弱点を発見。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
-        "keyPoints": [
-          "この記事は「Claudeと一緒に暗号の弱点を発見しよう」を扱っています。",
-          "Anthropic学研究者がClaude Mythos Previewで暗号アルゴリズムの弱点を発見。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
-        ]
       }
     ],
-    "fetchedAt": "2026-07-29T05:47:40.928Z",
+    "fetchedAt": "2026-07-29T08:33:26.901Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-07-29T05:47:40.928Z",
+    "fetchedAt": "2026-07-29T08:33:26.901Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-29T05:47:41.050Z"
+    "articleFetchedAt": "2026-07-29T08:33:27.069Z"
   }
 }
