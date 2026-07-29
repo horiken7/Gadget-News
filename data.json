@@ -2,65 +2,44 @@
   "news": {
     "items": [
       {
-        "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
-        "url": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
-        "points": 115,
+        "title": "Discover what’s next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026",
+        "url": "https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026/",
+        "points": 133,
         "comments": 0,
         "author": "",
-        "createdAt": "2026-07-29T00:09:05.000Z",
+        "createdAt": "2026-07-29T21:16:39.000Z",
         "domain": "techcrunch.com",
         "sourceType": "rss",
         "sourceLabel": "TechCrunch AI",
         "newsLens": "一般",
         "category": "AIニュース",
         "impact": "高",
-        "titleJa": "Cyeraは、増殖するAIエージェントを保護するために、Oasis Securityを$ 10億で買収することに同意します",
-        "summaryJa": "この記事は「Cyeraは、増殖するAIエージェントを保護するために、Oasis Securityを$ 10億で買収することに同意します」を扱っています。この取引は、Cyeraの今年の3回目の買収です。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "titleJa": "TechCrunch Disrupt 2026で、SaaSの計算からエージェントのセキュリティギャップまで、AIの今後の動向をご覧ください",
+        "summaryJa": "この記事は「TechCrunch Disrupt 2026で、SaaSの計算からエージェントのセキュリティギャップまで、AIの今後の動向をご覧ください」を扱っています。TechCrunch Disrupt 2026では、Google for Startupsが発表した、過去数年間のコミュニティで最もホットなトピックをAI Stageが再び掘り下げています。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
-          "この記事は「Cyeraは、増殖するAIエージェントを保護するために、Oasis Securityを$ 10億で買収することに同意します」を扱っています。",
-          "この取引は、Cyeraの今年の3回目の買収です。",
+          "この記事は「TechCrunch Disrupt 2026で、SaaSの計算からエージェントのセキュリティギャップまで、AIの今後の動向をご覧ください」を扱っています。",
+          "TechCrunch Disrupt 2026では、Google for Startupsが発表した、過去数年間のコミュニティで最もホットなトピックをAI Stageが再び掘り下げています。",
           "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       },
       {
-        "title": "We now have a better understanding how OpenAI hacked into Hugging Face",
-        "url": "https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/",
-        "points": 107,
+        "title": "Thinking Machines co-founder Lilian Weng left the company citing health reasons, then joined OpenAI",
+        "url": "https://techcrunch.com/2026/07/29/thinking-machines-co-founder-lilian-weng-left-the-company-citing-health-reasons-then-joined-openai/",
+        "points": 115,
         "comments": 0,
         "author": "",
-        "createdAt": "2026-07-28T21:36:39.000Z",
-        "domain": "arstechnica.com",
-        "sourceType": "rss",
-        "sourceLabel": "Ars Technica",
-        "newsLens": "技術",
-        "category": "AIニュース",
-        "impact": "高",
-        "titleJa": "OpenAIがHugging Faceにどのようにハッキングしたかをよりよく理解できるようになりました",
-        "summaryJa": "この記事は「OpenAIがHugging Faceにどのようにハッキングしたかをよりよく理解できるようになりました」を扱っています。JFrog Artifactoryを悪用したOpenAIモデルから10日が経過し、パッチがリリースされました。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
-        "keyPoints": [
-          "この記事は「OpenAIがHugging Faceにどのようにハッキングしたかをよりよく理解できるようになりました」を扱っています。",
-          "JFrog Artifactoryを悪用したOpenAIモデルから10日が経過し、パッチがリリースされました。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
-        ]
-      },
-      {
-        "title": "The Hugging Face AI break-in, as told through an increasingly committed bear metaphor",
-        "url": "https://techcrunch.com/2026/07/29/the-hugging-face-ai-break-in-as-told-through-an-increasingly-committed-bear-metaphor/",
-        "points": 107,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-07-29T19:44:49.000Z",
+        "createdAt": "2026-07-29T21:07:48.000Z",
         "domain": "techcrunch.com",
         "sourceType": "rss",
         "sourceLabel": "TechCrunch AI",
         "newsLens": "一般",
         "category": "AIニュース",
         "impact": "高",
-        "titleJa": "ますますコミットされているクマのメタファーを通して伝えられるように、ハグフェイスAIの侵入",
-        "summaryJa": "この記事は「ますますコミットされているクマのメタファーを通して伝えられるように、ハグフェイスAIの侵入」を扱っています。全体を考えるもう1つの方法は、キャンプ場でクマを描くことです。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "titleJa": "Thinking Machinesの共同創業者であるLilian Weng氏は、健康上の理由を理由に同社を退職し、OpenAIに入社しました。",
+        "summaryJa": "この記事は「Thinking Machinesの共同創業者であるLilian Weng氏は、健康上の理由を理由に同社を退職し、OpenAIに入社しました。」を扱っています。Weng氏は以前、OpenAIのAI安全性研究担当バイスプレジデントを務めていました。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
-          "この記事は「ますますコミットされているクマのメタファーを通して伝えられるように、ハグフェイスAIの侵入」を扱っています。",
-          "全体を考えるもう1つの方法は、キャンプ場でクマを描くことです。",
+          "この記事は「Thinking Machinesの共同創業者であるLilian Weng氏は、健康上の理由を理由に同社を退職し、OpenAIに入社しました。",
+          "Weng氏は以前、OpenAIのAI安全性研究担当バイスプレジデントを務めていました。",
           "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       },
@@ -68,7 +47,7 @@
         "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
         "url": "https://github.com/drumih/turbo-fieldfare",
         "points": 101,
-        "comments": 169,
+        "comments": 191,
         "author": "gitpusher42",
         "createdAt": "2026-07-29T15:05:43Z",
         "domain": "github.com",
@@ -88,7 +67,7 @@
         "title": "Document-borne AI worms can self-propagate through Copilot for Word",
         "url": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/",
         "points": 73,
-        "comments": 213,
+        "comments": 234,
         "author": "Canopy9560",
         "createdAt": "2026-07-29T11:44:33Z",
         "domain": "enklypesalt.com",
@@ -103,17 +82,37 @@
           "この技術的な分析と開示された脆弱性の緩和に協力してくれたMicrosoft製品チームとMicrosoft Security Response Center （ MSRC ）に感謝します。",
           "以下に反映されている編集上の意見は著者のみのものであり、必ずしも私が協力した組織の意見を反映しているわけではありません。"
         ]
+      },
+      {
+        "title": "Claude: Elevated errors across all models",
+        "url": "https://status.claude.com/incidents/q2kg8n613kr3",
+        "points": 73,
+        "comments": 192,
+        "author": "gregsadetsky",
+        "createdAt": "2026-07-29T19:50:42Z",
+        "domain": "status.claude.com",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "Claude：すべてのモデルでエラーが増加",
+        "summaryJa": "この記事は「Claude：すべてのモデルでエラーが増加」を扱っています。Claudeのステータスページ-すべてのモデルでエラーが増加しました。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "keyPoints": [
+          "この記事は「Claude：すべてのモデルでエラーが増加」を扱っています。",
+          "Claudeのステータスページ-すべてのモデルでエラーが増加しました。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+        ]
       }
     ],
-    "fetchedAt": "2026-07-29T20:09:38.590Z",
+    "fetchedAt": "2026-07-29T21:56:40.770Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-07-29T20:09:38.590Z",
+    "fetchedAt": "2026-07-29T21:56:40.770Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-29T20:09:38.695Z"
+    "articleFetchedAt": "2026-07-29T21:56:40.893Z"
   }
 }
