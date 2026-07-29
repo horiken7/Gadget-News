@@ -46,8 +46,8 @@
       {
         "title": "Fast Remediation Is the New Trust Model (JFrog and OpenAI Zero-Day Findings)",
         "url": "https://jfrog.com/blog/jfrog-and-openai-collaboration-on-zero-day-security-findings/",
-        "points": 82,
-        "comments": 35,
+        "points": 83,
+        "comments": 36,
         "author": "882542F3884314B",
         "createdAt": "2026-07-28T12:02:57Z",
         "domain": "jfrog.com",
@@ -88,7 +88,7 @@
         "title": "Discovering Cryptographic Weaknesses with Claude",
         "url": "https://www.anthropic.com/research/discovering-cryptographic-weaknesses",
         "points": 73,
-        "comments": 125,
+        "comments": 137,
         "author": "gslin",
         "createdAt": "2026-07-28T17:22:16Z",
         "domain": "anthropic.com",
@@ -105,15 +105,15 @@
         ]
       }
     ],
-    "fetchedAt": "2026-07-29T02:11:13.618Z",
+    "fetchedAt": "2026-07-29T05:47:40.928Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-07-29T02:11:13.618Z",
+    "fetchedAt": "2026-07-29T05:47:40.928Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-29T02:11:13.734Z"
+    "articleFetchedAt": "2026-07-29T05:47:41.050Z"
   }
 }
