@@ -2,23 +2,24 @@
   "news": {
     "items": [
       {
-        "title": "OpenAI just open-sourced Codex Security",
-        "url": "https://github.com/openai/codex-security",
-        "points": 127,
-        "comments": 47,
-        "author": "bakigul",
-        "createdAt": "2026-07-28T20:52:55Z",
-        "domain": "github.com",
-        "sourceType": "hn",
-        "category": "開発ツール",
+        "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
+        "url": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
+        "points": 115,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-07-29T00:09:05.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
+        "category": "AIニュース",
         "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "OpenAIは、コーデックスセキュリティをオープンソース化しました",
-        "summaryJa": "この記事は「OpenAIは、コーデックスセキュリティをオープンソース化しました」を扱っています。コーデックスセキュリティのためのSDKとCLI。GitHubでアカウントを作成して、openai/codex - security開発に貢献します。",
+        "titleJa": "Cyeraは、増殖するAIエージェントを保護するために、Oasis Securityを$ 10億で買収することに同意します",
+        "summaryJa": "この記事は「Cyeraは、増殖するAIエージェントを保護するために、Oasis Securityを$ 10億で買収することに同意します」を扱っています。この取引は、Cyeraの今年の3回目の買収です。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
-          "この記事は「OpenAIは、コーデックスセキュリティをオープンソース化しました」を扱っています。",
-          "コーデックスセキュリティのためのSDKとCLI。",
-          "GitHubでアカウントを作成して、openai/codex - security開発に貢献します。"
+          "この記事は「Cyeraは、増殖するAIエージェントを保護するために、Oasis Securityを$ 10億で買収することに同意します」を扱っています。",
+          "この取引は、Cyeraの今年の3回目の買収です。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       },
       {
@@ -43,31 +44,10 @@
         ]
       },
       {
-        "title": "Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI",
-        "url": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
-        "points": 87,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-07-28T00:13:33.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
-        "category": "AIモデル",
-        "impact": "高",
-        "titleJa": "AnthropicのDario Amodeiは次のように答えています。オープンウェイトモデルに反対しているわけではないが、中国のAIを恐れている",
-        "summaryJa": "この記事は「AnthropicのDario Amodeiは次のように答えています。オープンウェイトモデルに反対しているわけではないが、中国のAIを恐れている」を扱っています。Anthropicの創設者兼CEOであるDario Amodei氏は、オープンウェイトモデルと中国の成長するAI機能について明確な見解を示しました。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
-        "keyPoints": [
-          "この記事は「AnthropicのDario Amodeiは次のように答えています。",
-          "オープンウェイトモデルに反対しているわけではないが、中国のAIを恐れている」を扱っています。",
-          "Anthropicの創設者兼CEOであるDario Amodei氏は、オープンウェイトモデルと中国の成長するAI機能について明確な見解を示しました。"
-        ]
-      },
-      {
         "title": "Fast Remediation Is the New Trust Model (JFrog and OpenAI Zero-Day Findings)",
         "url": "https://jfrog.com/blog/jfrog-and-openai-collaboration-on-zero-day-security-findings/",
         "points": 82,
-        "comments": 34,
+        "comments": 35,
         "author": "882542F3884314B",
         "createdAt": "2026-07-28T12:02:57Z",
         "domain": "jfrog.com",
@@ -103,17 +83,37 @@
           "自己改善AIシステムに重点を置いていることは、同社が独自の製品開発プロセスを自動化しようとしているため、従来は人員と運用に費やされていた予算の多くが直接コンピューティングに投入されることを意味します。",
           "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
+      },
+      {
+        "title": "Discovering Cryptographic Weaknesses with Claude",
+        "url": "https://www.anthropic.com/research/discovering-cryptographic-weaknesses",
+        "points": 73,
+        "comments": 125,
+        "author": "gslin",
+        "createdAt": "2026-07-28T17:22:16Z",
+        "domain": "anthropic.com",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "Claudeと一緒に暗号の弱点を発見しよう",
+        "summaryJa": "この記事は「Claudeと一緒に暗号の弱点を発見しよう」を扱っています。Anthropic学研究者がClaude Mythos Previewで暗号アルゴリズムの弱点を発見。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "keyPoints": [
+          "この記事は「Claudeと一緒に暗号の弱点を発見しよう」を扱っています。",
+          "Anthropic学研究者がClaude Mythos Previewで暗号アルゴリズムの弱点を発見。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+        ]
       }
     ],
-    "fetchedAt": "2026-07-28T23:08:16.688Z",
+    "fetchedAt": "2026-07-29T02:11:13.618Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-07-28T23:08:16.688Z",
+    "fetchedAt": "2026-07-29T02:11:13.618Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-28T23:08:16.817Z"
+    "articleFetchedAt": "2026-07-29T02:11:13.734Z"
   }
 }
