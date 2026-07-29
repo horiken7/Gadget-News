@@ -46,8 +46,8 @@
       {
         "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
         "url": "https://github.com/drumih/turbo-fieldfare",
-        "points": 100,
-        "comments": 24,
+        "points": 101,
+        "comments": 95,
         "author": "gitpusher42",
         "createdAt": "2026-07-29T15:05:43Z",
         "domain": "github.com",
@@ -85,35 +85,35 @@
         ]
       },
       {
-        "title": "Discovering Cryptographic Weaknesses with Claude",
-        "url": "https://www.anthropic.com/research/discovering-cryptographic-weaknesses",
-        "points": 73,
-        "comments": 170,
-        "author": "gslin",
-        "createdAt": "2026-07-28T17:22:16Z",
-        "domain": "anthropic.com",
+        "title": "Launch HN: Tokenless (YC S26) – Automatic model switching to save money",
+        "url": "https://usetokenless.com/",
+        "points": 77,
+        "comments": 25,
+        "author": "rohaga",
+        "createdAt": "2026-07-29T15:55:27Z",
+        "domain": "usetokenless.com",
         "sourceType": "hn",
         "category": "AIモデル",
-        "impact": "高",
+        "impact": "低",
         "newsLens": "技術",
-        "titleJa": "Claudeと一緒に暗号の弱点を発見しよう",
-        "summaryJa": "この記事は「Claudeと一緒に暗号の弱点を発見しよう」を扱っています。Anthropic学研究者がClaude Mythos Previewで暗号アルゴリズムの弱点を発見。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "titleJa": "HNを起動：トークンレス（ YC S 26 ） –お金を節約するための自動モデル切り替え",
+        "summaryJa": "この記事は「HNを起動：トークンレス（ YC S 26 ） –お金を節約するための自動モデル切り替え」を扱っています。共同創業者のAndrewさんとKevさんと一緒に構築しています。当社は、異なるモデル間でエージェントのトラフィックを動的にターンバイターンでルーティングするAPIゲートウェイを構築しており、AIの支出を節約しています。",
         "keyPoints": [
-          "この記事は「Claudeと一緒に暗号の弱点を発見しよう」を扱っています。",
-          "Anthropic学研究者がClaude Mythos Previewで暗号アルゴリズムの弱点を発見。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+          "この記事は「HNを起動：トークンレス（ YC S 26 ） –お金を節約するための自動モデル切り替え」を扱っています。",
+          "共同創業者のAndrewさんとKevさんと一緒に構築しています。",
+          "当社は、異なるモデル間でエージェントのトラフィックを動的にターンバイターンでルーティングするAPIゲートウェイを構築しており、AIの支出を節約しています。"
         ]
       }
     ],
-    "fetchedAt": "2026-07-29T16:17:34.467Z",
+    "fetchedAt": "2026-07-29T18:03:35.317Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-07-29T16:17:34.467Z",
+    "fetchedAt": "2026-07-29T18:03:35.317Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-29T16:17:34.582Z"
+    "articleFetchedAt": "2026-07-29T18:03:35.465Z"
   }
 }
