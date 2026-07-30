@@ -47,7 +47,7 @@
         "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
         "url": "https://github.com/drumih/turbo-fieldfare",
         "points": 101,
-        "comments": 294,
+        "comments": 301,
         "author": "gitpusher42",
         "createdAt": "2026-07-29T15:05:43Z",
         "domain": "github.com",
@@ -67,7 +67,7 @@
         "title": "LLM Honeypot",
         "url": "https://llm2human.pages.dev/",
         "points": 101,
-        "comments": 86,
+        "comments": 93,
         "author": "8thom",
         "createdAt": "2026-07-29T22:51:03Z",
         "domain": "llm2human.pages.dev",
@@ -104,15 +104,15 @@
         ]
       }
     ],
-    "fetchedAt": "2026-07-30T11:48:38.089Z",
+    "fetchedAt": "2026-07-30T13:49:26.320Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-07-30T11:48:38.089Z",
+    "fetchedAt": "2026-07-30T13:49:26.320Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-30T11:48:38.199Z"
+    "articleFetchedAt": "2026-07-30T13:49:26.485Z"
   }
 }
