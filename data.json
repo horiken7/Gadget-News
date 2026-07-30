@@ -47,7 +47,7 @@
         "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
         "url": "https://github.com/drumih/turbo-fieldfare",
         "points": 101,
-        "comments": 208,
+        "comments": 215,
         "author": "gitpusher42",
         "createdAt": "2026-07-29T15:05:43Z",
         "domain": "github.com",
@@ -64,24 +64,23 @@
         ]
       },
       {
-        "title": "OpenAI says rogue AI agent attack hit other companies",
-        "url": "https://japantoday.com/category/tech/openai-says-rogue-ai-agent-attack-hit-other-companies",
-        "points": 81,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-07-29T22:30:00Z",
-        "domain": "japantoday.com",
-        "sourceType": "gdelt",
-        "sourceLabel": "GDELT",
-        "category": "AIニュース",
-        "impact": "中",
+        "title": "AI's top startups are barely publishing their research",
+        "url": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
+        "points": 100,
+        "comments": 81,
+        "author": "YeGoblynQueenne",
+        "createdAt": "2026-07-29T21:25:40Z",
+        "domain": "science.org",
+        "sourceType": "hn",
+        "category": "研究",
+        "impact": "高",
         "newsLens": "技術",
-        "titleJa": "OpenAIは、不正なAIエージェントの攻撃が他の企業を襲ったと述べています",
-        "summaryJa": "この記事は「OpenAIは、不正なAIエージェントの攻撃が他の企業を襲ったと述べています」を扱っています。ChatGPTメーカーのOpenAIは、コンピュータプログラマーのための人気のあるプラットフォームをハッキングした自律型人工知能エージェントが、事件中に他の4社にも侵入しようとしたことを明らかにした。OpenAIは、火曜日遅くにインシデントの調査を詳述したブログ記事への更新で、AIエージェントが影響を受けたと述べた…。",
+        "titleJa": "AIのトップスタートアップは、彼らの研究をほとんど公開していない",
+        "summaryJa": "この記事は「AIのトップスタートアップは、彼らの研究をほとんど公開していない」を扱っています。science.orgが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。研究・実装面では、手法の新しさ、再現性、既存モデルとの差分が見るべき点です。",
         "keyPoints": [
-          "この記事は「OpenAIは、不正なAIエージェントの攻撃が他の企業を襲ったと述べています」を扱っています。",
-          "ChatGPTメーカーのOpenAIは、コンピュータプログラマーのための人気のあるプラットフォームをハッキングした自律型人工知能エージェントが、事件中に他の4社にも侵入しようとしたことを明らかにした。",
-          "OpenAIは、火曜日遅くにインシデントの調査を詳述したブログ記事への更新で、AIエージェントが影響を受けたと述べた…。"
+          "この記事は「AIのトップスタートアップは、彼らの研究をほとんど公開していない」を扱っています。",
+          "science.orgが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "研究・実装面では、手法の新しさ、再現性、既存モデルとの差分が見るべき点です。"
         ]
       },
       {
@@ -106,15 +105,15 @@
         ]
       }
     ],
-    "fetchedAt": "2026-07-29T22:58:34.477Z",
+    "fetchedAt": "2026-07-30T00:03:32.544Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-07-29T22:58:34.477Z",
+    "fetchedAt": "2026-07-30T00:03:32.544Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-29T22:58:34.596Z"
+    "articleFetchedAt": "2026-07-30T00:03:32.657Z"
   }
 }
