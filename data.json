@@ -14,11 +14,11 @@
         "newsLens": "一般",
         "category": "AIニュース",
         "impact": "高",
-        "titleJa": "TechCrunch Disrupt 2026で、SaaSの計算からエージェントのセキュリティギャップまで、AIの今後の動向をご覧ください",
-        "summaryJa": "この記事は「TechCrunch Disrupt 2026で、SaaSの計算からエージェントのセキュリティギャップまで、AIの今後の動向をご覧ください」を扱っています。TechCrunch Disrupt 2026では、Google for Startupsが発表した、過去数年間のコミュニティで最もホットなトピックをAI Stageが再び掘り下げています。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "titleJa": "AIニュース: Discover what’s next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026",
+        "summaryJa": "この記事は「Discover what’s next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026」を扱っています。techcrunch.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
-          "この記事は「TechCrunch Disrupt 2026で、SaaSの計算からエージェントのセキュリティギャップまで、AIの今後の動向をご覧ください」を扱っています。",
-          "TechCrunch Disrupt 2026では、Google for Startupsが発表した、過去数年間のコミュニティで最もホットなトピックをAI Stageが再び掘り下げています。",
+          "この記事は「Discover what’s next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026」を扱っています。",
+          "techcrunch.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
           "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       },
@@ -35,39 +35,19 @@
         "newsLens": "一般",
         "category": "AIニュース",
         "impact": "高",
-        "titleJa": "Thinking Machinesの共同創業者であるLilian Weng氏は、健康上の理由を理由に同社を退職し、OpenAIに入社しました。",
-        "summaryJa": "この記事は「Thinking Machinesの共同創業者であるLilian Weng氏は、健康上の理由を理由に同社を退職し、OpenAIに入社しました。」を扱っています。Weng氏は以前、OpenAIのAI安全性研究担当バイスプレジデントを務めていました。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "titleJa": "AIニュース: Thinking Machines co-founder Lilian Weng left the company citing health reasons, then joined OpenAI",
+        "summaryJa": "この記事は「Thinking Machines co-founder Lilian Weng left the company citing health reasons, then joined OpenAI」を扱っています。techcrunch.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
-          "この記事は「Thinking Machinesの共同創業者であるLilian Weng氏は、健康上の理由を理由に同社を退職し、OpenAIに入社しました。",
-          "Weng氏は以前、OpenAIのAI安全性研究担当バイスプレジデントを務めていました。",
+          "この記事は「Thinking Machines co-founder Lilian Weng left the company citing health reasons, then joined OpenAI」を扱っています。",
+          "techcrunch.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
           "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
-        ]
-      },
-      {
-        "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
-        "url": "https://github.com/drumih/turbo-fieldfare",
-        "points": 101,
-        "comments": 301,
-        "author": "gitpusher42",
-        "createdAt": "2026-07-29T15:05:43Z",
-        "domain": "github.com",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "HNを表示：任意のMシリーズMacで2 GB RAMでGemma 4 26 bを実行するオープンソースエンジン",
-        "summaryJa": "この記事は「HNを表示：任意のMシリーズMacで2 GB RAMでGemma 4 26 bを実行するオープンソースエンジン」を扱っています。こんにちはHNさん、私は約2 GBのRAMを使用して、任意のMシリーズMac上で4ビットGemma 4 26 B - A 4 B - ITを実行するための専門的な推論エンジンを構築しました。これはTurboFieldfareと呼ばれ、SwiftとMetalで書かれています。",
-        "keyPoints": [
-          "この記事は「HNを表示：任意のMシリーズMacで2 GB RAMでGemma 4 26 bを実行するオープンソースエンジン」を扱っています。",
-          "こんにちはHNさん、私は約2 GBのRAMを使用して、任意のMシリーズMac上で4ビットGemma 4 26 B - A 4 B - ITを実行するための専門的な推論エンジンを構築しました。",
-          "これはTurboFieldfareと呼ばれ、SwiftとMetalで書かれています。"
         ]
       },
       {
         "title": "LLM Honeypot",
         "url": "https://llm2human.pages.dev/",
         "points": 101,
-        "comments": 93,
+        "comments": 98,
         "author": "8thom",
         "createdAt": "2026-07-29T22:51:03Z",
         "domain": "llm2human.pages.dev",
@@ -75,44 +55,64 @@
         "category": "AIモデル",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "LLMハニーポット",
-        "summaryJa": "この記事は「LLMハニーポット」を扱っています。llm2human.pages.devが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "titleJa": "AIニュース: LLM Honeypot",
+        "summaryJa": "この記事は「LLM Honeypot」を扱っています。llm2human.pages.devが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
         "keyPoints": [
-          "この記事は「LLMハニーポット」を扱っています。",
+          "この記事は「LLM Honeypot」を扱っています。",
           "llm2human.pages.devが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
           "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
       },
       {
-        "title": "Claude: Elevated errors across all models – Resolved",
-        "url": "https://status.claude.com/incidents/q2kg8n613kr3",
-        "points": 73,
-        "comments": 246,
-        "author": "gregsadetsky",
-        "createdAt": "2026-07-29T19:50:42Z",
-        "domain": "status.claude.com",
+        "title": "Agent-Manager: A Tmux TUI for Running Claude Code, Codex and OpenCode",
+        "url": "https://github.com/YoanWai/agent-manager",
+        "points": 88,
+        "comments": 57,
+        "author": "yoanwaidev",
+        "createdAt": "2026-07-30T09:34:27Z",
+        "domain": "github.com",
         "sourceType": "hn",
         "category": "AIモデル",
-        "impact": "高",
+        "impact": "中",
         "newsLens": "技術",
-        "titleJa": "Claude：すべてのモデルでエラーが増加–解決済み",
-        "summaryJa": "この記事は「Claude：すべてのモデルでエラーが増加–解決済み」を扱っています。Claudeのステータスページ-すべてのモデルでエラーが増加しました。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "titleJa": "AIニュース: Agent-Manager: A Tmux TUI for Running Claude Code, Codex and OpenCode",
+        "summaryJa": "この記事は「Agent-Manager: A Tmux TUI for Running Claude Code, Codex and OpenCode」を扱っています。github.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
         "keyPoints": [
-          "この記事は「Claude：すべてのモデルでエラーが増加–解決済み」を扱っています。",
-          "Claudeのステータスページ-すべてのモデルでエラーが増加しました。",
+          "この記事は「Agent-Manager: A Tmux TUI for Running Claude Code, Codex and OpenCode」を扱っています。",
+          "github.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+        ]
+      },
+      {
+        "title": "Launch HN: Tokenless (YC S26) – Automatic model switching to save money",
+        "url": "https://usetokenless.com/",
+        "points": 86,
+        "comments": 57,
+        "author": "rohaga",
+        "createdAt": "2026-07-29T15:55:27Z",
+        "domain": "usetokenless.com",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "中",
+        "newsLens": "技術",
+        "titleJa": "AIニュース: Launch HN: Tokenless (YC S26) – Automatic model switching to save money",
+        "summaryJa": "この記事は「Launch HN: Tokenless (YC S26) – Automatic model switching to save money」を扱っています。usetokenless.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "keyPoints": [
+          "この記事は「Launch HN: Tokenless (YC S26) – Automatic model switching to save money」を扱っています。",
+          "usetokenless.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
           "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
       }
     ],
-    "fetchedAt": "2026-07-30T13:49:26.320Z",
+    "fetchedAt": "2026-07-30T15:49:23.908Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-07-30T13:49:26.320Z",
+    "fetchedAt": "2026-07-30T15:49:23.908Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-30T13:49:26.485Z"
+    "articleFetchedAt": "2026-07-30T15:49:24.033Z"
   }
 }
