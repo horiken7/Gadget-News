@@ -44,30 +44,10 @@
         ]
       },
       {
-        "title": "Launch HN: Prized (YC S26) – Let non-engineer staff build secure internal tools",
-        "url": "https://prized.dev",
-        "points": 107,
-        "comments": 26,
-        "author": "marinoseliades",
-        "createdAt": "2026-07-30T13:29:03Z",
-        "domain": "prized.dev",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "低",
-        "newsLens": "技術",
-        "titleJa": "HN ： PRIZED （ YC S 26 ）を立ち上げる–エンジニア以外のスタッフが安全な内部ツールを構築できるようにする",
-        "summaryJa": "この記事は「HN ： PRIZED （ YC S 26 ）を立ち上げる–エンジニア以外のスタッフが安全な内部ツールを構築できるようにする」を扱っています。こんにちはHN、私たちはPRIZED （ https://prized.dev ）の創設者であるMarinosとHudsonです！PRIZEDでは、エンジニア以外の従業員が必要な内部ツールを説明し、会社のデータに接続されたフルスタックアプリを入手し、APIキーやコネクタを操作することなく、会社のサインインの背後に展開できます。",
-        "keyPoints": [
-          "この記事は「HN ： PRIZED （ YC S 26 ）を立ち上げる–エンジニア以外のスタッフが安全な内部ツールを構築できるようにする」を扱っています。",
-          "こんにちはHN、私たちはPRIZED （ https://prized.dev ）の創設者であるMarinosとHudsonです。",
-          "PRIZEDでは、エンジニア以外の従業員が必要な内部ツールを説明し、会社のデータに接続されたフルスタックアプリを入手し、APIキーやコネクタを操作することなく、会社のサインインの背後に展開できます。"
-        ]
-      },
-      {
         "title": "LLM Honeypot",
         "url": "https://llm2human.pages.dev/",
         "points": 101,
-        "comments": 101,
+        "comments": 103,
         "author": "8thom",
         "createdAt": "2026-07-29T22:51:03Z",
         "domain": "llm2human.pages.dev",
@@ -87,7 +67,7 @@
         "title": "Gemini Robotics 2 brings whole body intelligence to robots",
         "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
         "points": 101,
-        "comments": 201,
+        "comments": 295,
         "author": "ai2027",
         "createdAt": "2026-07-30T15:15:48Z",
         "domain": "deepmind.google",
@@ -102,17 +82,55 @@
           "deepmind.googleが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
           "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
+      },
+      {
+        "title": "Advancing the price-performance frontier with GPT‑5.6",
+        "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/",
+        "points": 73,
+        "comments": 191,
+        "author": "tedsanders",
+        "createdAt": "2026-07-30T17:15:51Z",
+        "domain": "openai.com",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "GPT ‑ 5.6で価格性能のフロンティアを推進",
+        "summaryJa": "この記事は「GPT ‑ 5.6で価格性能のフロンティアを推進」を扱っています。openai.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "keyPoints": [
+          "この記事は「GPT ‑ 5.6で価格性能のフロンティアを推進」を扱っています。",
+          "openai.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+        ]
       }
     ],
-    "fetchedAt": "2026-07-30T17:22:58.226Z",
+    "fetchedAt": "2026-07-30T19:19:19.812Z",
     "mock": false
   },
   "xTrends": {
-    "items": [],
-    "fetchedAt": "2026-07-30T17:22:58.226Z",
+    "items": [
+      {
+        "topic": "Gemini Robotics 2",
+        "locationLabel": "米国",
+        "bestRank": 50,
+        "appearances": 2,
+        "trendSource": "Trends24",
+        "sourceUrl": "https://trends24.in/united-states/",
+        "observedAt": "2026-07-30T19:19:19.652Z",
+        "url": "https://x.com/search?q=Gemini%20Robotics%202&src=typed_query&f=live",
+        "articleTitle": "Gemini Robotics ER 2",
+        "articleTitleJa": "Gemini ロボティクス ER 2",
+        "articleUrl": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/gemini-robotics-er-2/",
+        "articleSource": "blog.google",
+        "articlePublishedAt": "2026-07-30T15:30:59Z",
+        "summaryJa": "Gemini Robotics ER 2 は、ロボット アプリケーションのビデオ理解、ツール オーケストレーション、およびマルチロボット コラボレーションにおける大きな変化です。",
+        "translationVersion": 3
+      }
+    ],
+    "fetchedAt": "2026-07-30T19:19:19.812Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-30T17:22:58.379Z"
+    "articleFetchedAt": "2026-07-30T19:19:21.964Z"
   }
 }
