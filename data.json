@@ -47,7 +47,7 @@
         "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
         "url": "https://github.com/drumih/turbo-fieldfare",
         "points": 101,
-        "comments": 238,
+        "comments": 253,
         "author": "gitpusher42",
         "createdAt": "2026-07-29T15:05:43Z",
         "domain": "github.com",
@@ -64,30 +64,30 @@
         ]
       },
       {
-        "title": "AI's top startups are barely publishing their research",
-        "url": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
+        "title": "LLM Honeypot",
+        "url": "https://llm2human.pages.dev/",
         "points": 101,
-        "comments": 155,
-        "author": "YeGoblynQueenne",
-        "createdAt": "2026-07-29T21:25:40Z",
-        "domain": "science.org",
+        "comments": 48,
+        "author": "8thom",
+        "createdAt": "2026-07-29T22:51:03Z",
+        "domain": "llm2human.pages.dev",
         "sourceType": "hn",
-        "category": "研究",
+        "category": "AIモデル",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "AIのトップスタートアップは、彼らの研究をほとんど公開していない",
-        "summaryJa": "この記事は「AIのトップスタートアップは、彼らの研究をほとんど公開していない」を扱っています。science.orgが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。研究・実装面では、手法の新しさ、再現性、既存モデルとの差分が見るべき点です。",
+        "titleJa": "LLMハニーポット",
+        "summaryJa": "この記事は「LLMハニーポット」を扱っています。llm2human.pages.devが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
         "keyPoints": [
-          "この記事は「AIのトップスタートアップは、彼らの研究をほとんど公開していない」を扱っています。",
-          "science.orgが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "研究・実装面では、手法の新しさ、再現性、既存モデルとの差分が見るべき点です。"
+          "この記事は「LLMハニーポット」を扱っています。",
+          "llm2human.pages.devが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
       },
       {
         "title": "Document-borne AI worms can self-propagate through Copilot for Word",
         "url": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/",
         "points": 73,
-        "comments": 274,
+        "comments": 279,
         "author": "Canopy9560",
         "createdAt": "2026-07-29T11:44:33Z",
         "domain": "enklypesalt.com",
@@ -104,15 +104,15 @@
         ]
       }
     ],
-    "fetchedAt": "2026-07-30T03:53:25.406Z",
+    "fetchedAt": "2026-07-30T06:23:39.716Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-07-30T03:53:25.406Z",
+    "fetchedAt": "2026-07-30T06:23:39.716Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-30T03:53:25.516Z"
+    "articleFetchedAt": "2026-07-30T06:23:39.826Z"
   }
 }
