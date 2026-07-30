@@ -47,7 +47,7 @@
         "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
         "url": "https://github.com/drumih/turbo-fieldfare",
         "points": 101,
-        "comments": 253,
+        "comments": 277,
         "author": "gitpusher42",
         "createdAt": "2026-07-29T15:05:43Z",
         "domain": "github.com",
@@ -67,7 +67,7 @@
         "title": "LLM Honeypot",
         "url": "https://llm2human.pages.dev/",
         "points": 101,
-        "comments": 48,
+        "comments": 61,
         "author": "8thom",
         "createdAt": "2026-07-29T22:51:03Z",
         "domain": "llm2human.pages.dev",
@@ -87,7 +87,7 @@
         "title": "Document-borne AI worms can self-propagate through Copilot for Word",
         "url": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/",
         "points": 73,
-        "comments": 279,
+        "comments": 282,
         "author": "Canopy9560",
         "createdAt": "2026-07-29T11:44:33Z",
         "domain": "enklypesalt.com",
@@ -104,15 +104,15 @@
         ]
       }
     ],
-    "fetchedAt": "2026-07-30T06:23:39.716Z",
+    "fetchedAt": "2026-07-30T09:27:38.997Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-07-30T06:23:39.716Z",
+    "fetchedAt": "2026-07-30T09:27:38.997Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-30T06:23:39.826Z"
+    "articleFetchedAt": "2026-07-30T09:27:39.114Z"
   }
 }
