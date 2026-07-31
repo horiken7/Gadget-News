@@ -2,6 +2,27 @@
   "news": {
     "items": [
       {
+        "title": "Anthropic says its own AI models breached three companies during security tests",
+        "url": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
+        "points": 133,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-07-31T01:06:54.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
+        "category": "AIモデル",
+        "impact": "高",
+        "titleJa": "Anthropicは、独自のAIモデルがセキュリティテスト中に3つの企業を侵害したと述べています",
+        "summaryJa": "この記事は「Anthropicは、独自のAIモデルがセキュリティテスト中に3つの企業を侵害したと述べています」を扱っています。OpenAIのモデルがHugging Faceに侵入した後、Anthropicは自身の履歴を確認し、3つの同様のインシデントを見つけました。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "keyPoints": [
+          "この記事は「Anthropicは、独自のAIモデルがセキュリティテスト中に3つの企業を侵害したと述べています」を扱っています。",
+          "OpenAIのモデルがHugging Faceに侵入した後、Anthropicは自身の履歴を確認し、3つの同様のインシデントを見つけました。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+        ]
+      },
+      {
         "title": "Okta buys AI security startup Permiso — source says for about $200M",
         "url": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/",
         "points": 115,
@@ -23,51 +44,10 @@
         ]
       },
       {
-        "title": "Launch HN: Prized (YC S26) – Let non-engineer staff build secure internal tools",
-        "url": "https://prized.dev",
-        "points": 111,
-        "comments": 44,
-        "author": "marinoseliades",
-        "createdAt": "2026-07-30T13:29:03Z",
-        "domain": "prized.dev",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "中",
-        "newsLens": "技術",
-        "titleJa": "HN ： PRIZED （ YC S 26 ）を立ち上げる–エンジニア以外のスタッフが安全な内部ツールを構築できるようにする",
-        "summaryJa": "この記事は「HN ： PRIZED （ YC S 26 ）を立ち上げる–エンジニア以外のスタッフが安全な内部ツールを構築できるようにする」を扱っています。こんにちはHN、私たちはPRIZED （ https://prized.dev ）の創設者であるMarinosとHudsonです！PRIZEDでは、エンジニア以外の従業員が必要な内部ツールを説明し、会社のデータに接続されたフルスタックアプリを入手し、APIキーやコネクタを操作することなく、会社のサインインの背後に展開できます。",
-        "keyPoints": [
-          "この記事は「HN ： PRIZED （ YC S 26 ）を立ち上げる–エンジニア以外のスタッフが安全な内部ツールを構築できるようにする」を扱っています。",
-          "こんにちはHN、私たちはPRIZED （ https://prized.dev ）の創設者であるMarinosとHudsonです。",
-          "PRIZEDでは、エンジニア以外の従業員が必要な内部ツールを説明し、会社のデータに接続されたフルスタックアプリを入手し、APIキーやコネクタを操作することなく、会社のサインインの背後に展開できます。"
-        ]
-      },
-      {
-        "title": "In the Hugging Face breach, OpenAI’s hacker was noisy and fast — but not unstoppable",
-        "url": "https://techcrunch.com/2026/07/30/in-the-hugging-face-breach-openais-hacker-was-noisy-and-fast-but-not-unstoppable/",
-        "points": 107,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-07-30T14:48:32.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
-        "category": "AIニュース",
-        "impact": "高",
-        "titleJa": "ハグしている顔の侵害では、OpenAIのハッカーは騒々しくて速かったが、止められないわけではなかった",
-        "summaryJa": "この記事は「ハグしている顔の侵害では、OpenAIのハッカーは騒々しくて速かったが、止められないわけではなかった」を扱っています。サイバーセキュリティの専門家はTechCrunchに対し、OpenAIのHugging Faceに対するハッキングから得られる最大の教訓の1つは、AIとは無関係であるが、従来のサイバーセキュリティ防御とは無関係であると語った。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
-        "keyPoints": [
-          "この記事は「ハグしている顔の侵害では、OpenAIのハッカーは騒々しくて速かったが、止められないわけではなかった」を扱っています。",
-          "サイバーセキュリティの専門家はTechCrunchに対し、OpenAIのHugging Faceに対するハッキングから得られる最大の教訓の1つは、AIとは無関係であるが、従来のサイバーセキュリティ防御とは無関係であると語った。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
-        ]
-      },
-      {
         "title": "Gemini Robotics 2 brings whole body intelligence to robots",
         "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
         "points": 101,
-        "comments": 380,
+        "comments": 396,
         "author": "ai2027",
         "createdAt": "2026-07-30T15:15:48Z",
         "domain": "deepmind.google",
@@ -86,7 +66,7 @@
       {
         "title": "Agent-Manager: A Tmux TUI for Running Claude Code, Codex and OpenCode",
         "url": "https://github.com/YoanWai/agent-manager",
-        "points": 92,
+        "points": 93,
         "comments": 74,
         "author": "yoanwaidev",
         "createdAt": "2026-07-30T09:34:27Z",
@@ -102,9 +82,30 @@
           "TmuxでAIコーディングエージェントセッション（ Claude Code、OpenCode、Codex、Grok Build ）を管理するターミナルUI ：ライブステータス、グループツリー、ライブペインプレビュー、リソースゲージ。",
           "- YoanWai/エージェントマネージャー。"
         ]
+      },
+      {
+        "title": "OpenAI Trains Faculty and Researchers to Use Coding Agents",
+        "url": "https://www.govtech.com/education/higher-ed/openai-trains-faculty-and-researchers-to-use-coding-agents",
+        "points": 81,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-07-31T02:00:00Z",
+        "domain": "govtech.com",
+        "sourceType": "gdelt",
+        "sourceLabel": "GDELT",
+        "category": "研究",
+        "impact": "中",
+        "newsLens": "技術",
+        "titleJa": "OpenAIは、教員と研究者がコーディングエージェントを使用するように訓練します",
+        "summaryJa": "この記事は「OpenAIは、教員と研究者がコーディングエージェントを使用するように訓練します」を扱っています。OpenAIの新しい4週間のバーチャルコーデックスサマースタジオは、教育、研究、タスクの自動化のためのAI支援アプリケーションを開発するために、大学の教員と研究者を訓練しています。研究・実装面では、手法の新しさ、再現性、既存モデルとの差分が見るべき点です。",
+        "keyPoints": [
+          "この記事は「OpenAIは、教員と研究者がコーディングエージェントを使用するように訓練します」を扱っています。",
+          "OpenAIの新しい4週間のバーチャルコーデックスサマースタジオは、教育、研究、タスクの自動化のためのAI支援アプリケーションを開発するために、大学の教員と研究者を訓練しています。",
+          "研究・実装面では、手法の新しさ、再現性、既存モデルとの差分が見るべき点です。"
+        ]
       }
     ],
-    "fetchedAt": "2026-07-30T23:01:47.093Z",
+    "fetchedAt": "2026-07-31T02:26:01.382Z",
     "mock": false
   },
   "xTrends": {
@@ -116,21 +117,21 @@
         "appearances": 2,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-07-30T23:01:46.978Z",
+        "observedAt": "2026-07-31T02:26:01.274Z",
         "url": "https://x.com/search?q=Gemini%20Robotics%202&src=typed_query&f=live",
-        "articleTitle": "Gemini Robotics ER 2",
-        "articleTitleJa": "Gemini ロボティクス ER 2",
-        "articleUrl": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/gemini-robotics-er-2/",
-        "articleSource": "blog.google",
-        "articlePublishedAt": "2026-07-30T15:30:59Z",
-        "summaryJa": "Gemini Robotics ER 2 は、ロボット アプリケーションのビデオ理解、ツール オーケストレーション、およびマルチロボット コラボレーションにおける大きな変化です。",
+        "articleTitle": "Google reveals Gemini Robotics 2.0, promising improved dexterity and safety",
+        "articleTitleJa": "Google、手先の器用さと安全性の向上を約束する Gemini Robotics 2.0 を発表",
+        "articleUrl": "https://arstechnica.com/ai/2026/07/google-reveals-gemini-robotics-2-0-promising-improved-dexterity-and-safety/",
+        "articleSource": "arstechnica.com",
+        "articlePublishedAt": "2026-07-30T19:11:05Z",
+        "summaryJa": "Gemini Robotics 2 には 3 つのモデルが含まれていますが、現在一般公開されているのは 1 つだけです。",
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-07-30T23:01:47.093Z",
+    "fetchedAt": "2026-07-31T02:26:01.382Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-30T23:01:48.066Z"
+    "articleFetchedAt": "2026-07-31T02:26:02.443Z"
   }
 }
