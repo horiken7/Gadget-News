@@ -44,51 +44,10 @@
         ]
       },
       {
-        "title": "Gemini Robotics 2 brings whole body intelligence to robots",
-        "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
-        "points": 101,
-        "comments": 475,
-        "author": "ai2027",
-        "createdAt": "2026-07-30T15:15:48Z",
-        "domain": "deepmind.google",
-        "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "Gemini Robotics 2はロボットに全身知能をもたらします",
-        "summaryJa": "この記事は「Gemini Robotics 2はロボットに全身知能をもたらします」を扱っています。deepmind.googleが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
-        "keyPoints": [
-          "この記事は「Gemini Robotics 2はロボットに全身知能をもたらします」を扱っています。",
-          "deepmind.googleが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
-        ]
-      },
-      {
-        "title": "AI agent OpenAI unikl z testovacího prostředí a čtyři dny se sám bez lidí vloupával do systémů",
-        "url": "https://nedd.tiscali.cz/ai-agent-openai-unikl-z-testovaciho-prostredi-a-ctyri-dny-se-sam-bez-lidi-vloupaval-do-systemu-717886",
-        "points": 81,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-07-31T13:30:00Z",
-        "domain": "nedd.tiscali.cz",
-        "sourceType": "gdelt",
-        "sourceLabel": "GDELT",
-        "category": "AIニュース",
-        "impact": "中",
-        "newsLens": "技術",
-        "titleJa": "AIエージェントOpenAI unikl z testovacího prostředí a čtyři dny se sám bez lidí vloupával do systémů",
-        "summaryJa": "この記事は「AIエージェントOpenAI unikl z testovacího prostředí a čtyři dny se sám bez lidí vloupával do systémů」を扱っています。nedd.tiscali.czが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
-        "keyPoints": [
-          "この記事は「AIエージェントOpenAI unikl z testovacího prostředí a čtyři dny se sám bez lidí vloupával do systémů」を扱っています。",
-          "nedd.tiscali.czが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
-        ]
-      },
-      {
         "title": "Advancing the price-performance frontier with GPT‑5.6",
         "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/",
         "points": 73,
-        "comments": 386,
+        "comments": 389,
         "author": "tedsanders",
         "createdAt": "2026-07-30T17:15:51Z",
         "domain": "openai.com",
@@ -103,9 +62,49 @@
           "openai.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
           "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
+      },
+      {
+        "title": "DeepSeek-V4-Flash Update",
+        "url": "https://api-docs.deepseek.com/updates/",
+        "points": 73,
+        "comments": 249,
+        "author": "dnhkng",
+        "createdAt": "2026-07-31T06:08:36Z",
+        "domain": "api-docs.deepseek.com",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "DeepSeek - V 4 - Flashアップデート",
+        "summaryJa": "この記事は「DeepSeek - V 4 - Flashアップデート」を扱っています。api-docs.deepseek.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "keyPoints": [
+          "この記事は「DeepSeek - V 4 - Flashアップデート」を扱っています。",
+          "api-docs.deepseek.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+        ]
+      },
+      {
+        "title": "DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis",
+        "url": "https://artificialanalysis.ai/models/deepseek-v4-flash-ga",
+        "points": 73,
+        "comments": 172,
+        "author": "theanonymousone",
+        "createdAt": "2026-07-31T07:59:11Z",
+        "domain": "artificialanalysis.ai",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "DeepSeek V 4 Flash 0731インテリジェンス、パフォーマンス、価格分析",
+        "summaryJa": "この記事は「DeepSeek V 4 Flash 0731インテリジェンス、パフォーマンス、価格分析」を扱っています。artificialanalysis.aiが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "keyPoints": [
+          "この記事は「DeepSeek V 4 Flash 0731インテリジェンス、パフォーマンス、価格分析」を扱っています。",
+          "artificialanalysis.aiが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+        ]
       }
     ],
-    "fetchedAt": "2026-07-31T13:55:39.619Z",
+    "fetchedAt": "2026-07-31T16:00:31.365Z",
     "mock": false
   },
   "xTrends": {
@@ -117,22 +116,22 @@
         "appearances": 1,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-07-31T13:55:39.601Z",
+        "observedAt": "2026-07-31T16:00:31.349Z",
         "url": "https://x.com/search?q=%E3%82%A2%E3%83%B3%E3%82%BD%E3%83%AD%E3%83%94%E3%83%83%E3%82%AF%E3%81%AEAI&src=typed_query&f=live",
         "articleTitle": "アンソロピックのAI",
         "articleTitleJa": "公開トレンド: アンソロピックのAI",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-07-31T13:55:39.601Z",
+        "articlePublishedAt": "2026-07-31T16:00:31.349Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
       }
     ],
-    "fetchedAt": "2026-07-31T13:55:39.619Z",
+    "fetchedAt": "2026-07-31T16:00:31.365Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-31T13:55:39.975Z"
+    "articleFetchedAt": "2026-07-31T16:00:31.663Z"
   }
 }
