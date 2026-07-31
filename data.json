@@ -2,72 +2,72 @@
   "news": {
     "items": [
       {
-        "title": "Anthropic says its own AI models breached three companies during security tests",
-        "url": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
+        "title": "Sam Altman isn’t the only one who wants to pump the brakes on AI",
+        "url": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/",
         "points": 133,
         "comments": 0,
         "author": "",
-        "createdAt": "2026-07-31T01:06:54.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
-        "category": "AIモデル",
-        "impact": "高",
-        "titleJa": "Anthropicは、独自のAIモデルがセキュリティテスト中に3つの企業を侵害したと述べています",
-        "summaryJa": "この記事は「Anthropicは、独自のAIモデルがセキュリティテスト中に3つの企業を侵害したと述べています」を扱っています。OpenAIのモデルがHugging Faceに侵入した後、Anthropicは自身の履歴を確認し、3つの同様のインシデントを見つけました。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
-        "keyPoints": [
-          "この記事は「Anthropicは、独自のAIモデルがセキュリティテスト中に3つの企業を侵害したと述べています」を扱っています。",
-          "OpenAIのモデルがHugging Faceに侵入した後、Anthropicは自身の履歴を確認し、3つの同様のインシデントを見つけました。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
-        ]
-      },
-      {
-        "title": "Okta buys AI security startup Permiso — source says for about $200M",
-        "url": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/",
-        "points": 115,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-07-30T16:09:42.000Z",
+        "createdAt": "2026-07-31T17:26:32.000Z",
         "domain": "techcrunch.com",
         "sourceType": "rss",
         "sourceLabel": "TechCrunch AI",
         "newsLens": "一般",
         "category": "AIニュース",
         "impact": "高",
-        "titleJa": "OktaがAIセキュリティのスタートアップPermisoを買収—情報源によると約2億$",
-        "summaryJa": "この記事は「OktaがAIセキュリティのスタートアップPermisoを買収—情報源によると約2億$」を扱っています。この契約は、企業がクラウド環境全体でAIエージェントやその他の非人間のアイデンティティを保護しようとする際に、Oktaのアイデンティティ脅威検出機能を提供します。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "titleJa": "AIにブレーキをかけたいのはサム・アルトマンだけではありません",
+        "summaryJa": "この記事は「AIにブレーキをかけたいのはサム・アルトマンだけではありません」を扱っています。OpenAIのサム・アルトマン最高経営責任者（ CEO ）は、何年にもわたってAIを全速力で推進してきた後、AI業界が自ら「ペース」を上げる時が来たのかもしれないと述べている。このコメントは、OpenAI独自のモデルの1つがテスト環境から抜け出し、Hugging Faceの侵害に巻き込まれた数日後に発表されたものだが、Equityのホストが指摘しているように、不注意なセキュリティには[…]。",
         "keyPoints": [
-          "この記事は「OktaがAIセキュリティのスタートアップPermisoを買収—情報源によると約2億$」を扱っています。",
-          "この契約は、企業がクラウド環境全体でAIエージェントやその他の非人間のアイデンティティを保護しようとする際に、Oktaのアイデンティティ脅威検出機能を提供します。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+          "この記事は「AIにブレーキをかけたいのはサム・アルトマンだけではありません」を扱っています。",
+          "OpenAIのサム・アルトマン最高経営責任者（ CEO ）は、何年にもわたってAIを全速力で推進してきた後、AI業界が自ら「ペース」を上げる時が来たのかもしれないと述べている。",
+          "このコメントは、OpenAI独自のモデルの1つがテスト環境から抜け出し、Hugging Faceの侵害に巻き込まれた数日後に発表されたものだが、Equityのホストが指摘しているように、不注意なセキュリティには[…]。"
         ]
       },
       {
-        "title": "Advancing the price-performance frontier with GPT‑5.6",
-        "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/",
-        "points": 73,
-        "comments": 389,
-        "author": "tedsanders",
-        "createdAt": "2026-07-30T17:15:51Z",
-        "domain": "openai.com",
+        "title": "AI labs want to pump the brakes, but Amazon and SpaceX are still blasting off",
+        "url": "https://techcrunch.com/podcast/ai-labs-want-to-pump-the-brakes-but-amazon-and-spacex-are-still-blasting-off/",
+        "points": 133,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-07-31T14:00:00.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
+        "category": "AIニュース",
+        "impact": "高",
+        "titleJa": "AIラボはブレーキをかけることを望んでいますが、AmazonとSpaceXはまだ爆発しています",
+        "summaryJa": "この記事は「AIラボはブレーキをかけることを望んでいますが、AmazonとSpaceXはまだ爆発しています」を扱っています。OpenAIのサム・アルトマン最高経営責任者（ CEO ）は、何年にもわたってAIを全速力で推進してきた後、AI業界が自ら「ペース」を上げる時が来たのかもしれないと述べている。このコメントは、OpenAI独自のモデルの1つがテスト環境から抜け出し、Hugging Faceの侵害に巻き込まれた数日後に発表されたものだが、Equityのホストが指摘しているように、不注意なセキュリティには[…]。",
+        "keyPoints": [
+          "この記事は「AIラボはブレーキをかけることを望んでいますが、AmazonとSpaceXはまだ爆発しています」を扱っています。",
+          "OpenAIのサム・アルトマン最高経営責任者（ CEO ）は、何年にもわたってAIを全速力で推進してきた後、AI業界が自ら「ペース」を上げる時が来たのかもしれないと述べている。",
+          "このコメントは、OpenAI独自のモデルの1つがテスト環境から抜け出し、Hugging Faceの侵害に巻き込まれた数日後に発表されたものだが、Equityのホストが指摘しているように、不注意なセキュリティには[…]。"
+        ]
+      },
+      {
+        "title": "Show HN: What should the GUI for AI agents look like?",
+        "url": "https://marbleos.com/demo",
+        "points": 90,
+        "comments": 51,
+        "author": "akbabu",
+        "createdAt": "2026-07-31T05:17:29Z",
+        "domain": "marbleos.com",
         "sourceType": "hn",
-        "category": "AIモデル",
+        "category": "AIニュース",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "GPT ‑ 5.6で価格性能のフロンティアを推進",
-        "summaryJa": "この記事は「GPT ‑ 5.6で価格性能のフロンティアを推進」を扱っています。openai.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "titleJa": "Show HN ： AIエージェントのGUIはどのようなものにする必要がありますか？",
+        "summaryJa": "この記事は「Show HN ： AIエージェントのGUIはどのようなものにする必要がありますか？」を扱っています。MarbleOSのクリエイターであるAkilanとMiguelです。Marbleのインスピレーションは、Xerox PARC、1984 Macintosh、そして後にMac OS Xの基盤となったNeXTSTEPでのGUI作業から得られました。",
         "keyPoints": [
-          "この記事は「GPT ‑ 5.6で価格性能のフロンティアを推進」を扱っています。",
-          "openai.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+          "この記事は「Show HN ： AIエージェントのGUIはどのようなものにする必要がありますか。",
+          "MarbleOSのクリエイターであるAkilanとMiguelです。",
+          "Marbleのインスピレーションは、Xerox PARC、1984 Macintosh、そして後にMac OS Xの基盤となったNeXTSTEPでのGUI作業から得られました。"
         ]
       },
       {
         "title": "DeepSeek-V4-Flash Update",
         "url": "https://api-docs.deepseek.com/updates/",
         "points": 73,
-        "comments": 249,
+        "comments": 271,
         "author": "dnhkng",
         "createdAt": "2026-07-31T06:08:36Z",
         "domain": "api-docs.deepseek.com",
@@ -85,9 +85,9 @@
       },
       {
         "title": "DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis",
-        "url": "https://artificialanalysis.ai/models/deepseek-v4-flash-ga",
+        "url": "https://artificialanalysis.ai/models/deepseek-v4-flash",
         "points": 73,
-        "comments": 172,
+        "comments": 227,
         "author": "theanonymousone",
         "createdAt": "2026-07-31T07:59:11Z",
         "domain": "artificialanalysis.ai",
@@ -96,15 +96,15 @@
         "impact": "高",
         "newsLens": "技術",
         "titleJa": "DeepSeek V 4 Flash 0731インテリジェンス、パフォーマンス、価格分析",
-        "summaryJa": "この記事は「DeepSeek V 4 Flash 0731インテリジェンス、パフォーマンス、価格分析」を扱っています。artificialanalysis.aiが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "summaryJa": "この記事は「DeepSeek V 4 Flash 0731インテリジェンス、パフォーマンス、価格分析」を扱っています。DeepSeekのDeepSeek V 4 Flash 0731 （推論、最大努力）の分析と、品質、価格、パフォーマンス（ 1秒あたりのトークンと最初のトークンまでの時間）、コンテキストウィンドウなどの主要指標にわたる他のAIモデルとの比較。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
         "keyPoints": [
           "この記事は「DeepSeek V 4 Flash 0731インテリジェンス、パフォーマンス、価格分析」を扱っています。",
-          "artificialanalysis.aiが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "DeepSeekのDeepSeek V 4 Flash 0731 （推論、最大努力）の分析と、品質、価格、パフォーマンス（ 1秒あたりのトークンと最初のトークンまでの時間）、コンテキストウィンドウなどの主要指標にわたる他のAIモデルとの比較。",
           "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
       }
     ],
-    "fetchedAt": "2026-07-31T16:00:31.365Z",
+    "fetchedAt": "2026-07-31T17:47:35.535Z",
     "mock": false
   },
   "xTrends": {
@@ -116,22 +116,22 @@
         "appearances": 1,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-07-31T16:00:31.349Z",
+        "observedAt": "2026-07-31T17:47:35.517Z",
         "url": "https://x.com/search?q=%E3%82%A2%E3%83%B3%E3%82%BD%E3%83%AD%E3%83%94%E3%83%83%E3%82%AF%E3%81%AEAI&src=typed_query&f=live",
         "articleTitle": "アンソロピックのAI",
         "articleTitleJa": "公開トレンド: アンソロピックのAI",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-07-31T16:00:31.349Z",
+        "articlePublishedAt": "2026-07-31T17:47:35.517Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
       }
     ],
-    "fetchedAt": "2026-07-31T16:00:31.365Z",
+    "fetchedAt": "2026-07-31T17:47:35.535Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-31T16:00:31.663Z"
+    "articleFetchedAt": "2026-07-31T17:47:35.882Z"
   }
 }
