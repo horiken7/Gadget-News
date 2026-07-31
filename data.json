@@ -46,8 +46,8 @@
       {
         "title": "Show HN: What should the GUI for AI agents look like?",
         "url": "https://marbleos.com/demo",
-        "points": 93,
-        "comments": 58,
+        "points": 94,
+        "comments": 60,
         "author": "akbabu",
         "createdAt": "2026-07-31T05:17:29Z",
         "domain": "marbleos.com",
@@ -64,10 +64,30 @@
         ]
       },
       {
+        "title": "Everyone is building LLM routers, we deprecated ours",
+        "url": "https://manifest.build/blog/why-we-deprecated-our-llm-router/",
+        "points": 82,
+        "comments": 22,
+        "author": "brunaxLorax",
+        "createdAt": "2026-07-31T18:06:39Z",
+        "domain": "manifest.build",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "低",
+        "newsLens": "技術",
+        "titleJa": "誰もがLLMルーターを構築していますが、私たちはLLMルーターを非推奨にしました",
+        "summaryJa": "この記事は「誰もがLLMルーターを構築していますが、私たちはLLMルーターを非推奨にしました」を扱っています。manifest.buildが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "keyPoints": [
+          "この記事は「誰もがLLMルーターを構築していますが、私たちはLLMルーターを非推奨にしました」を扱っています。",
+          "manifest.buildが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+        ]
+      },
+      {
         "title": "DeepSeek-V4-Flash Update",
         "url": "https://api-docs.deepseek.com/updates/",
         "points": 73,
-        "comments": 295,
+        "comments": 305,
         "author": "dnhkng",
         "createdAt": "2026-07-31T06:08:36Z",
         "domain": "api-docs.deepseek.com",
@@ -82,29 +102,9 @@
           "api-docs.deepseek.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
           "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
-      },
-      {
-        "title": "DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis",
-        "url": "https://artificialanalysis.ai/models/deepseek-v4-flash",
-        "points": 73,
-        "comments": 247,
-        "author": "theanonymousone",
-        "createdAt": "2026-07-31T07:59:11Z",
-        "domain": "artificialanalysis.ai",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "DeepSeek V 4 Flash 0731インテリジェンス、パフォーマンス、価格分析",
-        "summaryJa": "この記事は「DeepSeek V 4 Flash 0731インテリジェンス、パフォーマンス、価格分析」を扱っています。DeepSeekのDeepSeek V 4 Flash 0731 （推論、最大努力）の分析と、品質、価格、パフォーマンス（ 1秒あたりのトークンと最初のトークンまでの時間）、コンテキストウィンドウなどの主要指標にわたる他のAIモデルとの比較。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
-        "keyPoints": [
-          "この記事は「DeepSeek V 4 Flash 0731インテリジェンス、パフォーマンス、価格分析」を扱っています。",
-          "DeepSeekのDeepSeek V 4 Flash 0731 （推論、最大努力）の分析と、品質、価格、パフォーマンス（ 1秒あたりのトークンと最初のトークンまでの時間）、コンテキストウィンドウなどの主要指標にわたる他のAIモデルとの比較。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
-        ]
       }
     ],
-    "fetchedAt": "2026-07-31T19:18:42.782Z",
+    "fetchedAt": "2026-07-31T21:00:33.037Z",
     "mock": false
   },
   "xTrends": {
@@ -116,22 +116,22 @@
         "appearances": 1,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-07-31T19:18:42.739Z",
+        "observedAt": "2026-07-31T21:00:32.920Z",
         "url": "https://x.com/search?q=%E3%82%A2%E3%83%B3%E3%82%BD%E3%83%AD%E3%83%94%E3%83%83%E3%82%AF%E3%81%AEAI&src=typed_query&f=live",
         "articleTitle": "アンソロピックのAI",
         "articleTitleJa": "公開トレンド: アンソロピックのAI",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-07-31T19:18:42.739Z",
+        "articlePublishedAt": "2026-07-31T21:00:32.920Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
       }
     ],
-    "fetchedAt": "2026-07-31T19:18:42.782Z",
+    "fetchedAt": "2026-07-31T21:00:33.037Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-31T19:18:43.232Z"
+    "articleFetchedAt": "2026-07-31T21:00:33.369Z"
   }
 }
