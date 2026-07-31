@@ -46,8 +46,8 @@
       {
         "title": "Show HN: What should the GUI for AI agents look like?",
         "url": "https://marbleos.com/demo",
-        "points": 90,
-        "comments": 51,
+        "points": 93,
+        "comments": 58,
         "author": "akbabu",
         "createdAt": "2026-07-31T05:17:29Z",
         "domain": "marbleos.com",
@@ -67,7 +67,7 @@
         "title": "DeepSeek-V4-Flash Update",
         "url": "https://api-docs.deepseek.com/updates/",
         "points": 73,
-        "comments": 271,
+        "comments": 295,
         "author": "dnhkng",
         "createdAt": "2026-07-31T06:08:36Z",
         "domain": "api-docs.deepseek.com",
@@ -87,7 +87,7 @@
         "title": "DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis",
         "url": "https://artificialanalysis.ai/models/deepseek-v4-flash",
         "points": 73,
-        "comments": 227,
+        "comments": 247,
         "author": "theanonymousone",
         "createdAt": "2026-07-31T07:59:11Z",
         "domain": "artificialanalysis.ai",
@@ -104,7 +104,7 @@
         ]
       }
     ],
-    "fetchedAt": "2026-07-31T17:47:35.535Z",
+    "fetchedAt": "2026-07-31T19:18:42.782Z",
     "mock": false
   },
   "xTrends": {
@@ -116,22 +116,22 @@
         "appearances": 1,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-07-31T17:47:35.517Z",
+        "observedAt": "2026-07-31T19:18:42.739Z",
         "url": "https://x.com/search?q=%E3%82%A2%E3%83%B3%E3%82%BD%E3%83%AD%E3%83%94%E3%83%83%E3%82%AF%E3%81%AEAI&src=typed_query&f=live",
         "articleTitle": "アンソロピックのAI",
         "articleTitleJa": "公開トレンド: アンソロピックのAI",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-07-31T17:47:35.517Z",
+        "articlePublishedAt": "2026-07-31T19:18:42.739Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
       }
     ],
-    "fetchedAt": "2026-07-31T17:47:35.535Z",
+    "fetchedAt": "2026-07-31T19:18:42.782Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-31T17:47:35.882Z"
+    "articleFetchedAt": "2026-07-31T19:18:43.232Z"
   }
 }
