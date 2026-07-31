@@ -47,7 +47,7 @@
         "title": "Gemini Robotics 2 brings whole body intelligence to robots",
         "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
         "points": 101,
-        "comments": 396,
+        "comments": 420,
         "author": "ai2027",
         "createdAt": "2026-07-30T15:15:48Z",
         "domain": "deepmind.google",
@@ -64,52 +64,69 @@
         ]
       },
       {
-        "title": "Agent-Manager: A Tmux TUI for Running Claude Code, Codex and OpenCode",
-        "url": "https://github.com/YoanWai/agent-manager",
-        "points": 93,
-        "comments": 74,
-        "author": "yoanwaidev",
-        "createdAt": "2026-07-30T09:34:27Z",
-        "domain": "github.com",
+        "title": "Advancing the price-performance frontier with GPT‑5.6",
+        "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/",
+        "points": 73,
+        "comments": 352,
+        "author": "tedsanders",
+        "createdAt": "2026-07-30T17:15:51Z",
+        "domain": "openai.com",
         "sourceType": "hn",
         "category": "AIモデル",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "エージェントマネージャー： Claude Code、Codex、OpenCodeを実行するためのTmux TUI",
-        "summaryJa": "この記事は「エージェントマネージャー： Claude Code、Codex、OpenCodeを実行するためのTmux TUI」を扱っています。TmuxでAIコーディングエージェントセッション（ Claude Code、OpenCode、Codex、Grok Build ）を管理するターミナルUI ：ライブステータス、グループツリー、ライブペインプレビュー、リソースゲージ。- YoanWai/エージェントマネージャー。",
+        "titleJa": "GPT ‑ 5.6で価格性能のフロンティアを推進",
+        "summaryJa": "この記事は「GPT ‑ 5.6で価格性能のフロンティアを推進」を扱っています。openai.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
         "keyPoints": [
-          "この記事は「エージェントマネージャー： Claude Code、Codex、OpenCodeを実行するためのTmux TUI」を扱っています。",
-          "TmuxでAIコーディングエージェントセッション（ Claude Code、OpenCode、Codex、Grok Build ）を管理するターミナルUI ：ライブステータス、グループツリー、ライブペインプレビュー、リソースゲージ。",
-          "- YoanWai/エージェントマネージャー。"
+          "この記事は「GPT ‑ 5.6で価格性能のフロンティアを推進」を扱っています。",
+          "openai.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
       },
       {
-        "title": "OpenAI Trains Faculty and Researchers to Use Coding Agents",
-        "url": "https://www.govtech.com/education/higher-ed/openai-trains-faculty-and-researchers-to-use-coding-agents",
-        "points": 81,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-07-31T02:00:00Z",
-        "domain": "govtech.com",
-        "sourceType": "gdelt",
-        "sourceLabel": "GDELT",
-        "category": "研究",
-        "impact": "中",
+        "title": "The AI Aesthetic",
+        "url": "https://blog.jim-nielsen.com/2026/ai-aesthetic/",
+        "points": 73,
+        "comments": 115,
+        "author": "montroser",
+        "createdAt": "2026-07-30T23:22:16Z",
+        "domain": "blog.jim-nielsen.com",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "高",
         "newsLens": "技術",
-        "titleJa": "OpenAIは、教員と研究者がコーディングエージェントを使用するように訓練します",
-        "summaryJa": "この記事は「OpenAIは、教員と研究者がコーディングエージェントを使用するように訓練します」を扱っています。OpenAIの新しい4週間のバーチャルコーデックスサマースタジオは、教育、研究、タスクの自動化のためのAI支援アプリケーションを開発するために、大学の教員と研究者を訓練しています。研究・実装面では、手法の新しさ、再現性、既存モデルとの差分が見るべき点です。",
+        "titleJa": "AIの美学",
+        "summaryJa": "この記事は「AIの美学」を扱っています。ワールドワイドウェブのために物事を作っている大きな美しい混乱について書いています。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
         "keyPoints": [
-          "この記事は「OpenAIは、教員と研究者がコーディングエージェントを使用するように訓練します」を扱っています。",
-          "OpenAIの新しい4週間のバーチャルコーデックスサマースタジオは、教育、研究、タスクの自動化のためのAI支援アプリケーションを開発するために、大学の教員と研究者を訓練しています。",
-          "研究・実装面では、手法の新しさ、再現性、既存モデルとの差分が見るべき点です。"
+          "この記事は「AIの美学」を扱っています。",
+          "ワールドワイドウェブのために物事を作っている大きな美しい混乱について書いています。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
       }
     ],
-    "fetchedAt": "2026-07-31T02:26:01.382Z",
+    "fetchedAt": "2026-07-31T06:08:20.763Z",
     "mock": false
   },
   "xTrends": {
     "items": [
+      {
+        "topic": "アンソロピックのAI",
+        "locationLabel": "日本",
+        "bestRank": 50,
+        "appearances": 1,
+        "trendSource": "Trends24",
+        "sourceUrl": "https://trends24.in/japan/",
+        "observedAt": "2026-07-31T06:08:20.727Z",
+        "url": "https://x.com/search?q=%E3%82%A2%E3%83%B3%E3%82%BD%E3%83%AD%E3%83%94%E3%83%83%E3%82%AF%E3%81%AEAI&src=typed_query&f=live",
+        "articleTitle": "アンソロピックのAI",
+        "articleTitleJa": "公開トレンド: アンソロピックのAI",
+        "articleUrl": "https://trends24.in/japan/",
+        "articleSource": "Trends24",
+        "articlePublishedAt": "2026-07-31T06:08:20.727Z",
+        "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
+        "translationVersion": 3,
+        "articleFallback": true
+      },
       {
         "topic": "Gemini Robotics 2",
         "locationLabel": "米国",
@@ -117,7 +134,7 @@
         "appearances": 2,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-07-31T02:26:01.274Z",
+        "observedAt": "2026-07-31T06:08:20.642Z",
         "url": "https://x.com/search?q=Gemini%20Robotics%202&src=typed_query&f=live",
         "articleTitle": "Google reveals Gemini Robotics 2.0, promising improved dexterity and safety",
         "articleTitleJa": "Google、手先の器用さと安全性の向上を約束する Gemini Robotics 2.0 を発表",
@@ -128,10 +145,10 @@
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-07-31T02:26:01.382Z",
+    "fetchedAt": "2026-07-31T06:08:20.763Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-31T02:26:02.443Z"
+    "articleFetchedAt": "2026-07-31T06:08:23.797Z"
   }
 }
