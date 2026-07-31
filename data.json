@@ -47,7 +47,7 @@
         "title": "Gemini Robotics 2 brings whole body intelligence to robots",
         "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
         "points": 101,
-        "comments": 444,
+        "comments": 459,
         "author": "ai2027",
         "createdAt": "2026-07-30T15:15:48Z",
         "domain": "deepmind.google",
@@ -67,7 +67,7 @@
         "title": "Advancing the price-performance frontier with GPT‑5.6",
         "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/",
         "points": 73,
-        "comments": 376,
+        "comments": 381,
         "author": "tedsanders",
         "createdAt": "2026-07-30T17:15:51Z",
         "domain": "openai.com",
@@ -87,7 +87,7 @@
         "title": "DeepSeek-V4-Flash Update",
         "url": "https://api-docs.deepseek.com/updates/",
         "points": 73,
-        "comments": 97,
+        "comments": 177,
         "author": "dnhkng",
         "createdAt": "2026-07-31T06:08:36Z",
         "domain": "api-docs.deepseek.com",
@@ -104,7 +104,7 @@
         ]
       }
     ],
-    "fetchedAt": "2026-07-31T09:40:21.330Z",
+    "fetchedAt": "2026-07-31T11:55:21.911Z",
     "mock": false
   },
   "xTrends": {
@@ -116,13 +116,13 @@
         "appearances": 1,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-07-31T09:40:21.242Z",
+        "observedAt": "2026-07-31T11:55:21.894Z",
         "url": "https://x.com/search?q=%E3%82%A2%E3%83%B3%E3%82%BD%E3%83%AD%E3%83%94%E3%83%83%E3%82%AF%E3%81%AEAI&src=typed_query&f=live",
         "articleTitle": "アンソロピックのAI",
         "articleTitleJa": "公開トレンド: アンソロピックのAI",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-07-31T09:40:21.242Z",
+        "articlePublishedAt": "2026-07-31T11:55:21.894Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -134,7 +134,7 @@
         "appearances": 2,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-07-31T09:40:21.211Z",
+        "observedAt": "2026-07-31T11:55:21.777Z",
         "url": "https://x.com/search?q=Gemini%20Robotics%202&src=typed_query&f=live",
         "articleTitle": "Google reveals Gemini Robotics 2.0, promising improved dexterity and safety",
         "articleTitleJa": "Google、手先の器用さと安全性の向上を約束する Gemini Robotics 2.0 を発表",
@@ -145,10 +145,10 @@
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-07-31T09:40:21.330Z",
+    "fetchedAt": "2026-07-31T11:55:21.911Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-31T09:40:22.893Z"
+    "articleFetchedAt": "2026-07-31T11:55:23.331Z"
   }
 }
