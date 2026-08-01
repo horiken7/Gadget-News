@@ -46,8 +46,8 @@
       {
         "title": "Everyone is building LLM routers, we deprecated ours",
         "url": "https://manifest.build/blog/why-we-deprecated-our-llm-router/",
-        "points": 99,
-        "comments": 74,
+        "points": 100,
+        "comments": 75,
         "author": "brunaxLorax",
         "createdAt": "2026-07-31T18:06:39Z",
         "domain": "manifest.build",
@@ -105,15 +105,15 @@
         ]
       }
     ],
-    "fetchedAt": "2026-08-01T11:13:44.240Z",
+    "fetchedAt": "2026-08-01T13:10:00.486Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-08-01T11:13:44.240Z",
+    "fetchedAt": "2026-08-01T13:10:00.486Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-08-01T11:13:44.489Z"
+    "articleFetchedAt": "2026-08-01T13:10:00.591Z"
   }
 }
