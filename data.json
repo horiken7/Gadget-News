@@ -44,30 +44,10 @@
         ]
       },
       {
-        "title": "Show HN: What should the GUI for AI agents look like?",
-        "url": "https://marbleos.com/demo",
-        "points": 96,
-        "comments": 65,
-        "author": "akbabu",
-        "createdAt": "2026-07-31T05:17:29Z",
-        "domain": "marbleos.com",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "Show HN ： AIエージェントのGUIはどのようなものにする必要がありますか？",
-        "summaryJa": "この記事は「Show HN ： AIエージェントのGUIはどのようなものにする必要がありますか？」を扱っています。MarbleOSのクリエイターであるAkilanとMiguelです。Marbleのインスピレーションは、Xerox PARC、1984 Macintosh、そして後にMac OS Xの基盤となったNeXTSTEPでのGUI作業から得られました。",
-        "keyPoints": [
-          "この記事は「Show HN ： AIエージェントのGUIはどのようなものにする必要がありますか。",
-          "MarbleOSのクリエイターであるAkilanとMiguelです。",
-          "Marbleのインスピレーションは、Xerox PARC、1984 Macintosh、そして後にMac OS Xの基盤となったNeXTSTEPでのGUI作業から得られました。"
-        ]
-      },
-      {
         "title": "Everyone is building LLM routers, we deprecated ours",
         "url": "https://manifest.build/blog/why-we-deprecated-our-llm-router/",
-        "points": 94,
-        "comments": 51,
+        "points": 97,
+        "comments": 57,
         "author": "brunaxLorax",
         "createdAt": "2026-07-31T18:06:39Z",
         "domain": "manifest.build",
@@ -103,17 +83,37 @@
           "ハッキングが従来の方法を使用していれば、誰かが刑務所に行く可能性があります。",
           "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
+      },
+      {
+        "title": "Predictive Speculative KV Replication for Bursty LLM Inference",
+        "url": "https://jwlabs.vercel.app/post/biting-the-bullet",
+        "points": 77,
+        "comments": 3,
+        "author": "shreybirmiwal",
+        "createdAt": "2026-07-31T19:55:41Z",
+        "domain": "jwlabs.vercel.app",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "低",
+        "newsLens": "技術",
+        "titleJa": "バーストLLM推論のための予測投機的KVレプリケーション",
+        "summaryJa": "この記事は「バーストLLM推論のための予測投機的KVレプリケーション」を扱っています。jwlabs.vercel.appが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "keyPoints": [
+          "この記事は「バーストLLM推論のための予測投機的KVレプリケーション」を扱っています。",
+          "jwlabs.vercel.appが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+        ]
       }
     ],
-    "fetchedAt": "2026-08-01T03:20:39.569Z",
+    "fetchedAt": "2026-08-01T06:24:52.512Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-08-01T03:20:39.569Z",
+    "fetchedAt": "2026-08-01T06:24:52.512Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-08-01T03:20:39.702Z"
+    "articleFetchedAt": "2026-08-01T06:24:52.622Z"
   }
 }
