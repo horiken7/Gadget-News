@@ -2,27 +2,6 @@
   "news": {
     "items": [
       {
-        "title": "Sam Altman isn’t the only one who wants to pump the brakes on AI",
-        "url": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/",
-        "points": 133,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-07-31T17:26:32.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
-        "category": "AIニュース",
-        "impact": "高",
-        "titleJa": "AIにブレーキをかけたいのはサム・アルトマンだけではありません",
-        "summaryJa": "この記事は「AIにブレーキをかけたいのはサム・アルトマンだけではありません」を扱っています。OpenAIのサム・アルトマン最高経営責任者（ CEO ）は、何年にもわたってAIを全速力で推進してきた後、AI業界が自ら「ペース」を上げる時が来たのかもしれないと述べている。このコメントは、OpenAI独自のモデルの1つがテスト環境から抜け出し、Hugging Faceの侵害に巻き込まれた数日後に発表されたものだが、Equityのホストが指摘しているように、不注意なセキュリティには[…]。",
-        "keyPoints": [
-          "この記事は「AIにブレーキをかけたいのはサム・アルトマンだけではありません」を扱っています。",
-          "OpenAIのサム・アルトマン最高経営責任者（ CEO ）は、何年にもわたってAIを全速力で推進してきた後、AI業界が自ら「ペース」を上げる時が来たのかもしれないと述べている。",
-          "このコメントは、OpenAI独自のモデルの1つがテスト環境から抜け出し、Hugging Faceの侵害に巻き込まれた数日後に発表されたものだが、Equityのホストが指摘しているように、不注意なセキュリティには[…]。"
-        ]
-      },
-      {
         "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
         "url": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
         "points": 107,
@@ -44,23 +23,24 @@
         ]
       },
       {
-        "title": "Everyone is building LLM routers, we deprecated ours",
-        "url": "https://manifest.build/blog/why-we-deprecated-our-llm-router/",
-        "points": 101,
-        "comments": 81,
-        "author": "brunaxLorax",
-        "createdAt": "2026-07-31T18:06:39Z",
-        "domain": "manifest.build",
-        "sourceType": "hn",
+        "title": "Sam Altman is still making the case for parenting via ChatGPT",
+        "url": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
+        "points": 105,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-08-01T17:07:34.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
         "category": "AIモデル",
         "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "誰もがLLMルーターを構築していますが、私たちはLLMルーターを非推奨にしました",
-        "summaryJa": "この記事は「誰もがLLMルーターを構築していますが、私たちはLLMルーターを非推奨にしました」を扱っています。manifest.buildが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "titleJa": "サム・アルトマンは、まだChatGPTを介して子育てのためのケースを作っています",
+        "summaryJa": "この記事は「サム・アルトマンは、まだChatGPTを介して子育てのためのケースを作っています」を扱っています。OpenAIのCEOは、親のための「クールなユースケース」を共有することに興奮しているようだった。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
-          "この記事は「誰もがLLMルーターを構築していますが、私たちはLLMルーターを非推奨にしました」を扱っています。",
-          "manifest.buildが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+          "この記事は「サム・アルトマンは、まだChatGPTを介して子育てのためのケースを作っています」を扱っています。",
+          "OpenAIのCEOは、親のための「クールなユースケース」を共有することに興奮しているようだった。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       },
       {
@@ -103,17 +83,37 @@
           "jwlabs.vercel.appが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
           "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
+      },
+      {
+        "title": "How to Spot AI Writing",
+        "url": "https://www.economist.com/culture/2026/07/30/how-to-spot-ai-writing",
+        "points": 49,
+        "comments": 68,
+        "author": "ijidak",
+        "createdAt": "2026-08-01T13:35:26Z",
+        "domain": "economist.com",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "低",
+        "newsLens": "技術",
+        "titleJa": "AIライティングの見分け方",
+        "summaryJa": "この記事は「AIライティングの見分け方」を扱っています。economist.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "keyPoints": [
+          "この記事は「AIライティングの見分け方」を扱っています。",
+          "economist.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+        ]
       }
     ],
-    "fetchedAt": "2026-08-01T17:09:10.028Z",
+    "fetchedAt": "2026-08-01T19:02:40.017Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-08-01T17:09:10.028Z",
+    "fetchedAt": "2026-08-01T19:02:40.017Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-08-01T17:09:10.140Z"
+    "articleFetchedAt": "2026-08-01T19:02:40.133Z"
   }
 }
