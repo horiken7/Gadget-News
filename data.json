@@ -46,8 +46,8 @@
       {
         "title": "Show HN: What should the GUI for AI agents look like?",
         "url": "https://marbleos.com/demo",
-        "points": 95,
-        "comments": 63,
+        "points": 96,
+        "comments": 65,
         "author": "akbabu",
         "createdAt": "2026-07-31T05:17:29Z",
         "domain": "marbleos.com",
@@ -66,14 +66,14 @@
       {
         "title": "Everyone is building LLM routers, we deprecated ours",
         "url": "https://manifest.build/blog/why-we-deprecated-our-llm-router/",
-        "points": 89,
-        "comments": 39,
+        "points": 94,
+        "comments": 51,
         "author": "brunaxLorax",
         "createdAt": "2026-07-31T18:06:39Z",
         "domain": "manifest.build",
         "sourceType": "hn",
         "category": "AIモデル",
-        "impact": "中",
+        "impact": "高",
         "newsLens": "技術",
         "titleJa": "誰もがLLMルーターを構築していますが、私たちはLLMルーターを非推奨にしました",
         "summaryJa": "この記事は「誰もがLLMルーターを構築していますが、私たちはLLMルーターを非推奨にしました」を扱っています。manifest.buildが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
@@ -105,15 +105,15 @@
         ]
       }
     ],
-    "fetchedAt": "2026-07-31T23:58:25.784Z",
+    "fetchedAt": "2026-08-01T03:20:39.569Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-07-31T23:58:25.784Z",
+    "fetchedAt": "2026-08-01T03:20:39.569Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-07-31T23:58:25.898Z"
+    "articleFetchedAt": "2026-08-01T03:20:39.702Z"
   }
 }
