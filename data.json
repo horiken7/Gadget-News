@@ -46,8 +46,8 @@
       {
         "title": "Everyone is building LLM routers, we deprecated ours",
         "url": "https://manifest.build/blog/why-we-deprecated-our-llm-router/",
-        "points": 97,
-        "comments": 57,
+        "points": 99,
+        "comments": 72,
         "author": "brunaxLorax",
         "createdAt": "2026-07-31T18:06:39Z",
         "domain": "manifest.build",
@@ -87,8 +87,8 @@
       {
         "title": "Predictive Speculative KV Replication for Bursty LLM Inference",
         "url": "https://jwlabs.vercel.app/post/biting-the-bullet",
-        "points": 77,
-        "comments": 3,
+        "points": 78,
+        "comments": 4,
         "author": "shreybirmiwal",
         "createdAt": "2026-07-31T19:55:41Z",
         "domain": "jwlabs.vercel.app",
@@ -105,15 +105,15 @@
         ]
       }
     ],
-    "fetchedAt": "2026-08-01T06:24:52.512Z",
+    "fetchedAt": "2026-08-01T09:02:32.339Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-08-01T06:24:52.512Z",
+    "fetchedAt": "2026-08-01T09:02:32.339Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-08-01T06:24:52.622Z"
+    "articleFetchedAt": "2026-08-01T09:02:32.452Z"
   }
 }
