@@ -4,8 +4,8 @@
       {
         "title": "AI's real threat to jobs isn't job loss, it's lower paychecks, new research says",
         "url": "https://www.businessinsider.com/ai-could-lower-workers-pay-job-market-impact-2026-7",
-        "points": 122,
-        "comments": 7,
+        "points": 125,
+        "comments": 16,
         "author": "theanonymousone",
         "createdAt": "2026-08-01T21:05:00Z",
         "domain": "businessinsider.com",
@@ -43,6 +43,27 @@
         ]
       },
       {
+        "title": "AI keeps consumer prices high in RAMaggedon chip crunch",
+        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-keeps-consumer-prices-high-in-ramaggedon-chip-crunch/articleshow/132800368.cms",
+        "points": 81,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-08-02T05:00:00Z",
+        "domain": "economictimes.indiatimes.com",
+        "sourceType": "gdelt",
+        "sourceLabel": "GDELT",
+        "category": "ハードウェア",
+        "impact": "中",
+        "newsLens": "技術",
+        "titleJa": "AIはRAMaggedonチップクランチで消費者価格を高く維持",
+        "summaryJa": "この記事は「AIはRAMaggedonチップクランチで消費者価格を高く維持」を扱っています。人工知能の需要により、メモリチップの価格は大幅に上昇しています。この不足は、間もなく家電製品や潜在的な車両に影響を与えています。",
+        "keyPoints": [
+          "この記事は「AIはRAMaggedonチップクランチで消費者価格を高く維持」を扱っています。",
+          "人工知能の需要により、メモリチップの価格は大幅に上昇しています。",
+          "この不足は、間もなく家電製品や潜在的な車両に影響を与えています。"
+        ]
+      },
+      {
         "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
         "url": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
         "points": 79,
@@ -67,7 +88,7 @@
         "title": "AI financial advice is surprisingly good, especially if you ask right questions",
         "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
         "points": 73,
-        "comments": 132,
+        "comments": 211,
         "author": "foxtrot8672",
         "createdAt": "2026-08-01T22:25:12Z",
         "domain": "mitsloan.mit.edu",
@@ -82,29 +103,9 @@
           "MITスローンのTaha Choukhmaneと共同執筆者によると、大規模な言語モデルはスマートな金融行動を促進するが、貯蓄と投資のより微妙な側面には不十分である。",
           "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
-      },
-      {
-        "title": "Zitron: \"Everyone Has Been Sold a Lie\" on AI",
-        "url": "https://www.youtube.com/watch?v=pHcZpvIfho0",
-        "points": 52,
-        "comments": 20,
-        "author": "tcp_handshaker",
-        "createdAt": "2026-08-01T22:50:30Z",
-        "domain": "youtube.com",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "低",
-        "newsLens": "技術",
-        "titleJa": "ジトロン： AIで「誰もが嘘をついた」",
-        "summaryJa": "この記事は「ジトロン： AIで「誰もが嘘をついた」」を扱っています。お気に入りの動画や音楽を楽しんだり、オリジナルコンテンツをアップロードしたり、YouTubeで友達や家族、世界中の人と共有したりできます。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
-        "keyPoints": [
-          "この記事は「ジトロン： AIで「誰もが嘘をついた」」を扱っています。",
-          "お気に入りの動画や音楽を楽しんだり、オリジナルコンテンツをアップロードしたり、YouTubeで友達や家族、世界中の人と共有したりできます。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
-        ]
       }
     ],
-    "fetchedAt": "2026-08-02T02:24:11.594Z",
+    "fetchedAt": "2026-08-02T05:52:57.616Z",
     "mock": false
   },
   "xTrends": {
@@ -116,22 +117,22 @@
         "appearances": 3,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-08-02T02:24:11.576Z",
+        "observedAt": "2026-08-02T05:52:57.600Z",
         "url": "https://x.com/search?q=AI%E3%83%87%E3%83%BC%E3%82%BF%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC&src=typed_query&f=live",
         "articleTitle": "AIデータセンター",
         "articleTitleJa": "公開トレンド: AIデータセンター",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-08-02T02:24:11.576Z",
+        "articlePublishedAt": "2026-08-02T05:52:57.600Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
       }
     ],
-    "fetchedAt": "2026-08-02T02:24:11.594Z",
+    "fetchedAt": "2026-08-02T05:52:57.616Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-08-02T02:24:11.924Z"
+    "articleFetchedAt": "2026-08-02T05:52:58.027Z"
   }
 }
