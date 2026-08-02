@@ -23,6 +23,26 @@
         ]
       },
       {
+        "title": "An internal OpenAI Astra model solved 10 major open math and CS problems",
+        "url": "https://twitter.com/polynoamial/status/2083467194663571701",
+        "points": 80,
+        "comments": 38,
+        "author": "wa5ina",
+        "createdAt": "2026-08-02T12:01:37Z",
+        "domain": "twitter.com",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "低",
+        "newsLens": "技術",
+        "titleJa": "内部OpenAI Astraモデルは、10の主要なオープンな数学とCSの問題を解決しました",
+        "summaryJa": "この記事は「内部OpenAI Astraモデルは、10の主要なオープンな数学とCSの問題を解決しました」を扱っています。@ OpenAIの次の主要なモデルファミリーであるAstraの内部バージョンは、数学、量子複雑性、理論的コンピュータサイエンスの10の主要な未解決問題を解決しました。私たちは、それが科学的推論のための大きな一歩になると信じています。",
+        "keyPoints": [
+          "この記事は「内部OpenAI Astraモデルは、10の主要なオープンな数学とCSの問題を解決しました」を扱っています。",
+          "@ OpenAIの次の主要なモデルファミリーであるAstraの内部バージョンは、数学、量子複雑性、理論的コンピュータサイエンスの10の主要な未解決問題を解決しました。",
+          "私たちは、それが科学的推論のための大きな一歩になると信じています。"
+        ]
+      },
+      {
         "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
         "url": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
         "points": 79,
@@ -44,30 +64,10 @@
         ]
       },
       {
-        "title": "An internal OpenAI Astra model solved 10 major open math and CS problems",
-        "url": "https://twitter.com/polynoamial/status/2083467194663571701",
-        "points": 78,
-        "comments": 24,
-        "author": "wa5ina",
-        "createdAt": "2026-08-02T12:01:37Z",
-        "domain": "twitter.com",
-        "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "低",
-        "newsLens": "技術",
-        "titleJa": "内部OpenAI Astraモデルは、10の主要なオープンな数学とCSの問題を解決しました",
-        "summaryJa": "この記事は「内部OpenAI Astraモデルは、10の主要なオープンな数学とCSの問題を解決しました」を扱っています。@ OpenAIの次の主要なモデルファミリーであるAstraの内部バージョンは、数学、量子複雑性、理論的コンピュータサイエンスの10の主要な未解決問題を解決しました。私たちは、それが科学的推論のための大きな一歩になると信じています。",
-        "keyPoints": [
-          "この記事は「内部OpenAI Astraモデルは、10の主要なオープンな数学とCSの問題を解決しました」を扱っています。",
-          "@ OpenAIの次の主要なモデルファミリーであるAstraの内部バージョンは、数学、量子複雑性、理論的コンピュータサイエンスの10の主要な未解決問題を解決しました。",
-          "私たちは、それが科学的推論のための大きな一歩になると信じています。"
-        ]
-      },
-      {
         "title": "Don't credit the LLM",
         "url": "https://isaacsu.com/2026/08/dont-credit-the-llm/",
         "points": 77,
-        "comments": 39,
+        "comments": 40,
         "author": "isaacsu",
         "createdAt": "2026-08-02T04:07:46Z",
         "domain": "isaacsu.com",
@@ -87,7 +87,7 @@
         "title": "Generative AI floods and dilutes the market for books",
         "url": "https://arxiv.org/abs/2607.20349",
         "points": 69,
-        "comments": 74,
+        "comments": 84,
         "author": "theanonymousone",
         "createdAt": "2026-08-02T11:06:07Z",
         "domain": "arxiv.org",
@@ -104,7 +104,7 @@
         ]
       }
     ],
-    "fetchedAt": "2026-08-02T13:40:43.320Z",
+    "fetchedAt": "2026-08-02T14:58:43.052Z",
     "mock": false
   },
   "xTrends": {
@@ -116,22 +116,22 @@
         "appearances": 3,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-08-02T13:40:43.303Z",
+        "observedAt": "2026-08-02T14:58:43.035Z",
         "url": "https://x.com/search?q=AI%E3%83%87%E3%83%BC%E3%82%BF%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC&src=typed_query&f=live",
         "articleTitle": "AIデータセンター",
         "articleTitleJa": "公開トレンド: AIデータセンター",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-08-02T13:40:43.303Z",
+        "articlePublishedAt": "2026-08-02T14:58:43.035Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
       }
     ],
-    "fetchedAt": "2026-08-02T13:40:43.320Z",
+    "fetchedAt": "2026-08-02T14:58:43.052Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-08-02T13:40:43.699Z"
+    "articleFetchedAt": "2026-08-02T14:58:43.396Z"
   }
 }
