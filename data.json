@@ -4,8 +4,8 @@
       {
         "title": "AI's real threat to jobs isn't job loss, it's lower paychecks, new research says",
         "url": "https://www.businessinsider.com/ai-could-lower-workers-pay-job-market-impact-2026-7",
-        "points": 125,
-        "comments": 16,
+        "points": 126,
+        "comments": 18,
         "author": "theanonymousone",
         "createdAt": "2026-08-01T21:05:00Z",
         "domain": "businessinsider.com",
@@ -43,27 +43,6 @@
         ]
       },
       {
-        "title": "AI keeps consumer prices high in RAMaggedon chip crunch",
-        "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-keeps-consumer-prices-high-in-ramaggedon-chip-crunch/articleshow/132800368.cms",
-        "points": 81,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-08-02T05:00:00Z",
-        "domain": "economictimes.indiatimes.com",
-        "sourceType": "gdelt",
-        "sourceLabel": "GDELT",
-        "category": "ハードウェア",
-        "impact": "中",
-        "newsLens": "技術",
-        "titleJa": "AIはRAMaggedonチップクランチで消費者価格を高く維持",
-        "summaryJa": "この記事は「AIはRAMaggedonチップクランチで消費者価格を高く維持」を扱っています。人工知能の需要により、メモリチップの価格は大幅に上昇しています。この不足は、間もなく家電製品や潜在的な車両に影響を与えています。",
-        "keyPoints": [
-          "この記事は「AIはRAMaggedonチップクランチで消費者価格を高く維持」を扱っています。",
-          "人工知能の需要により、メモリチップの価格は大幅に上昇しています。",
-          "この不足は、間もなく家電製品や潜在的な車両に影響を与えています。"
-        ]
-      },
-      {
         "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
         "url": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
         "points": 79,
@@ -85,10 +64,30 @@
         ]
       },
       {
+        "title": "Don't credit the LLM",
+        "url": "https://isaacsu.com/2026/08/dont-credit-the-llm/",
+        "points": 76,
+        "comments": 38,
+        "author": "isaacsu",
+        "createdAt": "2026-08-02T04:07:46Z",
+        "domain": "isaacsu.com",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "低",
+        "newsLens": "技術",
+        "titleJa": "LLMにクレジットを付与しないでください",
+        "summaryJa": "この記事は「LLMにクレジットを付与しないでください」を扱っています。isaacsu.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "keyPoints": [
+          "この記事は「LLMにクレジットを付与しないでください」を扱っています。",
+          "isaacsu.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+        ]
+      },
+      {
         "title": "AI financial advice is surprisingly good, especially if you ask right questions",
         "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
         "points": 73,
-        "comments": 211,
+        "comments": 258,
         "author": "foxtrot8672",
         "createdAt": "2026-08-01T22:25:12Z",
         "domain": "mitsloan.mit.edu",
@@ -105,7 +104,7 @@
         ]
       }
     ],
-    "fetchedAt": "2026-08-02T05:52:57.616Z",
+    "fetchedAt": "2026-08-02T08:15:55.317Z",
     "mock": false
   },
   "xTrends": {
@@ -117,22 +116,22 @@
         "appearances": 3,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-08-02T05:52:57.600Z",
+        "observedAt": "2026-08-02T08:15:55.287Z",
         "url": "https://x.com/search?q=AI%E3%83%87%E3%83%BC%E3%82%BF%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC&src=typed_query&f=live",
         "articleTitle": "AIデータセンター",
         "articleTitleJa": "公開トレンド: AIデータセンター",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-08-02T05:52:57.600Z",
+        "articlePublishedAt": "2026-08-02T08:15:55.287Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
       }
     ],
-    "fetchedAt": "2026-08-02T05:52:57.616Z",
+    "fetchedAt": "2026-08-02T08:15:55.317Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-08-02T05:52:58.027Z"
+    "articleFetchedAt": "2026-08-02T08:15:55.795Z"
   }
 }
