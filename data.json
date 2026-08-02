@@ -2,26 +2,6 @@
   "news": {
     "items": [
       {
-        "title": "AI's real threat to jobs isn't job loss, it's lower paychecks, new research says",
-        "url": "https://www.businessinsider.com/ai-could-lower-workers-pay-job-market-impact-2026-7",
-        "points": 126,
-        "comments": 18,
-        "author": "theanonymousone",
-        "createdAt": "2026-08-01T21:05:00Z",
-        "domain": "businessinsider.com",
-        "sourceType": "hn",
-        "category": "研究",
-        "impact": "低",
-        "newsLens": "技術",
-        "titleJa": "新しい研究によると、雇用に対するAIの真の脅威は失業ではなく、給与の低下です",
-        "summaryJa": "この記事は「新しい研究によると、雇用に対するAIの真の脅威は失業ではなく、給与の低下です」を扱っています。Apolloの新しいホワイトペーパーによると、AIへのエクスポージャーが高い職種では、近年実質賃金が急激に低下している。研究・実装面では、手法の新しさ、再現性、既存モデルとの差分が見るべき点です。",
-        "keyPoints": [
-          "この記事は「新しい研究によると、雇用に対するAIの真の脅威は失業ではなく、給与の低下です」を扱っています。",
-          "Apolloの新しいホワイトペーパーによると、AIへのエクスポージャーが高い職種では、近年実質賃金が急激に低下している。",
-          "研究・実装面では、手法の新しさ、再現性、既存モデルとの差分が見るべき点です。"
-        ]
-      },
-      {
         "title": "Sam Altman is still making the case for parenting via ChatGPT",
         "url": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
         "points": 105,
@@ -66,7 +46,7 @@
       {
         "title": "Don't credit the LLM",
         "url": "https://isaacsu.com/2026/08/dont-credit-the-llm/",
-        "points": 76,
+        "points": 77,
         "comments": 38,
         "author": "isaacsu",
         "createdAt": "2026-08-02T04:07:46Z",
@@ -84,27 +64,47 @@
         ]
       },
       {
-        "title": "AI financial advice is surprisingly good, especially if you ask right questions",
-        "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
-        "points": 73,
-        "comments": 258,
-        "author": "foxtrot8672",
-        "createdAt": "2026-08-01T22:25:12Z",
-        "domain": "mitsloan.mit.edu",
+        "title": "Show HN: Minimal LLM Post-Training Experiments on an 8GB GPU (SFT, DPO, GRPO)",
+        "url": "https://github.com/pochenai/nano-llm-posttraining",
+        "points": 74,
+        "comments": 0,
+        "author": "popopanda",
+        "createdAt": "2026-08-01T12:30:32Z",
+        "domain": "github.com",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "低",
+        "newsLens": "技術",
+        "titleJa": "HNを表示： 8 GB GPU （ SFT、DPO、GRPO ）での最小限のLLMトレーニング後の実験",
+        "summaryJa": "この記事は「HNを表示： 8 GB GPU （ SFT、DPO、GRPO ）での最小限のLLMトレーニング後の実験」を扱っています。1つの8 GB GPUでの最小限の読み取り可能なLLMトレーニング後の実験。忘却、種子の分散、およびRLの出現を測定します。",
+        "keyPoints": [
+          "この記事は「HNを表示： 8 GB GPU （ SFT、DPO、GRPO ）での最小限のLLMトレーニング後の実験」を扱っています。",
+          "1つの8 GB GPUでの最小限の読み取り可能なLLMトレーニング後の実験。",
+          "忘却、種子の分散、およびRLの出現を測定します。"
+        ]
+      },
+      {
+        "title": "Zitron: \"Everyone Has Been Sold a Lie\" on AI",
+        "url": "https://www.youtube.com/watch?v=pHcZpvIfho0",
+        "points": 54,
+        "comments": 35,
+        "author": "tcp_handshaker",
+        "createdAt": "2026-08-01T22:50:30Z",
+        "domain": "youtube.com",
         "sourceType": "hn",
         "category": "AIニュース",
-        "impact": "高",
+        "impact": "低",
         "newsLens": "技術",
-        "titleJa": "AIの財務アドバイスは、特に適切な質問をする場合、驚くほど優れています",
-        "summaryJa": "この記事は「AIの財務アドバイスは、特に適切な質問をする場合、驚くほど優れています」を扱っています。MITスローンのTaha Choukhmaneと共同執筆者によると、大規模な言語モデルはスマートな金融行動を促進するが、貯蓄と投資のより微妙な側面には不十分である。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "titleJa": "ジトロン： AIで「誰もが嘘をついた」",
+        "summaryJa": "この記事は「ジトロン： AIで「誰もが嘘をついた」」を扱っています。お気に入りの動画や音楽を楽しんだり、オリジナルコンテンツをアップロードしたり、YouTubeで友達や家族、世界中の人と共有したりできます。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
         "keyPoints": [
-          "この記事は「AIの財務アドバイスは、特に適切な質問をする場合、驚くほど優れています」を扱っています。",
-          "MITスローンのTaha Choukhmaneと共同執筆者によると、大規模な言語モデルはスマートな金融行動を促進するが、貯蓄と投資のより微妙な側面には不十分である。",
+          "この記事は「ジトロン： AIで「誰もが嘘をついた」」を扱っています。",
+          "お気に入りの動画や音楽を楽しんだり、オリジナルコンテンツをアップロードしたり、YouTubeで友達や家族、世界中の人と共有したりできます。",
           "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
       }
     ],
-    "fetchedAt": "2026-08-02T08:15:55.317Z",
+    "fetchedAt": "2026-08-02T10:37:23.308Z",
     "mock": false
   },
   "xTrends": {
@@ -116,22 +116,22 @@
         "appearances": 3,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-08-02T08:15:55.287Z",
+        "observedAt": "2026-08-02T10:37:23.248Z",
         "url": "https://x.com/search?q=AI%E3%83%87%E3%83%BC%E3%82%BF%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC&src=typed_query&f=live",
         "articleTitle": "AIデータセンター",
         "articleTitleJa": "公開トレンド: AIデータセンター",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-08-02T08:15:55.287Z",
+        "articlePublishedAt": "2026-08-02T10:37:23.248Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
       }
     ],
-    "fetchedAt": "2026-08-02T08:15:55.317Z",
+    "fetchedAt": "2026-08-02T10:37:23.308Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-08-02T08:15:55.795Z"
+    "articleFetchedAt": "2026-08-02T10:37:23.618Z"
   }
 }
