@@ -26,7 +26,7 @@
         "title": "An internal OpenAI Astra model solved 10 major open math and CS problems",
         "url": "https://twitter.com/polynoamial/status/2083467194663571701",
         "points": 80,
-        "comments": 38,
+        "comments": 41,
         "author": "wa5ina",
         "createdAt": "2026-08-02T12:01:37Z",
         "domain": "twitter.com",
@@ -66,7 +66,7 @@
       {
         "title": "Don't credit the LLM",
         "url": "https://isaacsu.com/2026/08/dont-credit-the-llm/",
-        "points": 77,
+        "points": 78,
         "comments": 40,
         "author": "isaacsu",
         "createdAt": "2026-08-02T04:07:46Z",
@@ -87,7 +87,7 @@
         "title": "Generative AI floods and dilutes the market for books",
         "url": "https://arxiv.org/abs/2607.20349",
         "points": 69,
-        "comments": 84,
+        "comments": 90,
         "author": "theanonymousone",
         "createdAt": "2026-08-02T11:06:07Z",
         "domain": "arxiv.org",
@@ -104,7 +104,7 @@
         ]
       }
     ],
-    "fetchedAt": "2026-08-02T14:58:43.052Z",
+    "fetchedAt": "2026-08-02T16:03:33.412Z",
     "mock": false
   },
   "xTrends": {
@@ -112,26 +112,26 @@
       {
         "topic": "AIデータセンター",
         "locationLabel": "日本",
-        "bestRank": 15,
-        "appearances": 3,
+        "bestRank": 23,
+        "appearances": 2,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-08-02T14:58:43.035Z",
+        "observedAt": "2026-08-02T16:03:33.376Z",
         "url": "https://x.com/search?q=AI%E3%83%87%E3%83%BC%E3%82%BF%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC&src=typed_query&f=live",
         "articleTitle": "AIデータセンター",
         "articleTitleJa": "公開トレンド: AIデータセンター",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-08-02T14:58:43.035Z",
+        "articlePublishedAt": "2026-08-02T16:03:33.376Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
       }
     ],
-    "fetchedAt": "2026-08-02T14:58:43.052Z",
+    "fetchedAt": "2026-08-02T16:03:33.412Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-08-02T14:58:43.396Z"
+    "articleFetchedAt": "2026-08-02T16:03:33.707Z"
   }
 }
