@@ -2,10 +2,51 @@
   "news": {
     "items": [
       {
+        "title": "Apple finally fixed Siri. So why does it feel anticlimactic?",
+        "url": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/",
+        "points": 107,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-08-03T18:43:43.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
+        "category": "AIニュース",
+        "impact": "高",
+        "titleJa": "AppleはついにSiriを修正しました。では、なぜ反気候的に感じるのでしょうか？",
+        "summaryJa": "この記事は「AppleはついにSiriを修正しました。では、なぜ反気候的に感じるのでしょうか？」を扱っています。Appleの待望のAIオーバーホールは、ついにSiriを常にそうであるべきアシスタントにしました。しかし、何年もの遅れを経て、チャットボットがコーディング、推論、メディアの作成、複雑なタスクの完了を可能にするエージェントに進化したAIランドスケープに立ち寄りました。",
+        "keyPoints": [
+          "この記事は「AppleはついにSiriを修正しました。",
+          "では、なぜ反気候的に感じるのでしょうか。",
+          "Appleの待望のAIオーバーホールは、ついにSiriを常にそうであるべきアシスタントにしました。"
+        ]
+      },
+      {
+        "title": "SQLite Critical CVEs or LLM Slop?",
+        "url": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
+        "points": 101,
+        "comments": 285,
+        "author": "ymir_e",
+        "createdAt": "2026-08-03T11:28:54Z",
+        "domain": "research.jfrog.com",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "SQLiteクリティカルCVEまたはLLMスロップ？",
+        "summaryJa": "この記事は「SQLiteクリティカルCVEまたはLLMスロップ？」を扱っています。JFrogセキュリティリサーチチームは最近、PyPIの「xinference」パッケージを標的としたサプライチェーン攻撃を特定しました。バージョン2.6.0、2.6.1、および2.6.2は、ユーザーが疑わしい動作を報告した後、メンテナによって侵害され、引きずり出されました。",
+        "keyPoints": [
+          "この記事は「SQLiteクリティカルCVEまたはLLMスロップ。",
+          "JFrogセキュリティリサーチチームは最近、PyPIの「xinference」パッケージを標的としたサプライチェーン攻撃を特定しました。",
+          "バージョン2.6.0、2.6.1、および2.6.2は、ユーザーが疑わしい動作を報告した後、メンテナによって侵害され、引きずり出されました。"
+        ]
+      },
+      {
         "title": "Prevent cognitive debt by manually retyping LLM-generated code",
         "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
         "points": 101,
-        "comments": 223,
+        "comments": 262,
         "author": "mpweiher",
         "createdAt": "2026-08-03T09:32:07Z",
         "domain": "ankursethi.com",
@@ -22,50 +63,30 @@
         ]
       },
       {
-        "title": "Show HN: Sprocket – The Best AI Agent for Hardware and Software Development",
-        "url": "https://sprocket-demo.spikonado.com",
-        "points": 100,
-        "comments": 13,
-        "author": "amronos",
-        "createdAt": "2026-08-02T16:26:19Z",
-        "domain": "sprocket-demo.spikonado.com",
-        "sourceType": "hn",
-        "category": "ハードウェア",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "Show HN: Sprocket –ハードウェアおよびソフトウェア開発に最適なAIエージェント",
-        "summaryJa": "この記事は「Show HN: Sprocket –ハードウェアおよびソフトウェア開発に最適なAIエージェント」を扱っています。私は16歳で、スプロケットにしばらく取り組んでいます。ハードウェアとソフトウェアの両方で他のすべてのエージェントを打ち負かすオープンソースのAIエージェントです。",
-        "keyPoints": [
-          "この記事は「Show HN: Sprocket –ハードウェアおよびソフトウェア開発に最適なAIエージェント」を扱っています。",
-          "私は16歳で、スプロケットにしばらく取り組んでいます。",
-          "ハードウェアとソフトウェアの両方で他のすべてのエージェントを打ち負かすオープンソースのAIエージェントです。"
-        ]
-      },
-      {
-        "title": "Sam Altman and AI’s decel debate",
-        "url": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
+        "title": "Congress’s favorite AI tool? ChatGPT",
+        "url": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
         "points": 79,
         "comments": 0,
         "author": "",
-        "createdAt": "2026-08-02T20:54:22.000Z",
+        "createdAt": "2026-08-03T16:40:55.000Z",
         "domain": "techcrunch.com",
         "sourceType": "rss",
         "sourceLabel": "TechCrunch AI",
         "newsLens": "一般",
-        "category": "AIニュース",
+        "category": "AIモデル",
         "impact": "中",
-        "titleJa": "サム・アルトマンとAIのデセル討論",
-        "summaryJa": "この記事は「サム・アルトマンとAIのデセル討論」を扱っています。エクイティの最新エピソードでは、サム・アルトマンが「AI開発のペースを上げる」よう業界に求めている理由について説明します。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "titleJa": "議会のお気に入りのAIツール？ ChatGPT",
+        "summaryJa": "この記事は「議会のお気に入りのAIツール？ ChatGPT」を扱っています。下院支出記録によると、OpenAIのChatGPTはキャピトルヒルでの有料AIの使用を支配しており、議会のオフィスはチャットボットに頼ってメモの起草、法律の要約、および賛助会員のコミュニケーションを支援しています。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
-          "この記事は「サム・アルトマンとAIのデセル討論」を扱っています。",
-          "エクイティの最新エピソードでは、サム・アルトマンが「AI開発のペースを上げる」よう業界に求めている理由について説明します。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+          "この記事は「議会のお気に入りのAIツール。",
+          "ChatGPT」を扱っています。",
+          "下院支出記録によると、OpenAIのChatGPTはキャピトルヒルでの有料AIの使用を支配しており、議会のオフィスはチャットボットに頼ってメモの起草、法律の要約、および賛助会員のコミュニケーションを支援しています。"
         ]
       },
       {
         "title": "Boris Cherny on Trying to Get Claude Code to Rewrite the Claude App",
         "url": "https://daringfireball.net/linked/2026/08/02/cherny-claude-swift",
-        "points": 57,
+        "points": 58,
         "comments": 13,
         "author": "robenkleene",
         "createdAt": "2026-08-03T00:22:55Z",
@@ -81,70 +102,13 @@
           "daringfireball.netが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
           "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
-      },
-      {
-        "title": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
-        "url": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
-        "points": 39,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-08-03T10:00:00.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
-        "category": "AIニュース",
-        "impact": "低",
-        "titleJa": "マーク・ベニオフが支援するスタートアップは、AIがAI展開の問題を解決できると考えています",
-        "summaryJa": "この記事は「マーク・ベニオフが支援するスタートアップは、AIがAI展開の問題を解決できると考えています」を扱っています。6月は、AIの採用をより簡単にするために、今日2,000万$のプレシードラウンドでステルスから出現しました。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
-        "keyPoints": [
-          "この記事は「マーク・ベニオフが支援するスタートアップは、AIがAI展開の問題を解決できると考えています」を扱っています。",
-          "6月は、AIの採用をより簡単にするために、今日2,000万$のプレシードラウンドでステルスから出現しました。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
-        ]
       }
     ],
-    "fetchedAt": "2026-08-03T16:20:06.107Z",
+    "fetchedAt": "2026-08-03T18:47:40.867Z",
     "mock": false
   },
   "xTrends": {
     "items": [
-      {
-        "topic": "AIセンター",
-        "locationLabel": "日本",
-        "bestRank": 10,
-        "appearances": 3,
-        "trendSource": "Trends24",
-        "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-08-03T16:20:05.972Z",
-        "url": "https://x.com/search?q=AI%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC&src=typed_query&f=live",
-        "articleTitle": "AIセンター",
-        "articleTitleJa": "公開トレンド: AIセンター",
-        "articleUrl": "https://trends24.in/japan/",
-        "articleSource": "Trends24",
-        "articlePublishedAt": "2026-08-03T16:20:05.972Z",
-        "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
-        "translationVersion": 3,
-        "articleFallback": true
-      },
-      {
-        "topic": "AI関連企業の決算",
-        "locationLabel": "日本",
-        "bestRank": 7,
-        "appearances": 2,
-        "trendSource": "Trends24",
-        "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-08-03T16:20:05.972Z",
-        "url": "https://x.com/search?q=AI%E9%96%A2%E9%80%A3%E4%BC%81%E6%A5%AD%E3%81%AE%E6%B1%BA%E7%AE%97&src=typed_query&f=live",
-        "articleTitle": "AI関連企業の決算",
-        "articleTitleJa": "公開トレンド: AI関連企業の決算",
-        "articleUrl": "https://trends24.in/japan/",
-        "articleSource": "Trends24",
-        "articlePublishedAt": "2026-08-03T16:20:05.972Z",
-        "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
-        "translationVersion": 3,
-        "articleFallback": true
-      },
       {
         "topic": "OpenAIの次世代モデル群",
         "locationLabel": "日本",
@@ -152,22 +116,22 @@
         "appearances": 2,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-08-03T16:20:05.972Z",
+        "observedAt": "2026-08-03T18:47:40.853Z",
         "url": "https://x.com/search?q=OpenAI%E3%81%AE%E6%AC%A1%E4%B8%96%E4%BB%A3%E3%83%A2%E3%83%87%E3%83%AB%E7%BE%A4&src=typed_query&f=live",
         "articleTitle": "OpenAIの次世代モデル群",
         "articleTitleJa": "公開トレンド: OpenAIの次世代モデル群",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-08-03T16:20:05.972Z",
+        "articlePublishedAt": "2026-08-03T18:47:40.853Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
       }
     ],
-    "fetchedAt": "2026-08-03T16:20:06.107Z",
+    "fetchedAt": "2026-08-03T18:47:40.867Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-08-03T16:20:07.504Z"
+    "articleFetchedAt": "2026-08-03T18:47:41.165Z"
   }
 }
