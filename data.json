@@ -5,7 +5,7 @@
         "title": "Prevent cognitive debt by manually retyping LLM-generated code",
         "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
         "points": 101,
-        "comments": 128,
+        "comments": 223,
         "author": "mpweiher",
         "createdAt": "2026-08-03T09:32:07Z",
         "domain": "ankursethi.com",
@@ -25,7 +25,7 @@
         "title": "Show HN: Sprocket – The Best AI Agent for Hardware and Software Development",
         "url": "https://sprocket-demo.spikonado.com",
         "points": 100,
-        "comments": 12,
+        "comments": 13,
         "author": "amronos",
         "createdAt": "2026-08-02T16:26:19Z",
         "domain": "sprocket-demo.spikonado.com",
@@ -63,23 +63,23 @@
         ]
       },
       {
-        "title": "The AI Productivity Gap",
-        "url": "https://bjorg.bjornroche.com/management/ai-productivity-gap/",
-        "points": 59,
-        "comments": 69,
-        "author": "kiyanwang",
-        "createdAt": "2026-08-03T07:07:20Z",
-        "domain": "bjorg.bjornroche.com",
+        "title": "Boris Cherny on Trying to Get Claude Code to Rewrite the Claude App",
+        "url": "https://daringfireball.net/linked/2026/08/02/cherny-claude-swift",
+        "points": 57,
+        "comments": 13,
+        "author": "robenkleene",
+        "createdAt": "2026-08-03T00:22:55Z",
+        "domain": "daringfireball.net",
         "sourceType": "hn",
-        "category": "AIニュース",
+        "category": "AIモデル",
         "impact": "中",
         "newsLens": "技術",
-        "titleJa": "AIの生産性ギャップ",
-        "summaryJa": "この記事は「AIの生産性ギャップ」を扱っています。AIによる生産性の向上がまだ少ないのはなぜですか。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "titleJa": "Boris Cherny、Claudeアプリを書き直すためにClaude Codeを入手しようとしている",
+        "summaryJa": "この記事は「Boris Cherny、Claudeアプリを書き直すためにClaude Codeを入手しようとしている」を扱っています。daringfireball.netが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
         "keyPoints": [
-          "この記事は「AIの生産性ギャップ」を扱っています。",
-          "AIによる生産性の向上がまだ少ないのはなぜですか。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+          "この記事は「Boris Cherny、Claudeアプリを書き直すためにClaude Codeを入手しようとしている」を扱っています。",
+          "daringfireball.netが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
       },
       {
@@ -104,7 +104,7 @@
         ]
       }
     ],
-    "fetchedAt": "2026-08-03T13:37:41.141Z",
+    "fetchedAt": "2026-08-03T16:20:06.107Z",
     "mock": false
   },
   "xTrends": {
@@ -112,17 +112,17 @@
       {
         "topic": "AIセンター",
         "locationLabel": "日本",
-        "bestRank": 2,
-        "appearances": 4,
+        "bestRank": 10,
+        "appearances": 3,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-08-03T13:37:41.035Z",
+        "observedAt": "2026-08-03T16:20:05.972Z",
         "url": "https://x.com/search?q=AI%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC&src=typed_query&f=live",
         "articleTitle": "AIセンター",
         "articleTitleJa": "公開トレンド: AIセンター",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-08-03T13:37:41.035Z",
+        "articlePublishedAt": "2026-08-03T16:20:05.972Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -134,13 +134,13 @@
         "appearances": 2,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-08-03T13:37:41.035Z",
+        "observedAt": "2026-08-03T16:20:05.972Z",
         "url": "https://x.com/search?q=AI%E9%96%A2%E9%80%A3%E4%BC%81%E6%A5%AD%E3%81%AE%E6%B1%BA%E7%AE%97&src=typed_query&f=live",
         "articleTitle": "AI関連企業の決算",
         "articleTitleJa": "公開トレンド: AI関連企業の決算",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-08-03T13:37:41.035Z",
+        "articlePublishedAt": "2026-08-03T16:20:05.972Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -152,22 +152,22 @@
         "appearances": 2,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-08-03T13:37:41.035Z",
+        "observedAt": "2026-08-03T16:20:05.972Z",
         "url": "https://x.com/search?q=OpenAI%E3%81%AE%E6%AC%A1%E4%B8%96%E4%BB%A3%E3%83%A2%E3%83%87%E3%83%AB%E7%BE%A4&src=typed_query&f=live",
         "articleTitle": "OpenAIの次世代モデル群",
         "articleTitleJa": "公開トレンド: OpenAIの次世代モデル群",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-08-03T13:37:41.035Z",
+        "articlePublishedAt": "2026-08-03T16:20:05.972Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
       }
     ],
-    "fetchedAt": "2026-08-03T13:37:41.141Z",
+    "fetchedAt": "2026-08-03T16:20:06.107Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-08-03T13:37:41.931Z"
+    "articleFetchedAt": "2026-08-03T16:20:07.504Z"
   }
 }
