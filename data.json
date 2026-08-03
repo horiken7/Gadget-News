@@ -26,7 +26,7 @@
         "title": "SQLite Critical CVEs or LLM Slop?",
         "url": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
         "points": 101,
-        "comments": 285,
+        "comments": 321,
         "author": "ymir_e",
         "createdAt": "2026-08-03T11:28:54Z",
         "domain": "research.jfrog.com",
@@ -46,7 +46,7 @@
         "title": "Prevent cognitive debt by manually retyping LLM-generated code",
         "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
         "points": 101,
-        "comments": 262,
+        "comments": 271,
         "author": "mpweiher",
         "createdAt": "2026-08-03T09:32:07Z",
         "domain": "ankursethi.com",
@@ -63,48 +63,49 @@
         ]
       },
       {
-        "title": "Congress’s favorite AI tool? ChatGPT",
-        "url": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
+        "title": "Anthropic reveals Claude AI model hacked three companies during tests so how worried should we be ?",
+        "url": "https://www.techradar.com/pro/security/anthropic-reveals-claude-ai-model-hacked-three-companies-during-tests-so-how-worried-should-we-be",
+        "points": 81,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-08-03T19:30:00Z",
+        "domain": "techradar.com",
+        "sourceType": "gdelt",
+        "sourceLabel": "GDELT",
+        "category": "AIモデル",
+        "impact": "中",
+        "newsLens": "技術",
+        "titleJa": "Anthropicは、ClaudeAIモデルがテスト中に3つの会社をハッキングしたことを明らかにしているので、どの程度心配すべきでしょうか？",
+        "summaryJa": "この記事は「Anthropicは、ClaudeAIモデルがテスト中に3つの会社をハッキングしたことを明らかにしているので、どの程度心配すべきでしょうか？」を扱っています。単純な構成エラーがAIアシスタントを偶発的なインサイダー脅威に変えた方法。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "keyPoints": [
+          "この記事は「Anthropicは、ClaudeAIモデルがテスト中に3つの会社をハッキングしたことを明らかにしているので、どの程度心配すべきでしょうか。",
+          "単純な構成エラーがAIアシスタントを偶発的なインサイダー脅威に変えた方法。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+        ]
+      },
+      {
+        "title": "DesignArena creators raise $7.9 million to bring taste to AI models",
+        "url": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
         "points": 79,
         "comments": 0,
         "author": "",
-        "createdAt": "2026-08-03T16:40:55.000Z",
+        "createdAt": "2026-08-03T19:28:57.000Z",
         "domain": "techcrunch.com",
         "sourceType": "rss",
         "sourceLabel": "TechCrunch AI",
         "newsLens": "一般",
         "category": "AIモデル",
         "impact": "中",
-        "titleJa": "議会のお気に入りのAIツール？ ChatGPT",
-        "summaryJa": "この記事は「議会のお気に入りのAIツール？ ChatGPT」を扱っています。下院支出記録によると、OpenAIのChatGPTはキャピトルヒルでの有料AIの使用を支配しており、議会のオフィスはチャットボットに頼ってメモの起草、法律の要約、および賛助会員のコミュニケーションを支援しています。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "titleJa": "DesignArenaのクリエイターは、AIモデルにセンスをもたらすために790万$を調達",
+        "summaryJa": "この記事は「DesignArenaのクリエイターは、AIモデルにセンスをもたらすために790万$を調達」を扱っています。DesignArenaは、世界中で530万人が使用しており、フロンティアラボに重要な人的評価を提供しています。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
-          "この記事は「議会のお気に入りのAIツール。",
-          "ChatGPT」を扱っています。",
-          "下院支出記録によると、OpenAIのChatGPTはキャピトルヒルでの有料AIの使用を支配しており、議会のオフィスはチャットボットに頼ってメモの起草、法律の要約、および賛助会員のコミュニケーションを支援しています。"
-        ]
-      },
-      {
-        "title": "Boris Cherny on Trying to Get Claude Code to Rewrite the Claude App",
-        "url": "https://daringfireball.net/linked/2026/08/02/cherny-claude-swift",
-        "points": 58,
-        "comments": 13,
-        "author": "robenkleene",
-        "createdAt": "2026-08-03T00:22:55Z",
-        "domain": "daringfireball.net",
-        "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "中",
-        "newsLens": "技術",
-        "titleJa": "Boris Cherny、Claudeアプリを書き直すためにClaude Codeを入手しようとしている",
-        "summaryJa": "この記事は「Boris Cherny、Claudeアプリを書き直すためにClaude Codeを入手しようとしている」を扱っています。daringfireball.netが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
-        "keyPoints": [
-          "この記事は「Boris Cherny、Claudeアプリを書き直すためにClaude Codeを入手しようとしている」を扱っています。",
-          "daringfireball.netが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+          "この記事は「DesignArenaのクリエイターは、AIモデルにセンスをもたらすために790万$を調達」を扱っています。",
+          "DesignArenaは、世界中で530万人が使用しており、フロンティアラボに重要な人的評価を提供しています。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       }
     ],
-    "fetchedAt": "2026-08-03T18:47:40.867Z",
+    "fetchedAt": "2026-08-03T20:24:22.383Z",
     "mock": false
   },
   "xTrends": {
@@ -116,22 +117,22 @@
         "appearances": 2,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-08-03T18:47:40.853Z",
+        "observedAt": "2026-08-03T20:24:22.336Z",
         "url": "https://x.com/search?q=OpenAI%E3%81%AE%E6%AC%A1%E4%B8%96%E4%BB%A3%E3%83%A2%E3%83%87%E3%83%AB%E7%BE%A4&src=typed_query&f=live",
         "articleTitle": "OpenAIの次世代モデル群",
         "articleTitleJa": "公開トレンド: OpenAIの次世代モデル群",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-08-03T18:47:40.853Z",
+        "articlePublishedAt": "2026-08-03T20:24:22.336Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
       }
     ],
-    "fetchedAt": "2026-08-03T18:47:40.867Z",
+    "fetchedAt": "2026-08-03T20:24:22.383Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-08-03T18:47:41.165Z"
+    "articleFetchedAt": "2026-08-03T20:24:22.817Z"
   }
 }
