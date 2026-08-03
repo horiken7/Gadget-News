@@ -22,26 +22,6 @@
         ]
       },
       {
-        "title": "An internal OpenAI Astra model solved 10 major open math and CS problems",
-        "url": "https://twitter.com/polynoamial/status/2083467194663571701",
-        "points": 81,
-        "comments": 46,
-        "author": "wa5ina",
-        "createdAt": "2026-08-02T12:01:37Z",
-        "domain": "twitter.com",
-        "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "低",
-        "newsLens": "技術",
-        "titleJa": "内部OpenAI Astraモデルは、10の主要なオープンな数学とCSの問題を解決しました",
-        "summaryJa": "この記事は「内部OpenAI Astraモデルは、10の主要なオープンな数学とCSの問題を解決しました」を扱っています。@ OpenAIの次の主要なモデルファミリーであるAstraの内部バージョンは、数学、量子複雑性、理論的コンピュータサイエンスの10の主要な未解決問題を解決しました。私たちは、それが科学的推論のための大きな一歩になると信じています。",
-        "keyPoints": [
-          "この記事は「内部OpenAI Astraモデルは、10の主要なオープンな数学とCSの問題を解決しました」を扱っています。",
-          "@ OpenAIの次の主要なモデルファミリーであるAstraの内部バージョンは、数学、量子複雑性、理論的コンピュータサイエンスの10の主要な未解決問題を解決しました。",
-          "私たちは、それが科学的推論のための大きな一歩になると信じています。"
-        ]
-      },
-      {
         "title": "Sam Altman and AI’s decel debate",
         "url": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
         "points": 79,
@@ -63,47 +43,68 @@
         ]
       },
       {
-        "title": "AI poster wins Ohio State Fair contest",
-        "url": "https://www.ohiostatefair.com/p/get-involved/arts/poster-contest",
-        "points": 73,
-        "comments": 150,
-        "author": "AlexAplin",
-        "createdAt": "2026-08-02T22:43:47Z",
-        "domain": "ohiostatefair.com",
+        "title": "AI migrated legacy COBOL programs to Java, bugs included",
+        "url": "https://arxiv.org/abs/2607.28271",
+        "points": 78,
+        "comments": 53,
+        "author": "felineflock",
+        "createdAt": "2026-08-03T03:06:12Z",
+        "domain": "arxiv.org",
         "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "高",
+        "category": "開発ツール",
+        "impact": "中",
         "newsLens": "技術",
-        "titleJa": "AIポスターがオハイオ州フェアコンテストで優勝",
-        "summaryJa": "この記事は「AIポスターがオハイオ州フェアコンテストで優勝」を扱っています。ohiostatefair.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "titleJa": "AIがレガシーCOBOLプログラムをJavaに移行（バグを含む）",
+        "summaryJa": "この記事は「AIがレガシーCOBOLプログラムをJavaに移行（バグを含む）」を扱っています。ArXiv論文2607.28271の要約ページ：レガシーコードマイグレーションの決定論的検証のためのエージェント法。技術者にとっては、開発フロー、API、セキュリティ、運用コストへの影響が確認ポイントです。",
         "keyPoints": [
-          "この記事は「AIポスターがオハイオ州フェアコンテストで優勝」を扱っています。",
-          "ohiostatefair.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+          "この記事は「AIがレガシーCOBOLプログラムをJavaに移行（バグを含む）」を扱っています。",
+          "ArXiv論文2607.28271の要約ページ：レガシーコードマイグレーションの決定論的検証のためのエージェント法。",
+          "技術者にとっては、開発フロー、API、セキュリティ、運用コストへの影響が確認ポイントです。"
         ]
       },
       {
-        "title": "AI Mania: From Tulips to Tokens",
-        "url": "https://seanhelvey.com/tools-and-their-tools/",
-        "points": 53,
-        "comments": 54,
-        "author": "Lambda11",
-        "createdAt": "2026-08-02T20:48:28Z",
-        "domain": "seanhelvey.com",
+        "title": "Boris Cherny on Trying to Get Claude Code to Rewrite the Claude App",
+        "url": "https://daringfireball.net/linked/2026/08/02/cherny-claude-swift",
+        "points": 56,
+        "comments": 13,
+        "author": "robenkleene",
+        "createdAt": "2026-08-03T00:22:55Z",
+        "domain": "daringfireball.net",
         "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "中",
+        "newsLens": "技術",
+        "titleJa": "Boris Cherny、Claudeアプリを書き直すためにClaude Codeを入手しようとしている",
+        "summaryJa": "この記事は「Boris Cherny、Claudeアプリを書き直すためにClaude Codeを入手しようとしている」を扱っています。daringfireball.netが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "keyPoints": [
+          "この記事は「Boris Cherny、Claudeアプリを書き直すためにClaude Codeを入手しようとしている」を扱っています。",
+          "daringfireball.netが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+        ]
+      },
+      {
+        "title": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
+        "url": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
+        "points": 39,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-08-03T10:00:00.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
         "category": "AIニュース",
         "impact": "低",
-        "newsLens": "技術",
-        "titleJa": "AIマニア：チューリップからトークンへ",
-        "summaryJa": "この記事は「AIマニア：チューリップからトークンへ」を扱っています。マイケル・ポーランは、キノコからリンゴやトウモロコシまであらゆるものについて書いていますが、チューリップと人間がどのようにお互いを形作ったかについての彼の共進化の物語は、。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "titleJa": "マーク・ベニオフが支援するスタートアップは、AIがAI展開の問題を解決できると考えています",
+        "summaryJa": "この記事は「マーク・ベニオフが支援するスタートアップは、AIがAI展開の問題を解決できると考えています」を扱っています。6月は、AIの採用をより簡単にするために、今日2,000万$のプレシードラウンドでステルスから出現しました。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
-          "この記事は「AIマニア：チューリップからトークンへ」を扱っています。",
-          "マイケル・ポーランは、キノコからリンゴやトウモロコシまであらゆるものについて書いていますが、チューリップと人間がどのようにお互いを形作ったかについての彼の共進化の物語は、。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+          "この記事は「マーク・ベニオフが支援するスタートアップは、AIがAI展開の問題を解決できると考えています」を扱っています。",
+          "6月は、AIの採用をより簡単にするために、今日2,000万$のプレシードラウンドでステルスから出現しました。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       }
     ],
-    "fetchedAt": "2026-08-03T06:17:59.747Z",
+    "fetchedAt": "2026-08-03T10:38:45.826Z",
     "mock": false
   },
   "xTrends": {
@@ -115,13 +116,13 @@
         "appearances": 4,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-08-03T06:17:59.729Z",
+        "observedAt": "2026-08-03T10:38:45.811Z",
         "url": "https://x.com/search?q=AI%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC&src=typed_query&f=live",
         "articleTitle": "AIセンター",
         "articleTitleJa": "公開トレンド: AIセンター",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-08-03T06:17:59.729Z",
+        "articlePublishedAt": "2026-08-03T10:38:45.811Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -133,13 +134,13 @@
         "appearances": 2,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-08-03T06:17:59.729Z",
+        "observedAt": "2026-08-03T10:38:45.811Z",
         "url": "https://x.com/search?q=AI%E9%96%A2%E9%80%A3%E4%BC%81%E6%A5%AD%E3%81%AE%E6%B1%BA%E7%AE%97&src=typed_query&f=live",
         "articleTitle": "AI関連企業の決算",
         "articleTitleJa": "公開トレンド: AI関連企業の決算",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-08-03T06:17:59.729Z",
+        "articlePublishedAt": "2026-08-03T10:38:45.811Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -151,22 +152,22 @@
         "appearances": 2,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-08-03T06:17:59.729Z",
+        "observedAt": "2026-08-03T10:38:45.811Z",
         "url": "https://x.com/search?q=OpenAI%E3%81%AE%E6%AC%A1%E4%B8%96%E4%BB%A3%E3%83%A2%E3%83%87%E3%83%AB%E7%BE%A4&src=typed_query&f=live",
         "articleTitle": "OpenAIの次世代モデル群",
         "articleTitleJa": "公開トレンド: OpenAIの次世代モデル群",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-08-03T06:17:59.729Z",
+        "articlePublishedAt": "2026-08-03T10:38:45.811Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
       }
     ],
-    "fetchedAt": "2026-08-03T06:17:59.747Z",
+    "fetchedAt": "2026-08-03T10:38:45.826Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-08-03T06:18:00.554Z"
+    "articleFetchedAt": "2026-08-03T10:38:47.072Z"
   }
 }
