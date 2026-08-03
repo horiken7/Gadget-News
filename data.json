@@ -2,31 +2,10 @@
   "news": {
     "items": [
       {
-        "title": "Apple finally fixed Siri. So why does it feel anticlimactic?",
-        "url": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/",
-        "points": 107,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-08-03T18:43:43.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
-        "category": "AIニュース",
-        "impact": "高",
-        "titleJa": "AppleはついにSiriを修正しました。では、なぜ反気候的に感じるのでしょうか？",
-        "summaryJa": "この記事は「AppleはついにSiriを修正しました。では、なぜ反気候的に感じるのでしょうか？」を扱っています。Appleの待望のAIオーバーホールは、ついにSiriを常にそうであるべきアシスタントにしました。しかし、何年もの遅れを経て、チャットボットがコーディング、推論、メディアの作成、複雑なタスクの完了を可能にするエージェントに進化したAIランドスケープに立ち寄りました。",
-        "keyPoints": [
-          "この記事は「AppleはついにSiriを修正しました。",
-          "では、なぜ反気候的に感じるのでしょうか。",
-          "Appleの待望のAIオーバーホールは、ついにSiriを常にそうであるべきアシスタントにしました。"
-        ]
-      },
-      {
         "title": "SQLite Critical CVEs or LLM Slop?",
         "url": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
         "points": 101,
-        "comments": 321,
+        "comments": 337,
         "author": "ymir_e",
         "createdAt": "2026-08-03T11:28:54Z",
         "domain": "research.jfrog.com",
@@ -46,7 +25,7 @@
         "title": "Prevent cognitive debt by manually retyping LLM-generated code",
         "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
         "points": 101,
-        "comments": 271,
+        "comments": 286,
         "author": "mpweiher",
         "createdAt": "2026-08-03T09:32:07Z",
         "domain": "ankursethi.com",
@@ -63,28 +42,27 @@
         ]
       },
       {
-        "title": "Anthropic reveals Claude AI model hacked three companies during tests so how worried should we be ?",
-        "url": "https://www.techradar.com/pro/security/anthropic-reveals-claude-ai-model-hacked-three-companies-during-tests-so-how-worried-should-we-be",
-        "points": 81,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-08-03T19:30:00Z",
-        "domain": "techradar.com",
-        "sourceType": "gdelt",
-        "sourceLabel": "GDELT",
-        "category": "AIモデル",
-        "impact": "中",
+        "title": "AI's debt binge can't last, hidden borrowing reaches $1.65T",
+        "url": "https://fortune.com/2026/07/31/ai-debt-hypescalers-capex-capital-spending-hidden-borrowing-bond-issuance/",
+        "points": 83,
+        "comments": 73,
+        "author": "mapping365",
+        "createdAt": "2026-08-03T20:02:21Z",
+        "domain": "fortune.com",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "高",
         "newsLens": "技術",
-        "titleJa": "Anthropicは、ClaudeAIモデルがテスト中に3つの会社をハッキングしたことを明らかにしているので、どの程度心配すべきでしょうか？",
-        "summaryJa": "この記事は「Anthropicは、ClaudeAIモデルがテスト中に3つの会社をハッキングしたことを明らかにしているので、どの程度心配すべきでしょうか？」を扱っています。単純な構成エラーがAIアシスタントを偶発的なインサイダー脅威に変えた方法。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "titleJa": "AIの借金狂いは長続きせず、隠された借り入れは$ 1.65 Tに達します",
+        "summaryJa": "この記事は「AIの借金狂いは長続きせず、隠された借り入れは$ 1.65 Tに達します」を扱っています。「ある時点で、民間と政府の債務発行の資金調達の河川が自由に流れなくなるでしょう。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
         "keyPoints": [
-          "この記事は「Anthropicは、ClaudeAIモデルがテスト中に3つの会社をハッキングしたことを明らかにしているので、どの程度心配すべきでしょうか。",
-          "単純な構成エラーがAIアシスタントを偶発的なインサイダー脅威に変えた方法。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+          "この記事は「AIの借金狂いは長続きせず、隠された借り入れは$ 1.65 Tに達します」を扱っています。",
+          "「ある時点で、民間と政府の債務発行の資金調達の河川が自由に流れなくなるでしょう。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
       },
       {
-        "title": "DesignArena creators raise $7.9 million to bring taste to AI models",
+        "title": "Design Arena creators raise $7.9 million to bring taste to AI models",
         "url": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
         "points": 79,
         "comments": 0,
@@ -96,43 +74,45 @@
         "newsLens": "一般",
         "category": "AIモデル",
         "impact": "中",
-        "titleJa": "DesignArenaのクリエイターは、AIモデルにセンスをもたらすために790万$を調達",
-        "summaryJa": "この記事は「DesignArenaのクリエイターは、AIモデルにセンスをもたらすために790万$を調達」を扱っています。DesignArenaは、世界中で530万人が使用しており、フロンティアラボに重要な人的評価を提供しています。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "titleJa": "Design ArenaのクリエイターがAIモデルにセンスをもたらすために790万$を調達",
+        "summaryJa": "この記事は「Design ArenaのクリエイターがAIモデルにセンスをもたらすために790万$を調達」を扱っています。Design Arenaは、世界中で530万人が使用しており、フロンティアラボに重要な人的評価を提供しています。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
-          "この記事は「DesignArenaのクリエイターは、AIモデルにセンスをもたらすために790万$を調達」を扱っています。",
-          "DesignArenaは、世界中で530万人が使用しており、フロンティアラボに重要な人的評価を提供しています。",
+          "この記事は「Design ArenaのクリエイターがAIモデルにセンスをもたらすために790万$を調達」を扱っています。",
+          "Design Arenaは、世界中で530万人が使用しており、フロンティアラボに重要な人的評価を提供しています。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+        ]
+      },
+      {
+        "title": "Influencers draw backlash for attending OpenAI’s first luxury trip",
+        "url": "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/",
+        "points": 79,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-08-03T19:09:56.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
+        "category": "AIニュース",
+        "impact": "中",
+        "titleJa": "インフルエンサーは、OpenAIの最初の高級旅行に参加するために反発を集める",
+        "summaryJa": "この記事は「インフルエンサーは、OpenAIの最初の高級旅行に参加するために反発を集める」を扱っています。OpenAIの初めてのインフルエンサーブランド旅行は、AIの使用をめぐる緊張が続くにつれて、オンラインでの反発を引き起こしています。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "keyPoints": [
+          "この記事は「インフルエンサーは、OpenAIの最初の高級旅行に参加するために反発を集める」を扱っています。",
+          "OpenAIの初めてのインフルエンサーブランド旅行は、AIの使用をめぐる緊張が続くにつれて、オンラインでの反発を引き起こしています。",
           "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       }
     ],
-    "fetchedAt": "2026-08-03T20:24:22.383Z",
+    "fetchedAt": "2026-08-03T22:04:44.812Z",
     "mock": false
   },
   "xTrends": {
-    "items": [
-      {
-        "topic": "OpenAIの次世代モデル群",
-        "locationLabel": "日本",
-        "bestRank": 21,
-        "appearances": 2,
-        "trendSource": "Trends24",
-        "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-08-03T20:24:22.336Z",
-        "url": "https://x.com/search?q=OpenAI%E3%81%AE%E6%AC%A1%E4%B8%96%E4%BB%A3%E3%83%A2%E3%83%87%E3%83%AB%E7%BE%A4&src=typed_query&f=live",
-        "articleTitle": "OpenAIの次世代モデル群",
-        "articleTitleJa": "公開トレンド: OpenAIの次世代モデル群",
-        "articleUrl": "https://trends24.in/japan/",
-        "articleSource": "Trends24",
-        "articlePublishedAt": "2026-08-03T20:24:22.336Z",
-        "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
-        "translationVersion": 3,
-        "articleFallback": true
-      }
-    ],
-    "fetchedAt": "2026-08-03T20:24:22.383Z",
+    "items": [],
+    "fetchedAt": "2026-08-03T22:04:44.812Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-08-03T20:24:22.817Z"
+    "articleFetchedAt": "2026-08-03T22:04:44.930Z"
   }
 }
