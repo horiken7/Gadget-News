@@ -5,7 +5,7 @@
         "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
         "url": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
         "points": 119,
-        "comments": 155,
+        "comments": 204,
         "author": "thewebguyd",
         "createdAt": "2026-08-04T15:37:42Z",
         "domain": "techcrunch.com",
@@ -22,24 +22,44 @@
         ]
       },
       {
-        "title": "Is the future of data centers portable? Runware builds a pod to find out",
-        "url": "https://techcrunch.com/2026/08/04/is-the-future-of-data-centers-portable-runware-builds-a-pod-to-find-out/",
+        "title": "Nvidia doesn’t mess around: A week after open AI industry group formed, it’s already showing progress",
+        "url": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/",
         "points": 107,
         "comments": 0,
         "author": "",
-        "createdAt": "2026-08-04T13:00:00.000Z",
+        "createdAt": "2026-08-04T19:28:49.000Z",
         "domain": "techcrunch.com",
         "sourceType": "rss",
         "sourceLabel": "TechCrunch AI",
         "newsLens": "一般",
         "category": "AIニュース",
         "impact": "高",
-        "titleJa": "データセンターの未来はポータブルですか？ランウェアはポッドを構築して",
-        "summaryJa": "この記事は「データセンターの未来はポータブルですか？ランウェアはポッドを構築して」を扱っています。火曜日、AIインフラストラクチャ企業のRunwareは、Sonic Inference Podと呼ばれる独自のモジュラーデータセンターの立ち上げを発表しました。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "titleJa": "NVIDIAは混乱しません：オープンAI業界グループが結成されてから1週間後、すでに進歩を示しています",
+        "summaryJa": "この記事は「NVIDIAは混乱しません：オープンAI業界グループが結成されてから1週間後、すでに進歩を示しています」を扱っています。NVIDIAが主導し、120社を超える企業に成長した創業1週間のOpen Secure AI Allianceは、すでにAIエージェントからの防御に関する提案を提出している。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
-          "この記事は「データセンターの未来はポータブルですか。",
-          "ランウェアはポッドを構築して」を扱っています。",
-          "火曜日、AIインフラストラクチャ企業のRunwareは、Sonic Inference Podと呼ばれる独自のモジュラーデータセンターの立ち上げを発表しました。"
+          "この記事は「NVIDIAは混乱しません：オープンAI業界グループが結成されてから1週間後、すでに進歩を示しています」を扱っています。",
+          "NVIDIAが主導し、120社を超える企業に成長した創業1週間のOpen Secure AI Allianceは、すでにAIエージェントからの防御に関する提案を提出している。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+        ]
+      },
+      {
+        "title": "Launch HN: EdotEnv (YC S26) – Quant Trading RL Envs to Teach LLMs Research",
+        "url": "https://edotenv.com/",
+        "points": 100,
+        "comments": 6,
+        "author": "Mzzzzz",
+        "createdAt": "2026-08-04T18:36:02Z",
+        "domain": "edotenv.com",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "低",
+        "newsLens": "技術",
+        "titleJa": "HNを立ち上げる： EdotEnv （ YC S 26 ） – LLMの研究を教えるためのQuant Trading RL Envs",
+        "summaryJa": "この記事は「HNを立ち上げる： EdotEnv （ YC S 26 ） – LLMの研究を教えるためのQuant Trading RL Envs」を扱っています。私たちはRuiとMichaelで、EdotEnv （ https://edotenv.com ）を構築しています。Quant TradingのワークフローからRL環境を自己改善します。",
+        "keyPoints": [
+          "この記事は「HNを立ち上げる： EdotEnv （ YC S 26 ） – LLMの研究を教えるためのQuant Trading RL Envs」を扱っています。",
+          "私たちはRuiとMichaelで、EdotEnv （ https://edotenv.com ）を構築しています。",
+          "Quant TradingのワークフローからRL環境を自己改善します。"
         ]
       },
       {
@@ -66,7 +86,7 @@
         "title": "DeepSeek V4 Flash on a Single AMD MI300X",
         "url": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x",
         "points": 73,
-        "comments": 73,
+        "comments": 87,
         "author": "zhoutong",
         "createdAt": "2026-08-04T10:00:55Z",
         "domain": "github.com",
@@ -81,37 +101,17 @@
           "GitHubでアカウントを作成して、ryanzhou/deepseek - v 4 - flash - mi 300 xの開発に貢献します。",
           "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
-      },
-      {
-        "title": "AI Data Centers Are Driving Up Power Bills – This Map Shows Where",
-        "url": "https://www.gadgetreview.com/ai-data-centers-are-driving-up-power-bills-this-map-shows-where",
-        "points": 52,
-        "comments": 12,
-        "author": "01-_-",
-        "createdAt": "2026-08-04T17:57:15Z",
-        "domain": "gadgetreview.com",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "低",
-        "newsLens": "技術",
-        "titleJa": "AIデータセンターは電力料金を押し上げています–このマップはどこを示していますか",
-        "summaryJa": "この記事は「AIデータセンターは電力料金を押し上げています–このマップはどこを示していますか」を扱っています。AIデータセンターは、米国のグリッドコストに290億$を追加し、一部の州の電気料金を最大28 ％引き上げており、納税者はこのタブに足を踏み入れています。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
-        "keyPoints": [
-          "この記事は「AIデータセンターは電力料金を押し上げています–このマップはどこを示していますか」を扱っています。",
-          "AIデータセンターは、米国のグリッドコストに290億$を追加し、一部の州の電気料金を最大28 ％引き上げており、納税者はこのタブに足を踏み入れています。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
-        ]
       }
     ],
-    "fetchedAt": "2026-08-04T19:25:54.823Z",
+    "fetchedAt": "2026-08-04T21:08:01.087Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-08-04T19:25:54.823Z",
+    "fetchedAt": "2026-08-04T21:08:01.087Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-08-04T19:25:54.936Z"
+    "articleFetchedAt": "2026-08-04T21:08:01.228Z"
   }
 }
