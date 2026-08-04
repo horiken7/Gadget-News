@@ -45,8 +45,8 @@
       {
         "title": "Launch HN: Hoplite (YC S26) – Effortlessly deploy cloud coding agents",
         "url": "https://hoplite.sh",
-        "points": 86,
-        "comments": 52,
+        "points": 87,
+        "comments": 59,
         "author": "BenceRed",
         "createdAt": "2026-08-03T16:32:06Z",
         "domain": "hoplite.sh",
@@ -104,15 +104,15 @@
         ]
       }
     ],
-    "fetchedAt": "2026-08-04T07:35:07.709Z",
+    "fetchedAt": "2026-08-04T10:33:38.941Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-08-04T07:35:07.709Z",
+    "fetchedAt": "2026-08-04T10:33:38.941Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-08-04T07:35:07.823Z"
+    "articleFetchedAt": "2026-08-04T10:33:39.146Z"
   }
 }
