@@ -26,7 +26,7 @@
         "title": "SQLite Critical CVEs or LLM Slop?",
         "url": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
         "points": 101,
-        "comments": 346,
+        "comments": 352,
         "author": "ymir_e",
         "createdAt": "2026-08-03T11:28:54Z",
         "domain": "research.jfrog.com",
@@ -43,43 +43,43 @@
         ]
       },
       {
-        "title": "Prevent cognitive debt by manually retyping LLM-generated code",
-        "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
-        "points": 101,
-        "comments": 301,
-        "author": "mpweiher",
-        "createdAt": "2026-08-03T09:32:07Z",
-        "domain": "ankursethi.com",
+        "title": "Launch HN: Hoplite (YC S26) – Effortlessly deploy cloud coding agents",
+        "url": "https://hoplite.sh",
+        "points": 85,
+        "comments": 51,
+        "author": "BenceRed",
+        "createdAt": "2026-08-03T16:32:06Z",
+        "domain": "hoplite.sh",
         "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "高",
+        "category": "AIニュース",
+        "impact": "中",
         "newsLens": "技術",
-        "titleJa": "LLM生成コードを手動で再入力することで、認知的負債を防ぐ",
-        "summaryJa": "この記事は「LLM生成コードを手動で再入力することで、認知的負債を防ぐ」を扱っています。ankursethi.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "titleJa": "HN: Hoplite (YC S 26)を立ち上げる–クラウドコーディングエージェントを簡単にデプロイ",
+        "summaryJa": "この記事は「HN: Hoplite (YC S 26)を立ち上げる–クラウドコーディングエージェントを簡単にデプロイ」を扱っています。Hopliteを使用すると、QA機能を非常に簡単にする一連のツールを使用して、コーディングエージェントをクラウドに展開できます。オンボーディング中に、セッション、メモリ、MCPサーバーなどのローカル設定を移植し、プロジェクトをクラウドで実行する準備を整えます。",
         "keyPoints": [
-          "この記事は「LLM生成コードを手動で再入力することで、認知的負債を防ぐ」を扱っています。",
-          "ankursethi.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+          "この記事は「HN: Hoplite (YC S 26)を立ち上げる–クラウドコーディングエージェントを簡単にデプロイ」を扱っています。",
+          "Hopliteを使用すると、QA機能を非常に簡単にする一連のツールを使用して、コーディングエージェントをクラウドに展開できます。",
+          "オンボーディング中に、セッション、メモリ、MCPサーバーなどのローカル設定を移植し、プロジェクトをクラウドで実行する準備を整えます。"
         ]
       },
       {
-        "title": "AI's debt binge can't last, hidden borrowing reaches $1.65T",
-        "url": "https://fortune.com/2026/07/31/ai-debt-hypescalers-capex-capital-spending-hidden-borrowing-bond-issuance/",
-        "points": 89,
-        "comments": 121,
-        "author": "mapping365",
-        "createdAt": "2026-08-03T20:02:21Z",
-        "domain": "fortune.com",
+        "title": "Show HN: Hacker News with AI stories filtered out",
+        "url": "https://hcker.news/?view=frontpage&ai=exclude",
+        "points": 80,
+        "comments": 9,
+        "author": "postalcoder",
+        "createdAt": "2026-08-03T17:39:56Z",
+        "domain": "hcker.news",
         "sourceType": "hn",
         "category": "AIニュース",
-        "impact": "高",
+        "impact": "低",
         "newsLens": "技術",
-        "titleJa": "AIの借金狂いは長続きせず、隠された借り入れは$ 1.65 Tに達します",
-        "summaryJa": "この記事は「AIの借金狂いは長続きせず、隠された借り入れは$ 1.65 Tに達します」を扱っています。「ある時点で、民間と政府の債務発行の資金調達の河川が自由に流れなくなるでしょう。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "titleJa": "HNを表示：フィルタリングされたAIストーリーを含むハッカーニュース",
+        "summaryJa": "この記事は「HNを表示：フィルタリングされたAIストーリーを含むハッカーニュース」を扱っています。ここにいる多くの人は、フロントページのAIニュースの量に疲れているようです。私は1年前にhcker.newsをここで共有しましたが、それ以来、専用のAIフィルタを含む大量のフィルタリング機能を獲得しているので、もっと多くの人に伝えるべきだと思いました。",
         "keyPoints": [
-          "この記事は「AIの借金狂いは長続きせず、隠された借り入れは$ 1.65 Tに達します」を扱っています。",
-          "「ある時点で、民間と政府の債務発行の資金調達の河川が自由に流れなくなるでしょう。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+          "この記事は「HNを表示：フィルタリングされたAIストーリーを含むハッカーニュース」を扱っています。",
+          "ここにいる多くの人は、フロントページのAIニュースの量に疲れているようです。",
+          "私は1年前にhcker.newsをここで共有しましたが、それ以来、専用のAIフィルタを含む大量のフィルタリング機能を獲得しているので、もっと多くの人に伝えるべきだと思いました。"
         ]
       },
       {
@@ -104,15 +104,15 @@
         ]
       }
     ],
-    "fetchedAt": "2026-08-04T00:05:05.565Z",
+    "fetchedAt": "2026-08-04T04:09:39.369Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-08-04T00:05:05.565Z",
+    "fetchedAt": "2026-08-04T04:09:39.369Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-08-04T00:05:05.672Z"
+    "articleFetchedAt": "2026-08-04T04:09:39.497Z"
   }
 }
