@@ -2,6 +2,26 @@
   "news": {
     "items": [
       {
+        "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
+        "url": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
+        "points": 116,
+        "comments": 79,
+        "author": "thewebguyd",
+        "createdAt": "2026-08-04T15:37:42Z",
+        "domain": "techcrunch.com",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "高",
+        "newsLens": "一般",
+        "titleJa": "Appleは、より多くの元従業員がOpenAIに機密データを持ち込んだ可能性があると述べている",
+        "summaryJa": "この記事は「Appleは、より多くの元従業員がOpenAIに機密データを持ち込んだ可能性があると述べている」を扱っています。Appleは、OpenAIに対する企業秘密調査が拡大したと述べている。新しい裁判所に提出された訴状によると、Appleは、追加の元スタッフが機密情報を保持またはアクセスした可能性があると主張しています。",
+        "keyPoints": [
+          "この記事は「Appleは、より多くの元従業員がOpenAIに機密データを持ち込んだ可能性があると述べている」を扱っています。",
+          "Appleは、OpenAIに対する企業秘密調査が拡大したと述べている。",
+          "新しい裁判所に提出された訴状によると、Appleは、追加の元スタッフが機密情報を保持またはアクセスした可能性があると主張しています。"
+        ]
+      },
+      {
         "title": "Is the future of data centers portable? Runware builds a pod to find out",
         "url": "https://techcrunch.com/2026/08/04/is-the-future-of-data-centers-portable-runware-builds-a-pod-to-find-out/",
         "points": 107,
@@ -23,77 +43,36 @@
         ]
       },
       {
-        "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
-        "url": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
-        "points": 105,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-08-04T14:03:01.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
-        "category": "AIニュース",
-        "impact": "高",
-        "titleJa": "Appleは、より多くの元従業員がOpenAIに機密データを持ち込んだ可能性があると述べている",
-        "summaryJa": "この記事は「Appleは、より多くの元従業員がOpenAIに機密データを持ち込んだ可能性があると述べている」を扱っています。Appleは、OpenAIに対する企業秘密調査が拡大したと述べている。新しい裁判所に提出された訴状によると、Appleは、追加の元スタッフが機密情報を保持またはアクセスした可能性があると主張しています。",
-        "keyPoints": [
-          "この記事は「Appleは、より多くの元従業員がOpenAIに機密データを持ち込んだ可能性があると述べている」を扱っています。",
-          "Appleは、OpenAIに対する企業秘密調査が拡大したと述べている。",
-          "新しい裁判所に提出された訴状によると、Appleは、追加の元スタッフが機密情報を保持またはアクセスした可能性があると主張しています。"
-        ]
-      },
-      {
-        "title": "Launch HN: Hoplite (YC S26) – Effortlessly deploy cloud coding agents",
-        "url": "https://hoplite.sh",
-        "points": 88,
-        "comments": 60,
-        "author": "BenceRed",
-        "createdAt": "2026-08-03T16:32:06Z",
-        "domain": "hoplite.sh",
+        "title": "When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation",
+        "url": "https://arxiv.org/abs/2602.16763",
+        "points": 97,
+        "comments": 40,
+        "author": "doppp",
+        "createdAt": "2026-08-04T16:10:39Z",
+        "domain": "arxiv.org",
         "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "中",
-        "newsLens": "技術",
-        "titleJa": "HN: Hoplite (YC S 26)を立ち上げる–クラウドコーディングエージェントを簡単にデプロイ",
-        "summaryJa": "この記事は「HN: Hoplite (YC S 26)を立ち上げる–クラウドコーディングエージェントを簡単にデプロイ」を扱っています。Hopliteを使用すると、QA機能を非常に簡単にする一連のツールを使用して、コーディングエージェントをクラウドに展開できます。オンボーディング中に、セッション、メモリ、MCPサーバーなどのローカル設定を移植し、プロジェクトをクラウドで実行する準備を整えます。",
-        "keyPoints": [
-          "この記事は「HN: Hoplite (YC S 26)を立ち上げる–クラウドコーディングエージェントを簡単にデプロイ」を扱っています。",
-          "Hopliteを使用すると、QA機能を非常に簡単にする一連のツールを使用して、コーディングエージェントをクラウドに展開できます。",
-          "オンボーディング中に、セッション、メモリ、MCPサーバーなどのローカル設定を移植し、プロジェクトをクラウドで実行する準備を整えます。"
-        ]
-      },
-      {
-        "title": "Show HN: Product analytics (and evals) for agent sessions on your MCP",
-        "url": "https://armature.tech/",
-        "points": 79,
-        "comments": 2,
-        "author": "screm",
-        "createdAt": "2026-08-03T16:17:59Z",
-        "domain": "armature.tech",
-        "sourceType": "hn",
-        "category": "AIニュース",
+        "category": "研究",
         "impact": "低",
         "newsLens": "技術",
-        "titleJa": "HNを表示： MCP上のエージェントセッションの製品分析（および回避）",
-        "summaryJa": "この記事は「HNを表示： MCP上のエージェントセッションの製品分析（および回避）」を扱っています。私たちはArmature （ YC P 26 ）の創設者であるセオドアとルイスです。ユーザーがエージェントに何を依頼したか、エージェントが何を考えたかなど、MCPツールの通話の背後にあるセッション全体を再構築します。",
+        "titleJa": "AIがプラトーをベンチマークするとき：ベンチマーク飽和度の体系的な研究",
+        "summaryJa": "この記事は「AIがプラトーをベンチマークするとき：ベンチマーク飽和度の体系的な研究」を扱っています。arxiv.orgが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。研究・実装面では、手法の新しさ、再現性、既存モデルとの差分が見るべき点です。",
         "keyPoints": [
-          "この記事は「HNを表示： MCP上のエージェントセッションの製品分析（および回避）」を扱っています。",
-          "私たちはArmature （ YC P 26 ）の創設者であるセオドアとルイスです。",
-          "ユーザーがエージェントに何を依頼したか、エージェントが何を考えたかなど、MCPツールの通話の背後にあるセッション全体を再構築します。"
+          "この記事は「AIがプラトーをベンチマークするとき：ベンチマーク飽和度の体系的な研究」を扱っています。",
+          "arxiv.orgが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "研究・実装面では、手法の新しさ、再現性、既存モデルとの差分が見るべき点です。"
         ]
       },
       {
         "title": "Agent skills that bring team coding standards to Claude Code and Codex",
         "url": "https://github.com/tikalk/adlc-team-skills",
-        "points": 76,
-        "comments": 11,
+        "points": 87,
+        "comments": 38,
         "author": "kanfilior",
         "createdAt": "2026-08-04T14:38:31Z",
         "domain": "github.com",
         "sourceType": "hn",
         "category": "AIモデル",
-        "impact": "低",
+        "impact": "中",
         "newsLens": "技術",
         "titleJa": "Claudeコードとコーデックスにチームコーディングスタンダードをもたらすエージェントスキル",
         "summaryJa": "この記事は「Claudeコードとコーデックスにチームコーディングスタンダードをもたらすエージェントスキル」を扱っています。🐙 ADLCチームスキル—エンジニアリングチーム向けAgentic SDLC - tikalk/adlc - team - skills。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
@@ -102,17 +81,38 @@
           "🐙 ADLCチームスキル—エンジニアリングチーム向けAgentic SDLC - tikalk/adlc - team - skills。",
           "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
+      },
+      {
+        "title": "New NSF State and Regional AI Infrastructure Hubs will power AI - enabled scientific research across the country",
+        "url": "https://www.nsf.gov/news/new-nsf-state-regional-ai-infrastructure-hubs-will-power-ai",
+        "points": 81,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-08-04T17:15:00Z",
+        "domain": "nsf.gov",
+        "sourceType": "gdelt",
+        "sourceLabel": "GDELT",
+        "category": "研究",
+        "impact": "中",
+        "newsLens": "技術",
+        "titleJa": "新しいNSF州および地域のAIインフラストラクチャーハブは、全国でAI対応の科学研究を推進します",
+        "summaryJa": "この記事は「新しいNSF州および地域のAIインフラストラクチャーハブは、全国でAI対応の科学研究を推進します」を扱っています。新しいイニシアチブは、州政府と地方自治体の間の地域パートナーシップを通じて、研究者、学生、教育者のコンピューティングへのアクセスを拡大することで、AI対応の科学的発見を加速します。研究・実装面では、手法の新しさ、再現性、既存モデルとの差分が見るべき点です。",
+        "keyPoints": [
+          "この記事は「新しいNSF州および地域のAIインフラストラクチャーハブは、全国でAI対応の科学研究を推進します」を扱っています。",
+          "新しいイニシアチブは、州政府と地方自治体の間の地域パートナーシップを通じて、研究者、学生、教育者のコンピューティングへのアクセスを拡大することで、AI対応の科学的発見を加速します。",
+          "研究・実装面では、手法の新しさ、再現性、既存モデルとの差分が見るべき点です。"
+        ]
       }
     ],
-    "fetchedAt": "2026-08-04T15:25:39.910Z",
+    "fetchedAt": "2026-08-04T17:42:30.312Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-08-04T15:25:39.910Z",
+    "fetchedAt": "2026-08-04T17:42:30.312Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-08-04T15:25:40.029Z"
+    "articleFetchedAt": "2026-08-04T17:42:30.445Z"
   }
 }
