@@ -23,30 +23,30 @@
         ]
       },
       {
-        "title": "SQLite Critical CVEs or LLM Slop?",
-        "url": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
-        "points": 101,
-        "comments": 352,
-        "author": "ymir_e",
-        "createdAt": "2026-08-03T11:28:54Z",
-        "domain": "research.jfrog.com",
+        "title": "Tell HN: Pretending not to use AI has made me a better developer",
+        "url": "https://news.ycombinator.com/item?id=49157839",
+        "points": 92,
+        "comments": 4,
+        "author": "throwaway260803",
+        "createdAt": "2026-08-03T16:20:49Z",
+        "domain": "news.ycombinator.com",
         "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "高",
+        "category": "開発ツール",
+        "impact": "低",
         "newsLens": "技術",
-        "titleJa": "SQLiteクリティカルCVEまたはLLMスロップ？",
-        "summaryJa": "この記事は「SQLiteクリティカルCVEまたはLLMスロップ？」を扱っています。JFrogセキュリティリサーチチームは最近、PyPIの「xinference」パッケージを標的としたサプライチェーン攻撃を特定しました。バージョン2.6.0、2.6.1、および2.6.2は、ユーザーが疑わしい動作を報告した後、メンテナによって侵害され、引きずり出されました。",
+        "titleJa": "HNに伝える： AIを使わないふりをすることで、私はより良い開発者になりました",
+        "summaryJa": "この記事は「HNに伝える： AIを使わないふりをすることで、私はより良い開発者になりました」を扱っています。私はオンラインゲーム開発コミュニティで働いています。そこでは、コーディングを含め、何にでもAIを使用することに反対しています。",
         "keyPoints": [
-          "この記事は「SQLiteクリティカルCVEまたはLLMスロップ。",
-          "JFrogセキュリティリサーチチームは最近、PyPIの「xinference」パッケージを標的としたサプライチェーン攻撃を特定しました。",
-          "バージョン2.6.0、2.6.1、および2.6.2は、ユーザーが疑わしい動作を報告した後、メンテナによって侵害され、引きずり出されました。"
+          "この記事は「HNに伝える： AIを使わないふりをすることで、私はより良い開発者になりました」を扱っています。",
+          "私はオンラインゲーム開発コミュニティで働いています。",
+          "そこでは、コーディングを含め、何にでもAIを使用することに反対しています。"
         ]
       },
       {
         "title": "Launch HN: Hoplite (YC S26) – Effortlessly deploy cloud coding agents",
         "url": "https://hoplite.sh",
-        "points": 85,
-        "comments": 51,
+        "points": 86,
+        "comments": 52,
         "author": "BenceRed",
         "createdAt": "2026-08-03T16:32:06Z",
         "domain": "hoplite.sh",
@@ -65,7 +65,7 @@
       {
         "title": "Show HN: Hacker News with AI stories filtered out",
         "url": "https://hcker.news/?view=frontpage&ai=exclude",
-        "points": 80,
+        "points": 81,
         "comments": 9,
         "author": "postalcoder",
         "createdAt": "2026-08-03T17:39:56Z",
@@ -104,15 +104,15 @@
         ]
       }
     ],
-    "fetchedAt": "2026-08-04T04:09:39.369Z",
+    "fetchedAt": "2026-08-04T07:35:07.709Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-08-04T04:09:39.369Z",
+    "fetchedAt": "2026-08-04T07:35:07.709Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-08-04T04:09:39.497Z"
+    "articleFetchedAt": "2026-08-04T07:35:07.823Z"
   }
 }
