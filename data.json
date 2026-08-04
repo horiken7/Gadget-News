@@ -2,10 +2,31 @@
   "news": {
     "items": [
       {
+        "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
+        "url": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
+        "points": 105,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-08-03T23:19:50.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
+        "category": "AIニュース",
+        "impact": "高",
+        "titleJa": "キラー四半期の後、PalantirのCEO、Alex KarpはAI業界を「マルクス主義者」と呼んでいます",
+        "summaryJa": "この記事は「キラー四半期の後、PalantirのCEO、Alex KarpはAI業界を「マルクス主義者」と呼んでいます」を扱っています。10億$の利益を上げた四半期の後、PalantirのCEOであるAlex Karpは月曜日に、AIフロンティアラボは企業にとってあまりにも信頼できないと再度警告した。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "keyPoints": [
+          "この記事は「キラー四半期の後、PalantirのCEO、Alex KarpはAI業界を「マルクス主義者」と呼んでいます」を扱っています。",
+          "10億$の利益を上げた四半期の後、PalantirのCEOであるAlex Karpは月曜日に、AIフロンティアラボは企業にとってあまりにも信頼できないと再度警告した。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+        ]
+      },
+      {
         "title": "SQLite Critical CVEs or LLM Slop?",
         "url": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
         "points": 101,
-        "comments": 337,
+        "comments": 346,
         "author": "ymir_e",
         "createdAt": "2026-08-03T11:28:54Z",
         "domain": "research.jfrog.com",
@@ -25,7 +46,7 @@
         "title": "Prevent cognitive debt by manually retyping LLM-generated code",
         "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
         "points": 101,
-        "comments": 286,
+        "comments": 301,
         "author": "mpweiher",
         "createdAt": "2026-08-03T09:32:07Z",
         "domain": "ankursethi.com",
@@ -44,8 +65,8 @@
       {
         "title": "AI's debt binge can't last, hidden borrowing reaches $1.65T",
         "url": "https://fortune.com/2026/07/31/ai-debt-hypescalers-capex-capital-spending-hidden-borrowing-bond-issuance/",
-        "points": 83,
-        "comments": 73,
+        "points": 89,
+        "comments": 121,
         "author": "mapping365",
         "createdAt": "2026-08-03T20:02:21Z",
         "domain": "fortune.com",
@@ -81,38 +102,17 @@
           "Design Arenaは、世界中で530万人が使用しており、フロンティアラボに重要な人的評価を提供しています。",
           "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
-      },
-      {
-        "title": "Influencers draw backlash for attending OpenAI’s first luxury trip",
-        "url": "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/",
-        "points": 79,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-08-03T19:09:56.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
-        "category": "AIニュース",
-        "impact": "中",
-        "titleJa": "インフルエンサーは、OpenAIの最初の高級旅行に参加するために反発を集める",
-        "summaryJa": "この記事は「インフルエンサーは、OpenAIの最初の高級旅行に参加するために反発を集める」を扱っています。OpenAIの初めてのインフルエンサーブランド旅行は、AIの使用をめぐる緊張が続くにつれて、オンラインでの反発を引き起こしています。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
-        "keyPoints": [
-          "この記事は「インフルエンサーは、OpenAIの最初の高級旅行に参加するために反発を集める」を扱っています。",
-          "OpenAIの初めてのインフルエンサーブランド旅行は、AIの使用をめぐる緊張が続くにつれて、オンラインでの反発を引き起こしています。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
-        ]
       }
     ],
-    "fetchedAt": "2026-08-03T22:04:44.812Z",
+    "fetchedAt": "2026-08-04T00:05:05.565Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-08-03T22:04:44.812Z",
+    "fetchedAt": "2026-08-04T00:05:05.565Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-08-03T22:04:44.930Z"
+    "articleFetchedAt": "2026-08-04T00:05:05.672Z"
   }
 }
