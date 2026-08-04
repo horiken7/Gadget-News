@@ -23,30 +23,10 @@
         ]
       },
       {
-        "title": "Tell HN: Pretending not to use AI has made me a better developer",
-        "url": "https://news.ycombinator.com/item?id=49157839",
-        "points": 92,
-        "comments": 4,
-        "author": "throwaway260803",
-        "createdAt": "2026-08-03T16:20:49Z",
-        "domain": "news.ycombinator.com",
-        "sourceType": "hn",
-        "category": "開発ツール",
-        "impact": "低",
-        "newsLens": "技術",
-        "titleJa": "HNに伝える： AIを使わないふりをすることで、私はより良い開発者になりました",
-        "summaryJa": "この記事は「HNに伝える： AIを使わないふりをすることで、私はより良い開発者になりました」を扱っています。私はオンラインゲーム開発コミュニティで働いています。そこでは、コーディングを含め、何にでもAIを使用することに反対しています。",
-        "keyPoints": [
-          "この記事は「HNに伝える： AIを使わないふりをすることで、私はより良い開発者になりました」を扱っています。",
-          "私はオンラインゲーム開発コミュニティで働いています。",
-          "そこでは、コーディングを含め、何にでもAIを使用することに反対しています。"
-        ]
-      },
-      {
         "title": "Launch HN: Hoplite (YC S26) – Effortlessly deploy cloud coding agents",
         "url": "https://hoplite.sh",
-        "points": 87,
-        "comments": 59,
+        "points": 88,
+        "comments": 60,
         "author": "BenceRed",
         "createdAt": "2026-08-03T16:32:06Z",
         "domain": "hoplite.sh",
@@ -66,7 +46,7 @@
         "title": "Show HN: Hacker News with AI stories filtered out",
         "url": "https://hcker.news/?view=frontpage&ai=exclude",
         "points": 81,
-        "comments": 9,
+        "comments": 10,
         "author": "postalcoder",
         "createdAt": "2026-08-03T17:39:56Z",
         "domain": "hcker.news",
@@ -102,17 +82,37 @@
           "Design Arenaは、世界中で530万人が使用しており、フロンティアラボに重要な人的評価を提供しています。",
           "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
+      },
+      {
+        "title": "Show HN: Product analytics (and evals) for agent sessions on your MCP",
+        "url": "https://armature.tech/",
+        "points": 79,
+        "comments": 2,
+        "author": "screm",
+        "createdAt": "2026-08-03T16:17:59Z",
+        "domain": "armature.tech",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "低",
+        "newsLens": "技術",
+        "titleJa": "HNを表示： MCP上のエージェントセッションの製品分析（および回避）",
+        "summaryJa": "この記事は「HNを表示： MCP上のエージェントセッションの製品分析（および回避）」を扱っています。私たちはArmature （ YC P 26 ）の創設者であるセオドアとルイスです。ユーザーがエージェントに何を依頼したか、エージェントが何を考えたかなど、MCPツールの通話の背後にあるセッション全体を再構築します。",
+        "keyPoints": [
+          "この記事は「HNを表示： MCP上のエージェントセッションの製品分析（および回避）」を扱っています。",
+          "私たちはArmature （ YC P 26 ）の創設者であるセオドアとルイスです。",
+          "ユーザーがエージェントに何を依頼したか、エージェントが何を考えたかなど、MCPツールの通話の背後にあるセッション全体を再構築します。"
+        ]
       }
     ],
-    "fetchedAt": "2026-08-04T10:33:38.941Z",
+    "fetchedAt": "2026-08-04T12:58:00.138Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-08-04T10:33:38.941Z",
+    "fetchedAt": "2026-08-04T12:58:00.138Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-08-04T10:33:39.146Z"
+    "articleFetchedAt": "2026-08-04T12:58:00.257Z"
   }
 }
