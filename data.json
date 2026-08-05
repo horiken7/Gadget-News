@@ -4,8 +4,8 @@
       {
         "title": "Rust-lang/rust is adopting an LLM policy",
         "url": "https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/",
-        "points": 118,
-        "comments": 62,
+        "points": 120,
+        "comments": 65,
         "author": "afdbcreid",
         "createdAt": "2026-08-05T05:52:24Z",
         "domain": "blog.rust-lang.org",
@@ -84,35 +84,53 @@
         ]
       },
       {
-        "title": "Iowa-led states ask OpenAI to keep their bots on a leash",
-        "url": "https://www.iowaattorneygeneral.gov/newsroom/attorney-general-brenna-bird-leads-coalition-demanding-transparency-from-openai-after-ai-breach-and",
-        "points": 55,
-        "comments": 102,
-        "author": "ArcHound",
-        "createdAt": "2026-08-05T12:42:50Z",
-        "domain": "iowaattorneygeneral.gov",
+        "title": "The next chapter of our AI momentum",
+        "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
+        "points": 60,
+        "comments": 54,
+        "author": "colesantiago",
+        "createdAt": "2026-08-05T16:05:31Z",
+        "domain": "blog.google",
         "sourceType": "hn",
         "category": "AIニュース",
-        "impact": "低",
+        "impact": "中",
         "newsLens": "技術",
-        "titleJa": "アイオワ州主導の州は、OpenAIにボットを束縛しておくよう求めている",
-        "summaryJa": "この記事は「アイオワ州主導の州は、OpenAIにボットを束縛しておくよう求めている」を扱っています。アイオワ州司法省、司法長官事務所のニュースリリース。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "titleJa": "AIの勢いの次の章",
+        "summaryJa": "この記事は「AIの勢いの次の章」を扱っています。本日、GoogleとAlphabetの最高経営責任者（ CEO ）であるSundar Pichaiは、Google DeepMindチームといくつかの変更点を共有しました。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
         "keyPoints": [
-          "この記事は「アイオワ州主導の州は、OpenAIにボットを束縛しておくよう求めている」を扱っています。",
-          "アイオワ州司法省、司法長官事務所のニュースリリース。",
+          "この記事は「AIの勢いの次の章」を扱っています。",
+          "本日、GoogleとAlphabetの最高経営責任者（ CEO ）であるSundar Pichaiは、Google DeepMindチームといくつかの変更点を共有しました。",
           "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
       }
     ],
-    "fetchedAt": "2026-08-05T16:28:49.040Z",
+    "fetchedAt": "2026-08-05T18:17:53.948Z",
     "mock": false
   },
   "xTrends": {
-    "items": [],
-    "fetchedAt": "2026-08-05T16:28:49.040Z",
+    "items": [
+      {
+        "topic": "DeepMind",
+        "locationLabel": "米国",
+        "bestRank": 14,
+        "appearances": 2,
+        "trendSource": "Trends24",
+        "sourceUrl": "https://trends24.in/united-states/",
+        "observedAt": "2026-08-05T18:17:53.894Z",
+        "url": "https://x.com/search?q=DeepMind&src=typed_query&f=live",
+        "articleTitle": "DeepMind Disbands AlphaFold Team, Pivots to Gemini",
+        "articleTitleJa": "DeepMind、AlphaFold チームを解散、Gemini に軸足を移す",
+        "articleUrl": "https://unusualwhales.com/news/deepmind-disbands-alphafold-team-gemini-pivot",
+        "articleSource": "unusualwhales.com",
+        "articlePublishedAt": "2026-08-02T02:15:54Z",
+        "summaryJa": "Google DeepMindは、主要な科学者がAnthropicに亡命したため、ノーベル賞を受賞したAlphaFoldチームを解散し、研究者をGeminiに再配置した。 GOOGL が注目されています。",
+        "translationVersion": 3
+      }
+    ],
+    "fetchedAt": "2026-08-05T18:17:53.948Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-08-05T16:28:49.163Z"
+    "articleFetchedAt": "2026-08-05T18:17:56.023Z"
   }
 }
