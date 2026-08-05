@@ -5,7 +5,7 @@
         "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
         "url": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
         "points": 119,
-        "comments": 256,
+        "comments": 262,
         "author": "thewebguyd",
         "createdAt": "2026-08-04T15:37:42Z",
         "domain": "techcrunch.com",
@@ -19,6 +19,26 @@
           "この記事は「Appleは、より多くの元従業員がOpenAIに機密データを持ち込んだ可能性があると述べている」を扱っています。",
           "Appleは、OpenAIに対する企業秘密調査が拡大したと述べている。",
           "新しい裁判所に提出された訴状によると、Appleは、追加の元スタッフが機密情報を保持またはアクセスした可能性があると主張しています。"
+        ]
+      },
+      {
+        "title": "Rust-lang/rust is adopting an LLM policy",
+        "url": "https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/",
+        "points": 112,
+        "comments": 47,
+        "author": "afdbcreid",
+        "createdAt": "2026-08-05T05:52:24Z",
+        "domain": "blog.rust-lang.org",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "中",
+        "newsLens": "技術",
+        "titleJa": "Rust - lang/rustはLLMポリシーを採用している",
+        "summaryJa": "この記事は「Rust - lang/rustはLLMポリシーを採用している」を扱っています。誰もが信頼性が高く効率的なソフトウェアを構築できるようにします。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "keyPoints": [
+          "この記事は「Rust - lang/rustはLLMポリシーを採用している」を扱っています。",
+          "誰もが信頼性が高く効率的なソフトウェアを構築できるようにします。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
       },
       {
@@ -46,7 +66,7 @@
         "title": "Agent skills that bring team coding standards to Claude Code and Codex",
         "url": "https://github.com/tikalk/adlc-team-skills",
         "points": 88,
-        "comments": 39,
+        "comments": 38,
         "author": "kanfilior",
         "createdAt": "2026-08-04T14:38:31Z",
         "domain": "github.com",
@@ -66,7 +86,7 @@
         "title": "DeepSeek V4 Flash on a Single AMD MI300X",
         "url": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x",
         "points": 73,
-        "comments": 93,
+        "comments": 95,
         "author": "zhoutong",
         "createdAt": "2026-08-04T10:00:55Z",
         "domain": "github.com",
@@ -81,37 +101,17 @@
           "GitHubでアカウントを作成して、ryanzhou/deepseek - v 4 - flash - mi 300 xの開発に貢献します。",
           "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
-      },
-      {
-        "title": "Third-party cyber evaluations involving OpenAI models",
-        "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models/",
-        "points": 53,
-        "comments": 7,
-        "author": "glub",
-        "createdAt": "2026-08-04T21:14:19Z",
-        "domain": "openai.com",
-        "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "低",
-        "newsLens": "技術",
-        "titleJa": "OpenAIモデルを含むサードパーティのサイバー評価",
-        "summaryJa": "この記事は「OpenAIモデルを含むサードパーティのサイバー評価」を扱っています。openai.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
-        "keyPoints": [
-          "この記事は「OpenAIモデルを含むサードパーティのサイバー評価」を扱っています。",
-          "openai.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
-        ]
       }
     ],
-    "fetchedAt": "2026-08-05T06:27:58.008Z",
+    "fetchedAt": "2026-08-05T09:34:00.514Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-08-05T06:27:58.008Z",
+    "fetchedAt": "2026-08-05T09:34:00.514Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-08-05T06:27:58.122Z"
+    "articleFetchedAt": "2026-08-05T09:34:00.633Z"
   }
 }
