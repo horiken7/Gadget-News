@@ -2,36 +2,16 @@
   "news": {
     "items": [
       {
-        "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
-        "url": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
-        "points": 119,
-        "comments": 272,
-        "author": "thewebguyd",
-        "createdAt": "2026-08-04T15:37:42Z",
-        "domain": "techcrunch.com",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "高",
-        "newsLens": "一般",
-        "titleJa": "Appleは、より多くの元従業員がOpenAIに機密データを持ち込んだ可能性があると述べている",
-        "summaryJa": "この記事は「Appleは、より多くの元従業員がOpenAIに機密データを持ち込んだ可能性があると述べている」を扱っています。Appleは、OpenAIに対する企業秘密調査が拡大したと述べている。新しい裁判所に提出された訴状によると、Appleは、追加の元スタッフが機密情報を保持またはアクセスした可能性があると主張しています。",
-        "keyPoints": [
-          "この記事は「Appleは、より多くの元従業員がOpenAIに機密データを持ち込んだ可能性があると述べている」を扱っています。",
-          "Appleは、OpenAIに対する企業秘密調査が拡大したと述べている。",
-          "新しい裁判所に提出された訴状によると、Appleは、追加の元スタッフが機密情報を保持またはアクセスした可能性があると主張しています。"
-        ]
-      },
-      {
         "title": "Rust-lang/rust is adopting an LLM policy",
         "url": "https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/",
-        "points": 116,
-        "comments": 57,
+        "points": 118,
+        "comments": 62,
         "author": "afdbcreid",
         "createdAt": "2026-08-05T05:52:24Z",
         "domain": "blog.rust-lang.org",
         "sourceType": "hn",
         "category": "AIモデル",
-        "impact": "中",
+        "impact": "高",
         "newsLens": "技術",
         "titleJa": "Rust - lang/rustはLLMポリシーを採用している",
         "summaryJa": "この記事は「Rust - lang/rustはLLMポリシーを採用している」を扱っています。誰もが信頼性が高く効率的なソフトウェアを構築できるようにします。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
@@ -44,8 +24,8 @@
       {
         "title": "Zero-Mem: Zero-Token Memory Operations for LLM Agents",
         "url": "https://arxiv.org/abs/2607.29377",
-        "points": 108,
-        "comments": 10,
+        "points": 109,
+        "comments": 12,
         "author": "theanonymousone",
         "createdAt": "2026-08-05T04:36:44Z",
         "domain": "arxiv.org",
@@ -59,6 +39,27 @@
           "この記事は「ゼロメム： LLMエージェントのゼロトークンメモリ操作」を扱っています。",
           "ArXiv論文2607.29377のアブストラクトページ：ゼロメム： LLMエージェントのゼロトークンメモリ操作。",
           "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+        ]
+      },
+      {
+        "title": "Anthropic is hiring an AI chip design team",
+        "url": "https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/",
+        "points": 107,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-08-05T14:13:18.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
+        "category": "ハードウェア",
+        "impact": "高",
+        "titleJa": "AnthropicはAIチップ設計チームを採用しています",
+        "summaryJa": "この記事は「AnthropicはAIチップ設計チームを採用しています」を扱っています。Anthropicは、独自のカスタムAIチップを設計するためのチームを構築しています。Claudeのメーカーは、その技術がより速く、より効率的に実行されるのを助けるために、ハードウェアとモデルを共同設計すると述べた。",
+        "keyPoints": [
+          "この記事は「AnthropicはAIチップ設計チームを採用しています」を扱っています。",
+          "Anthropicは、独自のカスタムAIチップを設計するためのチームを構築しています。",
+          "Claudeのメーカーは、その技術がより速く、より効率的に実行されるのを助けるために、ハードウェアとモデルを共同設計すると述べた。"
         ]
       },
       {
@@ -83,35 +84,35 @@
         ]
       },
       {
-        "title": "Agent skills that bring team coding standards to Claude Code and Codex",
-        "url": "https://github.com/tikalk/adlc-team-skills",
-        "points": 88,
-        "comments": 38,
-        "author": "kanfilior",
-        "createdAt": "2026-08-04T14:38:31Z",
-        "domain": "github.com",
+        "title": "Iowa-led states ask OpenAI to keep their bots on a leash",
+        "url": "https://www.iowaattorneygeneral.gov/newsroom/attorney-general-brenna-bird-leads-coalition-demanding-transparency-from-openai-after-ai-breach-and",
+        "points": 55,
+        "comments": 102,
+        "author": "ArcHound",
+        "createdAt": "2026-08-05T12:42:50Z",
+        "domain": "iowaattorneygeneral.gov",
         "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "中",
+        "category": "AIニュース",
+        "impact": "低",
         "newsLens": "技術",
-        "titleJa": "Claudeコードとコーデックスにチームコーディングスタンダードをもたらすエージェントスキル",
-        "summaryJa": "この記事は「Claudeコードとコーデックスにチームコーディングスタンダードをもたらすエージェントスキル」を扱っています。🐙 ADLCチームスキル—エンジニアリングチーム向けAgentic SDLC - tikalk/adlc - team - skills。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "titleJa": "アイオワ州主導の州は、OpenAIにボットを束縛しておくよう求めている",
+        "summaryJa": "この記事は「アイオワ州主導の州は、OpenAIにボットを束縛しておくよう求めている」を扱っています。アイオワ州司法省、司法長官事務所のニュースリリース。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
         "keyPoints": [
-          "この記事は「Claudeコードとコーデックスにチームコーディングスタンダードをもたらすエージェントスキル」を扱っています。",
-          "🐙 ADLCチームスキル—エンジニアリングチーム向けAgentic SDLC - tikalk/adlc - team - skills。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+          "この記事は「アイオワ州主導の州は、OpenAIにボットを束縛しておくよう求めている」を扱っています。",
+          "アイオワ州司法省、司法長官事務所のニュースリリース。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
       }
     ],
-    "fetchedAt": "2026-08-05T14:03:07.447Z",
+    "fetchedAt": "2026-08-05T16:28:49.040Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-08-05T14:03:07.447Z",
+    "fetchedAt": "2026-08-05T16:28:49.040Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-08-05T14:03:07.572Z"
+    "articleFetchedAt": "2026-08-05T16:28:49.163Z"
   }
 }
