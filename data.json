@@ -5,7 +5,7 @@
         "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
         "url": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
         "points": 119,
-        "comments": 241,
+        "comments": 249,
         "author": "thewebguyd",
         "createdAt": "2026-08-04T15:37:42Z",
         "domain": "techcrunch.com",
@@ -24,8 +24,8 @@
       {
         "title": "Security Incident INC-2026-07-28-01 – UK AI Security Institute [pdf]",
         "url": "https://cdn.prod.website-files.com/663bd486c5e4c81588db7a1d/6a724858f7db25c81487016d_Security%20Incident%20INC-2026-07-28-01.pdf",
-        "points": 107,
-        "comments": 43,
+        "points": 108,
+        "comments": 46,
         "author": "_pdp_",
         "createdAt": "2026-08-04T21:52:58Z",
         "domain": "cdn.prod.website-files.com",
@@ -65,7 +65,7 @@
       {
         "title": "Agent skills that bring team coding standards to Claude Code and Codex",
         "url": "https://github.com/tikalk/adlc-team-skills",
-        "points": 87,
+        "points": 88,
         "comments": 39,
         "author": "kanfilior",
         "createdAt": "2026-08-04T14:38:31Z",
@@ -103,15 +103,15 @@
         ]
       }
     ],
-    "fetchedAt": "2026-08-04T22:59:02.195Z",
+    "fetchedAt": "2026-08-05T00:09:41.955Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-08-04T22:59:02.195Z",
+    "fetchedAt": "2026-08-05T00:09:41.955Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-08-04T22:59:02.312Z"
+    "articleFetchedAt": "2026-08-05T00:09:42.068Z"
   }
 }
