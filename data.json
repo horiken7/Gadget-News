@@ -46,8 +46,8 @@
       {
         "title": "Born Against, or why hobby programming communities are against LLM usage",
         "url": "https://blog.fogus.me/llm/born-against.html",
-        "points": 98,
-        "comments": 129,
+        "points": 101,
+        "comments": 148,
         "author": "lladnar",
         "createdAt": "2026-08-05T18:37:49Z",
         "domain": "blog.fogus.me",
@@ -67,7 +67,7 @@
         "title": "Meta Ran Ads That Contained AI-Generated Child Sexual Abuse Imagery",
         "url": "https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/",
         "points": 93,
-        "comments": 183,
+        "comments": 199,
         "author": "malshe",
         "createdAt": "2026-08-05T19:47:26Z",
         "domain": "wired.com",
@@ -86,8 +86,8 @@
       {
         "title": "Microsoft's AI Sales Mostly Come from OpenAI, Disclosures Show",
         "url": "https://www.bloomberg.com/news/articles/2026-08-05/microsoft-s-ai-sales-mostly-come-from-openai-disclosures-show",
-        "points": 76,
-        "comments": 17,
+        "points": 77,
+        "comments": 16,
         "author": "mapping365",
         "createdAt": "2026-08-05T18:19:10Z",
         "domain": "bloomberg.com",
@@ -104,7 +104,7 @@
         ]
       }
     ],
-    "fetchedAt": "2026-08-05T23:56:37.719Z",
+    "fetchedAt": "2026-08-06T02:28:09.572Z",
     "mock": false
   },
   "xTrends": {
@@ -116,22 +116,22 @@
         "appearances": 5,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-08-05T23:56:37.607Z",
+        "observedAt": "2026-08-06T02:28:09.414Z",
         "url": "https://x.com/search?q=DeepMind&src=typed_query&f=live",
         "articleTitle": "DeepMind",
         "articleTitleJa": "公開トレンド: DeepMind",
         "articleUrl": "https://trends24.in/united-states/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-08-05T23:56:37.607Z",
+        "articlePublishedAt": "2026-08-06T02:28:09.414Z",
         "summaryJa": "米国のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
       }
     ],
-    "fetchedAt": "2026-08-05T23:56:37.719Z",
+    "fetchedAt": "2026-08-06T02:28:09.572Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-08-05T23:56:40.927Z"
+    "articleFetchedAt": "2026-08-06T02:28:12.571Z"
   }
 }
