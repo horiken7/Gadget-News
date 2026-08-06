@@ -2,6 +2,26 @@
   "news": {
     "items": [
       {
+        "title": "Read HN twice a day for the last decade. Here's my list of S-Tier HN links",
+        "url": "https://news.ycombinator.com/item?id=49183198",
+        "points": 107,
+        "comments": 13,
+        "author": "vivzkestrel",
+        "createdAt": "2026-08-05T14:12:35Z",
+        "domain": "news.ycombinator.com",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "中",
+        "newsLens": "技術",
+        "titleJa": "過去10年間、HNを1日2回読んでください。SティアHNリンクのリストは次のとおりです",
+        "summaryJa": "この記事は「過去10年間、HNを1日2回読んでください。SティアHNリンクのリストは次のとおりです」を扱っています。-何年もの間、毎日朝と夕方に2ページのHNを読んでいます-最近、最初の2ページのほとんどのものがAI this、AI that、LLM this、LLM that、model here、model thereであることに気づきました-今日は、過去10年間の50000以上のブックマークのコレクションからHNの最大のリソースを共有することで、そのトレンドを打破しようとしています-私はbookmarのプロセスを終えています。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "keyPoints": [
+          "この記事は「過去10年間、HNを1日2回読んでください。",
+          "SティアHNリンクのリストは次のとおりです」を扱っています。",
+          "-何年もの間、毎日朝と夕方に2ページのHNを読んでいます-最近、最初の2ページのほとんどのものがAI this、AI that、LLM this、LLM that、model here、model thereであることに気づきました-今日は、過去10年間の50000以上のブックマークのコレクションからHNの最大のリソースを共有することで、そのトレンドを打破しようとしています-私はbookmarのプロセスを終えています。"
+        ]
+      },
+      {
         "title": "Meta launches Muse Code, an AI agent for large code bases",
         "url": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
         "points": 107,
@@ -44,30 +64,10 @@
         ]
       },
       {
-        "title": "Read HN twice a day for the last decade. Here's my list of S-Tier HN links",
-        "url": "https://news.ycombinator.com/item?id=49183198",
-        "points": 106,
-        "comments": 12,
-        "author": "vivzkestrel",
-        "createdAt": "2026-08-05T14:12:35Z",
-        "domain": "news.ycombinator.com",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "中",
-        "newsLens": "技術",
-        "titleJa": "過去10年間、HNを1日2回読んでください。SティアHNリンクのリストは次のとおりです",
-        "summaryJa": "この記事は「過去10年間、HNを1日2回読んでください。SティアHNリンクのリストは次のとおりです」を扱っています。-何年もの間、毎日朝と夕方に2ページのHNを読んでいます-最近、最初の2ページのほとんどのものがAI this、AI that、LLM this、LLM that、model here、model thereであることに気づきました-今日は、過去10年間の50000以上のブックマークのコレクションからHNの最大のリソースを共有することで、そのトレンドを打破しようとしています-私はbookmarのプロセスを終えています。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
-        "keyPoints": [
-          "この記事は「過去10年間、HNを1日2回読んでください。",
-          "SティアHNリンクのリストは次のとおりです」を扱っています。",
-          "-何年もの間、毎日朝と夕方に2ページのHNを読んでいます-最近、最初の2ページのほとんどのものがAI this、AI that、LLM this、LLM that、model here、model thereであることに気づきました-今日は、過去10年間の50000以上のブックマークのコレクションからHNの最大のリソースを共有することで、そのトレンドを打破しようとしています-私はbookmarのプロセスを終えています。"
-        ]
-      },
-      {
         "title": "Born Against, or why hobby programming communities are against LLM usage",
         "url": "https://blog.fogus.me/llm/born-against.html",
         "points": 101,
-        "comments": 291,
+        "comments": 350,
         "author": "lladnar",
         "createdAt": "2026-08-05T18:37:49Z",
         "domain": "blog.fogus.me",
@@ -84,27 +84,27 @@
         ]
       },
       {
-        "title": "Microsoft's AI Sales Mostly Come from OpenAI, Disclosures Show",
-        "url": "https://www.bloomberg.com/news/articles/2026-08-05/microsoft-s-ai-sales-mostly-come-from-openai-disclosures-show",
-        "points": 78,
-        "comments": 16,
-        "author": "mapping365",
-        "createdAt": "2026-08-05T18:19:10Z",
-        "domain": "bloomberg.com",
+        "title": "Launch HN: HyperProbe (YC S26) – Agents that do read-only debugging in prod",
+        "url": "https://www.hyperprobe.co",
+        "points": 85,
+        "comments": 43,
+        "author": "shailendraht",
+        "createdAt": "2026-08-05T16:47:15Z",
+        "domain": "hyperprobe.co",
         "sourceType": "hn",
         "category": "AIニュース",
         "impact": "中",
         "newsLens": "技術",
-        "titleJa": "マイクロソフトのAI販売は、主にOpenAI、ディスクロージャーショーから来ています",
-        "summaryJa": "この記事は「マイクロソフトのAI販売は、主にOpenAI、ディスクロージャーショーから来ています」を扱っています。bloomberg.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "titleJa": "HNを起動: HyperProbe (YC S 26) – PRODで読み取り専用デバッグを行うエージェント",
+        "summaryJa": "この記事は「HNを起動: HyperProbe (YC S 26) – PRODで読み取り専用デバッグを行うエージェント」を扱っています。コーディングエージェントが本番環境で問題をデバッグするための迅速で安全な方法を構築しています。PRODがブレークすると、Cursor、Claudeなどが実行中のコードに仮想ブレークポイントやプローブを安全にドロップし、ログにない正確な変数値を抽出できます。",
         "keyPoints": [
-          "この記事は「マイクロソフトのAI販売は、主にOpenAI、ディスクロージャーショーから来ています」を扱っています。",
-          "bloomberg.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+          "この記事は「HNを起動: HyperProbe (YC S 26) – PRODで読み取り専用デバッグを行うエージェント」を扱っています。",
+          "コーディングエージェントが本番環境で問題をデバッグするための迅速で安全な方法を構築しています。",
+          "PRODがブレークすると、Cursor、Claudeなどが実行中のコードに仮想ブレークポイントやプローブを安全にドロップし、ログにない正確な変数値を抽出できます。"
         ]
       }
     ],
-    "fetchedAt": "2026-08-06T11:18:51.399Z",
+    "fetchedAt": "2026-08-06T13:56:16.572Z",
     "mock": false
   },
   "xTrends": {
@@ -116,13 +116,13 @@
         "appearances": 7,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-08-06T11:18:51.341Z",
+        "observedAt": "2026-08-06T13:56:16.346Z",
         "url": "https://x.com/search?q=%E6%97%A5%E6%9C%AC%E6%9C%80%E5%A4%A7%E7%B4%9AAI%E3%83%87%E3%83%BC%E3%82%BF%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC&src=typed_query&f=live",
         "articleTitle": "日本最大級AIデータセンター",
         "articleTitleJa": "公開トレンド: 日本最大級AIデータセンター",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-08-06T11:18:51.341Z",
+        "articlePublishedAt": "2026-08-06T13:56:16.346Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -130,26 +130,26 @@
       {
         "topic": "DeepMind",
         "locationLabel": "米国",
-        "bestRank": 14,
-        "appearances": 5,
+        "bestRank": 48,
+        "appearances": 1,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-08-06T11:18:51.281Z",
+        "observedAt": "2026-08-06T13:56:16.472Z",
         "url": "https://x.com/search?q=DeepMind&src=typed_query&f=live",
         "articleTitle": "DeepMind",
         "articleTitleJa": "公開トレンド: DeepMind",
         "articleUrl": "https://trends24.in/united-states/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-08-06T11:18:51.281Z",
+        "articlePublishedAt": "2026-08-06T13:56:16.472Z",
         "summaryJa": "米国のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
       }
     ],
-    "fetchedAt": "2026-08-06T11:18:51.399Z",
+    "fetchedAt": "2026-08-06T13:56:16.572Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-08-06T11:18:53.333Z"
+    "articleFetchedAt": "2026-08-06T13:56:18.634Z"
   }
 }
