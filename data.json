@@ -46,7 +46,7 @@
       {
         "title": "Read HN twice a day for the last decade. Here's my list of S-Tier HN links",
         "url": "https://news.ycombinator.com/item?id=49183198",
-        "points": 105,
+        "points": 106,
         "comments": 12,
         "author": "vivzkestrel",
         "createdAt": "2026-08-05T14:12:35Z",
@@ -67,7 +67,7 @@
         "title": "Born Against, or why hobby programming communities are against LLM usage",
         "url": "https://blog.fogus.me/llm/born-against.html",
         "points": 101,
-        "comments": 228,
+        "comments": 291,
         "author": "lladnar",
         "createdAt": "2026-08-05T18:37:49Z",
         "domain": "blog.fogus.me",
@@ -104,7 +104,7 @@
         ]
       }
     ],
-    "fetchedAt": "2026-08-06T08:28:09.614Z",
+    "fetchedAt": "2026-08-06T11:18:51.399Z",
     "mock": false
   },
   "xTrends": {
@@ -116,13 +116,13 @@
         "appearances": 7,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-08-06T08:28:09.576Z",
+        "observedAt": "2026-08-06T11:18:51.341Z",
         "url": "https://x.com/search?q=%E6%97%A5%E6%9C%AC%E6%9C%80%E5%A4%A7%E7%B4%9AAI%E3%83%87%E3%83%BC%E3%82%BF%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC&src=typed_query&f=live",
         "articleTitle": "日本最大級AIデータセンター",
         "articleTitleJa": "公開トレンド: 日本最大級AIデータセンター",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-08-06T08:28:09.576Z",
+        "articlePublishedAt": "2026-08-06T11:18:51.341Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -134,22 +134,22 @@
         "appearances": 5,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-08-06T08:28:09.491Z",
+        "observedAt": "2026-08-06T11:18:51.281Z",
         "url": "https://x.com/search?q=DeepMind&src=typed_query&f=live",
         "articleTitle": "DeepMind",
         "articleTitleJa": "公開トレンド: DeepMind",
         "articleUrl": "https://trends24.in/united-states/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-08-06T08:28:09.491Z",
+        "articlePublishedAt": "2026-08-06T11:18:51.281Z",
         "summaryJa": "米国のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
       }
     ],
-    "fetchedAt": "2026-08-06T08:28:09.614Z",
+    "fetchedAt": "2026-08-06T11:18:51.399Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-08-06T08:28:11.619Z"
+    "articleFetchedAt": "2026-08-06T11:18:53.333Z"
   }
 }
