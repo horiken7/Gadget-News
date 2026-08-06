@@ -44,10 +44,30 @@
         ]
       },
       {
+        "title": "Read HN twice a day for the last decade. Here's my list of S-Tier HN links",
+        "url": "https://news.ycombinator.com/item?id=49183198",
+        "points": 104,
+        "comments": 11,
+        "author": "vivzkestrel",
+        "createdAt": "2026-08-05T14:12:35Z",
+        "domain": "news.ycombinator.com",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "中",
+        "newsLens": "技術",
+        "titleJa": "過去10年間、HNを1日2回読んでください。SティアHNリンクのリストは次のとおりです",
+        "summaryJa": "この記事は「過去10年間、HNを1日2回読んでください。SティアHNリンクのリストは次のとおりです」を扱っています。-何年もの間、毎日朝と夕方に2ページのHNを読んでいます-最近、最初の2ページのほとんどのものがAI this、AI that、LLM this、LLM that、model here、model thereであることに気づきました-今日は、過去10年間の50000以上のブックマークのコレクションからHNの最大のリソースを共有することで、そのトレンドを打破しようとしています-私はbookmarのプロセスを終えています。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "keyPoints": [
+          "この記事は「過去10年間、HNを1日2回読んでください。",
+          "SティアHNリンクのリストは次のとおりです」を扱っています。",
+          "-何年もの間、毎日朝と夕方に2ページのHNを読んでいます-最近、最初の2ページのほとんどのものがAI this、AI that、LLM this、LLM that、model here、model thereであることに気づきました-今日は、過去10年間の50000以上のブックマークのコレクションからHNの最大のリソースを共有することで、そのトレンドを打破しようとしています-私はbookmarのプロセスを終えています。"
+        ]
+      },
+      {
         "title": "Born Against, or why hobby programming communities are against LLM usage",
         "url": "https://blog.fogus.me/llm/born-against.html",
         "points": 101,
-        "comments": 148,
+        "comments": 181,
         "author": "lladnar",
         "createdAt": "2026-08-05T18:37:49Z",
         "domain": "blog.fogus.me",
@@ -61,26 +81,6 @@
           "この記事は「Born Against、または趣味プログラミングコミュニティがLLMの使用に反対する理由」を扱っています。",
           "blog.fogus.meが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
           "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
-        ]
-      },
-      {
-        "title": "Meta Ran Ads That Contained AI-Generated Child Sexual Abuse Imagery",
-        "url": "https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/",
-        "points": 93,
-        "comments": 199,
-        "author": "malshe",
-        "createdAt": "2026-08-05T19:47:26Z",
-        "domain": "wired.com",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "AIが生成した児童性的虐待の画像を含むメタラン広告",
-        "summaryJa": "この記事は「AIが生成した児童性的虐待の画像を含むメタラン広告」を扱っています。Metaの広告ライブラリのデータによると、Facebook、Instagram、Messenger、またはThreadsには50以上の不快な画像およびビデオ広告が掲載されました。今週のように最近走ったものもありました。",
-        "keyPoints": [
-          "この記事は「AIが生成した児童性的虐待の画像を含むメタラン広告」を扱っています。",
-          "Metaの広告ライブラリのデータによると、Facebook、Instagram、Messenger、またはThreadsには50以上の不快な画像およびビデオ広告が掲載されました。",
-          "今週のように最近走ったものもありました。"
         ]
       },
       {
@@ -104,11 +104,29 @@
         ]
       }
     ],
-    "fetchedAt": "2026-08-06T02:28:09.572Z",
+    "fetchedAt": "2026-08-06T05:44:32.069Z",
     "mock": false
   },
   "xTrends": {
     "items": [
+      {
+        "topic": "日本最大級AIデータセンター",
+        "locationLabel": "日本",
+        "bestRank": 11,
+        "appearances": 5,
+        "trendSource": "Trends24",
+        "sourceUrl": "https://trends24.in/japan/",
+        "observedAt": "2026-08-06T05:44:32.051Z",
+        "url": "https://x.com/search?q=%E6%97%A5%E6%9C%AC%E6%9C%80%E5%A4%A7%E7%B4%9AAI%E3%83%87%E3%83%BC%E3%82%BF%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC&src=typed_query&f=live",
+        "articleTitle": "日本最大級AIデータセンター",
+        "articleTitleJa": "公開トレンド: 日本最大級AIデータセンター",
+        "articleUrl": "https://trends24.in/japan/",
+        "articleSource": "Trends24",
+        "articlePublishedAt": "2026-08-06T05:44:32.051Z",
+        "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
+        "translationVersion": 3,
+        "articleFallback": true
+      },
       {
         "topic": "DeepMind",
         "locationLabel": "米国",
@@ -116,22 +134,22 @@
         "appearances": 5,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-08-06T02:28:09.414Z",
+        "observedAt": "2026-08-06T05:44:31.982Z",
         "url": "https://x.com/search?q=DeepMind&src=typed_query&f=live",
         "articleTitle": "DeepMind",
         "articleTitleJa": "公開トレンド: DeepMind",
         "articleUrl": "https://trends24.in/united-states/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-08-06T02:28:09.414Z",
+        "articlePublishedAt": "2026-08-06T05:44:31.982Z",
         "summaryJa": "米国のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
       }
     ],
-    "fetchedAt": "2026-08-06T02:28:09.572Z",
+    "fetchedAt": "2026-08-06T05:44:32.069Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-08-06T02:28:12.571Z"
+    "articleFetchedAt": "2026-08-06T05:44:33.835Z"
   }
 }
