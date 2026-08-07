@@ -25,8 +25,8 @@
       {
         "title": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
         "url": "https://www.aleksagordic.com/blog/vllm",
-        "points": 96,
-        "comments": 5,
+        "points": 101,
+        "comments": 8,
         "author": "sebg",
         "createdAt": "2026-08-06T21:30:21Z",
         "domain": "aleksagordic.com",
@@ -43,31 +43,10 @@
         ]
       },
       {
-        "title": "Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI",
-        "url": "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai/",
-        "points": 89,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-08-06T13:00:00.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
-        "category": "AIニュース",
-        "impact": "高",
-        "titleJa": "限定： Mirendilが自己改善AIを拡張するために1億$以上のGoogle Cloud契約を締結",
-        "summaryJa": "この記事は「限定： Mirendilが自己改善AIを拡張するために1億$以上のGoogle Cloud契約を締結」を扱っています。Mirendilは、コンピューティングインフラストラクチャを拡張するために1億$以上のGoogle Cloudパートナーシップに署名し、科学的発見とAI開発を加速するように設計された自己改善AIシステムの研究を促進しています。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
-        "keyPoints": [
-          "この記事は「限定： Mirendilが自己改善AIを拡張するために1億$以上のGoogle Cloud契約を締結」を扱っています。",
-          "Mirendilは、コンピューティングインフラストラクチャを拡張するために1億$以上のGoogle Cloudパートナーシップに署名し、科学的発見とAI開発を加速するように設計された自己改善AIシステムの研究を促進しています。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
-        ]
-      },
-      {
         "title": "I won't read LLM authored fiction",
         "url": "https://mccormick.cx/news/entries/why-i-won-t-read-llm-authored-fiction",
-        "points": 82,
-        "comments": 73,
+        "points": 84,
+        "comments": 101,
         "author": "chr15m",
         "createdAt": "2026-08-07T07:45:56Z",
         "domain": "mccormick.cx",
@@ -84,10 +63,31 @@
         ]
       },
       {
+        "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
+        "url": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
+        "points": 79,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-08-06T22:43:53.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
+        "category": "AIニュース",
+        "impact": "中",
+        "titleJa": "OpenAIの新しいAIスマートスピーカーは、300〜400ドルで販売されると伝えられています",
+        "summaryJa": "この記事は「OpenAIの新しいAIスマートスピーカーは、300〜400ドルで販売されると伝えられています」を扱っています。OpenAIの神秘的な新しいAIデバイスに関する追加の詳細は、高価なスマートスピーカーのように聞こえる。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "keyPoints": [
+          "この記事は「OpenAIの新しいAIスマートスピーカーは、300〜400ドルで販売されると伝えられています」を扱っています。",
+          "OpenAIの神秘的な新しいAIデバイスに関する追加の詳細は、高価なスマートスピーカーのように聞こえる。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+        ]
+      },
+      {
         "title": "Software development with AI is starting to feel like cooking steak",
         "url": "https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/",
         "points": 73,
-        "comments": 394,
+        "comments": 404,
         "author": "yusyd",
         "createdAt": "2026-08-06T15:30:48Z",
         "domain": "blog.sydorets.com",
@@ -104,15 +104,15 @@
         ]
       }
     ],
-    "fetchedAt": "2026-08-07T10:09:49.034Z",
+    "fetchedAt": "2026-08-07T13:37:44.432Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-08-07T10:09:49.034Z",
+    "fetchedAt": "2026-08-07T13:37:44.432Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-08-07T10:09:49.143Z"
+    "articleFetchedAt": "2026-08-07T13:37:44.658Z"
   }
 }
