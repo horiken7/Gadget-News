@@ -26,7 +26,7 @@
         "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
         "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
         "points": 121,
-        "comments": 259,
+        "comments": 372,
         "author": "itvision",
         "createdAt": "2026-08-06T20:23:11Z",
         "domain": "theregister.com",
@@ -39,6 +39,26 @@
         "keyPoints": [
           "この記事は「AMDはシリコンでモデルをエッチングすることで推論性能を向上させるためにTaalasを買収」を扱っています。",
           "theregister.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+        ]
+      },
+      {
+        "title": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
+        "url": "https://www.aleksagordic.com/blog/vllm",
+        "points": 89,
+        "comments": 4,
+        "author": "sebg",
+        "createdAt": "2026-08-06T21:30:21Z",
+        "domain": "aleksagordic.com",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "中",
+        "newsLens": "技術",
+        "titleJa": "インサイドvLLM ：ハイスループットLLM推論システムの解剖学（ 2025年）",
+        "summaryJa": "この記事は「インサイドvLLM ：ハイスループットLLM推論システムの解剖学（ 2025年）」を扱っています。ページングされた注意、継続的なバッチ処理、プレフィックスキャッシュ、specdecなどから、マルチGPU、マルチノードのダイナミックな大規模なサービスまで。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "keyPoints": [
+          "この記事は「インサイドvLLM ：ハイスループットLLM推論システムの解剖学（ 2025年）」を扱っています。",
+          "ページングされた注意、継続的なバッチ処理、プレフィックスキャッシュ、specdecなどから、マルチGPU、マルチノードのダイナミックな大規模なサービスまで。",
           "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
       },
@@ -64,30 +84,10 @@
         ]
       },
       {
-        "title": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
-        "url": "https://www.aleksagordic.com/blog/vllm",
-        "points": 82,
-        "comments": 2,
-        "author": "sebg",
-        "createdAt": "2026-08-06T21:30:21Z",
-        "domain": "aleksagordic.com",
-        "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "低",
-        "newsLens": "技術",
-        "titleJa": "インサイドvLLM ：ハイスループットLLM推論システムの解剖学（ 2025年）",
-        "summaryJa": "この記事は「インサイドvLLM ：ハイスループットLLM推論システムの解剖学（ 2025年）」を扱っています。ページングされた注意、継続的なバッチ処理、プレフィックスキャッシュ、specdecなどから、マルチGPU、マルチノードのダイナミックな大規模なサービスまで。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
-        "keyPoints": [
-          "この記事は「インサイドvLLM ：ハイスループットLLM推論システムの解剖学（ 2025年）」を扱っています。",
-          "ページングされた注意、継続的なバッチ処理、プレフィックスキャッシュ、specdecなどから、マルチGPU、マルチノードのダイナミックな大規模なサービスまで。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
-        ]
-      },
-      {
         "title": "Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users",
         "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/",
         "points": 73,
-        "comments": 99,
+        "comments": 142,
         "author": "tedsanders",
         "createdAt": "2026-08-06T17:02:04Z",
         "domain": "openai.com",
@@ -104,15 +104,15 @@
         ]
       }
     ],
-    "fetchedAt": "2026-08-07T00:52:57.543Z",
+    "fetchedAt": "2026-08-07T05:01:58.482Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-08-07T00:52:57.543Z",
+    "fetchedAt": "2026-08-07T05:01:58.482Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-08-07T00:52:57.677Z"
+    "articleFetchedAt": "2026-08-07T05:01:58.613Z"
   }
 }
