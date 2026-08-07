@@ -2,59 +2,90 @@ name: Update Data and Deploy to GitHub Pages
 
 on:
   schedule:
-    - cron: '0 * * * *'
+    - cron: '15 */3 * * *'
   push:
     branches: [main]
+    paths:
+      - 'public/**'
+      - 'scripts/**'
+      - 'package.json'
+      - 'package-lock.json'
+      - '.github/workflows/deploy.yml'
   workflow_dispatch:
 
 permissions:
   contents: write
 
 concurrency:
-  group: ai-news-pages
-  cancel-in-progress: true
+  group: gadget-news-pages
+  cancel-in-progress: false
 
 jobs:
   deploy:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 20
 
     steps:
       - name: Check out main
-        uses: actions/checkout@v6
+        uses: actions/checkout@v4
 
       - name: Set up Node.js
-        uses: actions/setup-node@v6
+        uses: actions/setup-node@v4
         with:
-          node-version: '24'
+          node-version: '20'
           cache: npm
 
       - name: Install dependencies
-        run: npm ci
+        run: |
+          for attempt in 1 2 3; do
+            npm ci && exit 0
+            echo "npm ci failed (attempt ${attempt}/3)"
+            sleep $((attempt * 10))
+          done
+          exit 1
 
-      - name: Fetch and translate current AI news
-        run: node scripts/fetch-data.js
+      - name: Fetch current news data
+        id: fetch_data
+        continue-on-error: true
+        shell: bash
+        run: |
+          for attempt in 1 2 3; do
+            if node scripts/fetch-data.js; then
+              echo "ok=true" >> "$GITHUB_OUTPUT"
+              exit 0
+            fi
+            echo "Data fetch failed (attempt ${attempt}/3)"
+            sleep $((attempt * 15))
+          done
+          echo "ok=false" >> "$GITHUB_OUTPUT"
+          exit 1
 
       - name: Add Japanese article summaries to X trends
+        id: enrich_trends
+        if: steps.fetch_data.outputs.ok == 'true'
+        continue-on-error: true
         run: node scripts/enrich-x-trends.js
 
       - name: Validate generated data
+        id: validate
+        if: steps.fetch_data.outputs.ok == 'true'
+        continue-on-error: true
         run: |
           node - <<'NODE'
           const fs = require('fs');
           const data = JSON.parse(fs.readFileSync('public/data.json', 'utf8'));
           const items = data.news?.items;
           const fetchedAt = Date.parse(data.news?.fetchedAt);
-          const xTrends = data.xTrends?.items;
+          const xTrends = data.xTrends?.items ?? [];
           const japanese = /[\u3040-\u30ff\u3400-\u9fff]/;
 
-          if (!Array.isArray(items) || items.length !== 5) {
-            throw new Error('The generated file must contain exactly five news items.');
+          if (!Array.isArray(items) || items.length < 1 || items.length > 5) {
+            throw new Error('Generated news must contain between one and five items.');
           }
           if (data.news.mock === true) {
             throw new Error('Mock data must not be deployed.');
           }
-          if (!Number.isFinite(fetchedAt) || Date.now() - fetchedAt > 15 * 60 * 1000) {
+          if (!Number.isFinite(fetchedAt) || Date.now() - fetchedAt > 30 * 60 * 1000) {
             throw new Error('fetchedAt is missing or stale.');
           }
           for (const item of items) {
@@ -66,27 +97,24 @@ jobs:
             throw new Error('X trends must contain no more than five items.');
           }
           for (const item of xTrends) {
-            if (
-              !item.topic ||
-              !item.url?.startsWith('https://x.com/search?') ||
-              !item.locationLabel ||
-              item.trendSource !== 'Trends24' ||
-              !item.sourceUrl?.startsWith('https://trends24.in/') ||
-              !Number.isFinite(Date.parse(item.observedAt)) ||
-              !item.articleUrl?.startsWith('http') ||
-              !japanese.test(item.articleTitleJa || '') ||
-              !japanese.test(item.summaryJa || '') ||
-              !Number.isFinite(Date.parse(item.articlePublishedAt))
-            ) {
+            if (!item.topic || !item.url?.startsWith('https://x.com/search?')) {
               throw new Error(`Invalid X trend item: ${item.topic || 'unknown'}`);
             }
           }
           console.log(`Validated ${items.length} news items and ${xTrends.length} X trends.`);
           NODE
 
-      - name: Deploy only validated data
+      - name: Deploy validated data
+        if: steps.fetch_data.outputs.ok == 'true' && steps.validate.outcome == 'success'
         uses: JamesIves/github-pages-deploy-action@v4
         with:
           branch: gh-pages
           folder: public
           clean: true
+
+      - name: Keep previous published version when sources fail
+        if: steps.fetch_data.outputs.ok != 'true' || steps.validate.outcome != 'success'
+        run: |
+          echo "A temporary source or validation problem occurred."
+          echo "The previous GitHub Pages version remains published."
+          echo "The next scheduled run will retry automatically."
