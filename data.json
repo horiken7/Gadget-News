@@ -25,7 +25,7 @@
       {
         "title": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
         "url": "https://www.aleksagordic.com/blog/vllm",
-        "points": 92,
+        "points": 96,
         "comments": 5,
         "author": "sebg",
         "createdAt": "2026-08-06T21:30:21Z",
@@ -64,10 +64,30 @@
         ]
       },
       {
+        "title": "I won't read LLM authored fiction",
+        "url": "https://mccormick.cx/news/entries/why-i-won-t-read-llm-authored-fiction",
+        "points": 82,
+        "comments": 73,
+        "author": "chr15m",
+        "createdAt": "2026-08-07T07:45:56Z",
+        "domain": "mccormick.cx",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "低",
+        "newsLens": "技術",
+        "titleJa": "LLMが執筆したフィクションは読まない",
+        "summaryJa": "この記事は「LLMが執筆したフィクションは読まない」を扱っています。mccormick.cxが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "keyPoints": [
+          "この記事は「LLMが執筆したフィクションは読まない」を扱っています。",
+          "mccormick.cxが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+        ]
+      },
+      {
         "title": "Software development with AI is starting to feel like cooking steak",
         "url": "https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/",
         "points": 73,
-        "comments": 380,
+        "comments": 394,
         "author": "yusyd",
         "createdAt": "2026-08-06T15:30:48Z",
         "domain": "blog.sydorets.com",
@@ -82,37 +102,17 @@
           "なぜAIは、一貫して優れたソフトウェアを構築するために必要な判断と理解を置き換えることなく、ソフトウェア開発をより速くすることができるのか。",
           "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
-      },
-      {
-        "title": "Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users",
-        "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/",
-        "points": 73,
-        "comments": 163,
-        "author": "tedsanders",
-        "createdAt": "2026-08-06T17:02:04Z",
-        "domain": "openai.com",
-        "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "ChatGPTでのGPT ‑ 5.6 SOLの改善、無料ユーザーのためのGPT ‑ 5.6 Lunaアクセスの拡大",
-        "summaryJa": "この記事は「ChatGPTでのGPT ‑ 5.6 SOLの改善、無料ユーザーのためのGPT ‑ 5.6 Lunaアクセスの拡大」を扱っています。openai.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
-        "keyPoints": [
-          "この記事は「ChatGPTでのGPT ‑ 5.6 SOLの改善、無料ユーザーのためのGPT ‑ 5.6 Lunaアクセスの拡大」を扱っています。",
-          "openai.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
-        ]
       }
     ],
-    "fetchedAt": "2026-08-07T07:39:52.048Z",
+    "fetchedAt": "2026-08-07T10:09:49.034Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-08-07T07:39:52.048Z",
+    "fetchedAt": "2026-08-07T10:09:49.034Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-08-07T07:39:52.178Z"
+    "articleFetchedAt": "2026-08-07T10:09:49.143Z"
   }
 }
