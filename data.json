@@ -2,24 +2,45 @@
   "news": {
     "items": [
       {
-        "title": "ByteDance trains massive AI model in bid to rival Anthropic",
-        "url": "https://arstechnica.com/ai/2026/08/bytedance-trains-massive-ai-model-in-bid-to-rival-anthropic/",
-        "points": 101,
+        "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
+        "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
+        "points": 107,
         "comments": 0,
         "author": "",
-        "createdAt": "2026-08-07T15:45:00Z",
-        "domain": "arstechnica.com",
-        "sourceType": "gdelt",
-        "sourceLabel": "GDELT",
-        "category": "AIモデル",
+        "createdAt": "2026-08-07T16:16:09.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
+        "category": "AIニュース",
         "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "ByteDance、ライバルのAnthropicに向けて大規模なAIモデルをトレーニング",
-        "summaryJa": "この記事は「ByteDance、ライバルのAnthropicに向けて大規模なAIモデルをトレーニング」を扱っています。TikTokの所有者は、10兆個のパラメータを持つモデルをトレーニングします。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "titleJa": "CloudflareがAIエージェント向けに構築されたブラウザKitesurfをリリース",
+        "summaryJa": "この記事は「CloudflareがAIエージェント向けに構築されたブラウザKitesurfをリリース」を扱っています。Cloudflareは、人ではなくAIエージェント向けに設計されたクラウドホストブラウザであるKitesurfを導入しました。同社によると、このブラウザは一般的な自動化タスクではChromiumよりもコンピューティングパワーが少なく、開発者がブラウザベースのAIエージェントをより効率的に構築するのに役立つという。",
         "keyPoints": [
-          "この記事は「ByteDance、ライバルのAnthropicに向けて大規模なAIモデルをトレーニング」を扱っています。",
-          "TikTokの所有者は、10兆個のパラメータを持つモデルをトレーニングします。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+          "この記事は「CloudflareがAIエージェント向けに構築されたブラウザKitesurfをリリース」を扱っています。",
+          "Cloudflareは、人ではなくAIエージェント向けに設計されたクラウドホストブラウザであるKitesurfを導入しました。",
+          "同社によると、このブラウザは一般的な自動化タスクではChromiumよりもコンピューティングパワーが少なく、開発者がブラウザベースのAIエージェントをより効率的に構築するのに役立つという。"
+        ]
+      },
+      {
+        "title": "Jill Lepore on the ‘Artificial State’ and why Silicon Valley’s leaders are bad sci-fi readers",
+        "url": "https://techcrunch.com/podcast/jill-lepore-on-the-artificial-state-and-why-silicon-valleys-leaders-are-bad-sci-fi-readers/",
+        "points": 105,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-08-07T14:00:00.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
+        "category": "AIニュース",
+        "impact": "高",
+        "titleJa": "ジル・レポアが語る「人工国家」と、シリコンバレーのリーダーたちが悪いSF読者である理由",
+        "summaryJa": "この記事は「ジル・レポアが語る「人工国家」と、シリコンバレーのリーダーたちが悪いSF読者である理由」を扱っています。歴史家のジル・レポア（ Jill Lepore ）は、なぜハイテク企業が新政府を形成しているかのように、製品を説明するために急上昇する言葉を頻繁に使用するのかについての理論を持っています。そして、Twitterの古い「ポケットの中の町役場」やAnthropicのClaude憲法を考えているかどうかにかかわらず、それはシリコンバレーを非常にお世辞の光で描いていない理論です。",
+        "keyPoints": [
+          "この記事は「ジル・レポアが語る「人工国家」と、シリコンバレーのリーダーたちが悪いSF読者である理由」を扱っています。",
+          "歴史家のジル・レポア（ Jill Lepore ）は、なぜハイテク企業が新政府を形成しているかのように、製品を説明するために急上昇する言葉を頻繁に使用するのかについての理論を持っています。",
+          "そして、Twitterの古い「ポケットの中の町役場」やAnthropicのClaude憲法を考えているかどうかにかかわらず、それはシリコンバレーを非常にお世辞の光で描いていない理論です。"
         ]
       },
       {
@@ -43,31 +64,10 @@
         ]
       },
       {
-        "title": "What If China Wins The AI Race ?",
-        "url": "https://www.forbes.com/councils/forbestechcouncil/2026/08/07/what-if-china-wins-the-ai-race/",
-        "points": 99,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-08-07T15:45:00Z",
-        "domain": "forbes.com",
-        "sourceType": "gdelt",
-        "sourceLabel": "GDELT",
-        "category": "AIニュース",
-        "impact": "高",
-        "newsLens": "一般",
-        "titleJa": "中国がAIレースに勝ったら？",
-        "summaryJa": "この記事は「中国がAIレースに勝ったら？」を扱っています。中国がAIレースに勝てば、征服のようには見えないかもしれません。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
-        "keyPoints": [
-          "この記事は「中国がAIレースに勝ったら。",
-          "中国がAIレースに勝てば、征服のようには見えないかもしれません。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
-        ]
-      },
-      {
         "title": "I won't read LLM authored fiction",
         "url": "https://mccormick.cx/news/entries/why-i-won-t-read-llm-authored-fiction",
-        "points": 84,
-        "comments": 109,
+        "points": 86,
+        "comments": 111,
         "author": "chr15m",
         "createdAt": "2026-08-07T07:45:56Z",
         "domain": "mccormick.cx",
@@ -84,35 +84,35 @@
         ]
       },
       {
-        "title": "Anthropic CEO reportedly worried new hires only care about money",
-        "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-ceo-reportedly-worried-hires-160000647.html",
-        "points": 82,
-        "comments": 77,
-        "author": "frays",
-        "createdAt": "2026-08-07T05:15:27Z",
-        "domain": "finance.yahoo.com",
+        "title": "Oracle bans AI-generated code from OpenJDK",
+        "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
+        "points": 73,
+        "comments": 116,
+        "author": "delduca",
+        "createdAt": "2026-08-07T17:36:30Z",
+        "domain": "app.dealroom.co",
         "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "中",
-        "newsLens": "一般",
-        "titleJa": "AnthropicのCEOは、新入社員がお金だけを気にしているのではないかと心配していると伝えられて",
-        "summaryJa": "この記事は「AnthropicのCEOは、新入社員がお金だけを気にしているのではないかと心配していると伝えられて」を扱っています。Anthropicが通常ははるかに少ない給料の仕事に目を見張るような給料を提供していることを考えると、Dario Amodeiからのコメントは皮肉なものと見なされるかもしれません。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "category": "開発ツール",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "OracleがOpenJDKからAI生成コードを禁止",
+        "summaryJa": "この記事は「OracleがOpenJDKからAI生成コードを禁止」を扱っています。オラクルは、安全性、セキュリティ、知的財産のリスクを理由に、OpenJDKへの貢献からAI生成コードを禁止しました。オープンソースのJavaプロジェクトスチュワードによると、開発者はLLMを個人的に使用してコードのデバッグとレビューを行うことはできますが、AIが生成したマテリアルをリポジトリ、プルリクエスト、またはその他のプロジェクトチャネルに送信することはできません。",
         "keyPoints": [
-          "この記事は「AnthropicのCEOは、新入社員がお金だけを気にしているのではないかと心配していると伝えられて」を扱っています。",
-          "Anthropicが通常ははるかに少ない給料の仕事に目を見張るような給料を提供していることを考えると、Dario Amodeiからのコメントは皮肉なものと見なされるかもしれません。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+          "この記事は「OracleがOpenJDKからAI生成コードを禁止」を扱っています。",
+          "オラクルは、安全性、セキュリティ、知的財産のリスクを理由に、OpenJDKへの貢献からAI生成コードを禁止しました。",
+          "オープンソースのJavaプロジェクトスチュワードによると、開発者はLLMを個人的に使用してコードのデバッグとレビューを行うことはできますが、AIが生成したマテリアルをリポジトリ、プルリクエスト、またはその他のプロジェクトチャネルに送信することはできません。"
         ]
       }
     ],
-    "fetchedAt": "2026-08-07T16:08:25.807Z",
+    "fetchedAt": "2026-08-07T19:14:05.561Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-08-07T16:08:25.807Z",
+    "fetchedAt": "2026-08-07T19:14:05.561Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-08-07T16:08:25.982Z"
+    "articleFetchedAt": "2026-08-07T19:14:05.716Z"
   }
 }
