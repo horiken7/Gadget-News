@@ -2,31 +2,31 @@
   "news": {
     "items": [
       {
-        "title": "OpenAI says Apple’s own security practices undermine its trade secrets case",
-        "url": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case/",
-        "points": 133,
+        "title": "ByteDance trains massive AI model in bid to rival Anthropic",
+        "url": "https://arstechnica.com/ai/2026/08/bytedance-trains-massive-ai-model-in-bid-to-rival-anthropic/",
+        "points": 101,
         "comments": 0,
         "author": "",
-        "createdAt": "2026-08-06T15:10:32.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
-        "category": "AIニュース",
+        "createdAt": "2026-08-07T15:45:00Z",
+        "domain": "arstechnica.com",
+        "sourceType": "gdelt",
+        "sourceLabel": "GDELT",
+        "category": "AIモデル",
         "impact": "高",
-        "titleJa": "OpenAIは、Apple自身のセキュリティ慣行が企業秘密事件を弱体化させていると述べている",
-        "summaryJa": "この記事は「OpenAIは、Apple自身のセキュリティ慣行が企業秘密事件を弱体化させていると述べている」を扱っています。新たに提出された裁判所の証拠は、Appleの企業秘密訴訟におけるOpenAIの法的戦略を示している。Apple自身のセキュリティとオフボーディングの慣行（ Appleマネージャーが退社後に元エンジニアのiCloudアカウントにアクセスできるようにすることを含む）は、盗まれたとされる情報が適切に保護されているというAppleの主張を弱体化させていると主張している。",
+        "newsLens": "技術",
+        "titleJa": "ByteDance、ライバルのAnthropicに向けて大規模なAIモデルをトレーニング",
+        "summaryJa": "この記事は「ByteDance、ライバルのAnthropicに向けて大規模なAIモデルをトレーニング」を扱っています。TikTokの所有者は、10兆個のパラメータを持つモデルをトレーニングします。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
         "keyPoints": [
-          "この記事は「OpenAIは、Apple自身のセキュリティ慣行が企業秘密事件を弱体化させていると述べている」を扱っています。",
-          "新たに提出された裁判所の証拠は、Appleの企業秘密訴訟におけるOpenAIの法的戦略を示している。",
-          "Apple自身のセキュリティとオフボーディングの慣行（ Appleマネージャーが退社後に元エンジニアのiCloudアカウントにアクセスできるようにすることを含む）は、盗まれたとされる情報が適切に保護されているというAppleの主張を弱体化させていると主張している。"
+          "この記事は「ByteDance、ライバルのAnthropicに向けて大規模なAIモデルをトレーニング」を扱っています。",
+          "TikTokの所有者は、10兆個のパラメータを持つモデルをトレーニングします。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
       },
       {
         "title": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
         "url": "https://www.aleksagordic.com/blog/vllm",
         "points": 101,
-        "comments": 8,
+        "comments": 9,
         "author": "sebg",
         "createdAt": "2026-08-06T21:30:21Z",
         "domain": "aleksagordic.com",
@@ -43,16 +43,37 @@
         ]
       },
       {
+        "title": "What If China Wins The AI Race ?",
+        "url": "https://www.forbes.com/councils/forbestechcouncil/2026/08/07/what-if-china-wins-the-ai-race/",
+        "points": 99,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-08-07T15:45:00Z",
+        "domain": "forbes.com",
+        "sourceType": "gdelt",
+        "sourceLabel": "GDELT",
+        "category": "AIニュース",
+        "impact": "高",
+        "newsLens": "一般",
+        "titleJa": "中国がAIレースに勝ったら？",
+        "summaryJa": "この記事は「中国がAIレースに勝ったら？」を扱っています。中国がAIレースに勝てば、征服のようには見えないかもしれません。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "keyPoints": [
+          "この記事は「中国がAIレースに勝ったら。",
+          "中国がAIレースに勝てば、征服のようには見えないかもしれません。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+        ]
+      },
+      {
         "title": "I won't read LLM authored fiction",
         "url": "https://mccormick.cx/news/entries/why-i-won-t-read-llm-authored-fiction",
         "points": 84,
-        "comments": 101,
+        "comments": 109,
         "author": "chr15m",
         "createdAt": "2026-08-07T07:45:56Z",
         "domain": "mccormick.cx",
         "sourceType": "hn",
         "category": "AIモデル",
-        "impact": "低",
+        "impact": "中",
         "newsLens": "技術",
         "titleJa": "LLMが執筆したフィクションは読まない",
         "summaryJa": "この記事は「LLMが執筆したフィクションは読まない」を扱っています。mccormick.cxが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
@@ -63,56 +84,35 @@
         ]
       },
       {
-        "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
-        "url": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
-        "points": 79,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-08-06T22:43:53.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
-        "category": "AIニュース",
-        "impact": "中",
-        "titleJa": "OpenAIの新しいAIスマートスピーカーは、300〜400ドルで販売されると伝えられています",
-        "summaryJa": "この記事は「OpenAIの新しいAIスマートスピーカーは、300〜400ドルで販売されると伝えられています」を扱っています。OpenAIの神秘的な新しいAIデバイスに関する追加の詳細は、高価なスマートスピーカーのように聞こえる。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
-        "keyPoints": [
-          "この記事は「OpenAIの新しいAIスマートスピーカーは、300〜400ドルで販売されると伝えられています」を扱っています。",
-          "OpenAIの神秘的な新しいAIデバイスに関する追加の詳細は、高価なスマートスピーカーのように聞こえる。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
-        ]
-      },
-      {
-        "title": "Software development with AI is starting to feel like cooking steak",
-        "url": "https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/",
-        "points": 73,
-        "comments": 404,
-        "author": "yusyd",
-        "createdAt": "2026-08-06T15:30:48Z",
-        "domain": "blog.sydorets.com",
+        "title": "Anthropic CEO reportedly worried new hires only care about money",
+        "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-ceo-reportedly-worried-hires-160000647.html",
+        "points": 82,
+        "comments": 77,
+        "author": "frays",
+        "createdAt": "2026-08-07T05:15:27Z",
+        "domain": "finance.yahoo.com",
         "sourceType": "hn",
         "category": "AIニュース",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "AIによるソフトウェア開発は、ステーキを調理するような気分になり始めています",
-        "summaryJa": "この記事は「AIによるソフトウェア開発は、ステーキを調理するような気分になり始めています」を扱っています。なぜAIは、一貫して優れたソフトウェアを構築するために必要な判断と理解を置き換えることなく、ソフトウェア開発をより速くすることができるのか。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "impact": "中",
+        "newsLens": "一般",
+        "titleJa": "AnthropicのCEOは、新入社員がお金だけを気にしているのではないかと心配していると伝えられて",
+        "summaryJa": "この記事は「AnthropicのCEOは、新入社員がお金だけを気にしているのではないかと心配していると伝えられて」を扱っています。Anthropicが通常ははるかに少ない給料の仕事に目を見張るような給料を提供していることを考えると、Dario Amodeiからのコメントは皮肉なものと見なされるかもしれません。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
-          "この記事は「AIによるソフトウェア開発は、ステーキを調理するような気分になり始めています」を扱っています。",
-          "なぜAIは、一貫して優れたソフトウェアを構築するために必要な判断と理解を置き換えることなく、ソフトウェア開発をより速くすることができるのか。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+          "この記事は「AnthropicのCEOは、新入社員がお金だけを気にしているのではないかと心配していると伝えられて」を扱っています。",
+          "Anthropicが通常ははるかに少ない給料の仕事に目を見張るような給料を提供していることを考えると、Dario Amodeiからのコメントは皮肉なものと見なされるかもしれません。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       }
     ],
-    "fetchedAt": "2026-08-07T13:37:44.432Z",
+    "fetchedAt": "2026-08-07T16:08:25.807Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-08-07T13:37:44.432Z",
+    "fetchedAt": "2026-08-07T16:08:25.807Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-08-07T13:37:44.658Z"
+    "articleFetchedAt": "2026-08-07T16:08:25.982Z"
   }
 }
