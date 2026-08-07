@@ -23,36 +23,16 @@
         ]
       },
       {
-        "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
-        "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
-        "points": 121,
-        "comments": 372,
-        "author": "itvision",
-        "createdAt": "2026-08-06T20:23:11Z",
-        "domain": "theregister.com",
-        "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "AMDはシリコンでモデルをエッチングすることで推論性能を向上させるためにTaalasを買収",
-        "summaryJa": "この記事は「AMDはシリコンでモデルをエッチングすることで推論性能を向上させるためにTaalasを買収」を扱っています。theregister.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
-        "keyPoints": [
-          "この記事は「AMDはシリコンでモデルをエッチングすることで推論性能を向上させるためにTaalasを買収」を扱っています。",
-          "theregister.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
-        ]
-      },
-      {
         "title": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
         "url": "https://www.aleksagordic.com/blog/vllm",
-        "points": 89,
-        "comments": 4,
+        "points": 92,
+        "comments": 5,
         "author": "sebg",
         "createdAt": "2026-08-06T21:30:21Z",
         "domain": "aleksagordic.com",
         "sourceType": "hn",
         "category": "AIモデル",
-        "impact": "中",
+        "impact": "高",
         "newsLens": "技術",
         "titleJa": "インサイドvLLM ：ハイスループットLLM推論システムの解剖学（ 2025年）",
         "summaryJa": "この記事は「インサイドvLLM ：ハイスループットLLM推論システムの解剖学（ 2025年）」を扱っています。ページングされた注意、継続的なバッチ処理、プレフィックスキャッシュ、specdecなどから、マルチGPU、マルチノードのダイナミックな大規模なサービスまで。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
@@ -84,10 +64,30 @@
         ]
       },
       {
+        "title": "Software development with AI is starting to feel like cooking steak",
+        "url": "https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/",
+        "points": 73,
+        "comments": 380,
+        "author": "yusyd",
+        "createdAt": "2026-08-06T15:30:48Z",
+        "domain": "blog.sydorets.com",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "AIによるソフトウェア開発は、ステーキを調理するような気分になり始めています",
+        "summaryJa": "この記事は「AIによるソフトウェア開発は、ステーキを調理するような気分になり始めています」を扱っています。なぜAIは、一貫して優れたソフトウェアを構築するために必要な判断と理解を置き換えることなく、ソフトウェア開発をより速くすることができるのか。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "keyPoints": [
+          "この記事は「AIによるソフトウェア開発は、ステーキを調理するような気分になり始めています」を扱っています。",
+          "なぜAIは、一貫して優れたソフトウェアを構築するために必要な判断と理解を置き換えることなく、ソフトウェア開発をより速くすることができるのか。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+        ]
+      },
+      {
         "title": "Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users",
         "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/",
         "points": 73,
-        "comments": 142,
+        "comments": 163,
         "author": "tedsanders",
         "createdAt": "2026-08-06T17:02:04Z",
         "domain": "openai.com",
@@ -104,15 +104,15 @@
         ]
       }
     ],
-    "fetchedAt": "2026-08-07T05:01:58.482Z",
+    "fetchedAt": "2026-08-07T07:39:52.048Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-08-07T05:01:58.482Z",
+    "fetchedAt": "2026-08-07T07:39:52.048Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-08-07T05:01:58.613Z"
+    "articleFetchedAt": "2026-08-07T07:39:52.178Z"
   }
 }
