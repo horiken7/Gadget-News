@@ -15,11 +15,11 @@
         "category": "AIニュース",
         "impact": "高",
         "titleJa": "CloudflareがAIエージェント向けに構築されたブラウザKitesurfをリリース",
-        "summaryJa": "この記事は「CloudflareがAIエージェント向けに構築されたブラウザKitesurfをリリース」を扱っています。Cloudflareは、人ではなくAIエージェント向けに設計されたクラウドホストブラウザであるKitesurfを導入しました。同社によると、このブラウザは一般的な自動化タスクではChromiumよりもコンピューティングパワーが少なく、開発者がブラウザベースのAIエージェントをより効率的に構築するのに役立つという。",
+        "summaryJa": "この記事は「CloudflareがAIエージェント向けに構築されたブラウザKitesurfをリリース」を扱っています。Kitesurfは、人ではなくAIエージェント向けに設計されたクラウドホストブラウザです。一般的な自動化タスクでは、Chromiumよりもコンピューティングパワーが少なく、開発者がブラウザベースのAIエージェントをより効率的に構築するのに役立ちます。",
         "keyPoints": [
           "この記事は「CloudflareがAIエージェント向けに構築されたブラウザKitesurfをリリース」を扱っています。",
-          "Cloudflareは、人ではなくAIエージェント向けに設計されたクラウドホストブラウザであるKitesurfを導入しました。",
-          "同社によると、このブラウザは一般的な自動化タスクではChromiumよりもコンピューティングパワーが少なく、開発者がブラウザベースのAIエージェントをより効率的に構築するのに役立つという。"
+          "Kitesurfは、人ではなくAIエージェント向けに設計されたクラウドホストブラウザです。",
+          "一般的な自動化タスクでは、Chromiumよりもコンピューティングパワーが少なく、開発者がブラウザベースのAIエージェントをより効率的に構築するのに役立ちます。"
         ]
       },
       {
@@ -44,30 +44,30 @@
         ]
       },
       {
-        "title": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
-        "url": "https://www.aleksagordic.com/blog/vllm",
+        "title": "Databricks drove down AI coding spend 70%",
+        "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
         "points": 101,
-        "comments": 9,
-        "author": "sebg",
-        "createdAt": "2026-08-06T21:30:21Z",
-        "domain": "aleksagordic.com",
+        "comments": 111,
+        "author": "moonikakiss",
+        "createdAt": "2026-08-07T18:25:17Z",
+        "domain": "databricks.com",
         "sourceType": "hn",
-        "category": "AIモデル",
+        "category": "AIニュース",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "インサイドvLLM ：ハイスループットLLM推論システムの解剖学（ 2025年）",
-        "summaryJa": "この記事は「インサイドvLLM ：ハイスループットLLM推論システムの解剖学（ 2025年）」を扱っています。ページングされた注意、継続的なバッチ処理、プレフィックスキャッシュ、specdecなどから、マルチGPU、マルチノードのダイナミックな大規模なサービスまで。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "titleJa": "データブリックは、AIコーディングの支出を70 ％削減しました",
+        "summaryJa": "この記事は「データブリックは、AIコーディングの支出を70 ％削減しました」を扱っています。databricks.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
         "keyPoints": [
-          "この記事は「インサイドvLLM ：ハイスループットLLM推論システムの解剖学（ 2025年）」を扱っています。",
-          "ページングされた注意、継続的なバッチ処理、プレフィックスキャッシュ、specdecなどから、マルチGPU、マルチノードのダイナミックな大規模なサービスまで。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+          "この記事は「データブリックは、AIコーディングの支出を70 ％削減しました」を扱っています。",
+          "databricks.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
       },
       {
         "title": "I won't read LLM authored fiction",
         "url": "https://mccormick.cx/news/entries/why-i-won-t-read-llm-authored-fiction",
         "points": 86,
-        "comments": 111,
+        "comments": 112,
         "author": "chr15m",
         "createdAt": "2026-08-07T07:45:56Z",
         "domain": "mccormick.cx",
@@ -84,35 +84,35 @@
         ]
       },
       {
-        "title": "Oracle bans AI-generated code from OpenJDK",
-        "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
+        "title": "DeepSeek V4 Flash 0731",
+        "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
         "points": 73,
-        "comments": 116,
-        "author": "delduca",
-        "createdAt": "2026-08-07T17:36:30Z",
-        "domain": "app.dealroom.co",
+        "comments": 189,
+        "author": "tosh",
+        "createdAt": "2026-08-07T17:56:20Z",
+        "domain": "arcprize.org",
         "sourceType": "hn",
-        "category": "開発ツール",
+        "category": "AIニュース",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "OracleがOpenJDKからAI生成コードを禁止",
-        "summaryJa": "この記事は「OracleがOpenJDKからAI生成コードを禁止」を扱っています。オラクルは、安全性、セキュリティ、知的財産のリスクを理由に、OpenJDKへの貢献からAI生成コードを禁止しました。オープンソースのJavaプロジェクトスチュワードによると、開発者はLLMを個人的に使用してコードのデバッグとレビューを行うことはできますが、AIが生成したマテリアルをリポジトリ、プルリクエスト、またはその他のプロジェクトチャネルに送信することはできません。",
+        "titleJa": "AIニュース: DeepSeek V 4 Flash 0731",
+        "summaryJa": "この記事は「DeepSeek V 4 Flash 0731」を扱っています。ARC - AGI -1、ARC - AGI -2、およびARC - AGI -3にわたるDeepSeek V 4 Flash 0731推論バリアント。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
         "keyPoints": [
-          "この記事は「OracleがOpenJDKからAI生成コードを禁止」を扱っています。",
-          "オラクルは、安全性、セキュリティ、知的財産のリスクを理由に、OpenJDKへの貢献からAI生成コードを禁止しました。",
-          "オープンソースのJavaプロジェクトスチュワードによると、開発者はLLMを個人的に使用してコードのデバッグとレビューを行うことはできますが、AIが生成したマテリアルをリポジトリ、プルリクエスト、またはその他のプロジェクトチャネルに送信することはできません。"
+          "この記事は「DeepSeek V 4 Flash 0731」を扱っています。",
+          "ARC - AGI -1、ARC - AGI -2、およびARC - AGI -3にわたるDeepSeek V 4 Flash 0731推論バリアント。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
       }
     ],
-    "fetchedAt": "2026-08-07T19:14:05.561Z",
+    "fetchedAt": "2026-08-07T21:54:46.795Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-08-07T19:14:05.561Z",
+    "fetchedAt": "2026-08-07T21:54:46.795Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-08-07T19:14:05.716Z"
+    "articleFetchedAt": "2026-08-07T21:54:46.928Z"
   }
 }
