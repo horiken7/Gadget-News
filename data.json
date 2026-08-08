@@ -44,10 +44,30 @@
         ]
       },
       {
+        "title": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
+        "url": "https://simonwillison.net/2026/Aug/7/openai-timeline/",
+        "points": 104,
+        "comments": 81,
+        "author": "882542F3884314B",
+        "createdAt": "2026-08-08T10:57:44Z",
+        "domain": "simonwillison.net",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "中",
+        "newsLens": "技術",
+        "titleJa": "これで、Hugging Faceに対するOpenAIの偶発的な攻撃のタイムラインができました",
+        "summaryJa": "この記事は「これで、Hugging Faceに対するOpenAIの偶発的な攻撃のタイムラインができました」を扱っています。OpenAIは、水曜日にBlack Hatセキュリティで「抱擁顔事件」（以前はこのブログで）について土壇場でプレゼンテーションを行いました。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "keyPoints": [
+          "この記事は「これで、Hugging Faceに対するOpenAIの偶発的な攻撃のタイムラインができました」を扱っています。",
+          "OpenAIは、水曜日にBlack Hatセキュリティで「抱擁顔事件」（以前はこのブログで）について土壇場でプレゼンテーションを行いました。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+        ]
+      },
+      {
         "title": "DeepSeek V4 Flash 0731",
         "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
         "points": 73,
-        "comments": 378,
+        "comments": 401,
         "author": "tosh",
         "createdAt": "2026-08-07T17:56:20Z",
         "domain": "arcprize.org",
@@ -67,7 +87,7 @@
         "title": "Oracle bans AI-generated code from OpenJDK",
         "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
         "points": 73,
-        "comments": 332,
+        "comments": 353,
         "author": "delduca",
         "createdAt": "2026-08-07T17:36:30Z",
         "domain": "app.dealroom.co",
@@ -82,37 +102,17 @@
           "オラクルは、安全性、セキュリティ、知的財産のリスクを理由に、OpenJDKへの貢献からAI生成コードを禁止しました。",
           "オープンソースのJavaプロジェクトスチュワードによると、開発者はLLMを個人的に使用してコードのデバッグとレビューを行うことはできますが、AIが生成したマテリアルをリポジトリ、プルリクエスト、またはその他のプロジェクトチャネルに送信することはできません。"
         ]
-      },
-      {
-        "title": "Should AI labs be treated like the owners of dangerous animals?",
-        "url": "https://www.economist.com/science-and-technology/2026/08/06/should-ai-labs-be-treated-like-the-owners-of-dangerous-animals",
-        "points": 52,
-        "comments": 54,
-        "author": "reasonableklout",
-        "createdAt": "2026-08-08T00:03:31Z",
-        "domain": "economist.com",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "低",
-        "newsLens": "技術",
-        "titleJa": "AIラボは危険な動物の飼い主のように扱われるべきですか？",
-        "summaryJa": "この記事は「AIラボは危険な動物の飼い主のように扱われるべきですか？」を扱っています。economist.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
-        "keyPoints": [
-          "この記事は「AIラボは危険な動物の飼い主のように扱われるべきですか。",
-          "economist.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
-        ]
       }
     ],
-    "fetchedAt": "2026-08-08T09:53:19.492Z",
+    "fetchedAt": "2026-08-08T13:11:25.828Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-08-08T09:53:19.492Z",
+    "fetchedAt": "2026-08-08T13:11:25.828Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-08-08T09:53:19.622Z"
+    "articleFetchedAt": "2026-08-08T13:11:25.955Z"
   }
 }
