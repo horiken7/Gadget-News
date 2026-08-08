@@ -2,6 +2,27 @@
   "news": {
     "items": [
       {
+        "title": "OpenAI says it slowed Astra model development over security concerns",
+        "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
+        "points": 133,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-08-07T22:48:24.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
+        "category": "AIモデル",
+        "impact": "高",
+        "titleJa": "OpenAIは、セキュリティ上の懸念からAstraモデルの開発を遅らせたと述べている",
+        "summaryJa": "この記事は「OpenAIは、セキュリティ上の懸念からAstraモデルの開発を遅らせたと述べている」を扱っています。OpenAIは、まだ開発中のこのモデルが「重要なサイバーセキュリティのしきい値」に達したと述べた。これは、伝統的に十分に保護された現実世界のシステムに対するサイバー攻撃を独立して識別し、実行できることを意味する。",
+        "keyPoints": [
+          "この記事は「OpenAIは、セキュリティ上の懸念からAstraモデルの開発を遅らせたと述べている」を扱っています。",
+          "OpenAIは、まだ開発中のこのモデルが「重要なサイバーセキュリティのしきい値」に達したと述べた。",
+          "これは、伝統的に十分に保護された現実世界のシステムに対するサイバー攻撃を独立して識別し、実行できることを意味する。"
+        ]
+      },
+      {
         "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
         "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
         "points": 107,
@@ -23,31 +44,10 @@
         ]
       },
       {
-        "title": "Jill Lepore on the ‘Artificial State’ and why Silicon Valley’s leaders are bad sci-fi readers",
-        "url": "https://techcrunch.com/podcast/jill-lepore-on-the-artificial-state-and-why-silicon-valleys-leaders-are-bad-sci-fi-readers/",
-        "points": 105,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-08-07T14:00:00.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
-        "category": "AIニュース",
-        "impact": "高",
-        "titleJa": "ジル・レポアが語る「人工国家」と、シリコンバレーのリーダーたちが悪いSF読者である理由",
-        "summaryJa": "この記事は「ジル・レポアが語る「人工国家」と、シリコンバレーのリーダーたちが悪いSF読者である理由」を扱っています。歴史家のジル・レポア（ Jill Lepore ）は、なぜハイテク企業が新政府を形成しているかのように、製品を説明するために急上昇する言葉を頻繁に使用するのかについての理論を持っています。そして、Twitterの古い「ポケットの中の町役場」やAnthropicのClaude憲法を考えているかどうかにかかわらず、それはシリコンバレーを非常にお世辞の光で描いていない理論です。",
-        "keyPoints": [
-          "この記事は「ジル・レポアが語る「人工国家」と、シリコンバレーのリーダーたちが悪いSF読者である理由」を扱っています。",
-          "歴史家のジル・レポア（ Jill Lepore ）は、なぜハイテク企業が新政府を形成しているかのように、製品を説明するために急上昇する言葉を頻繁に使用するのかについての理論を持っています。",
-          "そして、Twitterの古い「ポケットの中の町役場」やAnthropicのClaude憲法を考えているかどうかにかかわらず、それはシリコンバレーを非常にお世辞の光で描いていない理論です。"
-        ]
-      },
-      {
-        "title": "Databricks drove down AI coding spend 70%",
+        "title": "Managing AI Coding Costs at Scale",
         "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
         "points": 101,
-        "comments": 111,
+        "comments": 173,
         "author": "moonikakiss",
         "createdAt": "2026-08-07T18:25:17Z",
         "domain": "databricks.com",
@@ -55,10 +55,10 @@
         "category": "AIニュース",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "データブリックは、AIコーディングの支出を70 ％削減しました",
-        "summaryJa": "この記事は「データブリックは、AIコーディングの支出を70 ％削減しました」を扱っています。databricks.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "titleJa": "AIコーディングコストの大規模な管理",
+        "summaryJa": "この記事は「AIコーディングコストの大規模な管理」を扱っています。databricks.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
         "keyPoints": [
-          "この記事は「データブリックは、AIコーディングの支出を70 ％削減しました」を扱っています。",
+          "この記事は「AIコーディングコストの大規模な管理」を扱っています。",
           "databricks.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
           "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
@@ -66,7 +66,7 @@
       {
         "title": "I won't read LLM authored fiction",
         "url": "https://mccormick.cx/news/entries/why-i-won-t-read-llm-authored-fiction",
-        "points": 86,
+        "points": 87,
         "comments": 112,
         "author": "chr15m",
         "createdAt": "2026-08-07T07:45:56Z",
@@ -87,7 +87,7 @@
         "title": "DeepSeek V4 Flash 0731",
         "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
         "points": 73,
-        "comments": 189,
+        "comments": 287,
         "author": "tosh",
         "createdAt": "2026-08-07T17:56:20Z",
         "domain": "arcprize.org",
@@ -104,15 +104,15 @@
         ]
       }
     ],
-    "fetchedAt": "2026-08-07T21:54:46.795Z",
+    "fetchedAt": "2026-08-08T02:20:21.789Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-08-07T21:54:46.795Z",
+    "fetchedAt": "2026-08-08T02:20:21.789Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-08-07T21:54:46.928Z"
+    "articleFetchedAt": "2026-08-08T02:20:22.021Z"
   }
 }
