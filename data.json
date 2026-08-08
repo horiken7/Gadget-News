@@ -26,7 +26,7 @@
         "title": "Timeline of the OpenAI accidental attack against Hugging Face",
         "url": "https://simonwillison.net/2026/Aug/7/openai-timeline/",
         "points": 121,
-        "comments": 232,
+        "comments": 284,
         "author": "882542F3884314B",
         "createdAt": "2026-08-08T10:57:44Z",
         "domain": "simonwillison.net",
@@ -43,30 +43,30 @@
         ]
       },
       {
-        "title": "Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
-        "url": "https://twitter.com/un1c0rnioz/status/2084686552299634805",
-        "points": 70,
-        "comments": 101,
-        "author": "ilamont",
-        "createdAt": "2026-08-07T20:25:04Z",
-        "domain": "twitter.com",
+        "title": "Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
+        "url": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/",
+        "points": 73,
+        "comments": 174,
+        "author": "theanonymousone",
+        "createdAt": "2026-08-08T18:09:31Z",
+        "domain": "mezha.net",
         "sourceType": "hn",
-        "category": "AIモデル",
+        "category": "AIニュース",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "オフィスで携帯電話を紛失しました。Claudeは、Bluetoothの信号強度を追跡することを提案しました",
-        "summaryJa": "この記事は「オフィスで携帯電話を紛失しました。Claudeは、Bluetoothの信号強度を追跡することを提案しました」を扱っています。オフィスで携帯電話を紛失し、部屋をひっくり返すのに30分を費やしました。Find MyはMDMによって無効にされました。",
+        "titleJa": "デンマークは、AIの不正行為に対抗するために、学生の書面による作品に対する口頭弁護を必要としています",
+        "summaryJa": "この記事は「デンマークは、AIの不正行為に対抗するために、学生の書面による作品に対する口頭弁護を必要としています」を扱っています。デューホルムスコレンの学生は、2021年3月1日にデンマークのユトランド州ニコビン・モルスにある教室で撮影されています。この方針はすぐに有効になるが、教育者は、AIツールが進歩し続けるにつれて、最初の対応が進化しなければならないと述べている。",
         "keyPoints": [
-          "この記事は「オフィスで携帯電話を紛失しました。",
-          "Claudeは、Bluetoothの信号強度を追跡することを提案しました」を扱っています。",
-          "オフィスで携帯電話を紛失し、部屋をひっくり返すのに30分を費やしました。"
+          "この記事は「デンマークは、AIの不正行為に対抗するために、学生の書面による作品に対する口頭弁護を必要としています」を扱っています。",
+          "デューホルムスコレンの学生は、2021年3月1日にデンマークのユトランド州ニコビン・モルスにある教室で撮影されています。",
+          "この方針はすぐに有効になるが、教育者は、AIツールが進歩し続けるにつれて、最初の対応が進化しなければならないと述べている。"
         ]
       },
       {
         "title": "Gentoo bugzilla closed due AI bot scraper overload",
         "url": "https://social.treehouse.systems/@mgorny/117058483039362779",
-        "points": 69,
-        "comments": 78,
+        "points": 73,
+        "comments": 93,
         "author": "happosai",
         "createdAt": "2026-08-08T13:55:42Z",
         "domain": "social.treehouse.systems",
@@ -83,36 +83,36 @@
         ]
       },
       {
-        "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
-        "url": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
+        "title": "OpenAI acquires presentation startup NextSlide",
+        "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
         "points": 39,
         "comments": 0,
         "author": "",
-        "createdAt": "2026-08-07T21:30:11.000Z",
+        "createdAt": "2026-08-08T19:41:13.000Z",
         "domain": "techcrunch.com",
         "sourceType": "rss",
         "sourceLabel": "TechCrunch AI",
         "newsLens": "一般",
         "category": "AIニュース",
         "impact": "低",
-        "titleJa": "Ripplingは数カ月でAIに数百万ドルを費やした後、従業員のROIツールを構築しました",
-        "summaryJa": "この記事は「Ripplingは数カ月でAIに数百万ドルを費やした後、従業員のROIツールを構築しました」を扱っています。独自のAI使用の目覚ましコールの後、Ripplingは今週、個人とチームの従業員のAI支出を追跡する製品であるAI Spend Consoleを発表しました。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "titleJa": "OpenAIがプレゼンテーションスタートアップNextSlideを買収",
+        "summaryJa": "この記事は「OpenAIがプレゼンテーションスタートアップNextSlideを買収」を扱っています。NextSlideによると、同社のチームメンバーは現在ChatGPTに取り組んでいるという。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
-          "この記事は「Ripplingは数カ月でAIに数百万ドルを費やした後、従業員のROIツールを構築しました」を扱っています。",
-          "独自のAI使用の目覚ましコールの後、Ripplingは今週、個人とチームの従業員のAI支出を追跡する製品であるAI Spend Consoleを発表しました。",
+          "この記事は「OpenAIがプレゼンテーションスタートアップNextSlideを買収」を扱っています。",
+          "NextSlideによると、同社のチームメンバーは現在ChatGPTに取り組んでいるという。",
           "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       }
     ],
-    "fetchedAt": "2026-08-08T18:57:28.753Z",
+    "fetchedAt": "2026-08-08T21:44:57.254Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-08-08T18:57:28.753Z",
+    "fetchedAt": "2026-08-08T21:44:57.254Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-08-08T18:57:28.942Z"
+    "articleFetchedAt": "2026-08-08T21:44:57.406Z"
   }
 }
