@@ -26,7 +26,7 @@
         "title": "Timeline of the OpenAI accidental attack against Hugging Face",
         "url": "https://simonwillison.net/2026/Aug/7/openai-timeline/",
         "points": 121,
-        "comments": 148,
+        "comments": 232,
         "author": "882542F3884314B",
         "createdAt": "2026-08-08T10:57:44Z",
         "domain": "simonwillison.net",
@@ -43,76 +43,76 @@
         ]
       },
       {
-        "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
-        "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
-        "points": 107,
+        "title": "Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
+        "url": "https://twitter.com/un1c0rnioz/status/2084686552299634805",
+        "points": 70,
+        "comments": 101,
+        "author": "ilamont",
+        "createdAt": "2026-08-07T20:25:04Z",
+        "domain": "twitter.com",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "オフィスで携帯電話を紛失しました。Claudeは、Bluetoothの信号強度を追跡することを提案しました",
+        "summaryJa": "この記事は「オフィスで携帯電話を紛失しました。Claudeは、Bluetoothの信号強度を追跡することを提案しました」を扱っています。オフィスで携帯電話を紛失し、部屋をひっくり返すのに30分を費やしました。Find MyはMDMによって無効にされました。",
+        "keyPoints": [
+          "この記事は「オフィスで携帯電話を紛失しました。",
+          "Claudeは、Bluetoothの信号強度を追跡することを提案しました」を扱っています。",
+          "オフィスで携帯電話を紛失し、部屋をひっくり返すのに30分を費やしました。"
+        ]
+      },
+      {
+        "title": "Gentoo bugzilla closed due AI bot scraper overload",
+        "url": "https://social.treehouse.systems/@mgorny/117058483039362779",
+        "points": 69,
+        "comments": 78,
+        "author": "happosai",
+        "createdAt": "2026-08-08T13:55:42Z",
+        "domain": "social.treehouse.systems",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "Gentooバグジラは、AIボットスクレーパーの過負荷により閉鎖されました",
+        "summaryJa": "この記事は「Gentooバグジラは、AIボットスクレーパーの過負荷により閉鎖されました」を扱っています。とにかく使えなかったので、# Gentoo Bugzillaを倒しました。何千もの異なるIPv 4アドレスを使用している# LLMスクレーパーに供給する意味はありません。",
+        "keyPoints": [
+          "この記事は「Gentooバグジラは、AIボットスクレーパーの過負荷により閉鎖されました」を扱っています。",
+          "とにかく使えなかったので、# Gentoo Bugzillaを倒しました。",
+          "何千もの異なるIPv 4アドレスを使用している# LLMスクレーパーに供給する意味はありません。"
+        ]
+      },
+      {
+        "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
+        "url": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
+        "points": 39,
         "comments": 0,
         "author": "",
-        "createdAt": "2026-08-07T16:16:09.000Z",
+        "createdAt": "2026-08-07T21:30:11.000Z",
         "domain": "techcrunch.com",
         "sourceType": "rss",
         "sourceLabel": "TechCrunch AI",
         "newsLens": "一般",
         "category": "AIニュース",
-        "impact": "高",
-        "titleJa": "CloudflareがAIエージェント向けに構築されたブラウザKitesurfをリリース",
-        "summaryJa": "この記事は「CloudflareがAIエージェント向けに構築されたブラウザKitesurfをリリース」を扱っています。Kitesurfは、人ではなくAIエージェント向けに設計されたクラウドホストブラウザです。一般的な自動化タスクでは、Chromiumよりもコンピューティングパワーが少なく、開発者がブラウザベースのAIエージェントをより効率的に構築するのに役立ちます。",
+        "impact": "低",
+        "titleJa": "Ripplingは数カ月でAIに数百万ドルを費やした後、従業員のROIツールを構築しました",
+        "summaryJa": "この記事は「Ripplingは数カ月でAIに数百万ドルを費やした後、従業員のROIツールを構築しました」を扱っています。独自のAI使用の目覚ましコールの後、Ripplingは今週、個人とチームの従業員のAI支出を追跡する製品であるAI Spend Consoleを発表しました。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
-          "この記事は「CloudflareがAIエージェント向けに構築されたブラウザKitesurfをリリース」を扱っています。",
-          "Kitesurfは、人ではなくAIエージェント向けに設計されたクラウドホストブラウザです。",
-          "一般的な自動化タスクでは、Chromiumよりもコンピューティングパワーが少なく、開発者がブラウザベースのAIエージェントをより効率的に構築するのに役立ちます。"
-        ]
-      },
-      {
-        "title": "DeepSeek V4 Flash 0731",
-        "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
-        "points": 73,
-        "comments": 429,
-        "author": "tosh",
-        "createdAt": "2026-08-07T17:56:20Z",
-        "domain": "arcprize.org",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "AIニュース: DeepSeek V 4 Flash 0731",
-        "summaryJa": "この記事は「DeepSeek V 4 Flash 0731」を扱っています。ARC - AGI -1、ARC - AGI -2、およびARC - AGI -3にわたるDeepSeek V 4 Flash 0731推論バリアント。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
-        "keyPoints": [
-          "この記事は「DeepSeek V 4 Flash 0731」を扱っています。",
-          "ARC - AGI -1、ARC - AGI -2、およびARC - AGI -3にわたるDeepSeek V 4 Flash 0731推論バリアント。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
-        ]
-      },
-      {
-        "title": "Oracle bans AI-generated code from OpenJDK",
-        "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
-        "points": 73,
-        "comments": 359,
-        "author": "delduca",
-        "createdAt": "2026-08-07T17:36:30Z",
-        "domain": "app.dealroom.co",
-        "sourceType": "hn",
-        "category": "開発ツール",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "OracleがOpenJDKからAI生成コードを禁止",
-        "summaryJa": "この記事は「OracleがOpenJDKからAI生成コードを禁止」を扱っています。オラクルは、安全性、セキュリティ、知的財産のリスクを理由に、OpenJDKへの貢献からAI生成コードを禁止しました。オープンソースのJavaプロジェクトスチュワードによると、開発者はLLMを個人的に使用してコードのデバッグとレビューを行うことはできますが、AIが生成したマテリアルをリポジトリ、プルリクエスト、またはその他のプロジェクトチャネルに送信することはできません。",
-        "keyPoints": [
-          "この記事は「OracleがOpenJDKからAI生成コードを禁止」を扱っています。",
-          "オラクルは、安全性、セキュリティ、知的財産のリスクを理由に、OpenJDKへの貢献からAI生成コードを禁止しました。",
-          "オープンソースのJavaプロジェクトスチュワードによると、開発者はLLMを個人的に使用してコードのデバッグとレビューを行うことはできますが、AIが生成したマテリアルをリポジトリ、プルリクエスト、またはその他のプロジェクトチャネルに送信することはできません。"
+          "この記事は「Ripplingは数カ月でAIに数百万ドルを費やした後、従業員のROIツールを構築しました」を扱っています。",
+          "独自のAI使用の目覚ましコールの後、Ripplingは今週、個人とチームの従業員のAI支出を追跡する製品であるAI Spend Consoleを発表しました。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       }
     ],
-    "fetchedAt": "2026-08-08T15:44:29.450Z",
+    "fetchedAt": "2026-08-08T18:57:28.753Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-08-08T15:44:29.450Z",
+    "fetchedAt": "2026-08-08T18:57:28.753Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-08-08T15:44:29.600Z"
+    "articleFetchedAt": "2026-08-08T18:57:28.942Z"
   }
 }
