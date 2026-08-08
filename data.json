@@ -67,7 +67,7 @@
         "title": "DeepSeek V4 Flash 0731",
         "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
         "points": 73,
-        "comments": 311,
+        "comments": 343,
         "author": "tosh",
         "createdAt": "2026-08-07T17:56:20Z",
         "domain": "arcprize.org",
@@ -87,7 +87,7 @@
         "title": "Oracle bans AI-generated code from OpenJDK",
         "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
         "points": 73,
-        "comments": 284,
+        "comments": 307,
         "author": "delduca",
         "createdAt": "2026-08-07T17:36:30Z",
         "domain": "app.dealroom.co",
@@ -104,15 +104,15 @@
         ]
       }
     ],
-    "fetchedAt": "2026-08-08T04:20:32.016Z",
+    "fetchedAt": "2026-08-08T07:13:22.965Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-08-08T04:20:32.016Z",
+    "fetchedAt": "2026-08-08T07:13:22.965Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-08-08T04:20:32.152Z"
+    "articleFetchedAt": "2026-08-08T07:13:23.118Z"
   }
 }
