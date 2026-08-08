@@ -44,26 +44,6 @@
         ]
       },
       {
-        "title": "Managing AI Coding Costs at Scale",
-        "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
-        "points": 101,
-        "comments": 173,
-        "author": "moonikakiss",
-        "createdAt": "2026-08-07T18:25:17Z",
-        "domain": "databricks.com",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "AIコーディングコストの大規模な管理",
-        "summaryJa": "この記事は「AIコーディングコストの大規模な管理」を扱っています。databricks.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
-        "keyPoints": [
-          "この記事は「AIコーディングコストの大規模な管理」を扱っています。",
-          "databricks.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
-        ]
-      },
-      {
         "title": "I won't read LLM authored fiction",
         "url": "https://mccormick.cx/news/entries/why-i-won-t-read-llm-authored-fiction",
         "points": 87,
@@ -87,7 +67,7 @@
         "title": "DeepSeek V4 Flash 0731",
         "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
         "points": 73,
-        "comments": 287,
+        "comments": 311,
         "author": "tosh",
         "createdAt": "2026-08-07T17:56:20Z",
         "domain": "arcprize.org",
@@ -102,17 +82,37 @@
           "ARC - AGI -1、ARC - AGI -2、およびARC - AGI -3にわたるDeepSeek V 4 Flash 0731推論バリアント。",
           "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
+      },
+      {
+        "title": "Oracle bans AI-generated code from OpenJDK",
+        "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
+        "points": 73,
+        "comments": 284,
+        "author": "delduca",
+        "createdAt": "2026-08-07T17:36:30Z",
+        "domain": "app.dealroom.co",
+        "sourceType": "hn",
+        "category": "開発ツール",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "OracleがOpenJDKからAI生成コードを禁止",
+        "summaryJa": "この記事は「OracleがOpenJDKからAI生成コードを禁止」を扱っています。オラクルは、安全性、セキュリティ、知的財産のリスクを理由に、OpenJDKへの貢献からAI生成コードを禁止しました。オープンソースのJavaプロジェクトスチュワードによると、開発者はLLMを個人的に使用してコードのデバッグとレビューを行うことはできますが、AIが生成したマテリアルをリポジトリ、プルリクエスト、またはその他のプロジェクトチャネルに送信することはできません。",
+        "keyPoints": [
+          "この記事は「OracleがOpenJDKからAI生成コードを禁止」を扱っています。",
+          "オラクルは、安全性、セキュリティ、知的財産のリスクを理由に、OpenJDKへの貢献からAI生成コードを禁止しました。",
+          "オープンソースのJavaプロジェクトスチュワードによると、開発者はLLMを個人的に使用してコードのデバッグとレビューを行うことはできますが、AIが生成したマテリアルをリポジトリ、プルリクエスト、またはその他のプロジェクトチャネルに送信することはできません。"
+        ]
       }
     ],
-    "fetchedAt": "2026-08-08T02:20:21.789Z",
+    "fetchedAt": "2026-08-08T04:20:32.016Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-08-08T02:20:21.789Z",
+    "fetchedAt": "2026-08-08T04:20:32.016Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-08-08T02:20:22.021Z"
+    "articleFetchedAt": "2026-08-08T04:20:32.152Z"
   }
 }
