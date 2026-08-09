@@ -5,7 +5,7 @@
         "title": "Timeline of the OpenAI accidental attack against Hugging Face",
         "url": "https://simonwillison.net/2026/Aug/7/openai-timeline/",
         "points": 121,
-        "comments": 361,
+        "comments": 371,
         "author": "882542F3884314B",
         "createdAt": "2026-08-08T10:57:44Z",
         "domain": "simonwillison.net",
@@ -42,16 +42,36 @@
         ]
       },
       {
+        "title": "ChatGPT starts blocking direct requests to copy an author's style",
+        "url": "https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/",
+        "points": 72,
+        "comments": 24,
+        "author": "Eloissssss",
+        "createdAt": "2026-08-09T02:01:38Z",
+        "domain": "arstechnica.com",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "低",
+        "newsLens": "技術",
+        "titleJa": "ChatGPTは、作成者のスタイルをコピーする直接要求をブロックし始めます",
+        "summaryJa": "この記事は「ChatGPTは、作成者のスタイルをコピーする直接要求をブロックし始めます」を扱っています。作家の「幅広い資質」を捉えた新しい行動は、法的な意味を持つ可能性がある。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "keyPoints": [
+          "この記事は「ChatGPTは、作成者のスタイルをコピーする直接要求をブロックし始めます」を扱っています。",
+          "作家の「幅広い資質」を捉えた新しい行動は、法的な意味を持つ可能性がある。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+        ]
+      },
+      {
         "title": "Message your other Claude Code sessions",
         "url": "https://code.claude.com/docs/en/cross-session-messaging",
-        "points": 62,
-        "comments": 37,
+        "points": 68,
+        "comments": 44,
         "author": "mfiguiere",
         "createdAt": "2026-08-08T15:34:49Z",
         "domain": "code.claude.com",
         "sourceType": "hn",
         "category": "AIモデル",
-        "impact": "中",
+        "impact": "高",
         "newsLens": "技術",
         "titleJa": "他のClaude Codeセッションにメッセージを送る",
         "summaryJa": "この記事は「他のClaude Codeセッションにメッセージを送る」を扱っています。1台のマシンで他のClaude Codeセッションをリストしてメッセージを送信したり、リモートコントロールを介して他のマシンまたはWeb上のセッションに返信したりできます。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
@@ -59,26 +79,6 @@
           "この記事は「他のClaude Codeセッションにメッセージを送る」を扱っています。",
           "1台のマシンで他のClaude Codeセッションをリストしてメッセージを送信したり、リモートコントロールを介して他のマシンまたはWeb上のセッションに返信したりできます。",
           "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
-        ]
-      },
-      {
-        "title": "The AI Apocalypse Is Here",
-        "url": "https://www.compactmag.com/article/the-ai-apocalypse-is-already-here/",
-        "points": 49,
-        "comments": 26,
-        "author": "reasonableklout",
-        "createdAt": "2026-08-09T01:28:36Z",
-        "domain": "compactmag.com",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "低",
-        "newsLens": "技術",
-        "titleJa": "世界の終末が到来した。",
-        "summaryJa": "この記事は「世界の終末が到来した。」を扱っています。アメリカ人は人工知能を気にしていません。最近の世論調査では、彼らの態度は主に曖昧さから恐怖までさまざまであることが示されています。",
-        "keyPoints": [
-          "この記事は「世界の終末が到来した。",
-          "アメリカ人は人工知能を気にしていません。",
-          "最近の世論調査では、彼らの態度は主に曖昧さから恐怖までさまざまであることが示されています。"
         ]
       },
       {
@@ -103,15 +103,15 @@
         ]
       }
     ],
-    "fetchedAt": "2026-08-09T04:35:52.568Z",
+    "fetchedAt": "2026-08-09T07:14:56.676Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-08-09T04:35:52.568Z",
+    "fetchedAt": "2026-08-09T07:14:56.676Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-08-09T04:35:52.697Z"
+    "articleFetchedAt": "2026-08-09T07:14:56.873Z"
   }
 }
