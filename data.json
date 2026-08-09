@@ -23,10 +23,31 @@
         ]
       },
       {
-        "title": "Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
+        "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
+        "url": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
+        "points": 89,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-08-09T20:35:17.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
+        "category": "ハードウェア",
+        "impact": "高",
+        "titleJa": "困難に直面しているヘッジファンドのSituational Awarenessが、チップのスタートアップSource Foundryに4億$を投資",
+        "summaryJa": "この記事は「困難に直面しているヘッジファンドのSituational Awarenessが、チップのスタートアップSource Foundryに4億$を投資」を扱っています。AIに焦点を当てたヘッジファンドは、まだいくつかの大きな賭けをしています。一般向けには、AIがソフトウェアだけでなく、ロボットや端末など現実の製品に広がっている点が重要です。",
+        "keyPoints": [
+          "この記事は「困難に直面しているヘッジファンドのSituational Awarenessが、チップのスタートアップSource Foundryに4億$を投資」を扱っています。",
+          "AIに焦点を当てたヘッジファンドは、まだいくつかの大きな賭けをしています。",
+          "一般向けには、AIがソフトウェアだけでなく、ロボットや端末など現実の製品に広がっている点が重要です。"
+        ]
+      },
+      {
+        "title": "SAP stops most travel and hiring because of AI's soaring cost",
         "url": "https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost/",
-        "points": 62,
-        "comments": 62,
+        "points": 63,
+        "comments": 67,
         "author": "theanonymousone",
         "createdAt": "2026-08-09T08:00:51Z",
         "domain": "404media.co",
@@ -34,85 +55,64 @@
         "category": "AIニュース",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "ソフトウェア大手SAPは、AIの急騰するコストのために、ほとんどの出張と雇用を停止します",
-        "summaryJa": "この記事は「ソフトウェア大手SAPは、AIの急騰するコストのために、ほとんどの出張と雇用を停止します」を扱っています。SAPは、「支出方法を規律する必要がある」と述べています。「これには、まだ雇用と出張を凍結することが含まれます。",
+        "titleJa": "SAPは、AIの急増するコストのためにほとんどの出張と雇用を停止します",
+        "summaryJa": "この記事は「SAPは、AIの急増するコストのためにほとんどの出張と雇用を停止します」を扱っています。SAPは、「支出方法を規律する必要がある」と述べています。「これには、まだ雇用と出張を凍結することが含まれます。",
         "keyPoints": [
-          "この記事は「ソフトウェア大手SAPは、AIの急騰するコストのために、ほとんどの出張と雇用を停止します」を扱っています。",
+          "この記事は「SAPは、AIの急増するコストのためにほとんどの出張と雇用を停止します」を扱っています。",
           "SAPは、「支出方法を規律する必要がある」と述べています。",
           "「これには、まだ雇用と出張を凍結することが含まれます。"
         ]
       },
       {
-        "title": "Amazon circumvents Gilroy community vote for AI data center",
-        "url": "https://www.tomshardware.com/tech-industry/data-centers/amazon-secretly-circumvents-community-vote-for-massive-ai-data-center-45-year-old-rules-lock-gilroy-residents-out-of-public-comment-window",
-        "points": 55,
-        "comments": 61,
-        "author": "mikhael",
-        "createdAt": "2026-08-09T12:52:10Z",
-        "domain": "tomshardware.com",
+        "title": "Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta",
+        "url": "https://www.cnbc.com/2026/08/09/israeli-startup-irregular-linked-to-ai-hacks-openai-anthropic-meta.html",
+        "points": 33,
+        "comments": 17,
+        "author": "cramer4next",
+        "createdAt": "2026-08-09T13:03:49Z",
+        "domain": "cnbc.com",
         "sourceType": "hn",
         "category": "AIニュース",
         "impact": "低",
         "newsLens": "技術",
-        "titleJa": "アマゾン、AIデータセンターに対するギルロイコミュニティの投票を回避",
-        "summaryJa": "この記事は「アマゾン、AIデータセンターに対するギルロイコミュニティの投票を回避」を扱っています。tomshardware.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "titleJa": "イスラエルのスタートアップは、OpenAI、Anthropic、Metaの不正なAIハッキングに関連していた",
+        "summaryJa": "この記事は「イスラエルのスタートアップは、OpenAI、Anthropic、Metaの不正なAIハッキングに関連していた」を扱っています。OpenAI、Anthropic、Metaを含む不正なAI攻撃はすべて、Irregularというイスラエルの小さなスタートアップに関連しています。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
         "keyPoints": [
-          "この記事は「アマゾン、AIデータセンターに対するギルロイコミュニティの投票を回避」を扱っています。",
-          "tomshardware.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "この記事は「イスラエルのスタートアップは、OpenAI、Anthropic、Metaの不正なAIハッキングに関連していた」を扱っています。",
+          "OpenAI、Anthropic、Metaを含む不正なAI攻撃はすべて、Irregularというイスラエルの小さなスタートアップに関連しています。",
           "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
       },
       {
-        "title": "Show HN: DeepSeek-V4 Latent Reasoning – moving \"thinking\" into latent space",
-        "url": "https://blog.n.ichol.ai/packaging-latent-reasoning-as-a-real-model",
-        "points": 48,
-        "comments": 23,
-        "author": "nmitchko",
-        "createdAt": "2026-08-09T11:46:28Z",
-        "domain": "blog.n.ichol.ai",
+        "title": "70% of AI revenue comes from OpenAI and Anthropic [video]",
+        "url": "https://www.youtube.com/watch?v=68X8yEatepQ",
+        "points": -33,
+        "comments": 78,
+        "author": "johnbarron",
+        "createdAt": "2026-08-09T11:56:16Z",
+        "domain": "youtube.com",
         "sourceType": "hn",
         "category": "AIニュース",
-        "impact": "低",
+        "impact": "中",
         "newsLens": "技術",
-        "titleJa": "HNを表示： DeepSeek - V 4潜在的推論–潜在的空間への「思考」の移行",
-        "summaryJa": "この記事は「HNを表示： DeepSeek - V 4潜在的推論–潜在的空間への「思考」の移行」を扱っています。潜在空間での思考を行う自己完結型モデル、NVFP 4量子化、ランタイムを提供するための本番vllmフォーム。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "titleJa": "AI収益の70 ％はOpenAIとAnthropicからのものです[VIDEO]",
+        "summaryJa": "この記事は「AI収益の70 ％はOpenAIとAnthropicからのものです[VIDEO]」を扱っています。お気に入りの動画や音楽を楽しんだり、オリジナルコンテンツをアップロードしたり、YouTubeで友達や家族、世界中の人と共有したりできます。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
         "keyPoints": [
-          "この記事は「HNを表示： DeepSeek - V 4潜在的推論–潜在的空間への「思考」の移行」を扱っています。",
-          "潜在空間での思考を行う自己完結型モデル、NVFP 4量子化、ランタイムを提供するための本番vllmフォーム。",
+          "この記事は「AI収益の70 ％はOpenAIとAnthropicからのものです[VIDEO]」を扱っています。",
+          "お気に入りの動画や音楽を楽しんだり、オリジナルコンテンツをアップロードしたり、YouTubeで友達や家族、世界中の人と共有したりできます。",
           "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
-        ]
-      },
-      {
-        "title": "OpenAI acquires presentation startup NextSlide",
-        "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
-        "points": 39,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-08-08T19:41:13.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
-        "category": "AIニュース",
-        "impact": "低",
-        "titleJa": "OpenAIがプレゼンテーションスタートアップNextSlideを買収",
-        "summaryJa": "この記事は「OpenAIがプレゼンテーションスタートアップNextSlideを買収」を扱っています。NextSlideによると、同社のチームメンバーは現在ChatGPTに取り組んでいるという。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
-        "keyPoints": [
-          "この記事は「OpenAIがプレゼンテーションスタートアップNextSlideを買収」を扱っています。",
-          "NextSlideによると、同社のチームメンバーは現在ChatGPTに取り組んでいるという。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       }
     ],
-    "fetchedAt": "2026-08-09T18:59:48.965Z",
+    "fetchedAt": "2026-08-09T21:46:39.798Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-08-09T18:59:48.965Z",
+    "fetchedAt": "2026-08-09T21:46:39.798Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-08-09T18:59:49.215Z"
+    "articleFetchedAt": "2026-08-09T21:46:39.948Z"
   }
 }
