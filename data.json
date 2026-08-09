@@ -2,117 +2,117 @@
   "news": {
     "items": [
       {
-        "title": "Gentoo bugzilla closed due AI bot scraper overload",
-        "url": "https://social.treehouse.systems/@mgorny/117058483039362779",
-        "points": 73,
-        "comments": 109,
-        "author": "happosai",
-        "createdAt": "2026-08-08T13:55:42Z",
-        "domain": "social.treehouse.systems",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "Gentooバグジラは、AIボットスクレーパーの過負荷により閉鎖されました",
-        "summaryJa": "この記事は「Gentooバグジラは、AIボットスクレーパーの過負荷により閉鎖されました」を扱っています。とにかく使えなかったので、# Gentoo Bugzillaを倒しました。何千もの異なるIPv 4アドレスを使用している# LLMスクレーパーに供給する意味はありません。",
-        "keyPoints": [
-          "この記事は「Gentooバグジラは、AIボットスクレーパーの過負荷により閉鎖されました」を扱っています。",
-          "とにかく使えなかったので、# Gentoo Bugzillaを倒しました。",
-          "何千もの異なるIPv 4アドレスを使用している# LLMスクレーパーに供給する意味はありません。"
-        ]
-      },
-      {
-        "title": "Message your other Claude Code sessions",
-        "url": "https://code.claude.com/docs/en/cross-session-messaging",
-        "points": 73,
-        "comments": 60,
-        "author": "mfiguiere",
-        "createdAt": "2026-08-08T15:34:49Z",
-        "domain": "code.claude.com",
-        "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "他のClaude Codeセッションにメッセージを送る",
-        "summaryJa": "この記事は「他のClaude Codeセッションにメッセージを送る」を扱っています。1台のマシンで他のClaude Codeセッションをリストしてメッセージを送信したり、リモートコントロールを介して他のマシンまたはWeb上のセッションに返信したりできます。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
-        "keyPoints": [
-          "この記事は「他のClaude Codeセッションにメッセージを送る」を扱っています。",
-          "1台のマシンで他のClaude Codeセッションをリストしてメッセージを送信したり、リモートコントロールを介して他のマシンまたはWeb上のセッションに返信したりできます。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
-        ]
-      },
-      {
-        "title": "Auto mode is now the default in Claude Code for Pro, Max, and Team plans",
-        "url": "https://simonwillison.net/2026/Aug/8/auto-mode/",
-        "points": 65,
-        "comments": 5,
-        "author": "spenvo",
-        "createdAt": "2026-08-09T00:39:17Z",
-        "domain": "simonwillison.net",
-        "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "低",
-        "newsLens": "技術",
-        "titleJa": "Pro、Max、TeamプランのClaude Codeでは、自動モードがデフォルトになりました",
-        "summaryJa": "この記事は「Pro、Max、TeamプランのClaude Codeでは、自動モードがデフォルトになりました」を扱っています。Anthropicは、Claude Codeの自動モードに非常に自信を持っています。ほとんどのClaude Codeプランでは、次の日から新しいセッションのデフォルト設定になっています…。",
-        "keyPoints": [
-          "この記事は「Pro、Max、TeamプランのClaude Codeでは、自動モードがデフォルトになりました」を扱っています。",
-          "Anthropicは、Claude Codeの自動モードに非常に自信を持っています。",
-          "ほとんどのClaude Codeプランでは、次の日から新しいセッションのデフォルト設定になっています…。"
-        ]
-      },
-      {
-        "title": "Ramalan Zodiak Hari Ini Minggu 9 Agustus 2026 : Leo Berpeluang Dapat Rezeki , Gemini Jangan Terburu - buru",
-        "url": "https://www.tabloidbintang.com/film-tv-musik/217598-ramalan-zodiak-hari-ini-minggu-9-agustus-2026-leo-berpeluang-dapat-rezeki-gemini-jangan-terburu-buru",
-        "points": 53,
+        "title": "The AI safety test is becoming a safety risk",
+        "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
+        "points": 133,
         "comments": 0,
         "author": "",
-        "createdAt": "2026-08-09T12:45:00Z",
-        "domain": "tabloidbintang.com",
-        "sourceType": "gdelt",
-        "sourceLabel": "GDELT",
-        "category": "AIモデル",
-        "impact": "低",
+        "createdAt": "2026-08-09T14:30:00.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
         "newsLens": "一般",
-        "titleJa": "AIニュース: Ramalan Zodiak Hari Ini Minggu 9 Agustus 2026 ： Leo Berpeluang Dapat Rezeki、Gemini Jangan Terburu - buru",
-        "summaryJa": "この記事は「Ramalan Zodiak Hari Ini Minggu 9 Agustus 2026 ： Leo Berpeluang Dapat Rezeki、Gemini Jangan Terburu - buru」を扱っています。tabloidbintang.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "category": "AIニュース",
+        "impact": "高",
+        "titleJa": "AIの安全性テストが安全性リスクになりつつあります",
+        "summaryJa": "この記事は「AIの安全性テストが安全性リスクになりつつあります」を扱っています。AIエージェントは、サイバーセキュリティテスト環境から逃れ、現実のシステムに到達しており、安全インフラストラクチャ、業界標準、規制がますます強力になるモデルに追いつくことができるかどうかについての疑問を提起しています。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
-          "この記事は「Ramalan Zodiak Hari Ini Minggu 9 Agustus 2026 ： Leo Berpeluang Dapat Rezeki、Gemini Jangan Terburu - buru」を扱っています。",
-          "tabloidbintang.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "この記事は「AIの安全性テストが安全性リスクになりつつあります」を扱っています。",
+          "AIエージェントは、サイバーセキュリティテスト環境から逃れ、現実のシステムに到達しており、安全インフラストラクチャ、業界標準、規制がますます強力になるモデルに追いつくことができるかどうかについての疑問を提起しています。",
           "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       },
       {
-        "title": "O que dá para fazer com o ChatGPT grátis com chats ilimitados ?",
-        "url": "https://www.tecmundo.com.br/software/415150-o-que-da-para-fazer-com-o-chatgpt-gratis-com-chats-ilimitados.htm",
-        "points": 53,
+        "title": "Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
+        "url": "https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost/",
+        "points": 59,
+        "comments": 56,
+        "author": "theanonymousone",
+        "createdAt": "2026-08-09T08:00:51Z",
+        "domain": "404media.co",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "中",
+        "newsLens": "技術",
+        "titleJa": "ソフトウェア大手SAPは、AIの急騰するコストのために、ほとんどの出張と雇用を停止します",
+        "summaryJa": "この記事は「ソフトウェア大手SAPは、AIの急騰するコストのために、ほとんどの出張と雇用を停止します」を扱っています。SAPは、「支出方法を規律する必要がある」と述べています。「これには、まだ雇用と出張を凍結することが含まれます。",
+        "keyPoints": [
+          "この記事は「ソフトウェア大手SAPは、AIの急騰するコストのために、ほとんどの出張と雇用を停止します」を扱っています。",
+          "SAPは、「支出方法を規律する必要がある」と述べています。",
+          "「これには、まだ雇用と出張を凍結することが含まれます。"
+        ]
+      },
+      {
+        "title": "Amazon circumvents Gilroy community vote for AI data center",
+        "url": "https://www.tomshardware.com/tech-industry/data-centers/amazon-secretly-circumvents-community-vote-for-massive-ai-data-center-45-year-old-rules-lock-gilroy-residents-out-of-public-comment-window",
+        "points": 54,
+        "comments": 57,
+        "author": "mikhael",
+        "createdAt": "2026-08-09T12:52:10Z",
+        "domain": "tomshardware.com",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "低",
+        "newsLens": "技術",
+        "titleJa": "アマゾン、AIデータセンターに対するギルロイコミュニティの投票を回避",
+        "summaryJa": "この記事は「アマゾン、AIデータセンターに対するギルロイコミュニティの投票を回避」を扱っています。tomshardware.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "keyPoints": [
+          "この記事は「アマゾン、AIデータセンターに対するギルロイコミュニティの投票を回避」を扱っています。",
+          "tomshardware.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+        ]
+      },
+      {
+        "title": "Show HN: DeepSeek-V4 Latent Reasoning – moving \"thinking\" into latent space",
+        "url": "https://blog.n.ichol.ai/packaging-latent-reasoning-as-a-real-model",
+        "points": 48,
+        "comments": 22,
+        "author": "nmitchko",
+        "createdAt": "2026-08-09T11:46:28Z",
+        "domain": "blog.n.ichol.ai",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "低",
+        "newsLens": "技術",
+        "titleJa": "HNを表示： DeepSeek - V 4潜在的推論–潜在的空間への「思考」の移行",
+        "summaryJa": "この記事は「HNを表示： DeepSeek - V 4潜在的推論–潜在的空間への「思考」の移行」を扱っています。潜在空間での思考を行う自己完結型モデル、NVFP 4量子化、ランタイムを提供するための本番vllmフォーム。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "keyPoints": [
+          "この記事は「HNを表示： DeepSeek - V 4潜在的推論–潜在的空間への「思考」の移行」を扱っています。",
+          "潜在空間での思考を行う自己完結型モデル、NVFP 4量子化、ランタイムを提供するための本番vllmフォーム。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+        ]
+      },
+      {
+        "title": "OpenAI acquires presentation startup NextSlide",
+        "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
+        "points": 39,
         "comments": 0,
         "author": "",
-        "createdAt": "2026-08-09T12:45:00Z",
-        "domain": "tecmundo.com.br",
-        "sourceType": "gdelt",
-        "sourceLabel": "GDELT",
-        "category": "AIモデル",
-        "impact": "低",
+        "createdAt": "2026-08-08T19:41:13.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
         "newsLens": "一般",
-        "titleJa": "AIニュース: O que dá para fazer com o ChatGPT grátis com chats ilimitados?",
-        "summaryJa": "この記事は「O que dá para fazer com o ChatGPT grátis com chats ilimitados?」を扱っています。tecmundo.com.brが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "category": "AIニュース",
+        "impact": "低",
+        "titleJa": "OpenAIがプレゼンテーションスタートアップNextSlideを買収",
+        "summaryJa": "この記事は「OpenAIがプレゼンテーションスタートアップNextSlideを買収」を扱っています。NextSlideによると、同社のチームメンバーは現在ChatGPTに取り組んでいるという。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
-          "この記事は「O que dá para fazer com o ChatGPT grátis com chats ilimitados?」を扱っています。",
-          "tecmundo.com.brが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "この記事は「OpenAIがプレゼンテーションスタートアップNextSlideを買収」を扱っています。",
+          "NextSlideによると、同社のチームメンバーは現在ChatGPTに取り組んでいるという。",
           "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       }
     ],
-    "fetchedAt": "2026-08-09T13:14:53.889Z",
+    "fetchedAt": "2026-08-09T15:46:03.933Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-08-09T13:14:53.888Z",
+    "fetchedAt": "2026-08-09T15:46:03.933Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-08-09T13:14:54.022Z"
+    "articleFetchedAt": "2026-08-09T15:46:04.168Z"
   }
 }
