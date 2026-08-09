@@ -5,7 +5,7 @@
         "title": "Timeline of the OpenAI accidental attack against Hugging Face",
         "url": "https://simonwillison.net/2026/Aug/7/openai-timeline/",
         "points": 121,
-        "comments": 371,
+        "comments": 378,
         "author": "882542F3884314B",
         "createdAt": "2026-08-08T10:57:44Z",
         "domain": "simonwillison.net",
@@ -19,6 +19,26 @@
           "この記事は「ハグしている顔に対するOpenAIの偶発的な攻撃のタイムライン」を扱っています。",
           "OpenAIは、水曜日にBlack Hatセキュリティで「抱擁顔事件」（以前はこのブログで）について土壇場でプレゼンテーションを行いました。",
           "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+        ]
+      },
+      {
+        "title": "ChatGPT starts blocking direct requests to copy an author's style",
+        "url": "https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/",
+        "points": 75,
+        "comments": 33,
+        "author": "Eloissssss",
+        "createdAt": "2026-08-09T02:01:38Z",
+        "domain": "arstechnica.com",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "低",
+        "newsLens": "技術",
+        "titleJa": "ChatGPTは、作成者のスタイルをコピーする直接要求をブロックし始めます",
+        "summaryJa": "この記事は「ChatGPTは、作成者のスタイルをコピーする直接要求をブロックし始めます」を扱っています。作家の「幅広い資質」を捉えた新しい行動は、法的な意味を持つ可能性がある。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "keyPoints": [
+          "この記事は「ChatGPTは、作成者のスタイルをコピーする直接要求をブロックし始めます」を扱っています。",
+          "作家の「幅広い資質」を捉えた新しい行動は、法的な意味を持つ可能性がある。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
       },
       {
@@ -42,30 +62,10 @@
         ]
       },
       {
-        "title": "ChatGPT starts blocking direct requests to copy an author's style",
-        "url": "https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/",
-        "points": 72,
-        "comments": 24,
-        "author": "Eloissssss",
-        "createdAt": "2026-08-09T02:01:38Z",
-        "domain": "arstechnica.com",
-        "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "低",
-        "newsLens": "技術",
-        "titleJa": "ChatGPTは、作成者のスタイルをコピーする直接要求をブロックし始めます",
-        "summaryJa": "この記事は「ChatGPTは、作成者のスタイルをコピーする直接要求をブロックし始めます」を扱っています。作家の「幅広い資質」を捉えた新しい行動は、法的な意味を持つ可能性がある。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
-        "keyPoints": [
-          "この記事は「ChatGPTは、作成者のスタイルをコピーする直接要求をブロックし始めます」を扱っています。",
-          "作家の「幅広い資質」を捉えた新しい行動は、法的な意味を持つ可能性がある。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
-        ]
-      },
-      {
         "title": "Message your other Claude Code sessions",
         "url": "https://code.claude.com/docs/en/cross-session-messaging",
-        "points": 68,
-        "comments": 44,
+        "points": 73,
+        "comments": 54,
         "author": "mfiguiere",
         "createdAt": "2026-08-08T15:34:49Z",
         "domain": "code.claude.com",
@@ -103,15 +103,15 @@
         ]
       }
     ],
-    "fetchedAt": "2026-08-09T07:14:56.676Z",
+    "fetchedAt": "2026-08-09T09:55:13.372Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-08-09T07:14:56.676Z",
+    "fetchedAt": "2026-08-09T09:55:13.372Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-08-09T07:14:56.873Z"
+    "articleFetchedAt": "2026-08-09T09:55:13.513Z"
   }
 }
