@@ -25,14 +25,14 @@
       {
         "title": "Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
         "url": "https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost/",
-        "points": 59,
-        "comments": 56,
+        "points": 62,
+        "comments": 62,
         "author": "theanonymousone",
         "createdAt": "2026-08-09T08:00:51Z",
         "domain": "404media.co",
         "sourceType": "hn",
         "category": "AIニュース",
-        "impact": "中",
+        "impact": "高",
         "newsLens": "技術",
         "titleJa": "ソフトウェア大手SAPは、AIの急騰するコストのために、ほとんどの出張と雇用を停止します",
         "summaryJa": "この記事は「ソフトウェア大手SAPは、AIの急騰するコストのために、ほとんどの出張と雇用を停止します」を扱っています。SAPは、「支出方法を規律する必要がある」と述べています。「これには、まだ雇用と出張を凍結することが含まれます。",
@@ -45,8 +45,8 @@
       {
         "title": "Amazon circumvents Gilroy community vote for AI data center",
         "url": "https://www.tomshardware.com/tech-industry/data-centers/amazon-secretly-circumvents-community-vote-for-massive-ai-data-center-45-year-old-rules-lock-gilroy-residents-out-of-public-comment-window",
-        "points": 54,
-        "comments": 57,
+        "points": 55,
+        "comments": 61,
         "author": "mikhael",
         "createdAt": "2026-08-09T12:52:10Z",
         "domain": "tomshardware.com",
@@ -66,7 +66,7 @@
         "title": "Show HN: DeepSeek-V4 Latent Reasoning – moving \"thinking\" into latent space",
         "url": "https://blog.n.ichol.ai/packaging-latent-reasoning-as-a-real-model",
         "points": 48,
-        "comments": 22,
+        "comments": 23,
         "author": "nmitchko",
         "createdAt": "2026-08-09T11:46:28Z",
         "domain": "blog.n.ichol.ai",
@@ -104,15 +104,15 @@
         ]
       }
     ],
-    "fetchedAt": "2026-08-09T15:46:03.933Z",
+    "fetchedAt": "2026-08-09T18:59:48.965Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-08-09T15:46:03.933Z",
+    "fetchedAt": "2026-08-09T18:59:48.965Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-08-09T15:46:04.168Z"
+    "articleFetchedAt": "2026-08-09T18:59:49.215Z"
   }
 }
