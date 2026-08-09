@@ -2,50 +2,10 @@
   "news": {
     "items": [
       {
-        "title": "Timeline of the OpenAI accidental attack against Hugging Face",
-        "url": "https://simonwillison.net/2026/Aug/7/openai-timeline/",
-        "points": 121,
-        "comments": 378,
-        "author": "882542F3884314B",
-        "createdAt": "2026-08-08T10:57:44Z",
-        "domain": "simonwillison.net",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "ハグしている顔に対するOpenAIの偶発的な攻撃のタイムライン",
-        "summaryJa": "この記事は「ハグしている顔に対するOpenAIの偶発的な攻撃のタイムライン」を扱っています。OpenAIは、水曜日にBlack Hatセキュリティで「抱擁顔事件」（以前はこのブログで）について土壇場でプレゼンテーションを行いました。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
-        "keyPoints": [
-          "この記事は「ハグしている顔に対するOpenAIの偶発的な攻撃のタイムライン」を扱っています。",
-          "OpenAIは、水曜日にBlack Hatセキュリティで「抱擁顔事件」（以前はこのブログで）について土壇場でプレゼンテーションを行いました。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
-        ]
-      },
-      {
-        "title": "ChatGPT starts blocking direct requests to copy an author's style",
-        "url": "https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/",
-        "points": 75,
-        "comments": 33,
-        "author": "Eloissssss",
-        "createdAt": "2026-08-09T02:01:38Z",
-        "domain": "arstechnica.com",
-        "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "低",
-        "newsLens": "技術",
-        "titleJa": "ChatGPTは、作成者のスタイルをコピーする直接要求をブロックし始めます",
-        "summaryJa": "この記事は「ChatGPTは、作成者のスタイルをコピーする直接要求をブロックし始めます」を扱っています。作家の「幅広い資質」を捉えた新しい行動は、法的な意味を持つ可能性がある。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
-        "keyPoints": [
-          "この記事は「ChatGPTは、作成者のスタイルをコピーする直接要求をブロックし始めます」を扱っています。",
-          "作家の「幅広い資質」を捉えた新しい行動は、法的な意味を持つ可能性がある。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
-        ]
-      },
-      {
         "title": "Gentoo bugzilla closed due AI bot scraper overload",
         "url": "https://social.treehouse.systems/@mgorny/117058483039362779",
         "points": 73,
-        "comments": 106,
+        "comments": 109,
         "author": "happosai",
         "createdAt": "2026-08-08T13:55:42Z",
         "domain": "social.treehouse.systems",
@@ -65,7 +25,7 @@
         "title": "Message your other Claude Code sessions",
         "url": "https://code.claude.com/docs/en/cross-session-messaging",
         "points": 73,
-        "comments": 54,
+        "comments": 60,
         "author": "mfiguiere",
         "createdAt": "2026-08-08T15:34:49Z",
         "domain": "code.claude.com",
@@ -82,36 +42,77 @@
         ]
       },
       {
-        "title": "OpenAI acquires presentation startup NextSlide",
-        "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
-        "points": 39,
+        "title": "Auto mode is now the default in Claude Code for Pro, Max, and Team plans",
+        "url": "https://simonwillison.net/2026/Aug/8/auto-mode/",
+        "points": 65,
+        "comments": 5,
+        "author": "spenvo",
+        "createdAt": "2026-08-09T00:39:17Z",
+        "domain": "simonwillison.net",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "低",
+        "newsLens": "技術",
+        "titleJa": "Pro、Max、TeamプランのClaude Codeでは、自動モードがデフォルトになりました",
+        "summaryJa": "この記事は「Pro、Max、TeamプランのClaude Codeでは、自動モードがデフォルトになりました」を扱っています。Anthropicは、Claude Codeの自動モードに非常に自信を持っています。ほとんどのClaude Codeプランでは、次の日から新しいセッションのデフォルト設定になっています…。",
+        "keyPoints": [
+          "この記事は「Pro、Max、TeamプランのClaude Codeでは、自動モードがデフォルトになりました」を扱っています。",
+          "Anthropicは、Claude Codeの自動モードに非常に自信を持っています。",
+          "ほとんどのClaude Codeプランでは、次の日から新しいセッションのデフォルト設定になっています…。"
+        ]
+      },
+      {
+        "title": "Ramalan Zodiak Hari Ini Minggu 9 Agustus 2026 : Leo Berpeluang Dapat Rezeki , Gemini Jangan Terburu - buru",
+        "url": "https://www.tabloidbintang.com/film-tv-musik/217598-ramalan-zodiak-hari-ini-minggu-9-agustus-2026-leo-berpeluang-dapat-rezeki-gemini-jangan-terburu-buru",
+        "points": 53,
         "comments": 0,
         "author": "",
-        "createdAt": "2026-08-08T19:41:13.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
-        "category": "AIニュース",
+        "createdAt": "2026-08-09T12:45:00Z",
+        "domain": "tabloidbintang.com",
+        "sourceType": "gdelt",
+        "sourceLabel": "GDELT",
+        "category": "AIモデル",
         "impact": "低",
-        "titleJa": "OpenAIがプレゼンテーションスタートアップNextSlideを買収",
-        "summaryJa": "この記事は「OpenAIがプレゼンテーションスタートアップNextSlideを買収」を扱っています。NextSlideによると、同社のチームメンバーは現在ChatGPTに取り組んでいるという。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "newsLens": "一般",
+        "titleJa": "AIニュース: Ramalan Zodiak Hari Ini Minggu 9 Agustus 2026 ： Leo Berpeluang Dapat Rezeki、Gemini Jangan Terburu - buru",
+        "summaryJa": "この記事は「Ramalan Zodiak Hari Ini Minggu 9 Agustus 2026 ： Leo Berpeluang Dapat Rezeki、Gemini Jangan Terburu - buru」を扱っています。tabloidbintang.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
-          "この記事は「OpenAIがプレゼンテーションスタートアップNextSlideを買収」を扱っています。",
-          "NextSlideによると、同社のチームメンバーは現在ChatGPTに取り組んでいるという。",
+          "この記事は「Ramalan Zodiak Hari Ini Minggu 9 Agustus 2026 ： Leo Berpeluang Dapat Rezeki、Gemini Jangan Terburu - buru」を扱っています。",
+          "tabloidbintang.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+        ]
+      },
+      {
+        "title": "O que dá para fazer com o ChatGPT grátis com chats ilimitados ?",
+        "url": "https://www.tecmundo.com.br/software/415150-o-que-da-para-fazer-com-o-chatgpt-gratis-com-chats-ilimitados.htm",
+        "points": 53,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-08-09T12:45:00Z",
+        "domain": "tecmundo.com.br",
+        "sourceType": "gdelt",
+        "sourceLabel": "GDELT",
+        "category": "AIモデル",
+        "impact": "低",
+        "newsLens": "一般",
+        "titleJa": "AIニュース: O que dá para fazer com o ChatGPT grátis com chats ilimitados?",
+        "summaryJa": "この記事は「O que dá para fazer com o ChatGPT grátis com chats ilimitados?」を扱っています。tecmundo.com.brが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "keyPoints": [
+          "この記事は「O que dá para fazer com o ChatGPT grátis com chats ilimitados?」を扱っています。",
+          "tecmundo.com.brが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
           "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       }
     ],
-    "fetchedAt": "2026-08-09T09:55:13.372Z",
+    "fetchedAt": "2026-08-09T13:14:53.889Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-08-09T09:55:13.372Z",
+    "fetchedAt": "2026-08-09T13:14:53.888Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-08-09T09:55:13.513Z"
+    "articleFetchedAt": "2026-08-09T13:14:54.022Z"
   }
 }
