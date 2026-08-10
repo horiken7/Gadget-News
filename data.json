@@ -23,6 +23,26 @@
         ]
       },
       {
+        "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
+        "url": "https://www.docker.com/products/docker-sandboxes/",
+        "points": 98,
+        "comments": 68,
+        "author": "etoxin",
+        "createdAt": "2026-08-10T06:02:38Z",
+        "domain": "docker.com",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "Dockerサンドボックス– AIエージェント用の使い捨ての隔離されたサンドボックス",
+        "summaryJa": "この記事は「Dockerサンドボックス– AIエージェント用の使い捨ての隔離されたサンドボックス」を扱っています。Claude Code、Gemini、Codex、Kiroのサンドボックスを保護します。microVMベースの分離でコーディングエージェントを実行します。",
+        "keyPoints": [
+          "この記事は「Dockerサンドボックス– AIエージェント用の使い捨ての隔離されたサンドボックス」を扱っています。",
+          "Claude Code、Gemini、Codex、Kiroのサンドボックスを保護します。",
+          "microVMベースの分離でコーディングエージェントを実行します。"
+        ]
+      },
+      {
         "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
         "url": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
         "points": 89,
@@ -44,30 +64,30 @@
         ]
       },
       {
-        "title": "SAP stops most travel and hiring because of AI's soaring cost",
-        "url": "https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost/",
-        "points": 65,
-        "comments": 68,
-        "author": "theanonymousone",
-        "createdAt": "2026-08-09T08:00:51Z",
-        "domain": "404media.co",
+        "title": "Auto mode is now the default in Claude Code",
+        "url": "https://claude.com/blog/auto-mode-default-in-claude-code",
+        "points": 73,
+        "comments": 159,
+        "author": "sbehere",
+        "createdAt": "2026-08-10T03:50:00Z",
+        "domain": "claude.com",
         "sourceType": "hn",
-        "category": "AIニュース",
+        "category": "AIモデル",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "SAPは、AIの急増するコストのためにほとんどの出張と雇用を停止します",
-        "summaryJa": "この記事は「SAPは、AIの急増するコストのためにほとんどの出張と雇用を停止します」を扱っています。SAPは、「支出方法を規律する必要がある」と述べています。「これには、まだ雇用と出張を凍結することが含まれます。",
+        "titleJa": "自動モードがClaude Codeのデフォルトになりました",
+        "summaryJa": "この記事は「自動モードがClaude Codeのデフォルトになりました」を扱っています。Claude Codeは、Pro、Max、およびTeamプランのデフォルトで自動モードをまもなく実行し、長時間の自律作業を可能にし、より危険なコマンドをキャッチします。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
         "keyPoints": [
-          "この記事は「SAPは、AIの急増するコストのためにほとんどの出張と雇用を停止します」を扱っています。",
-          "SAPは、「支出方法を規律する必要がある」と述べています。",
-          "「これには、まだ雇用と出張を凍結することが含まれます。"
+          "この記事は「自動モードがClaude Codeのデフォルトになりました」を扱っています。",
+          "Claude Codeは、Pro、Max、およびTeamプランのデフォルトで自動モードをまもなく実行し、長時間の自律作業を可能にし、より危険なコマンドをキャッチします。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
       },
       {
         "title": "The tragedy of the commons, AI edition",
         "url": "https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition",
-        "points": 64,
-        "comments": 53,
+        "points": 69,
+        "comments": 68,
         "author": "simonpure",
         "createdAt": "2026-08-09T19:43:52Z",
         "domain": "economist.com",
@@ -82,29 +102,9 @@
           "economist.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
           "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
-      },
-      {
-        "title": "AI assistant hacks gym website in first known Australian autonomous cyber attack",
-        "url": "https://www.abc.net.au/news/2026-08-10/ai-assistant-hacks-gym-website-aus-cyber-attack/107007986",
-        "points": 54,
-        "comments": 49,
-        "author": "stared",
-        "createdAt": "2026-08-09T21:52:23Z",
-        "domain": "abc.net.au",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "低",
-        "newsLens": "技術",
-        "titleJa": "AIアシスタント、オーストラリア初の自律型サイバー攻撃でジムのウェブサイトをハッキング",
-        "summaryJa": "この記事は「AIアシスタント、オーストラリア初の自律型サイバー攻撃でジムのウェブサイトをハッキング」を扱っています。アンドリューがAIのパーソナルアシスタントにジムのクラスの席を予約するように頼んだとき、彼は誤って自律的なサイバー攻撃を開始するとは思っていませんでした。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
-        "keyPoints": [
-          "この記事は「AIアシスタント、オーストラリア初の自律型サイバー攻撃でジムのウェブサイトをハッキング」を扱っています。",
-          "アンドリューがAIのパーソナルアシスタントにジムのクラスの席を予約するように頼んだとき、彼は誤って自律的なサイバー攻撃を開始するとは思っていませんでした。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
-        ]
       }
     ],
-    "fetchedAt": "2026-08-10T04:52:58.262Z",
+    "fetchedAt": "2026-08-10T08:03:12.963Z",
     "mock": false
   },
   "xTrends": {
@@ -116,13 +116,13 @@
         "appearances": 7,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-08-10T04:52:58.242Z",
+        "observedAt": "2026-08-10T08:03:12.787Z",
         "url": "https://x.com/search?q=%E5%9B%BD%E7%94%A3AI&src=typed_query&f=live",
         "articleTitle": "国産AI",
         "articleTitleJa": "公開トレンド: 国産AI",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-08-10T04:52:58.242Z",
+        "articlePublishedAt": "2026-08-10T08:03:12.787Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -134,13 +134,13 @@
         "appearances": 3,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-08-10T04:52:58.242Z",
+        "observedAt": "2026-08-10T08:03:12.787Z",
         "url": "https://x.com/search?q=%E3%82%B5%E3%82%AB%E3%83%8AAI&src=typed_query&f=live",
         "articleTitle": "サカナAI",
         "articleTitleJa": "公開トレンド: サカナAI",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-08-10T04:52:58.242Z",
+        "articlePublishedAt": "2026-08-10T08:03:12.787Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -152,22 +152,22 @@
         "appearances": 2,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-08-10T04:52:58.242Z",
+        "observedAt": "2026-08-10T08:03:12.787Z",
         "url": "https://x.com/search?q=AI%E3%83%A2%E3%83%87%E3%83%AB&src=typed_query&f=live",
         "articleTitle": "AIモデル",
         "articleTitleJa": "公開トレンド: AIモデル",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-08-10T04:52:58.242Z",
+        "articlePublishedAt": "2026-08-10T08:03:12.787Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
       }
     ],
-    "fetchedAt": "2026-08-10T04:52:58.262Z",
+    "fetchedAt": "2026-08-10T08:03:12.963Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-08-10T04:52:59.028Z"
+    "articleFetchedAt": "2026-08-10T08:03:13.700Z"
   }
 }
