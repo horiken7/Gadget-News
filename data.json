@@ -25,8 +25,8 @@
       {
         "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
         "url": "https://www.docker.com/products/docker-sandboxes/",
-        "points": 98,
-        "comments": 68,
+        "points": 101,
+        "comments": 146,
         "author": "etoxin",
         "createdAt": "2026-08-10T06:02:38Z",
         "domain": "docker.com",
@@ -40,6 +40,26 @@
           "この記事は「Dockerサンドボックス– AIエージェント用の使い捨ての隔離されたサンドボックス」を扱っています。",
           "Claude Code、Gemini、Codex、Kiroのサンドボックスを保護します。",
           "microVMベースの分離でコーディングエージェントを実行します。"
+        ]
+      },
+      {
+        "title": "Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
+        "url": "https://www.whodunnitai.com/",
+        "points": 93,
+        "comments": 34,
+        "author": "MrRowTheBoat",
+        "createdAt": "2026-08-10T03:18:40Z",
+        "domain": "whodunnitai.com",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "Show HN ：音声駆動殺人ミステリー、あなたの声でAI容疑者にインタビュー",
+        "summaryJa": "この記事は「Show HN ：音声駆動殺人ミステリー、あなたの声でAI容疑者にインタビュー」を扱っています。私がまとめたこの本当に楽しいプロジェクトを披露することに興奮しています。私がこのプロジェクトを最初に立ち上げたのは2〜3年前で、当時はすでにAIが急成長していましたが、音声AIエージェントはまだ非常に早かったのです。",
+        "keyPoints": [
+          "この記事は「Show HN ：音声駆動殺人ミステリー、あなたの声でAI容疑者にインタビュー」を扱っています。",
+          "私がまとめたこの本当に楽しいプロジェクトを披露することに興奮しています。",
+          "私がこのプロジェクトを最初に立ち上げたのは2〜3年前で、当時はすでにAIが急成長していましたが、音声AIエージェントはまだ非常に早かったのです。"
         ]
       },
       {
@@ -67,7 +87,7 @@
         "title": "Auto mode is now the default in Claude Code",
         "url": "https://claude.com/blog/auto-mode-default-in-claude-code",
         "points": 73,
-        "comments": 159,
+        "comments": 225,
         "author": "sbehere",
         "createdAt": "2026-08-10T03:50:00Z",
         "domain": "claude.com",
@@ -82,29 +102,9 @@
           "Claude Codeは、Pro、Max、およびTeamプランのデフォルトで自動モードをまもなく実行し、長時間の自律作業を可能にし、より危険なコマンドをキャッチします。",
           "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
-      },
-      {
-        "title": "The tragedy of the commons, AI edition",
-        "url": "https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition",
-        "points": 69,
-        "comments": 68,
-        "author": "simonpure",
-        "createdAt": "2026-08-09T19:43:52Z",
-        "domain": "economist.com",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "コモンズの悲劇、AI版",
-        "summaryJa": "この記事は「コモンズの悲劇、AI版」を扱っています。economist.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
-        "keyPoints": [
-          "この記事は「コモンズの悲劇、AI版」を扱っています。",
-          "economist.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
-        ]
       }
     ],
-    "fetchedAt": "2026-08-10T08:03:12.963Z",
+    "fetchedAt": "2026-08-10T10:35:46.956Z",
     "mock": false
   },
   "xTrends": {
@@ -116,13 +116,13 @@
         "appearances": 7,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-08-10T08:03:12.787Z",
+        "observedAt": "2026-08-10T10:35:46.778Z",
         "url": "https://x.com/search?q=%E5%9B%BD%E7%94%A3AI&src=typed_query&f=live",
         "articleTitle": "国産AI",
         "articleTitleJa": "公開トレンド: 国産AI",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-08-10T08:03:12.787Z",
+        "articlePublishedAt": "2026-08-10T10:35:46.778Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -134,13 +134,13 @@
         "appearances": 3,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-08-10T08:03:12.787Z",
+        "observedAt": "2026-08-10T10:35:46.778Z",
         "url": "https://x.com/search?q=%E3%82%B5%E3%82%AB%E3%83%8AAI&src=typed_query&f=live",
         "articleTitle": "サカナAI",
         "articleTitleJa": "公開トレンド: サカナAI",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-08-10T08:03:12.787Z",
+        "articlePublishedAt": "2026-08-10T10:35:46.778Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -152,22 +152,22 @@
         "appearances": 2,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-08-10T08:03:12.787Z",
+        "observedAt": "2026-08-10T10:35:46.778Z",
         "url": "https://x.com/search?q=AI%E3%83%A2%E3%83%87%E3%83%AB&src=typed_query&f=live",
         "articleTitle": "AIモデル",
         "articleTitleJa": "公開トレンド: AIモデル",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-08-10T08:03:12.787Z",
+        "articlePublishedAt": "2026-08-10T10:35:46.778Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
       }
     ],
-    "fetchedAt": "2026-08-10T08:03:12.963Z",
+    "fetchedAt": "2026-08-10T10:35:46.956Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-08-10T08:03:13.700Z"
+    "articleFetchedAt": "2026-08-10T10:35:47.892Z"
   }
 }
