@@ -46,8 +46,8 @@
       {
         "title": "SAP stops most travel and hiring because of AI's soaring cost",
         "url": "https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost/",
-        "points": 63,
-        "comments": 67,
+        "points": 64,
+        "comments": 68,
         "author": "theanonymousone",
         "createdAt": "2026-08-09T08:00:51Z",
         "domain": "404media.co",
@@ -64,10 +64,30 @@
         ]
       },
       {
+        "title": "The tragedy of the commons, AI edition",
+        "url": "https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition",
+        "points": 61,
+        "comments": 42,
+        "author": "simonpure",
+        "createdAt": "2026-08-09T19:43:52Z",
+        "domain": "economist.com",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "中",
+        "newsLens": "技術",
+        "titleJa": "コモンズの悲劇、AI版",
+        "summaryJa": "この記事は「コモンズの悲劇、AI版」を扱っています。economist.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "keyPoints": [
+          "この記事は「コモンズの悲劇、AI版」を扱っています。",
+          "economist.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+        ]
+      },
+      {
         "title": "Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta",
         "url": "https://www.cnbc.com/2026/08/09/israeli-startup-irregular-linked-to-ai-hacks-openai-anthropic-meta.html",
         "points": 33,
-        "comments": 17,
+        "comments": 18,
         "author": "cramer4next",
         "createdAt": "2026-08-09T13:03:49Z",
         "domain": "cnbc.com",
@@ -82,37 +102,72 @@
           "OpenAI、Anthropic、Metaを含む不正なAI攻撃はすべて、Irregularというイスラエルの小さなスタートアップに関連しています。",
           "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
-      },
-      {
-        "title": "70% of AI revenue comes from OpenAI and Anthropic [video]",
-        "url": "https://www.youtube.com/watch?v=68X8yEatepQ",
-        "points": -33,
-        "comments": 78,
-        "author": "johnbarron",
-        "createdAt": "2026-08-09T11:56:16Z",
-        "domain": "youtube.com",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "中",
-        "newsLens": "技術",
-        "titleJa": "AI収益の70 ％はOpenAIとAnthropicからのものです[VIDEO]",
-        "summaryJa": "この記事は「AI収益の70 ％はOpenAIとAnthropicからのものです[VIDEO]」を扱っています。お気に入りの動画や音楽を楽しんだり、オリジナルコンテンツをアップロードしたり、YouTubeで友達や家族、世界中の人と共有したりできます。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
-        "keyPoints": [
-          "この記事は「AI収益の70 ％はOpenAIとAnthropicからのものです[VIDEO]」を扱っています。",
-          "お気に入りの動画や音楽を楽しんだり、オリジナルコンテンツをアップロードしたり、YouTubeで友達や家族、世界中の人と共有したりできます。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
-        ]
       }
     ],
-    "fetchedAt": "2026-08-09T21:46:39.798Z",
+    "fetchedAt": "2026-08-10T02:33:04.465Z",
     "mock": false
   },
   "xTrends": {
-    "items": [],
-    "fetchedAt": "2026-08-09T21:46:39.798Z",
+    "items": [
+      {
+        "topic": "国産AI",
+        "locationLabel": "日本",
+        "bestRank": 15,
+        "appearances": 6,
+        "trendSource": "Trends24",
+        "sourceUrl": "https://trends24.in/japan/",
+        "observedAt": "2026-08-10T02:33:04.382Z",
+        "url": "https://x.com/search?q=%E5%9B%BD%E7%94%A3AI&src=typed_query&f=live",
+        "articleTitle": "国産AI",
+        "articleTitleJa": "公開トレンド: 国産AI",
+        "articleUrl": "https://trends24.in/japan/",
+        "articleSource": "Trends24",
+        "articlePublishedAt": "2026-08-10T02:33:04.382Z",
+        "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
+        "translationVersion": 3,
+        "articleFallback": true
+      },
+      {
+        "topic": "サカナAI",
+        "locationLabel": "日本",
+        "bestRank": 23,
+        "appearances": 3,
+        "trendSource": "Trends24",
+        "sourceUrl": "https://trends24.in/japan/",
+        "observedAt": "2026-08-10T02:33:04.382Z",
+        "url": "https://x.com/search?q=%E3%82%B5%E3%82%AB%E3%83%8AAI&src=typed_query&f=live",
+        "articleTitle": "サカナAI",
+        "articleTitleJa": "公開トレンド: サカナAI",
+        "articleUrl": "https://trends24.in/japan/",
+        "articleSource": "Trends24",
+        "articlePublishedAt": "2026-08-10T02:33:04.382Z",
+        "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
+        "translationVersion": 3,
+        "articleFallback": true
+      },
+      {
+        "topic": "AIモデル",
+        "locationLabel": "日本",
+        "bestRank": 29,
+        "appearances": 2,
+        "trendSource": "Trends24",
+        "sourceUrl": "https://trends24.in/japan/",
+        "observedAt": "2026-08-10T02:33:04.382Z",
+        "url": "https://x.com/search?q=AI%E3%83%A2%E3%83%87%E3%83%AB&src=typed_query&f=live",
+        "articleTitle": "AIモデル",
+        "articleTitleJa": "公開トレンド: AIモデル",
+        "articleUrl": "https://trends24.in/japan/",
+        "articleSource": "Trends24",
+        "articlePublishedAt": "2026-08-10T02:33:04.382Z",
+        "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
+        "translationVersion": 3,
+        "articleFallback": true
+      }
+    ],
+    "fetchedAt": "2026-08-10T02:33:04.465Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-08-09T21:46:39.948Z"
+    "articleFetchedAt": "2026-08-10T02:33:05.286Z"
   }
 }
