@@ -2,6 +2,27 @@
   "news": {
     "items": [
       {
+        "title": "Tech industry is buzzing after a Claude agent hacked into a gym",
+        "url": "https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/",
+        "points": 107,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-08-10T20:04:24.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
+        "category": "AIモデル",
+        "impact": "高",
+        "titleJa": "Claudeのエージェントがジムをハッキングした後、ハイテク業界は賑やかになっています",
+        "summaryJa": "この記事は「Claudeのエージェントがジムをハッキングした後、ハイテク業界は賑やかになっています」を扱っています。OpenClawのエージェントがジムの予約システムに侵入し、クラスの待機リストで人間のボスをぶつけました。そして、ハイテク業界は注目しました。",
+        "keyPoints": [
+          "この記事は「Claudeのエージェントがジムをハッキングした後、ハイテク業界は賑やかになっています」を扱っています。",
+          "OpenClawのエージェントがジムの予約システムに侵入し、クラスの待機リストで人間のボスをぶつけました。",
+          "そして、ハイテク業界は注目しました。"
+        ]
+      },
+      {
         "title": "Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision",
         "url": "https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/",
         "points": 107,
@@ -26,7 +47,7 @@
         "title": "Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
         "url": "https://www.whodunnitai.com/",
         "points": 101,
-        "comments": 76,
+        "comments": 81,
         "author": "MrRowTheBoat",
         "createdAt": "2026-08-10T03:18:40Z",
         "domain": "whodunnitai.com",
@@ -43,113 +64,55 @@
         ]
       },
       {
-        "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
-        "url": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
-        "points": 89,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-08-09T20:35:17.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
-        "category": "ハードウェア",
-        "impact": "高",
-        "titleJa": "困難に直面しているヘッジファンドのSituational Awarenessが、チップのスタートアップSource Foundryに4億$を投資",
-        "summaryJa": "この記事は「困難に直面しているヘッジファンドのSituational Awarenessが、チップのスタートアップSource Foundryに4億$を投資」を扱っています。AIに焦点を当てたヘッジファンドは、まだいくつかの大きな賭けをしています。一般向けには、AIがソフトウェアだけでなく、ロボットや端末など現実の製品に広がっている点が重要です。",
-        "keyPoints": [
-          "この記事は「困難に直面しているヘッジファンドのSituational Awarenessが、チップのスタートアップSource Foundryに4億$を投資」を扱っています。",
-          "AIに焦点を当てたヘッジファンドは、まだいくつかの大きな賭けをしています。",
-          "一般向けには、AIがソフトウェアだけでなく、ロボットや端末など現実の製品に広がっている点が重要です。"
-        ]
-      },
-      {
-        "title": "Auto mode is now the default in Claude Code",
-        "url": "https://claude.com/blog/auto-mode-default-in-claude-code",
-        "points": 73,
-        "comments": 292,
-        "author": "sbehere",
-        "createdAt": "2026-08-10T03:50:00Z",
-        "domain": "claude.com",
+        "title": "Humanising LLM Outputs Is Dumb",
+        "url": "https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb",
+        "points": 94,
+        "comments": 55,
+        "author": "kuberwastaken",
+        "createdAt": "2026-08-10T13:35:40Z",
+        "domain": "kuber.studio",
         "sourceType": "hn",
         "category": "AIモデル",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "自動モードがClaude Codeのデフォルトになりました",
-        "summaryJa": "この記事は「自動モードがClaude Codeのデフォルトになりました」を扱っています。Claude Codeは、Pro、Max、およびTeamプランのデフォルトで自動モードをまもなく実行し、長時間の自律作業を可能にし、より危険なコマンドをキャッチします。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "titleJa": "LLMアウトプットの人間化は愚かである",
+        "summaryJa": "この記事は「LLMアウトプットの人間化は愚かである」を扱っています。AIツールの文化と感情がどこに移行しているかを伝えるための最大の指示は、通常、X、ウイルスGitHubリポジトリ、Hacker Newsです。これらのうちの1つは、ASD - STE 100簡体字技術英語のみで出力を与えるなど、ADHDやAgents.mdの指示などのスキルがあることを示しています。",
         "keyPoints": [
-          "この記事は「自動モードがClaude Codeのデフォルトになりました」を扱っています。",
-          "Claude Codeは、Pro、Max、およびTeamプランのデフォルトで自動モードをまもなく実行し、長時間の自律作業を可能にし、より危険なコマンドをキャッチします。",
+          "この記事は「LLMアウトプットの人間化は愚かである」を扱っています。",
+          "AIツールの文化と感情がどこに移行しているかを伝えるための最大の指示は、通常、X、ウイルスGitHubリポジトリ、Hacker Newsです。",
+          "これらのうちの1つは、ASD - STE 100簡体字技術英語のみで出力を与えるなど、ADHDやAgents.mdの指示などのスキルがあることを示しています。"
+        ]
+      },
+      {
+        "title": "Exploring Claude/GPT Knowledge Cutoffs and Pre-Training Timelines",
+        "url": "https://blog.sshh.io/p/exploring-claudegpt-knowledge-cutoffs",
+        "points": 88,
+        "comments": 11,
+        "author": "sshh12",
+        "createdAt": "2026-08-10T14:20:41Z",
+        "domain": "blog.sshh.io",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "中",
+        "newsLens": "技術",
+        "titleJa": "Claude/GPTのナレッジカットオフと事前トレーニングのタイムラインを探る",
+        "summaryJa": "この記事は「Claude/GPTのナレッジカットオフと事前トレーニングのタイムラインを探る」を扱っています。モデルが知っていることと、それらがどのように訓練されたかについて教えてくれることについて、やや興味深い分析です。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "keyPoints": [
+          "この記事は「Claude/GPTのナレッジカットオフと事前トレーニングのタイムラインを探る」を扱っています。",
+          "モデルが知っていることと、それらがどのように訓練されたかについて教えてくれることについて、やや興味深い分析です。",
           "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
-        ]
-      },
-      {
-        "title": "Learning more about Claude's mathematical capabilities",
-        "url": "https://www.anthropic.com/research/riemann-zeta",
-        "points": 63,
-        "comments": 60,
-        "author": "tosh",
-        "createdAt": "2026-08-10T17:41:13Z",
-        "domain": "anthropic.com",
-        "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "Claudeの数学的能力についてもっと学ぶ",
-        "summaryJa": "この記事は「Claudeの数学的能力についてもっと学ぶ」を扱っています。Claudeの未発表バージョンは、リーマンの仮説に関連する問題で進歩を遂げました。それは、仮説を満たすリーマンゼータ関数のゼロの分数の下限を改善し、41.6 ％から67.2 ％に増加させた。",
-        "keyPoints": [
-          "この記事は「Claudeの数学的能力についてもっと学ぶ」を扱っています。",
-          "Claudeの未発表バージョンは、リーマンの仮説に関連する問題で進歩を遂げました。",
-          "それは、仮説を満たすリーマンゼータ関数のゼロの分数の下限を改善し、41.6 ％から67.2 ％に増加させた。"
         ]
       }
     ],
-    "fetchedAt": "2026-08-10T19:15:19.063Z",
+    "fetchedAt": "2026-08-10T21:56:56.315Z",
     "mock": false
   },
   "xTrends": {
-    "items": [
-      {
-        "topic": "国産AI",
-        "locationLabel": "日本",
-        "bestRank": 36,
-        "appearances": 2,
-        "trendSource": "Trends24",
-        "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-08-10T19:15:18.945Z",
-        "url": "https://x.com/search?q=%E5%9B%BD%E7%94%A3AI&src=typed_query&f=live",
-        "articleTitle": "国産AI",
-        "articleTitleJa": "公開トレンド: 国産AI",
-        "articleUrl": "https://trends24.in/japan/",
-        "articleSource": "Trends24",
-        "articlePublishedAt": "2026-08-10T19:15:18.945Z",
-        "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
-        "translationVersion": 3,
-        "articleFallback": true
-      },
-      {
-        "topic": "AIモデル",
-        "locationLabel": "日本",
-        "bestRank": 46,
-        "appearances": 1,
-        "trendSource": "Trends24",
-        "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-08-10T19:15:18.945Z",
-        "url": "https://x.com/search?q=AI%E3%83%A2%E3%83%87%E3%83%AB&src=typed_query&f=live",
-        "articleTitle": "AIモデル",
-        "articleTitleJa": "公開トレンド: AIモデル",
-        "articleUrl": "https://trends24.in/japan/",
-        "articleSource": "Trends24",
-        "articlePublishedAt": "2026-08-10T19:15:18.945Z",
-        "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
-        "translationVersion": 3,
-        "articleFallback": true
-      }
-    ],
-    "fetchedAt": "2026-08-10T19:15:19.063Z",
+    "items": [],
+    "fetchedAt": "2026-08-10T21:56:56.315Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-08-10T19:15:19.575Z"
+    "articleFetchedAt": "2026-08-10T21:56:56.461Z"
   }
 }
