@@ -44,30 +44,10 @@
         ]
       },
       {
-        "title": "Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
-        "url": "https://www.whodunnitai.com/",
-        "points": 101,
-        "comments": 81,
-        "author": "MrRowTheBoat",
-        "createdAt": "2026-08-10T03:18:40Z",
-        "domain": "whodunnitai.com",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "Show HN ：音声駆動殺人ミステリー、あなたの声でAI容疑者にインタビュー",
-        "summaryJa": "この記事は「Show HN ：音声駆動殺人ミステリー、あなたの声でAI容疑者にインタビュー」を扱っています。私がまとめたこの本当に楽しいプロジェクトを披露することに興奮しています。私がこのプロジェクトを最初に立ち上げたのは2〜3年前で、当時はすでにAIが急成長していましたが、音声AIエージェントはまだ非常に早かったのです。",
-        "keyPoints": [
-          "この記事は「Show HN ：音声駆動殺人ミステリー、あなたの声でAI容疑者にインタビュー」を扱っています。",
-          "私がまとめたこの本当に楽しいプロジェクトを披露することに興奮しています。",
-          "私がこのプロジェクトを最初に立ち上げたのは2〜3年前で、当時はすでにAIが急成長していましたが、音声AIエージェントはまだ非常に早かったのです。"
-        ]
-      },
-      {
         "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
         "url": "https://cactuscompute.com/needle",
         "points": 101,
-        "comments": 80,
+        "comments": 95,
         "author": "HenryNdubuaku",
         "createdAt": "2026-08-10T17:22:07Z",
         "domain": "cactuscompute.com",
@@ -87,7 +67,7 @@
         "title": "Humanising LLM Outputs Is Dumb",
         "url": "https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb",
         "points": 101,
-        "comments": 92,
+        "comments": 111,
         "author": "kuberwastaken",
         "createdAt": "2026-08-10T13:35:40Z",
         "domain": "kuber.studio",
@@ -102,17 +82,55 @@
           "AIツールの文化と感情がどこに移行しているかを伝えるための最大の指示は、通常、X、ウイルスGitHubリポジトリ、Hacker Newsです。",
           "これらのうちの1つは、ASD - STE 100簡体字技術英語のみで出力を与えるなど、ADHDやAgents.mdの指示などのスキルがあることを示しています。"
         ]
+      },
+      {
+        "title": "Exploring Claude/GPT Knowledge Cutoffs and Pre-Training Timelines",
+        "url": "https://blog.sshh.io/p/exploring-claudegpt-knowledge-cutoffs",
+        "points": 101,
+        "comments": 14,
+        "author": "sshh12",
+        "createdAt": "2026-08-10T14:20:41Z",
+        "domain": "blog.sshh.io",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "Claude/GPTのナレッジカットオフと事前トレーニングのタイムラインを探る",
+        "summaryJa": "この記事は「Claude/GPTのナレッジカットオフと事前トレーニングのタイムラインを探る」を扱っています。モデルが知っていることと、それらがどのように訓練されたかについて教えてくれることについて、やや興味深い分析です。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "keyPoints": [
+          "この記事は「Claude/GPTのナレッジカットオフと事前トレーニングのタイムラインを探る」を扱っています。",
+          "モデルが知っていることと、それらがどのように訓練されたかについて教えてくれることについて、やや興味深い分析です。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+        ]
       }
     ],
-    "fetchedAt": "2026-08-11T02:26:09.968Z",
+    "fetchedAt": "2026-08-11T04:39:04.822Z",
     "mock": false
   },
   "xTrends": {
-    "items": [],
-    "fetchedAt": "2026-08-11T02:26:09.968Z",
+    "items": [
+      {
+        "topic": "Anthropic",
+        "locationLabel": "豪州",
+        "bestRank": 26,
+        "appearances": 1,
+        "trendSource": "Trends24",
+        "sourceUrl": "https://trends24.in/australia/",
+        "observedAt": "2026-08-11T04:39:04.755Z",
+        "url": "https://x.com/search?q=Anthropic&src=typed_query&f=live",
+        "articleTitle": "70% of AI revenue comes from OpenAI and Anthropic [video]",
+        "articleTitleJa": "AI 収益の 70% は OpenAI と Anthropic から来ています [ビデオ]",
+        "articleUrl": "https://www.youtube.com/watch?v=68X8yEatepQ",
+        "articleSource": "youtube.com",
+        "articlePublishedAt": "2026-08-09T11:56:16Z",
+        "summaryJa": "YouTube でお気に入りの動画や音楽を楽しみ、オリジナルのコンテンツをアップロードして友だちや家族、世界中の人たちと共有しましょう。",
+        "translationVersion": 3
+      }
+    ],
+    "fetchedAt": "2026-08-11T04:39:04.822Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-08-11T02:26:10.104Z"
+    "articleFetchedAt": "2026-08-11T04:39:07.270Z"
   }
 }
