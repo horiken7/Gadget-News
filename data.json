@@ -47,7 +47,7 @@
         "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
         "url": "https://cactuscompute.com/needle",
         "points": 101,
-        "comments": 150,
+        "comments": 159,
         "author": "HenryNdubuaku",
         "createdAt": "2026-08-10T17:22:07Z",
         "domain": "cactuscompute.com",
@@ -64,30 +64,30 @@
         ]
       },
       {
-        "title": "Exploring Claude/GPT Knowledge Cutoffs and Pre-Training Timelines",
-        "url": "https://blog.sshh.io/p/exploring-claudegpt-knowledge-cutoffs",
-        "points": 101,
-        "comments": 24,
-        "author": "sshh12",
-        "createdAt": "2026-08-10T14:20:41Z",
-        "domain": "blog.sshh.io",
+        "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
+        "url": "https://stolen-thoughts.com/",
+        "points": 96,
+        "comments": 41,
+        "author": "quantumgarbage",
+        "createdAt": "2026-08-11T13:22:00Z",
+        "domain": "stolen-thoughts.com",
         "sourceType": "hn",
         "category": "AIモデル",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "Claude/GPTのナレッジカットオフと事前トレーニングのタイムラインを探る",
-        "summaryJa": "この記事は「Claude/GPTのナレッジカットオフと事前トレーニングのタイムラインを探る」を扱っています。モデルが知っていることと、それらがどのように訓練されたかについて教えてくれることについて、やや興味深い分析です。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "titleJa": "独自のLLM APIから推論の痕跡を盗む",
+        "summaryJa": "この記事は「独自のLLM APIから推論の痕跡を盗む」を扱っています。Anthropic、OpenAI、Google APIによって返される暗号化されたチェーンオブシンクトブロックは、セッション、ユーザー、モデル間で交換可能です。これを利用して、隠れた推論を大規模に解読します。",
         "keyPoints": [
-          "この記事は「Claude/GPTのナレッジカットオフと事前トレーニングのタイムラインを探る」を扱っています。",
-          "モデルが知っていることと、それらがどのように訓練されたかについて教えてくれることについて、やや興味深い分析です。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+          "この記事は「独自のLLM APIから推論の痕跡を盗む」を扱っています。",
+          "Anthropic、OpenAI、Google APIによって返される暗号化されたチェーンオブシンクトブロックは、セッション、ユーザー、モデル間で交換可能です。",
+          "これを利用して、隠れた推論を大規模に解読します。"
         ]
       },
       {
         "title": "How Claude marks AI-generated content",
         "url": "https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content",
         "points": 73,
-        "comments": 224,
+        "comments": 300,
         "author": "mfiguiere",
         "createdAt": "2026-08-10T21:36:56Z",
         "domain": "support.claude.com",
@@ -104,7 +104,7 @@
         ]
       }
     ],
-    "fetchedAt": "2026-08-11T13:40:50.138Z",
+    "fetchedAt": "2026-08-11T16:10:33.761Z",
     "mock": false
   },
   "xTrends": {
@@ -116,7 +116,7 @@
         "appearances": 1,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/australia/",
-        "observedAt": "2026-08-11T13:40:50.050Z",
+        "observedAt": "2026-08-11T16:10:33.717Z",
         "url": "https://x.com/search?q=Anthropic&src=typed_query&f=live",
         "articleTitle": "70% of AI revenue comes from OpenAI and Anthropic [video]",
         "articleTitleJa": "AI 収益の 70% は OpenAI と Anthropic から来ています [ビデオ]",
@@ -127,10 +127,10 @@
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-08-11T13:40:50.138Z",
+    "fetchedAt": "2026-08-11T16:10:33.761Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-08-11T13:40:51.345Z"
+    "articleFetchedAt": "2026-08-11T16:10:34.890Z"
   }
 }
