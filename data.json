@@ -15,11 +15,11 @@
         "category": "AIモデル",
         "impact": "高",
         "titleJa": "未発表のAnthropicモデルは、数学の最大の未解決問題の1つで進歩を遂げました",
-        "summaryJa": "この記事は「未発表のAnthropicモデルは、数学の最大の未解決問題の1つで進歩を遂げました」を扱っています。150年以上にわたり、リーマン仮説は数学における主要な未解決問題の1つとなってきました。Anthropicはそれを解決していませんが、同社のモデルは予想以上の進歩を遂げました。",
+        "summaryJa": "この記事は「未発表のAnthropicモデルは、数学の最大の未解決問題の1つで進歩を遂げました」を扱っています。techcrunch.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
           "この記事は「未発表のAnthropicモデルは、数学の最大の未解決問題の1つで進歩を遂げました」を扱っています。",
-          "150年以上にわたり、リーマン仮説は数学における主要な未解決問題の1つとなってきました。",
-          "Anthropicはそれを解決していませんが、同社のモデルは予想以上の進歩を遂げました。"
+          "techcrunch.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       },
       {
@@ -36,10 +36,10 @@
         "category": "AIモデル",
         "impact": "高",
         "titleJa": "AI主導の攻撃が増えるにつれて、OpenAIは新しいサイバーモデルを立ち上げます",
-        "summaryJa": "この記事は「AI主導の攻撃が増えるにつれて、OpenAIは新しいサイバーモデルを立ち上げます」を扱っています。OpenAIは、AIサイバーセキュリティ防御プログラムのDaybreakを拡大し、新しいサイバートレーニングされたAIモデルを展開しています。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "summaryJa": "この記事は「AI主導の攻撃が増えるにつれて、OpenAIは新しいサイバーモデルを立ち上げます」を扱っています。techcrunch.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
           "この記事は「AI主導の攻撃が増えるにつれて、OpenAIは新しいサイバーモデルを立ち上げます」を扱っています。",
-          "OpenAIは、AIサイバーセキュリティ防御プログラムのDaybreakを拡大し、新しいサイバートレーニングされたAIモデルを展開しています。",
+          "techcrunch.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
           "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       },
@@ -47,7 +47,7 @@
         "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
         "url": "https://stolen-thoughts.com/",
         "points": 101,
-        "comments": 110,
+        "comments": 164,
         "author": "quantumgarbage",
         "createdAt": "2026-08-11T13:22:00Z",
         "domain": "stolen-thoughts.com",
@@ -55,19 +55,19 @@
         "category": "AIモデル",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "独自のLLM APIから推論の痕跡を盗む",
-        "summaryJa": "この記事は「独自のLLM APIから推論の痕跡を盗む」を扱っています。Anthropic、OpenAI、Google APIによって返される暗号化されたチェーンオブシンクトブロックは、セッション、ユーザー、モデル間で交換可能です。これを利用して、隠れた推論を大規模に解読します。",
+        "titleJa": "AIニュース: Stealing Reasoning Traces from Proprietary LLM APIs",
+        "summaryJa": "この記事は「Stealing Reasoning Traces from Proprietary LLM APIs」を扱っています。Anthropic、OpenAI、Google APIによって返される暗号化されたチェーンオブシンクトブロックは、セッション、ユーザー、モデル間で交換可能です。これを利用して、隠れた推論を大規模に解読します。",
         "keyPoints": [
-          "この記事は「独自のLLM APIから推論の痕跡を盗む」を扱っています。",
+          "この記事は「Stealing Reasoning Traces from Proprietary LLM APIs」を扱っています。",
           "Anthropic、OpenAI、Google APIによって返される暗号化されたチェーンオブシンクトブロックは、セッション、ユーザー、モデル間で交換可能です。",
           "これを利用して、隠れた推論を大規模に解読します。"
         ]
       },
       {
-        "title": "Apple Silicon and macOS VMs: 11–16× Faster LLM Inference with Llama.cpp",
+        "title": "Apple Silicon and macOS VMs: Faster LLM Inference with llama.cpp",
         "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
         "points": 101,
-        "comments": 36,
+        "comments": 42,
         "author": "frabonacci",
         "createdAt": "2026-08-11T14:50:33Z",
         "domain": "github.com",
@@ -75,10 +75,10 @@
         "category": "AIモデル",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "Apple SiliconとmacOS VM ： Llama.cppでLLM推論を11 -16倍高速化",
-        "summaryJa": "この記事は「Apple SiliconとmacOS VM ： Llama.cppでLLM推論を11 -16倍高速化」を扱っています。オープンソースドライバ、クロスOSフリート、トレーニング、評価、およびデータ生成のベンチマークを使用してコンピュータ使用2.0を拡張します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "titleJa": "AIニュース: Apple Silicon and macOS VMs: Faster LLM Inference with llama.cpp",
+        "summaryJa": "この記事は「Apple Silicon and macOS VMs: Faster LLM Inference with llama.cpp」を扱っています。オープンソースドライバ、クロスOSフリート、トレーニング、評価、およびデータ生成のベンチマークを使用してコンピュータ使用2.0を拡張します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
         "keyPoints": [
-          "この記事は「Apple SiliconとmacOS VM ： Llama.cppでLLM推論を11 -16倍高速化」を扱っています。",
+          "この記事は「Apple Silicon and macOS VMs: Faster LLM Inference with llama.cpp」を扱っています。",
           "オープンソースドライバ、クロスOSフリート、トレーニング、評価、およびデータ生成のベンチマークを使用してコンピュータ使用2.0を拡張します。",
           "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
@@ -86,8 +86,8 @@
       {
         "title": "What I learned by putting GitHub Copilot behind a MitM proxy",
         "url": "https://www.lighthousenewsletter.com/p/i-put-github-copilot-behind-a-mitm",
-        "points": 97,
-        "comments": 12,
+        "points": 101,
+        "comments": 18,
         "author": "j0selit0",
         "createdAt": "2026-08-11T10:40:47Z",
         "domain": "lighthousenewsletter.com",
@@ -96,15 +96,15 @@
         "impact": "高",
         "newsLens": "技術",
         "titleJa": "GitHub CopilotをMitMプロキシの背後に置くことで学んだこと",
-        "summaryJa": "この記事は「GitHub CopilotをMitMプロキシの背後に置くことで学んだこと」を扱っています。GitHub Copilotがコンテキスト、最近の編集、モデルルーティング、ローカルセッションメモリ、およびネットワーク要求をどのように処理するかについての技術的な詳細を説明します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "summaryJa": "この記事は「GitHub CopilotをMitMプロキシの背後に置くことで学んだこと」を扱っています。lighthousenewsletter.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
         "keyPoints": [
           "この記事は「GitHub CopilotをMitMプロキシの背後に置くことで学んだこと」を扱っています。",
-          "GitHub Copilotがコンテキスト、最近の編集、モデルルーティング、ローカルセッションメモリ、およびネットワーク要求をどのように処理するかについての技術的な詳細を説明します。",
+          "lighthousenewsletter.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
           "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
       }
     ],
-    "fetchedAt": "2026-08-11T19:18:28.644Z",
+    "fetchedAt": "2026-08-11T22:04:59.772Z",
     "mock": false
   },
   "xTrends": {
@@ -112,11 +112,11 @@
       {
         "topic": "Grok Bot",
         "locationLabel": "米国",
-        "bestRank": 3,
-        "appearances": 2,
+        "bestRank": 1,
+        "appearances": 5,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-08-11T19:18:28.453Z",
+        "observedAt": "2026-08-11T22:04:59.710Z",
         "url": "https://x.com/search?q=Grok%20Bot&src=typed_query&f=live",
         "articleTitle": "Grok Bot by SpaceXAI",
         "articleTitleJa": "SpaceXAI の Grok ボット",
@@ -125,29 +125,12 @@
         "articlePublishedAt": "2026-08-11T17:24:49Z",
         "summaryJa": "Grok Bot は、常時稼働のエージェントのチームです。彼らは自分のコンピューターを持ち、あなたと同じようにツールやアプリ内で作業し、年中無休で働き続けます。",
         "translationVersion": 3
-      },
-      {
-        "topic": "Anthropic",
-        "locationLabel": "豪州",
-        "bestRank": 26,
-        "appearances": 1,
-        "trendSource": "Trends24",
-        "sourceUrl": "https://trends24.in/australia/",
-        "observedAt": "2026-08-11T19:18:28.497Z",
-        "url": "https://x.com/search?q=Anthropic&src=typed_query&f=live",
-        "articleTitle": "70% of AI revenue comes from OpenAI and Anthropic [video]",
-        "articleTitleJa": "AI 収益の 70% は OpenAI と Anthropic から来ています [ビデオ]",
-        "articleUrl": "https://www.youtube.com/watch?v=68X8yEatepQ",
-        "articleSource": "youtube.com",
-        "articlePublishedAt": "2026-08-09T11:56:16Z",
-        "summaryJa": "YouTube でお気に入りの動画や音楽を楽しみ、オリジナルのコンテンツをアップロードして友だちや家族、世界中の人たちと共有しましょう。",
-        "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-08-11T19:18:28.644Z",
+    "fetchedAt": "2026-08-11T22:04:59.772Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-08-11T19:18:32.294Z"
+    "articleFetchedAt": "2026-08-11T22:05:00.478Z"
   }
 }
