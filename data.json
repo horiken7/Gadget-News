@@ -2,6 +2,27 @@
   "news": {
     "items": [
       {
+        "title": "As AI-led attacks multiply, OpenAI launches a new cyber model",
+        "url": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
+        "points": 107,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-08-10T23:56:15.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
+        "category": "AIモデル",
+        "impact": "高",
+        "titleJa": "AI主導の攻撃が増えるにつれて、OpenAIは新しいサイバーモデルを立ち上げます",
+        "summaryJa": "この記事は「AI主導の攻撃が増えるにつれて、OpenAIは新しいサイバーモデルを立ち上げます」を扱っています。OpenAIは、AIサイバーセキュリティ防御プログラムのDaybreakを拡大し、新しいサイバートレーニングされたAIモデルを展開しています。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "keyPoints": [
+          "この記事は「AI主導の攻撃が増えるにつれて、OpenAIは新しいサイバーモデルを立ち上げます」を扱っています。",
+          "OpenAIは、AIサイバーセキュリティ防御プログラムのDaybreakを拡大し、新しいサイバートレーニングされたAIモデルを展開しています。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+        ]
+      },
+      {
         "title": "Tech industry is buzzing after a Claude agent hacked into a gym",
         "url": "https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/",
         "points": 107,
@@ -20,27 +41,6 @@
           "この記事は「Claudeのエージェントがジムをハッキングした後、ハイテク業界は賑やかになっています」を扱っています。",
           "OpenClawのエージェントがジムの予約システムに侵入し、クラスの待機リストで人間のボスをぶつけました。",
           "そして、ハイテク業界は注目しました。"
-        ]
-      },
-      {
-        "title": "Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision",
-        "url": "https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/",
-        "points": 107,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-08-10T16:20:13.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
-        "category": "AIモデル",
-        "impact": "高",
-        "titleJa": "Metaの新しいGlimmer AIモデルは、Zuckerbergのパーソナルインテリジェンスビジョンのヒントを提供します",
-        "summaryJa": "この記事は「Metaの新しいGlimmer AIモデルは、Zuckerbergのパーソナルインテリジェンスビジョンのヒントを提供します」を扱っています。Metaの新しいオープンウェイトMuse Glimmerモデルは、Mark Zuckerberg氏の個人的なスーパーインテリジェンスのビジョンと、AIユーザーが所有できるものとアクセスできるものとの間の新たな格差を垣間見ることができる。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
-        "keyPoints": [
-          "この記事は「Metaの新しいGlimmer AIモデルは、Zuckerbergのパーソナルインテリジェンスビジョンのヒントを提供します」を扱っています。",
-          "Metaの新しいオープンウェイトMuse Glimmerモデルは、Mark Zuckerberg氏の個人的なスーパーインテリジェンスのビジョンと、AIユーザーが所有できるものとアクセスできるものとの間の新たな格差を垣間見ることができる。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       },
       {
@@ -64,10 +64,30 @@
         ]
       },
       {
+        "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
+        "url": "https://cactuscompute.com/needle",
+        "points": 101,
+        "comments": 80,
+        "author": "HenryNdubuaku",
+        "createdAt": "2026-08-10T17:22:07Z",
+        "domain": "cactuscompute.com",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "AIニュース: Show HN: Needle 2: 14 MB agentic LLM for phones, wearable, smart home and robots",
+        "summaryJa": "この記事は「Show HN: Needle 2: 14 MB agentic LLM for phones, wearable, smart home and robots」を扱っています。こんにちは、サボテンのヘンリーです！私たちは以前、電話、ウェアラブル、スマートホーム、小型ロボット、マイクロコントローラ用のツールコール、デバイス使用、構造化抽出用の14 MBエージェントLLMであるCactus Needleをリリースしました。",
+        "keyPoints": [
+          "この記事は「Show HN: Needle 2: 14 MB agentic LLM for phones, wearable, smart home and robots」を扱っています。",
+          "こんにちは、サボテンのヘンリーです。",
+          "私たちは以前、電話、ウェアラブル、スマートホーム、小型ロボット、マイクロコントローラ用のツールコール、デバイス使用、構造化抽出用の14 MBエージェントLLMであるCactus Needleをリリースしました。"
+        ]
+      },
+      {
         "title": "Humanising LLM Outputs Is Dumb",
         "url": "https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb",
-        "points": 94,
-        "comments": 55,
+        "points": 101,
+        "comments": 92,
         "author": "kuberwastaken",
         "createdAt": "2026-08-10T13:35:40Z",
         "domain": "kuber.studio",
@@ -82,37 +102,17 @@
           "AIツールの文化と感情がどこに移行しているかを伝えるための最大の指示は、通常、X、ウイルスGitHubリポジトリ、Hacker Newsです。",
           "これらのうちの1つは、ASD - STE 100簡体字技術英語のみで出力を与えるなど、ADHDやAgents.mdの指示などのスキルがあることを示しています。"
         ]
-      },
-      {
-        "title": "Exploring Claude/GPT Knowledge Cutoffs and Pre-Training Timelines",
-        "url": "https://blog.sshh.io/p/exploring-claudegpt-knowledge-cutoffs",
-        "points": 88,
-        "comments": 11,
-        "author": "sshh12",
-        "createdAt": "2026-08-10T14:20:41Z",
-        "domain": "blog.sshh.io",
-        "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "中",
-        "newsLens": "技術",
-        "titleJa": "Claude/GPTのナレッジカットオフと事前トレーニングのタイムラインを探る",
-        "summaryJa": "この記事は「Claude/GPTのナレッジカットオフと事前トレーニングのタイムラインを探る」を扱っています。モデルが知っていることと、それらがどのように訓練されたかについて教えてくれることについて、やや興味深い分析です。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
-        "keyPoints": [
-          "この記事は「Claude/GPTのナレッジカットオフと事前トレーニングのタイムラインを探る」を扱っています。",
-          "モデルが知っていることと、それらがどのように訓練されたかについて教えてくれることについて、やや興味深い分析です。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
-        ]
       }
     ],
-    "fetchedAt": "2026-08-10T21:56:56.315Z",
+    "fetchedAt": "2026-08-11T02:26:09.968Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-08-10T21:56:56.315Z",
+    "fetchedAt": "2026-08-11T02:26:09.968Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-08-10T21:56:56.461Z"
+    "articleFetchedAt": "2026-08-11T02:26:10.104Z"
   }
 }
