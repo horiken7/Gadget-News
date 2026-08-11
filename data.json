@@ -47,7 +47,7 @@
         "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
         "url": "https://cactuscompute.com/needle",
         "points": 101,
-        "comments": 108,
+        "comments": 131,
         "author": "HenryNdubuaku",
         "createdAt": "2026-08-10T17:22:07Z",
         "domain": "cactuscompute.com",
@@ -67,7 +67,7 @@
         "title": "H3-metal – Native MiniMax-H3 inference for Apple Silicon",
         "url": "https://github.com/antirez/h3.c",
         "points": 101,
-        "comments": 29,
+        "comments": 57,
         "author": "swyx",
         "createdAt": "2026-08-11T01:22:09Z",
         "domain": "github.com",
@@ -87,7 +87,7 @@
         "title": "Humanising LLM Outputs Is Dumb",
         "url": "https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb",
         "points": 101,
-        "comments": 129,
+        "comments": 144,
         "author": "kuberwastaken",
         "createdAt": "2026-08-10T13:35:40Z",
         "domain": "kuber.studio",
@@ -104,7 +104,7 @@
         ]
       }
     ],
-    "fetchedAt": "2026-08-11T07:35:13.895Z",
+    "fetchedAt": "2026-08-11T10:10:04.191Z",
     "mock": false
   },
   "xTrends": {
@@ -116,7 +116,7 @@
         "appearances": 1,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/australia/",
-        "observedAt": "2026-08-11T07:35:13.823Z",
+        "observedAt": "2026-08-11T10:10:04.145Z",
         "url": "https://x.com/search?q=Anthropic&src=typed_query&f=live",
         "articleTitle": "70% of AI revenue comes from OpenAI and Anthropic [video]",
         "articleTitleJa": "AI 収益の 70% は OpenAI と Anthropic から来ています [ビデオ]",
@@ -127,10 +127,10 @@
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-08-11T07:35:13.895Z",
+    "fetchedAt": "2026-08-11T10:10:04.191Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-08-11T07:35:15.338Z"
+    "articleFetchedAt": "2026-08-11T10:10:05.670Z"
   }
 }
