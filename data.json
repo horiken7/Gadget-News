@@ -15,39 +15,18 @@
         "category": "AIモデル",
         "impact": "高",
         "titleJa": "未発表のAnthropicモデルは、数学の最大の未解決問題の1つで進歩を遂げました",
-        "summaryJa": "この記事は「未発表のAnthropicモデルは、数学の最大の未解決問題の1つで進歩を遂げました」を扱っています。techcrunch.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "summaryJa": "この記事は「未発表のAnthropicモデルは、数学の最大の未解決問題の1つで進歩を遂げました」を扱っています。150年以上にわたり、リーマン仮説は数学における主要な未解決問題の1つとなってきました。Anthropicはそれを解決していませんが、同社のモデルは予想以上の進歩を遂げました。",
         "keyPoints": [
           "この記事は「未発表のAnthropicモデルは、数学の最大の未解決問題の1つで進歩を遂げました」を扱っています。",
-          "techcrunch.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
-        ]
-      },
-      {
-        "title": "As AI-led attacks multiply, OpenAI launches a new cyber model",
-        "url": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
-        "points": 107,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-08-10T23:56:15.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
-        "category": "AIモデル",
-        "impact": "高",
-        "titleJa": "AI主導の攻撃が増えるにつれて、OpenAIは新しいサイバーモデルを立ち上げます",
-        "summaryJa": "この記事は「AI主導の攻撃が増えるにつれて、OpenAIは新しいサイバーモデルを立ち上げます」を扱っています。techcrunch.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
-        "keyPoints": [
-          "この記事は「AI主導の攻撃が増えるにつれて、OpenAIは新しいサイバーモデルを立ち上げます」を扱っています。",
-          "techcrunch.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+          "150年以上にわたり、リーマン仮説は数学における主要な未解決問題の1つとなってきました。",
+          "Anthropicはそれを解決していませんが、同社のモデルは予想以上の進歩を遂げました。"
         ]
       },
       {
         "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
         "url": "https://stolen-thoughts.com/",
         "points": 101,
-        "comments": 164,
+        "comments": 211,
         "author": "quantumgarbage",
         "createdAt": "2026-08-11T13:22:00Z",
         "domain": "stolen-thoughts.com",
@@ -55,10 +34,10 @@
         "category": "AIモデル",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "AIニュース: Stealing Reasoning Traces from Proprietary LLM APIs",
-        "summaryJa": "この記事は「Stealing Reasoning Traces from Proprietary LLM APIs」を扱っています。Anthropic、OpenAI、Google APIによって返される暗号化されたチェーンオブシンクトブロックは、セッション、ユーザー、モデル間で交換可能です。これを利用して、隠れた推論を大規模に解読します。",
+        "titleJa": "独自のLLM APIから推論の痕跡を盗む",
+        "summaryJa": "この記事は「独自のLLM APIから推論の痕跡を盗む」を扱っています。Anthropic、OpenAI、Google APIによって返される暗号化されたチェーンオブシンクトブロックは、セッション、ユーザー、モデル間で交換可能です。これを利用して、隠れた推論を大規模に解読します。",
         "keyPoints": [
-          "この記事は「Stealing Reasoning Traces from Proprietary LLM APIs」を扱っています。",
+          "この記事は「独自のLLM APIから推論の痕跡を盗む」を扱っています。",
           "Anthropic、OpenAI、Google APIによって返される暗号化されたチェーンオブシンクトブロックは、セッション、ユーザー、モデル間で交換可能です。",
           "これを利用して、隠れた推論を大規模に解読します。"
         ]
@@ -67,7 +46,7 @@
         "title": "Apple Silicon and macOS VMs: Faster LLM Inference with llama.cpp",
         "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
         "points": 101,
-        "comments": 42,
+        "comments": 43,
         "author": "frabonacci",
         "createdAt": "2026-08-11T14:50:33Z",
         "domain": "github.com",
@@ -75,10 +54,10 @@
         "category": "AIモデル",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "AIニュース: Apple Silicon and macOS VMs: Faster LLM Inference with llama.cpp",
-        "summaryJa": "この記事は「Apple Silicon and macOS VMs: Faster LLM Inference with llama.cpp」を扱っています。オープンソースドライバ、クロスOSフリート、トレーニング、評価、およびデータ生成のベンチマークを使用してコンピュータ使用2.0を拡張します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "titleJa": "Apple SiliconとmacOS VM ： llama.cppによるLLM推論の高速化",
+        "summaryJa": "この記事は「Apple SiliconとmacOS VM ： llama.cppによるLLM推論の高速化」を扱っています。オープンソースドライバ、クロスOSフリート、トレーニング、評価、およびデータ生成のベンチマークを使用してコンピュータ使用2.0を拡張します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
         "keyPoints": [
-          "この記事は「Apple Silicon and macOS VMs: Faster LLM Inference with llama.cpp」を扱っています。",
+          "この記事は「Apple SiliconとmacOS VM ： llama.cppによるLLM推論の高速化」を扱っています。",
           "オープンソースドライバ、クロスOSフリート、トレーニング、評価、およびデータ生成のベンチマークを使用してコンピュータ使用2.0を拡張します。",
           "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
@@ -87,7 +66,7 @@
         "title": "What I learned by putting GitHub Copilot behind a MitM proxy",
         "url": "https://www.lighthousenewsletter.com/p/i-put-github-copilot-behind-a-mitm",
         "points": 101,
-        "comments": 18,
+        "comments": 24,
         "author": "j0selit0",
         "createdAt": "2026-08-11T10:40:47Z",
         "domain": "lighthousenewsletter.com",
@@ -96,15 +75,36 @@
         "impact": "高",
         "newsLens": "技術",
         "titleJa": "GitHub CopilotをMitMプロキシの背後に置くことで学んだこと",
-        "summaryJa": "この記事は「GitHub CopilotをMitMプロキシの背後に置くことで学んだこと」を扱っています。lighthousenewsletter.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "summaryJa": "この記事は「GitHub CopilotをMitMプロキシの背後に置くことで学んだこと」を扱っています。GitHub Copilotがコンテキスト、最近の編集、モデルルーティング、ローカルセッションメモリ、およびネットワーク要求をどのように処理するかについての技術的な詳細を説明します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
         "keyPoints": [
           "この記事は「GitHub CopilotをMitMプロキシの背後に置くことで学んだこと」を扱っています。",
-          "lighthousenewsletter.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "GitHub Copilotがコンテキスト、最近の編集、モデルルーティング、ローカルセッションメモリ、およびネットワーク要求をどのように処理するかについての技術的な詳細を説明します。",
           "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+        ]
+      },
+      {
+        "title": "General Catalyst leads $1.1B round into 2-month-old River AI",
+        "url": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/",
+        "points": 89,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-08-11T17:41:22.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
+        "category": "AIニュース",
+        "impact": "高",
+        "titleJa": "General Catalystが11億$のラウンドをリードし、2ヶ月前のRiver AIを獲得",
+        "summaryJa": "この記事は「General Catalystが11億$のラウンドをリードし、2ヶ月前のRiver AIを獲得」を扱っています。XAIの共同創業者であるIgor Babuschkin氏が設立したスタートアップであるRiver AIは、パーソナルエージェントの魅力的なビジョンを持ち、11億$を確保しました。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "keyPoints": [
+          "この記事は「General Catalystが11億$のラウンドをリードし、2ヶ月前のRiver AIを獲得」を扱っています。",
+          "XAIの共同創業者であるIgor Babuschkin氏が設立したスタートアップであるRiver AIは、パーソナルエージェントの魅力的なビジョンを持ち、11億$を確保しました。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       }
     ],
-    "fetchedAt": "2026-08-11T22:04:59.772Z",
+    "fetchedAt": "2026-08-12T02:43:00.082Z",
     "mock": false
   },
   "xTrends": {
@@ -113,24 +113,24 @@
         "topic": "Grok Bot",
         "locationLabel": "米国",
         "bestRank": 1,
-        "appearances": 5,
+        "appearances": 12,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-08-11T22:04:59.710Z",
+        "observedAt": "2026-08-12T02:42:59.961Z",
         "url": "https://x.com/search?q=Grok%20Bot&src=typed_query&f=live",
-        "articleTitle": "Grok Bot by SpaceXAI",
-        "articleTitleJa": "SpaceXAI の Grok ボット",
-        "articleUrl": "https://x.ai/news/introducing-grok-bot",
+        "articleTitle": "Grok Bot",
+        "articleTitleJa": "Grokボット",
+        "articleUrl": "https://x.ai/bot",
         "articleSource": "x.ai",
-        "articlePublishedAt": "2026-08-11T17:24:49Z",
-        "summaryJa": "Grok Bot は、常時稼働のエージェントのチームです。彼らは自分のコンピューターを持ち、あなたと同じようにツールやアプリ内で作業し、年中無休で働き続けます。",
+        "articlePublishedAt": "2026-08-11T17:23:09Z",
+        "summaryJa": "Grok Bot は、作業を完了する常時稼働の AI エージェントのチームです。彼らは自分のコンピュータを持っており、あなたと同じようにそれを使用し、決してログオフしません。",
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-08-11T22:04:59.772Z",
+    "fetchedAt": "2026-08-12T02:43:00.082Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-08-11T22:05:00.478Z"
+    "articleFetchedAt": "2026-08-12T02:43:01.343Z"
   }
 }
