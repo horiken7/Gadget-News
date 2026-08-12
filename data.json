@@ -44,10 +44,50 @@
         ]
       },
       {
+        "title": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
+        "url": "https://knownagents.com/insights",
+        "points": 88,
+        "comments": 26,
+        "author": "gavinhking",
+        "createdAt": "2026-08-12T14:02:46Z",
+        "domain": "knownagents.com",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "中",
+        "newsLens": "技術",
+        "titleJa": "誰かが大量の脆弱性スキャンを実行し、ClaudeBotのようなAIボットをなりすましています",
+        "summaryJa": "この記事は「誰かが大量の脆弱性スキャンを実行し、ClaudeBotのようなAIボットをなりすましています」を扱っています。ボットとヒューマントラフィック、AIスクレイピング、フェッチ、検索インデックス作成、ブラウジング、robots.txtコンプライアンス、および5,000以上のWebサイトにわたるAIチャット紹介の継続的な更新分析。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "keyPoints": [
+          "この記事は「誰かが大量の脆弱性スキャンを実行し、ClaudeBotのようなAIボットをなりすましています」を扱っています。",
+          "ボットとヒューマントラフィック、AIスクレイピング、フェッチ、検索インデックス作成、ブラウジング、robots.txtコンプライアンス、および5,000以上のWebサイトにわたるAIチャット紹介の継続的な更新分析。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+        ]
+      },
+      {
+        "title": "German advocacy group lodges criminal complaint over Meta AI glasses",
+        "url": "https://www.reuters.com/legal/government/german-advocacy-group-lodges-criminal-complaint-over-meta-ai-glasses-2026-08-12/",
+        "points": 75,
+        "comments": 20,
+        "author": "tartoran",
+        "createdAt": "2026-08-12T14:06:03Z",
+        "domain": "reuters.com",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "低",
+        "newsLens": "技術",
+        "titleJa": "ドイツのアドボカシーグループがMeta AIメガネをめぐる刑事訴訟を提起",
+        "summaryJa": "この記事は「ドイツのアドボカシーグループがMeta AIメガネをめぐる刑事訴訟を提起」を扱っています。reuters.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "keyPoints": [
+          "この記事は「ドイツのアドボカシーグループがMeta AIメガネをめぐる刑事訴訟を提起」を扱っています。",
+          "reuters.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+        ]
+      },
+      {
         "title": "Grok Bot",
         "url": "https://x.ai/bot",
         "points": 73,
-        "comments": 296,
+        "comments": 301,
         "author": "rvz",
         "createdAt": "2026-08-11T17:23:09Z",
         "domain": "x.ai",
@@ -62,49 +102,9 @@
           "Grok Botは、作業を完了する常時稼働のAIエージェントのチームです。",
           "彼らは自分のコンピュータを持っており、あなたのようにそれを使用し、ログオフすることはありません。"
         ]
-      },
-      {
-        "title": "Why Did OpenAI's Head of Ethics Chloé Bakalar Leave?",
-        "url": "https://aimagazine.com/news/why-did-openai-head-of-ethics-chloe-bakalar-leave",
-        "points": 63,
-        "comments": 5,
-        "author": "ashurandi",
-        "createdAt": "2026-08-11T14:03:18Z",
-        "domain": "aimagazine.com",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "OpenAIの倫理責任者Chloé Bakalarが退職した理由",
-        "summaryJa": "この記事は「OpenAIの倫理責任者Chloé Bakalarが退職した理由」を扱っています。OpenAIの倫理責任者Chloé Bakalarは、OpenAIハッキング事件に続いて、AIの安全性が混乱している中、主要なAIを離れました。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
-        "keyPoints": [
-          "この記事は「OpenAIの倫理責任者Chloé Bakalarが退職した理由」を扱っています。",
-          "OpenAIの倫理責任者Chloé Bakalarは、OpenAIハッキング事件に続いて、AIの安全性が混乱している中、主要なAIを離れました。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
-        ]
-      },
-      {
-        "title": "Grok Bot by SpaceXAI",
-        "url": "https://x.ai/news/introducing-grok-bot",
-        "points": 56,
-        "comments": 14,
-        "author": "colesantiago",
-        "createdAt": "2026-08-11T17:24:49Z",
-        "domain": "x.ai",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "低",
-        "newsLens": "技術",
-        "titleJa": "SpaceXAIのGrok Bot",
-        "summaryJa": "この記事は「SpaceXAIのGrok Bot」を扱っています。Grok Botは常時稼働するエージェントのチームです。彼らは自分のパソコンを持っており、あなたのようにツールやアプリの中で仕事をし、24時間年中無休で働き続けています。",
-        "keyPoints": [
-          "この記事は「SpaceXAIのGrok Bot」を扱っています。",
-          "Grok Botは常時稼働するエージェントのチームです。",
-          "彼らは自分のパソコンを持っており、あなたのようにツールやアプリの中で仕事をし、24時間年中無休で働き続けています。"
-        ]
       }
     ],
-    "fetchedAt": "2026-08-12T13:44:16.955Z",
+    "fetchedAt": "2026-08-12T16:08:37.804Z",
     "mock": false
   },
   "xTrends": {
@@ -113,10 +113,10 @@
         "topic": "Grok Bot",
         "locationLabel": "米国",
         "bestRank": 1,
-        "appearances": 25,
+        "appearances": 24,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-08-12T13:44:16.865Z",
+        "observedAt": "2026-08-12T16:08:37.758Z",
         "url": "https://x.com/search?q=Grok%20Bot&src=typed_query&f=live",
         "articleTitle": "Grok Bot",
         "articleTitleJa": "Grokボット",
@@ -125,12 +125,29 @@
         "articlePublishedAt": "2026-08-11T17:23:09Z",
         "summaryJa": "Grok Bot は、作業を完了する常時稼働の AI エージェントのチームです。彼らは自分のコンピュータを持っており、あなたと同じようにそれを使用し、決してログオフしません。",
         "translationVersion": 3
+      },
+      {
+        "topic": "Grok 4.6",
+        "locationLabel": "米国",
+        "bestRank": 8,
+        "appearances": 2,
+        "trendSource": "Trends24",
+        "sourceUrl": "https://trends24.in/united-states/",
+        "observedAt": "2026-08-12T16:08:37.758Z",
+        "url": "https://x.com/search?q=Grok%204.6&src=typed_query&f=live",
+        "articleTitle": "Grok 4.6",
+        "articleTitleJa": "Grok 4.6",
+        "articleUrl": "https://x.ai/news/grok-4-6",
+        "articleSource": "x.ai",
+        "articlePublishedAt": "2026-08-12T15:32:50Z",
+        "summaryJa": "Grok 4.6 は、長時間実行されるエージェントと、より野心的なインタラクティブでビジュアルな作業に特に重点を置いて、Grok 4.5 をベースに構築されています。",
+        "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-08-12T13:44:16.955Z",
+    "fetchedAt": "2026-08-12T16:08:37.804Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-08-12T13:44:17.601Z"
+    "articleFetchedAt": "2026-08-12T16:08:40.919Z"
   }
 }
