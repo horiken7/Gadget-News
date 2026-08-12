@@ -15,10 +15,10 @@
         "category": "AIニュース",
         "impact": "高",
         "titleJa": "AIの安全性への懸念が高まるにつれて、3人のパイオニアが開かれたままでいることを主張します",
-        "summaryJa": "この記事は「AIの安全性への懸念が高まるにつれて、3人のパイオニアが開かれたままでいることを主張します」を扱っています。Ai 4では、世界で最も尊敬されているAIの専門家であるGeoffrey Hinton、Fei - Fei Li、Andrew Ngの3人が、規制、オープンソースアクセス、そして中国がアジアで進歩するにつれて米国がどのように競争できるかについて議論しました。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "summaryJa": "この記事は「AIの安全性への懸念が高まるにつれて、3人のパイオニアが開かれたままでいることを主張します」を扱っています。Ai 4では、世界で最も尊敬されているAIの専門家であるGeoffrey Hinton、Fei — Fei Li、Andrew Ngの3人が、規制、オープンソースアクセス、そして中国がアジアで進歩するにつれて米国がどのように競争できるかについて議論しました。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
           "この記事は「AIの安全性への懸念が高まるにつれて、3人のパイオニアが開かれたままでいることを主張します」を扱っています。",
-          "Ai 4では、世界で最も尊敬されているAIの専門家であるGeoffrey Hinton、Fei - Fei Li、Andrew Ngの3人が、規制、オープンソースアクセス、そして中国がアジアで進歩するにつれて米国がどのように競争できるかについて議論しました。",
+          "Ai 4では、世界で最も尊敬されているAIの専門家であるGeoffrey Hinton、Fei — Fei Li、Andrew Ngの3人が、規制、オープンソースアクセス、そして中国がアジアで進歩するにつれて米国がどのように競争できるかについて議論しました。",
           "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       },
@@ -26,7 +26,7 @@
         "title": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
         "url": "https://knownagents.com/insights",
         "points": 101,
-        "comments": 99,
+        "comments": 128,
         "author": "gavinhking",
         "createdAt": "2026-08-12T14:02:46Z",
         "domain": "knownagents.com",
@@ -43,23 +43,23 @@
         ]
       },
       {
-        "title": "German advocacy group lodges criminal complaint over Meta AI glasses",
-        "url": "https://www.reuters.com/legal/government/german-advocacy-group-lodges-criminal-complaint-over-meta-ai-glasses-2026-08-12/",
-        "points": 83,
-        "comments": 38,
-        "author": "tartoran",
-        "createdAt": "2026-08-12T14:06:03Z",
-        "domain": "reuters.com",
+        "title": "Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials",
+        "url": "https://discoveredmaterials.com/research/",
+        "points": 96,
+        "comments": 18,
+        "author": "advaith08",
+        "createdAt": "2026-08-12T07:51:20Z",
+        "domain": "discoveredmaterials.com",
         "sourceType": "hn",
         "category": "AIニュース",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "ドイツのアドボカシーグループがMeta AIメガネをめぐる刑事訴訟を提起",
-        "summaryJa": "この記事は「ドイツのアドボカシーグループがMeta AIメガネをめぐる刑事訴訟を提起」を扱っています。reuters.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "titleJa": "HNを立ち上げる：発見された素材（ YC P 26 ） –新しい素材を発見するAIエージェント",
+        "summaryJa": "この記事は「HNを立ち上げる：発見された素材（ YC P 26 ） –新しい素材を発見するAIエージェント」を扱っています。私たちは発見された素材（ https://discoveredmaterials.com/ ）のAdvaithとAkashです。半導体業界の新しい素材を発見するAIエージェントを構築しています。",
         "keyPoints": [
-          "この記事は「ドイツのアドボカシーグループがMeta AIメガネをめぐる刑事訴訟を提起」を扱っています。",
-          "reuters.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+          "この記事は「HNを立ち上げる：発見された素材（ YC P 26 ） –新しい素材を発見するAIエージェント」を扱っています。",
+          "私たちは発見された素材（ https://discoveredmaterials.com/ ）のAdvaithとAkashです。",
+          "半導体業界の新しい素材を発見するAIエージェントを構築しています。"
         ]
       },
       {
@@ -84,27 +84,28 @@
         ]
       },
       {
-        "title": "DeepSeek V4 Pro 0813",
-        "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
-        "points": 73,
-        "comments": 149,
-        "author": "explosion-s",
-        "createdAt": "2026-08-12T16:04:50Z",
-        "domain": "openrouter.ai",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "高",
+        "title": "Terabytes of credentials leaked in massive supply-chain attack",
+        "url": "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/",
+        "points": 79,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-08-12T21:43:21.000Z",
+        "domain": "arstechnica.com",
+        "sourceType": "rss",
+        "sourceLabel": "Ars Technica",
         "newsLens": "技術",
-        "titleJa": "AIニュース: DeepSeek V 4 Pro 0813",
-        "summaryJa": "この記事は「DeepSeek V 4 Pro 0813」を扱っています。DeepSeek V 4 Pro 0813は、DeepSeekの大規模な専門家の混合モデルです。入力トークンあたり0.435ドル、出力トークンあたり0.87ドル。",
+        "category": "AIニュース",
+        "impact": "中",
+        "titleJa": "大規模なサプライチェーン攻撃でテラバイトの認証情報が漏洩",
+        "summaryJa": "この記事は「大規模なサプライチェーン攻撃でテラバイトの認証情報が漏洩」を扱っています。データは、侵害されたAIパッケージの2,500人のユーザーからスクレイピングされ、流出しました。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
         "keyPoints": [
-          "この記事は「DeepSeek V 4 Pro 0813」を扱っています。",
-          "DeepSeek V 4 Pro 0813は、DeepSeekの大規模な専門家の混合モデルです。",
-          "入力トークンあたり0.435ドル、出力トークンあたり0.87ドル。"
+          "この記事は「大規模なサプライチェーン攻撃でテラバイトの認証情報が漏洩」を扱っています。",
+          "データは、侵害されたAIパッケージの2,500人のユーザーからスクレイピングされ、流出しました。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
       }
     ],
-    "fetchedAt": "2026-08-12T19:18:48.800Z",
+    "fetchedAt": "2026-08-12T22:01:19.294Z",
     "mock": false
   },
   "xTrends": {
@@ -113,17 +114,17 @@
         "topic": "Grok 4.6",
         "locationLabel": "日本",
         "bestRank": 1,
-        "appearances": 6,
+        "appearances": 11,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-08-12T19:18:48.788Z",
+        "observedAt": "2026-08-12T22:01:19.252Z",
         "url": "https://x.com/search?q=Grok%204.6&src=typed_query&f=live",
-        "articleTitle": "SpaceXAI's Grok 4.6 Scores 61 on the Artificial Analysis Intelligence Index",
-        "articleTitleJa": "SpaceXAI の Grok 4.6 は、人工分析インテリジェンス インデックスで 61 点を獲得",
-        "articleUrl": "https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis",
-        "articleSource": "artificialanalysis.ai",
-        "articlePublishedAt": "2026-08-12T16:54:25Z",
-        "summaryJa": "AI モデルとホスティング プロバイダーの独立した分析。 AI の状況を理解し、ユースケースに最適なモデルと API プロバイダーを選択します。",
+        "articleTitle": "Grok 4.6",
+        "articleTitleJa": "Grok 4.6",
+        "articleUrl": "https://x.ai/news/grok-4-6",
+        "articleSource": "x.ai",
+        "articlePublishedAt": "2026-08-12T15:32:50Z",
+        "summaryJa": "Grok 4.6 は、長時間実行されるエージェントと、より野心的なインタラクティブでビジュアルな作業に特に重点を置いて、Grok 4.5 をベースに構築されています。",
         "translationVersion": 3
       },
       {
@@ -133,7 +134,7 @@
         "appearances": 22,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-08-12T19:18:48.742Z",
+        "observedAt": "2026-08-12T22:01:19.163Z",
         "url": "https://x.com/search?q=Grok%20Bot&src=typed_query&f=live",
         "articleTitle": "Grok Bot",
         "articleTitleJa": "Grokボット",
@@ -150,7 +151,7 @@
         "appearances": 1,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-08-12T19:18:48.742Z",
+        "observedAt": "2026-08-12T22:01:19.163Z",
         "url": "https://x.com/search?q=DeepSeek%20V4%20Pro&src=typed_query&f=live",
         "articleTitle": "DeepSeek V4 Pro 0813",
         "articleTitleJa": "DeepSeek V4 プロ 0813",
@@ -161,10 +162,10 @@
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-08-12T19:18:48.800Z",
+    "fetchedAt": "2026-08-12T22:01:19.294Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-08-12T19:18:52.014Z"
+    "articleFetchedAt": "2026-08-12T22:01:21.739Z"
   }
 }
