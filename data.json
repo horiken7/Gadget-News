@@ -63,23 +63,23 @@
         ]
       },
       {
-        "title": "OpenAI’s head of ethics leaves less than a year after joining",
-        "url": "https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0",
-        "points": 93,
-        "comments": 364,
-        "author": "ilamont",
-        "createdAt": "2026-08-11T12:23:07Z",
-        "domain": "ft.com",
+        "title": "Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI",
+        "url": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/",
+        "points": 101,
+        "comments": 36,
+        "author": "Anon84",
+        "createdAt": "2026-08-12T02:05:42Z",
+        "domain": "404media.co",
         "sourceType": "hn",
-        "category": "AIニュース",
+        "category": "研究",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "OpenAIの倫理責任者は、入社後1年未満で退職します",
-        "summaryJa": "この記事は「OpenAIの倫理責任者は、入社後1年未満で退職します」を扱っています。ft.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "titleJa": "「100 ％人間が書いた、決してAIではない」という医療研究を提供する企業は、100 ％ AIです",
+        "summaryJa": "この記事は「「100 ％人間が書いた、決してAIではない」という医療研究を提供する企業は、100 ％ AIです」を扱っています。リサーチゴールドの人間の方法論者のチームは、AIが生成したか、許可なく実際の人々のアイデンティティを使用しています。研究・実装面では、手法の新しさ、再現性、既存モデルとの差分が見るべき点です。",
         "keyPoints": [
-          "この記事は「OpenAIの倫理責任者は、入社後1年未満で退職します」を扱っています。",
-          "ft.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+          "この記事は「「100 ％人間が書いた、決してAIではない」という医療研究を提供する企業は、100 ％ AIです」を扱っています。",
+          "リサーチゴールドの人間の方法論者のチームは、AIが生成したか、許可なく実際の人々のアイデンティティを使用しています。",
+          "研究・実装面では、手法の新しさ、再現性、既存モデルとの差分が見るべき点です。"
         ]
       },
       {
@@ -104,7 +104,7 @@
         ]
       }
     ],
-    "fetchedAt": "2026-08-12T05:00:33.692Z",
+    "fetchedAt": "2026-08-12T07:50:51.497Z",
     "mock": false
   },
   "xTrends": {
@@ -113,10 +113,10 @@
         "topic": "Grok Bot",
         "locationLabel": "米国",
         "bestRank": 1,
-        "appearances": 13,
+        "appearances": 17,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-08-12T05:00:33.381Z",
+        "observedAt": "2026-08-12T07:50:51.450Z",
         "url": "https://x.com/search?q=Grok%20Bot&src=typed_query&f=live",
         "articleTitle": "Grok Bot",
         "articleTitleJa": "Grokボット",
@@ -127,10 +127,10 @@
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-08-12T05:00:33.692Z",
+    "fetchedAt": "2026-08-12T07:50:51.497Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-08-12T05:00:35.000Z"
+    "articleFetchedAt": "2026-08-12T07:50:52.163Z"
   }
 }
