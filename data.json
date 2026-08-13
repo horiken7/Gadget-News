@@ -23,64 +23,64 @@
         ]
       },
       {
-        "title": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
-        "url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
-        "points": 105,
+        "title": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
+        "url": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
+        "points": 107,
         "comments": 0,
         "author": "",
-        "createdAt": "2026-08-12T22:26:37.000Z",
+        "createdAt": "2026-08-13T15:30:52.000Z",
         "domain": "techcrunch.com",
         "sourceType": "rss",
         "sourceLabel": "TechCrunch AI",
         "newsLens": "一般",
-        "category": "AIモデル",
-        "impact": "高",
-        "titleJa": "一部のClaudeユーザーは、Anthropicの新しい透かしが仕事やクラスで使用していることに怒っています",
-        "summaryJa": "この記事は「一部のClaudeユーザーは、Anthropicの新しい透かしが仕事やクラスで使用していることに怒っています」を扱っています。Anthropicの新しいウォーターマークシステムは滑稽ですか？ソーシャルメディアに持ち込んで、そうだと文句を言う人もいます。",
-        "keyPoints": [
-          "この記事は「一部のClaudeユーザーは、Anthropicの新しい透かしが仕事やクラスで使用していることに怒っています」を扱っています。",
-          "Anthropicの新しいウォーターマークシステムは滑稽ですか。",
-          "ソーシャルメディアに持ち込んで、そうだと文句を言う人もいます。"
-        ]
-      },
-      {
-        "title": "DeepSeek V4 Pro 0813",
-        "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
-        "points": 101,
-        "comments": 424,
-        "author": "explosion-s",
-        "createdAt": "2026-08-12T16:04:50Z",
-        "domain": "openrouter.ai",
-        "sourceType": "hn",
         "category": "AIニュース",
         "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "AIニュース: DeepSeek V 4 Pro 0813",
-        "summaryJa": "この記事は「DeepSeek V 4 Pro 0813」を扱っています。openrouter.aiが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "titleJa": "マイクロソフトは、個別のCopilotアプリをマージしながら、失敗したAI機能を削除します",
+        "summaryJa": "この記事は「マイクロソフトは、個別のCopilotアプリをマージしながら、失敗したAI機能を削除します」を扱っています。マイクロソフトは、コンシューマーアプリとビジネスアプリを組み合わせ、AI生成ポッドキャスト、グループチャット、ディープリサーチ、およびそのMicoキャラクターを廃止することで、Copilotを簡素化しています。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
-          "この記事は「DeepSeek V 4 Pro 0813」を扱っています。",
-          "openrouter.aiが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+          "この記事は「マイクロソフトは、個別のCopilotアプリをマージしながら、失敗したAI機能を削除します」を扱っています。",
+          "マイクロソフトは、コンシューマーアプリとビジネスアプリを組み合わせ、AI生成ポッドキャスト、グループチャット、ディープリサーチ、およびそのMicoキャラクターを廃止することで、Copilotを簡素化しています。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       },
       {
-        "title": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
-        "url": "https://knownagents.com/insights",
-        "points": 101,
-        "comments": 221,
-        "author": "gavinhking",
-        "createdAt": "2026-08-12T14:02:46Z",
-        "domain": "knownagents.com",
+        "title": "If I own Claude's outputs why can't I train my own model on them?",
+        "url": "https://support.claude.com/en/articles/12326764-can-i-use-my-outputs-to-train-an-ai-model",
+        "points": 90,
+        "comments": 75,
+        "author": "DarenWatson",
+        "createdAt": "2026-08-13T09:34:13Z",
+        "domain": "support.claude.com",
         "sourceType": "hn",
         "category": "AIモデル",
-        "impact": "高",
+        "impact": "中",
         "newsLens": "技術",
-        "titleJa": "誰かが大量の脆弱性スキャンを実行し、ClaudeBotのようなAIボットをなりすましています",
-        "summaryJa": "この記事は「誰かが大量の脆弱性スキャンを実行し、ClaudeBotのようなAIボットをなりすましています」を扱っています。ボットとヒューマントラフィック、AIスクレイピング、フェッチ、検索インデックス作成、ブラウジング、robots.txtコンプライアンス、および5,000以上のWebサイトにわたるAIチャット紹介の継続的な更新分析。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "titleJa": "私がClaudeのアウトプットを所有しているのなら、なぜ自分のモデルをトレーニングできないのですか？",
+        "summaryJa": "この記事は「私がClaudeのアウトプットを所有しているのなら、なぜ自分のモデルをトレーニングできないのですか？」を扱っています。support.claude.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
         "keyPoints": [
-          "この記事は「誰かが大量の脆弱性スキャンを実行し、ClaudeBotのようなAIボットをなりすましています」を扱っています。",
-          "ボットとヒューマントラフィック、AIスクレイピング、フェッチ、検索インデックス作成、ブラウジング、robots.txtコンプライアンス、および5,000以上のWebサイトにわたるAIチャット紹介の継続的な更新分析。",
+          "この記事は「私がClaudeのアウトプットを所有しているのなら、なぜ自分のモデルをトレーニングできないのですか。",
+          "support.claude.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
           "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+        ]
+      },
+      {
+        "title": "DeepSeek API Pricing Update",
+        "url": "https://twitter.com/deepseek_ai/status/2087864589895798968",
+        "points": 89,
+        "comments": 28,
+        "author": "mfiguiere",
+        "createdAt": "2026-08-13T12:49:21Z",
+        "domain": "twitter.com",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "中",
+        "newsLens": "技術",
+        "titleJa": "DeepSeek API価格設定の更新",
+        "summaryJa": "この記事は「DeepSeek API価格設定の更新」を扱っています。twitter.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "keyPoints": [
+          "この記事は「DeepSeek API価格設定の更新」を扱っています。",
+          "twitter.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
       },
       {
@@ -105,7 +105,7 @@
         ]
       }
     ],
-    "fetchedAt": "2026-08-13T13:45:37.248Z",
+    "fetchedAt": "2026-08-13T16:08:45.899Z",
     "mock": false
   },
   "xTrends": {
@@ -117,13 +117,13 @@
         "appearances": 25,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-08-13T13:45:37.180Z",
+        "observedAt": "2026-08-13T16:08:45.880Z",
         "url": "https://x.com/search?q=Grok%204.6&src=typed_query&f=live",
         "articleTitle": "Grok 4.6",
         "articleTitleJa": "公開トレンド: Grok 4.6",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-08-13T13:45:37.180Z",
+        "articlePublishedAt": "2026-08-13T16:08:45.880Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -131,11 +131,11 @@
       {
         "topic": "Grok Bot",
         "locationLabel": "カナダ",
-        "bestRank": 8,
-        "appearances": 23,
+        "bestRank": 11,
+        "appearances": 24,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/canada/",
-        "observedAt": "2026-08-13T13:45:37.198Z",
+        "observedAt": "2026-08-13T16:08:45.713Z",
         "url": "https://x.com/search?q=Grok%20Bot&src=typed_query&f=live",
         "articleTitle": "Grok Bot",
         "articleTitleJa": "Grokボット",
@@ -146,10 +146,10 @@
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-08-13T13:45:37.248Z",
+    "fetchedAt": "2026-08-13T16:08:45.899Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-08-13T13:45:39.092Z"
+    "articleFetchedAt": "2026-08-13T16:08:47.832Z"
   }
 }
