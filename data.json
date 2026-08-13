@@ -15,31 +15,31 @@
         "category": "AIニュース",
         "impact": "高",
         "titleJa": "Anthropicは、同じタスクでAIエージェントを解放します。彼らは縄張り争いを始めました。",
-        "summaryJa": "この記事は「Anthropicは、同じタスクでAIエージェントを解放します。彼らは縄張り争いを始めました。」を扱っています。Anthropicの研究者は、AIエージェントが予期せぬ方法で衝突し、共謀し、調整する可能性があることを発見し、今日の安全性テストがマルチエージェントシステムのリスクを把握しているかどうかについての新しい疑問を提起しました。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "summaryJa": "この記事は「Anthropicは、同じタスクでAIエージェントを解放します。彼らは縄張り争いを始めました。」を扱っています。Anthropicの研究者は、AIエージェントが予期せぬ方法で衝突し、共謀し、調整する可能性があることを発見し、今日の安全性テストがマルチエージェントシステムのリスクを捉えているかどうかについての新しい疑問を提起しています。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
           "この記事は「Anthropicは、同じタスクでAIエージェントを解放します。",
           "彼らは縄張り争いを始めました。",
-          "Anthropicの研究者は、AIエージェントが予期せぬ方法で衝突し、共謀し、調整する可能性があることを発見し、今日の安全性テストがマルチエージェントシステムのリスクを把握しているかどうかについての新しい疑問を提起しました。"
+          "Anthropicの研究者は、AIエージェントが予期せぬ方法で衝突し、共謀し、調整する可能性があることを発見し、今日の安全性テストがマルチエージェントシステムのリスクを捉えているかどうかについての新しい疑問を提起しています。"
         ]
       },
       {
-        "title": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
-        "url": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
+        "title": "Writer introduces new AI model and upgraded harness to contain token costs",
+        "url": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
         "points": 107,
         "comments": 0,
         "author": "",
-        "createdAt": "2026-08-13T15:30:52.000Z",
+        "createdAt": "2026-08-13T21:13:24.000Z",
         "domain": "techcrunch.com",
         "sourceType": "rss",
         "sourceLabel": "TechCrunch AI",
         "newsLens": "一般",
-        "category": "AIニュース",
+        "category": "AIモデル",
         "impact": "高",
-        "titleJa": "マイクロソフトは、個別のCopilotアプリをマージしながら、失敗したAI機能を削除します",
-        "summaryJa": "この記事は「マイクロソフトは、個別のCopilotアプリをマージしながら、失敗したAI機能を削除します」を扱っています。マイクロソフトは、コンシューマーアプリとビジネスアプリを組み合わせ、AI生成ポッドキャスト、グループチャット、ディープリサーチ、およびそのMicoキャラクターを廃止することで、Copilotを簡素化しています。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "titleJa": "Writerは、トークンコストを抑えるための新しいAIモデルとアップグレードされたハーネスを紹介します",
+        "summaryJa": "この記事は「Writerは、トークンコストを抑えるための新しいAIモデルとアップグレードされたハーネスを紹介します」を扱っています。Z.aiのオープンソースモデルGLM-5.2のトレーニング後のバリエーションとして構築されたWriter氏は、新しいシステムは、展開可能な機能をはるかに低価格で提供する必要があると述べています。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
-          "この記事は「マイクロソフトは、個別のCopilotアプリをマージしながら、失敗したAI機能を削除します」を扱っています。",
-          "マイクロソフトは、コンシューマーアプリとビジネスアプリを組み合わせ、AI生成ポッドキャスト、グループチャット、ディープリサーチ、およびそのMicoキャラクターを廃止することで、Copilotを簡素化しています。",
+          "この記事は「Writerは、トークンコストを抑えるための新しいAIモデルとアップグレードされたハーネスを紹介します」を扱っています。",
+          "Z.aiのオープンソースモデルGLM-5.2のトレーニング後のバリエーションとして構築されたWriter氏は、新しいシステムは、展開可能な機能をはるかに低価格で提供する必要があると述べています。",
           "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       },
@@ -47,7 +47,7 @@
         "title": "DeepSeek Harness developer preview",
         "url": "https://deepseek.com/harness/en/",
         "points": 101,
-        "comments": 209,
+        "comments": 230,
         "author": "bjin",
         "createdAt": "2026-08-13T12:58:02Z",
         "domain": "deepseek.com",
@@ -67,7 +67,7 @@
         "title": "Gemini 3.7 Flash",
         "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
         "points": 101,
-        "comments": 192,
+        "comments": 297,
         "author": "thisisauserid",
         "createdAt": "2026-08-13T17:23:22Z",
         "domain": "blog.google",
@@ -86,7 +86,7 @@
       {
         "title": "DeepSeek API Pricing Update",
         "url": "https://twitter.com/deepseek_ai/status/2087864589895798968",
-        "points": 97,
+        "points": 98,
         "comments": 42,
         "author": "mfiguiere",
         "createdAt": "2026-08-13T12:49:21Z",
@@ -104,43 +104,43 @@
         ]
       }
     ],
-    "fetchedAt": "2026-08-13T19:18:45.244Z",
+    "fetchedAt": "2026-08-13T22:01:35.182Z",
     "mock": false
   },
   "xTrends": {
     "items": [
       {
         "topic": "Gemini 3.7 Flash",
-        "locationLabel": "米国",
+        "locationLabel": "日本",
         "bestRank": 8,
-        "appearances": 2,
+        "appearances": 6,
         "trendSource": "Trends24",
-        "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-08-13T19:18:45.134Z",
+        "sourceUrl": "https://trends24.in/japan/",
+        "observedAt": "2026-08-13T22:01:35.139Z",
         "url": "https://x.com/search?q=Gemini%203.7%20Flash&src=typed_query&f=live",
         "articleTitle": "Gemini 3.7 Flash",
         "articleTitleJa": "公開トレンド: Gemini 3.7 Flash",
-        "articleUrl": "https://trends24.in/united-states/",
+        "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-08-13T19:18:45.134Z",
-        "summaryJa": "米国のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
+        "articlePublishedAt": "2026-08-13T22:01:35.139Z",
+        "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
       },
       {
         "topic": "Grok 4.6",
         "locationLabel": "英国",
-        "bestRank": 1,
+        "bestRank": 3,
         "appearances": 24,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-kingdom/",
-        "observedAt": "2026-08-13T19:18:45.230Z",
+        "observedAt": "2026-08-13T22:01:35.092Z",
         "url": "https://x.com/search?q=Grok%204.6&src=typed_query&f=live",
         "articleTitle": "Grok 4.6",
         "articleTitleJa": "公開トレンド: Grok 4.6",
         "articleUrl": "https://trends24.in/united-kingdom/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-08-13T19:18:45.230Z",
+        "articlePublishedAt": "2026-08-13T22:01:35.092Z",
         "summaryJa": "英国のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -148,11 +148,11 @@
       {
         "topic": "Grok Bot",
         "locationLabel": "カナダ",
-        "bestRank": 16,
-        "appearances": 19,
+        "bestRank": 23,
+        "appearances": 18,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/canada/",
-        "observedAt": "2026-08-13T19:18:45.211Z",
+        "observedAt": "2026-08-13T22:01:35.059Z",
         "url": "https://x.com/search?q=Grok%20Bot&src=typed_query&f=live",
         "articleTitle": "Grok Bot",
         "articleTitleJa": "Grokボット",
@@ -163,10 +163,10 @@
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-08-13T19:18:45.244Z",
+    "fetchedAt": "2026-08-13T22:01:35.182Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-08-13T19:18:49.393Z"
+    "articleFetchedAt": "2026-08-13T22:01:37.743Z"
   }
 }
