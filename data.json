@@ -44,10 +44,30 @@
         ]
       },
       {
+        "title": "DeepSeek V4 Pro 0813",
+        "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
+        "points": 101,
+        "comments": 359,
+        "author": "explosion-s",
+        "createdAt": "2026-08-12T16:04:50Z",
+        "domain": "openrouter.ai",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "AIニュース: DeepSeek V 4 Pro 0813",
+        "summaryJa": "この記事は「DeepSeek V 4 Pro 0813」を扱っています。openrouter.aiが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "keyPoints": [
+          "この記事は「DeepSeek V 4 Pro 0813」を扱っています。",
+          "openrouter.aiが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+        ]
+      },
+      {
         "title": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
         "url": "https://knownagents.com/insights",
         "points": 101,
-        "comments": 190,
+        "comments": 200,
         "author": "gavinhking",
         "createdAt": "2026-08-12T14:02:46Z",
         "domain": "knownagents.com",
@@ -66,7 +86,7 @@
       {
         "title": "Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials",
         "url": "https://discoveredmaterials.com/research/",
-        "points": 101,
+        "points": 93,
         "comments": 28,
         "author": "advaith08",
         "createdAt": "2026-08-12T07:51:20Z",
@@ -82,30 +102,9 @@
           "私たちは発見された素材（ https://discoveredmaterials.com/ ）のAdvaithとAkashです。",
           "半導体業界の新しい素材を発見するAIエージェントを構築しています。"
         ]
-      },
-      {
-        "title": "Terabytes of credentials leaked in massive supply-chain attack",
-        "url": "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/",
-        "points": 79,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-08-12T21:43:21.000Z",
-        "domain": "arstechnica.com",
-        "sourceType": "rss",
-        "sourceLabel": "Ars Technica",
-        "newsLens": "技術",
-        "category": "AIニュース",
-        "impact": "中",
-        "titleJa": "大規模なサプライチェーン攻撃でテラバイトの認証情報が漏洩",
-        "summaryJa": "この記事は「大規模なサプライチェーン攻撃でテラバイトの認証情報が漏洩」を扱っています。データは、侵害されたAIパッケージの2,500人のユーザーからスクレイピングされ、流出しました。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
-        "keyPoints": [
-          "この記事は「大規模なサプライチェーン攻撃でテラバイトの認証情報が漏洩」を扱っています。",
-          "データは、侵害されたAIパッケージの2,500人のユーザーからスクレイピングされ、流出しました。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
-        ]
       }
     ],
-    "fetchedAt": "2026-08-13T05:02:53.064Z",
+    "fetchedAt": "2026-08-13T07:51:30.346Z",
     "mock": false
   },
   "xTrends": {
@@ -114,36 +113,19 @@
         "topic": "Grok 4.6",
         "locationLabel": "日本",
         "bestRank": 1,
-        "appearances": 18,
+        "appearances": 23,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-08-13T05:02:53.014Z",
+        "observedAt": "2026-08-13T07:51:30.328Z",
         "url": "https://x.com/search?q=Grok%204.6&src=typed_query&f=live",
         "articleTitle": "Grok 4.6",
         "articleTitleJa": "公開トレンド: Grok 4.6",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-08-13T05:02:53.014Z",
+        "articlePublishedAt": "2026-08-13T07:51:30.328Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
-      },
-      {
-        "topic": "Grok Bot",
-        "locationLabel": "米国",
-        "bestRank": 8,
-        "appearances": 22,
-        "trendSource": "Trends24",
-        "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-08-13T05:02:52.956Z",
-        "url": "https://x.com/search?q=Grok%20Bot&src=typed_query&f=live",
-        "articleTitle": "Grok Bot",
-        "articleTitleJa": "Grokボット",
-        "articleUrl": "https://x.ai/bot",
-        "articleSource": "x.ai",
-        "articlePublishedAt": "2026-08-11T17:23:09Z",
-        "summaryJa": "Grok Bot は、作業を完了する常時稼働の AI エージェントのチームです。彼らは自分のコンピュータを持っており、あなたと同じようにそれを使用し、決してログオフしません。",
-        "translationVersion": 3
       },
       {
         "topic": "DeepSeek V4 Pro",
@@ -152,21 +134,39 @@
         "appearances": 1,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-08-13T05:02:52.956Z",
+        "observedAt": "2026-08-13T07:51:30.301Z",
         "url": "https://x.com/search?q=DeepSeek%20V4%20Pro&src=typed_query&f=live",
-        "articleTitle": "DeepSeek V4 Pro 0813",
-        "articleTitleJa": "DeepSeek V4 プロ 0813",
-        "articleUrl": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
-        "articleSource": "openrouter.ai",
-        "articlePublishedAt": "2026-08-12T16:04:50Z",
-        "summaryJa": "DeepSeek V4 Pro 0813 は、DeepSeek の大規模な専門家混合モデルです。入力トークン 100 万あたり 0.435 ドル、出力トークン 100 万あたり 0.87 ドル。 1,048,576 トークン コンテキスト ウィンドウ、最大出力 384,000 トークン。 Artificial Analysis からの独立したベンチマークが含まれています。",
+        "articleTitle": "DeepSeek V4 Pro",
+        "articleTitleJa": "公開トレンド: DeepSeek V4 Pro",
+        "articleUrl": "https://trends24.in/united-states/",
+        "articleSource": "Trends24",
+        "articlePublishedAt": "2026-08-13T07:51:30.301Z",
+        "summaryJa": "米国のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
+        "translationVersion": 3,
+        "articleFallback": true
+      },
+      {
+        "topic": "Grok Bot",
+        "locationLabel": "カナダ",
+        "bestRank": 8,
+        "appearances": 22,
+        "trendSource": "Trends24",
+        "sourceUrl": "https://trends24.in/canada/",
+        "observedAt": "2026-08-13T07:51:30.279Z",
+        "url": "https://x.com/search?q=Grok%20Bot&src=typed_query&f=live",
+        "articleTitle": "Grok Bot",
+        "articleTitleJa": "Grokボット",
+        "articleUrl": "https://x.ai/bot",
+        "articleSource": "x.ai",
+        "articlePublishedAt": "2026-08-11T17:23:09Z",
+        "summaryJa": "Grok Bot は、作業を完了する常時稼働の AI エージェントのチームです。彼らは自分のコンピュータを持っており、あなたと同じようにそれを使用し、決してログオフしません。",
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-08-13T05:02:53.064Z",
+    "fetchedAt": "2026-08-13T07:51:30.346Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-08-13T05:02:55.325Z"
+    "articleFetchedAt": "2026-08-13T07:51:33.643Z"
   }
 }
