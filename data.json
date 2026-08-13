@@ -23,10 +23,31 @@
         ]
       },
       {
+        "title": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
+        "url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
+        "points": 105,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-08-12T22:26:37.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
+        "category": "AIモデル",
+        "impact": "高",
+        "titleJa": "一部のClaudeユーザーは、Anthropicの新しい透かしが仕事やクラスで使用していることに怒っています",
+        "summaryJa": "この記事は「一部のClaudeユーザーは、Anthropicの新しい透かしが仕事やクラスで使用していることに怒っています」を扱っています。Anthropicの新しいウォーターマークシステムは滑稽ですか？ソーシャルメディアに持ち込んで、そうだと文句を言う人もいます。",
+        "keyPoints": [
+          "この記事は「一部のClaudeユーザーは、Anthropicの新しい透かしが仕事やクラスで使用していることに怒っています」を扱っています。",
+          "Anthropicの新しいウォーターマークシステムは滑稽ですか。",
+          "ソーシャルメディアに持ち込んで、そうだと文句を言う人もいます。"
+        ]
+      },
+      {
         "title": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
         "url": "https://knownagents.com/insights",
         "points": 101,
-        "comments": 128,
+        "comments": 179,
         "author": "gavinhking",
         "createdAt": "2026-08-12T14:02:46Z",
         "domain": "knownagents.com",
@@ -45,8 +66,8 @@
       {
         "title": "Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials",
         "url": "https://discoveredmaterials.com/research/",
-        "points": 96,
-        "comments": 18,
+        "points": 98,
+        "comments": 22,
         "author": "advaith08",
         "createdAt": "2026-08-12T07:51:20Z",
         "domain": "discoveredmaterials.com",
@@ -60,27 +81,6 @@
           "この記事は「HNを立ち上げる：発見された素材（ YC P 26 ） –新しい素材を発見するAIエージェント」を扱っています。",
           "私たちは発見された素材（ https://discoveredmaterials.com/ ）のAdvaithとAkashです。",
           "半導体業界の新しい素材を発見するAIエージェントを構築しています。"
-        ]
-      },
-      {
-        "title": "Mesh, Automattic’s CRM for everyone, comes to Android",
-        "url": "https://techcrunch.com/2026/08/12/mesh-automattics-crm-for-everyone-comes-to-android/",
-        "points": 79,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-08-12T16:57:58.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
-        "category": "AIニュース",
-        "impact": "中",
-        "titleJa": "Automatticのすべての人向けCRMであるMeshがAndroidに登場",
-        "summaryJa": "この記事は「Automatticのすべての人向けCRMであるMeshがAndroidに登場」を扱っています。AutomatticのAIを搭載した連絡先アプリとリレーションシップマネージャーであるMeshは、現在Androidアプリです。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
-        "keyPoints": [
-          "この記事は「Automatticのすべての人向けCRMであるMeshがAndroidに登場」を扱っています。",
-          "AutomatticのAIを搭載した連絡先アプリとリレーションシップマネージャーであるMeshは、現在Androidアプリです。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       },
       {
@@ -105,7 +105,7 @@
         ]
       }
     ],
-    "fetchedAt": "2026-08-12T22:01:19.294Z",
+    "fetchedAt": "2026-08-13T02:45:52.231Z",
     "mock": false
   },
   "xTrends": {
@@ -114,27 +114,28 @@
         "topic": "Grok 4.6",
         "locationLabel": "日本",
         "bestRank": 1,
-        "appearances": 11,
+        "appearances": 16,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-08-12T22:01:19.252Z",
+        "observedAt": "2026-08-13T02:45:52.212Z",
         "url": "https://x.com/search?q=Grok%204.6&src=typed_query&f=live",
         "articleTitle": "Grok 4.6",
-        "articleTitleJa": "Grok 4.6",
-        "articleUrl": "https://x.ai/news/grok-4-6",
-        "articleSource": "x.ai",
-        "articlePublishedAt": "2026-08-12T15:32:50Z",
-        "summaryJa": "Grok 4.6 は、長時間実行されるエージェントと、より野心的なインタラクティブでビジュアルな作業に特に重点を置いて、Grok 4.5 をベースに構築されています。",
-        "translationVersion": 3
+        "articleTitleJa": "公開トレンド: Grok 4.6",
+        "articleUrl": "https://trends24.in/japan/",
+        "articleSource": "Trends24",
+        "articlePublishedAt": "2026-08-13T02:45:52.212Z",
+        "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
+        "translationVersion": 3,
+        "articleFallback": true
       },
       {
         "topic": "Grok Bot",
         "locationLabel": "米国",
-        "bestRank": 6,
+        "bestRank": 8,
         "appearances": 22,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-08-12T22:01:19.163Z",
+        "observedAt": "2026-08-13T02:45:52.116Z",
         "url": "https://x.com/search?q=Grok%20Bot&src=typed_query&f=live",
         "articleTitle": "Grok Bot",
         "articleTitleJa": "Grokボット",
@@ -151,7 +152,7 @@
         "appearances": 1,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-08-12T22:01:19.163Z",
+        "observedAt": "2026-08-13T02:45:52.116Z",
         "url": "https://x.com/search?q=DeepSeek%20V4%20Pro&src=typed_query&f=live",
         "articleTitle": "DeepSeek V4 Pro 0813",
         "articleTitleJa": "DeepSeek V4 プロ 0813",
@@ -162,10 +163,10 @@
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-08-12T22:01:19.294Z",
+    "fetchedAt": "2026-08-13T02:45:52.231Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-08-12T22:01:21.739Z"
+    "articleFetchedAt": "2026-08-13T02:45:55.506Z"
   }
 }
