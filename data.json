@@ -47,7 +47,7 @@
         "title": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
         "url": "https://knownagents.com/insights",
         "points": 101,
-        "comments": 179,
+        "comments": 190,
         "author": "gavinhking",
         "createdAt": "2026-08-12T14:02:46Z",
         "domain": "knownagents.com",
@@ -66,8 +66,8 @@
       {
         "title": "Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials",
         "url": "https://discoveredmaterials.com/research/",
-        "points": 98,
-        "comments": 22,
+        "points": 101,
+        "comments": 28,
         "author": "advaith08",
         "createdAt": "2026-08-12T07:51:20Z",
         "domain": "discoveredmaterials.com",
@@ -105,7 +105,7 @@
         ]
       }
     ],
-    "fetchedAt": "2026-08-13T02:45:52.231Z",
+    "fetchedAt": "2026-08-13T05:02:53.064Z",
     "mock": false
   },
   "xTrends": {
@@ -114,16 +114,16 @@
         "topic": "Grok 4.6",
         "locationLabel": "日本",
         "bestRank": 1,
-        "appearances": 16,
+        "appearances": 18,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-08-13T02:45:52.212Z",
+        "observedAt": "2026-08-13T05:02:53.014Z",
         "url": "https://x.com/search?q=Grok%204.6&src=typed_query&f=live",
         "articleTitle": "Grok 4.6",
         "articleTitleJa": "公開トレンド: Grok 4.6",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-08-13T02:45:52.212Z",
+        "articlePublishedAt": "2026-08-13T05:02:53.014Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -135,7 +135,7 @@
         "appearances": 22,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-08-13T02:45:52.116Z",
+        "observedAt": "2026-08-13T05:02:52.956Z",
         "url": "https://x.com/search?q=Grok%20Bot&src=typed_query&f=live",
         "articleTitle": "Grok Bot",
         "articleTitleJa": "Grokボット",
@@ -152,7 +152,7 @@
         "appearances": 1,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-08-13T02:45:52.116Z",
+        "observedAt": "2026-08-13T05:02:52.956Z",
         "url": "https://x.com/search?q=DeepSeek%20V4%20Pro&src=typed_query&f=live",
         "articleTitle": "DeepSeek V4 Pro 0813",
         "articleTitleJa": "DeepSeek V4 プロ 0813",
@@ -163,10 +163,10 @@
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-08-13T02:45:52.231Z",
+    "fetchedAt": "2026-08-13T05:02:53.064Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-08-13T02:45:55.506Z"
+    "articleFetchedAt": "2026-08-13T05:02:55.325Z"
   }
 }
