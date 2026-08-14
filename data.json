@@ -47,7 +47,7 @@
         "title": "Gemini 3.7 Flash",
         "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
         "points": 101,
-        "comments": 366,
+        "comments": 388,
         "author": "thisisauserid",
         "createdAt": "2026-08-13T17:23:22Z",
         "domain": "blog.google",
@@ -67,7 +67,7 @@
         "title": "DeepSeek Harness developer preview",
         "url": "https://deepseek.com/harness/en/",
         "points": 101,
-        "comments": 248,
+        "comments": 251,
         "author": "bjin",
         "createdAt": "2026-08-13T12:58:02Z",
         "domain": "deepseek.com",
@@ -87,7 +87,7 @@
         "title": "DeepSeek API Pricing Update",
         "url": "https://twitter.com/deepseek_ai/status/2087864589895798968",
         "points": 100,
-        "comments": 46,
+        "comments": 47,
         "author": "mfiguiere",
         "createdAt": "2026-08-13T12:49:21Z",
         "domain": "twitter.com",
@@ -104,7 +104,7 @@
         ]
       }
     ],
-    "fetchedAt": "2026-08-14T02:43:58.527Z",
+    "fetchedAt": "2026-08-14T04:59:45.214Z",
     "mock": false
   },
   "xTrends": {
@@ -116,13 +116,13 @@
         "appearances": 10,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-08-14T02:43:58.509Z",
+        "observedAt": "2026-08-14T04:59:45.151Z",
         "url": "https://x.com/search?q=Gemini%203.7%20Flash&src=typed_query&f=live",
         "articleTitle": "Gemini 3.7 Flash",
         "articleTitleJa": "公開トレンド: Gemini 3.7 Flash",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-08-14T02:43:58.509Z",
+        "articlePublishedAt": "2026-08-14T04:59:45.151Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -134,13 +134,13 @@
         "appearances": 24,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-kingdom/",
-        "observedAt": "2026-08-14T02:43:58.485Z",
+        "observedAt": "2026-08-14T04:59:45.098Z",
         "url": "https://x.com/search?q=Grok%204.6&src=typed_query&f=live",
         "articleTitle": "Grok 4.6",
         "articleTitleJa": "公開トレンド: Grok 4.6",
         "articleUrl": "https://trends24.in/united-kingdom/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-08-14T02:43:58.485Z",
+        "articlePublishedAt": "2026-08-14T04:59:45.098Z",
         "summaryJa": "英国のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -148,11 +148,11 @@
       {
         "topic": "Grok Bot",
         "locationLabel": "カナダ",
-        "bestRank": 27,
-        "appearances": 11,
+        "bestRank": 37,
+        "appearances": 8,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/canada/",
-        "observedAt": "2026-08-14T02:43:58.463Z",
+        "observedAt": "2026-08-14T04:59:45.173Z",
         "url": "https://x.com/search?q=Grok%20Bot&src=typed_query&f=live",
         "articleTitle": "Grok Bot",
         "articleTitleJa": "Grokボット",
@@ -163,10 +163,10 @@
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-08-14T02:43:58.527Z",
+    "fetchedAt": "2026-08-14T04:59:45.214Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-08-14T02:44:00.612Z"
+    "articleFetchedAt": "2026-08-14T04:59:47.494Z"
   }
 }
