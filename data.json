@@ -23,31 +23,31 @@
         ]
       },
       {
-        "title": "Writer introduces new AI model and upgraded harness to contain token costs",
-        "url": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
+        "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
+        "url": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
         "points": 107,
         "comments": 0,
         "author": "",
-        "createdAt": "2026-08-13T21:13:24.000Z",
+        "createdAt": "2026-08-14T15:43:28.000Z",
         "domain": "techcrunch.com",
         "sourceType": "rss",
         "sourceLabel": "TechCrunch AI",
         "newsLens": "一般",
-        "category": "AIモデル",
+        "category": "AIニュース",
         "impact": "高",
-        "titleJa": "Writerは、トークンコストを抑えるための新しいAIモデルとアップグレードされたハーネスを紹介します",
-        "summaryJa": "この記事は「Writerは、トークンコストを抑えるための新しいAIモデルとアップグレードされたハーネスを紹介します」を扱っています。Z.aiのオープンソースモデルGLM-5.2のトレーニング後のバリエーションとして構築されたWriter氏は、新しいシステムは、展開可能な機能をはるかに低価格で提供する必要があると述べています。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "titleJa": "マーク・ザッカーバーグは、AIが「すべての人のため」であると本当に信じていますか？",
+        "summaryJa": "この記事は「マーク・ザッカーバーグは、AIが「すべての人のため」であると本当に信じていますか？」を扱っています。Metaは今週、誰でもダウンロードして独自のハードウェアで実行できるオープンウェイトなAIモデルであるGlimmerをリリースした。これは、独自のAPIの背後にある同社のより強力なモデルであるMuse Sparkとは対照的である。",
         "keyPoints": [
-          "この記事は「Writerは、トークンコストを抑えるための新しいAIモデルとアップグレードされたハーネスを紹介します」を扱っています。",
-          "Z.aiのオープンソースモデルGLM-5.2のトレーニング後のバリエーションとして構築されたWriter氏は、新しいシステムは、展開可能な機能をはるかに低価格で提供する必要があると述べています。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+          "この記事は「マーク・ザッカーバーグは、AIが「すべての人のため」であると本当に信じていますか。",
+          "Metaは今週、誰でもダウンロードして独自のハードウェアで実行できるオープンウェイトなAIモデルであるGlimmerをリリースした。",
+          "これは、独自のAPIの背後にある同社のより強力なモデルであるMuse Sparkとは対照的である。"
         ]
       },
       {
         "title": "Gemini 3.7 Flash",
         "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
         "points": 101,
-        "comments": 453,
+        "comments": 471,
         "author": "thisisauserid",
         "createdAt": "2026-08-13T17:23:22Z",
         "domain": "blog.google",
@@ -64,10 +64,31 @@
         ]
       },
       {
+        "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
+        "url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
+        "points": 79,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-08-14T14:27:14.000Z",
+        "domain": "arstechnica.com",
+        "sourceType": "rss",
+        "sourceLabel": "Ars Technica",
+        "newsLens": "技術",
+        "category": "AIニュース",
+        "impact": "中",
+        "titleJa": "OpenAIとAnthropicが価格戦争で中国のAIライバルが優位に立つ",
+        "summaryJa": "この記事は「OpenAIとAnthropicが価格戦争で中国のAIライバルが優位に立つ」を扱っています。米国のグループは、1兆ドルの野心に新たな挑戦をした後、より安価なモデルをリリースします。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "keyPoints": [
+          "この記事は「OpenAIとAnthropicが価格戦争で中国のAIライバルが優位に立つ」を扱っています。",
+          "米国のグループは、1兆ドルの野心に新たな挑戦をした後、より安価なモデルをリリースします。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+        ]
+      },
+      {
         "title": "Accelerating GPT-5.6 Sol Ultrafast",
         "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
         "points": 73,
-        "comments": 258,
+        "comments": 262,
         "author": "pr337h4m",
         "createdAt": "2026-08-13T18:10:02Z",
         "domain": "cerebras.ai",
@@ -82,29 +103,9 @@
           "CerebrasはOpenAI APIでOpenAIのGPT-5.6 Sol Ultrafastを強化し、重要なAI作業のためにリアルタイムで最先端のインテリジェンスを提供します。",
           "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
-      },
-      {
-        "title": "AI At Home Part 1: A Box Of Scraps",
-        "url": "https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html",
-        "points": 71,
-        "comments": 56,
-        "author": "timmmmmmay",
-        "createdAt": "2026-08-13T16:22:05Z",
-        "domain": "jdagostino.github.io",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "故郷のAI・パート1 ：断片の箱",
-        "summaryJa": "この記事は「故郷のAI・パート1 ：断片の箱」を扱っています。データセンターはとてもクールなので、すべての家に1つあるはずです。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
-        "keyPoints": [
-          "この記事は「故郷のAI・パート1 ：断片の箱」を扱っています。",
-          "データセンターはとてもクールなので、すべての家に1つあるはずです。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
-        ]
       }
     ],
-    "fetchedAt": "2026-08-14T13:40:18.937Z",
+    "fetchedAt": "2026-08-14T16:05:08.508Z",
     "mock": false
   },
   "xTrends": {
@@ -112,17 +113,17 @@
       {
         "topic": "Gemini 3.7 Flash",
         "locationLabel": "日本",
-        "bestRank": 9,
-        "appearances": 10,
+        "bestRank": 26,
+        "appearances": 8,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-08-14T13:40:18.798Z",
+        "observedAt": "2026-08-14T16:05:08.444Z",
         "url": "https://x.com/search?q=Gemini%203.7%20Flash&src=typed_query&f=live",
         "articleTitle": "Gemini 3.7 Flash",
         "articleTitleJa": "公開トレンド: Gemini 3.7 Flash",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-08-14T13:40:18.798Z",
+        "articlePublishedAt": "2026-08-14T16:05:08.444Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -130,43 +131,26 @@
       {
         "topic": "Grok 4.6",
         "locationLabel": "カナダ",
-        "bestRank": 16,
-        "appearances": 24,
+        "bestRank": 18,
+        "appearances": 23,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/canada/",
-        "observedAt": "2026-08-14T13:40:18.873Z",
+        "observedAt": "2026-08-14T16:05:08.468Z",
         "url": "https://x.com/search?q=Grok%204.6&src=typed_query&f=live",
         "articleTitle": "Grok 4.6",
         "articleTitleJa": "公開トレンド: Grok 4.6",
         "articleUrl": "https://trends24.in/canada/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-08-14T13:40:18.873Z",
+        "articlePublishedAt": "2026-08-14T16:05:08.468Z",
         "summaryJa": "カナダのTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
-      },
-      {
-        "topic": "Grok Bot",
-        "locationLabel": "豪州",
-        "bestRank": 47,
-        "appearances": 1,
-        "trendSource": "Trends24",
-        "sourceUrl": "https://trends24.in/australia/",
-        "observedAt": "2026-08-14T13:40:18.918Z",
-        "url": "https://x.com/search?q=Grok%20Bot&src=typed_query&f=live",
-        "articleTitle": "Grok Bot",
-        "articleTitleJa": "Grokボット",
-        "articleUrl": "https://x.ai/bot",
-        "articleSource": "x.ai",
-        "articlePublishedAt": "2026-08-11T17:23:09Z",
-        "summaryJa": "Grok Bot は、作業を完了する常時稼働の AI エージェントのチームです。彼らは自分のコンピュータを持っており、あなたと同じようにそれを使用し、決してログオフしません。",
-        "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-08-14T13:40:18.937Z",
+    "fetchedAt": "2026-08-14T16:05:08.508Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-08-14T13:40:21.610Z"
+    "articleFetchedAt": "2026-08-14T16:05:12.677Z"
   }
 }
