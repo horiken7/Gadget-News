@@ -2,27 +2,6 @@
   "news": {
     "items": [
       {
-        "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
-        "url": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
-        "points": 133,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-08-13T18:28:14.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
-        "category": "AIニュース",
-        "impact": "高",
-        "titleJa": "Anthropicは、同じタスクでAIエージェントを解放します。彼らは縄張り争いを始めました。",
-        "summaryJa": "この記事は「Anthropicは、同じタスクでAIエージェントを解放します。彼らは縄張り争いを始めました。」を扱っています。Anthropicの研究者は、AIエージェントが予期せぬ方法で衝突し、共謀し、調整する可能性があることを発見し、今日の安全性テストがマルチエージェントシステムのリスクを捉えているかどうかについての新しい疑問を提起しています。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
-        "keyPoints": [
-          "この記事は「Anthropicは、同じタスクでAIエージェントを解放します。",
-          "彼らは縄張り争いを始めました。",
-          "Anthropicの研究者は、AIエージェントが予期せぬ方法で衝突し、共謀し、調整する可能性があることを発見し、今日の安全性テストがマルチエージェントシステムのリスクを捉えているかどうかについての新しい疑問を提起しています。"
-        ]
-      },
-      {
         "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
         "url": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
         "points": 107,
@@ -44,23 +23,45 @@
         ]
       },
       {
-        "title": "Gemini 3.7 Flash",
-        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
-        "points": 101,
-        "comments": 471,
-        "author": "thisisauserid",
-        "createdAt": "2026-08-13T17:23:22Z",
-        "domain": "blog.google",
-        "sourceType": "hn",
-        "category": "AIモデル",
+        "title": "Meta’s ‘open’ AI, and a $250M deal gone very wrong",
+        "url": "https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/",
+        "points": 107,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-08-14T14:00:00.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
+        "category": "AIニュース",
         "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "Gemini3.7フラッシュ",
-        "summaryJa": "この記事は「Gemini3.7フラッシュ」を扱っています。blog.googleが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "titleJa": "Metaの「オープン」AIと2億5000万$のディールが大失敗",
+        "summaryJa": "この記事は「Metaの「オープン」AIと2億5000万$のディールが大失敗」を扱っています。Metaは今週、誰でもダウンロードして独自のハードウェアで実行できるオープンウェイトなAIモデルであるGlimmerをリリースした。これは、独自のAPIの背後にある同社のより強力なモデルであるMuse Sparkとは対照的である。",
         "keyPoints": [
-          "この記事は「Gemini3.7フラッシュ」を扱っています。",
-          "blog.googleが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+          "この記事は「Metaの「オープン」AIと2億5000万$のディールが大失敗」を扱っています。",
+          "Metaは今週、誰でもダウンロードして独自のハードウェアで実行できるオープンウェイトなAIモデルであるGlimmerをリリースした。",
+          "これは、独自のAPIの背後にある同社のより強力なモデルであるMuse Sparkとは対照的である。"
+        ]
+      },
+      {
+        "title": "Elektros , Inc .: ELEKTROS Advances Its Critical - Minerals and EV Infrastructure Vision Amid Accelerating AI and Electrification Investment",
+        "url": "https://www.finanznachrichten.de/nachrichten-2026-08/69319248-elektros-inc-elektros-advances-its-critical-minerals-and-ev-infrastructure-vision-amid-accelerating-ai-and-electrification-investment-200.htm",
+        "points": 81,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-08-14T18:45:00Z",
+        "domain": "finanznachrichten.de",
+        "sourceType": "gdelt",
+        "sourceLabel": "GDELT",
+        "category": "AIニュース",
+        "impact": "中",
+        "newsLens": "技術",
+        "titleJa": "Elektros、Inc .： ELEKTROSはその重要性を高めます- AIと電化投資の加速の中で鉱物とEVインフラストラクチャのビジョン",
+        "summaryJa": "この記事は「Elektros、Inc .： ELEKTROSはその重要性を高めます- AIと電化投資の加速の中で鉱物とEVインフラストラクチャのビジョン」を扱っています。ELEKTROS Inc. -公開取引（ティッカーシンボル： ELEK ）フロリダ州ウェストパームビーチ/ACCESS Newswire/2026年8月14日/ELEKTROS Inc. （ OTCピンク： ELEK ）は本日、人工知能への投資としての戦略的方向性を再確認しました。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "keyPoints": [
+          "この記事は「Elektros、Inc .： ELEKTROSはその重要性を高めます- AIと電化投資の加速の中で鉱物とEVインフラストラクチャのビジョン」を扱っています。",
+          "ELEKTROS Inc. -公開取引（ティッカーシンボル： ELEK ）フロリダ州ウェストパームビーチ/ACCESS Newswire/2026年8月14日/ELEKTROS Inc. （ OTCピンク： ELEK ）は本日、人工知能への投資としての戦略的方向性を再確認しました。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
       },
       {
@@ -85,27 +86,27 @@
         ]
       },
       {
-        "title": "Accelerating GPT-5.6 Sol Ultrafast",
-        "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
+        "title": "DeepSeek peak/off-peak pricing update",
+        "url": "https://api-docs.deepseek.com/news/news260813/",
         "points": 73,
-        "comments": 262,
-        "author": "pr337h4m",
-        "createdAt": "2026-08-13T18:10:02Z",
-        "domain": "cerebras.ai",
+        "comments": 116,
+        "author": "fagnerbrack",
+        "createdAt": "2026-08-14T09:55:33Z",
+        "domain": "api-docs.deepseek.com",
         "sourceType": "hn",
-        "category": "AIモデル",
+        "category": "AIニュース",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "GPT-5.6ソル超高速加速",
-        "summaryJa": "この記事は「GPT-5.6ソル超高速加速」を扱っています。CerebrasはOpenAI APIでOpenAIのGPT-5.6 Sol Ultrafastを強化し、重要なAI作業のためにリアルタイムで最先端のインテリジェンスを提供します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "titleJa": "DeepSeekピーク/オフピーク価格の更新",
+        "summaryJa": "この記事は「DeepSeekピーク/オフピーク価格の更新」を扱っています。api-docs.deepseek.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
         "keyPoints": [
-          "この記事は「GPT-5.6ソル超高速加速」を扱っています。",
-          "CerebrasはOpenAI APIでOpenAIのGPT-5.6 Sol Ultrafastを強化し、重要なAI作業のためにリアルタイムで最先端のインテリジェンスを提供します。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+          "この記事は「DeepSeekピーク/オフピーク価格の更新」を扱っています。",
+          "api-docs.deepseek.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
       }
     ],
-    "fetchedAt": "2026-08-14T16:05:08.508Z",
+    "fetchedAt": "2026-08-14T19:12:27.871Z",
     "mock": false
   },
   "xTrends": {
@@ -113,17 +114,17 @@
       {
         "topic": "Gemini 3.7 Flash",
         "locationLabel": "日本",
-        "bestRank": 26,
-        "appearances": 8,
+        "bestRank": 44,
+        "appearances": 2,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-08-14T16:05:08.444Z",
+        "observedAt": "2026-08-14T19:12:27.852Z",
         "url": "https://x.com/search?q=Gemini%203.7%20Flash&src=typed_query&f=live",
         "articleTitle": "Gemini 3.7 Flash",
         "articleTitleJa": "公開トレンド: Gemini 3.7 Flash",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-08-14T16:05:08.444Z",
+        "articlePublishedAt": "2026-08-14T19:12:27.852Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -131,26 +132,26 @@
       {
         "topic": "Grok 4.6",
         "locationLabel": "カナダ",
-        "bestRank": 18,
-        "appearances": 23,
+        "bestRank": 27,
+        "appearances": 18,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/canada/",
-        "observedAt": "2026-08-14T16:05:08.468Z",
+        "observedAt": "2026-08-14T19:12:27.816Z",
         "url": "https://x.com/search?q=Grok%204.6&src=typed_query&f=live",
         "articleTitle": "Grok 4.6",
         "articleTitleJa": "公開トレンド: Grok 4.6",
         "articleUrl": "https://trends24.in/canada/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-08-14T16:05:08.468Z",
+        "articlePublishedAt": "2026-08-14T19:12:27.816Z",
         "summaryJa": "カナダのTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
       }
     ],
-    "fetchedAt": "2026-08-14T16:05:08.508Z",
+    "fetchedAt": "2026-08-14T19:12:27.871Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-08-14T16:05:12.677Z"
+    "articleFetchedAt": "2026-08-14T19:12:29.728Z"
   }
 }
