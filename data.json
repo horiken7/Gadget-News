@@ -44,30 +44,10 @@
         ]
       },
       {
-        "title": "DeepSeek Harness developer preview",
-        "url": "https://deepseek.com/harness/en/",
-        "points": 101,
-        "comments": 230,
-        "author": "bjin",
-        "createdAt": "2026-08-13T12:58:02Z",
-        "domain": "deepseek.com",
-        "sourceType": "hn",
-        "category": "開発ツール",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "DeepSeekハーネス開発者プレビュー",
-        "summaryJa": "この記事は「DeepSeekハーネス開発者プレビュー」を扱っています。deepseek.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、開発フロー、API、セキュリティ、運用コストへの影響が確認ポイントです。",
-        "keyPoints": [
-          "この記事は「DeepSeekハーネス開発者プレビュー」を扱っています。",
-          "deepseek.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "技術者にとっては、開発フロー、API、セキュリティ、運用コストへの影響が確認ポイントです。"
-        ]
-      },
-      {
         "title": "Gemini 3.7 Flash",
         "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
         "points": 101,
-        "comments": 297,
+        "comments": 366,
         "author": "thisisauserid",
         "createdAt": "2026-08-13T17:23:22Z",
         "domain": "blog.google",
@@ -84,10 +64,30 @@
         ]
       },
       {
+        "title": "DeepSeek Harness developer preview",
+        "url": "https://deepseek.com/harness/en/",
+        "points": 101,
+        "comments": 248,
+        "author": "bjin",
+        "createdAt": "2026-08-13T12:58:02Z",
+        "domain": "deepseek.com",
+        "sourceType": "hn",
+        "category": "開発ツール",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "DeepSeekハーネス開発者プレビュー",
+        "summaryJa": "この記事は「DeepSeekハーネス開発者プレビュー」を扱っています。deepseek.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、開発フロー、API、セキュリティ、運用コストへの影響が確認ポイントです。",
+        "keyPoints": [
+          "この記事は「DeepSeekハーネス開発者プレビュー」を扱っています。",
+          "deepseek.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "技術者にとっては、開発フロー、API、セキュリティ、運用コストへの影響が確認ポイントです。"
+        ]
+      },
+      {
         "title": "DeepSeek API Pricing Update",
         "url": "https://twitter.com/deepseek_ai/status/2087864589895798968",
-        "points": 98,
-        "comments": 42,
+        "points": 100,
+        "comments": 46,
         "author": "mfiguiere",
         "createdAt": "2026-08-13T12:49:21Z",
         "domain": "twitter.com",
@@ -104,7 +104,7 @@
         ]
       }
     ],
-    "fetchedAt": "2026-08-13T22:01:35.182Z",
+    "fetchedAt": "2026-08-14T02:43:58.527Z",
     "mock": false
   },
   "xTrends": {
@@ -113,16 +113,16 @@
         "topic": "Gemini 3.7 Flash",
         "locationLabel": "日本",
         "bestRank": 8,
-        "appearances": 6,
+        "appearances": 10,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-08-13T22:01:35.139Z",
+        "observedAt": "2026-08-14T02:43:58.509Z",
         "url": "https://x.com/search?q=Gemini%203.7%20Flash&src=typed_query&f=live",
         "articleTitle": "Gemini 3.7 Flash",
         "articleTitleJa": "公開トレンド: Gemini 3.7 Flash",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-08-13T22:01:35.139Z",
+        "articlePublishedAt": "2026-08-14T02:43:58.509Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -130,17 +130,17 @@
       {
         "topic": "Grok 4.6",
         "locationLabel": "英国",
-        "bestRank": 3,
+        "bestRank": 6,
         "appearances": 24,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-kingdom/",
-        "observedAt": "2026-08-13T22:01:35.092Z",
+        "observedAt": "2026-08-14T02:43:58.485Z",
         "url": "https://x.com/search?q=Grok%204.6&src=typed_query&f=live",
         "articleTitle": "Grok 4.6",
         "articleTitleJa": "公開トレンド: Grok 4.6",
         "articleUrl": "https://trends24.in/united-kingdom/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-08-13T22:01:35.092Z",
+        "articlePublishedAt": "2026-08-14T02:43:58.485Z",
         "summaryJa": "英国のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -148,11 +148,11 @@
       {
         "topic": "Grok Bot",
         "locationLabel": "カナダ",
-        "bestRank": 23,
-        "appearances": 18,
+        "bestRank": 27,
+        "appearances": 11,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/canada/",
-        "observedAt": "2026-08-13T22:01:35.059Z",
+        "observedAt": "2026-08-14T02:43:58.463Z",
         "url": "https://x.com/search?q=Grok%20Bot&src=typed_query&f=live",
         "articleTitle": "Grok Bot",
         "articleTitleJa": "Grokボット",
@@ -163,10 +163,10 @@
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-08-13T22:01:35.182Z",
+    "fetchedAt": "2026-08-14T02:43:58.527Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-08-13T22:01:37.743Z"
+    "articleFetchedAt": "2026-08-14T02:44:00.612Z"
   }
 }
