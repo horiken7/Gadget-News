@@ -47,7 +47,7 @@
         "title": "Gemini 3.7 Flash",
         "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
         "points": 101,
-        "comments": 434,
+        "comments": 453,
         "author": "thisisauserid",
         "createdAt": "2026-08-13T17:23:22Z",
         "domain": "blog.google",
@@ -64,47 +64,47 @@
         ]
       },
       {
-        "title": "DeepSeek Harness developer preview",
-        "url": "https://deepseek.com/harness/en/",
-        "points": 101,
-        "comments": 276,
-        "author": "bjin",
-        "createdAt": "2026-08-13T12:58:02Z",
-        "domain": "deepseek.com",
+        "title": "Accelerating GPT-5.6 Sol Ultrafast",
+        "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
+        "points": 73,
+        "comments": 258,
+        "author": "pr337h4m",
+        "createdAt": "2026-08-13T18:10:02Z",
+        "domain": "cerebras.ai",
         "sourceType": "hn",
-        "category": "開発ツール",
+        "category": "AIモデル",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "DeepSeekハーネス開発者プレビュー",
-        "summaryJa": "この記事は「DeepSeekハーネス開発者プレビュー」を扱っています。deepseek.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、開発フロー、API、セキュリティ、運用コストへの影響が確認ポイントです。",
+        "titleJa": "GPT-5.6ソル超高速加速",
+        "summaryJa": "この記事は「GPT-5.6ソル超高速加速」を扱っています。CerebrasはOpenAI APIでOpenAIのGPT-5.6 Sol Ultrafastを強化し、重要なAI作業のためにリアルタイムで最先端のインテリジェンスを提供します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
         "keyPoints": [
-          "この記事は「DeepSeekハーネス開発者プレビュー」を扱っています。",
-          "deepseek.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "技術者にとっては、開発フロー、API、セキュリティ、運用コストへの影響が確認ポイントです。"
+          "この記事は「GPT-5.6ソル超高速加速」を扱っています。",
+          "CerebrasはOpenAI APIでOpenAIのGPT-5.6 Sol Ultrafastを強化し、重要なAI作業のためにリアルタイムで最先端のインテリジェンスを提供します。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
       },
       {
-        "title": "DeepSeek API Pricing Update",
-        "url": "https://twitter.com/deepseek_ai/status/2087864589895798968",
-        "points": 100,
-        "comments": 50,
-        "author": "mfiguiere",
-        "createdAt": "2026-08-13T12:49:21Z",
-        "domain": "twitter.com",
+        "title": "AI At Home Part 1: A Box Of Scraps",
+        "url": "https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html",
+        "points": 71,
+        "comments": 56,
+        "author": "timmmmmmay",
+        "createdAt": "2026-08-13T16:22:05Z",
+        "domain": "jdagostino.github.io",
         "sourceType": "hn",
         "category": "AIニュース",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "DeepSeek API価格設定の更新",
-        "summaryJa": "この記事は「DeepSeek API価格設定の更新」を扱っています。twitter.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "titleJa": "故郷のAI・パート1 ：断片の箱",
+        "summaryJa": "この記事は「故郷のAI・パート1 ：断片の箱」を扱っています。データセンターはとてもクールなので、すべての家に1つあるはずです。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
         "keyPoints": [
-          "この記事は「DeepSeek API価格設定の更新」を扱っています。",
-          "twitter.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "この記事は「故郷のAI・パート1 ：断片の箱」を扱っています。",
+          "データセンターはとてもクールなので、すべての家に1つあるはずです。",
           "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
       }
     ],
-    "fetchedAt": "2026-08-14T10:16:06.196Z",
+    "fetchedAt": "2026-08-14T13:40:18.937Z",
     "mock": false
   },
   "xTrends": {
@@ -112,17 +112,17 @@
       {
         "topic": "Gemini 3.7 Flash",
         "locationLabel": "日本",
-        "bestRank": 8,
+        "bestRank": 9,
         "appearances": 10,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-08-14T10:16:06.152Z",
+        "observedAt": "2026-08-14T13:40:18.798Z",
         "url": "https://x.com/search?q=Gemini%203.7%20Flash&src=typed_query&f=live",
         "articleTitle": "Gemini 3.7 Flash",
         "articleTitleJa": "公開トレンド: Gemini 3.7 Flash",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-08-14T10:16:06.152Z",
+        "articlePublishedAt": "2026-08-14T13:40:18.798Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -130,17 +130,17 @@
       {
         "topic": "Grok 4.6",
         "locationLabel": "カナダ",
-        "bestRank": 14,
+        "bestRank": 16,
         "appearances": 24,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/canada/",
-        "observedAt": "2026-08-14T10:16:06.118Z",
+        "observedAt": "2026-08-14T13:40:18.873Z",
         "url": "https://x.com/search?q=Grok%204.6&src=typed_query&f=live",
         "articleTitle": "Grok 4.6",
         "articleTitleJa": "公開トレンド: Grok 4.6",
         "articleUrl": "https://trends24.in/canada/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-08-14T10:16:06.118Z",
+        "articlePublishedAt": "2026-08-14T13:40:18.873Z",
         "summaryJa": "カナダのTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -148,11 +148,11 @@
       {
         "topic": "Grok Bot",
         "locationLabel": "豪州",
-        "bestRank": 46,
-        "appearances": 3,
+        "bestRank": 47,
+        "appearances": 1,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/australia/",
-        "observedAt": "2026-08-14T10:16:06.091Z",
+        "observedAt": "2026-08-14T13:40:18.918Z",
         "url": "https://x.com/search?q=Grok%20Bot&src=typed_query&f=live",
         "articleTitle": "Grok Bot",
         "articleTitleJa": "Grokボット",
@@ -163,10 +163,10 @@
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-08-14T10:16:06.195Z",
+    "fetchedAt": "2026-08-14T13:40:18.937Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-08-14T10:16:08.598Z"
+    "articleFetchedAt": "2026-08-14T13:40:21.610Z"
   }
 }
