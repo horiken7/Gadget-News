@@ -44,6 +44,48 @@
         ]
       },
       {
+        "title": "AIプラットフォーム企業への事業転換に向けた 「 Voice AI Agent Platform 」 戦略の策定について",
+        "url": "https://japan.cnet.com/release/31198282/",
+        "points": 81,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-08-15T03:30:00Z",
+        "domain": "japan.cnet.com",
+        "sourceType": "gdelt",
+        "sourceLabel": "GDELT",
+        "category": "AIニュース",
+        "impact": "中",
+        "newsLens": "技術",
+        "titleJa": "AIプラットフォーム企業への事業転換に向けた 「 ボイスAIエージェントプラットフォーム 」 戦略の策定について",
+        "summaryJa": "この記事は「AIプラットフォーム企業への事業転換に向けた 「 ボイスAIエージェントプラットフォーム 」 戦略の策定について」を扱っています。japan.cnet.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "keyPoints": [
+          "この記事は「AIプラットフォーム企業への事業転換に向けた 「 ボイスAIエージェントプラットフォーム 」 戦略の策定について」を扱っています。",
+          "japan.cnet.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+        ]
+      },
+      {
+        "title": "CCP - Linked AI Rivals US Anthropic Model In Cyber Tests",
+        "url": "https://dailycaller.com/2026/08/14/ccp-linked-ai-rivals-us-anthropics-model-cyber-tests/",
+        "points": 81,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-08-15T02:45:00Z",
+        "domain": "dailycaller.com",
+        "sourceType": "gdelt",
+        "sourceLabel": "GDELT",
+        "category": "AIモデル",
+        "impact": "中",
+        "newsLens": "技術",
+        "titleJa": "CCP -サイバーテストにおけるリンクされたAIライバル米国Anthropicモデル",
+        "summaryJa": "この記事は「CCP -サイバーテストにおけるリンクされたAIライバル米国Anthropicモデル」を扱っています。中国のスタートアップがオープンソースのAIモデルをリリースしようとしているが、これはすでにAnthropicの米国のライバルモデルと一致していると主張している。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "keyPoints": [
+          "この記事は「CCP -サイバーテストにおけるリンクされたAIライバル米国Anthropicモデル」を扱っています。",
+          "中国のスタートアップがオープンソースのAIモデルをリリースしようとしているが、これはすでにAnthropicの米国のライバルモデルと一致していると主張している。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+        ]
+      },
+      {
         "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
         "url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
         "points": 79,
@@ -63,76 +105,53 @@
           "米国のグループは、1兆ドルの野心に新たな挑戦をした後、より安価なモデルをリリースします。",
           "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
-      },
-      {
-        "title": "DeepSeek peak/off-peak pricing update",
-        "url": "https://api-docs.deepseek.com/news/news260813/",
-        "points": 73,
-        "comments": 3,
-        "author": "fagnerbrack",
-        "createdAt": "2026-08-14T09:55:33Z",
-        "domain": "api-docs.deepseek.com",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "DeepSeekピーク/オフピーク価格の更新",
-        "summaryJa": "この記事は「DeepSeekピーク/オフピーク価格の更新」を扱っています。api-docs.deepseek.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
-        "keyPoints": [
-          "この記事は「DeepSeekピーク/オフピーク価格の更新」を扱っています。",
-          "api-docs.deepseek.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
-        ]
-      },
-      {
-        "title": "Maximizing the value of your Claude Code sessions",
-        "url": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
-        "points": 73,
-        "comments": 90,
-        "author": "twapi",
-        "createdAt": "2026-08-14T16:15:21Z",
-        "domain": "claude.com",
-        "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "Claude Codeセッションの価値を最大化する",
-        "summaryJa": "この記事は「Claude Codeセッションの価値を最大化する」を扱っています。すべてのトークンから最大限の価値を引き出す効率的なセッションを実行するための実践的なヒント。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
-        "keyPoints": [
-          "この記事は「Claude Codeセッションの価値を最大化する」を扱っています。",
-          "すべてのトークンから最大限の価値を引き出す効率的なセッションを実行するための実践的なヒント。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
-        ]
       }
     ],
-    "fetchedAt": "2026-08-15T01:48:48.858Z",
+    "fetchedAt": "2026-08-15T03:53:05.400Z",
     "mock": false
   },
   "xTrends": {
     "items": [
       {
+        "topic": "Sora",
+        "locationLabel": "米国",
+        "bestRank": 31,
+        "appearances": 2,
+        "trendSource": "Trends24",
+        "sourceUrl": "https://trends24.in/united-states/",
+        "observedAt": "2026-08-15T03:53:05.366Z",
+        "url": "https://x.com/search?q=Sora&src=typed_query&f=live",
+        "articleTitle": "Show HN: APIMart: Discounted AI API Aggregator for GPT-5, Sora 2",
+        "articleTitleJa": "HN を表示: APIMart: GPT-5、Sora 2 用の割引 AI API アグリゲーター",
+        "articleUrl": "https://apimart.ai/register?aff=yScTCM",
+        "articleSource": "apimart.ai",
+        "articlePublishedAt": "2026-08-14T14:14:13Z",
+        "summaryJa": "APIMart アカウントを作成して 500 以上の AI モデルにアクセス",
+        "translationVersion": 3
+      },
+      {
         "topic": "Grok 4.6",
         "locationLabel": "カナダ",
         "bestRank": 27,
-        "appearances": 11,
+        "appearances": 8,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/canada/",
-        "observedAt": "2026-08-15T01:48:48.792Z",
+        "observedAt": "2026-08-15T03:53:05.329Z",
         "url": "https://x.com/search?q=Grok%204.6&src=typed_query&f=live",
         "articleTitle": "Grok 4.6",
         "articleTitleJa": "公開トレンド: Grok 4.6",
         "articleUrl": "https://trends24.in/canada/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-08-15T01:48:48.792Z",
+        "articlePublishedAt": "2026-08-15T03:53:05.329Z",
         "summaryJa": "カナダのTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
       }
     ],
-    "fetchedAt": "2026-08-15T01:48:48.858Z",
+    "fetchedAt": "2026-08-15T03:53:05.400Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-08-15T01:48:53.432Z"
+    "articleFetchedAt": "2026-08-15T03:53:10.676Z"
   }
 }
