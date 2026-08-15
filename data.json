@@ -2,57 +2,16 @@
   "news": {
     "items": [
       {
-        "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
-        "url": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
-        "points": 107,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-08-14T15:43:28.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
-        "category": "AIニュース",
-        "impact": "高",
-        "titleJa": "マーク・ザッカーバーグは、AIが「すべての人のため」であると本当に信じていますか？",
-        "summaryJa": "この記事は「マーク・ザッカーバーグは、AIが「すべての人のため」であると本当に信じていますか？」を扱っています。Metaは今週、誰でもダウンロードして独自のハードウェアで実行できるオープンウェイトなAIモデルであるGlimmerをリリースした。これは、独自のAPIの背後にある同社のより強力なモデルであるMuse Sparkとは対照的である。",
-        "keyPoints": [
-          "この記事は「マーク・ザッカーバーグは、AIが「すべての人のため」であると本当に信じていますか。",
-          "Metaは今週、誰でもダウンロードして独自のハードウェアで実行できるオープンウェイトなAIモデルであるGlimmerをリリースした。",
-          "これは、独自のAPIの背後にある同社のより強力なモデルであるMuse Sparkとは対照的である。"
-        ]
-      },
-      {
-        "title": "Working with AI Feels More Like Leadership Than Coding",
-        "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/",
-        "points": 89,
-        "comments": 61,
-        "author": "allenb",
-        "createdAt": "2026-08-15T10:39:41Z",
-        "domain": "allen.bargi.org",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "中",
-        "newsLens": "技術",
-        "titleJa": "AIとの連携は、コーディングよりもリーダーシップのように感じる",
-        "summaryJa": "この記事は「AIとの連携は、コーディングよりもリーダーシップのように感じる」を扱っています。AIを使用することは、従来のソフトウェアよりも予測可能ではありません。これにより、コンテキスト、明確性、フィードバックなどのリーダーシップスキルの価値が高まります。",
-        "keyPoints": [
-          "この記事は「AIとの連携は、コーディングよりもリーダーシップのように感じる」を扱っています。",
-          "AIを使用することは、従来のソフトウェアよりも予測可能ではありません。",
-          "これにより、コンテキスト、明確性、フィードバックなどのリーダーシップスキルの価値が高まります。"
-        ]
-      },
-      {
         "title": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
         "url": "https://chenxiachan.github.io/thoughtdag/",
-        "points": 89,
-        "comments": 25,
+        "points": 92,
+        "comments": 47,
         "author": "chatchan",
         "createdAt": "2026-08-15T04:42:07Z",
         "domain": "chenxiachan.github.io",
         "sourceType": "hn",
         "category": "AIモデル",
-        "impact": "中",
+        "impact": "高",
         "newsLens": "技術",
         "titleJa": "HNを表示： ThoughtDAG – LLM会話の編集可能なコンテキストグラフ",
         "summaryJa": "この記事は「HNを表示： ThoughtDAG – LLM会話の編集可能なコンテキストグラフ」を扱っています。ThoughtDAGは、グラフエッジがLLMに送信されるコンテキストを定義する、オープンソースのローカルファーストキャンバスです。ブランチ、プルーニング、マージ、およびモデルに表示されているものを検査します。",
@@ -63,10 +22,31 @@
         ]
       },
       {
+        "title": "SpaceX officially closes its Cursor acquisition",
+        "url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
+        "points": 89,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-08-15T16:30:00.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
+        "category": "AIニュース",
+        "impact": "高",
+        "titleJa": "SpaceX、Cursor買収を正式に終了",
+        "summaryJa": "この記事は「SpaceX、Cursor買収を正式に終了」を扱っています。AIコーディングのスタートアップCursorは現在、SpaceXの一部となっている。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "keyPoints": [
+          "この記事は「SpaceX、Cursor買収を正式に終了」を扱っています。",
+          "AIコーディングのスタートアップCursorは現在、SpaceXの一部となっている。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+        ]
+      },
+      {
         "title": "Debian has begun voting on the future of AI/LLM contributions",
         "url": "https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html",
-        "points": 84,
-        "comments": 55,
+        "points": 85,
+        "comments": 57,
         "author": "matheusmoreira",
         "createdAt": "2026-08-15T09:20:07Z",
         "domain": "lists.debian.org",
@@ -83,28 +63,48 @@
         ]
       },
       {
-        "title": "Google will now allow users to remove visible watermark from its AI generations",
-        "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
-        "points": 79,
+        "title": "Secondhand book sales are booming. Is it because of AI?",
+        "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o",
+        "points": 76,
+        "comments": 66,
+        "author": "m-i-l",
+        "createdAt": "2026-08-15T14:08:55Z",
+        "domain": "bbc.co.uk",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "低",
+        "newsLens": "技術",
+        "titleJa": "古本の販売が活況を呈している。AIのせいでしょうか？",
+        "summaryJa": "この記事は「古本の販売が活況を呈している。AIのせいでしょうか？」を扱っています。書店は、謎の大量注文を報告しています。本はAIの訓練に使用されていると考えられていますが、最終的にはパルプ化してしまいます。",
+        "keyPoints": [
+          "この記事は「古本の販売が活況を呈している。",
+          "AIのせいでしょうか。",
+          "書店は、謎の大量注文を報告しています。"
+        ]
+      },
+      {
+        "title": "Joven acusado de matar a su madre y hermano usó ChatGPT para crear historias de fantasía sobre homicidios , según fiscales",
+        "url": "https://cnnespanol.cnn.com/2026/08/15/eeuu/joven-asesinato-chatgpt-trax",
+        "points": 53,
         "comments": 0,
         "author": "",
-        "createdAt": "2026-08-14T16:13:40.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
+        "createdAt": "2026-08-15T18:15:00Z",
+        "domain": "cnnespanol.cnn.com",
+        "sourceType": "gdelt",
+        "sourceLabel": "GDELT",
+        "category": "AIモデル",
+        "impact": "低",
         "newsLens": "一般",
-        "category": "AIニュース",
-        "impact": "中",
-        "titleJa": "Googleは、ユーザーがAI世代から目に見える透かしを削除できるようになりました",
-        "summaryJa": "この記事は「Googleは、ユーザーがAI世代から目に見える透かしを削除できるようになりました」を扱っています。この設定をオフにしても、AIが生成したファイルを識別するために使用される非表示のベンチマークには影響しません。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "titleJa": "AIニュース: Joven acusado de matar a su madre y hermano usó ChatGPT para crear historias de fantasía sobre homicidios, según fiscales",
+        "summaryJa": "この記事は「Joven acusado de matar a su madre y hermano usó ChatGPT para crear historias de fantasía sobre homicidios, según fiscales」を扱っています。cnnespanol.cnn.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
-          "この記事は「Googleは、ユーザーがAI世代から目に見える透かしを削除できるようになりました」を扱っています。",
-          "この設定をオフにしても、AIが生成したファイルを識別するために使用される非表示のベンチマークには影響しません。",
+          "この記事は「Joven acusado de matar a su madre y hermano usó ChatGPT para crear historias de fantasía sobre homicidios, según fiscales」を扱っています。",
+          "cnnespanol.cnn.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
           "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       }
     ],
-    "fetchedAt": "2026-08-15T15:34:09.229Z",
+    "fetchedAt": "2026-08-15T18:46:35.451Z",
     "mock": false
   },
   "xTrends": {
@@ -116,13 +116,13 @@
         "appearances": 3,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-08-15T15:34:09.214Z",
+        "observedAt": "2026-08-15T18:46:35.380Z",
         "url": "https://x.com/search?q=AI%E7%8C%AA%E6%9C%A8&src=typed_query&f=live",
         "articleTitle": "AI猪木",
         "articleTitleJa": "公開トレンド: AI猪木",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-08-15T15:34:09.214Z",
+        "articlePublishedAt": "2026-08-15T18:46:35.380Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -130,11 +130,11 @@
       {
         "topic": "Sora",
         "locationLabel": "米国",
-        "bestRank": 3,
-        "appearances": 18,
+        "bestRank": 2,
+        "appearances": 21,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-08-15T15:34:09.174Z",
+        "observedAt": "2026-08-15T18:46:35.354Z",
         "url": "https://x.com/search?q=Sora&src=typed_query&f=live",
         "articleTitle": "Show HN: APIMart: Discounted AI API Aggregator for GPT-5, Sora 2",
         "articleTitleJa": "HN を表示: APIMart: GPT-5、Sora 2 用の割引 AI API アグリゲーター",
@@ -145,10 +145,10 @@
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-08-15T15:34:09.229Z",
+    "fetchedAt": "2026-08-15T18:46:35.451Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-08-15T15:34:11.804Z"
+    "articleFetchedAt": "2026-08-15T18:46:37.552Z"
   }
 }
