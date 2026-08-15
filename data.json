@@ -4,8 +4,8 @@
       {
         "title": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
         "url": "https://chenxiachan.github.io/thoughtdag/",
-        "points": 92,
-        "comments": 47,
+        "points": 95,
+        "comments": 48,
         "author": "chatchan",
         "createdAt": "2026-08-15T04:42:07Z",
         "domain": "chenxiachan.github.io",
@@ -63,48 +63,48 @@
         ]
       },
       {
-        "title": "Secondhand book sales are booming. Is it because of AI?",
-        "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o",
+        "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
+        "url": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
+        "points": 79,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-08-15T21:29:19.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
+        "category": "AIニュース",
+        "impact": "中",
+        "titleJa": "女性は、義父がGrokを使用して子供時代の写真を明示的な画像に変換したと主張しています",
+        "summaryJa": "この記事は「女性は、義父がGrokを使用して子供時代の写真を明示的な画像に変換したと主張しています」を扱っています。女性は、AIツールが「日常生活を奪い、児童の性的虐待に変えている」と主張した。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "keyPoints": [
+          "この記事は「女性は、義父がGrokを使用して子供時代の写真を明示的な画像に変換したと主張しています」を扱っています。",
+          "女性は、AIツールが「日常生活を奪い、児童の性的虐待に変えている」と主張した。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+        ]
+      },
+      {
+        "title": "AI Can Now Design Functional Viruses. Should We Worry?",
+        "url": "https://spectrum.ieee.org/ai-designed-virus",
         "points": 76,
-        "comments": 66,
-        "author": "m-i-l",
-        "createdAt": "2026-08-15T14:08:55Z",
-        "domain": "bbc.co.uk",
+        "comments": 116,
+        "author": "pseudolus",
+        "createdAt": "2026-08-15T15:32:25Z",
+        "domain": "spectrum.ieee.org",
         "sourceType": "hn",
         "category": "AIニュース",
         "impact": "低",
         "newsLens": "技術",
-        "titleJa": "古本の販売が活況を呈している。AIのせいでしょうか？",
-        "summaryJa": "この記事は「古本の販売が活況を呈している。AIのせいでしょうか？」を扱っています。書店は、謎の大量注文を報告しています。本はAIの訓練に使用されていると考えられていますが、最終的にはパルプ化してしまいます。",
+        "titleJa": "AIは機能的なウイルスを設計できるようになりました。心配すべきでしょうか？",
+        "summaryJa": "この記事は「AIは機能的なウイルスを設計できるようになりました。心配すべきでしょうか？」を扱っています。AIによって書かれたゲノムは、医療上の約束とセキュリティリスクをもたらします。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
         "keyPoints": [
-          "この記事は「古本の販売が活況を呈している。",
-          "AIのせいでしょうか。",
-          "書店は、謎の大量注文を報告しています。"
-        ]
-      },
-      {
-        "title": "Joven acusado de matar a su madre y hermano usó ChatGPT para crear historias de fantasía sobre homicidios , según fiscales",
-        "url": "https://cnnespanol.cnn.com/2026/08/15/eeuu/joven-asesinato-chatgpt-trax",
-        "points": 53,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-08-15T18:15:00Z",
-        "domain": "cnnespanol.cnn.com",
-        "sourceType": "gdelt",
-        "sourceLabel": "GDELT",
-        "category": "AIモデル",
-        "impact": "低",
-        "newsLens": "一般",
-        "titleJa": "AIニュース: Joven acusado de matar a su madre y hermano usó ChatGPT para crear historias de fantasía sobre homicidios, según fiscales",
-        "summaryJa": "この記事は「Joven acusado de matar a su madre y hermano usó ChatGPT para crear historias de fantasía sobre homicidios, según fiscales」を扱っています。cnnespanol.cnn.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
-        "keyPoints": [
-          "この記事は「Joven acusado de matar a su madre y hermano usó ChatGPT para crear historias de fantasía sobre homicidios, según fiscales」を扱っています。",
-          "cnnespanol.cnn.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+          "この記事は「AIは機能的なウイルスを設計できるようになりました。",
+          "心配すべきでしょうか。",
+          "AIによって書かれたゲノムは、医療上の約束とセキュリティリスクをもたらします。"
         ]
       }
     ],
-    "fetchedAt": "2026-08-15T18:46:35.451Z",
+    "fetchedAt": "2026-08-15T21:34:10.552Z",
     "mock": false
   },
   "xTrends": {
@@ -116,13 +116,13 @@
         "appearances": 3,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-08-15T18:46:35.380Z",
+        "observedAt": "2026-08-15T21:34:10.439Z",
         "url": "https://x.com/search?q=AI%E7%8C%AA%E6%9C%A8&src=typed_query&f=live",
         "articleTitle": "AI猪木",
         "articleTitleJa": "公開トレンド: AI猪木",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-08-15T18:46:35.380Z",
+        "articlePublishedAt": "2026-08-15T21:34:10.439Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -130,11 +130,11 @@
       {
         "topic": "Sora",
         "locationLabel": "米国",
-        "bestRank": 2,
-        "appearances": 21,
+        "bestRank": 3,
+        "appearances": 20,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-08-15T18:46:35.354Z",
+        "observedAt": "2026-08-15T21:34:10.513Z",
         "url": "https://x.com/search?q=Sora&src=typed_query&f=live",
         "articleTitle": "Show HN: APIMart: Discounted AI API Aggregator for GPT-5, Sora 2",
         "articleTitleJa": "HN を表示: APIMart: GPT-5、Sora 2 用の割引 AI API アグリゲーター",
@@ -145,10 +145,10 @@
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-08-15T18:46:35.451Z",
+    "fetchedAt": "2026-08-15T21:34:10.552Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-08-15T18:46:37.552Z"
+    "articleFetchedAt": "2026-08-15T21:34:12.885Z"
   }
 }
