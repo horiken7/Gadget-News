@@ -4,14 +4,14 @@
       {
         "title": "Ask HN: Do you know of any company that went back to hand-written code?",
         "url": "https://news.ycombinator.com/item?id=49318906",
-        "points": 110,
-        "comments": 100,
+        "points": 111,
+        "comments": 106,
         "author": "antipurist",
         "createdAt": "2026-08-16T11:05:47Z",
         "domain": "news.ycombinator.com",
         "sourceType": "hn",
         "category": "開発ツール",
-        "impact": "中",
+        "impact": "高",
         "newsLens": "技術",
         "titleJa": "HN ：手書きのコードに戻った会社を知っていますか？",
         "summaryJa": "この記事は「HN ：手書きのコードに戻った会社を知っていますか？」を扱っています。これは、LLMの誇大宣伝サイクルの現在の段階に関する質問であると同時に、LLMへの依存を躊躇することが平均的な開発者にとって経済的に実行可能であるかどうかについての現実確認として意図されています。多くの企業が「何にでもLLMを使用する」方針から、承認されたLLMの使用の予算と範囲を制限する方針に進歩したことは間違いありません。",
@@ -46,7 +46,7 @@
         "title": "What happens when an LLM never sees material beyond fifth grade?",
         "url": "https://littlelearner-ll.github.io/",
         "points": 101,
-        "comments": 195,
+        "comments": 202,
         "author": "porridgeraisin",
         "createdAt": "2026-08-16T07:37:53Z",
         "domain": "littlelearner-ll.github.io",
@@ -63,23 +63,23 @@
         ]
       },
       {
-        "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
-        "url": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
-        "points": 79,
+        "title": "Why people aren’t buying Mark Zuckerberg’s AI future",
+        "url": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
+        "points": 99,
         "comments": 0,
         "author": "",
-        "createdAt": "2026-08-15T21:29:19.000Z",
+        "createdAt": "2026-08-16T20:32:01.000Z",
         "domain": "techcrunch.com",
         "sourceType": "rss",
         "sourceLabel": "TechCrunch AI",
         "newsLens": "一般",
         "category": "AIニュース",
-        "impact": "中",
-        "titleJa": "女性は、義父がGrokを使用して子供時代の写真を明示的な画像に変換したと主張しています",
-        "summaryJa": "この記事は「女性は、義父がGrokを使用して子供時代の写真を明示的な画像に変換したと主張しています」を扱っています。女性は、AIツールが「日常生活を奪い、児童の性的虐待に変えている」と主張した。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "impact": "高",
+        "titleJa": "なぜ人々はマーク・ザッカーバーグのAIの未来を買わないのか",
+        "summaryJa": "この記事は「なぜ人々はマーク・ザッカーバーグのAIの未来を買わないのか」を扱っています。Equityポッドキャストの最新エピソードでは、なぜ誰もがZuckerbergのビジョンを購入していないのかについて話し合います。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
-          "この記事は「女性は、義父がGrokを使用して子供時代の写真を明示的な画像に変換したと主張しています」を扱っています。",
-          "女性は、AIツールが「日常生活を奪い、児童の性的虐待に変えている」と主張した。",
+          "この記事は「なぜ人々はマーク・ザッカーバーグのAIの未来を買わないのか」を扱っています。",
+          "Equityポッドキャストの最新エピソードでは、なぜ誰もがZuckerbergのビジョンを購入していないのかについて話し合います。",
           "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       },
@@ -87,7 +87,7 @@
         "title": "Claude: System Prompts",
         "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
         "points": 73,
-        "comments": 154,
+        "comments": 192,
         "author": "tosh",
         "createdAt": "2026-08-16T12:48:21Z",
         "domain": "platform.claude.com",
@@ -104,7 +104,7 @@
         ]
       }
     ],
-    "fetchedAt": "2026-08-16T18:45:39.253Z",
+    "fetchedAt": "2026-08-16T21:33:30.088Z",
     "mock": false
   },
   "xTrends": {
@@ -116,13 +116,31 @@
         "appearances": 4,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-08-16T18:45:39.113Z",
+        "observedAt": "2026-08-16T21:33:29.992Z",
         "url": "https://x.com/search?q=AI%E3%83%8F%E3%83%A4%E3%83%88&src=typed_query&f=live",
         "articleTitle": "AIハヤト",
         "articleTitleJa": "公開トレンド: AIハヤト",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-08-16T18:45:39.113Z",
+        "articlePublishedAt": "2026-08-16T21:33:29.992Z",
+        "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
+        "translationVersion": 3,
+        "articleFallback": true
+      },
+      {
+        "topic": "オープンAI",
+        "locationLabel": "日本",
+        "bestRank": 39,
+        "appearances": 1,
+        "trendSource": "Trends24",
+        "sourceUrl": "https://trends24.in/japan/",
+        "observedAt": "2026-08-16T21:33:29.992Z",
+        "url": "https://x.com/search?q=%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3AI&src=typed_query&f=live",
+        "articleTitle": "オープンAI",
+        "articleTitleJa": "公開トレンド: オープンAI",
+        "articleUrl": "https://trends24.in/japan/",
+        "articleSource": "Trends24",
+        "articlePublishedAt": "2026-08-16T21:33:29.992Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -130,11 +148,11 @@
       {
         "topic": "Sora",
         "locationLabel": "米国",
-        "bestRank": 22,
-        "appearances": 14,
+        "bestRank": 26,
+        "appearances": 13,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-08-16T18:45:39.143Z",
+        "observedAt": "2026-08-16T21:33:30.073Z",
         "url": "https://x.com/search?q=Sora&src=typed_query&f=live",
         "articleTitle": "Show HN: APIMart: Discounted AI API Aggregator for GPT-5, Sora 2",
         "articleTitleJa": "HN を表示: APIMart: GPT-5、Sora 2 用の割引 AI API アグリゲーター",
@@ -145,10 +163,10 @@
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-08-16T18:45:39.253Z",
+    "fetchedAt": "2026-08-16T21:33:30.088Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-08-16T18:45:41.662Z"
+    "articleFetchedAt": "2026-08-16T21:33:32.079Z"
   }
 }
