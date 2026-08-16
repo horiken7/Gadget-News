@@ -4,8 +4,8 @@
       {
         "title": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
         "url": "https://chenxiachan.github.io/thoughtdag/",
-        "points": 97,
-        "comments": 52,
+        "points": 98,
+        "comments": 53,
         "author": "chatchan",
         "createdAt": "2026-08-15T04:42:07Z",
         "domain": "chenxiachan.github.io",
@@ -104,37 +104,19 @@
         ]
       }
     ],
-    "fetchedAt": "2026-08-16T01:56:40.571Z",
+    "fetchedAt": "2026-08-16T03:57:58.514Z",
     "mock": false
   },
   "xTrends": {
     "items": [
       {
-        "topic": "AI猪木",
-        "locationLabel": "日本",
-        "bestRank": 21,
-        "appearances": 2,
-        "trendSource": "Trends24",
-        "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-08-16T01:56:40.554Z",
-        "url": "https://x.com/search?q=AI%E7%8C%AA%E6%9C%A8&src=typed_query&f=live",
-        "articleTitle": "AI猪木",
-        "articleTitleJa": "公開トレンド: AI猪木",
-        "articleUrl": "https://trends24.in/japan/",
-        "articleSource": "Trends24",
-        "articlePublishedAt": "2026-08-16T01:56:40.554Z",
-        "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
-        "translationVersion": 3,
-        "articleFallback": true
-      },
-      {
         "topic": "Sora",
         "locationLabel": "米国",
-        "bestRank": 11,
-        "appearances": 18,
+        "bestRank": 24,
+        "appearances": 21,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-08-16T01:56:40.461Z",
+        "observedAt": "2026-08-16T03:57:58.386Z",
         "url": "https://x.com/search?q=Sora&src=typed_query&f=live",
         "articleTitle": "Show HN: APIMart: Discounted AI API Aggregator for GPT-5, Sora 2",
         "articleTitleJa": "HN を表示: APIMart: GPT-5、Sora 2 用の割引 AI API アグリゲーター",
@@ -145,10 +127,10 @@
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-08-16T01:56:40.571Z",
+    "fetchedAt": "2026-08-16T03:57:58.514Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-08-16T01:56:43.124Z"
+    "articleFetchedAt": "2026-08-16T03:57:59.998Z"
   }
 }
