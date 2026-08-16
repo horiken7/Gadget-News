@@ -4,8 +4,8 @@
       {
         "title": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
         "url": "https://chenxiachan.github.io/thoughtdag/",
-        "points": 95,
-        "comments": 48,
+        "points": 97,
+        "comments": 52,
         "author": "chatchan",
         "createdAt": "2026-08-15T04:42:07Z",
         "domain": "chenxiachan.github.io",
@@ -45,7 +45,7 @@
       {
         "title": "Debian has begun voting on the future of AI/LLM contributions",
         "url": "https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html",
-        "points": 85,
+        "points": 86,
         "comments": 57,
         "author": "matheusmoreira",
         "createdAt": "2026-08-15T09:20:07Z",
@@ -84,27 +84,27 @@
         ]
       },
       {
-        "title": "AI Can Now Design Functional Viruses. Should We Worry?",
-        "url": "https://spectrum.ieee.org/ai-designed-virus",
-        "points": 76,
-        "comments": 116,
-        "author": "pseudolus",
-        "createdAt": "2026-08-15T15:32:25Z",
-        "domain": "spectrum.ieee.org",
+        "title": "GenRec: Towards LLM-Native Recommendation at Netflix",
+        "url": "https://netflixtechblog.com/genrec-towards-llm-native-recommendation-at-netflix-f20be6f643e3",
+        "points": 77,
+        "comments": 50,
+        "author": "Anon84",
+        "createdAt": "2026-08-15T12:56:56Z",
+        "domain": "netflixtechblog.com",
         "sourceType": "hn",
-        "category": "AIニュース",
+        "category": "AIモデル",
         "impact": "低",
         "newsLens": "技術",
-        "titleJa": "AIは機能的なウイルスを設計できるようになりました。心配すべきでしょうか？",
-        "summaryJa": "この記事は「AIは機能的なウイルスを設計できるようになりました。心配すべきでしょうか？」を扱っています。AIによって書かれたゲノムは、医療上の約束とセキュリティリスクをもたらします。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "titleJa": "GenRec ： NetflixでのLLMネイティブ推薦に向けて",
+        "summaryJa": "この記事は「GenRec ： NetflixでのLLMネイティブ推薦に向けて」を扱っています。netflixtechblog.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
         "keyPoints": [
-          "この記事は「AIは機能的なウイルスを設計できるようになりました。",
-          "心配すべきでしょうか。",
-          "AIによって書かれたゲノムは、医療上の約束とセキュリティリスクをもたらします。"
+          "この記事は「GenRec ： NetflixでのLLMネイティブ推薦に向けて」を扱っています。",
+          "netflixtechblog.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
       }
     ],
-    "fetchedAt": "2026-08-15T21:34:10.552Z",
+    "fetchedAt": "2026-08-16T01:56:40.571Z",
     "mock": false
   },
   "xTrends": {
@@ -112,17 +112,17 @@
       {
         "topic": "AI猪木",
         "locationLabel": "日本",
-        "bestRank": 15,
-        "appearances": 3,
+        "bestRank": 21,
+        "appearances": 2,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-08-15T21:34:10.439Z",
+        "observedAt": "2026-08-16T01:56:40.554Z",
         "url": "https://x.com/search?q=AI%E7%8C%AA%E6%9C%A8&src=typed_query&f=live",
         "articleTitle": "AI猪木",
         "articleTitleJa": "公開トレンド: AI猪木",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-08-15T21:34:10.439Z",
+        "articlePublishedAt": "2026-08-16T01:56:40.554Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -130,11 +130,11 @@
       {
         "topic": "Sora",
         "locationLabel": "米国",
-        "bestRank": 3,
-        "appearances": 20,
+        "bestRank": 11,
+        "appearances": 18,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-08-15T21:34:10.513Z",
+        "observedAt": "2026-08-16T01:56:40.461Z",
         "url": "https://x.com/search?q=Sora&src=typed_query&f=live",
         "articleTitle": "Show HN: APIMart: Discounted AI API Aggregator for GPT-5, Sora 2",
         "articleTitleJa": "HN を表示: APIMart: GPT-5、Sora 2 用の割引 AI API アグリゲーター",
@@ -145,10 +145,10 @@
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-08-15T21:34:10.552Z",
+    "fetchedAt": "2026-08-16T01:56:40.571Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-08-15T21:34:12.885Z"
+    "articleFetchedAt": "2026-08-16T01:56:43.124Z"
   }
 }
