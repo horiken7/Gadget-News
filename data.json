@@ -4,14 +4,14 @@
       {
         "title": "Ask HN: Do you know of any company that went back to hand-written code?",
         "url": "https://news.ycombinator.com/item?id=49318906",
-        "points": 104,
-        "comments": 75,
+        "points": 106,
+        "comments": 92,
         "author": "antipurist",
         "createdAt": "2026-08-16T11:05:47Z",
         "domain": "news.ycombinator.com",
         "sourceType": "hn",
         "category": "開発ツール",
-        "impact": "低",
+        "impact": "中",
         "newsLens": "技術",
         "titleJa": "HN ：手書きのコードに戻った会社を知っていますか？",
         "summaryJa": "この記事は「HN ：手書きのコードに戻った会社を知っていますか？」を扱っています。これは、LLMの誇大宣伝サイクルの現在の段階に関する質問であると同時に、LLMへの依存を躊躇することが平均的な開発者にとって経済的に実行可能であるかどうかについての現実確認として意図されています。多くの企業が「何にでもLLMを使用する」方針から、承認されたLLMの使用の予算と範囲を制限する方針に進歩したことは間違いありません。",
@@ -25,7 +25,7 @@
         "title": "What happens when an LLM never sees material beyond fifth grade?",
         "url": "https://littlelearner-ll.github.io/",
         "points": 101,
-        "comments": 131,
+        "comments": 184,
         "author": "porridgeraisin",
         "createdAt": "2026-08-16T07:37:53Z",
         "domain": "littlelearner-ll.github.io",
@@ -83,39 +83,57 @@
         ]
       },
       {
-        "title": "ChatGPT lost 22 points of web share in a year",
-        "url": "https://aicharts.grok.me/c/market-share",
-        "points": 47,
-        "comments": 51,
-        "author": "echohive42",
-        "createdAt": "2026-08-16T00:22:20Z",
-        "domain": "aicharts.grok.me",
+        "title": "Claude: System Prompts",
+        "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
+        "points": 73,
+        "comments": 76,
+        "author": "tosh",
+        "createdAt": "2026-08-16T12:48:21Z",
+        "domain": "platform.claude.com",
         "sourceType": "hn",
         "category": "AIモデル",
-        "impact": "低",
+        "impact": "高",
         "newsLens": "技術",
-        "titleJa": "ChatGPTは1年間で22ポイントのウェブシェアを失いました",
-        "summaryJa": "この記事は「ChatGPTは1年間で22ポイントのウェブシェアを失いました」を扱っています。世界的なAIチャットボットのウェブ訪問数： → ChatGPT 76% 54%。Gemini6% → 28%Claude1% → 9%これは月間ユーザーでも収益でもありません。",
+        "titleJa": "Claude：システムプロンプト",
+        "summaryJa": "この記事は「Claude：システムプロンプト」を扱っています。platform.claude.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
         "keyPoints": [
-          "この記事は「ChatGPTは1年間で22ポイントのウェブシェアを失いました」を扱っています。",
-          "世界的なAIチャットボットのウェブ訪問数： → ChatGPT 76% 54%。",
-          "Gemini6% → 28%Claude1% → 9%これは月間ユーザーでも収益でもありません。"
+          "この記事は「Claude：システムプロンプト」を扱っています。",
+          "platform.claude.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
       }
     ],
-    "fetchedAt": "2026-08-16T12:59:41.699Z",
+    "fetchedAt": "2026-08-16T15:34:30.743Z",
     "mock": false
   },
   "xTrends": {
     "items": [
       {
+        "topic": "AIハヤト",
+        "locationLabel": "日本",
+        "bestRank": 15,
+        "appearances": 3,
+        "trendSource": "Trends24",
+        "sourceUrl": "https://trends24.in/japan/",
+        "observedAt": "2026-08-16T15:34:30.723Z",
+        "url": "https://x.com/search?q=AI%E3%83%8F%E3%83%A4%E3%83%88&src=typed_query&f=live",
+        "articleTitle": "AIハヤト",
+        "articleTitleJa": "公開トレンド: AIハヤト",
+        "articleUrl": "https://trends24.in/japan/",
+        "articleSource": "Trends24",
+        "articlePublishedAt": "2026-08-16T15:34:30.723Z",
+        "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
+        "translationVersion": 3,
+        "articleFallback": true
+      },
+      {
         "topic": "Sora",
         "locationLabel": "英国",
         "bestRank": 22,
-        "appearances": 20,
+        "appearances": 17,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-kingdom/",
-        "observedAt": "2026-08-16T12:59:41.684Z",
+        "observedAt": "2026-08-16T15:34:30.685Z",
         "url": "https://x.com/search?q=Sora&src=typed_query&f=live",
         "articleTitle": "Show HN: APIMart: Discounted AI API Aggregator for GPT-5, Sora 2",
         "articleTitleJa": "HN を表示: APIMart: GPT-5、Sora 2 用の割引 AI API アグリゲーター",
@@ -126,10 +144,10 @@
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-08-16T12:59:41.699Z",
+    "fetchedAt": "2026-08-16T15:34:30.743Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-08-16T12:59:43.584Z"
+    "articleFetchedAt": "2026-08-16T15:34:33.097Z"
   }
 }
