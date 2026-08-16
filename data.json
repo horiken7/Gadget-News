@@ -2,50 +2,30 @@
   "news": {
     "items": [
       {
-        "title": "AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
-        "url": "https://arxiv.org/abs/2608.13122",
-        "points": 97,
-        "comments": 4,
-        "author": "Jimmc414",
-        "createdAt": "2026-08-15T22:41:51Z",
-        "domain": "arxiv.org",
+        "title": "Ask HN: Do you know of any company that went back to hand-written code?",
+        "url": "https://news.ycombinator.com/item?id=49318906",
+        "points": 104,
+        "comments": 75,
+        "author": "antipurist",
+        "createdAt": "2026-08-16T11:05:47Z",
+        "domain": "news.ycombinator.com",
         "sourceType": "hn",
         "category": "開発ツール",
         "impact": "低",
         "newsLens": "技術",
-        "titleJa": "AI支援GPUによる25万回線のレガシー気象シミュレーションコードの移植",
-        "summaryJa": "この記事は「AI支援GPUによる25万回線のレガシー気象シミュレーションコードの移植」を扱っています。ArXiv論文2608.13122の要約ページ：検証中心のAI支援GPU 250,000回線以上のレガシー気象シミュレーションコードの移植。技術者にとっては、開発フロー、API、セキュリティ、運用コストへの影響が確認ポイントです。",
+        "titleJa": "HN ：手書きのコードに戻った会社を知っていますか？",
+        "summaryJa": "この記事は「HN ：手書きのコードに戻った会社を知っていますか？」を扱っています。これは、LLMの誇大宣伝サイクルの現在の段階に関する質問であると同時に、LLMへの依存を躊躇することが平均的な開発者にとって経済的に実行可能であるかどうかについての現実確認として意図されています。多くの企業が「何にでもLLMを使用する」方針から、承認されたLLMの使用の予算と範囲を制限する方針に進歩したことは間違いありません。",
         "keyPoints": [
-          "この記事は「AI支援GPUによる25万回線のレガシー気象シミュレーションコードの移植」を扱っています。",
-          "ArXiv論文2608.13122の要約ページ：検証中心のAI支援GPU 250,000回線以上のレガシー気象シミュレーションコードの移植。",
-          "技術者にとっては、開発フロー、API、セキュリティ、運用コストへの影響が確認ポイントです。"
-        ]
-      },
-      {
-        "title": "Anthropic CEO wife asked Epstein for porn business",
-        "url": "https://www.forbes.com/sites/alisondurkee/2026/08/14/who-is-cami-clark-anthropic-ceos-wife-asked-epstein-to-invest-in-porn-business/",
-        "points": 95,
-        "comments": 3,
-        "author": "nothrowaways",
-        "createdAt": "2026-08-15T22:54:41Z",
-        "domain": "forbes.com",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "低",
-        "newsLens": "一般",
-        "titleJa": "AnthropicのCEOの妻がエプスタインにポルノビジネスを依頼",
-        "summaryJa": "この記事は「AnthropicのCEOの妻がエプスタインにポルノビジネスを依頼」を扱っています。forbes.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
-        "keyPoints": [
-          "この記事は「AnthropicのCEOの妻がエプスタインにポルノビジネスを依頼」を扱っています。",
-          "forbes.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+          "この記事は「HN ：手書きのコードに戻った会社を知っていますか。",
+          "これは、LLMの誇大宣伝サイクルの現在の段階に関する質問であると同時に、LLMへの依存を躊躇することが平均的な開発者にとって経済的に実行可能であるかどうかについての現実確認として意図されています。",
+          "多くの企業が「何にでもLLMを使用する」方針から、承認されたLLMの使用の予算と範囲を制限する方針に進歩したことは間違いありません。"
         ]
       },
       {
         "title": "What happens when an LLM never sees material beyond fifth grade?",
         "url": "https://littlelearner-ll.github.io/",
-        "points": 95,
-        "comments": 64,
+        "points": 101,
+        "comments": 131,
         "author": "porridgeraisin",
         "createdAt": "2026-08-16T07:37:53Z",
         "domain": "littlelearner-ll.github.io",
@@ -59,6 +39,26 @@
           "この記事は「LLMが5年生以上の教材を見たことがない場合はどうなりますか。",
           "littlelearner-ll.github.ioが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
           "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+        ]
+      },
+      {
+        "title": "Anthropic CEO wife asked Epstein for porn business",
+        "url": "https://www.forbes.com/sites/alisondurkee/2026/08/14/who-is-cami-clark-anthropic-ceos-wife-asked-epstein-to-invest-in-porn-business/",
+        "points": 96,
+        "comments": 3,
+        "author": "nothrowaways",
+        "createdAt": "2026-08-15T22:54:41Z",
+        "domain": "forbes.com",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "低",
+        "newsLens": "一般",
+        "titleJa": "AnthropicのCEOの妻がエプスタインにポルノビジネスを依頼",
+        "summaryJa": "この記事は「AnthropicのCEOの妻がエプスタインにポルノビジネスを依頼」を扱っています。クラークは、売春を勧誘したとして既に有罪判決を受けた後、エプスタインに接近しました。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "keyPoints": [
+          "この記事は「AnthropicのCEOの妻がエプスタインにポルノビジネスを依頼」を扱っています。",
+          "クラークは、売春を勧誘したとして既に有罪判決を受けた後、エプスタインに接近しました。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       },
       {
@@ -83,39 +83,39 @@
         ]
       },
       {
-        "title": "GenRec: Towards LLM-Native Recommendation at Netflix",
-        "url": "https://netflixtechblog.com/genrec-towards-llm-native-recommendation-at-netflix-f20be6f643e3",
-        "points": 77,
-        "comments": 50,
-        "author": "Anon84",
-        "createdAt": "2026-08-15T12:56:56Z",
-        "domain": "netflixtechblog.com",
+        "title": "ChatGPT lost 22 points of web share in a year",
+        "url": "https://aicharts.grok.me/c/market-share",
+        "points": 47,
+        "comments": 51,
+        "author": "echohive42",
+        "createdAt": "2026-08-16T00:22:20Z",
+        "domain": "aicharts.grok.me",
         "sourceType": "hn",
         "category": "AIモデル",
         "impact": "低",
         "newsLens": "技術",
-        "titleJa": "GenRec ： NetflixでのLLMネイティブ推薦に向けて",
-        "summaryJa": "この記事は「GenRec ： NetflixでのLLMネイティブ推薦に向けて」を扱っています。netflixtechblog.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "titleJa": "ChatGPTは1年間で22ポイントのウェブシェアを失いました",
+        "summaryJa": "この記事は「ChatGPTは1年間で22ポイントのウェブシェアを失いました」を扱っています。世界的なAIチャットボットのウェブ訪問数： → ChatGPT 76% 54%。Gemini6% → 28%Claude1% → 9%これは月間ユーザーでも収益でもありません。",
         "keyPoints": [
-          "この記事は「GenRec ： NetflixでのLLMネイティブ推薦に向けて」を扱っています。",
-          "netflixtechblog.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+          "この記事は「ChatGPTは1年間で22ポイントのウェブシェアを失いました」を扱っています。",
+          "世界的なAIチャットボットのウェブ訪問数： → ChatGPT 76% 54%。",
+          "Gemini6% → 28%Claude1% → 9%これは月間ユーザーでも収益でもありません。"
         ]
       }
     ],
-    "fetchedAt": "2026-08-16T09:40:15.374Z",
+    "fetchedAt": "2026-08-16T12:59:41.699Z",
     "mock": false
   },
   "xTrends": {
     "items": [
       {
         "topic": "Sora",
-        "locationLabel": "米国",
-        "bestRank": 26,
-        "appearances": 23,
+        "locationLabel": "英国",
+        "bestRank": 22,
+        "appearances": 20,
         "trendSource": "Trends24",
-        "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-08-16T09:40:15.250Z",
+        "sourceUrl": "https://trends24.in/united-kingdom/",
+        "observedAt": "2026-08-16T12:59:41.684Z",
         "url": "https://x.com/search?q=Sora&src=typed_query&f=live",
         "articleTitle": "Show HN: APIMart: Discounted AI API Aggregator for GPT-5, Sora 2",
         "articleTitleJa": "HN を表示: APIMart: GPT-5、Sora 2 用の割引 AI API アグリゲーター",
@@ -126,10 +126,10 @@
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-08-16T09:40:15.374Z",
+    "fetchedAt": "2026-08-16T12:59:41.699Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-08-16T09:40:17.725Z"
+    "articleFetchedAt": "2026-08-16T12:59:43.584Z"
   }
 }
