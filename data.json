@@ -4,8 +4,8 @@
       {
         "title": "Ask HN: Do you know of any company that went back to hand-written code?",
         "url": "https://news.ycombinator.com/item?id=49318906",
-        "points": 106,
-        "comments": 92,
+        "points": 110,
+        "comments": 100,
         "author": "antipurist",
         "createdAt": "2026-08-16T11:05:47Z",
         "domain": "news.ycombinator.com",
@@ -22,10 +22,31 @@
         ]
       },
       {
+        "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
+        "url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
+        "points": 105,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-08-16T16:53:51.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
+        "category": "AIニュース",
+        "impact": "高",
+        "titleJa": "AnthropicのCEOは、AIの反発は「根本的に信頼の危機」であると述べています",
+        "summaryJa": "この記事は「AnthropicのCEOは、AIの反発は「根本的に信頼の危機」であると述べています」を扱っています。ダリオ・アモデイは、彼が過度に悲観的なAIの絵を描いているという考えに反対しています。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "keyPoints": [
+          "この記事は「AnthropicのCEOは、AIの反発は「根本的に信頼の危機」であると述べています」を扱っています。",
+          "ダリオ・アモデイは、彼が過度に悲観的なAIの絵を描いているという考えに反対しています。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+        ]
+      },
+      {
         "title": "What happens when an LLM never sees material beyond fifth grade?",
         "url": "https://littlelearner-ll.github.io/",
         "points": 101,
-        "comments": 184,
+        "comments": 195,
         "author": "porridgeraisin",
         "createdAt": "2026-08-16T07:37:53Z",
         "domain": "littlelearner-ll.github.io",
@@ -42,43 +63,23 @@
         ]
       },
       {
-        "title": "Anthropic CEO wife asked Epstein for porn business",
-        "url": "https://www.forbes.com/sites/alisondurkee/2026/08/14/who-is-cami-clark-anthropic-ceos-wife-asked-epstein-to-invest-in-porn-business/",
-        "points": 96,
-        "comments": 3,
-        "author": "nothrowaways",
-        "createdAt": "2026-08-15T22:54:41Z",
-        "domain": "forbes.com",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "低",
-        "newsLens": "一般",
-        "titleJa": "AnthropicのCEOの妻がエプスタインにポルノビジネスを依頼",
-        "summaryJa": "この記事は「AnthropicのCEOの妻がエプスタインにポルノビジネスを依頼」を扱っています。クラークは、売春を勧誘したとして既に有罪判決を受けた後、エプスタインに接近しました。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
-        "keyPoints": [
-          "この記事は「AnthropicのCEOの妻がエプスタインにポルノビジネスを依頼」を扱っています。",
-          "クラークは、売春を勧誘したとして既に有罪判決を受けた後、エプスタインに接近しました。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
-        ]
-      },
-      {
-        "title": "SpaceX officially closes its Cursor acquisition",
-        "url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
-        "points": 89,
+        "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
+        "url": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
+        "points": 79,
         "comments": 0,
         "author": "",
-        "createdAt": "2026-08-15T16:30:00.000Z",
+        "createdAt": "2026-08-15T21:29:19.000Z",
         "domain": "techcrunch.com",
         "sourceType": "rss",
         "sourceLabel": "TechCrunch AI",
         "newsLens": "一般",
         "category": "AIニュース",
-        "impact": "高",
-        "titleJa": "SpaceX、Cursor買収を正式に終了",
-        "summaryJa": "この記事は「SpaceX、Cursor買収を正式に終了」を扱っています。AIコーディングのスタートアップCursorは現在、SpaceXの一部となっている。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "impact": "中",
+        "titleJa": "女性は、義父がGrokを使用して子供時代の写真を明示的な画像に変換したと主張しています",
+        "summaryJa": "この記事は「女性は、義父がGrokを使用して子供時代の写真を明示的な画像に変換したと主張しています」を扱っています。女性は、AIツールが「日常生活を奪い、児童の性的虐待に変えている」と主張した。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
-          "この記事は「SpaceX、Cursor買収を正式に終了」を扱っています。",
-          "AIコーディングのスタートアップCursorは現在、SpaceXの一部となっている。",
+          "この記事は「女性は、義父がGrokを使用して子供時代の写真を明示的な画像に変換したと主張しています」を扱っています。",
+          "女性は、AIツールが「日常生活を奪い、児童の性的虐待に変えている」と主張した。",
           "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       },
@@ -86,7 +87,7 @@
         "title": "Claude: System Prompts",
         "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
         "points": 73,
-        "comments": 76,
+        "comments": 154,
         "author": "tosh",
         "createdAt": "2026-08-16T12:48:21Z",
         "domain": "platform.claude.com",
@@ -103,7 +104,7 @@
         ]
       }
     ],
-    "fetchedAt": "2026-08-16T15:34:30.743Z",
+    "fetchedAt": "2026-08-16T18:45:39.253Z",
     "mock": false
   },
   "xTrends": {
@@ -112,28 +113,28 @@
         "topic": "AIハヤト",
         "locationLabel": "日本",
         "bestRank": 15,
-        "appearances": 3,
+        "appearances": 4,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-08-16T15:34:30.723Z",
+        "observedAt": "2026-08-16T18:45:39.113Z",
         "url": "https://x.com/search?q=AI%E3%83%8F%E3%83%A4%E3%83%88&src=typed_query&f=live",
         "articleTitle": "AIハヤト",
         "articleTitleJa": "公開トレンド: AIハヤト",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-08-16T15:34:30.723Z",
+        "articlePublishedAt": "2026-08-16T18:45:39.113Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
       },
       {
         "topic": "Sora",
-        "locationLabel": "英国",
+        "locationLabel": "米国",
         "bestRank": 22,
-        "appearances": 17,
+        "appearances": 14,
         "trendSource": "Trends24",
-        "sourceUrl": "https://trends24.in/united-kingdom/",
-        "observedAt": "2026-08-16T15:34:30.685Z",
+        "sourceUrl": "https://trends24.in/united-states/",
+        "observedAt": "2026-08-16T18:45:39.143Z",
         "url": "https://x.com/search?q=Sora&src=typed_query&f=live",
         "articleTitle": "Show HN: APIMart: Discounted AI API Aggregator for GPT-5, Sora 2",
         "articleTitleJa": "HN を表示: APIMart: GPT-5、Sora 2 用の割引 AI API アグリゲーター",
@@ -144,10 +145,10 @@
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-08-16T15:34:30.743Z",
+    "fetchedAt": "2026-08-16T18:45:39.253Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-08-16T15:34:33.097Z"
+    "articleFetchedAt": "2026-08-16T18:45:41.662Z"
   }
 }
