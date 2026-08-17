@@ -47,7 +47,7 @@
         "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
         "url": "https://blog.roboflow.com/openai-gpt-5-6/",
         "points": 101,
-        "comments": 122,
+        "comments": 141,
         "author": "plurby",
         "createdAt": "2026-08-17T12:09:42Z",
         "domain": "blog.roboflow.com",
@@ -67,7 +67,7 @@
         "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
         "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
         "points": 101,
-        "comments": 93,
+        "comments": 113,
         "author": "galnagli",
         "createdAt": "2026-08-17T14:18:38Z",
         "domain": "wiz.io",
@@ -76,61 +76,43 @@
         "impact": "高",
         "newsLens": "技術",
         "titleJa": "AI生成のGitHub Copilot「Autofix」がSnowflakeのJIRAの侵害を許可",
-        "summaryJa": "この記事は「AI生成のGitHub Copilot「Autofix」がSnowflakeのJIRAの侵害を許可」を扱っています。公開されているSnowflakeリポジトリでAIが生成した修正により、Wiz Red Agentによって数日で発見されたワークフロー注入の欠陥が導入されました。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "summaryJa": "この記事は「AI生成のGitHub Copilot「Autofix」がSnowflakeのJIRAの侵害を許可」を扱っています。Wiz Red Agentは、GitHub CopilotアシストPRの欠陥を介してSnowflakeの内部JIRAに侵入します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
         "keyPoints": [
           "この記事は「AI生成のGitHub Copilot「Autofix」がSnowflakeのJIRAの侵害を許可」を扱っています。",
-          "公開されているSnowflakeリポジトリでAIが生成した修正により、Wiz Red Agentによって数日で発見されたワークフロー注入の欠陥が導入されました。",
+          "Wiz Red Agentは、GitHub CopilotアシストPRの欠陥を介してSnowflakeの内部JIRAに侵入します。",
           "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
       },
       {
-        "title": "Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
-        "url": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/",
-        "points": 93,
-        "comments": 138,
-        "author": "root-parent",
-        "createdAt": "2026-08-16T21:07:10Z",
-        "domain": "reuters.com",
+        "title": "AirTag reveals Amazon is trashing rare books to train AI",
+        "url": "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/",
+        "points": 92,
+        "comments": 6,
+        "author": "jefurii",
+        "createdAt": "2026-08-17T19:06:11Z",
+        "domain": "arstechnica.com",
         "sourceType": "hn",
         "category": "AIニュース",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "NVIDIAは、保証する可能性のあるOpenAIインフラファイナンスの金額を劇的に削減",
-        "summaryJa": "この記事は「NVIDIAは、保証する可能性のあるOpenAIインフラファイナンスの金額を劇的に削減」を扱っています。reuters.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "titleJa": "AirTagは、AmazonがAIを訓練するために希少な本をゴミ箱に捨てていることを明らかにし",
+        "summaryJa": "この記事は「AirTagは、AmazonがAIを訓練するために希少な本をゴミ箱に捨てていることを明らかにし」を扱っています。アマゾンのチームは、ロゴとして本を食べる準備をしているT. rexを使用しています。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
         "keyPoints": [
-          "この記事は「NVIDIAは、保証する可能性のあるOpenAIインフラファイナンスの金額を劇的に削減」を扱っています。",
-          "reuters.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "この記事は「AirTagは、AmazonがAIを訓練するために希少な本をゴミ箱に捨てていることを明らかにし」を扱っています。",
+          "アマゾンのチームは、ロゴとして本を食べる準備をしているT. rexを使用しています。",
           "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
       }
     ],
-    "fetchedAt": "2026-08-17T18:56:01.648Z",
+    "fetchedAt": "2026-08-17T21:38:45.234Z",
     "mock": false
   },
   "xTrends": {
-    "items": [
-      {
-        "topic": "Sora",
-        "locationLabel": "カナダ",
-        "bestRank": 46,
-        "appearances": 3,
-        "trendSource": "Trends24",
-        "sourceUrl": "https://trends24.in/canada/",
-        "observedAt": "2026-08-17T18:56:01.558Z",
-        "url": "https://x.com/search?q=Sora&src=typed_query&f=live",
-        "articleTitle": "Show HN: APIMart: Discounted AI API Aggregator for GPT-5, Sora 2",
-        "articleTitleJa": "HN を表示: APIMart: GPT-5、Sora 2 用の割引 AI API アグリゲーター",
-        "articleUrl": "https://apimart.ai/register?aff=yScTCM",
-        "articleSource": "apimart.ai",
-        "articlePublishedAt": "2026-08-14T14:14:13Z",
-        "summaryJa": "APIMart アカウントを作成して 500 以上の AI モデルにアクセス",
-        "translationVersion": 3
-      }
-    ],
-    "fetchedAt": "2026-08-17T18:56:01.648Z",
+    "items": [],
+    "fetchedAt": "2026-08-17T21:38:45.234Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-08-17T18:56:03.277Z"
+    "articleFetchedAt": "2026-08-17T21:38:45.344Z"
   }
 }
