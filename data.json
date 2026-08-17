@@ -47,7 +47,7 @@
         "title": "Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
         "url": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/",
         "points": 93,
-        "comments": 104,
+        "comments": 115,
         "author": "root-parent",
         "createdAt": "2026-08-16T21:07:10Z",
         "domain": "reuters.com",
@@ -64,30 +64,30 @@
         ]
       },
       {
-        "title": "Claude: System Prompts",
-        "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
+        "title": "Anthropic's 'watermark' text adulteration in Claude is a perversion of writing",
+        "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
         "points": 73,
-        "comments": 256,
-        "author": "tosh",
-        "createdAt": "2026-08-16T12:48:21Z",
-        "domain": "platform.claude.com",
+        "comments": 400,
+        "author": "ropbear",
+        "createdAt": "2026-08-16T21:53:43Z",
+        "domain": "daringfireball.net",
         "sourceType": "hn",
         "category": "AIモデル",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "Claude：システムプロンプト",
-        "summaryJa": "この記事は「Claude：システムプロンプト」を扱っています。platform.claude.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "titleJa": "ClaudeにおけるAnthropicの「透かし」テキストの不純物は、書き込みの歪曲です",
+        "summaryJa": "この記事は「ClaudeにおけるAnthropicの「透かし」テキストの不純物は、書き込みの歪曲です」を扱っています。ツールが、その出所を示唆するためにテキスト内に隠された手がかりを埋め込む目的で、わずかな明快さ、一貫性、意味、品質などを犠牲にすることは容認できません。*私の*ニーズ以外のものが*私にとって*テキストの生成に考慮されるべきであるという考えは、明らかに不快です。",
         "keyPoints": [
-          "この記事は「Claude：システムプロンプト」を扱っています。",
-          "platform.claude.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+          "この記事は「ClaudeにおけるAnthropicの「透かし」テキストの不純物は、書き込みの歪曲です」を扱っています。",
+          "ツールが、その出所を示唆するためにテキスト内に隠された手がかりを埋め込む目的で、わずかな明快さ、一貫性、意味、品質などを犠牲にすることは容認できません。",
+          "*私の*ニーズ以外のものが*私にとって*テキストの生成に考慮されるべきであるという考えは、明らかに不快です。"
         ]
       },
       {
         "title": "The AI Credit Resale Economy",
         "url": "https://vectoral.com/blog/who-are-the-token-brokers",
         "points": 73,
-        "comments": 117,
+        "comments": 123,
         "author": "mlenhard",
         "createdAt": "2026-08-16T14:44:55Z",
         "domain": "vectoral.com",
@@ -104,29 +104,11 @@
         ]
       }
     ],
-    "fetchedAt": "2026-08-17T09:56:08.181Z",
+    "fetchedAt": "2026-08-17T13:04:28.911Z",
     "mock": false
   },
   "xTrends": {
     "items": [
-      {
-        "topic": "AIハヤト",
-        "locationLabel": "日本",
-        "bestRank": 21,
-        "appearances": 3,
-        "trendSource": "Trends24",
-        "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-08-17T09:56:08.114Z",
-        "url": "https://x.com/search?q=AI%E3%83%8F%E3%83%A4%E3%83%88&src=typed_query&f=live",
-        "articleTitle": "AIハヤト",
-        "articleTitleJa": "公開トレンド: AIハヤト",
-        "articleUrl": "https://trends24.in/japan/",
-        "articleSource": "Trends24",
-        "articlePublishedAt": "2026-08-17T09:56:08.114Z",
-        "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
-        "translationVersion": 3,
-        "articleFallback": true
-      },
       {
         "topic": "オープンAI",
         "locationLabel": "日本",
@@ -134,13 +116,13 @@
         "appearances": 3,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-08-17T09:56:08.114Z",
+        "observedAt": "2026-08-17T13:04:28.871Z",
         "url": "https://x.com/search?q=%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3AI&src=typed_query&f=live",
         "articleTitle": "オープンAI",
         "articleTitleJa": "公開トレンド: オープンAI",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-08-17T09:56:08.114Z",
+        "articlePublishedAt": "2026-08-17T13:04:28.871Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -149,10 +131,10 @@
         "topic": "Sora",
         "locationLabel": "米国",
         "bestRank": 36,
-        "appearances": 7,
+        "appearances": 6,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-08-17T09:56:08.091Z",
+        "observedAt": "2026-08-17T13:04:28.789Z",
         "url": "https://x.com/search?q=Sora&src=typed_query&f=live",
         "articleTitle": "Show HN: APIMart: Discounted AI API Aggregator for GPT-5, Sora 2",
         "articleTitleJa": "HN を表示: APIMart: GPT-5、Sora 2 用の割引 AI API アグリゲーター",
@@ -163,10 +145,10 @@
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-08-17T09:56:08.181Z",
+    "fetchedAt": "2026-08-17T13:04:28.911Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-08-17T09:56:14.261Z"
+    "articleFetchedAt": "2026-08-17T13:04:38.198Z"
   }
 }
