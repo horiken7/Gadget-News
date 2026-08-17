@@ -2,6 +2,27 @@
   "news": {
     "items": [
       {
+        "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
+        "url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
+        "points": 107,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-08-17T16:38:44.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
+        "category": "AIニュース",
+        "impact": "高",
+        "titleJa": "本の販売を始めたアマゾンは、AIを訓練するために希少なテキストを破壊している",
+        "summaryJa": "この記事は「本の販売を始めたアマゾンは、AIを訓練するために希少なテキストを破壊している」を扱っています。レアブックは、LLMのトレーニングに非常に価値があります。なぜなら、これらのモデルはすでにオンラインで利用可能なものすべてについてトレーニングを受けているからです。",
+        "keyPoints": [
+          "この記事は「本の販売を始めたアマゾンは、AIを訓練するために希少なテキストを破壊している」を扱っています。",
+          "レアブックは、LLMのトレーニングに非常に価値があります。",
+          "なぜなら、これらのモデルはすでにオンラインで利用可能なものすべてについてトレーニングを受けているからです。"
+        ]
+      },
+      {
         "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
         "url": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
         "points": 107,
@@ -23,31 +44,10 @@
         ]
       },
       {
-        "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
-        "url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
-        "points": 105,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-08-16T16:53:51.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
-        "category": "AIニュース",
-        "impact": "高",
-        "titleJa": "AnthropicのCEOは、AIの反発は「根本的に信頼の危機」であると述べています",
-        "summaryJa": "この記事は「AnthropicのCEOは、AIの反発は「根本的に信頼の危機」であると述べています」を扱っています。ダリオ・アモデイは、彼が過度に悲観的なAIの絵を描いているという考えに反対しています。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
-        "keyPoints": [
-          "この記事は「AnthropicのCEOは、AIの反発は「根本的に信頼の危機」であると述べています」を扱っています。",
-          "ダリオ・アモデイは、彼が過度に悲観的なAIの絵を描いているという考えに反対しています。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
-        ]
-      },
-      {
         "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
         "url": "https://blog.roboflow.com/openai-gpt-5-6/",
         "points": 101,
-        "comments": 77,
+        "comments": 122,
         "author": "plurby",
         "createdAt": "2026-08-17T12:09:42Z",
         "domain": "blog.roboflow.com",
@@ -64,10 +64,30 @@
         ]
       },
       {
+        "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
+        "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
+        "points": 101,
+        "comments": 93,
+        "author": "galnagli",
+        "createdAt": "2026-08-17T14:18:38Z",
+        "domain": "wiz.io",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "AI生成のGitHub Copilot「Autofix」がSnowflakeのJIRAの侵害を許可",
+        "summaryJa": "この記事は「AI生成のGitHub Copilot「Autofix」がSnowflakeのJIRAの侵害を許可」を扱っています。公開されているSnowflakeリポジトリでAIが生成した修正により、Wiz Red Agentによって数日で発見されたワークフロー注入の欠陥が導入されました。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "keyPoints": [
+          "この記事は「AI生成のGitHub Copilot「Autofix」がSnowflakeのJIRAの侵害を許可」を扱っています。",
+          "公開されているSnowflakeリポジトリでAIが生成した修正により、Wiz Red Agentによって数日で発見されたワークフロー注入の欠陥が導入されました。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+        ]
+      },
+      {
         "title": "Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
         "url": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/",
         "points": 93,
-        "comments": 129,
+        "comments": 138,
         "author": "root-parent",
         "createdAt": "2026-08-16T21:07:10Z",
         "domain": "reuters.com",
@@ -82,59 +102,21 @@
           "reuters.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
           "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
-      },
-      {
-        "title": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
-        "url": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility/",
-        "points": 88,
-        "comments": 80,
-        "author": "amarcheschi",
-        "createdAt": "2026-08-17T13:44:23Z",
-        "domain": "404media.co",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "中",
-        "newsLens": "技術",
-        "titleJa": "レア級の本の出荷を追跡しました。Amazon AIトレーニング施設で終了しました",
-        "summaryJa": "この記事は「レア級の本の出荷を追跡しました。Amazon AIトレーニング施設で終了しました」を扱っています。私たちは、どのAI企業がそれを購入しているかを確認するために、希少な本の出荷に追跡デバイスを配置し、Amazonが本をスキャンして破棄するAmazonの施設を見つけました。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
-        "keyPoints": [
-          "この記事は「レア級の本の出荷を追跡しました。",
-          "Amazon AIトレーニング施設で終了しました」を扱っています。",
-          "私たちは、どのAI企業がそれを購入しているかを確認するために、希少な本の出荷に追跡デバイスを配置し、Amazonが本をスキャンして破棄するAmazonの施設を見つけました。"
-        ]
       }
     ],
-    "fetchedAt": "2026-08-17T15:37:16.229Z",
+    "fetchedAt": "2026-08-17T18:56:01.648Z",
     "mock": false
   },
   "xTrends": {
     "items": [
       {
-        "topic": "オープンAI",
-        "locationLabel": "日本",
-        "bestRank": 37,
+        "topic": "Sora",
+        "locationLabel": "カナダ",
+        "bestRank": 46,
         "appearances": 3,
         "trendSource": "Trends24",
-        "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-08-17T15:37:16.185Z",
-        "url": "https://x.com/search?q=%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3AI&src=typed_query&f=live",
-        "articleTitle": "オープンAI",
-        "articleTitleJa": "公開トレンド: オープンAI",
-        "articleUrl": "https://trends24.in/japan/",
-        "articleSource": "Trends24",
-        "articlePublishedAt": "2026-08-17T15:37:16.185Z",
-        "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
-        "translationVersion": 3,
-        "articleFallback": true
-      },
-      {
-        "topic": "Sora",
-        "locationLabel": "米国",
-        "bestRank": 45,
-        "appearances": 4,
-        "trendSource": "Trends24",
-        "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-08-17T15:37:16.098Z",
+        "sourceUrl": "https://trends24.in/canada/",
+        "observedAt": "2026-08-17T18:56:01.558Z",
         "url": "https://x.com/search?q=Sora&src=typed_query&f=live",
         "articleTitle": "Show HN: APIMart: Discounted AI API Aggregator for GPT-5, Sora 2",
         "articleTitleJa": "HN を表示: APIMart: GPT-5、Sora 2 用の割引 AI API アグリゲーター",
@@ -145,10 +127,10 @@
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-08-17T15:37:16.229Z",
+    "fetchedAt": "2026-08-17T18:56:01.648Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-08-17T15:37:36.868Z"
+    "articleFetchedAt": "2026-08-17T18:56:03.277Z"
   }
 }
