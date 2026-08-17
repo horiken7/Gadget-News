@@ -2,6 +2,27 @@
   "news": {
     "items": [
       {
+        "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
+        "url": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
+        "points": 107,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-08-17T15:16:24.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
+        "category": "開発ツール",
+        "impact": "高",
+        "titleJa": "NVIDIA、OpenAIプロジェクトの背後にあるソフトバンクのデータセンター開発者に15億$を投資",
+        "summaryJa": "この記事は「NVIDIA、OpenAIプロジェクトの背後にあるソフトバンクのデータセンター開発者に15億$を投資」を扱っています。Nvidiaのソフトバンクのデータセンター開発者への投資は、同社のチップがOpenAIデータセンターに電力を供給することを保証するだろう。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "keyPoints": [
+          "この記事は「NVIDIA、OpenAIプロジェクトの背後にあるソフトバンクのデータセンター開発者に15億$を投資」を扱っています。",
+          "Nvidiaのソフトバンクのデータセンター開発者への投資は、同社のチップがOpenAIデータセンターに電力を供給することを保証するだろう。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+        ]
+      },
+      {
         "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
         "url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
         "points": 105,
@@ -23,31 +44,30 @@
         ]
       },
       {
-        "title": "Why people aren’t buying Mark Zuckerberg’s AI future",
-        "url": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
-        "points": 99,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-08-16T20:32:01.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
-        "category": "AIニュース",
+        "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
+        "url": "https://blog.roboflow.com/openai-gpt-5-6/",
+        "points": 101,
+        "comments": 77,
+        "author": "plurby",
+        "createdAt": "2026-08-17T12:09:42Z",
+        "domain": "blog.roboflow.com",
+        "sourceType": "hn",
+        "category": "AIモデル",
         "impact": "高",
-        "titleJa": "なぜ人々はマーク・ザッカーバーグのAIの未来を買わないのか",
-        "summaryJa": "この記事は「なぜ人々はマーク・ザッカーバーグのAIの未来を買わないのか」を扱っています。Equityポッドキャストの最新エピソードでは、なぜ誰もがZuckerbergのビジョンを購入していないのかについて話し合います。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "newsLens": "技術",
+        "titleJa": "GPT 5.6 SOLは、これまでにリリースされた最高の「ビジョン」モデルOpenAIです",
+        "summaryJa": "この記事は「GPT 5.6 SOLは、これまでにリリースされた最高の「ビジョン」モデルOpenAIです」を扱っています。GPT-5.6 Solは、OpenAI史上最強のビジョンモデルです。Sol、Terra、およびLunaを検出、カウント、OCR、および抽出全体でテストし、その結果、速度、およびコストを主要なVLMと比較しました。",
         "keyPoints": [
-          "この記事は「なぜ人々はマーク・ザッカーバーグのAIの未来を買わないのか」を扱っています。",
-          "Equityポッドキャストの最新エピソードでは、なぜ誰もがZuckerbergのビジョンを購入していないのかについて話し合います。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+          "この記事は「GPT 5.6 SOLは、これまでにリリースされた最高の「ビジョン」モデルOpenAIです」を扱っています。",
+          "GPT-5.6 Solは、OpenAI史上最強のビジョンモデルです。",
+          "Sol、Terra、およびLunaを検出、カウント、OCR、および抽出全体でテストし、その結果、速度、およびコストを主要なVLMと比較しました。"
         ]
       },
       {
         "title": "Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
         "url": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/",
         "points": 93,
-        "comments": 115,
+        "comments": 129,
         "author": "root-parent",
         "createdAt": "2026-08-16T21:07:10Z",
         "domain": "reuters.com",
@@ -64,47 +84,27 @@
         ]
       },
       {
-        "title": "Anthropic's 'watermark' text adulteration in Claude is a perversion of writing",
-        "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
-        "points": 73,
-        "comments": 400,
-        "author": "ropbear",
-        "createdAt": "2026-08-16T21:53:43Z",
-        "domain": "daringfireball.net",
-        "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "ClaudeにおけるAnthropicの「透かし」テキストの不純物は、書き込みの歪曲です",
-        "summaryJa": "この記事は「ClaudeにおけるAnthropicの「透かし」テキストの不純物は、書き込みの歪曲です」を扱っています。ツールが、その出所を示唆するためにテキスト内に隠された手がかりを埋め込む目的で、わずかな明快さ、一貫性、意味、品質などを犠牲にすることは容認できません。*私の*ニーズ以外のものが*私にとって*テキストの生成に考慮されるべきであるという考えは、明らかに不快です。",
-        "keyPoints": [
-          "この記事は「ClaudeにおけるAnthropicの「透かし」テキストの不純物は、書き込みの歪曲です」を扱っています。",
-          "ツールが、その出所を示唆するためにテキスト内に隠された手がかりを埋め込む目的で、わずかな明快さ、一貫性、意味、品質などを犠牲にすることは容認できません。",
-          "*私の*ニーズ以外のものが*私にとって*テキストの生成に考慮されるべきであるという考えは、明らかに不快です。"
-        ]
-      },
-      {
-        "title": "The AI Credit Resale Economy",
-        "url": "https://vectoral.com/blog/who-are-the-token-brokers",
-        "points": 73,
-        "comments": 123,
-        "author": "mlenhard",
-        "createdAt": "2026-08-16T14:44:55Z",
-        "domain": "vectoral.com",
+        "title": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
+        "url": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility/",
+        "points": 88,
+        "comments": 80,
+        "author": "amarcheschi",
+        "createdAt": "2026-08-17T13:44:23Z",
+        "domain": "404media.co",
         "sourceType": "hn",
         "category": "AIニュース",
-        "impact": "高",
+        "impact": "中",
         "newsLens": "技術",
-        "titleJa": "AIクレジット再販経済",
-        "summaryJa": "この記事は「AIクレジット再販経済」を扱っています。スタートアップから未使用のAIクレジットを購入し、それらを再販するブローカーを見てみましょう—マーケットプレイス、バルク割引ルーター、およびオフマーケットの推論が手を変えるメッセージボード。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "titleJa": "レア級の本の出荷を追跡しました。Amazon AIトレーニング施設で終了しました",
+        "summaryJa": "この記事は「レア級の本の出荷を追跡しました。Amazon AIトレーニング施設で終了しました」を扱っています。私たちは、どのAI企業がそれを購入しているかを確認するために、希少な本の出荷に追跡デバイスを配置し、Amazonが本をスキャンして破棄するAmazonの施設を見つけました。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
         "keyPoints": [
-          "この記事は「AIクレジット再販経済」を扱っています。",
-          "スタートアップから未使用のAIクレジットを購入し、それらを再販するブローカーを見てみましょう—マーケットプレイス、バルク割引ルーター、およびオフマーケットの推論が手を変えるメッセージボード。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+          "この記事は「レア級の本の出荷を追跡しました。",
+          "Amazon AIトレーニング施設で終了しました」を扱っています。",
+          "私たちは、どのAI企業がそれを購入しているかを確認するために、希少な本の出荷に追跡デバイスを配置し、Amazonが本をスキャンして破棄するAmazonの施設を見つけました。"
         ]
       }
     ],
-    "fetchedAt": "2026-08-17T13:04:28.911Z",
+    "fetchedAt": "2026-08-17T15:37:16.229Z",
     "mock": false
   },
   "xTrends": {
@@ -116,13 +116,13 @@
         "appearances": 3,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-08-17T13:04:28.871Z",
+        "observedAt": "2026-08-17T15:37:16.185Z",
         "url": "https://x.com/search?q=%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3AI&src=typed_query&f=live",
         "articleTitle": "オープンAI",
         "articleTitleJa": "公開トレンド: オープンAI",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-08-17T13:04:28.871Z",
+        "articlePublishedAt": "2026-08-17T15:37:16.185Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -130,11 +130,11 @@
       {
         "topic": "Sora",
         "locationLabel": "米国",
-        "bestRank": 36,
-        "appearances": 6,
+        "bestRank": 45,
+        "appearances": 4,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-08-17T13:04:28.789Z",
+        "observedAt": "2026-08-17T15:37:16.098Z",
         "url": "https://x.com/search?q=Sora&src=typed_query&f=live",
         "articleTitle": "Show HN: APIMart: Discounted AI API Aggregator for GPT-5, Sora 2",
         "articleTitleJa": "HN を表示: APIMart: GPT-5、Sora 2 用の割引 AI API アグリゲーター",
@@ -145,10 +145,10 @@
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-08-17T13:04:28.911Z",
+    "fetchedAt": "2026-08-17T15:37:16.229Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-08-17T13:04:38.198Z"
+    "articleFetchedAt": "2026-08-17T15:37:36.868Z"
   }
 }
