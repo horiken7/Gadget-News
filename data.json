@@ -26,7 +26,7 @@
         "title": "What happens when an LLM never sees material beyond fifth grade?",
         "url": "https://littlelearner-ll.github.io/",
         "points": 101,
-        "comments": 205,
+        "comments": 206,
         "author": "porridgeraisin",
         "createdAt": "2026-08-16T07:37:53Z",
         "domain": "littlelearner-ll.github.io",
@@ -64,22 +64,22 @@
         ]
       },
       {
-        "title": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
-        "url": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
+        "title": "Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
+        "url": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/",
         "points": 93,
-        "comments": 168,
-        "author": "zacharyozer",
-        "createdAt": "2026-08-16T20:31:16Z",
-        "domain": "bloomberg.com",
+        "comments": 87,
+        "author": "root-parent",
+        "createdAt": "2026-08-16T21:07:10Z",
+        "domain": "reuters.com",
         "sourceType": "hn",
         "category": "AIニュース",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "Stripe、AI企業OpenRouterを70億$で買収",
-        "summaryJa": "この記事は「Stripe、AI企業OpenRouterを70億$で買収」を扱っています。bloomberg.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "titleJa": "NVIDIAは、保証する可能性のあるOpenAIインフラファイナンスの金額を劇的に削減",
+        "summaryJa": "この記事は「NVIDIAは、保証する可能性のあるOpenAIインフラファイナンスの金額を劇的に削減」を扱っています。reuters.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
         "keyPoints": [
-          "この記事は「Stripe、AI企業OpenRouterを70億$で買収」を扱っています。",
-          "bloomberg.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "この記事は「NVIDIAは、保証する可能性のあるOpenAIインフラファイナンスの金額を劇的に削減」を扱っています。",
+          "reuters.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
           "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
       },
@@ -87,7 +87,7 @@
         "title": "Claude: System Prompts",
         "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
         "points": 73,
-        "comments": 239,
+        "comments": 250,
         "author": "tosh",
         "createdAt": "2026-08-16T12:48:21Z",
         "domain": "platform.claude.com",
@@ -104,7 +104,7 @@
         ]
       }
     ],
-    "fetchedAt": "2026-08-17T04:00:50.992Z",
+    "fetchedAt": "2026-08-17T07:15:15.787Z",
     "mock": false
   },
   "xTrends": {
@@ -116,13 +116,13 @@
         "appearances": 4,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-08-17T04:00:50.974Z",
+        "observedAt": "2026-08-17T07:15:15.677Z",
         "url": "https://x.com/search?q=AI%E3%83%8F%E3%83%A4%E3%83%88&src=typed_query&f=live",
         "articleTitle": "AIハヤト",
         "articleTitleJa": "公開トレンド: AIハヤト",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-08-17T04:00:50.974Z",
+        "articlePublishedAt": "2026-08-17T07:15:15.677Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -134,13 +134,13 @@
         "appearances": 3,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-08-17T04:00:50.974Z",
+        "observedAt": "2026-08-17T07:15:15.677Z",
         "url": "https://x.com/search?q=%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3AI&src=typed_query&f=live",
         "articleTitle": "オープンAI",
         "articleTitleJa": "公開トレンド: オープンAI",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-08-17T04:00:50.974Z",
+        "articlePublishedAt": "2026-08-17T07:15:15.677Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -149,10 +149,10 @@
         "topic": "Sora",
         "locationLabel": "米国",
         "bestRank": 36,
-        "appearances": 14,
+        "appearances": 10,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-08-17T04:00:50.866Z",
+        "observedAt": "2026-08-17T07:15:15.768Z",
         "url": "https://x.com/search?q=Sora&src=typed_query&f=live",
         "articleTitle": "Show HN: APIMart: Discounted AI API Aggregator for GPT-5, Sora 2",
         "articleTitleJa": "HN を表示: APIMart: GPT-5、Sora 2 用の割引 AI API アグリゲーター",
@@ -163,10 +163,10 @@
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-08-17T04:00:50.992Z",
+    "fetchedAt": "2026-08-17T07:15:15.787Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-08-17T04:00:57.243Z"
+    "articleFetchedAt": "2026-08-17T07:15:20.529Z"
   }
 }
