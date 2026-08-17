@@ -67,7 +67,7 @@
         "title": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
         "url": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
         "points": 93,
-        "comments": 145,
+        "comments": 168,
         "author": "zacharyozer",
         "createdAt": "2026-08-16T20:31:16Z",
         "domain": "bloomberg.com",
@@ -84,28 +84,27 @@
         ]
       },
       {
-        "title": "ASCII . jp ： 次世代LLMへの4つの最新アプローチ ／ オスのマウスからメスの作製に成功",
-        "url": "https://ascii.jp/elem/000/004/426/4426891/",
-        "points": 81,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-08-17T01:00:00Z",
-        "domain": "ascii.jp",
-        "sourceType": "gdelt",
-        "sourceLabel": "GDELT",
+        "title": "Claude: System Prompts",
+        "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
+        "points": 73,
+        "comments": 239,
+        "author": "tosh",
+        "createdAt": "2026-08-16T12:48:21Z",
+        "domain": "platform.claude.com",
+        "sourceType": "hn",
         "category": "AIモデル",
-        "impact": "中",
+        "impact": "高",
         "newsLens": "技術",
-        "titleJa": "ASCII. jp ： 次世代LLMへの 4つの最新アプローチ ／ オスのマウスからメスの作製に成功",
-        "summaryJa": "この記事は「ASCII. jp ： 次世代LLMへの 4つの最新アプローチ ／ オスのマウスからメスの作製に成功」を扱っています。世界最先端のテクノロジー情報をお届けするグローバルメディア「MITテクノロジーレビュー」から、ビジネスに役立つ注目のテック企業の最新動向、イノベーションにつながる最新の研究内容をピックアップして紹介します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "titleJa": "Claude：システムプロンプト",
+        "summaryJa": "この記事は「Claude：システムプロンプト」を扱っています。platform.claude.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
         "keyPoints": [
-          "この記事は「ASCII. jp ： 次世代LLMへの 4つの最新アプローチ ／ オスのマウスからメスの作製に成功」を扱っています。",
-          "世界最先端のテクノロジー情報をお届けするグローバルメディア「MITテクノロジーレビュー」から、ビジネスに役立つ注目のテック企業の最新動向、イノベーションにつながる最新の研究内容をピックアップして紹介します。",
+          "この記事は「Claude：システムプロンプト」を扱っています。",
+          "platform.claude.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
           "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
       }
     ],
-    "fetchedAt": "2026-08-17T01:54:37.835Z",
+    "fetchedAt": "2026-08-17T04:00:50.992Z",
     "mock": false
   },
   "xTrends": {
@@ -117,13 +116,13 @@
         "appearances": 4,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-08-17T01:54:37.820Z",
+        "observedAt": "2026-08-17T04:00:50.974Z",
         "url": "https://x.com/search?q=AI%E3%83%8F%E3%83%A4%E3%83%88&src=typed_query&f=live",
         "articleTitle": "AIハヤト",
         "articleTitleJa": "公開トレンド: AIハヤト",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-08-17T01:54:37.820Z",
+        "articlePublishedAt": "2026-08-17T04:00:50.974Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -135,13 +134,13 @@
         "appearances": 3,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-08-17T01:54:37.820Z",
+        "observedAt": "2026-08-17T04:00:50.974Z",
         "url": "https://x.com/search?q=%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3AI&src=typed_query&f=live",
         "articleTitle": "オープンAI",
         "articleTitleJa": "公開トレンド: オープンAI",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-08-17T01:54:37.820Z",
+        "articlePublishedAt": "2026-08-17T04:00:50.974Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -150,10 +149,10 @@
         "topic": "Sora",
         "locationLabel": "米国",
         "bestRank": 36,
-        "appearances": 13,
+        "appearances": 14,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-08-17T01:54:37.739Z",
+        "observedAt": "2026-08-17T04:00:50.866Z",
         "url": "https://x.com/search?q=Sora&src=typed_query&f=live",
         "articleTitle": "Show HN: APIMart: Discounted AI API Aggregator for GPT-5, Sora 2",
         "articleTitleJa": "HN を表示: APIMart: GPT-5、Sora 2 用の割引 AI API アグリゲーター",
@@ -164,10 +163,10 @@
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-08-17T01:54:37.835Z",
+    "fetchedAt": "2026-08-17T04:00:50.992Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-08-17T01:54:40.377Z"
+    "articleFetchedAt": "2026-08-17T04:00:57.243Z"
   }
 }
