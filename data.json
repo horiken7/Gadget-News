@@ -47,7 +47,7 @@
         "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
         "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
         "points": 101,
-        "comments": 142,
+        "comments": 149,
         "author": "galnagli",
         "createdAt": "2026-08-17T14:18:38Z",
         "domain": "wiz.io",
@@ -64,30 +64,10 @@
         ]
       },
       {
-        "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
-        "url": "https://blog.roboflow.com/openai-gpt-5-6/",
-        "points": 101,
-        "comments": 162,
-        "author": "plurby",
-        "createdAt": "2026-08-17T12:09:42Z",
-        "domain": "blog.roboflow.com",
-        "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "GPT 5.6 SOLは、これまでにリリースされた最高の「ビジョン」モデルOpenAIです",
-        "summaryJa": "この記事は「GPT 5.6 SOLは、これまでにリリースされた最高の「ビジョン」モデルOpenAIです」を扱っています。GPT-5.6 Solは、OpenAI史上最強のビジョンモデルです。Sol、Terra、およびLunaを検出、カウント、OCR、および抽出全体でテストし、その結果、速度、およびコストを主要なVLMと比較しました。",
-        "keyPoints": [
-          "この記事は「GPT 5.6 SOLは、これまでにリリースされた最高の「ビジョン」モデルOpenAIです」を扱っています。",
-          "GPT-5.6 Solは、OpenAI史上最強のビジョンモデルです。",
-          "Sol、Terra、およびLunaを検出、カウント、OCR、および抽出全体でテストし、その結果、速度、およびコストを主要なVLMと比較しました。"
-        ]
-      },
-      {
         "title": "Anthropic's War on open source AI",
         "url": "https://twitter.com/TheAhmadOsman/status/2065307070044234186",
         "points": 101,
-        "comments": 57,
+        "comments": 58,
         "author": "bilsbie",
         "createdAt": "2026-08-17T15:24:34Z",
         "domain": "twitter.com",
@@ -102,9 +82,29 @@
           "twitter.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
           "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
+      },
+      {
+        "title": "Google buys crashed airline Spirit's data at auction, because AI",
+        "url": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
+        "points": 93,
+        "comments": 124,
+        "author": "pseudolus",
+        "createdAt": "2026-08-18T10:13:28Z",
+        "domain": "theregister.com",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "AIのために、Googleはオークションで墜落した航空会社Spiritのデータを購入します",
+        "summaryJa": "この記事は「AIのために、Googleはオークションで墜落した航空会社Spiritのデータを購入します」を扱っています。1,000万$は、Teams、Oracle、SAPから1億件以上の電子メール、3,000万件以上の録音された通話、大量のものを購入します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "keyPoints": [
+          "この記事は「AIのために、Googleはオークションで墜落した航空会社Spiritのデータを購入します」を扱っています。",
+          "1,000万$は、Teams、Oracle、SAPから1億件以上の電子メール、3,000万件以上の録音された通話、大量のものを購入します。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+        ]
       }
     ],
-    "fetchedAt": "2026-08-18T09:47:48.319Z",
+    "fetchedAt": "2026-08-18T13:06:32.805Z",
     "mock": false
   },
   "xTrends": {
@@ -116,22 +116,22 @@
         "appearances": 3,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-08-18T09:47:48.277Z",
+        "observedAt": "2026-08-18T13:06:32.786Z",
         "url": "https://x.com/search?q=%E8%B2%A1%E6%94%BF%E3%83%BBAI&src=typed_query&f=live",
         "articleTitle": "財政・AI",
         "articleTitleJa": "公開トレンド: 財政・AI",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-08-18T09:47:48.277Z",
+        "articlePublishedAt": "2026-08-18T13:06:32.786Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
       }
     ],
-    "fetchedAt": "2026-08-18T09:47:48.319Z",
+    "fetchedAt": "2026-08-18T13:06:32.805Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-08-18T09:47:48.661Z"
+    "articleFetchedAt": "2026-08-18T13:06:33.499Z"
   }
 }
