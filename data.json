@@ -47,7 +47,7 @@
         "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
         "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
         "points": 101,
-        "comments": 127,
+        "comments": 138,
         "author": "galnagli",
         "createdAt": "2026-08-17T14:18:38Z",
         "domain": "wiz.io",
@@ -67,7 +67,7 @@
         "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
         "url": "https://blog.roboflow.com/openai-gpt-5-6/",
         "points": 101,
-        "comments": 156,
+        "comments": 159,
         "author": "plurby",
         "createdAt": "2026-08-17T12:09:42Z",
         "domain": "blog.roboflow.com",
@@ -104,7 +104,7 @@
         ]
       }
     ],
-    "fetchedAt": "2026-08-18T03:57:06.527Z",
+    "fetchedAt": "2026-08-18T07:02:55.113Z",
     "mock": false
   },
   "xTrends": {
@@ -116,22 +116,22 @@
         "appearances": 3,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-08-18T03:57:06.441Z",
+        "observedAt": "2026-08-18T07:02:54.968Z",
         "url": "https://x.com/search?q=%E8%B2%A1%E6%94%BF%E3%83%BBAI&src=typed_query&f=live",
         "articleTitle": "財政・AI",
         "articleTitleJa": "公開トレンド: 財政・AI",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-08-18T03:57:06.441Z",
+        "articlePublishedAt": "2026-08-18T07:02:54.968Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
       }
     ],
-    "fetchedAt": "2026-08-18T03:57:06.527Z",
+    "fetchedAt": "2026-08-18T07:02:55.113Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-08-18T03:57:06.896Z"
+    "articleFetchedAt": "2026-08-18T07:02:55.485Z"
   }
 }
