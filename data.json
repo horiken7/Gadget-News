@@ -47,7 +47,7 @@
         "title": "Ask HN: Does anyone else feel like nothing matters anymore?",
         "url": "https://news.ycombinator.com/item?id=49340013",
         "points": 93,
-        "comments": 154,
+        "comments": 161,
         "author": "ramesh31",
         "createdAt": "2026-08-18T01:28:48Z",
         "domain": "news.ycombinator.com",
@@ -61,6 +61,27 @@
           "この記事は「質問：もう何も重要ではないと感じている人はいますか。",
           "CSの新しいコンセプトを学びますか。",
           "仕事はおそらく1年後には存在しないでしょう。"
+        ]
+      },
+      {
+        "title": "Applied Materials Rockets 98 % in 2026 : How Does AMAT Compare to Lam Research and KLA as AI Capex Powers Chip Gear Stocks ?",
+        "url": "https://247wallst.com/investing/2026/08/18/applied-materials-rockets-98-in-2026-how-does-amat-compare-to-lam-research-and-kla-as-ai-capex-powers-chip-gear-stocks/",
+        "points": 81,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-08-18T21:00:00Z",
+        "domain": "247wallst.com",
+        "sourceType": "gdelt",
+        "sourceLabel": "GDELT",
+        "category": "ハードウェア",
+        "impact": "中",
+        "newsLens": "技術",
+        "titleJa": "2026年の応用材料ロケット98 ％ ： AI設備投資がチップギアの在庫を強化しているため、AMATはLAM ResearchとKLAと比較してどのようになっていますか？",
+        "summaryJa": "この記事は「2026年の応用材料ロケット98 ％ ： AI設備投資がチップギアの在庫を強化しているため、AMATはLAM ResearchとKLAと比較してどのようになっていますか？」を扱っています。チップ機器の在庫は、2026年にはより広範なテクノロジー市場をはるかに上回って急増したが、AI支出に関する1週間の疑念は、グループ全体で数十億ドルの利益を一掃した。アプライドマテリアルズ、LAMリサーチ、KLAの間のギャップは、取引が次にどこに向かうかを示しています。",
+        "keyPoints": [
+          "この記事は「2026年の応用材料ロケット98 ％ ： AI設備投資がチップギアの在庫を強化しているため、AMATはLAM ResearchとKLAと比較してどのようになっていますか。",
+          "チップ機器の在庫は、2026年にはより広範なテクノロジー市場をはるかに上回って急増したが、AI支出に関する1週間の疑念は、グループ全体で数十億ドルの利益を一掃した。",
+          "アプライドマテリアルズ、LAMリサーチ、KLAの間のギャップは、取引が次にどこに向かうかを示しています。"
         ]
       },
       {
@@ -83,29 +104,9 @@
           "シークレットパラメータを使用すると、ターゲットがリンクをクリックしたときにハッカーがパスワードを盗むことができます。",
           "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
-      },
-      {
-        "title": "GPT-5.6 Sol Pricing Cut by 50% on OpenRouter",
-        "url": "https://openrouter.ai/openai/gpt-5.6-sol",
-        "points": 73,
-        "comments": 423,
-        "author": "Topfi",
-        "createdAt": "2026-08-17T21:03:18Z",
-        "domain": "openrouter.ai",
-        "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "OpenRouterでGPT-5.6 Solの価格を50%削減",
-        "summaryJa": "この記事は「OpenRouterでGPT-5.6 Solの価格を50%削減」を扱っています。GPT-5.6 SOLは、OpenAIのGPT-5.6シリーズの主力モデルです。入力トークンあたり2.50ドル、出力トークンあたり15ドル。",
-        "keyPoints": [
-          "この記事は「OpenRouterでGPT-5.6 Solの価格を50%削減」を扱っています。",
-          "GPT-5.6 SOLは、OpenAIのGPT-5.6シリーズの主力モデルです。",
-          "入力トークンあたり2.50ドル、出力トークンあたり15ドル。"
-        ]
       }
     ],
-    "fetchedAt": "2026-08-18T18:55:14.221Z",
+    "fetchedAt": "2026-08-18T21:36:41.663Z",
     "mock": false
   },
   "xTrends": {
@@ -117,7 +118,7 @@
         "appearances": 2,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-08-18T18:55:14.068Z",
+        "observedAt": "2026-08-18T21:36:41.531Z",
         "url": "https://x.com/search?q=ChatGPT%20for%20Teens&src=typed_query&f=live",
         "articleTitle": "OpenAI introduces 'ChatGPT for Teens' as AI safety concerns mount",
         "articleTitleJa": "AI の安全性への懸念が高まる中、OpenAI が「ChatGPT for Teens」を導入",
@@ -128,10 +129,10 @@
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-08-18T18:55:14.221Z",
+    "fetchedAt": "2026-08-18T21:36:41.663Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-08-18T18:55:16.890Z"
+    "articleFetchedAt": "2026-08-18T21:36:43.494Z"
   }
 }
