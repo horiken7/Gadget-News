@@ -44,30 +44,10 @@
         ]
       },
       {
-        "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
-        "url": "https://blog.roboflow.com/openai-gpt-5-6/",
-        "points": 101,
-        "comments": 141,
-        "author": "plurby",
-        "createdAt": "2026-08-17T12:09:42Z",
-        "domain": "blog.roboflow.com",
-        "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "GPT 5.6 SOLは、これまでにリリースされた最高の「ビジョン」モデルOpenAIです",
-        "summaryJa": "この記事は「GPT 5.6 SOLは、これまでにリリースされた最高の「ビジョン」モデルOpenAIです」を扱っています。GPT-5.6 Solは、OpenAI史上最強のビジョンモデルです。Sol、Terra、およびLunaを検出、カウント、OCR、および抽出全体でテストし、その結果、速度、およびコストを主要なVLMと比較しました。",
-        "keyPoints": [
-          "この記事は「GPT 5.6 SOLは、これまでにリリースされた最高の「ビジョン」モデルOpenAIです」を扱っています。",
-          "GPT-5.6 Solは、OpenAI史上最強のビジョンモデルです。",
-          "Sol、Terra、およびLunaを検出、カウント、OCR、および抽出全体でテストし、その結果、速度、およびコストを主要なVLMと比較しました。"
-        ]
-      },
-      {
         "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
         "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
         "points": 101,
-        "comments": 113,
+        "comments": 125,
         "author": "galnagli",
         "createdAt": "2026-08-17T14:18:38Z",
         "domain": "wiz.io",
@@ -84,35 +64,74 @@
         ]
       },
       {
-        "title": "AirTag reveals Amazon is trashing rare books to train AI",
-        "url": "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/",
-        "points": 92,
-        "comments": 6,
-        "author": "jefurii",
-        "createdAt": "2026-08-17T19:06:11Z",
-        "domain": "arstechnica.com",
+        "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
+        "url": "https://blog.roboflow.com/openai-gpt-5-6/",
+        "points": 101,
+        "comments": 152,
+        "author": "plurby",
+        "createdAt": "2026-08-17T12:09:42Z",
+        "domain": "blog.roboflow.com",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "GPT 5.6 SOLは、これまでにリリースされた最高の「ビジョン」モデルOpenAIです",
+        "summaryJa": "この記事は「GPT 5.6 SOLは、これまでにリリースされた最高の「ビジョン」モデルOpenAIです」を扱っています。GPT-5.6 Solは、OpenAI史上最強のビジョンモデルです。Sol、Terra、およびLunaを検出、カウント、OCR、および抽出全体でテストし、その結果、速度、およびコストを主要なVLMと比較しました。",
+        "keyPoints": [
+          "この記事は「GPT 5.6 SOLは、これまでにリリースされた最高の「ビジョン」モデルOpenAIです」を扱っています。",
+          "GPT-5.6 Solは、OpenAI史上最強のビジョンモデルです。",
+          "Sol、Terra、およびLunaを検出、カウント、OCR、および抽出全体でテストし、その結果、速度、およびコストを主要なVLMと比較しました。"
+        ]
+      },
+      {
+        "title": "Anthropic's War on open source AI",
+        "url": "https://twitter.com/TheAhmadOsman/status/2065307070044234186",
+        "points": 101,
+        "comments": 57,
+        "author": "bilsbie",
+        "createdAt": "2026-08-17T15:24:34Z",
+        "domain": "twitter.com",
         "sourceType": "hn",
         "category": "AIニュース",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "AirTagは、AmazonがAIを訓練するために希少な本をゴミ箱に捨てていることを明らかにし",
-        "summaryJa": "この記事は「AirTagは、AmazonがAIを訓練するために希少な本をゴミ箱に捨てていることを明らかにし」を扱っています。アマゾンのチームは、ロゴとして本を食べる準備をしているT. rexを使用しています。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "titleJa": "AnthropicのオープンソースAIとの戦い",
+        "summaryJa": "この記事は「AnthropicのオープンソースAIとの戦い」を扱っています。twitter.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
         "keyPoints": [
-          "この記事は「AirTagは、AmazonがAIを訓練するために希少な本をゴミ箱に捨てていることを明らかにし」を扱っています。",
-          "アマゾンのチームは、ロゴとして本を食べる準備をしているT. rexを使用しています。",
+          "この記事は「AnthropicのオープンソースAIとの戦い」を扱っています。",
+          "twitter.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
           "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
       }
     ],
-    "fetchedAt": "2026-08-17T21:38:45.234Z",
+    "fetchedAt": "2026-08-18T01:49:37.357Z",
     "mock": false
   },
   "xTrends": {
-    "items": [],
-    "fetchedAt": "2026-08-17T21:38:45.234Z",
+    "items": [
+      {
+        "topic": "財政・AI",
+        "locationLabel": "日本",
+        "bestRank": 25,
+        "appearances": 3,
+        "trendSource": "Trends24",
+        "sourceUrl": "https://trends24.in/japan/",
+        "observedAt": "2026-08-18T01:49:37.237Z",
+        "url": "https://x.com/search?q=%E8%B2%A1%E6%94%BF%E3%83%BBAI&src=typed_query&f=live",
+        "articleTitle": "財政・AI",
+        "articleTitleJa": "公開トレンド: 財政・AI",
+        "articleUrl": "https://trends24.in/japan/",
+        "articleSource": "Trends24",
+        "articlePublishedAt": "2026-08-18T01:49:37.237Z",
+        "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
+        "translationVersion": 3,
+        "articleFallback": true
+      }
+    ],
+    "fetchedAt": "2026-08-18T01:49:37.357Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-08-17T21:38:45.344Z"
+    "articleFetchedAt": "2026-08-18T01:49:37.693Z"
   }
 }
