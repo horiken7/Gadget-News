@@ -2,44 +2,44 @@
   "news": {
     "items": [
       {
-        "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
-        "url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
-        "points": 107,
+        "title": "OpenAI institutes new safeguards after Hugging Face breach",
+        "url": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
+        "points": 133,
         "comments": 0,
         "author": "",
-        "createdAt": "2026-08-17T16:38:44.000Z",
+        "createdAt": "2026-08-18T18:00:00.000Z",
         "domain": "techcrunch.com",
         "sourceType": "rss",
         "sourceLabel": "TechCrunch AI",
         "newsLens": "一般",
         "category": "AIニュース",
         "impact": "高",
-        "titleJa": "本の販売を始めたアマゾンは、AIを訓練するために希少なテキストを破壊している",
-        "summaryJa": "この記事は「本の販売を始めたアマゾンは、AIを訓練するために希少なテキストを破壊している」を扱っています。レアブックは、LLMのトレーニングに非常に価値があります。なぜなら、これらのモデルはすでにオンラインで利用可能なものすべてについてトレーニングを受けているからです。",
+        "titleJa": "OpenAI、顔のハグ違反後に新しいセーフガードを導入",
+        "summaryJa": "この記事は「OpenAI、顔のハグ違反後に新しいセーフガードを導入」を扱っています。新しいセーフガードには、開発プロセス中のモデルのより詳細なモニタリング、およびトレーニング後のプロセス中のアライメントとセキュリティの強化が含まれます。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
-          "この記事は「本の販売を始めたアマゾンは、AIを訓練するために希少なテキストを破壊している」を扱っています。",
-          "レアブックは、LLMのトレーニングに非常に価値があります。",
-          "なぜなら、これらのモデルはすでにオンラインで利用可能なものすべてについてトレーニングを受けているからです。"
+          "この記事は「OpenAI、顔のハグ違反後に新しいセーフガードを導入」を扱っています。",
+          "新しいセーフガードには、開発プロセス中のモデルのより詳細なモニタリング、およびトレーニング後のプロセス中のアライメントとセキュリティの強化が含まれます。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       },
       {
-        "title": "OpenAI launches a safer ChatGPT for teens — years after teens started using it",
-        "url": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/",
+        "title": "Why Apple’s camera-equipped AirPods may not be the ‘pervert pods’ consumers fear",
+        "url": "https://techcrunch.com/2026/08/18/why-apples-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear/",
         "points": 105,
         "comments": 0,
         "author": "",
-        "createdAt": "2026-08-18T13:50:30.000Z",
+        "createdAt": "2026-08-18T16:19:10.000Z",
         "domain": "techcrunch.com",
         "sourceType": "rss",
         "sourceLabel": "TechCrunch AI",
         "newsLens": "一般",
-        "category": "AIモデル",
+        "category": "AIニュース",
         "impact": "高",
-        "titleJa": "OpenAIは、ティーンエイジャーが使用を開始してから数年後に、ティーンエイジャーのためのより安全なChatGPTを開始します",
-        "summaryJa": "この記事は「OpenAIは、ティーンエイジャーが使用を開始してから数年後に、ティーンエイジャーのためのより安全なChatGPTを開始します」を扱っています。ChatGPT for Teensには、年齢に応じた安全対策、ペアレンタルコントロール、学習ツールが追加されており、有害なコンテンツや、AIを使用した宿題の不正行為から青少年を遠ざけるように設計されています。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "titleJa": "Appleのカメラ搭載AirPodsが消費者が恐れる「変態ポッド」ではない理由",
+        "summaryJa": "この記事は「Appleのカメラ搭載AirPodsが消費者が恐れる「変態ポッド」ではない理由」を扱っています。Appleがリークしたカメラ搭載のAirPodsは、ユーザーが写真やビデオを録画できないようにすることで、他のAIウェアラブルのプライバシーの落とし穴を回避する可能性がある。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
-          "この記事は「OpenAIは、ティーンエイジャーが使用を開始してから数年後に、ティーンエイジャーのためのより安全なChatGPTを開始します」を扱っています。",
-          "ChatGPT for Teensには、年齢に応じた安全対策、ペアレンタルコントロール、学習ツールが追加されており、有害なコンテンツや、AIを使用した宿題の不正行為から青少年を遠ざけるように設計されています。",
+          "この記事は「Appleのカメラ搭載AirPodsが消費者が恐れる「変態ポッド」ではない理由」を扱っています。",
+          "Appleがリークしたカメラ搭載のAirPodsは、ユーザーが写真やビデオを録画できないようにすることで、他のAIウェアラブルのプライバシーの落とし穴を回避する可能性がある。",
           "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       },
@@ -47,7 +47,7 @@
         "title": "Ask HN: Does anyone else feel like nothing matters anymore?",
         "url": "https://news.ycombinator.com/item?id=49340013",
         "points": 93,
-        "comments": 145,
+        "comments": 154,
         "author": "ramesh31",
         "createdAt": "2026-08-18T01:28:48Z",
         "domain": "news.ycombinator.com",
@@ -85,49 +85,31 @@
         ]
       },
       {
-        "title": "OpenAI disbanded the team that assessed catastrophic model risks",
-        "url": "https://thenextweb.com/news/openai-preparedness-team-disbanded-ipo-streamlining",
-        "points": 76,
-        "comments": 10,
-        "author": "nyku",
-        "createdAt": "2026-08-18T08:06:58Z",
-        "domain": "thenextweb.com",
+        "title": "GPT-5.6 Sol Pricing Cut by 50% on OpenRouter",
+        "url": "https://openrouter.ai/openai/gpt-5.6-sol",
+        "points": 73,
+        "comments": 423,
+        "author": "Topfi",
+        "createdAt": "2026-08-17T21:03:18Z",
+        "domain": "openrouter.ai",
         "sourceType": "hn",
         "category": "AIモデル",
-        "impact": "低",
+        "impact": "高",
         "newsLens": "技術",
-        "titleJa": "OpenAIは、壊滅的なモデルのリスクを評価したチームを解散した",
-        "summaryJa": "この記事は「OpenAIは、壊滅的なモデルのリスクを評価したチームを解散した」を扱っています。8月18日にOpenAIの回答を更新しました。FTは、OpenAIの準備チームが7月に解散したと報告した。",
+        "titleJa": "OpenRouterでGPT-5.6 Solの価格を50%削減",
+        "summaryJa": "この記事は「OpenRouterでGPT-5.6 Solの価格を50%削減」を扱っています。GPT-5.6 SOLは、OpenAIのGPT-5.6シリーズの主力モデルです。入力トークンあたり2.50ドル、出力トークンあたり15ドル。",
         "keyPoints": [
-          "この記事は「OpenAIは、壊滅的なモデルのリスクを評価したチームを解散した」を扱っています。",
-          "8月18日にOpenAIの回答を更新しました。",
-          "FTは、OpenAIの準備チームが7月に解散したと報告した。"
+          "この記事は「OpenRouterでGPT-5.6 Solの価格を50%削減」を扱っています。",
+          "GPT-5.6 SOLは、OpenAIのGPT-5.6シリーズの主力モデルです。",
+          "入力トークンあたり2.50ドル、出力トークンあたり15ドル。"
         ]
       }
     ],
-    "fetchedAt": "2026-08-18T15:45:30.303Z",
+    "fetchedAt": "2026-08-18T18:55:14.221Z",
     "mock": false
   },
   "xTrends": {
     "items": [
-      {
-        "topic": "財政・AI",
-        "locationLabel": "日本",
-        "bestRank": 42,
-        "appearances": 2,
-        "trendSource": "Trends24",
-        "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-08-18T15:45:30.261Z",
-        "url": "https://x.com/search?q=%E8%B2%A1%E6%94%BF%E3%83%BBAI&src=typed_query&f=live",
-        "articleTitle": "財政・AI",
-        "articleTitleJa": "公開トレンド: 財政・AI",
-        "articleUrl": "https://trends24.in/japan/",
-        "articleSource": "Trends24",
-        "articlePublishedAt": "2026-08-18T15:45:30.261Z",
-        "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
-        "translationVersion": 3,
-        "articleFallback": true
-      },
       {
         "topic": "ChatGPT for Teens",
         "locationLabel": "米国",
@@ -135,22 +117,21 @@
         "appearances": 2,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-08-18T15:45:30.175Z",
+        "observedAt": "2026-08-18T18:55:14.068Z",
         "url": "https://x.com/search?q=ChatGPT%20for%20Teens&src=typed_query&f=live",
-        "articleTitle": "ChatGPT for Teens",
-        "articleTitleJa": "公開トレンド: ChatGPT for Teens",
-        "articleUrl": "https://trends24.in/united-states/",
-        "articleSource": "Trends24",
-        "articlePublishedAt": "2026-08-18T15:45:30.175Z",
-        "summaryJa": "米国のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
-        "translationVersion": 3,
-        "articleFallback": true
+        "articleTitle": "OpenAI introduces 'ChatGPT for Teens' as AI safety concerns mount",
+        "articleTitleJa": "AI の安全性への懸念が高まる中、OpenAI が「ChatGPT for Teens」を導入",
+        "articleUrl": "https://www.latimes.com/business/story/2026-08-18/openai-introduces-chatgpt-for-teens-as-ai-safety-concerns-mount",
+        "articleSource": "latimes.com",
+        "articlePublishedAt": "2026-08-18T18:24:50Z",
+        "summaryJa": "サンフランシスコのテクノロジー企業は、ChatGPTが若者に害を与えているとして訴訟に直面している。 OpenAIは、十代の若者向けの製品はより安全な保護機能を備えていると述べた。",
+        "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-08-18T15:45:30.303Z",
+    "fetchedAt": "2026-08-18T18:55:14.221Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-08-18T15:45:31.532Z"
+    "articleFetchedAt": "2026-08-18T18:55:16.890Z"
   }
 }
