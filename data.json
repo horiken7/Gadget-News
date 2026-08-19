@@ -44,31 +44,10 @@
         ]
       },
       {
-        "title": "Microsoft Copilot reveals secret input that allowed it to be hacked",
-        "url": "https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/",
-        "points": 79,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-08-18T13:00:04.000Z",
-        "domain": "arstechnica.com",
-        "sourceType": "rss",
-        "sourceLabel": "Ars Technica",
-        "newsLens": "技術",
-        "category": "AIニュース",
-        "impact": "中",
-        "titleJa": "Microsoft Copilotがハッキングを可能にした秘密情報を公開",
-        "summaryJa": "この記事は「Microsoft Copilotがハッキングを可能にした秘密情報を公開」を扱っています。シークレットパラメータを使用すると、ターゲットがリンクをクリックしたときにハッカーがパスワードを盗むことができます。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
-        "keyPoints": [
-          "この記事は「Microsoft Copilotがハッキングを可能にした秘密情報を公開」を扱っています。",
-          "シークレットパラメータを使用すると、ターゲットがリンクをクリックしたときにハッカーがパスワードを盗むことができます。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
-        ]
-      },
-      {
         "title": "Claude Code May–August 2026 weekly limits promotion",
         "url": "https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion",
         "points": 73,
-        "comments": 248,
+        "comments": 253,
         "author": "tyre",
         "createdAt": "2026-08-18T17:02:15Z",
         "domain": "support.claude.com",
@@ -88,7 +67,7 @@
         "title": "Norway should buy OpenAI",
         "url": "https://www.onethousandmeans.com/p/norway-should-buy-openai",
         "points": 73,
-        "comments": 252,
+        "comments": 257,
         "author": "alexeigannon",
         "createdAt": "2026-08-18T19:30:29Z",
         "domain": "onethousandmeans.com",
@@ -103,35 +82,37 @@
           "長い歴史の弧が社会民主主義に向かって曲がっていく。",
           "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
+      },
+      {
+        "title": "Claude Code teaching macOS to natively print to the HP Laser 1008a",
+        "url": "https://cdn.kuber.studio/chat/hp-laser-1008a-driver",
+        "points": 73,
+        "comments": 3,
+        "author": "amrrs",
+        "createdAt": "2026-08-18T21:14:21Z",
+        "domain": "cdn.kuber.studio",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "MacOSにHP Laser 1008 aへのネイティブ印刷を教えるClaude Code",
+        "summaryJa": "この記事は「MacOSにHP Laser 1008 aへのネイティブ印刷を教えるClaude Code」を扱っています。ドライバーレスHP Laser 1008 aにネイティブmacOSドライバーを提供した（軽く編集された） Claude Codeセッションは、Claude Codeインターフェースでレンダリングされます。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "keyPoints": [
+          "この記事は「MacOSにHP Laser 1008 aへのネイティブ印刷を教えるClaude Code」を扱っています。",
+          "ドライバーレスHP Laser 1008 aにネイティブmacOSドライバーを提供した（軽く編集された） Claude Codeセッションは、Claude Codeインターフェースでレンダリングされます。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+        ]
       }
     ],
-    "fetchedAt": "2026-08-19T09:48:36.818Z",
+    "fetchedAt": "2026-08-19T13:07:32.871Z",
     "mock": false
   },
   "xTrends": {
-    "items": [
-      {
-        "topic": "ChatGPT for Teens",
-        "locationLabel": "米国",
-        "bestRank": 42,
-        "appearances": 1,
-        "trendSource": "Trends24",
-        "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-08-19T09:48:36.692Z",
-        "url": "https://x.com/search?q=ChatGPT%20for%20Teens&src=typed_query&f=live",
-        "articleTitle": "OpenAI introduces 'ChatGPT for Teens' as AI safety concerns mount",
-        "articleTitleJa": "AI の安全性への懸念が高まる中、OpenAI が「ChatGPT for Teens」を導入",
-        "articleUrl": "https://www.latimes.com/business/story/2026-08-18/openai-introduces-chatgpt-for-teens-as-ai-safety-concerns-mount",
-        "articleSource": "latimes.com",
-        "articlePublishedAt": "2026-08-18T18:24:50Z",
-        "summaryJa": "サンフランシスコのテクノロジー企業は、ChatGPTが若者に害を与えているとして訴訟に直面している。 OpenAIは、十代の若者向けの製品はより安全な保護機能を備えていると述べた。",
-        "translationVersion": 3
-      }
-    ],
-    "fetchedAt": "2026-08-19T09:48:36.818Z",
+    "items": [],
+    "fetchedAt": "2026-08-19T13:07:32.871Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-08-19T09:48:37.682Z"
+    "articleFetchedAt": "2026-08-19T13:07:33.026Z"
   }
 }
