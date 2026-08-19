@@ -44,31 +44,10 @@
         ]
       },
       {
-        "title": "Researchers complain that OpenAI revoked their access to limited cyber program",
-        "url": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/",
-        "points": 79,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-08-19T18:46:14.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
-        "category": "開発ツール",
-        "impact": "中",
-        "titleJa": "研究者は、OpenAIが制限されたサイバープログラムへのアクセスを取り消したと苦情を申し立てています",
-        "summaryJa": "この記事は「研究者は、OpenAIが制限されたサイバープログラムへのアクセスを取り消したと苦情を申し立てています」を扱っています。複数のサイバーセキュリティ研究者は、OpenAIのTrusted Access for Cyber （ TAC ）プログラムへのアクセスを突然失ったと述べた。このプログラムは、審査されたユーザーにガードレールの少ないモデルを提供している。",
-        "keyPoints": [
-          "この記事は「研究者は、OpenAIが制限されたサイバープログラムへのアクセスを取り消したと苦情を申し立てています」を扱っています。",
-          "複数のサイバーセキュリティ研究者は、OpenAIのTrusted Access for Cyber （ TAC ）プログラムへのアクセスを突然失ったと述べた。",
-          "このプログラムは、審査されたユーザーにガードレールの少ないモデルを提供している。"
-        ]
-      },
-      {
         "title": "Launch HN: OneCLI (YC S26) – OSS sandboxed agent harness for teams",
         "url": "https://github.com/onecli/onecli",
-        "points": 76,
-        "comments": 9,
+        "points": 80,
+        "comments": 13,
         "author": "guyb3",
         "createdAt": "2026-08-19T16:29:02Z",
         "domain": "github.com",
@@ -85,35 +64,56 @@
         ]
       },
       {
-        "title": "OpenAI pauses frontier model training",
-        "url": "https://twitter.com/sama/status/2089787807611195475",
+        "title": "AI was supposed to win people over by now — it hasn’t",
+        "url": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/",
+        "points": 79,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-08-19T19:11:40.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
+        "category": "AIニュース",
+        "impact": "中",
+        "titleJa": "AIは今頃人々を魅了するはずだった—それは",
+        "summaryJa": "この記事は「AIは今頃人々を魅了するはずだった—それは」を扱っています。AIを避けることが難しくなるにつれて、消費者はこの技術にますます警戒感を示しています。そしてシリコンバレーは、広く採用されても必ずしも受け入れられるわけではないことを発見しています。",
+        "keyPoints": [
+          "この記事は「AIは今頃人々を魅了するはずだった—それは」を扱っています。",
+          "AIを避けることが難しくなるにつれて、消費者はこの技術にますます警戒感を示しています。",
+          "そしてシリコンバレーは、広く採用されても必ずしも受け入れられるわけではないことを発見しています。"
+        ]
+      },
+      {
+        "title": "Show HN: Frugal Tokens – explore costs and usage across coding agents",
+        "url": "https://demo.frugaltokens.com/",
         "points": 75,
-        "comments": 3,
-        "author": "vinyl7",
-        "createdAt": "2026-08-18T21:24:35Z",
-        "domain": "twitter.com",
+        "comments": 6,
+        "author": "dpc94",
+        "createdAt": "2026-08-19T17:07:35Z",
+        "domain": "demo.frugaltokens.com",
         "sourceType": "hn",
-        "category": "AIモデル",
+        "category": "AIニュース",
         "impact": "低",
         "newsLens": "技術",
-        "titleJa": "OpenAIがフロンティアモデルトレーニングを一時停止",
-        "summaryJa": "この記事は「OpenAIがフロンティアモデルトレーニングを一時停止」を扱っています。私たちは、目の前の新しいレベルの機能のための適切な調整、セキュリティ、および監視基準を満たすことができるように、いくつかのフロンティアRLトレーニングを一時停止しました。モデルの進歩は非常に急速であり、そのモデルを感じたら行動を起こすと常に言っていました。",
+        "titleJa": "HN: Frugal Tokensを表示–コーディングエージェント間のコストと使用状況を調べる",
+        "summaryJa": "この記事は「HN: Frugal Tokensを表示–コーディングエージェント間のコストと使用状況を調べる」を扱っています。私が取り組んできたFrugal Tokensというプロジェクトを共有したいと思いました。私が最初にそれを構築したのは、すべてのセッションの費用と、その支出にどのくらいのキャッシュミスが影響したかを知りたかったからです。",
         "keyPoints": [
-          "この記事は「OpenAIがフロンティアモデルトレーニングを一時停止」を扱っています。",
-          "私たちは、目の前の新しいレベルの機能のための適切な調整、セキュリティ、および監視基準を満たすことができるように、いくつかのフロンティアRLトレーニングを一時停止しました。",
-          "モデルの進歩は非常に急速であり、そのモデルを感じたら行動を起こすと常に言っていました。"
+          "この記事は「HN: Frugal Tokensを表示–コーディングエージェント間のコストと使用状況を調べる」を扱っています。",
+          "私が取り組んできたFrugal Tokensというプロジェクトを共有したいと思いました。",
+          "私が最初にそれを構築したのは、すべてのセッションの費用と、その支出にどのくらいのキャッシュミスが影響したかを知りたかったからです。"
         ]
       }
     ],
-    "fetchedAt": "2026-08-19T18:52:00.835Z",
+    "fetchedAt": "2026-08-19T21:38:37.103Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-08-19T18:52:00.835Z",
+    "fetchedAt": "2026-08-19T21:38:37.103Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-08-19T18:52:00.961Z"
+    "articleFetchedAt": "2026-08-19T21:38:37.240Z"
   }
 }
