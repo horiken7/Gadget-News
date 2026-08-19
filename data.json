@@ -2,27 +2,6 @@
   "news": {
     "items": [
       {
-        "title": "OpenAI institutes new safeguards after Hugging Face breach",
-        "url": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
-        "points": 133,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-08-18T18:00:00.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
-        "category": "AIニュース",
-        "impact": "高",
-        "titleJa": "OpenAI、顔のハグ違反後に新しいセーフガードを導入",
-        "summaryJa": "この記事は「OpenAI、顔のハグ違反後に新しいセーフガードを導入」を扱っています。新しいセーフガードには、開発プロセス中のモデルのより詳細なモニタリング、およびトレーニング後のプロセス中のアライメントとセキュリティの強化が含まれます。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
-        "keyPoints": [
-          "この記事は「OpenAI、顔のハグ違反後に新しいセーフガードを導入」を扱っています。",
-          "新しいセーフガードには、開発プロセス中のモデルのより詳細なモニタリング、およびトレーニング後のプロセス中のアライメントとセキュリティの強化が含まれます。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
-        ]
-      },
-      {
         "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
         "url": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
         "points": 107,
@@ -65,55 +44,76 @@
         ]
       },
       {
-        "title": "Claude Code May–August 2026 weekly limits promotion",
-        "url": "https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion",
-        "points": 73,
-        "comments": 256,
-        "author": "tyre",
-        "createdAt": "2026-08-18T17:02:15Z",
-        "domain": "support.claude.com",
-        "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "Claudeコード2026年5月～ 8月ウィークリーリミットプロモーション",
-        "summaryJa": "この記事は「Claudeコード2026年5月～ 8月ウィークリーリミットプロモーション」を扱っています。support.claude.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "title": "Researchers complain that OpenAI revoked their access to limited cyber program",
+        "url": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/",
+        "points": 79,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-08-19T18:46:14.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
+        "category": "開発ツール",
+        "impact": "中",
+        "titleJa": "研究者は、OpenAIが制限されたサイバープログラムへのアクセスを取り消したと苦情を申し立てています",
+        "summaryJa": "この記事は「研究者は、OpenAIが制限されたサイバープログラムへのアクセスを取り消したと苦情を申し立てています」を扱っています。複数のサイバーセキュリティ研究者は、OpenAIのTrusted Access for Cyber （ TAC ）プログラムへのアクセスを突然失ったと述べた。このプログラムは、審査されたユーザーにガードレールの少ないモデルを提供している。",
         "keyPoints": [
-          "この記事は「Claudeコード2026年5月～ 8月ウィークリーリミットプロモーション」を扱っています。",
-          "support.claude.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+          "この記事は「研究者は、OpenAIが制限されたサイバープログラムへのアクセスを取り消したと苦情を申し立てています」を扱っています。",
+          "複数のサイバーセキュリティ研究者は、OpenAIのTrusted Access for Cyber （ TAC ）プログラムへのアクセスを突然失ったと述べた。",
+          "このプログラムは、審査されたユーザーにガードレールの少ないモデルを提供している。"
         ]
       },
       {
-        "title": "Norway should buy OpenAI",
-        "url": "https://www.onethousandmeans.com/p/norway-should-buy-openai",
-        "points": 73,
-        "comments": 258,
-        "author": "alexeigannon",
-        "createdAt": "2026-08-18T19:30:29Z",
-        "domain": "onethousandmeans.com",
+        "title": "Launch HN: OneCLI (YC S26) – OSS sandboxed agent harness for teams",
+        "url": "https://github.com/onecli/onecli",
+        "points": 76,
+        "comments": 9,
+        "author": "guyb3",
+        "createdAt": "2026-08-19T16:29:02Z",
+        "domain": "github.com",
         "sourceType": "hn",
         "category": "AIニュース",
-        "impact": "高",
+        "impact": "低",
         "newsLens": "技術",
-        "titleJa": "ノルウェーはOpenAIを購入すべき",
-        "summaryJa": "この記事は「ノルウェーはOpenAIを購入すべき」を扱っています。長い歴史の弧が社会民主主義に向かって曲がっていく。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "titleJa": "HN: OneCLI (YC S 26)を立ち上げる–チームのためのOSSサンドボックス化されたエージェントハーネス",
+        "summaryJa": "この記事は「HN: OneCLI (YC S 26)を立ち上げる–チームのためのOSSサンドボックス化されたエージェントハーネス」を扱っています。OneCLIは、チーム用に構築されたエージェントハーネスで、すべての従業員に安全でサンドボックス化されたパーソナルエージェントを提供しています。1. GitHubアカウント、Gmail、Notion、Dropboxをチャットから接続するなど、すべてのOneCLI機能を備えたサンドボックス化されたエージェントを取得します。",
         "keyPoints": [
-          "この記事は「ノルウェーはOpenAIを購入すべき」を扱っています。",
-          "長い歴史の弧が社会民主主義に向かって曲がっていく。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+          "この記事は「HN: OneCLI (YC S 26)を立ち上げる–チームのためのOSSサンドボックス化されたエージェントハーネス」を扱っています。",
+          "OneCLIは、チーム用に構築されたエージェントハーネスで、すべての従業員に安全でサンドボックス化されたパーソナルエージェントを提供しています。",
+          "1. GitHubアカウント、Gmail、Notion、Dropboxをチャットから接続するなど、すべてのOneCLI機能を備えたサンドボックス化されたエージェントを取得します。"
+        ]
+      },
+      {
+        "title": "OpenAI pauses frontier model training",
+        "url": "https://twitter.com/sama/status/2089787807611195475",
+        "points": 75,
+        "comments": 3,
+        "author": "vinyl7",
+        "createdAt": "2026-08-18T21:24:35Z",
+        "domain": "twitter.com",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "低",
+        "newsLens": "技術",
+        "titleJa": "OpenAIがフロンティアモデルトレーニングを一時停止",
+        "summaryJa": "この記事は「OpenAIがフロンティアモデルトレーニングを一時停止」を扱っています。私たちは、目の前の新しいレベルの機能のための適切な調整、セキュリティ、および監視基準を満たすことができるように、いくつかのフロンティアRLトレーニングを一時停止しました。モデルの進歩は非常に急速であり、そのモデルを感じたら行動を起こすと常に言っていました。",
+        "keyPoints": [
+          "この記事は「OpenAIがフロンティアモデルトレーニングを一時停止」を扱っています。",
+          "私たちは、目の前の新しいレベルの機能のための適切な調整、セキュリティ、および監視基準を満たすことができるように、いくつかのフロンティアRLトレーニングを一時停止しました。",
+          "モデルの進歩は非常に急速であり、そのモデルを感じたら行動を起こすと常に言っていました。"
         ]
       }
     ],
-    "fetchedAt": "2026-08-19T15:44:39.689Z",
+    "fetchedAt": "2026-08-19T18:52:00.835Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-08-19T15:44:39.689Z",
+    "fetchedAt": "2026-08-19T18:52:00.835Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-08-19T15:44:39.895Z"
+    "articleFetchedAt": "2026-08-19T18:52:00.961Z"
   }
 }
