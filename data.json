@@ -68,7 +68,7 @@
         "title": "Claude Code May–August 2026 weekly limits promotion",
         "url": "https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion",
         "points": 73,
-        "comments": 240,
+        "comments": 245,
         "author": "tyre",
         "createdAt": "2026-08-18T17:02:15Z",
         "domain": "support.claude.com",
@@ -88,7 +88,7 @@
         "title": "Norway should buy OpenAI",
         "url": "https://www.onethousandmeans.com/p/norway-should-buy-openai",
         "points": 73,
-        "comments": 236,
+        "comments": 246,
         "author": "alexeigannon",
         "createdAt": "2026-08-18T19:30:29Z",
         "domain": "onethousandmeans.com",
@@ -105,7 +105,7 @@
         ]
       }
     ],
-    "fetchedAt": "2026-08-19T03:57:53.684Z",
+    "fetchedAt": "2026-08-19T07:03:57.937Z",
     "mock": false
   },
   "xTrends": {
@@ -117,7 +117,7 @@
         "appearances": 2,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-08-19T03:57:53.550Z",
+        "observedAt": "2026-08-19T07:03:57.820Z",
         "url": "https://x.com/search?q=ChatGPT%20for%20Teens&src=typed_query&f=live",
         "articleTitle": "OpenAI introduces 'ChatGPT for Teens' as AI safety concerns mount",
         "articleTitleJa": "AI の安全性への懸念が高まる中、OpenAI が「ChatGPT for Teens」を導入",
@@ -128,10 +128,10 @@
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-08-19T03:57:53.684Z",
+    "fetchedAt": "2026-08-19T07:03:57.937Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-08-19T03:57:54.464Z"
+    "articleFetchedAt": "2026-08-19T07:03:58.684Z"
   }
 }
