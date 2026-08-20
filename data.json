@@ -67,7 +67,7 @@
       {
         "title": "Japan to require AI firms to disclose training data",
         "url": "https://www.japantimes.co.jp/news/2026/08/19/japan/ai-training-data-disclosure/",
-        "points": 98,
+        "points": 99,
         "comments": 4,
         "author": "anigbrowl",
         "createdAt": "2026-08-19T22:12:52Z",
@@ -87,8 +87,8 @@
       {
         "title": "Launch HN: OneCLI (YC S26) – OSS sandboxed agent harness for teams",
         "url": "https://github.com/onecli/onecli",
-        "points": 84,
-        "comments": 17,
+        "points": 88,
+        "comments": 22,
         "author": "guyb3",
         "createdAt": "2026-08-19T16:29:02Z",
         "domain": "github.com",
@@ -105,15 +105,15 @@
         ]
       }
     ],
-    "fetchedAt": "2026-08-20T03:57:24.043Z",
+    "fetchedAt": "2026-08-20T07:04:58.975Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-08-20T03:57:24.043Z",
+    "fetchedAt": "2026-08-20T07:04:58.975Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-08-20T03:57:24.186Z"
+    "articleFetchedAt": "2026-08-20T07:04:59.103Z"
   }
 }
