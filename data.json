@@ -2,6 +2,27 @@
   "news": {
     "items": [
       {
+        "title": "Cognition CEO denies report that SpaceX tried to acquire the startup",
+        "url": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
+        "points": 115,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-08-19T21:51:23.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
+        "category": "AIニュース",
+        "impact": "高",
+        "titleJa": "CognitionのCEOは、SpaceXがスタートアップを買収しようとしたという報告を否定",
+        "summaryJa": "この記事は「CognitionのCEOは、SpaceXがスタートアップを買収しようとしたという報告を否定」を扱っています。SpaceXは、AIコーディングのスタートアップCognitionを買収する交渉を行っていたと伝えられている。SpaceXはすでにCursorを買収しており、エンタープライズAIでOpenAIやAnthropicなどのライバルに追いつこうと競争している。",
+        "keyPoints": [
+          "この記事は「CognitionのCEOは、SpaceXがスタートアップを買収しようとしたという報告を否定」を扱っています。",
+          "SpaceXは、AIコーディングのスタートアップCognitionを買収する交渉を行っていたと伝えられている。",
+          "SpaceXはすでにCursorを買収しており、エンタープライズAIでOpenAIやAnthropicなどのライバルに追いつこうと競争している。"
+        ]
+      },
+      {
         "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
         "url": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
         "points": 107,
@@ -23,31 +44,31 @@
         ]
       },
       {
-        "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
-        "url": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
-        "points": 107,
+        "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
+        "url": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
+        "points": 105,
         "comments": 0,
         "author": "",
-        "createdAt": "2026-08-18T22:14:25.000Z",
+        "createdAt": "2026-08-19T22:10:46.000Z",
         "domain": "techcrunch.com",
         "sourceType": "rss",
         "sourceLabel": "TechCrunch AI",
         "newsLens": "一般",
         "category": "AIニュース",
         "impact": "高",
-        "titleJa": "カーソルはGitHubのフラストレーションを活用し、ライバルのホスティングプラットフォームを立ち上げます",
-        "summaryJa": "この記事は「カーソルはGitHubのフラストレーションを活用し、ライバルのホスティングプラットフォームを立ち上げます」を扱っています。AIコードエディターで知られるCursorは、開発者の長年のお気に入りであるGitHubに匹敵する新しいコードホスティングプラットフォームを立ち上げています。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "titleJa": "OpenAIは、新しい顧客プライバシー保護を備えたAnthropicを目指しています",
+        "summaryJa": "この記事は「OpenAIは、新しい顧客プライバシー保護を備えたAnthropicを目指しています」を扱っています。OpenAIとAnthropicの間で、企業の顧客データに最高のプライバシー保護を提供できるのは誰かという競争が展開されています。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
-          "この記事は「カーソルはGitHubのフラストレーションを活用し、ライバルのホスティングプラットフォームを立ち上げます」を扱っています。",
-          "AIコードエディターで知られるCursorは、開発者の長年のお気に入りであるGitHubに匹敵する新しいコードホスティングプラットフォームを立ち上げています。",
+          "この記事は「OpenAIは、新しい顧客プライバシー保護を備えたAnthropicを目指しています」を扱っています。",
+          "OpenAIとAnthropicの間で、企業の顧客データに最高のプライバシー保護を提供できるのは誰かという競争が展開されています。",
           "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       },
       {
         "title": "Launch HN: OneCLI (YC S26) – OSS sandboxed agent harness for teams",
         "url": "https://github.com/onecli/onecli",
-        "points": 80,
-        "comments": 13,
+        "points": 82,
+        "comments": 16,
         "author": "guyb3",
         "createdAt": "2026-08-19T16:29:02Z",
         "domain": "github.com",
@@ -64,56 +85,36 @@
         ]
       },
       {
-        "title": "AI was supposed to win people over by now — it hasn’t",
-        "url": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/",
-        "points": 79,
+        "title": "Black Book Research : New Report : Reshoring Will Fail Unless AI Becomes the Operating System of the American Factory",
+        "url": "https://www.finanznachrichten.de/nachrichten-2026-08/69358186-black-book-research-new-report-reshoring-will-fail-unless-ai-becomes-the-operating-system-of-the-american-factory-200.htm",
+        "points": 81,
         "comments": 0,
         "author": "",
-        "createdAt": "2026-08-19T19:11:40.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
-        "category": "AIニュース",
+        "createdAt": "2026-08-20T01:15:00Z",
+        "domain": "finanznachrichten.de",
+        "sourceType": "gdelt",
+        "sourceLabel": "GDELT",
+        "category": "研究",
         "impact": "中",
-        "titleJa": "AIは今頃人々を魅了するはずだった—それは",
-        "summaryJa": "この記事は「AIは今頃人々を魅了するはずだった—それは」を扱っています。AIを避けることが難しくなるにつれて、消費者はこの技術にますます警戒感を示しています。そしてシリコンバレーは、広く採用されても必ずしも受け入れられるわけではないことを発見しています。",
-        "keyPoints": [
-          "この記事は「AIは今頃人々を魅了するはずだった—それは」を扱っています。",
-          "AIを避けることが難しくなるにつれて、消費者はこの技術にますます警戒感を示しています。",
-          "そしてシリコンバレーは、広く採用されても必ずしも受け入れられるわけではないことを発見しています。"
-        ]
-      },
-      {
-        "title": "Show HN: Frugal Tokens – explore costs and usage across coding agents",
-        "url": "https://demo.frugaltokens.com/",
-        "points": 75,
-        "comments": 6,
-        "author": "dpc94",
-        "createdAt": "2026-08-19T17:07:35Z",
-        "domain": "demo.frugaltokens.com",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "低",
         "newsLens": "技術",
-        "titleJa": "HN: Frugal Tokensを表示–コーディングエージェント間のコストと使用状況を調べる",
-        "summaryJa": "この記事は「HN: Frugal Tokensを表示–コーディングエージェント間のコストと使用状況を調べる」を扱っています。私が取り組んできたFrugal Tokensというプロジェクトを共有したいと思いました。私が最初にそれを構築したのは、すべてのセッションの費用と、その支出にどのくらいのキャッシュミスが影響したかを知りたかったからです。",
+        "titleJa": "Black Book Research ：新しいレポート： AIがアメリカの工場のオペレーティングシステムにならない限り、リショアリングは失敗する",
+        "summaryJa": "この記事は「Black Book Research ：新しいレポート： AIがアメリカの工場のオペレーティングシステムにならない限り、リショアリングは失敗する」を扱っています。Applied Artificial Intelligence LLCとBlack Book Insightsは、製造業幹部の88 ％が、現在のリショアリングはAI対応の自動化、分析、またはデジタルオペレーションに大きく依存していると述べていると報告していますシカゴ。研究・実装面では、手法の新しさ、再現性、既存モデルとの差分が見るべき点です。",
         "keyPoints": [
-          "この記事は「HN: Frugal Tokensを表示–コーディングエージェント間のコストと使用状況を調べる」を扱っています。",
-          "私が取り組んできたFrugal Tokensというプロジェクトを共有したいと思いました。",
-          "私が最初にそれを構築したのは、すべてのセッションの費用と、その支出にどのくらいのキャッシュミスが影響したかを知りたかったからです。"
+          "この記事は「Black Book Research ：新しいレポート： AIがアメリカの工場のオペレーティングシステムにならない限り、リショアリングは失敗する」を扱っています。",
+          "Applied Artificial Intelligence LLCとBlack Book Insightsは、製造業幹部の88 ％が、現在のリショアリングはAI対応の自動化、分析、またはデジタルオペレーションに大きく依存していると述べていると報告していますシカゴ。",
+          "研究・実装面では、手法の新しさ、再現性、既存モデルとの差分が見るべき点です。"
         ]
       }
     ],
-    "fetchedAt": "2026-08-19T21:38:37.103Z",
+    "fetchedAt": "2026-08-20T01:50:38.735Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-08-19T21:38:37.103Z",
+    "fetchedAt": "2026-08-20T01:50:38.735Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-08-19T21:38:37.240Z"
+    "articleFetchedAt": "2026-08-20T01:50:38.872Z"
   }
 }
