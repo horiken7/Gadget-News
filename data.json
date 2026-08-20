@@ -2,6 +2,27 @@
   "news": {
     "items": [
       {
+        "title": "Grok exfiltrates user data when malicious instructions are encrypted",
+        "url": "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/",
+        "points": 133,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-08-20T13:00:35.000Z",
+        "domain": "arstechnica.com",
+        "sourceType": "rss",
+        "sourceLabel": "Ars Technica",
+        "newsLens": "技術",
+        "category": "AIニュース",
+        "impact": "高",
+        "titleJa": "Grokは、悪意のある命令が暗号化されたときにユーザーデータを流出させます",
+        "summaryJa": "この記事は「Grokは、悪意のある命令が暗号化されたときにユーザーデータを流出させます」を扱っています。暗号コンテキストインジェクションは、LLMの安全ガードレールを破るための最新の方法に過ぎません。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "keyPoints": [
+          "この記事は「Grokは、悪意のある命令が暗号化されたときにユーザーデータを流出させます」を扱っています。",
+          "暗号コンテキストインジェクションは、LLMの安全ガードレールを破るための最新の方法に過ぎません。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+        ]
+      },
+      {
         "title": "Cognition CEO denies report that SpaceX tried to acquire the startup",
         "url": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
         "points": 115,
@@ -20,27 +41,6 @@
           "この記事は「CognitionのCEOは、SpaceXがスタートアップを買収しようとしたという報告を否定」を扱っています。",
           "SpaceXは、AIコーディングのスタートアップCognitionを買収する交渉を行っていたと伝えられている。",
           "SpaceXはすでにCursorを買収しており、エンタープライズAIでOpenAIやAnthropicなどのライバルに追いつこうと競争している。"
-        ]
-      },
-      {
-        "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
-        "url": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
-        "points": 107,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-08-19T14:18:12.000Z",
-        "domain": "venturebeat.com",
-        "sourceType": "rss",
-        "sourceLabel": "VentureBeat AI",
-        "newsLens": "技術",
-        "category": "研究",
-        "impact": "高",
-        "titleJa": "VentureBeatはRob Strechayを最初のリードアナリストに任命し、エンタープライズAI研究を拡大",
-        "summaryJa": "この記事は「VentureBeatはRob Strechayを最初のリードアナリストに任命し、エンタープライズAI研究を拡大」を扱っています。TheCUBE Researchのマネージングディレクター兼プリンシパルアナリストであるRob Strechayは、VentureBeat Researchの最初のリードアナリスト兼創設アナリストとしてVentureBeatに加わりました。彼の登場は、VentureBeatにおけるより深い専門化への意図的な動きの次のステップです。",
-        "keyPoints": [
-          "この記事は「VentureBeatはRob Strechayを最初のリードアナリストに任命し、エンタープライズAI研究を拡大」を扱っています。",
-          "TheCUBE Researchのマネージングディレクター兼プリンシパルアナリストであるRob Strechayは、VentureBeat Researchの最初のリードアナリスト兼創設アナリストとしてVentureBeatに加わりました。",
-          "彼の登場は、VentureBeatにおけるより深い専門化への意図的な動きの次のステップです。"
         ]
       },
       {
@@ -65,6 +65,26 @@
         ]
       },
       {
+        "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
+        "url": "https://simedw.com/2026/08/20/midi-autocomplete/",
+        "points": 101,
+        "comments": 63,
+        "author": "simedw",
+        "createdAt": "2026-08-20T12:04:38Z",
+        "domain": "simedw.com",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "Show HN ： 125 mモデルをトレーニングして、デバイス上でピアノをオートコンプリートしました",
+        "summaryJa": "この記事は「Show HN ： 125 mモデルをトレーニングして、デバイス上でピアノをオートコンプリートしました」を扱っています。125 Mパラメータのトランスフォーマーをトレーニングして、リアルタイムでピアノ演奏をオートコンプリートしました（ iPhone 15では約108ノート/秒）。このアイデアは基本的にGitHub CopilotまたはTabnineですが、コードでプロンプトを表示するのではなく、MIDIピアノでいくつかのノートを再生してプロンプトを表示します。",
+        "keyPoints": [
+          "この記事は「Show HN ： 125 mモデルをトレーニングして、デバイス上でピアノをオートコンプリートしました」を扱っています。",
+          "125 Mパラメータのトランスフォーマーをトレーニングして、リアルタイムでピアノ演奏をオートコンプリートしました（ iPhone 15では約108ノート/秒）。",
+          "このアイデアは基本的にGitHub CopilotまたはTabnineですが、コードでプロンプトを表示するのではなく、MIDIピアノでいくつかのノートを再生してプロンプトを表示します。"
+        ]
+      },
+      {
         "title": "Launch HN: OneCLI (YC S26) – OSS sandboxed agent harness for teams",
         "url": "https://github.com/onecli/onecli",
         "points": 90,
@@ -83,37 +103,17 @@
           "OneCLIは、チーム用に構築されたエージェントハーネスで、すべての従業員に安全でサンドボックス化されたパーソナルエージェントを提供しています。",
           "1. GitHubアカウント、Gmail、Notion、Dropboxをチャットから接続するなど、すべてのOneCLI機能を備えたサンドボックス化されたエージェントを取得します。"
         ]
-      },
-      {
-        "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
-        "url": "https://simedw.com/2026/08/20/midi-autocomplete/",
-        "points": 82,
-        "comments": 9,
-        "author": "simedw",
-        "createdAt": "2026-08-20T12:04:38Z",
-        "domain": "simedw.com",
-        "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "低",
-        "newsLens": "技術",
-        "titleJa": "Show HN ： 125 mモデルをトレーニングして、デバイス上でピアノをオートコンプリートしました",
-        "summaryJa": "この記事は「Show HN ： 125 mモデルをトレーニングして、デバイス上でピアノをオートコンプリートしました」を扱っています。125 Mパラメータのトランスフォーマーをトレーニングして、リアルタイムでピアノ演奏をオートコンプリートしました（ iPhone 15では約108ノート/秒）。このアイデアは基本的にGitHub CopilotまたはTabnineですが、コードでプロンプトを表示するのではなく、MIDIピアノでいくつかのノートを再生してプロンプトを表示します。",
-        "keyPoints": [
-          "この記事は「Show HN ： 125 mモデルをトレーニングして、デバイス上でピアノをオートコンプリートしました」を扱っています。",
-          "125 Mパラメータのトランスフォーマーをトレーニングして、リアルタイムでピアノ演奏をオートコンプリートしました（ iPhone 15では約108ノート/秒）。",
-          "このアイデアは基本的にGitHub CopilotまたはTabnineですが、コードでプロンプトを表示するのではなく、MIDIピアノでいくつかのノートを再生してプロンプトを表示します。"
-        ]
       }
     ],
-    "fetchedAt": "2026-08-20T13:09:52.774Z",
+    "fetchedAt": "2026-08-20T15:48:16.025Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-08-20T13:09:52.774Z",
+    "fetchedAt": "2026-08-20T15:48:16.025Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-08-20T13:09:52.906Z"
+    "articleFetchedAt": "2026-08-20T15:48:16.156Z"
   }
 }
