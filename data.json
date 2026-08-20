@@ -68,7 +68,7 @@
         "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
         "url": "https://simedw.com/2026/08/20/midi-autocomplete/",
         "points": 101,
-        "comments": 90,
+        "comments": 100,
         "author": "simedw",
         "createdAt": "2026-08-20T12:04:38Z",
         "domain": "simedw.com",
@@ -85,35 +85,35 @@
         ]
       },
       {
-        "title": "Clean up Claude 5's token vomit with a separate LLM",
-        "url": "https://github.com/zachahn/vomit",
-        "points": 97,
-        "comments": 115,
-        "author": "Bluestein",
-        "createdAt": "2026-08-20T15:26:02Z",
-        "domain": "github.com",
+        "title": "Show HN: Huzzah – a novel approach to coding with AI",
+        "url": "https://www.danielvaughn.dev/posts/huzzah/",
+        "points": 101,
+        "comments": 75,
+        "author": "danielvaughn",
+        "createdAt": "2026-08-20T19:05:36Z",
+        "domain": "danielvaughn.dev",
         "sourceType": "hn",
-        "category": "AIモデル",
+        "category": "AIニュース",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "別のLLMでClaude5のトークンの嘔吐物をきれいにする",
-        "summaryJa": "この記事は「別のLLMでClaude5のトークンの嘔吐物をきれいにする」を扱っています。Claude5のトークンの嘔吐物を別のLLMで片付けます。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "titleJa": "Show HN ： Huzzah – AIによるコーディングへの新しいアプローチ",
+        "summaryJa": "この記事は「Show HN ： Huzzah – AIによるコーディングへの新しいアプローチ」を扱っています。Huzzahという実験的なエディターに取り組んでいます。私は今年の1月からほぼ専らコーディングエージェントと仕事をしてきましたが、ここ数ヶ月間で完全に疲れ果ててしまいました。",
         "keyPoints": [
-          "この記事は「別のLLMでClaude5のトークンの嘔吐物をきれいにする」を扱っています。",
-          "Claude5のトークンの嘔吐物を別のLLMで片付けます。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+          "この記事は「Show HN ： Huzzah – AIによるコーディングへの新しいアプローチ」を扱っています。",
+          "Huzzahという実験的なエディターに取り組んでいます。",
+          "私は今年の1月からほぼ専らコーディングエージェントと仕事をしてきましたが、ここ数ヶ月間で完全に疲れ果ててしまいました。"
         ]
       }
     ],
-    "fetchedAt": "2026-08-20T18:58:22.330Z",
+    "fetchedAt": "2026-08-20T21:42:25.354Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-08-20T18:58:22.330Z",
+    "fetchedAt": "2026-08-20T21:42:25.354Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-08-20T18:58:22.554Z"
+    "articleFetchedAt": "2026-08-20T21:42:25.501Z"
   }
 }
