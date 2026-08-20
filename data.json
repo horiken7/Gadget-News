@@ -44,23 +44,23 @@
         ]
       },
       {
-        "title": "Meta AI’s new Mac app wants you to talk to your apps",
-        "url": "https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps/",
+        "title": "Ramp launches its own AI model router, called Router",
+        "url": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/",
         "points": 107,
         "comments": 0,
         "author": "",
-        "createdAt": "2026-08-20T12:11:57.000Z",
+        "createdAt": "2026-08-20T16:46:00.000Z",
         "domain": "techcrunch.com",
         "sourceType": "rss",
         "sourceLabel": "TechCrunch AI",
         "newsLens": "一般",
-        "category": "AIニュース",
+        "category": "AIモデル",
         "impact": "高",
-        "titleJa": "Meta AIの新しいMacアプリは、あなたがあなたのアプリと話すことを望んでいます",
-        "summaryJa": "この記事は「Meta AIの新しいMacアプリは、あなたがあなたのアプリと話すことを望んでいます」を扱っています。Metaは、Muse Sparkモデルがディクテーション機能を強化していると述べた。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "titleJa": "RAMPが独自のAIモデルルーター「Router」を発売",
+        "summaryJa": "この記事は「RAMPが独自のAIモデルルーター「Router」を発売」を扱っています。RAMPは、ユーザーと企業がAPIを介してさまざまな大規模言語モデルを使用および切り替えることができる、独自のAIモデルルーティングサービス「Router」を開始しました。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
-          "この記事は「Meta AIの新しいMacアプリは、あなたがあなたのアプリと話すことを望んでいます」を扱っています。",
-          "Metaは、Muse Sparkモデルがディクテーション機能を強化していると述べた。",
+          "この記事は「RAMPが独自のAIモデルルーター「Router」を発売」を扱っています。",
+          "RAMPは、ユーザーと企業がAPIを介してさまざまな大規模言語モデルを使用および切り替えることができる、独自のAIモデルルーティングサービス「Router」を開始しました。",
           "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       },
@@ -68,7 +68,7 @@
         "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
         "url": "https://simedw.com/2026/08/20/midi-autocomplete/",
         "points": 101,
-        "comments": 63,
+        "comments": 90,
         "author": "simedw",
         "createdAt": "2026-08-20T12:04:38Z",
         "domain": "simedw.com",
@@ -85,35 +85,35 @@
         ]
       },
       {
-        "title": "Launch HN: OneCLI (YC S26) – OSS sandboxed agent harness for teams",
-        "url": "https://github.com/onecli/onecli",
-        "points": 90,
-        "comments": 24,
-        "author": "guyb3",
-        "createdAt": "2026-08-19T16:29:02Z",
+        "title": "Clean up Claude 5's token vomit with a separate LLM",
+        "url": "https://github.com/zachahn/vomit",
+        "points": 97,
+        "comments": 115,
+        "author": "Bluestein",
+        "createdAt": "2026-08-20T15:26:02Z",
         "domain": "github.com",
         "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "中",
+        "category": "AIモデル",
+        "impact": "高",
         "newsLens": "技術",
-        "titleJa": "HN: OneCLI (YC S 26)を立ち上げる–チームのためのOSSサンドボックス化されたエージェントハーネス",
-        "summaryJa": "この記事は「HN: OneCLI (YC S 26)を立ち上げる–チームのためのOSSサンドボックス化されたエージェントハーネス」を扱っています。OneCLIは、チーム用に構築されたエージェントハーネスで、すべての従業員に安全でサンドボックス化されたパーソナルエージェントを提供しています。1. GitHubアカウント、Gmail、Notion、Dropboxをチャットから接続するなど、すべてのOneCLI機能を備えたサンドボックス化されたエージェントを取得します。",
+        "titleJa": "別のLLMでClaude5のトークンの嘔吐物をきれいにする",
+        "summaryJa": "この記事は「別のLLMでClaude5のトークンの嘔吐物をきれいにする」を扱っています。Claude5のトークンの嘔吐物を別のLLMで片付けます。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
         "keyPoints": [
-          "この記事は「HN: OneCLI (YC S 26)を立ち上げる–チームのためのOSSサンドボックス化されたエージェントハーネス」を扱っています。",
-          "OneCLIは、チーム用に構築されたエージェントハーネスで、すべての従業員に安全でサンドボックス化されたパーソナルエージェントを提供しています。",
-          "1. GitHubアカウント、Gmail、Notion、Dropboxをチャットから接続するなど、すべてのOneCLI機能を備えたサンドボックス化されたエージェントを取得します。"
+          "この記事は「別のLLMでClaude5のトークンの嘔吐物をきれいにする」を扱っています。",
+          "Claude5のトークンの嘔吐物を別のLLMで片付けます。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
       }
     ],
-    "fetchedAt": "2026-08-20T15:48:16.025Z",
+    "fetchedAt": "2026-08-20T18:58:22.330Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-08-20T15:48:16.025Z",
+    "fetchedAt": "2026-08-20T18:58:22.330Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-08-20T15:48:16.156Z"
+    "articleFetchedAt": "2026-08-20T18:58:22.554Z"
   }
 }
