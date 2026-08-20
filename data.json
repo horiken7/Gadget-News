@@ -44,31 +44,31 @@
         ]
       },
       {
-        "title": "Binance now lets AI agents trade, but keeping them in check is largely up to users",
-        "url": "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/",
+        "title": "Meta AI’s new Mac app wants you to talk to your apps",
+        "url": "https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps/",
         "points": 107,
         "comments": 0,
         "author": "",
-        "createdAt": "2026-08-20T09:30:00.000Z",
+        "createdAt": "2026-08-20T12:11:57.000Z",
         "domain": "techcrunch.com",
         "sourceType": "rss",
         "sourceLabel": "TechCrunch AI",
         "newsLens": "一般",
         "category": "AIニュース",
         "impact": "高",
-        "titleJa": "バイナンスは現在、AIエージェントに取引を許可していますが、それらを管理するのは主にユーザー次第です",
-        "summaryJa": "この記事は「バイナンスは現在、AIエージェントに取引を許可していますが、それらを管理するのは主にユーザー次第です」を扱っています。バイナンスのエージェントOSは、ChatGPT、Claude Code、Cursorなどのツールと連携します。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "titleJa": "Meta AIの新しいMacアプリは、あなたがあなたのアプリと話すことを望んでいます",
+        "summaryJa": "この記事は「Meta AIの新しいMacアプリは、あなたがあなたのアプリと話すことを望んでいます」を扱っています。Metaは、Muse Sparkモデルがディクテーション機能を強化していると述べた。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
-          "この記事は「バイナンスは現在、AIエージェントに取引を許可していますが、それらを管理するのは主にユーザー次第です」を扱っています。",
-          "バイナンスのエージェントOSは、ChatGPT、Claude Code、Cursorなどのツールと連携します。",
+          "この記事は「Meta AIの新しいMacアプリは、あなたがあなたのアプリと話すことを望んでいます」を扱っています。",
+          "Metaは、Muse Sparkモデルがディクテーション機能を強化していると述べた。",
           "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       },
       {
         "title": "Launch HN: OneCLI (YC S26) – OSS sandboxed agent harness for teams",
         "url": "https://github.com/onecli/onecli",
-        "points": 88,
-        "comments": 22,
+        "points": 90,
+        "comments": 24,
         "author": "guyb3",
         "createdAt": "2026-08-19T16:29:02Z",
         "domain": "github.com",
@@ -85,35 +85,35 @@
         ]
       },
       {
-        "title": "Show HN: Frugal Tokens – explore costs and usage across coding agents",
-        "url": "https://demo.frugaltokens.com/",
-        "points": 77,
-        "comments": 8,
-        "author": "dpc94",
-        "createdAt": "2026-08-19T17:07:35Z",
-        "domain": "demo.frugaltokens.com",
+        "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
+        "url": "https://simedw.com/2026/08/20/midi-autocomplete/",
+        "points": 82,
+        "comments": 9,
+        "author": "simedw",
+        "createdAt": "2026-08-20T12:04:38Z",
+        "domain": "simedw.com",
         "sourceType": "hn",
-        "category": "AIニュース",
+        "category": "AIモデル",
         "impact": "低",
         "newsLens": "技術",
-        "titleJa": "HN: Frugal Tokensを表示–コーディングエージェント間のコストと使用状況を調べる",
-        "summaryJa": "この記事は「HN: Frugal Tokensを表示–コーディングエージェント間のコストと使用状況を調べる」を扱っています。私が取り組んできたFrugal Tokensというプロジェクトを共有したいと思いました。私が最初にそれを構築したのは、すべてのセッションの費用と、その支出にどのくらいのキャッシュミスが影響したかを知りたかったからです。",
+        "titleJa": "Show HN ： 125 mモデルをトレーニングして、デバイス上でピアノをオートコンプリートしました",
+        "summaryJa": "この記事は「Show HN ： 125 mモデルをトレーニングして、デバイス上でピアノをオートコンプリートしました」を扱っています。125 Mパラメータのトランスフォーマーをトレーニングして、リアルタイムでピアノ演奏をオートコンプリートしました（ iPhone 15では約108ノート/秒）。このアイデアは基本的にGitHub CopilotまたはTabnineですが、コードでプロンプトを表示するのではなく、MIDIピアノでいくつかのノートを再生してプロンプトを表示します。",
         "keyPoints": [
-          "この記事は「HN: Frugal Tokensを表示–コーディングエージェント間のコストと使用状況を調べる」を扱っています。",
-          "私が取り組んできたFrugal Tokensというプロジェクトを共有したいと思いました。",
-          "私が最初にそれを構築したのは、すべてのセッションの費用と、その支出にどのくらいのキャッシュミスが影響したかを知りたかったからです。"
+          "この記事は「Show HN ： 125 mモデルをトレーニングして、デバイス上でピアノをオートコンプリートしました」を扱っています。",
+          "125 Mパラメータのトランスフォーマーをトレーニングして、リアルタイムでピアノ演奏をオートコンプリートしました（ iPhone 15では約108ノート/秒）。",
+          "このアイデアは基本的にGitHub CopilotまたはTabnineですが、コードでプロンプトを表示するのではなく、MIDIピアノでいくつかのノートを再生してプロンプトを表示します。"
         ]
       }
     ],
-    "fetchedAt": "2026-08-20T09:49:36.857Z",
+    "fetchedAt": "2026-08-20T13:09:52.774Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-08-20T09:49:36.857Z",
+    "fetchedAt": "2026-08-20T13:09:52.774Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-08-20T09:49:36.990Z"
+    "articleFetchedAt": "2026-08-20T13:09:52.906Z"
   }
 }
