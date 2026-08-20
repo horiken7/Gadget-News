@@ -65,16 +65,36 @@
         ]
       },
       {
+        "title": "Japan to require AI firms to disclose training data",
+        "url": "https://www.japantimes.co.jp/news/2026/08/19/japan/ai-training-data-disclosure/",
+        "points": 98,
+        "comments": 4,
+        "author": "anigbrowl",
+        "createdAt": "2026-08-19T22:12:52Z",
+        "domain": "japantimes.co.jp",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "低",
+        "newsLens": "技術",
+        "titleJa": "日本はAI企業にトレーニングデータの開示を義務付ける",
+        "summaryJa": "この記事は「日本はAI企業にトレーニングデータの開示を義務付ける」を扱っています。テキストや画像が同意なしにAIモデルのトレーニングに使用される可能性があり、著作権を侵害する可能性があるという懸念が高まっているため、コード草案が作成されました。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "keyPoints": [
+          "この記事は「日本はAI企業にトレーニングデータの開示を義務付ける」を扱っています。",
+          "テキストや画像が同意なしにAIモデルのトレーニングに使用される可能性があり、著作権を侵害する可能性があるという懸念が高まっているため、コード草案が作成されました。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+        ]
+      },
+      {
         "title": "Launch HN: OneCLI (YC S26) – OSS sandboxed agent harness for teams",
         "url": "https://github.com/onecli/onecli",
-        "points": 82,
-        "comments": 16,
+        "points": 84,
+        "comments": 17,
         "author": "guyb3",
         "createdAt": "2026-08-19T16:29:02Z",
         "domain": "github.com",
         "sourceType": "hn",
         "category": "AIニュース",
-        "impact": "低",
+        "impact": "中",
         "newsLens": "技術",
         "titleJa": "HN: OneCLI (YC S 26)を立ち上げる–チームのためのOSSサンドボックス化されたエージェントハーネス",
         "summaryJa": "この記事は「HN: OneCLI (YC S 26)を立ち上げる–チームのためのOSSサンドボックス化されたエージェントハーネス」を扱っています。OneCLIは、チーム用に構築されたエージェントハーネスで、すべての従業員に安全でサンドボックス化されたパーソナルエージェントを提供しています。1. GitHubアカウント、Gmail、Notion、Dropboxをチャットから接続するなど、すべてのOneCLI機能を備えたサンドボックス化されたエージェントを取得します。",
@@ -83,38 +103,17 @@
           "OneCLIは、チーム用に構築されたエージェントハーネスで、すべての従業員に安全でサンドボックス化されたパーソナルエージェントを提供しています。",
           "1. GitHubアカウント、Gmail、Notion、Dropboxをチャットから接続するなど、すべてのOneCLI機能を備えたサンドボックス化されたエージェントを取得します。"
         ]
-      },
-      {
-        "title": "Black Book Research : New Report : Reshoring Will Fail Unless AI Becomes the Operating System of the American Factory",
-        "url": "https://www.finanznachrichten.de/nachrichten-2026-08/69358186-black-book-research-new-report-reshoring-will-fail-unless-ai-becomes-the-operating-system-of-the-american-factory-200.htm",
-        "points": 81,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-08-20T01:15:00Z",
-        "domain": "finanznachrichten.de",
-        "sourceType": "gdelt",
-        "sourceLabel": "GDELT",
-        "category": "研究",
-        "impact": "中",
-        "newsLens": "技術",
-        "titleJa": "Black Book Research ：新しいレポート： AIがアメリカの工場のオペレーティングシステムにならない限り、リショアリングは失敗する",
-        "summaryJa": "この記事は「Black Book Research ：新しいレポート： AIがアメリカの工場のオペレーティングシステムにならない限り、リショアリングは失敗する」を扱っています。Applied Artificial Intelligence LLCとBlack Book Insightsは、製造業幹部の88 ％が、現在のリショアリングはAI対応の自動化、分析、またはデジタルオペレーションに大きく依存していると述べていると報告していますシカゴ。研究・実装面では、手法の新しさ、再現性、既存モデルとの差分が見るべき点です。",
-        "keyPoints": [
-          "この記事は「Black Book Research ：新しいレポート： AIがアメリカの工場のオペレーティングシステムにならない限り、リショアリングは失敗する」を扱っています。",
-          "Applied Artificial Intelligence LLCとBlack Book Insightsは、製造業幹部の88 ％が、現在のリショアリングはAI対応の自動化、分析、またはデジタルオペレーションに大きく依存していると述べていると報告していますシカゴ。",
-          "研究・実装面では、手法の新しさ、再現性、既存モデルとの差分が見るべき点です。"
-        ]
       }
     ],
-    "fetchedAt": "2026-08-20T01:50:38.735Z",
+    "fetchedAt": "2026-08-20T03:57:24.043Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-08-20T01:50:38.735Z",
+    "fetchedAt": "2026-08-20T03:57:24.043Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-08-20T01:50:38.872Z"
+    "articleFetchedAt": "2026-08-20T03:57:24.186Z"
   }
 }
