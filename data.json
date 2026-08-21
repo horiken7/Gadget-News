@@ -2,51 +2,10 @@
   "news": {
     "items": [
       {
-        "title": "Ramp launches its own AI model router, called Router",
-        "url": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/",
-        "points": 107,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-08-20T16:46:00.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
-        "category": "AIモデル",
-        "impact": "高",
-        "titleJa": "RAMPが独自のAIモデルルーター「Router」を発売",
-        "summaryJa": "この記事は「RAMPが独自のAIモデルルーター「Router」を発売」を扱っています。RAMPは、ユーザーと企業がAPIを介してさまざまな大規模言語モデルを使用および切り替えることができる、独自のAIモデルルーティングサービス「Router」を開始しました。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
-        "keyPoints": [
-          "この記事は「RAMPが独自のAIモデルルーター「Router」を発売」を扱っています。",
-          "RAMPは、ユーザーと企業がAPIを介してさまざまな大規模言語モデルを使用および切り替えることができる、独自のAIモデルルーティングサービス「Router」を開始しました。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
-        ]
-      },
-      {
-        "title": "Show HN: Huzzah – a novel approach to coding with AI",
-        "url": "https://www.danielvaughn.dev/posts/huzzah/",
-        "points": 101,
-        "comments": 200,
-        "author": "danielvaughn",
-        "createdAt": "2026-08-20T19:05:36Z",
-        "domain": "danielvaughn.dev",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "Show HN ： Huzzah – AIによるコーディングへの新しいアプローチ",
-        "summaryJa": "この記事は「Show HN ： Huzzah – AIによるコーディングへの新しいアプローチ」を扱っています。Huzzahという実験的なエディターに取り組んでいます。私は今年の1月からほぼ専らコーディングエージェントと仕事をしてきましたが、ここ数ヶ月間で完全に疲れ果ててしまいました。",
-        "keyPoints": [
-          "この記事は「Show HN ： Huzzah – AIによるコーディングへの新しいアプローチ」を扱っています。",
-          "Huzzahという実験的なエディターに取り組んでいます。",
-          "私は今年の1月からほぼ専らコーディングエージェントと仕事をしてきましたが、ここ数ヶ月間で完全に疲れ果ててしまいました。"
-        ]
-      },
-      {
         "title": "DeepSeek-v4-flash-vision-exp",
         "url": "https://api-docs.deepseek.com/guides/vision/",
         "points": 101,
-        "comments": 101,
+        "comments": 127,
         "author": "dares2573",
         "createdAt": "2026-08-21T10:33:56Z",
         "domain": "api-docs.deepseek.com",
@@ -60,6 +19,26 @@
           "この記事は「DeepSeek - v 4 - flash - vision - exp」を扱っています。",
           "Deepseek - v 4 - flash - vision - expモデルは、テキストと一緒に画像を受け入れるため、画像の説明、スクリーンショットからのテキストの読み取り、チャートの分析などをモデルに依頼できます。",
           "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+        ]
+      },
+      {
+        "title": "Show HN: Huzzah – a novel approach to coding with AI",
+        "url": "https://www.danielvaughn.dev/posts/huzzah/",
+        "points": 101,
+        "comments": 203,
+        "author": "danielvaughn",
+        "createdAt": "2026-08-20T19:05:36Z",
+        "domain": "danielvaughn.dev",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "Show HN ： Huzzah – AIによるコーディングへの新しいアプローチ",
+        "summaryJa": "この記事は「Show HN ： Huzzah – AIによるコーディングへの新しいアプローチ」を扱っています。Huzzahという実験的なエディターに取り組んでいます。私は今年の1月からほぼ専らコーディングエージェントと仕事をしてきましたが、ここ数ヶ月間で完全に疲れ果ててしまいました。",
+        "keyPoints": [
+          "この記事は「Show HN ： Huzzah – AIによるコーディングへの新しいアプローチ」を扱っています。",
+          "Huzzahという実験的なエディターに取り組んでいます。",
+          "私は今年の1月からほぼ専らコーディングエージェントと仕事をしてきましたが、ここ数ヶ月間で完全に疲れ果ててしまいました。"
         ]
       },
       {
@@ -84,35 +63,56 @@
         ]
       },
       {
-        "title": "I'm Becoming AI-Blind",
-        "url": "https://cymerys.com/w/im-becoming-ai-blind",
-        "points": 64,
-        "comments": 87,
-        "author": "rcymerys",
-        "createdAt": "2026-08-21T11:48:05Z",
-        "domain": "cymerys.com",
-        "sourceType": "hn",
+        "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
+        "url": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
+        "points": 79,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-08-20T22:36:37.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
         "category": "AIニュース",
+        "impact": "中",
+        "titleJa": "新しいデータによると、OpenAIはビジネスユーザーでAnthropicを獲得しています",
+        "summaryJa": "この記事は「新しいデータによると、OpenAIはビジネスユーザーでAnthropicを獲得しています」を扱っています。各ラボが新しいモデルをリリースするにつれて、企業は前後に進んでいます。ボラティリティは、両社の投資家に、企業のAI支出が実際にどの程度「粘着性」があるかを一時停止させるはずです。",
+        "keyPoints": [
+          "この記事は「新しいデータによると、OpenAIはビジネスユーザーでAnthropicを獲得しています」を扱っています。",
+          "各ラボが新しいモデルをリリースするにつれて、企業は前後に進んでいます。",
+          "ボラティリティは、両社の投資家に、企業のAI支出が実際にどの程度「粘着性」があるかを一時停止させるはずです。"
+        ]
+      },
+      {
+        "title": "AI boosted homework scores, then exam scores dropped: Study",
+        "url": "https://canews24.online/?p=71",
+        "points": 73,
+        "comments": 8,
+        "author": "Edymilson",
+        "createdAt": "2026-08-21T15:25:42Z",
+        "domain": "canews24.online",
+        "sourceType": "hn",
+        "category": "研究",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "私はAIブラインドになりつつあります",
-        "summaryJa": "この記事は「私はAIブラインドになりつつあります」を扱っています。最近、誰かが私に送ってきた文書を読もうとしていて、私の脳がどういうわけかそれを分析することを拒否しているとき、私は自分自身が仕事でこれらの小さな瞬間を持っていることに気づいています。読んでいるような気がしますが、内容に集中できません。",
+        "titleJa": "AIが宿題のスコアを上げ、試験のスコアが下がった：学習",
+        "summaryJa": "この記事は「AIが宿題のスコアを上げ、試験のスコアが下がった：学習」を扱っています。canews24.onlineが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。研究・実装面では、手法の新しさ、再現性、既存モデルとの差分が見るべき点です。",
         "keyPoints": [
-          "この記事は「私はAIブラインドになりつつあります」を扱っています。",
-          "最近、誰かが私に送ってきた文書を読もうとしていて、私の脳がどういうわけかそれを分析することを拒否しているとき、私は自分自身が仕事でこれらの小さな瞬間を持っていることに気づいています。",
-          "読んでいるような気がしますが、内容に集中できません。"
+          "この記事は「AIが宿題のスコアを上げ、試験のスコアが下がった：学習」を扱っています。",
+          "canews24.onlineが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "研究・実装面では、手法の新しさ、再現性、既存モデルとの差分が見るべき点です。"
         ]
       }
     ],
-    "fetchedAt": "2026-08-21T15:47:35.368Z",
+    "fetchedAt": "2026-08-21T18:54:24.599Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-08-21T15:47:35.368Z",
+    "fetchedAt": "2026-08-21T18:54:24.599Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-08-21T15:47:35.542Z"
+    "articleFetchedAt": "2026-08-21T18:54:24.709Z"
   }
 }
