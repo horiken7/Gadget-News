@@ -44,27 +44,6 @@
         ]
       },
       {
-        "title": "Binance now lets AI agents trade, but keeping them in check is largely up to users",
-        "url": "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/",
-        "points": 107,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-08-20T09:30:00.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
-        "category": "AIニュース",
-        "impact": "高",
-        "titleJa": "バイナンスは現在、AIエージェントに取引を許可していますが、それらを管理するのは主にユーザー次第です",
-        "summaryJa": "この記事は「バイナンスは現在、AIエージェントに取引を許可していますが、それらを管理するのは主にユーザー次第です」を扱っています。バイナンスのエージェントOSは、ChatGPT、Claude Code、Cursorなどのツールと連携します。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
-        "keyPoints": [
-          "この記事は「バイナンスは現在、AIエージェントに取引を許可していますが、それらを管理するのは主にユーザー次第です」を扱っています。",
-          "バイナンスのエージェントOSは、ChatGPT、Claude Code、Cursorなどのツールと連携します。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
-        ]
-      },
-      {
         "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
         "url": "https://simedw.com/2026/08/20/midi-autocomplete/",
         "points": 101,
@@ -88,7 +67,7 @@
         "title": "Show HN: Huzzah – a novel approach to coding with AI",
         "url": "https://www.danielvaughn.dev/posts/huzzah/",
         "points": 101,
-        "comments": 151,
+        "comments": 163,
         "author": "danielvaughn",
         "createdAt": "2026-08-20T19:05:36Z",
         "domain": "danielvaughn.dev",
@@ -103,17 +82,38 @@
           "Huzzahという実験的なエディターに取り組んでいます。",
           "私は今年の1月からほぼ専らコーディングエージェントと仕事をしてきましたが、ここ数ヶ月間で完全に疲れ果ててしまいました。"
         ]
+      },
+      {
+        "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
+        "url": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
+        "points": 89,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-08-21T00:13:44.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
+        "category": "AIニュース",
+        "impact": "高",
+        "titleJa": "AIトレーニングブームの中、AIデータスタートアップMicro 1の総稼働率が5億$に達する",
+        "summaryJa": "この記事は「AIトレーニングブームの中、AIデータスタートアップMicro 1の総稼働率が5億$に達する」を扱っています。AIトレーニングデータに対する需要の急増は、スタートアップとそのライバル企業の急速な成長を促進しています。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "keyPoints": [
+          "この記事は「AIトレーニングブームの中、AIデータスタートアップMicro 1の総稼働率が5億$に達する」を扱っています。",
+          "AIトレーニングデータに対する需要の急増は、スタートアップとそのライバル企業の急速な成長を促進しています。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+        ]
       }
     ],
-    "fetchedAt": "2026-08-21T07:06:06.990Z",
+    "fetchedAt": "2026-08-21T09:51:34.277Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-08-21T07:06:06.990Z",
+    "fetchedAt": "2026-08-21T09:51:34.277Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-08-21T07:06:07.114Z"
+    "articleFetchedAt": "2026-08-21T09:51:34.404Z"
   }
 }
