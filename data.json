@@ -68,7 +68,7 @@
         "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
         "url": "https://simedw.com/2026/08/20/midi-autocomplete/",
         "points": 101,
-        "comments": 106,
+        "comments": 110,
         "author": "simedw",
         "createdAt": "2026-08-20T12:04:38Z",
         "domain": "simedw.com",
@@ -88,7 +88,7 @@
         "title": "Show HN: Huzzah – a novel approach to coding with AI",
         "url": "https://www.danielvaughn.dev/posts/huzzah/",
         "points": 101,
-        "comments": 126,
+        "comments": 138,
         "author": "danielvaughn",
         "createdAt": "2026-08-20T19:05:36Z",
         "domain": "danielvaughn.dev",
@@ -105,15 +105,15 @@
         ]
       }
     ],
-    "fetchedAt": "2026-08-21T01:56:48.368Z",
+    "fetchedAt": "2026-08-21T03:59:15.316Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-08-21T01:56:48.368Z",
+    "fetchedAt": "2026-08-21T03:59:15.316Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-08-21T01:56:48.576Z"
+    "articleFetchedAt": "2026-08-21T03:59:15.448Z"
   }
 }
