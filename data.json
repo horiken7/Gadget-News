@@ -23,27 +23,6 @@
         ]
       },
       {
-        "title": "Cognition CEO denies report that SpaceX tried to acquire the startup",
-        "url": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
-        "points": 115,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-08-19T21:51:23.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
-        "category": "AIニュース",
-        "impact": "高",
-        "titleJa": "CognitionのCEOは、SpaceXがスタートアップを買収しようとしたという報告を否定",
-        "summaryJa": "この記事は「CognitionのCEOは、SpaceXがスタートアップを買収しようとしたという報告を否定」を扱っています。SpaceXは、AIコーディングのスタートアップCognitionを買収する交渉を行っていたと伝えられている。SpaceXはすでにCursorを買収しており、エンタープライズAIでOpenAIやAnthropicなどのライバルに追いつこうと競争している。",
-        "keyPoints": [
-          "この記事は「CognitionのCEOは、SpaceXがスタートアップを買収しようとしたという報告を否定」を扱っています。",
-          "SpaceXは、AIコーディングのスタートアップCognitionを買収する交渉を行っていたと伝えられている。",
-          "SpaceXはすでにCursorを買収しており、エンタープライズAIでOpenAIやAnthropicなどのライバルに追いつこうと競争している。"
-        ]
-      },
-      {
         "title": "Ramp launches its own AI model router, called Router",
         "url": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/",
         "points": 107,
@@ -65,10 +44,31 @@
         ]
       },
       {
+        "title": "Binance now lets AI agents trade, but keeping them in check is largely up to users",
+        "url": "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/",
+        "points": 107,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-08-20T09:30:00.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
+        "category": "AIニュース",
+        "impact": "高",
+        "titleJa": "バイナンスは現在、AIエージェントに取引を許可していますが、それらを管理するのは主にユーザー次第です",
+        "summaryJa": "この記事は「バイナンスは現在、AIエージェントに取引を許可していますが、それらを管理するのは主にユーザー次第です」を扱っています。バイナンスのエージェントOSは、ChatGPT、Claude Code、Cursorなどのツールと連携します。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "keyPoints": [
+          "この記事は「バイナンスは現在、AIエージェントに取引を許可していますが、それらを管理するのは主にユーザー次第です」を扱っています。",
+          "バイナンスのエージェントOSは、ChatGPT、Claude Code、Cursorなどのツールと連携します。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+        ]
+      },
+      {
         "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
         "url": "https://simedw.com/2026/08/20/midi-autocomplete/",
         "points": 101,
-        "comments": 100,
+        "comments": 106,
         "author": "simedw",
         "createdAt": "2026-08-20T12:04:38Z",
         "domain": "simedw.com",
@@ -88,7 +88,7 @@
         "title": "Show HN: Huzzah – a novel approach to coding with AI",
         "url": "https://www.danielvaughn.dev/posts/huzzah/",
         "points": 101,
-        "comments": 75,
+        "comments": 126,
         "author": "danielvaughn",
         "createdAt": "2026-08-20T19:05:36Z",
         "domain": "danielvaughn.dev",
@@ -105,15 +105,15 @@
         ]
       }
     ],
-    "fetchedAt": "2026-08-20T21:42:25.354Z",
+    "fetchedAt": "2026-08-21T01:56:48.368Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-08-20T21:42:25.354Z",
+    "fetchedAt": "2026-08-21T01:56:48.368Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-08-20T21:42:25.501Z"
+    "articleFetchedAt": "2026-08-21T01:56:48.576Z"
   }
 }
