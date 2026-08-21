@@ -2,27 +2,6 @@
   "news": {
     "items": [
       {
-        "title": "Grok exfiltrates user data when malicious instructions are encrypted",
-        "url": "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/",
-        "points": 133,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-08-20T13:00:35.000Z",
-        "domain": "arstechnica.com",
-        "sourceType": "rss",
-        "sourceLabel": "Ars Technica",
-        "newsLens": "技術",
-        "category": "AIニュース",
-        "impact": "高",
-        "titleJa": "Grokは、悪意のある命令が暗号化されたときにユーザーデータを流出させます",
-        "summaryJa": "この記事は「Grokは、悪意のある命令が暗号化されたときにユーザーデータを流出させます」を扱っています。暗号コンテキストインジェクションは、LLMの安全ガードレールを破るための最新の方法に過ぎません。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
-        "keyPoints": [
-          "この記事は「Grokは、悪意のある命令が暗号化されたときにユーザーデータを流出させます」を扱っています。",
-          "暗号コンテキストインジェクションは、LLMの安全ガードレールを破るための最新の方法に過ぎません。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
-        ]
-      },
-      {
         "title": "Ramp launches its own AI model router, called Router",
         "url": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/",
         "points": 107,
@@ -44,30 +23,10 @@
         ]
       },
       {
-        "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
-        "url": "https://simedw.com/2026/08/20/midi-autocomplete/",
-        "points": 101,
-        "comments": 113,
-        "author": "simedw",
-        "createdAt": "2026-08-20T12:04:38Z",
-        "domain": "simedw.com",
-        "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "Show HN ： 125 mモデルをトレーニングして、デバイス上でピアノをオートコンプリートしました",
-        "summaryJa": "この記事は「Show HN ： 125 mモデルをトレーニングして、デバイス上でピアノをオートコンプリートしました」を扱っています。125 Mパラメータのトランスフォーマーをトレーニングして、リアルタイムでピアノ演奏をオートコンプリートしました（ iPhone 15では約108ノート/秒）。このアイデアは基本的にGitHub CopilotまたはTabnineですが、コードでプロンプトを表示するのではなく、MIDIピアノでいくつかのノートを再生してプロンプトを表示します。",
-        "keyPoints": [
-          "この記事は「Show HN ： 125 mモデルをトレーニングして、デバイス上でピアノをオートコンプリートしました」を扱っています。",
-          "125 Mパラメータのトランスフォーマーをトレーニングして、リアルタイムでピアノ演奏をオートコンプリートしました（ iPhone 15では約108ノート/秒）。",
-          "このアイデアは基本的にGitHub CopilotまたはTabnineですが、コードでプロンプトを表示するのではなく、MIDIピアノでいくつかのノートを再生してプロンプトを表示します。"
-        ]
-      },
-      {
         "title": "Show HN: Huzzah – a novel approach to coding with AI",
         "url": "https://www.danielvaughn.dev/posts/huzzah/",
         "points": 101,
-        "comments": 163,
+        "comments": 192,
         "author": "danielvaughn",
         "createdAt": "2026-08-20T19:05:36Z",
         "domain": "danielvaughn.dev",
@@ -81,6 +40,46 @@
           "この記事は「Show HN ： Huzzah – AIによるコーディングへの新しいアプローチ」を扱っています。",
           "Huzzahという実験的なエディターに取り組んでいます。",
           "私は今年の1月からほぼ専らコーディングエージェントと仕事をしてきましたが、ここ数ヶ月間で完全に疲れ果ててしまいました。"
+        ]
+      },
+      {
+        "title": "Vomit: Clean up Claude 5's token output with a separate LLM",
+        "url": "https://github.com/zachahn/vomit",
+        "points": 101,
+        "comments": 265,
+        "author": "Bluestein",
+        "createdAt": "2026-08-20T15:26:02Z",
+        "domain": "github.com",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "嘔吐：Claude5のトークン出力を別のLLMでクリーンアップする",
+        "summaryJa": "この記事は「嘔吐：Claude5のトークン出力を別のLLMでクリーンアップする」を扱っています。Claude5のトークンの嘔吐物を別のLLMで片付けます。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "keyPoints": [
+          "この記事は「嘔吐：Claude5のトークン出力を別のLLMでクリーンアップする」を扱っています。",
+          "Claude5のトークンの嘔吐物を別のLLMで片付けます。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+        ]
+      },
+      {
+        "title": "DeepSeek-v4-flash-vision-exp",
+        "url": "https://api-docs.deepseek.com/guides/vision/",
+        "points": 101,
+        "comments": 49,
+        "author": "dares2573",
+        "createdAt": "2026-08-21T10:33:56Z",
+        "domain": "api-docs.deepseek.com",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "AIニュース: DeepSeek - v 4 - flash - vision - exp",
+        "summaryJa": "この記事は「DeepSeek - v 4 - flash - vision - exp」を扱っています。Deepseek - v 4 - flash - vision - expモデルは、テキストと一緒に画像を受け入れるため、画像の説明、スクリーンショットからのテキストの読み取り、チャートの分析などをモデルに依頼できます。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "keyPoints": [
+          "この記事は「DeepSeek - v 4 - flash - vision - exp」を扱っています。",
+          "Deepseek - v 4 - flash - vision - expモデルは、テキストと一緒に画像を受け入れるため、画像の説明、スクリーンショットからのテキストの読み取り、チャートの分析などをモデルに依頼できます。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
       },
       {
@@ -105,15 +104,15 @@
         ]
       }
     ],
-    "fetchedAt": "2026-08-21T09:51:34.277Z",
+    "fetchedAt": "2026-08-21T13:09:41.010Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-08-21T09:51:34.277Z",
+    "fetchedAt": "2026-08-21T13:09:41.010Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-08-21T09:51:34.404Z"
+    "articleFetchedAt": "2026-08-21T13:09:41.142Z"
   }
 }
