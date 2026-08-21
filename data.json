@@ -2,10 +2,31 @@
   "news": {
     "items": [
       {
+        "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
+        "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
+        "points": 107,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-08-21T19:43:39.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
+        "category": "AIモデル",
+        "impact": "高",
+        "titleJa": "NVIDIAは、AIモデルではなくハーネスが今や真のヒーローであることを示した",
+        "summaryJa": "この記事は「NVIDIAは、AIモデルではなくハーネスが今や真のヒーローであることを示した」を扱っています。Nvidiaの調査によると、AIエージェントは、たとえAIモデルがそれほど優れていなくても、微調整によって優れたパフォーマンスを発揮し、ディープエンドから離れることはないことが示されています。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "keyPoints": [
+          "この記事は「NVIDIAは、AIモデルではなくハーネスが今や真のヒーローであることを示した」を扱っています。",
+          "Nvidiaの調査によると、AIエージェントは、たとえAIモデルがそれほど優れていなくても、微調整によって優れたパフォーマンスを発揮し、ディープエンドから離れることはないことが示されています。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+        ]
+      },
+      {
         "title": "DeepSeek-v4-flash-vision-exp",
         "url": "https://api-docs.deepseek.com/guides/vision/",
         "points": 101,
-        "comments": 127,
+        "comments": 139,
         "author": "dares2573",
         "createdAt": "2026-08-21T10:33:56Z",
         "domain": "api-docs.deepseek.com",
@@ -19,26 +40,6 @@
           "この記事は「DeepSeek - v 4 - flash - vision - exp」を扱っています。",
           "Deepseek - v 4 - flash - vision - expモデルは、テキストと一緒に画像を受け入れるため、画像の説明、スクリーンショットからのテキストの読み取り、チャートの分析などをモデルに依頼できます。",
           "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
-        ]
-      },
-      {
-        "title": "Show HN: Huzzah – a novel approach to coding with AI",
-        "url": "https://www.danielvaughn.dev/posts/huzzah/",
-        "points": 101,
-        "comments": 203,
-        "author": "danielvaughn",
-        "createdAt": "2026-08-20T19:05:36Z",
-        "domain": "danielvaughn.dev",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "Show HN ： Huzzah – AIによるコーディングへの新しいアプローチ",
-        "summaryJa": "この記事は「Show HN ： Huzzah – AIによるコーディングへの新しいアプローチ」を扱っています。Huzzahという実験的なエディターに取り組んでいます。私は今年の1月からほぼ専らコーディングエージェントと仕事をしてきましたが、ここ数ヶ月間で完全に疲れ果ててしまいました。",
-        "keyPoints": [
-          "この記事は「Show HN ： Huzzah – AIによるコーディングへの新しいアプローチ」を扱っています。",
-          "Huzzahという実験的なエディターに取り組んでいます。",
-          "私は今年の1月からほぼ専らコーディングエージェントと仕事をしてきましたが、ここ数ヶ月間で完全に疲れ果ててしまいました。"
         ]
       },
       {
@@ -63,56 +64,55 @@
         ]
       },
       {
-        "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
-        "url": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
-        "points": 79,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-08-20T22:36:37.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
-        "category": "AIニュース",
-        "impact": "中",
-        "titleJa": "新しいデータによると、OpenAIはビジネスユーザーでAnthropicを獲得しています",
-        "summaryJa": "この記事は「新しいデータによると、OpenAIはビジネスユーザーでAnthropicを獲得しています」を扱っています。各ラボが新しいモデルをリリースするにつれて、企業は前後に進んでいます。ボラティリティは、両社の投資家に、企業のAI支出が実際にどの程度「粘着性」があるかを一時停止させるはずです。",
+        "title": "Claudette: Make Claude stop talking like a BuzzFeed article",
+        "url": "https://github.com/adnanakil/nobuzz/blob/main/README.md",
+        "points": 73,
+        "comments": 103,
+        "author": "aakil",
+        "createdAt": "2026-08-21T14:31:52Z",
+        "domain": "github.com",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "Claudette ：ClaudeにBuzzFeedの記事のように話すのをやめさせる",
+        "summaryJa": "この記事は「Claudette ：ClaudeにBuzzFeedの記事のように話すのをやめさせる」を扱っています。Claudeの答えをGeminiにパイプしてBuzzFeedの声を取り除くClaudeコードスキル(/ debuzz) - nobuzz/README.md at main · adnanakil/nobuzz。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
         "keyPoints": [
-          "この記事は「新しいデータによると、OpenAIはビジネスユーザーでAnthropicを獲得しています」を扱っています。",
-          "各ラボが新しいモデルをリリースするにつれて、企業は前後に進んでいます。",
-          "ボラティリティは、両社の投資家に、企業のAI支出が実際にどの程度「粘着性」があるかを一時停止させるはずです。"
+          "この記事は「Claudette ：ClaudeにBuzzFeedの記事のように話すのをやめさせる」を扱っています。",
+          "Claudeの答えをGeminiにパイプしてBuzzFeedの声を取り除くClaudeコードスキル(/ debuzz) - nobuzz/README.md at main · adnanakil/nobuzz。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
       },
       {
-        "title": "AI boosted homework scores, then exam scores dropped: Study",
-        "url": "https://canews24.online/?p=71",
-        "points": 73,
-        "comments": 8,
-        "author": "Edymilson",
-        "createdAt": "2026-08-21T15:25:42Z",
-        "domain": "canews24.online",
+        "title": "Show HN: Proliferate- open-source, self-hostable Codex for any coding agent",
+        "url": "https://github.com/proliferate-ai/proliferate",
+        "points": 60,
+        "comments": 14,
+        "author": "pablo24602",
+        "createdAt": "2026-08-21T16:47:15Z",
+        "domain": "github.com",
         "sourceType": "hn",
-        "category": "研究",
-        "impact": "高",
+        "category": "開発ツール",
+        "impact": "低",
         "newsLens": "技術",
-        "titleJa": "AIが宿題のスコアを上げ、試験のスコアが下がった：学習",
-        "summaryJa": "この記事は「AIが宿題のスコアを上げ、試験のスコアが下がった：学習」を扱っています。canews24.onlineが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。研究・実装面では、手法の新しさ、再現性、既存モデルとの差分が見るべき点です。",
+        "titleJa": "Show HN: Proliferate -任意のコーディングエージェントのためのオープンソース、自己ホスト可能なコーデックス",
+        "summaryJa": "この記事は「Show HN: Proliferate -任意のコーディングエージェントのためのオープンソース、自己ホスト可能なコーデックス」を扱っています。Proliferate （ https://github.com/proliferate-ai/proliferate ）はオープンソースの自己ホスト型AI IDEで、Claude Code、Codex、OpenCode、Cursor、Grokを1か所で使用して作業を自動化できます。Proliferateを使用してProliferateを構築する方法の簡単なデモは次のとおりです。",
         "keyPoints": [
-          "この記事は「AIが宿題のスコアを上げ、試験のスコアが下がった：学習」を扱っています。",
-          "canews24.onlineが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "研究・実装面では、手法の新しさ、再現性、既存モデルとの差分が見るべき点です。"
+          "この記事は「Show HN: Proliferate -任意のコーディングエージェントのためのオープンソース、自己ホスト可能なコーデックス」を扱っています。",
+          "Proliferate （ https://github.com/proliferate-ai/proliferate ）はオープンソースの自己ホスト型AI IDEで、Claude Code、Codex、OpenCode、Cursor、Grokを1か所で使用して作業を自動化できます。",
+          "Proliferateを使用してProliferateを構築する方法の簡単なデモは次のとおりです。"
         ]
       }
     ],
-    "fetchedAt": "2026-08-21T18:54:24.599Z",
+    "fetchedAt": "2026-08-21T21:37:11.978Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-08-21T18:54:24.599Z",
+    "fetchedAt": "2026-08-21T21:37:11.978Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-08-21T18:54:24.709Z"
+    "articleFetchedAt": "2026-08-21T21:37:12.148Z"
   }
 }
