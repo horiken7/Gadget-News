@@ -47,7 +47,7 @@
         "title": "Show HN: OzBrain, a shared brain for knowledge between agents and your team",
         "url": "https://ozbrain.com",
         "points": 87,
-        "comments": 44,
+        "comments": 45,
         "author": "dariusmonsef",
         "createdAt": "2026-08-21T23:09:06Z",
         "domain": "ozbrain.com",
@@ -64,30 +64,10 @@
         ]
       },
       {
-        "title": "Claudette: Make Claude stop talking like a BuzzFeed article",
-        "url": "https://github.com/adnanakil/nobuzz/blob/main/README.md",
-        "points": 73,
-        "comments": 195,
-        "author": "aakil",
-        "createdAt": "2026-08-21T14:31:52Z",
-        "domain": "github.com",
-        "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "Claudette ：ClaudeにBuzzFeedの記事のように話すのをやめさせる",
-        "summaryJa": "この記事は「Claudette ：ClaudeにBuzzFeedの記事のように話すのをやめさせる」を扱っています。Claudeの答えをGeminiにパイプしてBuzzFeedの声を取り除くClaudeコードスキル(/ debuzz) - nobuzz/README.md at main · adnanakil/nobuzz。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
-        "keyPoints": [
-          "この記事は「Claudette ：ClaudeにBuzzFeedの記事のように話すのをやめさせる」を扱っています。",
-          "Claudeの答えをGeminiにパイプしてBuzzFeedの声を取り除くClaudeコードスキル(/ debuzz) - nobuzz/README.md at main · adnanakil/nobuzz。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
-        ]
-      },
-      {
         "title": "Building an (almost) fully self-hosted, sandboxed, agentic software factory",
         "url": "https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory/",
         "points": 68,
-        "comments": 56,
+        "comments": 58,
         "author": "jakelsaunders94",
         "createdAt": "2026-08-21T16:27:52Z",
         "domain": "blog.jakesaunders.dev",
@@ -102,17 +82,37 @@
           "私は（ほぼ）完全にセルフホスティングされ、サンドボックス化され、エージェント的なソフトウェアファクトリーを構築しました。",
           "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
+      },
+      {
+        "title": "Quick impressions: A week of using Codex more than Claude",
+        "url": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/",
+        "points": 64,
+        "comments": 103,
+        "author": "speckx",
+        "createdAt": "2026-08-21T19:51:48Z",
+        "domain": "allaboutcoding.ghinda.com",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "クイックインプレッション：Claudeよりもコーデックスを使用した1週間",
+        "summaryJa": "この記事は「クイックインプレッション：Claudeよりもコーデックスを使用した1週間」を扱っています。Claudeは尋ねられたことを超越し、あなたが望むかもしれないことを推測します。コーデックスはあなたが言うことを実行し、実行される可能性がある最初の兆候で停止します。",
+        "keyPoints": [
+          "この記事は「クイックインプレッション：Claudeよりもコーデックスを使用した1週間」を扱っています。",
+          "Claudeは尋ねられたことを超越し、あなたが望むかもしれないことを推測します。",
+          "コーデックスはあなたが言うことを実行し、実行される可能性がある最初の兆候で停止します。"
+        ]
       }
     ],
-    "fetchedAt": "2026-08-22T12:59:30.744Z",
+    "fetchedAt": "2026-08-22T15:34:37.481Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-08-22T12:59:30.744Z",
+    "fetchedAt": "2026-08-22T15:34:37.481Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-08-22T12:59:30.873Z"
+    "articleFetchedAt": "2026-08-22T15:34:37.659Z"
   }
 }
