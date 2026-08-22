@@ -47,7 +47,7 @@
         "title": "DeepSeek-v4-flash-vision-exp",
         "url": "https://api-docs.deepseek.com/guides/vision/",
         "points": 101,
-        "comments": 143,
+        "comments": 148,
         "author": "dares2573",
         "createdAt": "2026-08-21T10:33:56Z",
         "domain": "api-docs.deepseek.com",
@@ -64,10 +64,30 @@
         ]
       },
       {
+        "title": "Show HN: OzBrain, a shared brain for knowledge between agents and your team",
+        "url": "https://ozbrain.com",
+        "points": 82,
+        "comments": 20,
+        "author": "dariusmonsef",
+        "createdAt": "2026-08-21T23:09:06Z",
+        "domain": "ozbrain.com",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "低",
+        "newsLens": "技術",
+        "titleJa": "HN ：エージェントとチームの間で知識を共有するOzBrain",
+        "summaryJa": "この記事は「HN ：エージェントとチームの間で知識を共有するOzBrain」を扱っています。エージェントファーストのチャットインターフェイスが主なソフトウェアモダリティになり、ビジーダッシュボード/UIがなくなると思います。正確には誰が勝ったのかわかりませんが、自分の知識を伸ばしたい/一緒に進んでいきたいと思っています。",
+        "keyPoints": [
+          "この記事は「HN ：エージェントとチームの間で知識を共有するOzBrain」を扱っています。",
+          "エージェントファーストのチャットインターフェイスが主なソフトウェアモダリティになり、ビジーダッシュボード/UIがなくなると思います。",
+          "正確には誰が勝ったのかわかりませんが、自分の知識を伸ばしたい/一緒に進んでいきたいと思っています。"
+        ]
+      },
+      {
         "title": "Claudette: Make Claude stop talking like a BuzzFeed article",
         "url": "https://github.com/adnanakil/nobuzz/blob/main/README.md",
         "points": 73,
-        "comments": 144,
+        "comments": 156,
         "author": "aakil",
         "createdAt": "2026-08-21T14:31:52Z",
         "domain": "github.com",
@@ -82,37 +102,17 @@
           "Claudeの答えをGeminiにパイプしてBuzzFeedの声を取り除くClaudeコードスキル(/ debuzz) - nobuzz/README.md at main · adnanakil/nobuzz。",
           "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
-      },
-      {
-        "title": "Building an (almost) fully self-hosted, sandboxed, agentic software factory",
-        "url": "https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory/",
-        "points": 63,
-        "comments": 50,
-        "author": "jakelsaunders94",
-        "createdAt": "2026-08-21T16:27:52Z",
-        "domain": "blog.jakesaunders.dev",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "（ほぼ）完全な自己ホスト型、サンドボックス型、エージェント型ソフトウェアファクトリーの構築",
-        "summaryJa": "この記事は「（ほぼ）完全な自己ホスト型、サンドボックス型、エージェント型ソフトウェアファクトリーの構築」を扱っています。私は（ほぼ）完全にセルフホスティングされ、サンドボックス化され、エージェント的なソフトウェアファクトリーを構築しました。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
-        "keyPoints": [
-          "この記事は「（ほぼ）完全な自己ホスト型、サンドボックス型、エージェント型ソフトウェアファクトリーの構築」を扱っています。",
-          "私は（ほぼ）完全にセルフホスティングされ、サンドボックス化され、エージェント的なソフトウェアファクトリーを構築しました。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
-        ]
       }
     ],
-    "fetchedAt": "2026-08-22T01:49:13.170Z",
+    "fetchedAt": "2026-08-22T03:54:49.820Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-08-22T01:49:13.170Z",
+    "fetchedAt": "2026-08-22T03:54:49.820Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-08-22T01:49:13.307Z"
+    "articleFetchedAt": "2026-08-22T03:54:49.923Z"
   }
 }
