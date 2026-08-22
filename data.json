@@ -47,7 +47,7 @@
         "title": "DeepSeek-v4-flash-vision-exp",
         "url": "https://api-docs.deepseek.com/guides/vision/",
         "points": 101,
-        "comments": 148,
+        "comments": 149,
         "author": "dares2573",
         "createdAt": "2026-08-21T10:33:56Z",
         "domain": "api-docs.deepseek.com",
@@ -66,14 +66,14 @@
       {
         "title": "Show HN: OzBrain, a shared brain for knowledge between agents and your team",
         "url": "https://ozbrain.com",
-        "points": 82,
-        "comments": 20,
+        "points": 85,
+        "comments": 32,
         "author": "dariusmonsef",
         "createdAt": "2026-08-21T23:09:06Z",
         "domain": "ozbrain.com",
         "sourceType": "hn",
         "category": "AIニュース",
-        "impact": "低",
+        "impact": "中",
         "newsLens": "技術",
         "titleJa": "HN ：エージェントとチームの間で知識を共有するOzBrain",
         "summaryJa": "この記事は「HN ：エージェントとチームの間で知識を共有するOzBrain」を扱っています。エージェントファーストのチャットインターフェイスが主なソフトウェアモダリティになり、ビジーダッシュボード/UIがなくなると思います。正確には誰が勝ったのかわかりませんが、自分の知識を伸ばしたい/一緒に進んでいきたいと思っています。",
@@ -87,7 +87,7 @@
         "title": "Claudette: Make Claude stop talking like a BuzzFeed article",
         "url": "https://github.com/adnanakil/nobuzz/blob/main/README.md",
         "points": 73,
-        "comments": 156,
+        "comments": 173,
         "author": "aakil",
         "createdAt": "2026-08-21T14:31:52Z",
         "domain": "github.com",
@@ -104,15 +104,15 @@
         ]
       }
     ],
-    "fetchedAt": "2026-08-22T03:54:49.820Z",
+    "fetchedAt": "2026-08-22T06:57:52.344Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-08-22T03:54:49.820Z",
+    "fetchedAt": "2026-08-22T06:57:52.344Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-08-22T03:54:49.923Z"
+    "articleFetchedAt": "2026-08-22T06:57:52.487Z"
   }
 }
