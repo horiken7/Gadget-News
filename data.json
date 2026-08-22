@@ -2,6 +2,27 @@
   "news": {
     "items": [
       {
+        "title": "Nvidia partners with data center developer Cloverleaf",
+        "url": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
+        "points": 107,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-08-21T22:37:38.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
+        "category": "開発ツール",
+        "impact": "高",
+        "titleJa": "NVIDIA、データセンター開発者Cloverleafと提携",
+        "summaryJa": "この記事は「NVIDIA、データセンター開発者Cloverleafと提携」を扱っています。Nvidiaは、AIデータセンターがNvidiaに多額の資金をもたらすのと同じように、データセンターの開発に資金を注ぎ続けています。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "keyPoints": [
+          "この記事は「NVIDIA、データセンター開発者Cloverleafと提携」を扱っています。",
+          "Nvidiaは、AIデータセンターがNvidiaに多額の資金をもたらすのと同じように、データセンターの開発に資金を注ぎ続けています。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+        ]
+      },
+      {
         "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
         "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
         "points": 107,
@@ -26,7 +47,7 @@
         "title": "DeepSeek-v4-flash-vision-exp",
         "url": "https://api-docs.deepseek.com/guides/vision/",
         "points": 101,
-        "comments": 139,
+        "comments": 143,
         "author": "dares2573",
         "createdAt": "2026-08-21T10:33:56Z",
         "domain": "api-docs.deepseek.com",
@@ -43,31 +64,10 @@
         ]
       },
       {
-        "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
-        "url": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
-        "points": 89,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-08-21T00:13:44.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
-        "category": "AIニュース",
-        "impact": "高",
-        "titleJa": "AIトレーニングブームの中、AIデータスタートアップMicro 1の総稼働率が5億$に達する",
-        "summaryJa": "この記事は「AIトレーニングブームの中、AIデータスタートアップMicro 1の総稼働率が5億$に達する」を扱っています。AIトレーニングデータに対する需要の急増は、スタートアップとそのライバル企業の急速な成長を促進しています。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
-        "keyPoints": [
-          "この記事は「AIトレーニングブームの中、AIデータスタートアップMicro 1の総稼働率が5億$に達する」を扱っています。",
-          "AIトレーニングデータに対する需要の急増は、スタートアップとそのライバル企業の急速な成長を促進しています。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
-        ]
-      },
-      {
         "title": "Claudette: Make Claude stop talking like a BuzzFeed article",
         "url": "https://github.com/adnanakil/nobuzz/blob/main/README.md",
         "points": 73,
-        "comments": 103,
+        "comments": 144,
         "author": "aakil",
         "createdAt": "2026-08-21T14:31:52Z",
         "domain": "github.com",
@@ -84,35 +84,35 @@
         ]
       },
       {
-        "title": "Show HN: Proliferate- open-source, self-hostable Codex for any coding agent",
-        "url": "https://github.com/proliferate-ai/proliferate",
-        "points": 60,
-        "comments": 14,
-        "author": "pablo24602",
-        "createdAt": "2026-08-21T16:47:15Z",
-        "domain": "github.com",
+        "title": "Building an (almost) fully self-hosted, sandboxed, agentic software factory",
+        "url": "https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory/",
+        "points": 63,
+        "comments": 50,
+        "author": "jakelsaunders94",
+        "createdAt": "2026-08-21T16:27:52Z",
+        "domain": "blog.jakesaunders.dev",
         "sourceType": "hn",
-        "category": "開発ツール",
-        "impact": "低",
+        "category": "AIニュース",
+        "impact": "高",
         "newsLens": "技術",
-        "titleJa": "Show HN: Proliferate -任意のコーディングエージェントのためのオープンソース、自己ホスト可能なコーデックス",
-        "summaryJa": "この記事は「Show HN: Proliferate -任意のコーディングエージェントのためのオープンソース、自己ホスト可能なコーデックス」を扱っています。Proliferate （ https://github.com/proliferate-ai/proliferate ）はオープンソースの自己ホスト型AI IDEで、Claude Code、Codex、OpenCode、Cursor、Grokを1か所で使用して作業を自動化できます。Proliferateを使用してProliferateを構築する方法の簡単なデモは次のとおりです。",
+        "titleJa": "（ほぼ）完全な自己ホスト型、サンドボックス型、エージェント型ソフトウェアファクトリーの構築",
+        "summaryJa": "この記事は「（ほぼ）完全な自己ホスト型、サンドボックス型、エージェント型ソフトウェアファクトリーの構築」を扱っています。私は（ほぼ）完全にセルフホスティングされ、サンドボックス化され、エージェント的なソフトウェアファクトリーを構築しました。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
         "keyPoints": [
-          "この記事は「Show HN: Proliferate -任意のコーディングエージェントのためのオープンソース、自己ホスト可能なコーデックス」を扱っています。",
-          "Proliferate （ https://github.com/proliferate-ai/proliferate ）はオープンソースの自己ホスト型AI IDEで、Claude Code、Codex、OpenCode、Cursor、Grokを1か所で使用して作業を自動化できます。",
-          "Proliferateを使用してProliferateを構築する方法の簡単なデモは次のとおりです。"
+          "この記事は「（ほぼ）完全な自己ホスト型、サンドボックス型、エージェント型ソフトウェアファクトリーの構築」を扱っています。",
+          "私は（ほぼ）完全にセルフホスティングされ、サンドボックス化され、エージェント的なソフトウェアファクトリーを構築しました。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
       }
     ],
-    "fetchedAt": "2026-08-21T21:37:11.978Z",
+    "fetchedAt": "2026-08-22T01:49:13.170Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-08-21T21:37:11.978Z",
+    "fetchedAt": "2026-08-22T01:49:13.170Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-08-21T21:37:12.148Z"
+    "articleFetchedAt": "2026-08-22T01:49:13.307Z"
   }
 }
