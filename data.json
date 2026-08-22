@@ -2,6 +2,27 @@
   "news": {
     "items": [
       {
+        "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
+        "url": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
+        "points": 107,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-08-22T16:00:00.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
+        "category": "AIモデル",
+        "impact": "高",
+        "titleJa": "フロンティアのAIラボは、不正なモデルをどのように含んでいるかをまだ明らかにしていません",
+        "summaryJa": "この記事は「フロンティアのAIラボは、不正なモデルをどのように含んでいるかをまだ明らかにしていません」を扱っています。新しい研究によると、主要なAIラボは、不正なモデルを含むための公的に文書化された計画をほとんど持っておらず、AIシステムが予期しない潜在的に危険な行動をますます示すにつれて、準備に関する疑問を提起しています。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "keyPoints": [
+          "この記事は「フロンティアのAIラボは、不正なモデルをどのように含んでいるかをまだ明らかにしていません」を扱っています。",
+          "新しい研究によると、主要なAIラボは、不正なモデルを含むための公的に文書化された計画をほとんど持っておらず、AIシステムが予期しない潜在的に危険な行動をますます示すにつれて、準備に関する疑問を提起しています。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+        ]
+      },
+      {
         "title": "Nvidia partners with data center developer Cloverleaf",
         "url": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
         "points": 107,
@@ -19,27 +40,6 @@
         "keyPoints": [
           "この記事は「NVIDIA、データセンター開発者Cloverleafと提携」を扱っています。",
           "Nvidiaは、AIデータセンターがNvidiaに多額の資金をもたらすのと同じように、データセンターの開発に資金を注ぎ続けています。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
-        ]
-      },
-      {
-        "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
-        "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
-        "points": 107,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-08-21T19:43:39.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
-        "category": "AIモデル",
-        "impact": "高",
-        "titleJa": "NVIDIAは、AIモデルではなくハーネスが今や真のヒーローであることを示した",
-        "summaryJa": "この記事は「NVIDIAは、AIモデルではなくハーネスが今や真のヒーローであることを示した」を扱っています。Nvidiaの調査によると、AIエージェントは、たとえAIモデルがそれほど優れていなくても、微調整によって優れたパフォーマンスを発揮し、ディープエンドから離れることはないことが示されています。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
-        "keyPoints": [
-          "この記事は「NVIDIAは、AIモデルではなくハーネスが今や真のヒーローであることを示した」を扱っています。",
-          "Nvidiaの調査によると、AIエージェントは、たとえAIモデルがそれほど優れていなくても、微調整によって優れたパフォーマンスを発揮し、ディープエンドから離れることはないことが示されています。",
           "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       },
@@ -64,30 +64,10 @@
         ]
       },
       {
-        "title": "Building an (almost) fully self-hosted, sandboxed, agentic software factory",
-        "url": "https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory/",
-        "points": 68,
-        "comments": 58,
-        "author": "jakelsaunders94",
-        "createdAt": "2026-08-21T16:27:52Z",
-        "domain": "blog.jakesaunders.dev",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "（ほぼ）完全な自己ホスト型、サンドボックス型、エージェント型ソフトウェアファクトリーの構築",
-        "summaryJa": "この記事は「（ほぼ）完全な自己ホスト型、サンドボックス型、エージェント型ソフトウェアファクトリーの構築」を扱っています。私は（ほぼ）完全にセルフホスティングされ、サンドボックス化され、エージェント的なソフトウェアファクトリーを構築しました。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
-        "keyPoints": [
-          "この記事は「（ほぼ）完全な自己ホスト型、サンドボックス型、エージェント型ソフトウェアファクトリーの構築」を扱っています。",
-          "私は（ほぼ）完全にセルフホスティングされ、サンドボックス化され、エージェント的なソフトウェアファクトリーを構築しました。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
-        ]
-      },
-      {
         "title": "Quick impressions: A week of using Codex more than Claude",
         "url": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/",
-        "points": 64,
-        "comments": 103,
+        "points": 65,
+        "comments": 104,
         "author": "speckx",
         "createdAt": "2026-08-21T19:51:48Z",
         "domain": "allaboutcoding.ghinda.com",
@@ -102,17 +82,37 @@
           "Claudeは尋ねられたことを超越し、あなたが望むかもしれないことを推測します。",
           "コーデックスはあなたが言うことを実行し、実行される可能性がある最初の兆候で停止します。"
         ]
+      },
+      {
+        "title": "GPT 5.6 Sol 20% price reduction",
+        "url": "https://developers.openai.com/api/docs/models/gpt-5.6-sol",
+        "points": 62,
+        "comments": 76,
+        "author": "izakfr",
+        "createdAt": "2026-08-22T04:33:06Z",
+        "domain": "developers.openai.com",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "中",
+        "newsLens": "技術",
+        "titleJa": "GPT 5.6ソル20%値下げ",
+        "summaryJa": "この記事は「GPT 5.6ソル20%値下げ」を扱っています。developers.openai.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "keyPoints": [
+          "この記事は「GPT 5.6ソル20%値下げ」を扱っています。",
+          "developers.openai.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+        ]
       }
     ],
-    "fetchedAt": "2026-08-22T15:34:37.481Z",
+    "fetchedAt": "2026-08-22T18:47:49.313Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-08-22T15:34:37.481Z",
+    "fetchedAt": "2026-08-22T18:47:49.313Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-08-22T15:34:37.659Z"
+    "articleFetchedAt": "2026-08-22T18:47:49.445Z"
   }
 }
