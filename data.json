@@ -44,30 +44,30 @@
         ]
       },
       {
-        "title": "DeepSeek-v4-flash-vision-exp",
-        "url": "https://api-docs.deepseek.com/guides/vision/",
-        "points": 101,
-        "comments": 150,
-        "author": "dares2573",
-        "createdAt": "2026-08-21T10:33:56Z",
-        "domain": "api-docs.deepseek.com",
+        "title": "Show HN: OzBrain, a shared brain for knowledge between agents and your team",
+        "url": "https://ozbrain.com",
+        "points": 87,
+        "comments": 44,
+        "author": "dariusmonsef",
+        "createdAt": "2026-08-21T23:09:06Z",
+        "domain": "ozbrain.com",
         "sourceType": "hn",
         "category": "AIニュース",
-        "impact": "高",
+        "impact": "中",
         "newsLens": "技術",
-        "titleJa": "AIニュース: DeepSeek - v 4 - flash - vision - exp",
-        "summaryJa": "この記事は「DeepSeek - v 4 - flash - vision - exp」を扱っています。Deepseek - v 4 - flash - vision - expモデルは、テキストと一緒に画像を受け入れるため、画像の説明、スクリーンショットからのテキストの読み取り、チャートの分析などをモデルに依頼できます。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "titleJa": "HN ：エージェントとチームの間で知識を共有するOzBrain",
+        "summaryJa": "この記事は「HN ：エージェントとチームの間で知識を共有するOzBrain」を扱っています。エージェントファーストのチャットインターフェイスが主なソフトウェアモダリティになり、ビジーダッシュボード/UIがなくなると思います。正確には誰が勝ったのかわかりませんが、自分の知識を伸ばしたい/一緒に進んでいきたいと思っています。",
         "keyPoints": [
-          "この記事は「DeepSeek - v 4 - flash - vision - exp」を扱っています。",
-          "Deepseek - v 4 - flash - vision - expモデルは、テキストと一緒に画像を受け入れるため、画像の説明、スクリーンショットからのテキストの読み取り、チャートの分析などをモデルに依頼できます。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+          "この記事は「HN ：エージェントとチームの間で知識を共有するOzBrain」を扱っています。",
+          "エージェントファーストのチャットインターフェイスが主なソフトウェアモダリティになり、ビジーダッシュボード/UIがなくなると思います。",
+          "正確には誰が勝ったのかわかりませんが、自分の知識を伸ばしたい/一緒に進んでいきたいと思っています。"
         ]
       },
       {
         "title": "Claudette: Make Claude stop talking like a BuzzFeed article",
         "url": "https://github.com/adnanakil/nobuzz/blob/main/README.md",
         "points": 73,
-        "comments": 179,
+        "comments": 195,
         "author": "aakil",
         "createdAt": "2026-08-21T14:31:52Z",
         "domain": "github.com",
@@ -86,8 +86,8 @@
       {
         "title": "Building an (almost) fully self-hosted, sandboxed, agentic software factory",
         "url": "https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory/",
-        "points": 66,
-        "comments": 54,
+        "points": 68,
+        "comments": 56,
         "author": "jakelsaunders94",
         "createdAt": "2026-08-21T16:27:52Z",
         "domain": "blog.jakesaunders.dev",
@@ -104,15 +104,15 @@
         ]
       }
     ],
-    "fetchedAt": "2026-08-22T09:40:25.736Z",
+    "fetchedAt": "2026-08-22T12:59:30.744Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-08-22T09:40:25.736Z",
+    "fetchedAt": "2026-08-22T12:59:30.744Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-08-22T09:40:25.866Z"
+    "articleFetchedAt": "2026-08-22T12:59:30.873Z"
   }
 }
