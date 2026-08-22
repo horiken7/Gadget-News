@@ -2,6 +2,47 @@
   "news": {
     "items": [
       {
+        "title": "Digging the grave of my skills: Hollywood creatives training AI to do their jobs",
+        "url": "https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs",
+        "points": 127,
+        "comments": 66,
+        "author": "theanonymousone",
+        "createdAt": "2026-08-22T14:13:05Z",
+        "domain": "theguardian.com",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "低",
+        "newsLens": "技術",
+        "titleJa": "私のスキルの墓を掘る：ハリウッドのクリエイティブがAIを訓練して仕事をする",
+        "summaryJa": "この記事は「私のスキルの墓を掘る：ハリウッドのクリエイティブがAIを訓練して仕事をする」を扱っています。仕事の不振の中で、受賞歴のある作家、監督、プロデューサーが、脚本や制作などのAIスキルを教える、時には収益性の高い一時的な仕事に就く。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "keyPoints": [
+          "この記事は「私のスキルの墓を掘る：ハリウッドのクリエイティブがAIを訓練して仕事をする」を扱っています。",
+          "仕事の不振の中で、受賞歴のある作家、監督、プロデューサーが、脚本や制作などのAIスキルを教える、時には収益性の高い一時的な仕事に就く。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+        ]
+      },
+      {
+        "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
+        "url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
+        "points": 107,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-08-22T19:00:00.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
+        "category": "研究",
+        "impact": "高",
+        "titleJa": "DeepMindの卒業生によって設立されたInherentは、そのAI「チームメイト」が研究の再現でAnthropicとOpenAIを上回ったと言います",
+        "summaryJa": "この記事は「DeepMindの卒業生によって設立されたInherentは、そのAI「チームメイト」が研究の再現でAnthropicとOpenAIを上回ったと言います」を扱っています。DeepMindの卒業生によって構築された英国のAIラボInherentは、科学論文を複製する能力がイノベーションの足がかりとなる可能性のあるAIエージェントであるFaradayをリリースしました。一般向けには、AIが社会にどう受け止められ、どの分野で使われ始めているかを知る材料になります。",
+        "keyPoints": [
+          "この記事は「DeepMindの卒業生によって設立されたInherentは、そのAI「チームメイト」が研究の再現でAnthropicとOpenAIを上回ったと言います」を扱っています。",
+          "DeepMindの卒業生によって構築された英国のAIラボInherentは、科学論文を複製する能力がイノベーションの足がかりとなる可能性のあるAIエージェントであるFaradayをリリースしました。",
+          "一般向けには、AIが社会にどう受け止められ、どの分野で使われ始めているかを知る材料になります。"
+        ]
+      },
+      {
         "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
         "url": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
         "points": 107,
@@ -23,31 +64,10 @@
         ]
       },
       {
-        "title": "Nvidia partners with data center developer Cloverleaf",
-        "url": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
-        "points": 107,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-08-21T22:37:38.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
-        "category": "開発ツール",
-        "impact": "高",
-        "titleJa": "NVIDIA、データセンター開発者Cloverleafと提携",
-        "summaryJa": "この記事は「NVIDIA、データセンター開発者Cloverleafと提携」を扱っています。Nvidiaは、AIデータセンターがNvidiaに多額の資金をもたらすのと同じように、データセンターの開発に資金を注ぎ続けています。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
-        "keyPoints": [
-          "この記事は「NVIDIA、データセンター開発者Cloverleafと提携」を扱っています。",
-          "Nvidiaは、AIデータセンターがNvidiaに多額の資金をもたらすのと同じように、データセンターの開発に資金を注ぎ続けています。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
-        ]
-      },
-      {
         "title": "Show HN: OzBrain, a shared brain for knowledge between agents and your team",
         "url": "https://ozbrain.com",
-        "points": 87,
-        "comments": 45,
+        "points": 88,
+        "comments": 46,
         "author": "dariusmonsef",
         "createdAt": "2026-08-21T23:09:06Z",
         "domain": "ozbrain.com",
@@ -64,55 +84,35 @@
         ]
       },
       {
-        "title": "Quick impressions: A week of using Codex more than Claude",
-        "url": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/",
-        "points": 65,
-        "comments": 104,
-        "author": "speckx",
-        "createdAt": "2026-08-21T19:51:48Z",
-        "domain": "allaboutcoding.ghinda.com",
+        "title": "Why your local LLM feels dumber than it is",
+        "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+        "points": 81,
+        "comments": 15,
+        "author": "felineflock",
+        "createdAt": "2026-08-22T18:14:16Z",
+        "domain": "forum.level1techs.com",
         "sourceType": "hn",
         "category": "AIモデル",
-        "impact": "高",
+        "impact": "低",
         "newsLens": "技術",
-        "titleJa": "クイックインプレッション：Claudeよりもコーデックスを使用した1週間",
-        "summaryJa": "この記事は「クイックインプレッション：Claudeよりもコーデックスを使用した1週間」を扱っています。Claudeは尋ねられたことを超越し、あなたが望むかもしれないことを推測します。コーデックスはあなたが言うことを実行し、実行される可能性がある最初の兆候で停止します。",
+        "titleJa": "地元のLLMがなぜ今よりも愚かに感じるのか",
+        "summaryJa": "この記事は「地元のLLMがなぜ今よりも愚かに感じるのか」を扱っています。クイックイントロダクションフォーラム、チャット、Reddit、Discord、YouTubeなどで「ああ！zomgwtfbbq」であり、それをダウンロードし（またはより可能性が高い、それのいくつかの量子化された形式）、「eww…。",
         "keyPoints": [
-          "この記事は「クイックインプレッション：Claudeよりもコーデックスを使用した1週間」を扱っています。",
-          "Claudeは尋ねられたことを超越し、あなたが望むかもしれないことを推測します。",
-          "コーデックスはあなたが言うことを実行し、実行される可能性がある最初の兆候で停止します。"
-        ]
-      },
-      {
-        "title": "GPT 5.6 Sol 20% price reduction",
-        "url": "https://developers.openai.com/api/docs/models/gpt-5.6-sol",
-        "points": 62,
-        "comments": 76,
-        "author": "izakfr",
-        "createdAt": "2026-08-22T04:33:06Z",
-        "domain": "developers.openai.com",
-        "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "中",
-        "newsLens": "技術",
-        "titleJa": "GPT 5.6ソル20%値下げ",
-        "summaryJa": "この記事は「GPT 5.6ソル20%値下げ」を扱っています。developers.openai.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
-        "keyPoints": [
-          "この記事は「GPT 5.6ソル20%値下げ」を扱っています。",
-          "developers.openai.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+          "この記事は「地元のLLMがなぜ今よりも愚かに感じるのか」を扱っています。",
+          "クイックイントロダクションフォーラム、チャット、Reddit、Discord、YouTubeなどで「ああ。",
+          "zomgwtfbbq」であり、それをダウンロードし（またはより可能性が高い、それのいくつかの量子化された形式）、「eww…。"
         ]
       }
     ],
-    "fetchedAt": "2026-08-22T18:47:49.313Z",
+    "fetchedAt": "2026-08-22T21:34:45.814Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-08-22T18:47:49.313Z",
+    "fetchedAt": "2026-08-22T21:34:45.814Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-08-22T18:47:49.445Z"
+    "articleFetchedAt": "2026-08-22T21:34:45.920Z"
   }
 }
