@@ -2,24 +2,24 @@
   "news": {
     "items": [
       {
-        "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
-        "url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
+        "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
+        "url": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
         "points": 107,
         "comments": 0,
         "author": "",
-        "createdAt": "2026-08-22T19:00:00.000Z",
+        "createdAt": "2026-08-23T20:01:36.000Z",
         "domain": "techcrunch.com",
         "sourceType": "rss",
         "sourceLabel": "TechCrunch AI",
         "newsLens": "一般",
-        "category": "研究",
+        "category": "AIモデル",
         "impact": "高",
-        "titleJa": "DeepMindの卒業生によって設立されたInherentは、そのAI「チームメイト」が研究の再現でAnthropicとOpenAIを上回ったと言います",
-        "summaryJa": "この記事は「DeepMindの卒業生によって設立されたInherentは、そのAI「チームメイト」が研究の再現でAnthropicとOpenAIを上回ったと言います」を扱っています。DeepMindの卒業生によって構築された英国のAIラボInherentは、科学論文を複製する能力がイノベーションの足がかりとなる可能性のあるAIエージェントであるFaradayをリリースしました。一般向けには、AIが社会にどう受け止められ、どの分野で使われ始めているかを知る材料になります。",
+        "titleJa": "新しい「ステルスモデル」オックス・アルファの背後にいるのは誰だ？",
+        "summaryJa": "この記事は「新しい「ステルスモデル」オックス・アルファの背後にいるのは誰だ？」を扱っています。Ox Alphaと呼ばれる謎めいた新しいAIモデルは、インターネットの特定のコーナーを熱狂的な憶測に駆り立てました。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
-          "この記事は「DeepMindの卒業生によって設立されたInherentは、そのAI「チームメイト」が研究の再現でAnthropicとOpenAIを上回ったと言います」を扱っています。",
-          "DeepMindの卒業生によって構築された英国のAIラボInherentは、科学論文を複製する能力がイノベーションの足がかりとなる可能性のあるAIエージェントであるFaradayをリリースしました。",
-          "一般向けには、AIが社会にどう受け止められ、どの分野で使われ始めているかを知る材料になります。"
+          "この記事は「新しい「ステルスモデル」オックス・アルファの背後にいるのは誰だ。",
+          "Ox Alphaと呼ばれる謎めいた新しいAIモデルは、インターネットの特定のコーナーを熱狂的な憶測に駆り立てました。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       },
       {
@@ -43,24 +43,24 @@
         ]
       },
       {
-        "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
-        "url": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
+        "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
+        "url": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
         "points": 79,
         "comments": 0,
         "author": "",
-        "createdAt": "2026-08-23T15:00:00.000Z",
+        "createdAt": "2026-08-23T19:14:08.000Z",
         "domain": "techcrunch.com",
         "sourceType": "rss",
         "sourceLabel": "TechCrunch AI",
         "newsLens": "一般",
-        "category": "AIモデル",
+        "category": "AIニュース",
         "impact": "中",
-        "titleJa": "AIモデルを著作権で保護された書籍でトレーニングすることは合法ですか？複雑です",
-        "summaryJa": "この記事は「AIモデルを著作権で保護された書籍でトレーニングすることは合法ですか？複雑です」を扱っています。ほとんどの出版された著者は、彼らの知識や同意なしに、彼らの生活を損なう恐れのある同じAIツールの開発に貢献してきました。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "titleJa": "Linkdazeのスマートカレンダーは、スケジュールを追跡するだけでなく、世帯を運営するために構築されています",
+        "summaryJa": "この記事は「Linkdazeのスマートカレンダーは、スケジュールを追跡するだけでなく、世帯を運営するために構築されています」を扱っています。Linkdazeのスマートデジタルカレンダーは、AIミールプランナーツールを含むペイウォールの背後にその機能を置かないことで際立っています。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
-          "この記事は「AIモデルを著作権で保護された書籍でトレーニングすることは合法ですか。",
-          "複雑です」を扱っています。",
-          "ほとんどの出版された著者は、彼らの知識や同意なしに、彼らの生活を損なう恐れのある同じAIツールの開発に貢献してきました。"
+          "この記事は「Linkdazeのスマートカレンダーは、スケジュールを追跡するだけでなく、世帯を運営するために構築されています」を扱っています。",
+          "Linkdazeのスマートデジタルカレンダーは、AIミールプランナーツールを含むペイウォールの背後にその機能を置かないことで際立っています。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       },
       {
@@ -104,15 +104,15 @@
         ]
       }
     ],
-    "fetchedAt": "2026-08-23T18:47:26.199Z",
+    "fetchedAt": "2026-08-23T21:34:24.698Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-08-23T18:47:26.199Z",
+    "fetchedAt": "2026-08-23T21:34:24.698Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-08-23T18:47:26.307Z"
+    "articleFetchedAt": "2026-08-23T21:34:24.844Z"
   }
 }
