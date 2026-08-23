@@ -47,7 +47,7 @@
         "title": "Why your local LLM feels dumber than it is",
         "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
         "points": 101,
-        "comments": 71,
+        "comments": 94,
         "author": "felineflock",
         "createdAt": "2026-08-22T18:14:16Z",
         "domain": "forum.level1techs.com",
@@ -64,31 +64,10 @@
         ]
       },
       {
-        "title": "Un tercio de las páginas web publicadas desde el lanzamiento de ChatGPT tienen rastros de autoría IA , según Pew Research",
-        "url": "https://wwwhatsnew.com/2026/08/22/pew-research-tercio-paginas-web-autoria-ia-post-chatgpt-2026/",
-        "points": 81,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-08-23T03:30:00Z",
-        "domain": "wwwhatsnew.com",
-        "sourceType": "gdelt",
-        "sourceLabel": "GDELT",
-        "category": "AIモデル",
-        "impact": "中",
-        "newsLens": "技術",
-        "titleJa": "AIニュース: Un tercio de las páginas web publicadas desde el lanzamiento de ChatGPT tienen rastros de autoría IA, según Pew Research",
-        "summaryJa": "この記事は「Un tercio de las páginas web publicadas desde el lanzamiento de ChatGPT tienen rastros de autoría IA, según Pew Research」を扱っています。wwwhatsnew.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
-        "keyPoints": [
-          "この記事は「Un tercio de las páginas web publicadas desde el lanzamiento de ChatGPT tienen rastros de autoría IA, según Pew Research」を扱っています。",
-          "wwwhatsnew.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
-        ]
-      },
-      {
         "title": "Anthropic appears to be A/B testing reduced effort levels in Claude Code",
         "url": "https://twitter.com/argofowl/status/2091150597374537729",
         "points": 73,
-        "comments": 160,
+        "comments": 167,
         "author": "matthieu_bl",
         "createdAt": "2026-08-22T16:58:49Z",
         "domain": "twitter.com",
@@ -103,17 +82,37 @@
           "twitter.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
           "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
+      },
+      {
+        "title": "Show HN: Make your logo extra bright on HDR screens",
+        "url": "https://www.soverybright.com/",
+        "points": 55,
+        "comments": 69,
+        "author": "telecuda",
+        "createdAt": "2026-08-22T18:43:03Z",
+        "domain": "soverybright.com",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "低",
+        "newsLens": "技術",
+        "titleJa": "HNを表示： HDR画面でロゴを明るくする",
+        "summaryJa": "この記事は「HNを表示： HDR画面でロゴを明るくする」を扱っています。特定のロゴは、周囲のすべてのものよりも明るく/白く、LinkedInで私の注目を集め始めました。これは、新しいMacBook ProのようなHDR画面でのみ表示される既存のJPEGにゲインマップを追加することで達成できることがわかりました。",
+        "keyPoints": [
+          "この記事は「HNを表示： HDR画面でロゴを明るくする」を扱っています。",
+          "特定のロゴは、周囲のすべてのものよりも明るく/白く、LinkedInで私の注目を集め始めました。",
+          "これは、新しいMacBook ProのようなHDR画面でのみ表示される既存のJPEGにゲインマップを追加することで達成できることがわかりました。"
+        ]
       }
     ],
-    "fetchedAt": "2026-08-23T03:59:05.355Z",
+    "fetchedAt": "2026-08-23T06:59:34.892Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-08-23T03:59:05.355Z",
+    "fetchedAt": "2026-08-23T06:59:34.892Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-08-23T03:59:05.459Z"
+    "articleFetchedAt": "2026-08-23T06:59:35.033Z"
   }
 }
