@@ -47,7 +47,7 @@
         "title": "Why your local LLM feels dumber than it is",
         "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
         "points": 101,
-        "comments": 122,
+        "comments": 152,
         "author": "felineflock",
         "createdAt": "2026-08-22T18:14:16Z",
         "domain": "forum.level1techs.com",
@@ -64,57 +64,55 @@
         ]
       },
       {
-        "title": "AI Rewrites India IT Services Contract Model",
-        "url": "https://sentinel.ht/india-it-services-outcome-based-contracts-ai/",
-        "points": 81,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-08-23T09:00:00Z",
-        "domain": "sentinel.ht",
-        "sourceType": "gdelt",
-        "sourceLabel": "GDELT",
+        "title": "Anthropic appears to be A/B testing reduced effort levels in Claude Code",
+        "url": "https://twitter.com/argofowl/status/2091150597374537729",
+        "points": 73,
+        "comments": 174,
+        "author": "matthieu_bl",
+        "createdAt": "2026-08-22T16:58:49Z",
+        "domain": "twitter.com",
+        "sourceType": "hn",
         "category": "AIモデル",
-        "impact": "中",
+        "impact": "高",
         "newsLens": "技術",
-        "titleJa": "AIがインドのITサービス契約モデルを書き換える",
-        "summaryJa": "この記事は「AIがインドのITサービス契約モデルを書き換える」を扱っています。AIが顧客がより少ないコストでより多くを要求できるようになるにつれて、インドのIT企業は結果ベースの契約に移行しています。Nifty ITインデックスは、今年730億$を下げました。",
+        "titleJa": "Claudeコードでは、AnthropicはA/Bテストによって労力レベルが低下しているようです",
+        "summaryJa": "この記事は「Claudeコードでは、AnthropicはA/Bテストによって労力レベルが低下しているようです」を扱っています。twitter.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
         "keyPoints": [
-          "この記事は「AIがインドのITサービス契約モデルを書き換える」を扱っています。",
-          "AIが顧客がより少ないコストでより多くを要求できるようになるにつれて、インドのIT企業は結果ベースの契約に移行しています。",
-          "Nifty ITインデックスは、今年730億$を下げました。"
+          "この記事は「Claudeコードでは、AnthropicはA/Bテストによって労力レベルが低下しているようです」を扱っています。",
+          "twitter.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
       },
       {
-        "title": "Zenity Raises $125M to Secure Enterprise AI Agents",
-        "url": "https://sentinel.ht/zenity-125-million-ai-agent-security/",
-        "points": 81,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-08-23T09:00:00Z",
-        "domain": "sentinel.ht",
-        "sourceType": "gdelt",
-        "sourceLabel": "GDELT",
+        "title": "Show HN: Make your logo extra bright on HDR screens",
+        "url": "https://www.soverybright.com/",
+        "points": 57,
+        "comments": 81,
+        "author": "telecuda",
+        "createdAt": "2026-08-22T18:43:03Z",
+        "domain": "soverybright.com",
+        "sourceType": "hn",
         "category": "AIニュース",
         "impact": "中",
         "newsLens": "技術",
-        "titleJa": "Zenity、エンタープライズAIエージェントを保護するために1億2500万$を調達",
-        "summaryJa": "この記事は「Zenity、エンタープライズAIエージェントを保護するために1億2500万$を調達」を扱っています。Zenityは、Norwestが主導する1億2500万$のシリーズCを調達し、現在企業の電子メール、データ、コードに触れる自律型AIエージェントを保護して管理しています。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "titleJa": "HNを表示： HDR画面でロゴを明るくする",
+        "summaryJa": "この記事は「HNを表示： HDR画面でロゴを明るくする」を扱っています。特定のロゴは、周囲のすべてのものよりも明るく/白く、LinkedInで私の注目を集め始めました。これは、新しいMacBook ProのようなHDR画面でのみ表示される既存のJPEGにゲインマップを追加することで達成できることがわかりました。",
         "keyPoints": [
-          "この記事は「Zenity、エンタープライズAIエージェントを保護するために1億2500万$を調達」を扱っています。",
-          "Zenityは、Norwestが主導する1億2500万$のシリーズCを調達し、現在企業の電子メール、データ、コードに触れる自律型AIエージェントを保護して管理しています。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+          "この記事は「HNを表示： HDR画面でロゴを明るくする」を扱っています。",
+          "特定のロゴは、周囲のすべてのものよりも明るく/白く、LinkedInで私の注目を集め始めました。",
+          "これは、新しいMacBook ProのようなHDR画面でのみ表示される既存のJPEGにゲインマップを追加することで達成できることがわかりました。"
         ]
       }
     ],
-    "fetchedAt": "2026-08-23T09:41:40.502Z",
+    "fetchedAt": "2026-08-23T13:01:06.140Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-08-23T09:41:40.502Z",
+    "fetchedAt": "2026-08-23T13:01:06.140Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-08-23T09:41:40.628Z"
+    "articleFetchedAt": "2026-08-23T13:01:06.278Z"
   }
 }
