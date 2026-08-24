@@ -2,6 +2,27 @@
   "news": {
     "items": [
       {
+        "title": "Instinct’s powerful AI assistant is raising privacy and security concerns",
+        "url": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/",
+        "points": 133,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-08-24T18:03:55.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
+        "category": "AIニュース",
+        "impact": "高",
+        "titleJa": "Instinctの強力なAIアシスタントは、プライバシーとセキュリティの懸念を提起しています",
+        "summaryJa": "この記事は「Instinctの強力なAIアシスタントは、プライバシーとセキュリティの懸念を提起しています」を扱っています。初期のテスターは、Instinctに何ができるかについて熱狂していますが、AIアシスタントの広範なアクセス、幅広い条件、ユーザーに代わって行動する能力には、不快なトレードオフが伴うと言う人もいます。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "keyPoints": [
+          "この記事は「Instinctの強力なAIアシスタントは、プライバシーとセキュリティの懸念を提起しています」を扱っています。",
+          "初期のテスターは、Instinctに何ができるかについて熱狂していますが、AIアシスタントの広範なアクセス、幅広い条件、ユーザーに代わって行動する能力には、不快なトレードオフが伴うと言う人もいます。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+        ]
+      },
+      {
         "title": "OpenAI is building AI agents for everything. Will everyone use them?",
         "url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
         "points": 107,
@@ -23,91 +44,67 @@
         ]
       },
       {
-        "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
-        "url": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
-        "points": 107,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-08-23T20:01:36.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
+        "title": "Coding expertise is going to collapse from AI reliance",
+        "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
+        "points": 101,
+        "comments": 280,
+        "author": "larsfaye",
+        "createdAt": "2026-08-24T15:52:33Z",
+        "domain": "larsfaye.com",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "コーディングの専門知識は、AIへの依存から崩壊しようとしています",
+        "summaryJa": "この記事は「コーディングの専門知識は、AIへの依存から崩壊しようとしています」を扱っています。長期的なスキル形成における継続的な摩擦の必要性。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "keyPoints": [
+          "この記事は「コーディングの専門知識は、AIへの依存から崩壊しようとしています」を扱っています。",
+          "長期的なスキル形成における継続的な摩擦の必要性。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+        ]
+      },
+      {
+        "title": "OCR It – pull text out of un-copyable documents for your LLM",
+        "url": "https://github.com/thiagotigaz/ocr-it",
+        "points": 96,
+        "comments": 26,
+        "author": "thiagolima",
+        "createdAt": "2026-08-24T06:25:31Z",
+        "domain": "github.com",
+        "sourceType": "hn",
         "category": "AIモデル",
         "impact": "高",
-        "titleJa": "新しい「ステルスモデル」オックス・アルファの背後にいるのは誰だ？",
-        "summaryJa": "この記事は「新しい「ステルスモデル」オックス・アルファの背後にいるのは誰だ？」を扱っています。Ox Alphaと呼ばれる謎めいた新しいAIモデルは、インターネットの特定のコーナーを熱狂的な憶測に駆り立てました。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "newsLens": "技術",
+        "titleJa": "OCR It – LLMのコピー不可能な文書からテキストを引き出す",
+        "summaryJa": "この記事は「OCR It – LLMのコピー不可能な文書からテキストを引き出す」を扱っています。Chrome拡張機能：画面領域を1回ピン留めしてから、ページ付けされたドキュメントをホットキーで操作します。OCRは、バンドルされたTesseractを介して100 ％オフラインで実行されます。",
         "keyPoints": [
-          "この記事は「新しい「ステルスモデル」オックス・アルファの背後にいるのは誰だ。",
-          "Ox Alphaと呼ばれる謎めいた新しいAIモデルは、インターネットの特定のコーナーを熱狂的な憶測に駆り立てました。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+          "この記事は「OCR It – LLMのコピー不可能な文書からテキストを引き出す」を扱っています。",
+          "Chrome拡張機能：画面領域を1回ピン留めしてから、ページ付けされたドキュメントをホットキーで操作します。",
+          "OCRは、バンドルされたTesseractを介して100 ％オフラインで実行されます。"
         ]
       },
       {
-        "title": "OpenAI lowers developer pricing for GPT - 5 . 6 Sol model",
-        "url": "http://www.stlouisstar.com/news/279258533/openai-lowers-developer-pricing-for-gpt-5-6-sol-model",
-        "points": 81,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-08-24T15:30:00Z",
-        "domain": "stlouisstar.com",
-        "sourceType": "gdelt",
-        "sourceLabel": "GDELT",
-        "category": "AIモデル",
-        "impact": "中",
+        "title": "Ask HN: Why do corporate failures always seem to punish the wrong people?",
+        "url": "https://news.ycombinator.com/item?id=49418675",
+        "points": 89,
+        "comments": 106,
+        "author": "mittermayr",
+        "createdAt": "2026-08-24T12:18:56Z",
+        "domain": "news.ycombinator.com",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "高",
         "newsLens": "技術",
-        "titleJa": "OpenAIがGPTの開発者価格を引き下げる- 5. 6 SOLモデル",
-        "summaryJa": "この記事は「OpenAIがGPTの開発者価格を引き下げる- 5. 6 SOLモデル」を扱っています。OpenAIは、GPT-5.6 SOLモデルの開発者価格を引き下げ、アプリケーションプログラミングインターフェイスに新しい料金が適用され、他のAI製品の一部には対象となるプランが適用される。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "titleJa": "HNに尋ねる：なぜ企業の失敗は常に間違った人々を罰するように見えるのですか？",
+        "summaryJa": "この記事は「HNに尋ねる：なぜ企業の失敗は常に間違った人々を罰するように見えるのですか？」を扱っています。私のパートナーは、ビッグ5の1つのために疲れ知らずに働いて15年後に解雇されました。彼女はおそらく、過去10年間にこの部分のビジネスを生き残り、戦い抜いた中で最も回復力があり、報われ、好かれてきた人物です。",
         "keyPoints": [
-          "この記事は「OpenAIがGPTの開発者価格を引き下げる- 5. 6 SOLモデル」を扱っています。",
-          "OpenAIは、GPT-5.6 SOLモデルの開発者価格を引き下げ、アプリケーションプログラミングインターフェイスに新しい料金が適用され、他のAI製品の一部には対象となるプランが適用される。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
-        ]
-      },
-      {
-        "title": "OpenAI lowers developer pricing for GPT - 5 . 6 Sol model",
-        "url": "http://www.tennesseedaily.com/news/279258533/openai-lowers-developer-pricing-for-gpt-5-6-sol-model",
-        "points": 81,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-08-24T15:30:00Z",
-        "domain": "tennesseedaily.com",
-        "sourceType": "gdelt",
-        "sourceLabel": "GDELT",
-        "category": "AIモデル",
-        "impact": "中",
-        "newsLens": "技術",
-        "titleJa": "OpenAIがGPTの開発者価格を引き下げる- 5. 6 SOLモデル",
-        "summaryJa": "この記事は「OpenAIがGPTの開発者価格を引き下げる- 5. 6 SOLモデル」を扱っています。OpenAIは、GPT-5.6 SOLモデルの開発者価格を引き下げ、アプリケーションプログラミングインターフェイスに新しい料金が適用され、他のAI製品の一部には対象となるプランが適用される。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
-        "keyPoints": [
-          "この記事は「OpenAIがGPTの開発者価格を引き下げる- 5. 6 SOLモデル」を扱っています。",
-          "OpenAIは、GPT-5.6 SOLモデルの開発者価格を引き下げ、アプリケーションプログラミングインターフェイスに新しい料金が適用され、他のAI製品の一部には対象となるプランが適用される。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
-        ]
-      },
-      {
-        "title": "OpenAI lowers developer pricing for GPT - 5 . 6 Sol model",
-        "url": "http://www.jamaicantimes.com/news/279258533/openai-lowers-developer-pricing-for-gpt-5-6-sol-model",
-        "points": 81,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-08-24T15:30:00Z",
-        "domain": "jamaicantimes.com",
-        "sourceType": "gdelt",
-        "sourceLabel": "GDELT",
-        "category": "AIモデル",
-        "impact": "中",
-        "newsLens": "技術",
-        "titleJa": "OpenAIがGPTの開発者価格を引き下げる- 5. 6 SOLモデル",
-        "summaryJa": "この記事は「OpenAIがGPTの開発者価格を引き下げる- 5. 6 SOLモデル」を扱っています。OpenAIは、GPT-5.6 SOLモデルの開発者価格を引き下げ、アプリケーションプログラミングインターフェイスに新しい料金が適用され、他のAI製品の一部には対象となるプランが適用される。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
-        "keyPoints": [
-          "この記事は「OpenAIがGPTの開発者価格を引き下げる- 5. 6 SOLモデル」を扱っています。",
-          "OpenAIは、GPT-5.6 SOLモデルの開発者価格を引き下げ、アプリケーションプログラミングインターフェイスに新しい料金が適用され、他のAI製品の一部には対象となるプランが適用される。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+          "この記事は「HNに尋ねる：なぜ企業の失敗は常に間違った人々を罰するように見えるのですか。",
+          "私のパートナーは、ビッグ5の1つのために疲れ知らずに働いて15年後に解雇されました。",
+          "彼女はおそらく、過去10年間にこの部分のビジネスを生き残り、戦い抜いた中で最も回復力があり、報われ、好かれてきた人物です。"
         ]
       }
     ],
-    "fetchedAt": "2026-08-24T15:55:13.404Z",
+    "fetchedAt": "2026-08-24T18:58:22.826Z",
     "mock": false
   },
   "xTrends": {
@@ -119,7 +116,7 @@
         "appearances": 4,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-08-24T15:55:13.273Z",
+        "observedAt": "2026-08-24T18:58:22.712Z",
         "url": "https://x.com/search?q=Perplexity&src=typed_query&f=live",
         "articleTitle": "Perplexity's free AI offer left it with millions more users in India",
         "articleTitleJa": "Perplexityの無料AIオファーは、インドでさらに数百万人のユーザーを獲得しました",
@@ -130,10 +127,10 @@
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-08-24T15:55:13.403Z",
+    "fetchedAt": "2026-08-24T18:58:22.826Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-08-24T15:55:15.922Z"
+    "articleFetchedAt": "2026-08-24T18:58:25.212Z"
   }
 }
