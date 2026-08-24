@@ -15,10 +15,10 @@
         "category": "AIニュース",
         "impact": "高",
         "titleJa": "Instinctの強力なAIアシスタントは、プライバシーとセキュリティの懸念を提起しています",
-        "summaryJa": "この記事は「Instinctの強力なAIアシスタントは、プライバシーとセキュリティの懸念を提起しています」を扱っています。初期のテスターは、Instinctに何ができるかについて熱狂していますが、AIアシスタントの広範なアクセス、幅広い条件、ユーザーに代わって行動する能力には、不快なトレードオフが伴うと言う人もいます。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "summaryJa": "この記事は「Instinctの強力なAIアシスタントは、プライバシーとセキュリティの懸念を提起しています」を扱っています。初期のテスターは、Instinctに何ができるかについて大いに期待しているが、AIアシスタントの幅広いアクセス、幅広い条件、ユーザーに代わって行動する能力には、不快なトレードオフが伴うと言う人もいる。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
           "この記事は「Instinctの強力なAIアシスタントは、プライバシーとセキュリティの懸念を提起しています」を扱っています。",
-          "初期のテスターは、Instinctに何ができるかについて熱狂していますが、AIアシスタントの広範なアクセス、幅広い条件、ユーザーに代わって行動する能力には、不快なトレードオフが伴うと言う人もいます。",
+          "初期のテスターは、Instinctに何ができるかについて大いに期待しているが、AIアシスタントの幅広いアクセス、幅広い条件、ユーザーに代わって行動する能力には、不快なトレードオフが伴うと言う人もいる。",
           "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       },
@@ -44,29 +44,9 @@
         ]
       },
       {
-        "title": "Coding expertise is going to collapse from AI reliance",
-        "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
-        "points": 101,
-        "comments": 280,
-        "author": "larsfaye",
-        "createdAt": "2026-08-24T15:52:33Z",
-        "domain": "larsfaye.com",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "コーディングの専門知識は、AIへの依存から崩壊しようとしています",
-        "summaryJa": "この記事は「コーディングの専門知識は、AIへの依存から崩壊しようとしています」を扱っています。長期的なスキル形成における継続的な摩擦の必要性。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
-        "keyPoints": [
-          "この記事は「コーディングの専門知識は、AIへの依存から崩壊しようとしています」を扱っています。",
-          "長期的なスキル形成における継続的な摩擦の必要性。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
-        ]
-      },
-      {
         "title": "OCR It – pull text out of un-copyable documents for your LLM",
         "url": "https://github.com/thiagotigaz/ocr-it",
-        "points": 96,
+        "points": 98,
         "comments": 26,
         "author": "thiagolima",
         "createdAt": "2026-08-24T06:25:31Z",
@@ -87,7 +67,7 @@
         "title": "Ask HN: Why do corporate failures always seem to punish the wrong people?",
         "url": "https://news.ycombinator.com/item?id=49418675",
         "points": 89,
-        "comments": 106,
+        "comments": 109,
         "author": "mittermayr",
         "createdAt": "2026-08-24T12:18:56Z",
         "domain": "news.ycombinator.com",
@@ -102,9 +82,29 @@
           "私のパートナーは、ビッグ5の1つのために疲れ知らずに働いて15年後に解雇されました。",
           "彼女はおそらく、過去10年間にこの部分のビジネスを生き残り、戦い抜いた中で最も回復力があり、報われ、好かれてきた人物です。"
         ]
+      },
+      {
+        "title": "Anthropic Claude and API service outages",
+        "url": "https://status.claude.com/uptime",
+        "points": 88,
+        "comments": 60,
+        "author": "vikrantrathore",
+        "createdAt": "2026-08-24T06:32:28Z",
+        "domain": "status.claude.com",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "中",
+        "newsLens": "技術",
+        "titleJa": "Anthropic ClaudeとAPIサービスの停止",
+        "summaryJa": "この記事は「Anthropic ClaudeとAPIサービスの停止」を扱っています。status.claude.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "keyPoints": [
+          "この記事は「Anthropic ClaudeとAPIサービスの停止」を扱っています。",
+          "status.claude.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+        ]
       }
     ],
-    "fetchedAt": "2026-08-24T18:58:22.826Z",
+    "fetchedAt": "2026-08-24T21:42:46.608Z",
     "mock": false
   },
   "xTrends": {
@@ -116,7 +116,7 @@
         "appearances": 4,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-08-24T18:58:22.712Z",
+        "observedAt": "2026-08-24T21:42:46.397Z",
         "url": "https://x.com/search?q=Perplexity&src=typed_query&f=live",
         "articleTitle": "Perplexity's free AI offer left it with millions more users in India",
         "articleTitleJa": "Perplexityの無料AIオファーは、インドでさらに数百万人のユーザーを獲得しました",
@@ -127,10 +127,10 @@
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-08-24T18:58:22.826Z",
+    "fetchedAt": "2026-08-24T21:42:46.608Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-08-24T18:58:25.212Z"
+    "articleFetchedAt": "2026-08-24T21:42:49.136Z"
   }
 }
