@@ -2,6 +2,27 @@
   "news": {
     "items": [
       {
+        "title": "OpenAI is building AI agents for everything. Will everyone use them?",
+        "url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
+        "points": 107,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-08-24T15:00:00.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
+        "category": "AIニュース",
+        "impact": "高",
+        "titleJa": "OpenAIはすべてのAIエージェントを構築しています。みんな使ってくれるんですか？",
+        "summaryJa": "この記事は「OpenAIはすべてのAIエージェントを構築しています。みんな使ってくれるんですか？」を扱っています。ソフトウェアエンジニアから大衆にAIエージェントをもたらすためのフロンティアラボのプッシュの内部。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "keyPoints": [
+          "この記事は「OpenAIはすべてのAIエージェントを構築しています。",
+          "みんな使ってくれるんですか。",
+          "ソフトウェアエンジニアから大衆にAIエージェントをもたらすためのフロンティアラボのプッシュの内部。"
+        ]
+      },
+      {
         "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
         "url": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
         "points": 107,
@@ -23,88 +44,70 @@
         ]
       },
       {
-        "title": "Daimon – Local Privacy LLM",
-        "url": "https://github.com/ar0per0/Daimon",
-        "points": 96,
-        "comments": 0,
-        "author": "minirope",
-        "createdAt": "2026-08-23T13:26:02Z",
-        "domain": "github.com",
-        "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "低",
-        "newsLens": "技術",
-        "titleJa": "Daimon –ローカルプライバシーLLM",
-        "summaryJa": "この記事は「Daimon –ローカルプライバシーLLM」を扱っています。github.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
-        "keyPoints": [
-          "この記事は「Daimon –ローカルプライバシーLLM」を扱っています。",
-          "github.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
-        ]
-      },
-      {
-        "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
-        "url": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
-        "points": 79,
+        "title": "OpenAI lowers developer pricing for GPT - 5 . 6 Sol model",
+        "url": "http://www.stlouisstar.com/news/279258533/openai-lowers-developer-pricing-for-gpt-5-6-sol-model",
+        "points": 81,
         "comments": 0,
         "author": "",
-        "createdAt": "2026-08-23T19:14:08.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
-        "category": "AIニュース",
-        "impact": "中",
-        "titleJa": "Linkdazeのスマートカレンダーは、スケジュールを追跡するだけでなく、世帯を運営するために構築されています",
-        "summaryJa": "この記事は「Linkdazeのスマートカレンダーは、スケジュールを追跡するだけでなく、世帯を運営するために構築されています」を扱っています。Linkdazeのスマートデジタルカレンダーは、AIミールプランナーツールを含むペイウォールの背後にその機能を置かないことで際立っています。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
-        "keyPoints": [
-          "この記事は「Linkdazeのスマートカレンダーは、スケジュールを追跡するだけでなく、世帯を運営するために構築されています」を扱っています。",
-          "Linkdazeのスマートデジタルカレンダーは、AIミールプランナーツールを含むペイウォールの背後にその機能を置かないことで際立っています。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
-        ]
-      },
-      {
-        "title": "I Shouldn't Need an LLM to Explain My LLM",
-        "url": "https://daviesgeek.com/I-Shouldn%E2%80%99t-Need-an-LLM-to-Explain-My-LLM",
-        "points": 70,
-        "comments": 0,
-        "author": "daviesgeek",
-        "createdAt": "2026-08-23T14:47:50Z",
-        "domain": "daviesgeek.com",
-        "sourceType": "hn",
+        "createdAt": "2026-08-24T15:30:00Z",
+        "domain": "stlouisstar.com",
+        "sourceType": "gdelt",
+        "sourceLabel": "GDELT",
         "category": "AIモデル",
-        "impact": "低",
+        "impact": "中",
         "newsLens": "技術",
-        "titleJa": "自分のLLMを説明するためにLLMを必要としない",
-        "summaryJa": "この記事は「自分のLLMを説明するためにLLMを必要としない」を扱っています。私は最近、プロジェクトのためにOpusを頻繁に使用しており、奇妙なアナロジー、わかりにくい専門用語、奇妙なフレーズに到達することに深刻な問題を抱えています。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "titleJa": "OpenAIがGPTの開発者価格を引き下げる- 5. 6 SOLモデル",
+        "summaryJa": "この記事は「OpenAIがGPTの開発者価格を引き下げる- 5. 6 SOLモデル」を扱っています。OpenAIは、GPT-5.6 SOLモデルの開発者価格を引き下げ、アプリケーションプログラミングインターフェイスに新しい料金が適用され、他のAI製品の一部には対象となるプランが適用される。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
         "keyPoints": [
-          "この記事は「自分のLLMを説明するためにLLMを必要としない」を扱っています。",
-          "私は最近、プロジェクトのためにOpusを頻繁に使用しており、奇妙なアナロジー、わかりにくい専門用語、奇妙なフレーズに到達することに深刻な問題を抱えています。",
+          "この記事は「OpenAIがGPTの開発者価格を引き下げる- 5. 6 SOLモデル」を扱っています。",
+          "OpenAIは、GPT-5.6 SOLモデルの開発者価格を引き下げ、アプリケーションプログラミングインターフェイスに新しい料金が適用され、他のAI製品の一部には対象となるプランが適用される。",
           "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
       },
       {
-        "title": "OpenAI leader warns of threat of 'persistent' AI cyber-attacks",
-        "url": "https://www.theguardian.com/technology/2026/aug/23/openai-cyber-attacks-threat-chris-lehane",
-        "points": 62,
+        "title": "OpenAI lowers developer pricing for GPT - 5 . 6 Sol model",
+        "url": "http://www.tennesseedaily.com/news/279258533/openai-lowers-developer-pricing-for-gpt-5-6-sol-model",
+        "points": 81,
         "comments": 0,
-        "author": "geox",
-        "createdAt": "2026-08-23T14:16:47Z",
-        "domain": "theguardian.com",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "低",
+        "author": "",
+        "createdAt": "2026-08-24T15:30:00Z",
+        "domain": "tennesseedaily.com",
+        "sourceType": "gdelt",
+        "sourceLabel": "GDELT",
+        "category": "AIモデル",
+        "impact": "中",
         "newsLens": "技術",
-        "titleJa": "OpenAIのリーダーは、「永続的な」AIサイバー攻撃の脅威について警告しています",
-        "summaryJa": "この記事は「OpenAIのリーダーは、「永続的な」AIサイバー攻撃の脅威について警告しています」を扱っています。クリス・レヘインは、批評家がAI企業が「無謀に」行動していると批判しているため、新しい安全基準を実施する必要があるとガーディアンに語っている。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "titleJa": "OpenAIがGPTの開発者価格を引き下げる- 5. 6 SOLモデル",
+        "summaryJa": "この記事は「OpenAIがGPTの開発者価格を引き下げる- 5. 6 SOLモデル」を扱っています。OpenAIは、GPT-5.6 SOLモデルの開発者価格を引き下げ、アプリケーションプログラミングインターフェイスに新しい料金が適用され、他のAI製品の一部には対象となるプランが適用される。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
         "keyPoints": [
-          "この記事は「OpenAIのリーダーは、「永続的な」AIサイバー攻撃の脅威について警告しています」を扱っています。",
-          "クリス・レヘインは、批評家がAI企業が「無謀に」行動していると批判しているため、新しい安全基準を実施する必要があるとガーディアンに語っている。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+          "この記事は「OpenAIがGPTの開発者価格を引き下げる- 5. 6 SOLモデル」を扱っています。",
+          "OpenAIは、GPT-5.6 SOLモデルの開発者価格を引き下げ、アプリケーションプログラミングインターフェイスに新しい料金が適用され、他のAI製品の一部には対象となるプランが適用される。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+        ]
+      },
+      {
+        "title": "OpenAI lowers developer pricing for GPT - 5 . 6 Sol model",
+        "url": "http://www.jamaicantimes.com/news/279258533/openai-lowers-developer-pricing-for-gpt-5-6-sol-model",
+        "points": 81,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-08-24T15:30:00Z",
+        "domain": "jamaicantimes.com",
+        "sourceType": "gdelt",
+        "sourceLabel": "GDELT",
+        "category": "AIモデル",
+        "impact": "中",
+        "newsLens": "技術",
+        "titleJa": "OpenAIがGPTの開発者価格を引き下げる- 5. 6 SOLモデル",
+        "summaryJa": "この記事は「OpenAIがGPTの開発者価格を引き下げる- 5. 6 SOLモデル」を扱っています。OpenAIは、GPT-5.6 SOLモデルの開発者価格を引き下げ、アプリケーションプログラミングインターフェイスに新しい料金が適用され、他のAI製品の一部には対象となるプランが適用される。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "keyPoints": [
+          "この記事は「OpenAIがGPTの開発者価格を引き下げる- 5. 6 SOLモデル」を扱っています。",
+          "OpenAIは、GPT-5.6 SOLモデルの開発者価格を引き下げ、アプリケーションプログラミングインターフェイスに新しい料金が適用され、他のAI製品の一部には対象となるプランが適用される。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
       }
     ],
-    "fetchedAt": "2026-08-24T13:12:06.580Z",
+    "fetchedAt": "2026-08-24T15:55:13.404Z",
     "mock": false
   },
   "xTrends": {
@@ -113,10 +116,10 @@
         "topic": "Perplexity",
         "locationLabel": "米国",
         "bestRank": 13,
-        "appearances": 3,
+        "appearances": 4,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-08-24T13:12:06.533Z",
+        "observedAt": "2026-08-24T15:55:13.273Z",
         "url": "https://x.com/search?q=Perplexity&src=typed_query&f=live",
         "articleTitle": "Perplexity's free AI offer left it with millions more users in India",
         "articleTitleJa": "Perplexityの無料AIオファーは、インドでさらに数百万人のユーザーを獲得しました",
@@ -127,10 +130,10 @@
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-08-24T13:12:06.580Z",
+    "fetchedAt": "2026-08-24T15:55:13.403Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-08-24T13:12:08.993Z"
+    "articleFetchedAt": "2026-08-24T15:55:15.922Z"
   }
 }
