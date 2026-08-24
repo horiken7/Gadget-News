@@ -23,26 +23,6 @@
         ]
       },
       {
-        "title": "Why can AI generate Super Mario but not a wedge ramp for my robot vacuum?",
-        "url": "https://news.ycombinator.com/item?id=49405520",
-        "points": 92,
-        "comments": 5,
-        "author": "zhuchaokn",
-        "createdAt": "2026-08-23T01:45:17Z",
-        "domain": "news.ycombinator.com",
-        "sourceType": "hn",
-        "category": "ハードウェア",
-        "impact": "低",
-        "newsLens": "技術",
-        "titleJa": "なぜAIはスーパーマリオを生成できますが、私のロボットの掃除機のためのウェッジランプを生成できないのですか？",
-        "summaryJa": "この記事は「なぜAIはスーパーマリオを生成できますが、私のロボットの掃除機のためのウェッジランプを生成できないのですか？」を扱っています。AIジェネレーションは、精巧なフィギュア、漫画のキャラクター、さらには説得力のあるスーパーマリオを生み出すことができますが、単純なウェッジランプを確実に作ることができないため、ロボットの掃除機がステップを登ることができます。コンテキスト： Bambu P 2 Sを購入しましたが、モデル化できません。",
-        "keyPoints": [
-          "この記事は「なぜAIはスーパーマリオを生成できますが、私のロボットの掃除機のためのウェッジランプを生成できないのですか。",
-          "AIジェネレーションは、精巧なフィギュア、漫画のキャラクター、さらには説得力のあるスーパーマリオを生み出すことができますが、単純なウェッジランプを確実に作ることができないため、ロボットの掃除機がステップを登ることができます。",
-          "コンテキスト： Bambu P 2 Sを購入しましたが、モデル化できません。"
-        ]
-      },
-      {
         "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
         "url": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
         "points": 79,
@@ -102,17 +82,37 @@
           "Karp氏は、フロンティアラボが「あらゆる場所で知的財産の価値をすべて蒸留した」とき、中国モデルが米国モデルを蒸留したと非難することはできないと述べた。",
           "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
+      },
+      {
+        "title": "US corporate AI debt surge tests investor limits as fatigue emerges",
+        "url": "https://www.reuters.com/legal/transactional/us-corporate-ai-debt-surge-tests-investor-limits-fatigue-emerges-2026-08-21/",
+        "points": 63,
+        "comments": 1,
+        "author": "1vuio0pswjnm7",
+        "createdAt": "2026-08-23T10:23:45Z",
+        "domain": "reuters.com",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "低",
+        "newsLens": "技術",
+        "titleJa": "米国の企業AI債務の急増は、疲労が出現するにつれて投資家の限界をテストします",
+        "summaryJa": "この記事は「米国の企業AI債務の急増は、疲労が出現するにつれて投資家の限界をテストします」を扱っています。reuters.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "keyPoints": [
+          "この記事は「米国の企業AI債務の急増は、疲労が出現するにつれて投資家の限界をテストします」を扱っています。",
+          "reuters.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+        ]
       }
     ],
-    "fetchedAt": "2026-08-23T21:34:24.698Z",
+    "fetchedAt": "2026-08-24T01:56:47.691Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-08-23T21:34:24.698Z",
+    "fetchedAt": "2026-08-24T01:56:47.691Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-08-23T21:34:24.844Z"
+    "articleFetchedAt": "2026-08-24T01:56:47.834Z"
   }
 }
