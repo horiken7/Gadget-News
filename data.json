@@ -23,31 +23,31 @@
         ]
       },
       {
-        "title": "OpenAI is building AI agents for everything. Will everyone use them?",
-        "url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
+        "title": "Accel-backed Keenable is indexing the web for AI agents",
+        "url": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/",
         "points": 107,
         "comments": 0,
         "author": "",
-        "createdAt": "2026-08-24T15:00:00.000Z",
+        "createdAt": "2026-08-25T13:00:00.000Z",
         "domain": "techcrunch.com",
         "sourceType": "rss",
         "sourceLabel": "TechCrunch AI",
         "newsLens": "一般",
         "category": "AIニュース",
         "impact": "高",
-        "titleJa": "OpenAIはすべてのAIエージェントを構築しています。みんな使ってくれるんですか？",
-        "summaryJa": "この記事は「OpenAIはすべてのAIエージェントを構築しています。みんな使ってくれるんですか？」を扱っています。ソフトウェアエンジニアから大衆にAIエージェントをもたらすためのフロンティアラボのプッシュの内部。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "titleJa": "Accelに裏打ちされたKeenableは、AIエージェントのためにウェブのインデックスを作成しています",
+        "summaryJa": "この記事は「Accelに裏打ちされたKeenableは、AIエージェントのためにウェブのインデックスを作成しています」を扱っています。現在、2600万$のシードラウンドでステルスモードを終了しているKeenableは、AIエージェントのための膨大なウェブ検索インデックスを構築しています。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
-          "この記事は「OpenAIはすべてのAIエージェントを構築しています。",
-          "みんな使ってくれるんですか。",
-          "ソフトウェアエンジニアから大衆にAIエージェントをもたらすためのフロンティアラボのプッシュの内部。"
+          "この記事は「Accelに裏打ちされたKeenableは、AIエージェントのためにウェブのインデックスを作成しています」を扱っています。",
+          "現在、2600万$のシードラウンドでステルスモードを終了しているKeenableは、AIエージェントのための膨大なウェブ検索インデックスを構築しています。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       },
       {
         "title": "LLMs could control their host machines by exploiting inference engines",
         "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
         "points": 101,
-        "comments": 66,
+        "comments": 82,
         "author": "zdw",
         "createdAt": "2026-08-24T19:03:06Z",
         "domain": "boydkane.com",
@@ -64,30 +64,30 @@
         ]
       },
       {
-        "title": "Ask HN: Why do corporate failures always seem to punish the wrong people?",
-        "url": "https://news.ycombinator.com/item?id=49418675",
-        "points": 91,
-        "comments": 115,
-        "author": "mittermayr",
-        "createdAt": "2026-08-24T12:18:56Z",
-        "domain": "news.ycombinator.com",
+        "title": "Show HN: Screen memory without screenshots, just text to Markdown",
+        "url": "https://github.com/dragthelake/ambient-context",
+        "points": 75,
+        "comments": 22,
+        "author": "Dramatize",
+        "createdAt": "2026-08-25T04:33:24Z",
+        "domain": "github.com",
         "sourceType": "hn",
         "category": "AIニュース",
-        "impact": "高",
+        "impact": "低",
         "newsLens": "技術",
-        "titleJa": "HNに尋ねる：なぜ企業の失敗は常に間違った人々を罰するように見えるのですか？",
-        "summaryJa": "この記事は「HNに尋ねる：なぜ企業の失敗は常に間違った人々を罰するように見えるのですか？」を扱っています。私のパートナーは、ビッグ5の1つのために疲れ知らずに働いて15年後に解雇されました。彼女はおそらく、過去10年間にこの部分のビジネスを生き残り、戦い抜いた中で最も回復力があり、報われ、好かれてきた人物です。",
+        "titleJa": "HNを表示：スクリーンショットなしの画面メモリ、マークダウンへのテキストのみ",
+        "summaryJa": "この記事は「HNを表示：スクリーンショットなしの画面メモリ、マークダウンへのテキストのみ」を扱っています。これは、アクセシビリティAPIを介して数秒ごとにフォーカスされたウィンドウのテキストを読み取るmacOSメニューバーアプリです。スクリーンショット、ビデオ、OCRはありません。",
         "keyPoints": [
-          "この記事は「HNに尋ねる：なぜ企業の失敗は常に間違った人々を罰するように見えるのですか。",
-          "私のパートナーは、ビッグ5の1つのために疲れ知らずに働いて15年後に解雇されました。",
-          "彼女はおそらく、過去10年間にこの部分のビジネスを生き残り、戦い抜いた中で最も回復力があり、報われ、好かれてきた人物です。"
+          "この記事は「HNを表示：スクリーンショットなしの画面メモリ、マークダウンへのテキストのみ」を扱っています。",
+          "これは、アクセシビリティAPIを介して数秒ごとにフォーカスされたウィンドウのテキストを読み取るmacOSメニューバーアプリです。",
+          "スクリーンショット、ビデオ、OCRはありません。"
         ]
       },
       {
         "title": "OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)",
         "url": "https://developers.openai.com/api/docs/pricing",
         "points": 73,
-        "comments": 310,
+        "comments": 322,
         "author": "tosh",
         "createdAt": "2026-08-24T15:22:43Z",
         "domain": "developers.openai.com",
@@ -104,7 +104,7 @@
         ]
       }
     ],
-    "fetchedAt": "2026-08-25T09:50:37.841Z",
+    "fetchedAt": "2026-08-25T13:09:55.438Z",
     "mock": false
   },
   "xTrends": {
@@ -113,25 +113,25 @@
         "topic": "ライザAI",
         "locationLabel": "日本",
         "bestRank": 13,
-        "appearances": 5,
+        "appearances": 8,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-08-25T09:50:37.801Z",
+        "observedAt": "2026-08-25T13:09:55.297Z",
         "url": "https://x.com/search?q=%E3%83%A9%E3%82%A4%E3%82%B6AI&src=typed_query&f=live",
         "articleTitle": "ライザAI",
         "articleTitleJa": "公開トレンド: ライザAI",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-08-25T09:50:37.801Z",
+        "articlePublishedAt": "2026-08-25T13:09:55.297Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
       }
     ],
-    "fetchedAt": "2026-08-25T09:50:37.841Z",
+    "fetchedAt": "2026-08-25T13:09:55.438Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-08-25T09:50:38.264Z"
+    "articleFetchedAt": "2026-08-25T13:09:55.792Z"
   }
 }
