@@ -46,8 +46,8 @@
       {
         "title": "OCR It – pull text out of un-copyable documents for your LLM",
         "url": "https://github.com/thiagotigaz/ocr-it",
-        "points": 98,
-        "comments": 27,
+        "points": 99,
+        "comments": 28,
         "author": "thiagolima",
         "createdAt": "2026-08-24T06:25:31Z",
         "domain": "github.com",
@@ -66,8 +66,8 @@
       {
         "title": "LLMs could control their host machines by exploiting inference engines",
         "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
-        "points": 93,
-        "comments": 50,
+        "points": 97,
+        "comments": 56,
         "author": "zdw",
         "createdAt": "2026-08-24T19:03:06Z",
         "domain": "boydkane.com",
@@ -104,7 +104,7 @@
         ]
       }
     ],
-    "fetchedAt": "2026-08-25T01:51:21.672Z",
+    "fetchedAt": "2026-08-25T03:58:37.744Z",
     "mock": false
   },
   "xTrends": {
@@ -112,11 +112,11 @@
       {
         "topic": "Perplexity",
         "locationLabel": "米国",
-        "bestRank": 13,
-        "appearances": 3,
+        "bestRank": 41,
+        "appearances": 1,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-08-25T01:51:21.455Z",
+        "observedAt": "2026-08-25T03:58:37.702Z",
         "url": "https://x.com/search?q=Perplexity&src=typed_query&f=live",
         "articleTitle": "Perplexity's free AI offer left it with millions more users in India",
         "articleTitleJa": "Perplexityの無料AIオファーは、インドでさらに数百万人のユーザーを獲得しました",
@@ -127,10 +127,10 @@
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-08-25T01:51:21.672Z",
+    "fetchedAt": "2026-08-25T03:58:37.744Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-08-25T01:51:24.116Z"
+    "articleFetchedAt": "2026-08-25T03:58:40.101Z"
   }
 }
