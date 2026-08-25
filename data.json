@@ -47,7 +47,7 @@
         "title": "OCR It – pull text out of un-copyable documents for your LLM",
         "url": "https://github.com/thiagotigaz/ocr-it",
         "points": 98,
-        "comments": 26,
+        "comments": 27,
         "author": "thiagolima",
         "createdAt": "2026-08-24T06:25:31Z",
         "domain": "github.com",
@@ -64,10 +64,30 @@
         ]
       },
       {
+        "title": "LLMs could control their host machines by exploiting inference engines",
+        "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
+        "points": 93,
+        "comments": 50,
+        "author": "zdw",
+        "createdAt": "2026-08-24T19:03:06Z",
+        "domain": "boydkane.com",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "LLMは、推論エンジンを利用してホストマシンを制御することができます",
+        "summaryJa": "この記事は「LLMは、推論エンジンを利用してホストマシンを制御することができます」を扱っています。| LessWrongで読む|大規模な言語モデルは、多くの場合、1台のコンピューターで実行されるアクションを（ Claude CodeやCodexなどのエージェントハーネスを介して）実行しますが、プロンプトに対するLLMの応答は、GPUアクセスを持つ別のコンピューターで計算されます。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "keyPoints": [
+          "この記事は「LLMは、推論エンジンを利用してホストマシンを制御することができます」を扱っています。",
+          "| LessWrongで読む|大規模な言語モデルは、多くの場合、1台のコンピューターで実行されるアクションを（ Claude CodeやCodexなどのエージェントハーネスを介して）実行しますが、プロンプトに対するLLMの応答は、GPUアクセスを持つ別のコンピューターで計算されます。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+        ]
+      },
+      {
         "title": "Ask HN: Why do corporate failures always seem to punish the wrong people?",
         "url": "https://news.ycombinator.com/item?id=49418675",
-        "points": 89,
-        "comments": 109,
+        "points": 90,
+        "comments": 110,
         "author": "mittermayr",
         "createdAt": "2026-08-24T12:18:56Z",
         "domain": "news.ycombinator.com",
@@ -82,29 +102,9 @@
           "私のパートナーは、ビッグ5の1つのために疲れ知らずに働いて15年後に解雇されました。",
           "彼女はおそらく、過去10年間にこの部分のビジネスを生き残り、戦い抜いた中で最も回復力があり、報われ、好かれてきた人物です。"
         ]
-      },
-      {
-        "title": "Anthropic Claude and API service outages",
-        "url": "https://status.claude.com/uptime",
-        "points": 88,
-        "comments": 60,
-        "author": "vikrantrathore",
-        "createdAt": "2026-08-24T06:32:28Z",
-        "domain": "status.claude.com",
-        "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "中",
-        "newsLens": "技術",
-        "titleJa": "Anthropic ClaudeとAPIサービスの停止",
-        "summaryJa": "この記事は「Anthropic ClaudeとAPIサービスの停止」を扱っています。status.claude.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
-        "keyPoints": [
-          "この記事は「Anthropic ClaudeとAPIサービスの停止」を扱っています。",
-          "status.claude.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
-        ]
       }
     ],
-    "fetchedAt": "2026-08-24T21:42:46.608Z",
+    "fetchedAt": "2026-08-25T01:51:21.672Z",
     "mock": false
   },
   "xTrends": {
@@ -113,10 +113,10 @@
         "topic": "Perplexity",
         "locationLabel": "米国",
         "bestRank": 13,
-        "appearances": 4,
+        "appearances": 3,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-08-24T21:42:46.397Z",
+        "observedAt": "2026-08-25T01:51:21.455Z",
         "url": "https://x.com/search?q=Perplexity&src=typed_query&f=live",
         "articleTitle": "Perplexity's free AI offer left it with millions more users in India",
         "articleTitleJa": "Perplexityの無料AIオファーは、インドでさらに数百万人のユーザーを獲得しました",
@@ -127,10 +127,10 @@
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-08-24T21:42:46.608Z",
+    "fetchedAt": "2026-08-25T01:51:21.672Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-08-24T21:42:49.136Z"
+    "articleFetchedAt": "2026-08-25T01:51:24.116Z"
   }
 }
