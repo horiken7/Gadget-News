@@ -23,51 +23,51 @@
         ]
       },
       {
-        "title": "Accel-backed Keenable is indexing the web for AI agents",
-        "url": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/",
+        "title": "Anthropic tells staff to work from home due to possible security team strike",
+        "url": "https://www.businessinsider.com/anthropic-san-francisco-staff-work-remote-office-security-strike-2026-8",
+        "points": 128,
+        "comments": 55,
+        "author": "DGAP",
+        "createdAt": "2026-08-25T14:00:27Z",
+        "domain": "businessinsider.com",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "低",
+        "newsLens": "技術",
+        "titleJa": "Anthropicは、セキュリティチームのストライキの可能性があるため、スタッフに在宅勤務を指示します",
+        "summaryJa": "この記事は「Anthropicは、セキュリティチームのストライキの可能性があるため、スタッフに在宅勤務を指示します」を扱っています。Anthropicのスタッフは、セキュリティストライキが発生した場合に備えて、月曜日と火曜日にAI企業のサンフランシスコオフィスに来るべきではないと言われました。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "keyPoints": [
+          "この記事は「Anthropicは、セキュリティチームのストライキの可能性があるため、スタッフに在宅勤務を指示します」を扱っています。",
+          "Anthropicのスタッフは、セキュリティストライキが発生した場合に備えて、月曜日と火曜日にAI企業のサンフランシスコオフィスに来るべきではないと言われました。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+        ]
+      },
+      {
+        "title": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
+        "url": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/",
         "points": 107,
         "comments": 0,
         "author": "",
-        "createdAt": "2026-08-25T13:00:00.000Z",
+        "createdAt": "2026-08-25T14:22:04.000Z",
         "domain": "techcrunch.com",
         "sourceType": "rss",
         "sourceLabel": "TechCrunch AI",
         "newsLens": "一般",
-        "category": "AIニュース",
+        "category": "ハードウェア",
         "impact": "高",
-        "titleJa": "Accelに裏打ちされたKeenableは、AIエージェントのためにウェブのインデックスを作成しています",
-        "summaryJa": "この記事は「Accelに裏打ちされたKeenableは、AIエージェントのためにウェブのインデックスを作成しています」を扱っています。現在、2600万$のシードラウンドでステルスモードを終了しているKeenableは、AIエージェントのための膨大なウェブ検索インデックスを構築しています。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "titleJa": "OpenAIのJalapeñoチップは、大規模な高速推論のために構築されています、ベンチマークは示しています",
+        "summaryJa": "この記事は「OpenAIのJalapeñoチップは、大規模な高速推論のために構築されています、ベンチマークは示しています」を扱っています。SemiAnalysisのInferenceXベンチマークでテストされたJalapeñoは、現在利用可能な最先端のものよりも、ユーザーあたりのトークンとキロワットあたりのスループットの両方を登録しました。一般向けには、AIがソフトウェアだけでなく、ロボットや端末など現実の製品に広がっている点が重要です。",
         "keyPoints": [
-          "この記事は「Accelに裏打ちされたKeenableは、AIエージェントのためにウェブのインデックスを作成しています」を扱っています。",
-          "現在、2600万$のシードラウンドでステルスモードを終了しているKeenableは、AIエージェントのための膨大なウェブ検索インデックスを構築しています。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
-        ]
-      },
-      {
-        "title": "LLMs could control their host machines by exploiting inference engines",
-        "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
-        "points": 101,
-        "comments": 82,
-        "author": "zdw",
-        "createdAt": "2026-08-24T19:03:06Z",
-        "domain": "boydkane.com",
-        "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "LLMは、推論エンジンを利用してホストマシンを制御することができます",
-        "summaryJa": "この記事は「LLMは、推論エンジンを利用してホストマシンを制御することができます」を扱っています。| LessWrongを読む| HNにコメント|大規模な言語モデルは、多くの場合、1台のコンピューターで実行されるアクションを実行します（ Claude CodeやCodexなどのエージェントハーネスを介して）が、プロンプトに対するLLMの応答は、GPUアクセスを持つ別のコンピューターで計算されます。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
-        "keyPoints": [
-          "この記事は「LLMは、推論エンジンを利用してホストマシンを制御することができます」を扱っています。",
-          "| LessWrongを読む| HNにコメント|大規模な言語モデルは、多くの場合、1台のコンピューターで実行されるアクションを実行します（ Claude CodeやCodexなどのエージェントハーネスを介して）が、プロンプトに対するLLMの応答は、GPUアクセスを持つ別のコンピューターで計算されます。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+          "この記事は「OpenAIのJalapeñoチップは、大規模な高速推論のために構築されています、ベンチマークは示しています」を扱っています。",
+          "SemiAnalysisのInferenceXベンチマークでテストされたJalapeñoは、現在利用可能な最先端のものよりも、ユーザーあたりのトークンとキロワットあたりのスループットの両方を登録しました。",
+          "一般向けには、AIがソフトウェアだけでなく、ロボットや端末など現実の製品に広がっている点が重要です。"
         ]
       },
       {
         "title": "Show HN: Screen memory without screenshots, just text to Markdown",
         "url": "https://github.com/dragthelake/ambient-context",
-        "points": 75,
-        "comments": 22,
+        "points": 76,
+        "comments": 23,
         "author": "Dramatize",
         "createdAt": "2026-08-25T04:33:24Z",
         "domain": "github.com",
@@ -84,27 +84,27 @@
         ]
       },
       {
-        "title": "OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)",
-        "url": "https://developers.openai.com/api/docs/pricing",
+        "title": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
+        "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
         "points": 73,
-        "comments": 322,
-        "author": "tosh",
-        "createdAt": "2026-08-24T15:22:43Z",
-        "domain": "developers.openai.com",
+        "comments": 348,
+        "author": "interpol_p",
+        "createdAt": "2026-08-25T13:01:22Z",
+        "domain": "apple.com",
         "sourceType": "hn",
-        "category": "AIモデル",
+        "category": "AIニュース",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "OpenAI ： GPT 5.6 Sol価格引き下げ（少なくとも11月21日まで）",
-        "summaryJa": "この記事は「OpenAI ： GPT 5.6 Sol価格引き下げ（少なくとも11月21日まで）」を扱っています。OpenAIプラットフォームの価格情報。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "titleJa": "Appleは、パフォーマンスとAIコンピューティングの大きな飛躍のためにM 6とM 5 Ultraを導入",
+        "summaryJa": "この記事は「Appleは、パフォーマンスとAIコンピューティングの大きな飛躍のためにM 6とM 5 Ultraを導入」を扱っています。Appleは、新しいMac miniでM 6をデビューさせ、新しいMac StudioでM 5 Ultraをデビューさせ、パフォーマンスとAI機能を飛躍的に向上させました。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
         "keyPoints": [
-          "この記事は「OpenAI ： GPT 5.6 Sol価格引き下げ（少なくとも11月21日まで）」を扱っています。",
-          "OpenAIプラットフォームの価格情報。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+          "この記事は「Appleは、パフォーマンスとAIコンピューティングの大きな飛躍のためにM 6とM 5 Ultraを導入」を扱っています。",
+          "Appleは、新しいMac miniでM 6をデビューさせ、新しいMac StudioでM 5 Ultraをデビューさせ、パフォーマンスとAI機能を飛躍的に向上させました。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
       }
     ],
-    "fetchedAt": "2026-08-25T13:09:55.438Z",
+    "fetchedAt": "2026-08-25T15:58:57.908Z",
     "mock": false
   },
   "xTrends": {
@@ -116,22 +116,22 @@
         "appearances": 8,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-08-25T13:09:55.297Z",
+        "observedAt": "2026-08-25T15:58:57.837Z",
         "url": "https://x.com/search?q=%E3%83%A9%E3%82%A4%E3%82%B6AI&src=typed_query&f=live",
         "articleTitle": "ライザAI",
         "articleTitleJa": "公開トレンド: ライザAI",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-08-25T13:09:55.297Z",
+        "articlePublishedAt": "2026-08-25T15:58:57.837Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
       }
     ],
-    "fetchedAt": "2026-08-25T13:09:55.438Z",
+    "fetchedAt": "2026-08-25T15:58:57.908Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-08-25T13:09:55.792Z"
+    "articleFetchedAt": "2026-08-25T15:58:58.268Z"
   }
 }
