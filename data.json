@@ -47,7 +47,7 @@
         "title": "LLMs could control their host machines by exploiting inference engines",
         "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
         "points": 101,
-        "comments": 60,
+        "comments": 66,
         "author": "zdw",
         "createdAt": "2026-08-24T19:03:06Z",
         "domain": "boydkane.com",
@@ -56,18 +56,18 @@
         "impact": "高",
         "newsLens": "技術",
         "titleJa": "LLMは、推論エンジンを利用してホストマシンを制御することができます",
-        "summaryJa": "この記事は「LLMは、推論エンジンを利用してホストマシンを制御することができます」を扱っています。| LessWrongで読む|大規模な言語モデルは、多くの場合、1台のコンピューターで実行されるアクションを（ Claude CodeやCodexなどのエージェントハーネスを介して）実行しますが、プロンプトに対するLLMの応答は、GPUアクセスを持つ別のコンピューターで計算されます。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "summaryJa": "この記事は「LLMは、推論エンジンを利用してホストマシンを制御することができます」を扱っています。| LessWrongを読む| HNにコメント|大規模な言語モデルは、多くの場合、1台のコンピューターで実行されるアクションを実行します（ Claude CodeやCodexなどのエージェントハーネスを介して）が、プロンプトに対するLLMの応答は、GPUアクセスを持つ別のコンピューターで計算されます。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
         "keyPoints": [
           "この記事は「LLMは、推論エンジンを利用してホストマシンを制御することができます」を扱っています。",
-          "| LessWrongで読む|大規模な言語モデルは、多くの場合、1台のコンピューターで実行されるアクションを（ Claude CodeやCodexなどのエージェントハーネスを介して）実行しますが、プロンプトに対するLLMの応答は、GPUアクセスを持つ別のコンピューターで計算されます。",
+          "| LessWrongを読む| HNにコメント|大規模な言語モデルは、多くの場合、1台のコンピューターで実行されるアクションを実行します（ Claude CodeやCodexなどのエージェントハーネスを介して）が、プロンプトに対するLLMの応答は、GPUアクセスを持つ別のコンピューターで計算されます。",
           "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
       },
       {
         "title": "Ask HN: Why do corporate failures always seem to punish the wrong people?",
         "url": "https://news.ycombinator.com/item?id=49418675",
-        "points": 90,
-        "comments": 114,
+        "points": 91,
+        "comments": 115,
         "author": "mittermayr",
         "createdAt": "2026-08-24T12:18:56Z",
         "domain": "news.ycombinator.com",
@@ -87,7 +87,7 @@
         "title": "OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)",
         "url": "https://developers.openai.com/api/docs/pricing",
         "points": 73,
-        "comments": 298,
+        "comments": 310,
         "author": "tosh",
         "createdAt": "2026-08-24T15:22:43Z",
         "domain": "developers.openai.com",
@@ -104,7 +104,7 @@
         ]
       }
     ],
-    "fetchedAt": "2026-08-25T07:07:25.554Z",
+    "fetchedAt": "2026-08-25T09:50:37.841Z",
     "mock": false
   },
   "xTrends": {
@@ -112,43 +112,26 @@
       {
         "topic": "ライザAI",
         "locationLabel": "日本",
-        "bestRank": 23,
-        "appearances": 2,
+        "bestRank": 13,
+        "appearances": 5,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-08-25T07:07:25.461Z",
+        "observedAt": "2026-08-25T09:50:37.801Z",
         "url": "https://x.com/search?q=%E3%83%A9%E3%82%A4%E3%82%B6AI&src=typed_query&f=live",
         "articleTitle": "ライザAI",
         "articleTitleJa": "公開トレンド: ライザAI",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-08-25T07:07:25.461Z",
+        "articlePublishedAt": "2026-08-25T09:50:37.801Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
-      },
-      {
-        "topic": "Perplexity",
-        "locationLabel": "米国",
-        "bestRank": 41,
-        "appearances": 1,
-        "trendSource": "Trends24",
-        "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-08-25T07:07:25.539Z",
-        "url": "https://x.com/search?q=Perplexity&src=typed_query&f=live",
-        "articleTitle": "Perplexity's free AI offer left it with millions more users in India",
-        "articleTitleJa": "Perplexityの無料AIオファーは、インドでさらに数百万人のユーザーを獲得しました",
-        "articleUrl": "https://techcrunch.com/2026/08/18/perplexitys-free-ai-offer-left-it-with-millions-more-users-in-india/",
-        "articleSource": "techcrunch.com",
-        "articlePublishedAt": "2026-08-19T20:19:01Z",
-        "summaryJa": "Perplexityのインドでの収益は、ダウンロードが減少したにもかかわらず、新規ユーザー向けのAirtelのオファーが終了した後、約60 ％増加した。",
-        "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-08-25T07:07:25.554Z",
+    "fetchedAt": "2026-08-25T09:50:37.841Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-08-25T07:07:27.869Z"
+    "articleFetchedAt": "2026-08-25T09:50:38.264Z"
   }
 }
