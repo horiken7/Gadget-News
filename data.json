@@ -5,7 +5,7 @@
         "title": "Anthropic tells staff to work from home due to possible security team strike",
         "url": "https://www.businessinsider.com/anthropic-san-francisco-staff-work-remote-office-security-strike-2026-8",
         "points": 145,
-        "comments": 123,
+        "comments": 126,
         "author": "DGAP",
         "createdAt": "2026-08-25T14:00:27Z",
         "domain": "businessinsider.com",
@@ -66,8 +66,8 @@
       {
         "title": "Show HN: I made a Raspberry with Qwen my local car AI",
         "url": "https://github.com/ThinkOffApp/CarWatch",
-        "points": 98,
-        "comments": 29,
+        "points": 101,
+        "comments": 35,
         "author": "petruspennanen",
         "createdAt": "2026-08-25T15:20:20Z",
         "domain": "github.com",
@@ -86,8 +86,8 @@
       {
         "title": "Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM",
         "url": "https://github.com/swimmingbrain/texbrain",
-        "points": 86,
-        "comments": 11,
+        "points": 88,
+        "comments": 16,
         "author": "swimmingbrain",
         "createdAt": "2026-08-25T22:08:50Z",
         "domain": "github.com",
@@ -104,15 +104,15 @@
         ]
       }
     ],
-    "fetchedAt": "2026-08-26T04:01:34.120Z",
+    "fetchedAt": "2026-08-26T07:07:46.497Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-08-26T04:01:34.120Z",
+    "fetchedAt": "2026-08-26T07:07:46.497Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-08-26T04:01:34.262Z"
+    "articleFetchedAt": "2026-08-26T07:07:46.660Z"
   }
 }
