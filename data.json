@@ -4,7 +4,7 @@
       {
         "title": "Anthropic tells staff to work from home due to possible security team strike",
         "url": "https://www.businessinsider.com/anthropic-san-francisco-staff-work-remote-office-security-strike-2026-8",
-        "points": 144,
+        "points": 145,
         "comments": 123,
         "author": "DGAP",
         "createdAt": "2026-08-25T14:00:27Z",
@@ -66,8 +66,8 @@
       {
         "title": "Show HN: I made a Raspberry with Qwen my local car AI",
         "url": "https://github.com/ThinkOffApp/CarWatch",
-        "points": 95,
-        "comments": 23,
+        "points": 98,
+        "comments": 29,
         "author": "petruspennanen",
         "createdAt": "2026-08-25T15:20:20Z",
         "domain": "github.com",
@@ -84,54 +84,35 @@
         ]
       },
       {
-        "title": "Show HN: Screen memory without screenshots, just text to Markdown",
-        "url": "https://github.com/dragthelake/ambient-context",
-        "points": 76,
-        "comments": 25,
-        "author": "Dramatize",
-        "createdAt": "2026-08-25T04:33:24Z",
+        "title": "Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM",
+        "url": "https://github.com/swimmingbrain/texbrain",
+        "points": 86,
+        "comments": 11,
+        "author": "swimmingbrain",
+        "createdAt": "2026-08-25T22:08:50Z",
         "domain": "github.com",
         "sourceType": "hn",
         "category": "AIニュース",
         "impact": "中",
         "newsLens": "技術",
-        "titleJa": "HNを表示：スクリーンショットなしの画面メモリ、マークダウンへのテキストのみ",
-        "summaryJa": "この記事は「HNを表示：スクリーンショットなしの画面メモリ、マークダウンへのテキストのみ」を扱っています。これは、アクセシビリティAPIを介して数秒ごとにフォーカスされたウィンドウのテキストを読み取るmacOSメニューバーアプリです。スクリーンショット、ビデオ、OCRはありません。",
+        "titleJa": "HNを表示： WASM経由でブラウザでpdfTeXを実行するLaTeXエディタであるTeXbrain",
+        "summaryJa": "この記事は「HNを表示： WASM経由でブラウザでpdfTeXを実行するLaTeXエディタであるTeXbrain」を扱っています。私は修士課程の工学部の学生であり、論文や研究論文に使用したLaTeXの大ファンです。私はOverleafを使用しましたが、残念ながらペイウォールの背後にあるgit syncを使用するまでは問題ありませんでした。",
         "keyPoints": [
-          "この記事は「HNを表示：スクリーンショットなしの画面メモリ、マークダウンへのテキストのみ」を扱っています。",
-          "これは、アクセシビリティAPIを介して数秒ごとにフォーカスされたウィンドウのテキストを読み取るmacOSメニューバーアプリです。",
-          "スクリーンショット、ビデオ、OCRはありません。"
+          "この記事は「HNを表示： WASM経由でブラウザでpdfTeXを実行するLaTeXエディタであるTeXbrain」を扱っています。",
+          "私は修士課程の工学部の学生であり、論文や研究論文に使用したLaTeXの大ファンです。",
+          "私はOverleafを使用しましたが、残念ながらペイウォールの背後にあるgit syncを使用するまでは問題ありませんでした。"
         ]
       }
     ],
-    "fetchedAt": "2026-08-26T01:57:33.780Z",
+    "fetchedAt": "2026-08-26T04:01:34.120Z",
     "mock": false
   },
   "xTrends": {
-    "items": [
-      {
-        "topic": "ライザAI",
-        "locationLabel": "日本",
-        "bestRank": 24,
-        "appearances": 3,
-        "trendSource": "Trends24",
-        "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-08-26T01:57:33.563Z",
-        "url": "https://x.com/search?q=%E3%83%A9%E3%82%A4%E3%82%B6AI&src=typed_query&f=live",
-        "articleTitle": "ライザAI",
-        "articleTitleJa": "公開トレンド: ライザAI",
-        "articleUrl": "https://trends24.in/japan/",
-        "articleSource": "Trends24",
-        "articlePublishedAt": "2026-08-26T01:57:33.563Z",
-        "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
-        "translationVersion": 3,
-        "articleFallback": true
-      }
-    ],
-    "fetchedAt": "2026-08-26T01:57:33.780Z",
+    "items": [],
+    "fetchedAt": "2026-08-26T04:01:34.120Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-08-26T01:57:34.103Z"
+    "articleFetchedAt": "2026-08-26T04:01:34.262Z"
   }
 }
