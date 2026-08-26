@@ -5,7 +5,7 @@
         "title": "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights",
         "url": "https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek",
         "points": 121,
-        "comments": 131,
+        "comments": 136,
         "author": "garo-pro",
         "createdAt": "2026-08-26T10:04:55Z",
         "domain": "bloomberg.com",
@@ -22,23 +22,23 @@
         ]
       },
       {
-        "title": "Ex-Meta scientists want to bring visual AI to the factory floor",
-        "url": "https://techcrunch.com/2026/08/26/ex-meta-scientists-want-to-bring-visual-ai-to-the-factory-floor/",
+        "title": "OpenAI releases its official report on the Hugging Face breach",
+        "url": "https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach/",
         "points": 107,
         "comments": 0,
         "author": "",
-        "createdAt": "2026-08-26T15:00:00.000Z",
+        "createdAt": "2026-08-26T19:05:22.000Z",
         "domain": "techcrunch.com",
         "sourceType": "rss",
         "sourceLabel": "TechCrunch AI",
         "newsLens": "一般",
         "category": "AIニュース",
         "impact": "高",
-        "titleJa": "元メタの科学者は、工場の現場にビジュアルAIを導入したいと考えています",
-        "summaryJa": "この記事は「元メタの科学者は、工場の現場にビジュアルAIを導入したいと考えています」を扱っています。Perceptronは、機械が世界をナビゲートするのに役立つと同時に、詳細な視覚インテリジェンスを提供できるAIモデルを提供しています。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "titleJa": "OpenAI、ハグしている顔の違反に関する公式レポートを発表",
+        "summaryJa": "この記事は「OpenAI、ハグしている顔の違反に関する公式レポートを発表」を扱っています。このレポートは、いくつかの個別のサイバーセキュリティ侵害にまたがっており、これまでにインシデントを最も完全に説明しています。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
-          "この記事は「元メタの科学者は、工場の現場にビジュアルAIを導入したいと考えています」を扱っています。",
-          "Perceptronは、機械が世界をナビゲートするのに役立つと同時に、詳細な視覚インテリジェンスを提供できるAIモデルを提供しています。",
+          "この記事は「OpenAI、ハグしている顔の違反に関する公式レポートを発表」を扱っています。",
+          "このレポートは、いくつかの個別のサイバーセキュリティ侵害にまたがっており、これまでにインシデントを最も完全に説明しています。",
           "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       },
@@ -64,31 +64,31 @@
         ]
       },
       {
-        "title": "Surprise: Z.ai is the AI lab behind the mysterious Ox Alpha model",
-        "url": "https://techcrunch.com/2026/08/26/surprise-z-ai-is-the-ai-lab-behind-the-mysterious-ox-alpha-model/",
+        "title": "Ex-Meta scientists want to bring visual AI to the factory floor",
+        "url": "https://techcrunch.com/2026/08/26/ex-meta-scientists-want-to-bring-visual-ai-to-the-factory-floor/",
         "points": 107,
         "comments": 0,
         "author": "",
-        "createdAt": "2026-08-26T14:19:29.000Z",
+        "createdAt": "2026-08-26T15:00:00.000Z",
         "domain": "techcrunch.com",
         "sourceType": "rss",
         "sourceLabel": "TechCrunch AI",
         "newsLens": "一般",
-        "category": "AIモデル",
+        "category": "AIニュース",
         "impact": "高",
-        "titleJa": "驚き： Z.aiは、謎のOx Alphaモデルの背後にあるAIラボです",
-        "summaryJa": "この記事は「驚き： Z.aiは、謎のOx Alphaモデルの背後にあるAIラボです」を扱っています。Z.aiは、謎のオープンAIモデルであるOx Alphaのベンチマークとリーダーボードの背後にあることを確認しており、その重みはまもなくリリースされる予定です。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "titleJa": "元メタの科学者は、工場の現場にビジュアルAIを導入したいと考えています",
+        "summaryJa": "この記事は「元メタの科学者は、工場の現場にビジュアルAIを導入したいと考えています」を扱っています。Perceptronは、機械が世界をナビゲートするのに役立つと同時に、詳細な視覚インテリジェンスを提供できるAIモデルを提供しています。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
-          "この記事は「驚き： Z.aiは、謎のOx Alphaモデルの背後にあるAIラボです」を扱っています。",
-          "Z.aiは、謎のオープンAIモデルであるOx Alphaのベンチマークとリーダーボードの背後にあることを確認しており、その重みはまもなくリリースされる予定です。",
+          "この記事は「元メタの科学者は、工場の現場にビジュアルAIを導入したいと考えています」を扱っています。",
+          "Perceptronは、機械が世界をナビゲートするのに役立つと同時に、詳細な視覚インテリジェンスを提供できるAIモデルを提供しています。",
           "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       },
       {
         "title": "Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM",
         "url": "https://github.com/swimmingbrain/texbrain",
-        "points": 97,
-        "comments": 26,
+        "points": 98,
+        "comments": 27,
         "author": "swimmingbrain",
         "createdAt": "2026-08-25T22:08:50Z",
         "domain": "github.com",
@@ -105,15 +105,15 @@
         ]
       }
     ],
-    "fetchedAt": "2026-08-26T16:34:22.262Z",
+    "fetchedAt": "2026-08-26T20:01:57.948Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-08-26T16:34:22.262Z",
+    "fetchedAt": "2026-08-26T20:01:57.948Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-08-26T16:34:22.361Z"
+    "articleFetchedAt": "2026-08-26T20:01:58.126Z"
   }
 }
