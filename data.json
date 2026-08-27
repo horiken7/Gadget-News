@@ -23,23 +23,45 @@
         ]
       },
       {
-        "title": "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights",
-        "url": "https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek",
-        "points": 121,
-        "comments": 141,
-        "author": "garo-pro",
-        "createdAt": "2026-08-26T10:04:55Z",
-        "domain": "bloomberg.com",
-        "sourceType": "hn",
-        "category": "AIモデル",
+        "title": "Plaud’s new earphones come with an eSIM-enabled case for talking to AI agents",
+        "url": "https://techcrunch.com/2026/08/27/plauds-new-earphones-come-with-an-esim-enabled-case-for-talking-to-ai-agents/",
+        "points": 107,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-08-27T13:00:00.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
+        "category": "AIニュース",
         "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "Z.aiはOx Alphaが新しいGLMシリーズモデルであることを確認し、その重みをリリースします",
-        "summaryJa": "この記事は「Z.aiはOx Alphaが新しいGLMシリーズモデルであることを確認し、その重みをリリースします」を扱っています。bloomberg.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "titleJa": "Plaudの新しいイヤホンには、AIエージェントと話すためのeSIM対応ケースが付属しています",
+        "summaryJa": "この記事は「Plaudの新しいイヤホンには、AIエージェントと話すためのeSIM対応ケースが付属しています」を扱っています。Plaudの新しい「エージェント式」イヤホンの価格は$ 249です。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
-          "この記事は「Z.aiはOx Alphaが新しいGLMシリーズモデルであることを確認し、その重みをリリースします」を扱っています。",
-          "bloomberg.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+          "この記事は「Plaudの新しいイヤホンには、AIエージェントと話すためのeSIM対応ケースが付属しています」を扱っています。",
+          "Plaudの新しい「エージェント式」イヤホンの価格は$ 249です。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+        ]
+      },
+      {
+        "title": "When agents act on their own, governance has to live in the data layer",
+        "url": "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer",
+        "points": 107,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-08-27T12:01:00.000Z",
+        "domain": "venturebeat.com",
+        "sourceType": "rss",
+        "sourceLabel": "VentureBeat AI",
+        "newsLens": "技術",
+        "category": "AIニュース",
+        "impact": "高",
+        "titleJa": "エージェントが独自に行動する場合、ガバナンスはデータレイヤーに存在する必要があります",
+        "summaryJa": "この記事は「エージェントが独自に行動する場合、ガバナンスはデータレイヤーに存在する必要があります」を扱っています。EDBが提示する企業がAIエージェントにより多くの自律性を与えるにつれて、各ステップを人間が承認することなくシステム間で計画、決定、および行動する能力は、すべてのアーキテクチャレビューの中心に移ります。エージェントが許可されていないアクションを完了しようとすると、実際には何がそれを止めますか？",
+        "keyPoints": [
+          "この記事は「エージェントが独自に行動する場合、ガバナンスはデータレイヤーに存在する必要があります」を扱っています。",
+          "EDBが提示する企業がAIエージェントにより多くの自律性を与えるにつれて、各ステップを人間が承認することなくシステム間で計画、決定、および行動する能力は、すべてのアーキテクチャレビューの中心に移ります。",
+          "エージェントが許可されていないアクションを完了しようとすると、実際には何がそれを止めますか。"
         ]
       },
       {
@@ -60,27 +82,6 @@
         "keyPoints": [
           "この記事は「OpenAI、ハグしている顔の違反に関する公式レポートを発表」を扱っています。",
           "このレポートは、いくつかの個別のサイバーセキュリティ侵害にまたがっており、これまでにインシデントを最も完全に説明しています。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
-        ]
-      },
-      {
-        "title": "Ex-Meta scientists want to bring visual AI to the factory floor",
-        "url": "https://techcrunch.com/2026/08/26/ex-meta-scientists-want-to-bring-visual-ai-to-the-factory-floor/",
-        "points": 107,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-08-26T15:00:00.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
-        "category": "AIニュース",
-        "impact": "高",
-        "titleJa": "元メタの科学者は、工場の現場にビジュアルAIを導入したいと考えています",
-        "summaryJa": "この記事は「元メタの科学者は、工場の現場にビジュアルAIを導入したいと考えています」を扱っています。Perceptronは、機械が世界をナビゲートするのに役立つと同時に、詳細な視覚インテリジェンスを提供できるAIモデルを提供しています。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
-        "keyPoints": [
-          "この記事は「元メタの科学者は、工場の現場にビジュアルAIを導入したいと考えています」を扱っています。",
-          "Perceptronは、機械が世界をナビゲートするのに役立つと同時に、詳細な視覚インテリジェンスを提供できるAIモデルを提供しています。",
           "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       },
@@ -106,15 +107,50 @@
         ]
       }
     ],
-    "fetchedAt": "2026-08-27T00:46:57.436Z",
+    "fetchedAt": "2026-08-27T14:08:55.050Z",
     "mock": false
   },
   "xTrends": {
-    "items": [],
-    "fetchedAt": "2026-08-27T00:46:57.436Z",
+    "items": [
+      {
+        "topic": "Hugging Face",
+        "locationLabel": "米国",
+        "bestRank": 1,
+        "appearances": 11,
+        "trendSource": "Trends24",
+        "sourceUrl": "https://trends24.in/united-states/",
+        "observedAt": "2026-08-27T14:08:54.955Z",
+        "url": "https://x.com/search?q=Hugging%20Face&src=typed_query&f=live",
+        "articleTitle": "Nvidia agrees to acquire Hugging Face for $13B",
+        "articleTitleJa": "NVIDIA、Hugging Faceを130億$で買収",
+        "articleUrl": "https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8",
+        "articleSource": "businessinsider.com",
+        "articlePublishedAt": "2026-08-27T01:12:55Z",
+        "summaryJa": "https://www.theinformation.com/articles/nvidia-agrees-buy-op... （有料） https://techcrunch.com/2026/08/24/hugging-face-reportedly-in...",
+        "translationVersion": 3
+      },
+      {
+        "topic": "AI-assisted",
+        "locationLabel": "英国",
+        "bestRank": 30,
+        "appearances": 1,
+        "trendSource": "Trends24",
+        "sourceUrl": "https://trends24.in/united-kingdom/",
+        "observedAt": "2026-08-27T14:08:55.003Z",
+        "url": "https://x.com/search?q=AI-assisted&src=typed_query&f=live",
+        "articleTitle": "Scaling Memory Safety: AI-Assisted Rewrites of C/C++ Dependencies to Rust",
+        "articleTitleJa": "メモリの安全性のスケーリング： C/C ++依存関係のAI支援によるRustへのリライト",
+        "articleUrl": "https://bughunters.google.com/blog/scaling-memory-safety",
+        "articleSource": "bughunters.google.com",
+        "articlePublishedAt": "2026-08-24T17:08:32Z",
+        "summaryJa": "このブログ記事では、メモリの安全性の脆弱性を軽減するために、Cライブラリ（ giflib ）をRustに書き換えるためにAIをどのように使用したかについて説明します。",
+        "translationVersion": 3
+      }
+    ],
+    "fetchedAt": "2026-08-27T14:08:55.050Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-08-27T00:46:57.564Z"
+    "articleFetchedAt": "2026-08-27T14:09:00.306Z"
   }
 }
