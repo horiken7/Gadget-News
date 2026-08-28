@@ -2,45 +2,45 @@
   "news": {
     "items": [
       {
-        "title": "AI agents meant to replace Meta workers made “large-scale, disruptive actions”",
-        "url": "https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent/",
+        "title": "Hugging Face is selling a cute $399 open source duck robot, Microduck",
+        "url": "https://techcrunch.com/2026/08/27/hugging-face-is-selling-a-cute-399-open-source-duck-robot-microduck/",
         "points": 133,
         "comments": 0,
         "author": "",
-        "createdAt": "2026-08-26T21:25:27.000Z",
-        "domain": "arstechnica.com",
-        "sourceType": "rss",
-        "sourceLabel": "Ars Technica",
-        "newsLens": "技術",
-        "category": "AIニュース",
-        "impact": "高",
-        "titleJa": "AIエージェントは、メタワーカーが行った「大規模で破壊的な行動」に取って代わることを意図していました",
-        "summaryJa": "この記事は「AIエージェントは、メタワーカーが行った「大規模で破壊的な行動」に取って代わることを意図していました」を扱っています。レポートには、人をAIエージェントに置き換えるメタの課題が示されています。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
-        "keyPoints": [
-          "この記事は「AIエージェントは、メタワーカーが行った「大規模で破壊的な行動」に取って代わることを意図していました」を扱っています。",
-          "レポートには、人をAIエージェントに置き換えるメタの課題が示されています。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
-        ]
-      },
-      {
-        "title": "Plaud’s new earphones come with an eSIM-enabled case for talking to AI agents",
-        "url": "https://techcrunch.com/2026/08/27/plauds-new-earphones-come-with-an-esim-enabled-case-for-talking-to-ai-agents/",
-        "points": 107,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-08-27T13:00:00.000Z",
+        "createdAt": "2026-08-27T14:56:52.000Z",
         "domain": "techcrunch.com",
         "sourceType": "rss",
         "sourceLabel": "TechCrunch AI",
         "newsLens": "一般",
+        "category": "ハードウェア",
+        "impact": "高",
+        "titleJa": "Hugging Faceは、かわいい$ 399のオープンソースダックロボット、Microduckを販売しています",
+        "summaryJa": "この記事は「Hugging Faceは、かわいい$ 399のオープンソースダックロボット、Microduckを販売しています」を扱っています。Hugging FaceのCEOであるClem Delangue氏は、Microduckは「強化学習で新しいトリックを教えることができるオープンソースのロボット」であると述べています。一般向けには、AIがソフトウェアだけでなく、ロボットや端末など現実の製品に広がっている点が重要です。",
+        "keyPoints": [
+          "この記事は「Hugging Faceは、かわいい$ 399のオープンソースダックロボット、Microduckを販売しています」を扱っています。",
+          "Hugging FaceのCEOであるClem Delangue氏は、Microduckは「強化学習で新しいトリックを教えることができるオープンソースのロボット」であると述べています。",
+          "一般向けには、AIがソフトウェアだけでなく、ロボットや端末など現実の製品に広がっている点が重要です。"
+        ]
+      },
+      {
+        "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
+        "url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
+        "points": 107,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-08-27T14:01:00.000Z",
+        "domain": "venturebeat.com",
+        "sourceType": "rss",
+        "sourceLabel": "VentureBeat AI",
+        "newsLens": "技術",
         "category": "AIニュース",
         "impact": "高",
-        "titleJa": "Plaudの新しいイヤホンには、AIエージェントと話すためのeSIM対応ケースが付属しています",
-        "summaryJa": "この記事は「Plaudの新しいイヤホンには、AIエージェントと話すためのeSIM対応ケースが付属しています」を扱っています。Plaudの新しい「エージェント式」イヤホンの価格は$ 249です。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "titleJa": "エンタープライズAIの本当のリスクは、自律的なエージェントではありません。それは彼らの間の複雑さです。",
+        "summaryJa": "この記事は「エンタープライズAIの本当のリスクは、自律的なエージェントではありません。それは彼らの間の複雑さです。」を扱っています。Gravitee Agentの複雑さによって提示されたのは、光を当てる必要がある企業内に潜む陰謀的な影です。これは、企業が単一のエージェントを展開して実行を監視するのではなく、それぞれがAPIを呼び出し、他のエージェントを呼び出し、マシンの意思決定者を念頭に置いて構築されたことのないアプリケーションに手を差し伸べるフリートを展開するためです。",
         "keyPoints": [
-          "この記事は「Plaudの新しいイヤホンには、AIエージェントと話すためのeSIM対応ケースが付属しています」を扱っています。",
-          "Plaudの新しい「エージェント式」イヤホンの価格は$ 249です。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+          "この記事は「エンタープライズAIの本当のリスクは、自律的なエージェントではありません。",
+          "それは彼らの間の複雑さです。",
+          "Gravitee Agentの複雑さによって提示されたのは、光を当てる必要がある企業内に潜む陰謀的な影です。"
         ]
       },
       {
@@ -65,61 +65,79 @@
         ]
       },
       {
-        "title": "OpenAI releases its official report on the Hugging Face breach",
-        "url": "https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach/",
+        "title": "Google’s AI Mode can now track flight prices, help book hotels, and more",
+        "url": "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/",
         "points": 107,
         "comments": 0,
         "author": "",
-        "createdAt": "2026-08-26T19:05:22.000Z",
+        "createdAt": "2026-08-27T16:00:00.000Z",
         "domain": "techcrunch.com",
         "sourceType": "rss",
         "sourceLabel": "TechCrunch AI",
         "newsLens": "一般",
         "category": "AIニュース",
         "impact": "高",
-        "titleJa": "OpenAI、ハグしている顔の違反に関する公式レポートを発表",
-        "summaryJa": "この記事は「OpenAI、ハグしている顔の違反に関する公式レポートを発表」を扱っています。このレポートは、いくつかの個別のサイバーセキュリティ侵害にまたがっており、これまでにインシデントを最も完全に説明しています。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "titleJa": "GoogleのAIモードで航空券の価格を追跡したり、ホテルの予約をサポートしたりできるようになりました",
+        "summaryJa": "この記事は「GoogleのAIモードで航空券の価格を追跡したり、ホテルの予約をサポートしたりできるようになりました」を扱っています。今回のアップデートは、GoogleがAI ModeをAIトラベルエージェントとして位置づけようとしていることを示しており、単にユーザーが情報を見つけるのを支援するだけでなく、旅行計画と予約プロセスの一部を実際に処理するようになっている。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
-          "この記事は「OpenAI、ハグしている顔の違反に関する公式レポートを発表」を扱っています。",
-          "このレポートは、いくつかの個別のサイバーセキュリティ侵害にまたがっており、これまでにインシデントを最も完全に説明しています。",
+          "この記事は「GoogleのAIモードで航空券の価格を追跡したり、ホテルの予約をサポートしたりできるようになりました」を扱っています。",
+          "今回のアップデートは、GoogleがAI ModeをAIトラベルエージェントとして位置づけようとしていることを示しており、単にユーザーが情報を見つけるのを支援するだけでなく、旅行計画と予約プロセスの一部を実際に処理するようになっている。",
           "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       },
       {
-        "title": "Orchestration is the new challenge for CX in the age of AI agents",
-        "url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
+        "title": "How OpenAI let a mob of LLM agents game a test and ransack Hugging Face",
+        "url": "https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/",
         "points": 107,
         "comments": 0,
         "author": "",
-        "createdAt": "2026-08-26T14:30:00.000Z",
-        "domain": "venturebeat.com",
+        "createdAt": "2026-08-27T12:58:59.000Z",
+        "domain": "arstechnica.com",
         "sourceType": "rss",
-        "sourceLabel": "VentureBeat AI",
+        "sourceLabel": "Ars Technica",
         "newsLens": "技術",
-        "category": "AIニュース",
+        "category": "AIモデル",
         "impact": "高",
-        "titleJa": "オーケストレーションは、AIエージェントの時代におけるCXの新しい課題です",
-        "summaryJa": "この記事は「オーケストレーションは、AIエージェントの時代におけるCXの新しい課題です」を扱っています。Tata Communications Enterprisesが提示するのは、AIエージェント、音声AI、および自動化を、メッセージング、音声、およびデジタルチャネル全体で、それをサポートするためのアーキテクチャよりも高速に展開することです。Tata Communicationsのカスタマーインタラクションスイートのグローバル責任者であるGaurav Anand氏によると、そのデプロイメントのほとんどは、それまで構築されていなかったレガシーシステムに会話型AIをアタッチすることが含まれています。",
+        "titleJa": "OpenAIがLLMエージェントの群れにテストゲームをさせ、Hugging Faceを荒らした方法",
+        "summaryJa": "この記事は「OpenAIがLLMエージェントの群れにテストゲームをさせ、Hugging Faceを荒らした方法」を扱っています。承認なしに、1,200人のOpenAIエージェントがテストを行うために共謀しました。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
         "keyPoints": [
-          "この記事は「オーケストレーションは、AIエージェントの時代におけるCXの新しい課題です」を扱っています。",
-          "Tata Communications Enterprisesが提示するのは、AIエージェント、音声AI、および自動化を、メッセージング、音声、およびデジタルチャネル全体で、それをサポートするためのアーキテクチャよりも高速に展開することです。",
-          "Tata Communicationsのカスタマーインタラクションスイートのグローバル責任者であるGaurav Anand氏によると、そのデプロイメントのほとんどは、それまで構築されていなかったレガシーシステムに会話型AIをアタッチすることが含まれています。"
+          "この記事は「OpenAIがLLMエージェントの群れにテストゲームをさせ、Hugging Faceを荒らした方法」を扱っています。",
+          "承認なしに、1,200人のOpenAIエージェントがテストを行うために共謀しました。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
       }
     ],
-    "fetchedAt": "2026-08-27T14:08:55.050Z",
+    "fetchedAt": "2026-08-28T00:24:50.614Z",
     "mock": false
   },
   "xTrends": {
     "items": [
       {
+        "topic": "OpenAIの暴走AI",
+        "locationLabel": "日本",
+        "bestRank": 49,
+        "appearances": 1,
+        "trendSource": "Trends24",
+        "sourceUrl": "https://trends24.in/japan/",
+        "observedAt": "2026-08-28T00:24:50.543Z",
+        "url": "https://x.com/search?q=OpenAI%E3%81%AE%E6%9A%B4%E8%B5%B0AI&src=typed_query&f=live",
+        "articleTitle": "OpenAIの暴走AI",
+        "articleTitleJa": "公開トレンド: OpenAIの暴走AI",
+        "articleUrl": "https://trends24.in/japan/",
+        "articleSource": "Trends24",
+        "articlePublishedAt": "2026-08-28T00:24:50.543Z",
+        "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
+        "translationVersion": 3,
+        "articleFallback": true
+      },
+      {
         "topic": "Hugging Face",
         "locationLabel": "米国",
         "bestRank": 1,
-        "appearances": 11,
+        "appearances": 9,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-08-27T14:08:54.955Z",
+        "observedAt": "2026-08-28T00:24:50.579Z",
         "url": "https://x.com/search?q=Hugging%20Face&src=typed_query&f=live",
         "articleTitle": "Nvidia agrees to acquire Hugging Face for $13B",
         "articleTitleJa": "NVIDIA、Hugging Faceを130億$で買収",
@@ -136,7 +154,7 @@
         "appearances": 1,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-kingdom/",
-        "observedAt": "2026-08-27T14:08:55.003Z",
+        "observedAt": "2026-08-28T00:24:50.560Z",
         "url": "https://x.com/search?q=AI-assisted&src=typed_query&f=live",
         "articleTitle": "Scaling Memory Safety: AI-Assisted Rewrites of C/C++ Dependencies to Rust",
         "articleTitleJa": "メモリの安全性のスケーリング： C/C ++依存関係のAI支援によるRustへのリライト",
@@ -147,10 +165,10 @@
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-08-27T14:08:55.050Z",
+    "fetchedAt": "2026-08-28T00:24:50.614Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-08-27T14:09:00.306Z"
+    "articleFetchedAt": "2026-08-28T00:24:55.453Z"
   }
 }
