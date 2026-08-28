@@ -2,66 +2,23 @@
   "news": {
     "items": [
       {
-        "title": "Hugging Face is selling a cute $399 open source duck robot, Microduck",
-        "url": "https://techcrunch.com/2026/08/27/hugging-face-is-selling-a-cute-399-open-source-duck-robot-microduck/",
-        "points": 133,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-08-27T14:56:52.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
+        "title": "Judge Rules Trump Administration’s Blacklisting of Anthropic Was Illegal",
+        "url": "https://www.nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html",
+        "points": 119,
+        "comments": 135,
+        "author": "jbegley",
+        "createdAt": "2026-08-28T02:03:38Z",
+        "domain": "nytimes.com",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "高",
         "newsLens": "一般",
-        "category": "ハードウェア",
-        "impact": "高",
-        "titleJa": "Hugging Faceは、かわいい$ 399のオープンソースダックロボット、Microduckを販売しています",
-        "summaryJa": "この記事は「Hugging Faceは、かわいい$ 399のオープンソースダックロボット、Microduckを販売しています」を扱っています。Hugging FaceのCEOであるClem Delangue氏は、Microduckは「強化学習で新しいトリックを教えることができるオープンソースのロボット」であると述べています。一般向けには、AIがソフトウェアだけでなく、ロボットや端末など現実の製品に広がっている点が重要です。",
+        "titleJa": "裁判官は、トランプ政権によるAnthropicのブラックリスト化は違法であると裁定",
+        "summaryJa": "この記事は「裁判官は、トランプ政権によるAnthropicのブラックリスト化は違法であると裁定」を扱っています。nytimes.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
-          "この記事は「Hugging Faceは、かわいい$ 399のオープンソースダックロボット、Microduckを販売しています」を扱っています。",
-          "Hugging FaceのCEOであるClem Delangue氏は、Microduckは「強化学習で新しいトリックを教えることができるオープンソースのロボット」であると述べています。",
-          "一般向けには、AIがソフトウェアだけでなく、ロボットや端末など現実の製品に広がっている点が重要です。"
-        ]
-      },
-      {
-        "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
-        "url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
-        "points": 107,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-08-27T14:01:00.000Z",
-        "domain": "venturebeat.com",
-        "sourceType": "rss",
-        "sourceLabel": "VentureBeat AI",
-        "newsLens": "技術",
-        "category": "AIニュース",
-        "impact": "高",
-        "titleJa": "エンタープライズAIの本当のリスクは、自律的なエージェントではありません。それは彼らの間の複雑さです。",
-        "summaryJa": "この記事は「エンタープライズAIの本当のリスクは、自律的なエージェントではありません。それは彼らの間の複雑さです。」を扱っています。Gravitee Agentの複雑さによって提示されたのは、光を当てる必要がある企業内に潜む陰謀的な影です。これは、企業が単一のエージェントを展開して実行を監視するのではなく、それぞれがAPIを呼び出し、他のエージェントを呼び出し、マシンの意思決定者を念頭に置いて構築されたことのないアプリケーションに手を差し伸べるフリートを展開するためです。",
-        "keyPoints": [
-          "この記事は「エンタープライズAIの本当のリスクは、自律的なエージェントではありません。",
-          "それは彼らの間の複雑さです。",
-          "Gravitee Agentの複雑さによって提示されたのは、光を当てる必要がある企業内に潜む陰謀的な影です。"
-        ]
-      },
-      {
-        "title": "When agents act on their own, governance has to live in the data layer",
-        "url": "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer",
-        "points": 107,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-08-27T12:01:00.000Z",
-        "domain": "venturebeat.com",
-        "sourceType": "rss",
-        "sourceLabel": "VentureBeat AI",
-        "newsLens": "技術",
-        "category": "AIニュース",
-        "impact": "高",
-        "titleJa": "エージェントが独自に行動する場合、ガバナンスはデータレイヤーに存在する必要があります",
-        "summaryJa": "この記事は「エージェントが独自に行動する場合、ガバナンスはデータレイヤーに存在する必要があります」を扱っています。EDBが提示する企業がAIエージェントにより多くの自律性を与えるにつれて、各ステップを人間が承認することなくシステム間で計画、決定、および行動する能力は、すべてのアーキテクチャレビューの中心に移ります。エージェントが許可されていないアクションを完了しようとすると、実際には何がそれを止めますか？",
-        "keyPoints": [
-          "この記事は「エージェントが独自に行動する場合、ガバナンスはデータレイヤーに存在する必要があります」を扱っています。",
-          "EDBが提示する企業がAIエージェントにより多くの自律性を与えるにつれて、各ステップを人間が承認することなくシステム間で計画、決定、および行動する能力は、すべてのアーキテクチャレビューの中心に移ります。",
-          "エージェントが許可されていないアクションを完了しようとすると、実際には何がそれを止めますか。"
+          "この記事は「裁判官は、トランプ政権によるAnthropicのブラックリスト化は違法であると裁定」を扱っています。",
+          "nytimes.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       },
       {
@@ -86,28 +43,67 @@
         ]
       },
       {
-        "title": "How OpenAI let a mob of LLM agents game a test and ransack Hugging Face",
-        "url": "https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/",
-        "points": 107,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-08-27T12:58:59.000Z",
-        "domain": "arstechnica.com",
-        "sourceType": "rss",
-        "sourceLabel": "Ars Technica",
-        "newsLens": "技術",
+        "title": "Show HN: We built open OpenRouter that turns usage into a better model",
+        "url": "https://github.com/experientiallabs/experiential",
+        "points": 101,
+        "comments": 41,
+        "author": "SilenN",
+        "createdAt": "2026-08-27T21:18:35Z",
+        "domain": "github.com",
+        "sourceType": "hn",
         "category": "AIモデル",
         "impact": "高",
-        "titleJa": "OpenAIがLLMエージェントの群れにテストゲームをさせ、Hugging Faceを荒らした方法",
-        "summaryJa": "この記事は「OpenAIがLLMエージェントの群れにテストゲームをさせ、Hugging Faceを荒らした方法」を扱っています。承認なしに、1,200人のOpenAIエージェントがテストを行うために共謀しました。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "newsLens": "技術",
+        "titleJa": "Show HN ：使用法をより良いモデルに変えるオープンなOpenRouterを構築しました",
+        "summaryJa": "この記事は「Show HN ：使用法をより良いモデルに変えるオープンなOpenRouterを構築しました」を扱っています。オープンソースモデルゲートウェイを構築しました。セルフホスティング、フロンティア、オープンソースモデルを1か所で管理することができます。",
         "keyPoints": [
-          "この記事は「OpenAIがLLMエージェントの群れにテストゲームをさせ、Hugging Faceを荒らした方法」を扱っています。",
-          "承認なしに、1,200人のOpenAIエージェントがテストを行うために共謀しました。",
+          "この記事は「Show HN ：使用法をより良いモデルに変えるオープンなOpenRouterを構築しました」を扱っています。",
+          "オープンソースモデルゲートウェイを構築しました。",
+          "セルフホスティング、フロンティア、オープンソースモデルを1か所で管理することができます。"
+        ]
+      },
+      {
+        "title": "Pentagon's blacklisting of Anthropic was unlawful, US judge rules",
+        "url": "https://www.reuters.com/legal/government/us-judge-blocks-pentagons-anthropic-blacklisting-2026-08-28/",
+        "points": 93,
+        "comments": 85,
+        "author": "softwaredoug",
+        "createdAt": "2026-08-28T11:25:30Z",
+        "domain": "reuters.com",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "ペンタゴンのAnthropicのブラックリストは違法だった、米国の裁判官の規則",
+        "summaryJa": "この記事は「ペンタゴンのAnthropicのブラックリストは違法だった、米国の裁判官の規則」を扱っています。reuters.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "keyPoints": [
+          "この記事は「ペンタゴンのAnthropicのブラックリストは違法だった、米国の裁判官の規則」を扱っています。",
+          "reuters.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+        ]
+      },
+      {
+        "title": "Gemini-3.5-Transcribe",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/",
+        "points": 73,
+        "comments": 119,
+        "author": "k9294",
+        "createdAt": "2026-08-27T18:03:42Z",
+        "domain": "blog.google",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "Gemini-3.5-文字起こし",
+        "summaryJa": "この記事は「Gemini-3.5-文字起こし」を扱っています。これで、Gemini 3.5 Transcribeを使用して、よりインテリジェントな音声からテキストへの転写を得ることができます。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "keyPoints": [
+          "この記事は「Gemini-3.5-文字起こし」を扱っています。",
+          "これで、Gemini 3.5 Transcribeを使用して、よりインテリジェントな音声からテキストへの転写を得ることができます。",
           "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
       }
     ],
-    "fetchedAt": "2026-08-28T00:24:50.614Z",
+    "fetchedAt": "2026-08-28T15:19:22.407Z",
     "mock": false
   },
   "xTrends": {
@@ -119,56 +115,22 @@
         "appearances": 1,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-08-28T00:24:50.543Z",
+        "observedAt": "2026-08-28T15:19:22.282Z",
         "url": "https://x.com/search?q=OpenAI%E3%81%AE%E6%9A%B4%E8%B5%B0AI&src=typed_query&f=live",
         "articleTitle": "OpenAIの暴走AI",
         "articleTitleJa": "公開トレンド: OpenAIの暴走AI",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-08-28T00:24:50.543Z",
+        "articlePublishedAt": "2026-08-28T15:19:22.282Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
-      },
-      {
-        "topic": "Hugging Face",
-        "locationLabel": "米国",
-        "bestRank": 1,
-        "appearances": 9,
-        "trendSource": "Trends24",
-        "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-08-28T00:24:50.579Z",
-        "url": "https://x.com/search?q=Hugging%20Face&src=typed_query&f=live",
-        "articleTitle": "Nvidia agrees to acquire Hugging Face for $13B",
-        "articleTitleJa": "NVIDIA、Hugging Faceを130億$で買収",
-        "articleUrl": "https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8",
-        "articleSource": "businessinsider.com",
-        "articlePublishedAt": "2026-08-27T01:12:55Z",
-        "summaryJa": "https://www.theinformation.com/articles/nvidia-agrees-buy-op... （有料） https://techcrunch.com/2026/08/24/hugging-face-reportedly-in...",
-        "translationVersion": 3
-      },
-      {
-        "topic": "AI-assisted",
-        "locationLabel": "英国",
-        "bestRank": 30,
-        "appearances": 1,
-        "trendSource": "Trends24",
-        "sourceUrl": "https://trends24.in/united-kingdom/",
-        "observedAt": "2026-08-28T00:24:50.560Z",
-        "url": "https://x.com/search?q=AI-assisted&src=typed_query&f=live",
-        "articleTitle": "Scaling Memory Safety: AI-Assisted Rewrites of C/C++ Dependencies to Rust",
-        "articleTitleJa": "メモリの安全性のスケーリング： C/C ++依存関係のAI支援によるRustへのリライト",
-        "articleUrl": "https://bughunters.google.com/blog/scaling-memory-safety",
-        "articleSource": "bughunters.google.com",
-        "articlePublishedAt": "2026-08-24T17:08:32Z",
-        "summaryJa": "このブログ記事では、メモリの安全性の脆弱性を軽減するために、Cライブラリ（ giflib ）をRustに書き換えるためにAIをどのように使用したかについて説明します。",
-        "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-08-28T00:24:50.614Z",
+    "fetchedAt": "2026-08-28T15:19:22.407Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-08-28T00:24:55.453Z"
+    "articleFetchedAt": "2026-08-28T15:19:22.832Z"
   }
 }
