@@ -2,10 +2,10 @@
   "news": {
     "items": [
       {
-        "title": "Judge Rules Trump Administration’s Blacklisting of Anthropic Was Illegal",
+        "title": "Judge rules Trump administration’s blacklisting of Anthropic was illegal",
         "url": "https://www.nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html",
         "points": 119,
-        "comments": 135,
+        "comments": 395,
         "author": "jbegley",
         "createdAt": "2026-08-28T02:03:38Z",
         "domain": "nytimes.com",
@@ -22,51 +22,51 @@
         ]
       },
       {
-        "title": "Google’s AI Mode can now track flight prices, help book hotels, and more",
-        "url": "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/",
-        "points": 107,
+        "title": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
+        "url": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
+        "points": 105,
         "comments": 0,
         "author": "",
-        "createdAt": "2026-08-27T16:00:00.000Z",
+        "createdAt": "2026-08-28T12:46:12.000Z",
         "domain": "techcrunch.com",
         "sourceType": "rss",
         "sourceLabel": "TechCrunch AI",
         "newsLens": "一般",
         "category": "AIニュース",
         "impact": "高",
-        "titleJa": "GoogleのAIモードで航空券の価格を追跡したり、ホテルの予約をサポートしたりできるようになりました",
-        "summaryJa": "この記事は「GoogleのAIモードで航空券の価格を追跡したり、ホテルの予約をサポートしたりできるようになりました」を扱っています。今回のアップデートは、GoogleがAI ModeをAIトラベルエージェントとして位置づけようとしていることを示しており、単にユーザーが情報を見つけるのを支援するだけでなく、旅行計画と予約プロセスの一部を実際に処理するようになっている。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "titleJa": "Anthropic、ペンタゴンのサプライチェーンリスクラベルを初めて上訴",
+        "summaryJa": "この記事は「Anthropic、ペンタゴンのサプライチェーンリスクラベルを初めて上訴」を扱っています。連邦裁判所の判事は、トランプ政権が違法にAnthropicをサプライチェーンリスクとレッテルを貼ったと裁定し、ワシントンで2度目のペンタゴン訴訟が続いているため、AI企業に勝利をもたらした。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
-          "この記事は「GoogleのAIモードで航空券の価格を追跡したり、ホテルの予約をサポートしたりできるようになりました」を扱っています。",
-          "今回のアップデートは、GoogleがAI ModeをAIトラベルエージェントとして位置づけようとしていることを示しており、単にユーザーが情報を見つけるのを支援するだけでなく、旅行計画と予約プロセスの一部を実際に処理するようになっている。",
+          "この記事は「Anthropic、ペンタゴンのサプライチェーンリスクラベルを初めて上訴」を扱っています。",
+          "連邦裁判所の判事は、トランプ政権が違法にAnthropicをサプライチェーンリスクとレッテルを貼ったと裁定し、ワシントンで2度目のペンタゴン訴訟が続いているため、AI企業に勝利をもたらした。",
           "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       },
       {
-        "title": "Show HN: We built open OpenRouter that turns usage into a better model",
-        "url": "https://github.com/experientiallabs/experiential",
-        "points": 101,
-        "comments": 41,
-        "author": "SilenN",
-        "createdAt": "2026-08-27T21:18:35Z",
-        "domain": "github.com",
+        "title": "GLM-5.3 is now open-weight",
+        "url": "https://huggingface.co/zai-org/GLM-5.3",
+        "points": 93,
+        "comments": 208,
+        "author": "jeudesprits",
+        "createdAt": "2026-08-28T15:20:13Z",
+        "domain": "huggingface.co",
         "sourceType": "hn",
-        "category": "AIモデル",
+        "category": "AIニュース",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "Show HN ：使用法をより良いモデルに変えるオープンなOpenRouterを構築しました",
-        "summaryJa": "この記事は「Show HN ：使用法をより良いモデルに変えるオープンなOpenRouterを構築しました」を扱っています。オープンソースモデルゲートウェイを構築しました。セルフホスティング、フロンティア、オープンソースモデルを1か所で管理することができます。",
+        "titleJa": "GLM-5.3がオープンウェイトになりました",
+        "summaryJa": "この記事は「GLM-5.3がオープンウェイトになりました」を扱っています。huggingface.coが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
         "keyPoints": [
-          "この記事は「Show HN ：使用法をより良いモデルに変えるオープンなOpenRouterを構築しました」を扱っています。",
-          "オープンソースモデルゲートウェイを構築しました。",
-          "セルフホスティング、フロンティア、オープンソースモデルを1か所で管理することができます。"
+          "この記事は「GLM-5.3がオープンウェイトになりました」を扱っています。",
+          "huggingface.coが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
       },
       {
         "title": "Pentagon's blacklisting of Anthropic was unlawful, US judge rules",
         "url": "https://www.reuters.com/legal/government/us-judge-blocks-pentagons-anthropic-blacklisting-2026-08-28/",
         "points": 93,
-        "comments": 85,
+        "comments": 3,
         "author": "softwaredoug",
         "createdAt": "2026-08-28T11:25:30Z",
         "domain": "reuters.com",
@@ -83,54 +83,35 @@
         ]
       },
       {
-        "title": "Gemini-3.5-Transcribe",
-        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/",
-        "points": 73,
-        "comments": 119,
-        "author": "k9294",
-        "createdAt": "2026-08-27T18:03:42Z",
-        "domain": "blog.google",
+        "title": "The Analytical AI Handbook",
+        "url": "https://handbook.sutro.sh",
+        "points": 52,
+        "comments": 2,
+        "author": "sethkim",
+        "createdAt": "2026-08-28T19:01:47Z",
+        "domain": "handbook.sutro.sh",
         "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "高",
+        "category": "AIニュース",
+        "impact": "低",
         "newsLens": "技術",
-        "titleJa": "Gemini-3.5-文字起こし",
-        "summaryJa": "この記事は「Gemini-3.5-文字起こし」を扱っています。これで、Gemini 3.5 Transcribeを使用して、よりインテリジェントな音声からテキストへの転写を得ることができます。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "titleJa": "分析的AIハンドブック",
+        "summaryJa": "この記事は「分析的AIハンドブック」を扱っています。信頼性の高い意思決定モデルを構築、測定、最適化、拡張するための生きたFAQ。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
         "keyPoints": [
-          "この記事は「Gemini-3.5-文字起こし」を扱っています。",
-          "これで、Gemini 3.5 Transcribeを使用して、よりインテリジェントな音声からテキストへの転写を得ることができます。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+          "この記事は「分析的AIハンドブック」を扱っています。",
+          "信頼性の高い意思決定モデルを構築、測定、最適化、拡張するための生きたFAQ。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
       }
     ],
-    "fetchedAt": "2026-08-28T15:19:22.407Z",
+    "fetchedAt": "2026-08-29T01:44:47.894Z",
     "mock": false
   },
   "xTrends": {
-    "items": [
-      {
-        "topic": "OpenAIの暴走AI",
-        "locationLabel": "日本",
-        "bestRank": 49,
-        "appearances": 1,
-        "trendSource": "Trends24",
-        "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-08-28T15:19:22.282Z",
-        "url": "https://x.com/search?q=OpenAI%E3%81%AE%E6%9A%B4%E8%B5%B0AI&src=typed_query&f=live",
-        "articleTitle": "OpenAIの暴走AI",
-        "articleTitleJa": "公開トレンド: OpenAIの暴走AI",
-        "articleUrl": "https://trends24.in/japan/",
-        "articleSource": "Trends24",
-        "articlePublishedAt": "2026-08-28T15:19:22.282Z",
-        "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
-        "translationVersion": 3,
-        "articleFallback": true
-      }
-    ],
-    "fetchedAt": "2026-08-28T15:19:22.407Z",
+    "items": [],
+    "fetchedAt": "2026-08-29T01:44:47.894Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-08-28T15:19:22.832Z"
+    "articleFetchedAt": "2026-08-29T01:44:48.028Z"
   }
 }
