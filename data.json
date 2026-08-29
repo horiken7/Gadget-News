@@ -2,23 +2,23 @@
   "news": {
     "items": [
       {
-        "title": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
-        "url": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
-        "points": 105,
+        "title": "Nvidia’s AI advantage is moving beyond the GPU",
+        "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
+        "points": 107,
         "comments": 0,
         "author": "",
-        "createdAt": "2026-08-28T12:46:12.000Z",
+        "createdAt": "2026-08-29T13:00:00.000Z",
         "domain": "techcrunch.com",
         "sourceType": "rss",
         "sourceLabel": "TechCrunch AI",
         "newsLens": "一般",
         "category": "AIニュース",
         "impact": "高",
-        "titleJa": "Anthropic、ペンタゴンのサプライチェーンリスクラベルを初めて上訴",
-        "summaryJa": "この記事は「Anthropic、ペンタゴンのサプライチェーンリスクラベルを初めて上訴」を扱っています。連邦裁判所の判事は、トランプ政権が違法にAnthropicをサプライチェーンリスクとレッテルを貼ったと裁定し、ワシントンで2度目のペンタゴン訴訟が続いているため、AI企業に勝利をもたらした。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "titleJa": "NVIDIAのAIの優位性はGPUを超えています",
+        "summaryJa": "この記事は「NVIDIAのAIの優位性はGPUを超えています」を扱っています。新世代のデータセンターシステムは、より多くのプロセッササイクルではなく、よりスマートなトラフィック制御で効率を向上させています。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
-          "この記事は「Anthropic、ペンタゴンのサプライチェーンリスクラベルを初めて上訴」を扱っています。",
-          "連邦裁判所の判事は、トランプ政権が違法にAnthropicをサプライチェーンリスクとレッテルを貼ったと裁定し、ワシントンで2度目のペンタゴン訴訟が続いているため、AI企業に勝利をもたらした。",
+          "この記事は「NVIDIAのAIの優位性はGPUを超えています」を扱っています。",
+          "新世代のデータセンターシステムは、より多くのプロセッササイクルではなく、よりスマートなトラフィック制御で効率を向上させています。",
           "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       },
@@ -26,7 +26,7 @@
         "title": "I accidentally turned LLM memory into program analysis",
         "url": "https://pwning.systems/posts/llm-memory-program-analysis/",
         "points": 101,
-        "comments": 32,
+        "comments": 65,
         "author": "matt_d",
         "createdAt": "2026-08-28T23:27:45Z",
         "domain": "pwning.systems",
@@ -40,46 +40,6 @@
           "この記事は「誤ってLLMメモリをプログラム解析に変えてしまった」を扱っています。",
           "LLMエージェントにより良いメモリを提供しようとするのをやめて、代わりにLemmalogを構築したのはなぜですか。",
           "Lemmalogは、エージェントの知識を分析状態として維持するDatalogエンジンで、出所、撤回、増分評価に加えて、LongMemEvalとLoCoMoでベンチマークしたときに何が起こりましたか。"
-        ]
-      },
-      {
-        "title": "StemDeck, a free, open-source and local AI stem separator",
-        "url": "https://github.com/stemdeckapp/stemdeck",
-        "points": 94,
-        "comments": 21,
-        "author": "thclpr",
-        "createdAt": "2026-08-29T01:24:13Z",
-        "domain": "github.com",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "StemDeck、無料、オープンソース、ローカルAIステムセパレータ",
-        "summaryJa": "この記事は「StemDeck、無料、オープンソース、ローカルAIステムセパレータ」を扱っています。Stemdeckは、ミュージシャン、プロデューサー、愛好家のためのモダンなステム抽出プラットフォームです。モダンでインタラクティブなインターフェース（ stemdeckapp/stemdeck ）を介して、練習、文字起こし、リミックス、クリエイティブなオーディオワークフローのためのボーカル、ドラム、ベース、ピアノ、ギターを分離するように設計されています。",
-        "keyPoints": [
-          "この記事は「StemDeck、無料、オープンソース、ローカルAIステムセパレータ」を扱っています。",
-          "Stemdeckは、ミュージシャン、プロデューサー、愛好家のためのモダンなステム抽出プラットフォームです。",
-          "モダンでインタラクティブなインターフェース（ stemdeckapp/stemdeck ）を介して、練習、文字起こし、リミックス、クリエイティブなオーディオワークフローのためのボーカル、ドラム、ベース、ピアノ、ギターを分離するように設計されています。"
-        ]
-      },
-      {
-        "title": "GLM-5.3 is now open-weight",
-        "url": "https://huggingface.co/zai-org/GLM-5.3",
-        "points": 93,
-        "comments": 232,
-        "author": "jeudesprits",
-        "createdAt": "2026-08-28T15:20:13Z",
-        "domain": "huggingface.co",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "GLM-5.3がオープンウェイトになりました",
-        "summaryJa": "この記事は「GLM-5.3がオープンウェイトになりました」を扱っています。huggingface.coが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
-        "keyPoints": [
-          "この記事は「GLM-5.3がオープンウェイトになりました」を扱っています。",
-          "huggingface.coが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
       },
       {
@@ -102,17 +62,57 @@
           "Neocloud Lambdaは、NvidiaのAIチップを購入してMicrosoftにリースするために、10億$の民間債務を調達した。",
           "これは一連の融資の最新のものであり、AIブームの高コストを強調しています。"
         ]
+      },
+      {
+        "title": "Show HN: Conduct, open-source guardrails for LLM and MCP tool calls",
+        "url": "https://github.com/sseshachala/conductai",
+        "points": 75,
+        "comments": 4,
+        "author": "sudhendra1",
+        "createdAt": "2026-08-28T19:29:20Z",
+        "domain": "github.com",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "低",
+        "newsLens": "技術",
+        "titleJa": "HNを表示： LLMとMCPツールコールのためのオープンソースのガードレール",
+        "summaryJa": "この記事は「HNを表示： LLMとMCPツールコールのためのオープンソースのガードレール」を扱っています。チームのためのAIエージェントガバナンス。ランタイムファイアウォールは、何が起こったかを示します。",
+        "keyPoints": [
+          "この記事は「HNを表示： LLMとMCPツールコールのためのオープンソースのガードレール」を扱っています。",
+          "チームのためのAIエージェントガバナンス。",
+          "ランタイムファイアウォールは、何が起こったかを示します。"
+        ]
+      },
+      {
+        "title": "Debian votes to allow \"responsible use of generative AI\"",
+        "url": "https://lwn.net/Articles/1091231/",
+        "points": 73,
+        "comments": 225,
+        "author": "pluc",
+        "createdAt": "2026-08-29T14:02:10Z",
+        "domain": "lwn.net",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "Debianが「ジェネレーティブAIの責任ある使用」を許可する投票",
+        "summaryJa": "この記事は「Debianが「ジェネレーティブAIの責任ある使用」を許可する投票」を扱っています。大規模言語モデルの使用に関するDebian一般決議投票の結果は[...]。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "keyPoints": [
+          "この記事は「Debianが「ジェネレーティブAIの責任ある使用」を許可する投票」を扱っています。",
+          "大規模言語モデルの使用に関するDebian一般決議投票の結果は[...]。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+        ]
       }
     ],
-    "fetchedAt": "2026-08-29T10:01:09.398Z",
+    "fetchedAt": "2026-08-29T16:42:29.514Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-08-29T10:01:09.398Z",
+    "fetchedAt": "2026-08-29T16:42:29.514Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-08-29T10:01:09.522Z"
+    "articleFetchedAt": "2026-08-29T16:42:29.616Z"
   }
 }
