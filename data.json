@@ -64,30 +64,30 @@
         ]
       },
       {
-        "title": "Debian votes to allow \"responsible use of generative AI\"",
-        "url": "https://lwn.net/Articles/1091231/",
-        "points": 73,
-        "comments": 401,
-        "author": "pluc",
-        "createdAt": "2026-08-29T14:02:10Z",
-        "domain": "lwn.net",
+        "title": "Warp builds self-improving agents on Claude",
+        "url": "https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude",
+        "points": 82,
+        "comments": 52,
+        "author": "shenli3514",
+        "createdAt": "2026-08-29T19:09:33Z",
+        "domain": "claude.com",
         "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "高",
+        "category": "AIモデル",
+        "impact": "低",
         "newsLens": "技術",
-        "titleJa": "Debianが「ジェネレーティブAIの責任ある使用」を許可する投票",
-        "summaryJa": "この記事は「Debianが「ジェネレーティブAIの責任ある使用」を許可する投票」を扱っています。大規模言語モデルの使用に関するDebian一般決議投票の結果は[...]。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "titleJa": "ワープはClaudeで自己改善エージェントを構築します",
+        "summaryJa": "この記事は「ワープはClaudeで自己改善エージェントを構築します」を扱っています。Warpがどのようにして、誰もが自己改善エージェントを作成するために使用できるシンプルな開発パターンを考案したか。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
         "keyPoints": [
-          "この記事は「Debianが「ジェネレーティブAIの責任ある使用」を許可する投票」を扱っています。",
-          "大規模言語モデルの使用に関するDebian一般決議投票の結果は[...]。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+          "この記事は「ワープはClaudeで自己改善エージェントを構築します」を扱っています。",
+          "Warpがどのようにして、誰もが自己改善エージェントを作成するために使用できるシンプルな開発パターンを考案したか。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
       },
       {
         "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
         "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
         "points": 73,
-        "comments": 23,
+        "comments": 39,
         "author": "gpi",
         "createdAt": "2026-08-29T17:19:47Z",
         "domain": "newsletter.eng-leadership.com",
@@ -104,15 +104,15 @@
         ]
       }
     ],
-    "fetchedAt": "2026-08-29T20:54:02.964Z",
+    "fetchedAt": "2026-08-29T23:17:42.088Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-08-29T20:54:02.964Z",
+    "fetchedAt": "2026-08-29T23:17:42.088Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-08-29T20:54:03.095Z"
+    "articleFetchedAt": "2026-08-29T23:17:42.243Z"
   }
 }
