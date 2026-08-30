@@ -44,30 +44,10 @@
         ]
       },
       {
-        "title": "I accidentally turned LLM memory into program analysis",
-        "url": "https://pwning.systems/posts/llm-memory-program-analysis/",
-        "points": 101,
-        "comments": 71,
-        "author": "matt_d",
-        "createdAt": "2026-08-28T23:27:45Z",
-        "domain": "pwning.systems",
-        "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "誤ってLLMメモリをプログラム解析に変えてしまった",
-        "summaryJa": "この記事は「誤ってLLMメモリをプログラム解析に変えてしまった」を扱っています。LLMエージェントにより良いメモリを提供しようとするのをやめて、代わりにLemmalogを構築したのはなぜですか？Lemmalogは、エージェントの知識を分析状態として維持するDatalogエンジンで、出所、撤回、増分評価に加えて、LongMemEvalとLoCoMoでベンチマークしたときに何が起こりましたか。",
-        "keyPoints": [
-          "この記事は「誤ってLLMメモリをプログラム解析に変えてしまった」を扱っています。",
-          "LLMエージェントにより良いメモリを提供しようとするのをやめて、代わりにLemmalogを構築したのはなぜですか。",
-          "Lemmalogは、エージェントの知識を分析状態として維持するDatalogエンジンで、出所、撤回、増分評価に加えて、LongMemEvalとLoCoMoでベンチマークしたときに何が起こりましたか。"
-        ]
-      },
-      {
         "title": "Warp builds self-improving agents on Claude",
         "url": "https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude",
-        "points": 82,
-        "comments": 52,
+        "points": 83,
+        "comments": 55,
         "author": "shenli3514",
         "createdAt": "2026-08-29T19:09:33Z",
         "domain": "claude.com",
@@ -84,35 +64,55 @@
         ]
       },
       {
-        "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
-        "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
-        "points": 73,
-        "comments": 39,
-        "author": "gpi",
-        "createdAt": "2026-08-29T17:19:47Z",
-        "domain": "newsletter.eng-leadership.com",
+        "title": "Music publishers sue Anthropic, allege \"blantant theft\" of copyrighted music",
+        "url": "https://www.axios.com/2026/08/29/anthropic-sony-warner-music-copyright",
+        "points": 65,
+        "comments": 5,
+        "author": "giuliomagnifico",
+        "createdAt": "2026-08-29T17:28:53Z",
+        "domain": "axios.com",
         "sourceType": "hn",
         "category": "AIニュース",
-        "impact": "高",
+        "impact": "低",
         "newsLens": "技術",
-        "titleJa": "優れた文化は最大の生産性のハックであり、AIではありません",
-        "summaryJa": "この記事は「優れた文化は最大の生産性のハックであり、AIではありません」を扱っています。AIは間違いなく生産性の向上に役立ちますが、それはまず適切な文化が整っている場合に限られます。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "titleJa": "音楽出版社はAnthropicを訴え、著作権で保護された音楽の「ブランタント盗難」を主張",
+        "summaryJa": "この記事は「音楽出版社はAnthropicを訴え、著作権で保護された音楽の「ブランタント盗難」を主張」を扱っています。axios.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
         "keyPoints": [
-          "この記事は「優れた文化は最大の生産性のハックであり、AIではありません」を扱っています。",
-          "AIは間違いなく生産性の向上に役立ちますが、それはまず適切な文化が整っている場合に限られます。",
+          "この記事は「音楽出版社はAnthropicを訴え、著作権で保護された音楽の「ブランタント盗難」を主張」を扱っています。",
+          "axios.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
           "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+        ]
+      },
+      {
+        "title": "The growing divide between AI hype and software engineering reality",
+        "url": "https://optimizedbyotto.com/post/why-open-source-projects-ban-ai/",
+        "points": 56,
+        "comments": 80,
+        "author": "jruohonen",
+        "createdAt": "2026-08-29T16:16:32Z",
+        "domain": "optimizedbyotto.com",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "中",
+        "newsLens": "技術",
+        "titleJa": "AIの誇大宣伝とソフトウェアエンジニアリングの現実との間に広がる格差",
+        "summaryJa": "この記事は「AIの誇大宣伝とソフトウェアエンジニアリングの現実との間に広がる格差」を扱っています。現在、金融市場にはAIバブルが存在することが広く受け入れられています。しかし、適度な意見は、LLMは絶えず改善しており、最終的には人間からより多くのタスクを引き継ぎ、生産性を向上させるというものです。",
+        "keyPoints": [
+          "この記事は「AIの誇大宣伝とソフトウェアエンジニアリングの現実との間に広がる格差」を扱っています。",
+          "現在、金融市場にはAIバブルが存在することが広く受け入れられています。",
+          "しかし、適度な意見は、LLMは絶えず改善しており、最終的には人間からより多くのタスクを引き継ぎ、生産性を向上させるというものです。"
         ]
       }
     ],
-    "fetchedAt": "2026-08-29T23:17:42.088Z",
+    "fetchedAt": "2026-08-30T05:21:54.121Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-08-29T23:17:42.088Z",
+    "fetchedAt": "2026-08-30T05:21:54.121Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-08-29T23:17:42.243Z"
+    "articleFetchedAt": "2026-08-30T05:21:54.297Z"
   }
 }
