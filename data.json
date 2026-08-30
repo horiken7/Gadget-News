@@ -46,8 +46,8 @@
       {
         "title": "Warp builds self-improving agents on Claude",
         "url": "https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude",
-        "points": 83,
-        "comments": 55,
+        "points": 84,
+        "comments": 57,
         "author": "shenli3514",
         "createdAt": "2026-08-29T19:09:33Z",
         "domain": "claude.com",
@@ -64,30 +64,10 @@
         ]
       },
       {
-        "title": "Music publishers sue Anthropic, allege \"blantant theft\" of copyrighted music",
-        "url": "https://www.axios.com/2026/08/29/anthropic-sony-warner-music-copyright",
-        "points": 65,
-        "comments": 5,
-        "author": "giuliomagnifico",
-        "createdAt": "2026-08-29T17:28:53Z",
-        "domain": "axios.com",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "低",
-        "newsLens": "技術",
-        "titleJa": "音楽出版社はAnthropicを訴え、著作権で保護された音楽の「ブランタント盗難」を主張",
-        "summaryJa": "この記事は「音楽出版社はAnthropicを訴え、著作権で保護された音楽の「ブランタント盗難」を主張」を扱っています。axios.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
-        "keyPoints": [
-          "この記事は「音楽出版社はAnthropicを訴え、著作権で保護された音楽の「ブランタント盗難」を主張」を扱っています。",
-          "axios.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
-        ]
-      },
-      {
         "title": "The growing divide between AI hype and software engineering reality",
         "url": "https://optimizedbyotto.com/post/why-open-source-projects-ban-ai/",
-        "points": 56,
-        "comments": 80,
+        "points": 57,
+        "comments": 81,
         "author": "jruohonen",
         "createdAt": "2026-08-29T16:16:32Z",
         "domain": "optimizedbyotto.com",
@@ -102,17 +82,37 @@
           "現在、金融市場にはAIバブルが存在することが広く受け入れられています。",
           "しかし、適度な意見は、LLMは絶えず改善しており、最終的には人間からより多くのタスクを引き継ぎ、生産性を向上させるというものです。"
         ]
+      },
+      {
+        "title": "Claude Code is going reduce limits by 25% from September 14",
+        "url": "https://twitter.com/ClaudeDevs/status/2093742321473065266",
+        "points": 48,
+        "comments": 13,
+        "author": "myselfpraying",
+        "createdAt": "2026-08-29T17:27:31Z",
+        "domain": "twitter.com",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "低",
+        "newsLens": "技術",
+        "titleJa": "Claude Codeは、9月14日から制限を25 ％削減します",
+        "summaryJa": "この記事は「Claude Codeは、9月14日から制限を25 ％削減します」を扱っています。9月14日より、Pro、Max、Team、ライセンスベースのEnterpriseプランでは、Claude Codeの標準的な週ごとの上限が25%引き上げられます。それまでは、現在の50 ％の増加が実施されます。",
+        "keyPoints": [
+          "この記事は「Claude Codeは、9月14日から制限を25 ％削減します」を扱っています。",
+          "9月14日より、Pro、Max、Team、ライセンスベースのEnterpriseプランでは、Claude Codeの標準的な週ごとの上限が25%引き上げられます。",
+          "それまでは、現在の50 ％の増加が実施されます。"
+        ]
       }
     ],
-    "fetchedAt": "2026-08-30T05:21:54.121Z",
+    "fetchedAt": "2026-08-30T11:52:24.619Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-08-30T05:21:54.121Z",
+    "fetchedAt": "2026-08-30T11:52:24.619Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-08-30T05:21:54.297Z"
+    "articleFetchedAt": "2026-08-30T11:52:24.743Z"
   }
 }
