@@ -26,7 +26,7 @@
         "title": "Claude Session URL appended to commit messages and PR descriptions by default",
         "url": "https://github.com/anthropics/claude-code/issues/66504",
         "points": 73,
-        "comments": 184,
+        "comments": 201,
         "author": "sparsesignal",
         "createdAt": "2026-08-30T12:50:54Z",
         "domain": "github.com",
@@ -43,50 +43,50 @@
         ]
       },
       {
-        "title": "Show HN: Murmell – Collaborative cloud canvas for coding agents",
-        "url": "https://murmell.com/",
-        "points": 71,
-        "comments": 2,
-        "author": "Mossab22",
-        "createdAt": "2026-08-30T14:51:05Z",
-        "domain": "murmell.com",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "低",
-        "newsLens": "技術",
-        "titleJa": "HNを表示： Murmell –コーディングエージェントのためのコラボレーションクラウドキャンバス",
-        "summaryJa": "この記事は「HNを表示： Murmell –コーディングエージェントのためのコラボレーションクラウドキャンバス」を扱っています。Murmell （ https://murmell.com ）は、コーディングエージェントがノートパソコンではなくクラウドで一緒に実行される無限のキャンバスです。これはGoogleドキュメントと似ていますが、他のエディターはあなた、あなたのチームメイト、そしてすべて同じキャンバスで作業する一連のエージェントです。",
-        "keyPoints": [
-          "この記事は「HNを表示： Murmell –コーディングエージェントのためのコラボレーションクラウドキャンバス」を扱っています。",
-          "Murmell （ https://murmell.com ）は、コーディングエージェントがノートパソコンではなくクラウドで一緒に実行される無限のキャンバスです。",
-          "これはGoogleドキュメントと似ていますが、他のエディターはあなた、あなたのチームメイト、そしてすべて同じキャンバスで作業する一連のエージェントです。"
-        ]
-      },
-      {
-        "title": "LLM usage in Debian neither endorsed nor prohibited",
-        "url": "https://www.debian.org/vote/2026/vote_002#texte",
-        "points": 71,
-        "comments": 5,
-        "author": "birdculture",
-        "createdAt": "2026-08-30T11:52:38Z",
-        "domain": "debian.org",
+        "title": "Claude Code can be tricked simply by asking it to summarize a website",
+        "url": "https://www.theregister.com/research/2026/08/28/researcher-shows-how-claude-code-can-be-tricked-simply-by-asking-it-to-summarize-a-website/5293372",
+        "points": 63,
+        "comments": 4,
+        "author": "galaxyLogic",
+        "createdAt": "2026-08-30T19:25:50Z",
+        "domain": "theregister.com",
         "sourceType": "hn",
         "category": "AIモデル",
         "impact": "低",
         "newsLens": "技術",
-        "titleJa": "DebianでのLLMの使用は承認も禁止もされていません",
-        "summaryJa": "この記事は「DebianでのLLMの使用は承認も禁止もされていません」を扱っています。debian.orgが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "titleJa": "Claude Codeは、Webサイトの要約を求めるだけで騙すことができます",
+        "summaryJa": "この記事は「Claude Codeは、Webサイトの要約を求めるだけで騙すことができます」を扱っています。Wunderwuzziからのより多くのプロンプトインジェクションヒジンク。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
         "keyPoints": [
-          "この記事は「DebianでのLLMの使用は承認も禁止もされていません」を扱っています。",
-          "debian.orgが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "この記事は「Claude Codeは、Webサイトの要約を求めるだけで騙すことができます」を扱っています。",
+          "Wunderwuzziからのより多くのプロンプトインジェクションヒジンク。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+        ]
+      },
+      {
+        "title": "Continuous Diffusion Language Models (CDLM's)",
+        "url": "https://sander.ai/2026/08/24/continuous-dlms.html",
+        "points": 51,
+        "comments": 9,
+        "author": "peter_d_sherman",
+        "createdAt": "2026-08-30T20:46:53Z",
+        "domain": "sander.ai",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "低",
+        "newsLens": "技術",
+        "titleJa": "連続拡散言語モデル（ CDLM ）",
+        "summaryJa": "この記事は「連続拡散言語モデル（ CDLM ）」を扱っています。完全に離散的な方法が数年間支配的でしたが、継続的な拡散に基づく言語モデルが復活しています。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "keyPoints": [
+          "この記事は「連続拡散言語モデル（ CDLM ）」を扱っています。",
+          "完全に離散的な方法が数年間支配的でしたが、継続的な拡散に基づく言語モデルが復活しています。",
           "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
       },
       {
         "title": "I am no longer letting Claude Code add itself as Co-author in my commits",
         "url": "https://igupta.in/blog/why-i-am-no-longer-letting-claude-code-add-itself-as-coauthor/",
-        "points": 45,
-        "comments": 25,
+        "points": 46,
+        "comments": 37,
         "author": "dhanush",
         "createdAt": "2026-08-30T19:47:53Z",
         "domain": "igupta.in",
@@ -103,15 +103,15 @@
         ]
       }
     ],
-    "fetchedAt": "2026-08-30T21:03:13.273Z",
+    "fetchedAt": "2026-08-30T23:28:28.618Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-08-30T21:03:13.273Z",
+    "fetchedAt": "2026-08-30T23:28:28.618Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-08-30T21:03:13.449Z"
+    "articleFetchedAt": "2026-08-30T23:28:28.745Z"
   }
 }
