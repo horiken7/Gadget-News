@@ -2,6 +2,26 @@
   "news": {
     "items": [
       {
+        "title": "The EU has begun enforcing the AI Act: first RFIs to model providers",
+        "url": "https://tokenstead.ai/guides/eu-ai-act-first-enforcement-security-rfis",
+        "points": 104,
+        "comments": 34,
+        "author": "cdnsteve",
+        "createdAt": "2026-08-31T03:45:57Z",
+        "domain": "tokenstead.ai",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "低",
+        "newsLens": "技術",
+        "titleJa": "EUはAI法の施行を開始しました：プロバイダーをモデル化する最初のRFI",
+        "summaryJa": "この記事は「EUはAI法の施行を開始しました：プロバイダーをモデル化する最初のRFI」を扱っています。EU AIオフィスは、セキュリティ、評価、監視に関する汎用AIモデルプロバイダーに最初の正式な情報要求を送信しました。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "keyPoints": [
+          "この記事は「EUはAI法の施行を開始しました：プロバイダーをモデル化する最初のRFI」を扱っています。",
+          "EU AIオフィスは、セキュリティ、評価、監視に関する汎用AIモデルプロバイダーに最初の正式な情報要求を送信しました。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+        ]
+      },
+      {
         "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
         "url": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
         "points": 79,
@@ -23,10 +43,50 @@
         ]
       },
       {
+        "title": "How to build a diffusion language model",
+        "url": "https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model/",
+        "points": 79,
+        "comments": 3,
+        "author": "volodia",
+        "createdAt": "2026-08-30T23:41:32Z",
+        "domain": "kuleshov-group.github.io",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "低",
+        "newsLens": "技術",
+        "titleJa": "拡散言語モデルの構築方法",
+        "summaryJa": "この記事は「拡散言語モデルの構築方法」を扱っています。拡散言語モデルの紹介と今日の基礎となる研究の進歩。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "keyPoints": [
+          "この記事は「拡散言語モデルの構築方法」を扱っています。",
+          "拡散言語モデルの紹介と今日の基礎となる研究の進歩。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+        ]
+      },
+      {
+        "title": "Why do I lose my passion and want to do nothing?",
+        "url": "https://news.ycombinator.com/item?id=49505014",
+        "points": 78,
+        "comments": 53,
+        "author": "hanstyle",
+        "createdAt": "2026-08-31T02:40:37Z",
+        "domain": "news.ycombinator.com",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "中",
+        "newsLens": "技術",
+        "titleJa": "情熱を失い、何もしたくないのはなぜですか？",
+        "summaryJa": "この記事は「情熱を失い、何もしたくないのはなぜですか？」を扱っています。AIが結果をすぐに利用できるようにするとき、なぜ私は情熱を失い、何もしたくないのでしょうか？技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "keyPoints": [
+          "この記事は「情熱を失い、何もしたくないのはなぜですか。",
+          "AIが結果をすぐに利用できるようにするとき、なぜ私は情熱を失い、何もしたくないのでしょうか。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+        ]
+      },
+      {
         "title": "Claude Session URL appended to commit messages and PR descriptions by default",
         "url": "https://github.com/anthropics/claude-code/issues/66504",
         "points": 73,
-        "comments": 201,
+        "comments": 210,
         "author": "sparsesignal",
         "createdAt": "2026-08-30T12:50:54Z",
         "domain": "github.com",
@@ -41,77 +101,17 @@
           "プリフライトチェックリスト既存のリクエストを検索しましたが、この機能はまだリクエストされていませんこれは単一の機能リクエストです（複数の機能ではありません）問題文Claude Codeによって作成されたすべてのコミットメッセージとPR説明...。",
           "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
-      },
-      {
-        "title": "Claude Code can be tricked simply by asking it to summarize a website",
-        "url": "https://www.theregister.com/research/2026/08/28/researcher-shows-how-claude-code-can-be-tricked-simply-by-asking-it-to-summarize-a-website/5293372",
-        "points": 63,
-        "comments": 4,
-        "author": "galaxyLogic",
-        "createdAt": "2026-08-30T19:25:50Z",
-        "domain": "theregister.com",
-        "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "低",
-        "newsLens": "技術",
-        "titleJa": "Claude Codeは、Webサイトの要約を求めるだけで騙すことができます",
-        "summaryJa": "この記事は「Claude Codeは、Webサイトの要約を求めるだけで騙すことができます」を扱っています。Wunderwuzziからのより多くのプロンプトインジェクションヒジンク。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
-        "keyPoints": [
-          "この記事は「Claude Codeは、Webサイトの要約を求めるだけで騙すことができます」を扱っています。",
-          "Wunderwuzziからのより多くのプロンプトインジェクションヒジンク。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
-        ]
-      },
-      {
-        "title": "Continuous Diffusion Language Models (CDLM's)",
-        "url": "https://sander.ai/2026/08/24/continuous-dlms.html",
-        "points": 51,
-        "comments": 9,
-        "author": "peter_d_sherman",
-        "createdAt": "2026-08-30T20:46:53Z",
-        "domain": "sander.ai",
-        "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "低",
-        "newsLens": "技術",
-        "titleJa": "連続拡散言語モデル（ CDLM ）",
-        "summaryJa": "この記事は「連続拡散言語モデル（ CDLM ）」を扱っています。完全に離散的な方法が数年間支配的でしたが、継続的な拡散に基づく言語モデルが復活しています。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
-        "keyPoints": [
-          "この記事は「連続拡散言語モデル（ CDLM ）」を扱っています。",
-          "完全に離散的な方法が数年間支配的でしたが、継続的な拡散に基づく言語モデルが復活しています。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
-        ]
-      },
-      {
-        "title": "I am no longer letting Claude Code add itself as Co-author in my commits",
-        "url": "https://igupta.in/blog/why-i-am-no-longer-letting-claude-code-add-itself-as-coauthor/",
-        "points": 46,
-        "comments": 37,
-        "author": "dhanush",
-        "createdAt": "2026-08-30T19:47:53Z",
-        "domain": "igupta.in",
-        "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "低",
-        "newsLens": "技術",
-        "titleJa": "Claude Codeを自分のコミットに共同執筆者として追加することはできなくなりました",
-        "summaryJa": "この記事は「Claude Codeを自分のコミットに共同執筆者として追加することはできなくなりました」を扱っています。Gitコミットの共著者としてClaudeコードを望まない理由についての私の考え。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
-        "keyPoints": [
-          "この記事は「Claude Codeを自分のコミットに共同執筆者として追加することはできなくなりました」を扱っています。",
-          "Gitコミットの共著者としてClaudeコードを望まない理由についての私の考え。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
-        ]
       }
     ],
-    "fetchedAt": "2026-08-30T23:28:28.618Z",
+    "fetchedAt": "2026-08-31T05:30:31.894Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-08-30T23:28:28.618Z",
+    "fetchedAt": "2026-08-31T05:30:31.894Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-08-30T23:28:28.745Z"
+    "articleFetchedAt": "2026-08-31T05:30:32.239Z"
   }
 }
