@@ -23,10 +23,30 @@
         ]
       },
       {
+        "title": "EFF to Courts: Don't Rewrite Copyright over AI Hype",
+        "url": "https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype",
+        "points": 86,
+        "comments": 59,
+        "author": "DeepLogin",
+        "createdAt": "2026-09-01T12:53:51Z",
+        "domain": "eff.org",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "中",
+        "newsLens": "一般",
+        "titleJa": "裁判所へのEFF ： AI Hypeの著作権を書き換えないでください",
+        "summaryJa": "この記事は「裁判所へのEFF ： AI Hypeの著作権を書き換えないでください」を扱っています。新しい市場、新しいアイデア、新しいクリエイターは、実際には著作権が促進するものであり、制限するものではありません。既存のゲートキーパーや大規模な権利所有者の利益を固定するために著作権を使用することは、一般市民も個々のアーティストも役に立ちません。",
+        "keyPoints": [
+          "この記事は「裁判所へのEFF ： AI Hypeの著作権を書き換えないでください」を扱っています。",
+          "新しい市場、新しいアイデア、新しいクリエイターは、実際には著作権が促進するものであり、制限するものではありません。",
+          "既存のゲートキーパーや大規模な権利所有者の利益を固定するために著作権を使用することは、一般市民も個々のアーティストも役に立ちません。"
+        ]
+      },
+      {
         "title": "Launch HN: Almanac (YC S26) – AI that knows your company",
         "url": "https://usealmanac.com/",
-        "points": 82,
-        "comments": 46,
+        "points": 83,
+        "comments": 47,
         "author": "kushagrchitkar",
         "createdAt": "2026-08-31T15:34:34Z",
         "domain": "usealmanac.com",
@@ -40,27 +60,6 @@
           "この記事は「HN: Almanac (YC S 26)を立ち上げる–あなたの会社を知っているAI」を扱っています。",
           "私はAlmanacの3人の創業者の1人であるKushagraです。",
           "Hermesはあなたの会社についてすべてを知っている頭脳を持っています。"
-        ]
-      },
-      {
-        "title": "The Pentagon now has its own version of ChatGPT and Grok",
-        "url": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
-        "points": 79,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-08-31T20:13:45.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
-        "category": "AIモデル",
-        "impact": "中",
-        "titleJa": "ペンタゴンは現在、独自のバージョンのChatGPTとGrokを持っています",
-        "summaryJa": "この記事は「ペンタゴンは現在、独自のバージョンのChatGPTとGrokを持っています」を扱っています。OpenAIのChatGPTとSpaceXAIのGrokのバージョンは、ペンタゴンのAIツールの中央ポータルでGoogleのGeminiに加わります。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
-        "keyPoints": [
-          "この記事は「ペンタゴンは現在、独自のバージョンのChatGPTとGrokを持っています」を扱っています。",
-          "OpenAIのChatGPTとSpaceXAIのGrokのバージョンは、ペンタゴンのAIツールの中央ポータルでGoogleのGeminiに加わります。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       },
       {
@@ -86,7 +85,7 @@
       {
         "title": "Apple Says OpenAI Is Destroying Evidence in Trade Secrets Case",
         "url": "https://www.bloomberg.com/news/articles/2026-08-31/apple-says-openai-is-destroying-evidence-in-trade-secrets-case",
-        "points": 68,
+        "points": 69,
         "comments": 0,
         "author": "sbulaev",
         "createdAt": "2026-09-01T00:07:08Z",
@@ -96,23 +95,23 @@
         "impact": "低",
         "newsLens": "技術",
         "titleJa": "Apple、OpenAIが企業秘密事件で証拠を破壊していると語る",
-        "summaryJa": "この記事は「Apple、OpenAIが企業秘密事件で証拠を破壊していると語る」を扱っています。bloomberg.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "summaryJa": "この記事は「Apple、OpenAIが企業秘密事件で証拠を破壊していると語る」を扱っています。Apple Inc.は、OpenAIが重要な証拠を積極的に破壊しており、元iPhoneエンジニアのChang LiuがAI会社で「機密のApple回路図をダウンロードしただけでなく、彼の仕事でもそれを使用した」と主張して、OpenAIとの法的戦いをエスカレートした。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
         "keyPoints": [
           "この記事は「Apple、OpenAIが企業秘密事件で証拠を破壊していると語る」を扱っています。",
-          "bloomberg.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "Apple Inc.は、OpenAIが重要な証拠を積極的に破壊しており、元iPhoneエンジニアのChang LiuがAI会社で「機密のApple回路図をダウンロードしただけでなく、彼の仕事でもそれを使用した」と主張して、OpenAIとの法的戦いをエスカレートした。",
           "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
       }
     ],
-    "fetchedAt": "2026-09-01T08:36:39.034Z",
+    "fetchedAt": "2026-09-01T14:08:21.336Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-09-01T08:36:39.034Z",
+    "fetchedAt": "2026-09-01T14:08:21.336Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-09-01T08:36:39.165Z"
+    "articleFetchedAt": "2026-09-01T14:08:21.461Z"
   }
 }
