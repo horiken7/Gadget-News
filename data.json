@@ -2,72 +2,52 @@
   "news": {
     "items": [
       {
-        "title": "AIR raises $50M to help companies vet the skills and add-ons AI agents use",
-        "url": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/",
+        "title": "Open AI’s Astra model is on the way — and very good at breaking into computer systems",
+        "url": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
         "points": 107,
         "comments": 0,
         "author": "",
-        "createdAt": "2026-09-01T15:45:51.000Z",
+        "createdAt": "2026-09-01T21:06:24.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
+        "category": "AIモデル",
+        "impact": "高",
+        "titleJa": "Open AIのAstraモデルが間もなく登場—コンピューターシステムへの侵入に非常に優れています",
+        "summaryJa": "この記事は「Open AIのAstraモデルが間もなく登場—コンピューターシステムへの侵入に非常に優れています」を扱っています。OpenAIは、最新のサイバークリティカルLLMであるAstraをリリースする準備をする際に取っている予防措置をプレビューしました。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "keyPoints": [
+          "この記事は「Open AIのAstraモデルが間もなく登場—コンピューターシステムへの侵入に非常に優れています」を扱っています。",
+          "OpenAIは、最新のサイバークリティカルLLMであるAstraをリリースする準備をする際に取っている予防措置をプレビューしました。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+        ]
+      },
+      {
+        "title": "Anthropic’s new Fable release is cheaper, less restrictive",
+        "url": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/",
+        "points": 107,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-09-01T19:39:22.000Z",
         "domain": "techcrunch.com",
         "sourceType": "rss",
         "sourceLabel": "TechCrunch AI",
         "newsLens": "一般",
         "category": "AIニュース",
         "impact": "高",
-        "titleJa": "AIエージェントが使用するスキルとアドオンの審査を支援するために、AIは5000万$を調達",
-        "summaryJa": "この記事は「AIエージェントが使用するスキルとアドオンの審査を支援するために、AIは5000万$を調達」を扱っています。AIRのプラットフォームは、企業で実行されているエージェントを検出し、使用しているスキルやアドオンを継続的に審査し、望ましくない行動をブロックすることができます。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "titleJa": "Anthropicの新しい寓話のリリースは、より安く、制限が少なくなっています",
+        "summaryJa": "この記事は「Anthropicの新しい寓話のリリースは、より安く、制限が少なくなっています」を扱っています。Fable 5.1には、トークンコストとモデルのセーフガードからの誤検知制限を削減するための変更が含まれています。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
-          "この記事は「AIエージェントが使用するスキルとアドオンの審査を支援するために、AIは5000万$を調達」を扱っています。",
-          "AIRのプラットフォームは、企業で実行されているエージェントを検出し、使用しているスキルやアドオンを継続的に審査し、望ましくない行動をブロックすることができます。",
+          "この記事は「Anthropicの新しい寓話のリリースは、より安く、制限が少なくなっています」を扱っています。",
+          "Fable 5.1には、トークンコストとモデルのセーフガードからの誤検知制限を削減するための変更が含まれています。",
           "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
-        ]
-      },
-      {
-        "title": "ChatGPT Health adds Epic integration for clinicians to import patient data",
-        "url": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/",
-        "points": 105,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-09-01T17:00:00.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
-        "category": "AIモデル",
-        "impact": "高",
-        "titleJa": "ChatGPT Healthは、臨床医が患者データをインポートするためのEpic統合を追加",
-        "summaryJa": "この記事は「ChatGPT Healthは、臨床医が患者データをインポートするためのEpic統合を追加」を扱っています。OpenAIによると、この統合により、臨床医は健康記録への読み取り専用アクセスが可能になるという。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
-        "keyPoints": [
-          "この記事は「ChatGPT Healthは、臨床医が患者データをインポートするためのEpic統合を追加」を扱っています。",
-          "OpenAIによると、この統合により、臨床医は健康記録への読み取り専用アクセスが可能になるという。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
-        ]
-      },
-      {
-        "title": "I trained a small transformer in 1.5hrs and it beats many LLMs",
-        "url": "https://mvakde.github.io/blog/44-on-arc-1/",
-        "points": 73,
-        "comments": 103,
-        "author": "porridgeraisin",
-        "createdAt": "2026-09-01T09:52:45Z",
-        "domain": "mvakde.github.io",
-        "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "1.5時間で小さな変圧器を訓練し、多くのLLMを打ち負かしました",
-        "summaryJa": "この記事は「1.5時間で小さな変圧器を訓練し、多くのLLMを打ち負かしました」を扱っています。mvakde.github.ioが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
-        "keyPoints": [
-          "この記事は「1.5時間で小さな変圧器を訓練し、多くのLLMを打ち負かしました」を扱っています。",
-          "mvakde.github.ioが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
       },
       {
         "title": "Claude Fable 5.1 and Claude Mythos 5.1",
         "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
         "points": 73,
-        "comments": 111,
+        "comments": 781,
         "author": "denysvitali",
         "createdAt": "2026-09-01T17:53:53Z",
         "domain": "anthropic.com",
@@ -84,35 +64,55 @@
         ]
       },
       {
-        "title": "Apple Says OpenAI Is Destroying Evidence in Trade Secrets Case",
-        "url": "https://www.bloomberg.com/news/articles/2026-08-31/apple-says-openai-is-destroying-evidence-in-trade-secrets-case",
-        "points": 69,
-        "comments": 0,
-        "author": "sbulaev",
-        "createdAt": "2026-09-01T00:07:08Z",
-        "domain": "bloomberg.com",
+        "title": "Dwarf Fortress' creator says the industry's in shambles over AI",
+        "url": "https://www.pcgamer.com/gaming-industry/dwarf-fortress-creator-says-the-industrys-in-shambles-over-ai-and-layoff-happy-ceos-everyone-i-know-their-bosses-are-slowly-getting-psychosis/",
+        "points": 73,
+        "comments": 181,
+        "author": "Limb",
+        "createdAt": "2026-09-01T15:53:42Z",
+        "domain": "pcgamer.com",
         "sourceType": "hn",
         "category": "AIニュース",
-        "impact": "低",
+        "impact": "高",
         "newsLens": "技術",
-        "titleJa": "Apple、OpenAIが企業秘密事件で証拠を破壊していると語る",
-        "summaryJa": "この記事は「Apple、OpenAIが企業秘密事件で証拠を破壊していると語る」を扱っています。bloomberg.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "titleJa": "Dwarf Fortressの作成者は、AIをめぐって業界が混乱していると言います",
+        "summaryJa": "この記事は「Dwarf Fortressの作成者は、AIをめぐって業界が混乱していると言います」を扱っています。トーストマスターがスピーキングの経験を積む機会を、そして熟練したスピーカーを見て学ぶ機会を提供しています。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
         "keyPoints": [
-          "この記事は「Apple、OpenAIが企業秘密事件で証拠を破壊していると語る」を扱っています。",
-          "bloomberg.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "この記事は「Dwarf Fortressの作成者は、AIをめぐって業界が混乱していると言います」を扱っています。",
+          "トーストマスターがスピーキングの経験を積む機会を、そして熟練したスピーカーを見て学ぶ機会を提供しています。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+        ]
+      },
+      {
+        "title": "Apple reveals 'shocking evidence' from ex-employee's MacBook in OpenAI suit",
+        "url": "https://9to5mac.com/2026/08/31/apple-openai-forensic-macbook-evidence/",
+        "points": 73,
+        "comments": 88,
+        "author": "colinprince",
+        "createdAt": "2026-09-01T20:19:11Z",
+        "domain": "9to5mac.com",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "Apple、元従業員のMacBookからOpenAIスーツの「衝撃的な証拠」を明らかに",
+        "summaryJa": "この記事は「Apple、元従業員のMacBookからOpenAIスーツの「衝撃的な証拠」を明らかに」を扱っています。Appleは、OpenAIに対して進行中の訴訟において、迅速な発見を推進し続けているため、新しい文書を提出しました。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "keyPoints": [
+          "この記事は「Apple、元従業員のMacBookからOpenAIスーツの「衝撃的な証拠」を明らかに」を扱っています。",
+          "Appleは、OpenAIに対して進行中の訴訟において、迅速な発見を推進し続けているため、新しい文書を提出しました。",
           "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
       }
     ],
-    "fetchedAt": "2026-09-01T18:28:44.745Z",
+    "fetchedAt": "2026-09-01T23:17:26.789Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-09-01T18:28:44.745Z",
+    "fetchedAt": "2026-09-01T23:17:26.788Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-09-01T18:28:44.848Z"
+    "articleFetchedAt": "2026-09-01T23:17:26.926Z"
   }
 }
