@@ -23,23 +23,23 @@
         ]
       },
       {
-        "title": "How to build a diffusion language model",
-        "url": "https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model/",
-        "points": 101,
-        "comments": 19,
-        "author": "volodia",
-        "createdAt": "2026-08-30T23:41:32Z",
-        "domain": "kuleshov-group.github.io",
+        "title": "Launch HN: Almanac (YC S26) – AI that knows your company",
+        "url": "https://usealmanac.com/",
+        "points": 80,
+        "comments": 41,
+        "author": "kushagrchitkar",
+        "createdAt": "2026-08-31T15:34:34Z",
+        "domain": "usealmanac.com",
         "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "高",
+        "category": "AIニュース",
+        "impact": "低",
         "newsLens": "技術",
-        "titleJa": "拡散言語モデルの構築方法",
-        "summaryJa": "この記事は「拡散言語モデルの構築方法」を扱っています。拡散言語モデルの紹介と今日の基礎となる研究の進歩。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "titleJa": "HN: Almanac (YC S 26)を立ち上げる–あなたの会社を知っているAI",
+        "summaryJa": "この記事は「HN: Almanac (YC S 26)を立ち上げる–あなたの会社を知っているAI」を扱っています。私はAlmanacの3人の創業者の1人であるKushagraです。Hermesはあなたの会社についてすべてを知っている頭脳を持っています。",
         "keyPoints": [
-          "この記事は「拡散言語モデルの構築方法」を扱っています。",
-          "拡散言語モデルの紹介と今日の基礎となる研究の進歩。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+          "この記事は「HN: Almanac (YC S 26)を立ち上げる–あなたの会社を知っているAI」を扱っています。",
+          "私はAlmanacの3人の創業者の1人であるKushagraです。",
+          "Hermesはあなたの会社についてすべてを知っている頭脳を持っています。"
         ]
       },
       {
@@ -67,7 +67,7 @@
         "title": "Breaking Claude Code Opus 5 Auto Mode",
         "url": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/",
         "points": 73,
-        "comments": 105,
+        "comments": 113,
         "author": "Recursing",
         "createdAt": "2026-08-31T07:49:18Z",
         "domain": "embracethered.com",
@@ -86,7 +86,7 @@
       {
         "title": "Launch HN: Hebbian Robotics (YC S26) – Build scalable robotics data pipelines",
         "url": "https://github.com/Hebbian-Robotics/hflow",
-        "points": 69,
+        "points": 70,
         "comments": 10,
         "author": "kstonekuan",
         "createdAt": "2026-08-31T15:02:41Z",
@@ -104,15 +104,15 @@
         ]
       }
     ],
-    "fetchedAt": "2026-08-31T20:49:40.871Z",
+    "fetchedAt": "2026-09-01T00:36:37.891Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-08-31T20:49:40.871Z",
+    "fetchedAt": "2026-09-01T00:36:37.891Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-08-31T20:49:41.004Z"
+    "articleFetchedAt": "2026-09-01T00:36:38.107Z"
   }
 }
