@@ -44,30 +44,50 @@
         ]
       },
       {
-        "title": "Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos",
-        "url": "https://masteranza.github.io/weedout/",
-        "points": 91,
-        "comments": 25,
-        "author": "masteranza",
-        "createdAt": "2026-09-01T22:06:57Z",
-        "domain": "masteranza.github.io",
+        "title": "The efficient frontier of LLM inference",
+        "url": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/",
+        "points": 101,
+        "comments": 35,
+        "author": "philipkiely",
+        "createdAt": "2026-09-01T23:48:05Z",
+        "domain": "baseten.co",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "LLM推論の効率的なフロンティア",
+        "summaryJa": "この記事は「LLM推論の効率的なフロンティア」を扱っています。推論技術は、遅延スループットのフロンティアに沿って展開を移動するか、フロンティア全体を押し出して、割り当てる効率を高めます。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "keyPoints": [
+          "この記事は「LLM推論の効率的なフロンティア」を扱っています。",
+          "推論技術は、遅延スループットのフロンティアに沿って展開を移動するか、フロンティア全体を押し出して、割り当てる効率を高めます。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+        ]
+      },
+      {
+        "title": "Show HN: HN Match Maker – Matching \"Who Wants to Be Hired?\" With \"Who's Hiring?\"",
+        "url": "https://hnmatchmaker.com/",
+        "points": 93,
+        "comments": 40,
+        "author": "all2",
+        "createdAt": "2026-09-01T20:53:35Z",
+        "domain": "hnmatchmaker.com",
         "sourceType": "hn",
         "category": "AIニュース",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "HNを表示： Weedout – YouTubeのAIラベル付きビデオを非表示にするSafari拡張機能",
-        "summaryJa": "この記事は「HNを表示： Weedout – YouTubeのAIラベル付きビデオを非表示にするSafari拡張機能」を扱っています。AIが生成した陰謀ビデオが自分のYouTubeフィードで制御不能になっていたため、これを作成しました。WeedoutはmacOS用の$ 1.99のSafari拡張機能で、フィード、検索、関連動画、プレイリスト、ショートパンツからYouTubeの「Made with AI」ラベルを削除します。",
+        "titleJa": "Show HN: HN Match Maker – Matching \"Who Wants to Be Hired?「誰を採用していますか？」",
+        "summaryJa": "この記事は「Show HN: HN Match Maker – Matching \"Who Wants to Be Hired?「誰を採用していますか？」」を扱っています。」「スレッドが通ってくると、私は自分自身に、「この2つのスレッドにはマッチメーカーがあるはずです」と考えます。そこで、そろばん.aiに1つ絞ってもらいました。",
         "keyPoints": [
-          "この記事は「HNを表示： Weedout – YouTubeのAIラベル付きビデオを非表示にするSafari拡張機能」を扱っています。",
-          "AIが生成した陰謀ビデオが自分のYouTubeフィードで制御不能になっていたため、これを作成しました。",
-          "WeedoutはmacOS用の$ 1.99のSafari拡張機能で、フィード、検索、関連動画、プレイリスト、ショートパンツからYouTubeの「Made with AI」ラベルを削除します。"
+          "この記事は「Show HN: HN Match Maker – Matching \"Who Wants to Be Hired?「誰を採用していますか。",
+          "」「スレッドが通ってくると、私は自分自身に、「この2つのスレッドにはマッチメーカーがあるはずです」と考えます。",
+          "そこで、そろばん.aiに1つ絞ってもらいました。"
         ]
       },
       {
         "title": "Claude Fable 5.1 and Claude Mythos 5.1",
         "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
         "points": 73,
-        "comments": 953,
+        "comments": 1195,
         "author": "denysvitali",
         "createdAt": "2026-09-01T17:53:53Z",
         "domain": "anthropic.com",
@@ -82,37 +102,36 @@
           "anthropic.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
           "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
-      },
-      {
-        "title": "I trained a small transformer in 1.5hrs and it beats many LLMs",
-        "url": "https://mvakde.github.io/blog/44-on-arc-1/",
-        "points": 73,
-        "comments": 155,
-        "author": "porridgeraisin",
-        "createdAt": "2026-09-01T09:52:45Z",
-        "domain": "mvakde.github.io",
-        "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "1.5時間で小さな変圧器を訓練し、多くのLLMを打ち負かしました",
-        "summaryJa": "この記事は「1.5時間で小さな変圧器を訓練し、多くのLLMを打ち負かしました」を扱っています。mvakde.github.ioが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
-        "keyPoints": [
-          "この記事は「1.5時間で小さな変圧器を訓練し、多くのLLMを打ち負かしました」を扱っています。",
-          "mvakde.github.ioが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
-        ]
       }
     ],
-    "fetchedAt": "2026-09-02T04:29:58.895Z",
+    "fetchedAt": "2026-09-02T11:15:10.157Z",
     "mock": false
   },
   "xTrends": {
-    "items": [],
-    "fetchedAt": "2026-09-02T04:29:58.895Z",
+    "items": [
+      {
+        "topic": "Grok 4.7",
+        "locationLabel": "米国",
+        "bestRank": 9,
+        "appearances": 10,
+        "trendSource": "Trends24",
+        "sourceUrl": "https://trends24.in/united-states/",
+        "observedAt": "2026-09-02T11:15:09.988Z",
+        "url": "https://x.com/search?q=Grok%204.7&src=typed_query&f=live",
+        "articleTitle": "Grok 4.7",
+        "articleTitleJa": "公開トレンド: Grok 4.7",
+        "articleUrl": "https://trends24.in/united-states/",
+        "articleSource": "Trends24",
+        "articlePublishedAt": "2026-09-02T11:15:09.988Z",
+        "summaryJa": "米国のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
+        "translationVersion": 3,
+        "articleFallback": true
+      }
+    ],
+    "fetchedAt": "2026-09-02T11:15:10.157Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-09-02T04:29:59.024Z"
+    "articleFetchedAt": "2026-09-02T11:15:10.497Z"
   }
 }
