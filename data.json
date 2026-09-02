@@ -2,7 +2,7 @@
   "news": {
     "items": [
       {
-        "title": "Open AI’s Astra model is on the way — and very good at breaking into computer systems",
+        "title": "OpenAI’s Astra model is on the way — and very good at breaking into computer systems",
         "url": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
         "points": 107,
         "comments": 0,
@@ -14,10 +14,10 @@
         "newsLens": "一般",
         "category": "AIモデル",
         "impact": "高",
-        "titleJa": "Open AIのAstraモデルが間もなく登場—コンピューターシステムへの侵入に非常に優れています",
-        "summaryJa": "この記事は「Open AIのAstraモデルが間もなく登場—コンピューターシステムへの侵入に非常に優れています」を扱っています。OpenAIは、最新のサイバークリティカルLLMであるAstraをリリースする準備をする際に取っている予防措置をプレビューしました。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "titleJa": "OpenAIのAstraモデルは準備中で、コンピューターシステムへの侵入に非常に優れています",
+        "summaryJa": "この記事は「OpenAIのAstraモデルは準備中で、コンピューターシステムへの侵入に非常に優れています」を扱っています。OpenAIは、最新のサイバークリティカルLLMであるAstraをリリースする準備をする際に取っている予防措置をプレビューしました。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
-          "この記事は「Open AIのAstraモデルが間もなく登場—コンピューターシステムへの侵入に非常に優れています」を扱っています。",
+          "この記事は「OpenAIのAstraモデルは準備中で、コンピューターシステムへの侵入に非常に優れています」を扱っています。",
           "OpenAIは、最新のサイバークリティカルLLMであるAstraをリリースする準備をする際に取っている予防措置をプレビューしました。",
           "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
@@ -44,10 +44,30 @@
         ]
       },
       {
+        "title": "Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos",
+        "url": "https://masteranza.github.io/weedout/",
+        "points": 91,
+        "comments": 25,
+        "author": "masteranza",
+        "createdAt": "2026-09-01T22:06:57Z",
+        "domain": "masteranza.github.io",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "HNを表示： Weedout – YouTubeのAIラベル付きビデオを非表示にするSafari拡張機能",
+        "summaryJa": "この記事は「HNを表示： Weedout – YouTubeのAIラベル付きビデオを非表示にするSafari拡張機能」を扱っています。AIが生成した陰謀ビデオが自分のYouTubeフィードで制御不能になっていたため、これを作成しました。WeedoutはmacOS用の$ 1.99のSafari拡張機能で、フィード、検索、関連動画、プレイリスト、ショートパンツからYouTubeの「Made with AI」ラベルを削除します。",
+        "keyPoints": [
+          "この記事は「HNを表示： Weedout – YouTubeのAIラベル付きビデオを非表示にするSafari拡張機能」を扱っています。",
+          "AIが生成した陰謀ビデオが自分のYouTubeフィードで制御不能になっていたため、これを作成しました。",
+          "WeedoutはmacOS用の$ 1.99のSafari拡張機能で、フィード、検索、関連動画、プレイリスト、ショートパンツからYouTubeの「Made with AI」ラベルを削除します。"
+        ]
+      },
+      {
         "title": "Claude Fable 5.1 and Claude Mythos 5.1",
         "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
         "points": 73,
-        "comments": 781,
+        "comments": 953,
         "author": "denysvitali",
         "createdAt": "2026-09-01T17:53:53Z",
         "domain": "anthropic.com",
@@ -64,55 +84,35 @@
         ]
       },
       {
-        "title": "Dwarf Fortress' creator says the industry's in shambles over AI",
-        "url": "https://www.pcgamer.com/gaming-industry/dwarf-fortress-creator-says-the-industrys-in-shambles-over-ai-and-layoff-happy-ceos-everyone-i-know-their-bosses-are-slowly-getting-psychosis/",
+        "title": "I trained a small transformer in 1.5hrs and it beats many LLMs",
+        "url": "https://mvakde.github.io/blog/44-on-arc-1/",
         "points": 73,
-        "comments": 181,
-        "author": "Limb",
-        "createdAt": "2026-09-01T15:53:42Z",
-        "domain": "pcgamer.com",
+        "comments": 155,
+        "author": "porridgeraisin",
+        "createdAt": "2026-09-01T09:52:45Z",
+        "domain": "mvakde.github.io",
         "sourceType": "hn",
-        "category": "AIニュース",
+        "category": "AIモデル",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "Dwarf Fortressの作成者は、AIをめぐって業界が混乱していると言います",
-        "summaryJa": "この記事は「Dwarf Fortressの作成者は、AIをめぐって業界が混乱していると言います」を扱っています。トーストマスターがスピーキングの経験を積む機会を、そして熟練したスピーカーを見て学ぶ機会を提供しています。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "titleJa": "1.5時間で小さな変圧器を訓練し、多くのLLMを打ち負かしました",
+        "summaryJa": "この記事は「1.5時間で小さな変圧器を訓練し、多くのLLMを打ち負かしました」を扱っています。mvakde.github.ioが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
         "keyPoints": [
-          "この記事は「Dwarf Fortressの作成者は、AIをめぐって業界が混乱していると言います」を扱っています。",
-          "トーストマスターがスピーキングの経験を積む機会を、そして熟練したスピーカーを見て学ぶ機会を提供しています。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
-        ]
-      },
-      {
-        "title": "Apple reveals 'shocking evidence' from ex-employee's MacBook in OpenAI suit",
-        "url": "https://9to5mac.com/2026/08/31/apple-openai-forensic-macbook-evidence/",
-        "points": 73,
-        "comments": 88,
-        "author": "colinprince",
-        "createdAt": "2026-09-01T20:19:11Z",
-        "domain": "9to5mac.com",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "Apple、元従業員のMacBookからOpenAIスーツの「衝撃的な証拠」を明らかに",
-        "summaryJa": "この記事は「Apple、元従業員のMacBookからOpenAIスーツの「衝撃的な証拠」を明らかに」を扱っています。Appleは、OpenAIに対して進行中の訴訟において、迅速な発見を推進し続けているため、新しい文書を提出しました。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
-        "keyPoints": [
-          "この記事は「Apple、元従業員のMacBookからOpenAIスーツの「衝撃的な証拠」を明らかに」を扱っています。",
-          "Appleは、OpenAIに対して進行中の訴訟において、迅速な発見を推進し続けているため、新しい文書を提出しました。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+          "この記事は「1.5時間で小さな変圧器を訓練し、多くのLLMを打ち負かしました」を扱っています。",
+          "mvakde.github.ioが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
       }
     ],
-    "fetchedAt": "2026-09-01T23:17:26.789Z",
+    "fetchedAt": "2026-09-02T04:29:58.895Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-09-01T23:17:26.788Z",
+    "fetchedAt": "2026-09-02T04:29:58.895Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-09-01T23:17:26.926Z"
+    "articleFetchedAt": "2026-09-02T04:29:59.024Z"
   }
 }
