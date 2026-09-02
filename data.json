@@ -2,6 +2,27 @@
   "news": {
     "items": [
       {
+        "title": "HiddenLayer nabs $100M as enterprises rush to secure their AI deployments",
+        "url": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/",
+        "points": 133,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-09-02T15:01:23.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
+        "category": "AIニュース",
+        "impact": "高",
+        "titleJa": "HiddenLayerは、企業がAIの導入を急いで確保するにつれて1億$を獲得しました",
+        "summaryJa": "この記事は「HiddenLayerは、企業がAIの導入を急いで確保するにつれて1億$を獲得しました」を扱っています。セキュリティ企業は、エージェントだけでなく、使用しているツールやアドオンも監視できる製品を構築しようとしています。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "keyPoints": [
+          "この記事は「HiddenLayerは、企業がAIの導入を急いで確保するにつれて1億$を獲得しました」を扱っています。",
+          "セキュリティ企業は、エージェントだけでなく、使用しているツールやアドオンも監視できる製品を構築しようとしています。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+        ]
+      },
+      {
         "title": "OpenAI’s Astra model is on the way — and very good at breaking into computer systems",
         "url": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
         "points": 107,
@@ -44,94 +65,110 @@
         ]
       },
       {
-        "title": "The efficient frontier of LLM inference",
-        "url": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/",
-        "points": 101,
-        "comments": 35,
-        "author": "philipkiely",
-        "createdAt": "2026-09-01T23:48:05Z",
-        "domain": "baseten.co",
-        "sourceType": "hn",
+        "title": "ChatGPT Health adds Epic integration for clinicians to import patient data",
+        "url": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/",
+        "points": 105,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-09-01T17:00:00.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
         "category": "AIモデル",
         "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "LLM推論の効率的なフロンティア",
-        "summaryJa": "この記事は「LLM推論の効率的なフロンティア」を扱っています。推論技術は、遅延スループットのフロンティアに沿って展開を移動するか、フロンティア全体を押し出して、割り当てる効率を高めます。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "titleJa": "ChatGPT Healthは、臨床医が患者データをインポートするためのEpic統合を追加",
+        "summaryJa": "この記事は「ChatGPT Healthは、臨床医が患者データをインポートするためのEpic統合を追加」を扱っています。OpenAIによると、この統合により、臨床医は健康記録への読み取り専用アクセスが可能になるという。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
-          "この記事は「LLM推論の効率的なフロンティア」を扱っています。",
-          "推論技術は、遅延スループットのフロンティアに沿って展開を移動するか、フロンティア全体を押し出して、割り当てる効率を高めます。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+          "この記事は「ChatGPT Healthは、臨床医が患者データをインポートするためのEpic統合を追加」を扱っています。",
+          "OpenAIによると、この統合により、臨床医は健康記録への読み取り専用アクセスが可能になるという。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       },
       {
-        "title": "Show HN: HN Match Maker – Matching \"Who Wants to Be Hired?\" With \"Who's Hiring?\"",
-        "url": "https://hnmatchmaker.com/",
-        "points": 93,
-        "comments": 40,
-        "author": "all2",
-        "createdAt": "2026-09-01T20:53:35Z",
-        "domain": "hnmatchmaker.com",
-        "sourceType": "hn",
+        "title": "India’s richest man now wants to turn aging computers into AI-ready PCs",
+        "url": "https://techcrunch.com/2026/09/02/indias-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pcs/",
+        "points": 79,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-09-02T16:01:48.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
         "category": "AIニュース",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "Show HN: HN Match Maker – Matching \"Who Wants to Be Hired?「誰を採用していますか？」",
-        "summaryJa": "この記事は「Show HN: HN Match Maker – Matching \"Who Wants to Be Hired?「誰を採用していますか？」」を扱っています。」「スレッドが通ってくると、私は自分自身に、「この2つのスレッドにはマッチメーカーがあるはずです」と考えます。そこで、そろばん.aiに1つ絞ってもらいました。",
+        "impact": "中",
+        "titleJa": "インドで最も裕福な男は、老朽化したコンピュータをAI対応のPCに変えたいと考えている",
+        "summaryJa": "この記事は「インドで最も裕福な男は、老朽化したコンピュータをAI対応のPCに変えたいと考えている」を扱っています。Jioは、老朽化したコンピューターを2か月間わずか11 $でAI対応のPCに変えることができると賭けている。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
-          "この記事は「Show HN: HN Match Maker – Matching \"Who Wants to Be Hired?「誰を採用していますか。",
-          "」「スレッドが通ってくると、私は自分自身に、「この2つのスレッドにはマッチメーカーがあるはずです」と考えます。",
-          "そこで、そろばん.aiに1つ絞ってもらいました。"
-        ]
-      },
-      {
-        "title": "Claude Fable 5.1 and Claude Mythos 5.1",
-        "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
-        "points": 73,
-        "comments": 1195,
-        "author": "denysvitali",
-        "createdAt": "2026-09-01T17:53:53Z",
-        "domain": "anthropic.com",
-        "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "Claude寓話5.1とClaude神話5.1",
-        "summaryJa": "この記事は「Claude寓話5.1とClaude神話5.1」を扱っています。anthropic.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
-        "keyPoints": [
-          "この記事は「Claude寓話5.1とClaude神話5.1」を扱っています。",
-          "anthropic.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+          "この記事は「インドで最も裕福な男は、老朽化したコンピュータをAI対応のPCに変えたいと考えている」を扱っています。",
+          "Jioは、老朽化したコンピューターを2か月間わずか11 $でAI対応のPCに変えることができると賭けている。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       }
     ],
-    "fetchedAt": "2026-09-02T11:15:10.157Z",
+    "fetchedAt": "2026-09-02T16:33:00.852Z",
     "mock": false
   },
   "xTrends": {
     "items": [
       {
+        "topic": "Gemini 3.8 Flash",
+        "locationLabel": "日本",
+        "bestRank": 6,
+        "appearances": 2,
+        "trendSource": "Trends24",
+        "sourceUrl": "https://trends24.in/japan/",
+        "observedAt": "2026-09-02T16:33:00.839Z",
+        "url": "https://x.com/search?q=Gemini%203.8%20Flash&src=typed_query&f=live",
+        "articleTitle": "Gemini 3.8 Flash and 3.8 Flash Cyber",
+        "articleTitleJa": "Gemini3.8フラッシュおよび3.8フラッシュサイバー",
+        "articleUrl": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
+        "articleSource": "blog.google",
+        "articlePublishedAt": "2026-09-02T15:44:06Z",
+        "summaryJa": "Gemini 3.8 Flashと3.8 Flash Cyberは、エージェント型ワークフローとサイバーセキュリティのための次世代インテリジェンスを提供します。",
+        "translationVersion": 3
+      },
+      {
         "topic": "Grok 4.7",
         "locationLabel": "米国",
-        "bestRank": 9,
-        "appearances": 10,
+        "bestRank": 3,
+        "appearances": 14,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-09-02T11:15:09.988Z",
+        "observedAt": "2026-09-02T16:33:00.705Z",
         "url": "https://x.com/search?q=Grok%204.7&src=typed_query&f=live",
         "articleTitle": "Grok 4.7",
         "articleTitleJa": "公開トレンド: Grok 4.7",
         "articleUrl": "https://trends24.in/united-states/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-09-02T11:15:09.988Z",
+        "articlePublishedAt": "2026-09-02T16:33:00.705Z",
         "summaryJa": "米国のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
+      },
+      {
+        "topic": "Claude Fable 5.1",
+        "locationLabel": "米国",
+        "bestRank": 34,
+        "appearances": 2,
+        "trendSource": "Trends24",
+        "sourceUrl": "https://trends24.in/united-states/",
+        "observedAt": "2026-09-02T16:33:00.705Z",
+        "url": "https://x.com/search?q=Claude%20Fable%205.1&src=typed_query&f=live",
+        "articleTitle": "Claude Fable 5.1 and Claude Mythos 5.1",
+        "articleTitleJa": "Claude寓話5.1とClaude神話5.1",
+        "articleUrl": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+        "articleSource": "anthropic.com",
+        "articlePublishedAt": "2026-09-01T17:53:53Z",
+        "summaryJa": "Claude寓話5.1の新機能– https://platform.claude.com/docs/en/models/fable-5-1/whats-n...システムカード： https://www-cdn.anthropic.com/0339e6a7c5c7b87f5c07798616dc32...",
+        "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-09-02T11:15:10.157Z",
+    "fetchedAt": "2026-09-02T16:33:00.852Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-09-02T11:15:10.497Z"
+    "articleFetchedAt": "2026-09-02T16:33:07.904Z"
   }
 }
