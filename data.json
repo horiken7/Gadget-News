@@ -47,7 +47,7 @@
         "title": "Gemini 3.8 Flash and 3.8 Flash Cyber",
         "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
         "points": 101,
-        "comments": 516,
+        "comments": 581,
         "author": "bratao",
         "createdAt": "2026-09-02T15:12:40Z",
         "domain": "blog.google",
@@ -66,8 +66,8 @@
       {
         "title": "METR Report on OpenAI / Hugging Face Hacking Incident",
         "url": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/#core-takeaways-about-this-incident",
-        "points": 94,
-        "comments": 83,
+        "points": 97,
+        "comments": 91,
         "author": "stikit",
         "createdAt": "2026-09-02T23:08:47Z",
         "domain": "metr.org",
@@ -84,27 +84,27 @@
         ]
       },
       {
-        "title": "Mamdani Bans AI in NYC Schools",
-        "url": "https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html",
-        "points": 93,
-        "comments": 123,
-        "author": "handfuloflight",
-        "createdAt": "2026-09-02T20:57:04Z",
-        "domain": "nytimes.com",
+        "title": "Check if a file was made with Claude",
+        "url": "https://claude.com/check-content",
+        "points": 73,
+        "comments": 126,
+        "author": "frexs",
+        "createdAt": "2026-09-02T12:23:20Z",
+        "domain": "claude.com",
         "sourceType": "hn",
-        "category": "AIニュース",
+        "category": "AIモデル",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "Mamdani、ニューヨーク市内の学校でAIを禁止",
-        "summaryJa": "この記事は「Mamdani、ニューヨーク市内の学校でAIを禁止」を扱っています。nytimes.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "titleJa": "Claudeでファイルが作成されたかどうかを確認する",
+        "summaryJa": "この記事は「Claudeでファイルが作成されたかどうかを確認する」を扱っています。ファイルを追加して、Claudeと一緒に作られた兆候がないか確認します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
         "keyPoints": [
-          "この記事は「Mamdani、ニューヨーク市内の学校でAIを禁止」を扱っています。",
-          "nytimes.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+          "この記事は「Claudeでファイルが作成されたかどうかを確認する」を扱っています。",
+          "ファイルを追加して、Claudeと一緒に作られた兆候がないか確認します。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
       }
     ],
-    "fetchedAt": "2026-09-03T04:20:46.640Z",
+    "fetchedAt": "2026-09-03T11:10:51.709Z",
     "mock": false
   },
   "xTrends": {
@@ -112,61 +112,26 @@
       {
         "topic": "Gemini 3.8 Flash",
         "locationLabel": "日本",
-        "bestRank": 6,
+        "bestRank": 8,
         "appearances": 9,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-09-03T04:20:46.527Z",
+        "observedAt": "2026-09-03T11:10:51.556Z",
         "url": "https://x.com/search?q=Gemini%203.8%20Flash&src=typed_query&f=live",
         "articleTitle": "Gemini 3.8 Flash",
         "articleTitleJa": "公開トレンド: Gemini 3.8 Flash",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-09-03T04:20:46.527Z",
+        "articlePublishedAt": "2026-09-03T11:10:51.556Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
-      },
-      {
-        "topic": "Grok 4.7",
-        "locationLabel": "米国",
-        "bestRank": 32,
-        "appearances": 4,
-        "trendSource": "Trends24",
-        "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-09-03T04:20:46.444Z",
-        "url": "https://x.com/search?q=Grok%204.7&src=typed_query&f=live",
-        "articleTitle": "Grok 4.7",
-        "articleTitleJa": "公開トレンド: Grok 4.7",
-        "articleUrl": "https://trends24.in/united-states/",
-        "articleSource": "Trends24",
-        "articlePublishedAt": "2026-09-03T04:20:46.444Z",
-        "summaryJa": "米国のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
-        "translationVersion": 3,
-        "articleFallback": true
-      },
-      {
-        "topic": "Claude Fable 5.1",
-        "locationLabel": "米国",
-        "bestRank": 34,
-        "appearances": 2,
-        "trendSource": "Trends24",
-        "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-09-03T04:20:46.444Z",
-        "url": "https://x.com/search?q=Claude%20Fable%205.1&src=typed_query&f=live",
-        "articleTitle": "Claude Fable 5.1 and Claude Mythos 5.1",
-        "articleTitleJa": "Claude寓話5.1とClaude神話5.1",
-        "articleUrl": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
-        "articleSource": "anthropic.com",
-        "articlePublishedAt": "2026-09-01T17:53:53Z",
-        "summaryJa": "Claude寓話5.1の新機能– https://platform.claude.com/docs/en/models/fable-5-1/whats-n...システムカード： https://www-cdn.anthropic.com/0339e6a7c5c7b87f5c07798616dc32...",
-        "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-09-03T04:20:46.640Z",
+    "fetchedAt": "2026-09-03T11:10:51.709Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-09-03T04:20:50.519Z"
+    "articleFetchedAt": "2026-09-03T11:10:54.676Z"
   }
 }
