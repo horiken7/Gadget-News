@@ -44,36 +44,57 @@
         ]
       },
       {
-        "title": "Nobody is saying why OpenAI and Anthropic had outages",
-        "url": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/",
-        "points": 93,
-        "comments": 4,
-        "author": "jslakro",
-        "createdAt": "2026-09-04T17:29:22Z",
-        "domain": "wired.com",
-        "sourceType": "hn",
+        "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
+        "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
+        "points": 107,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-09-05T18:05:27.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
         "category": "AIニュース",
         "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "OpenAIとAnthropicが停電した理由は誰も言っていません",
-        "summaryJa": "この記事は「OpenAIとAnthropicが停電した理由は誰も言っていません」を扱っています。wired.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "titleJa": "OpenAIは「wikiインシデント」を確認し、より多くの開示のために「フレームワークに取り組んでいる」と述べています",
+        "summaryJa": "この記事は「OpenAIは「wikiインシデント」を確認し、より多くの開示のために「フレームワークに取り組んでいる」と述べています」を扱っています。OpenAIは、最近報告されたAIエージェントがドイツのWikiフォーラムを乗っ取った事件での役割を認めました。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
-          "この記事は「OpenAIとAnthropicが停電した理由は誰も言っていません」を扱っています。",
-          "wired.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+          "この記事は「OpenAIは「wikiインシデント」を確認し、より多くの開示のために「フレームワークに取り組んでいる」と述べています」を扱っています。",
+          "OpenAIは、最近報告されたAIエージェントがドイツのWikiフォーラムを乗っ取った事件での役割を認めました。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+        ]
+      },
+      {
+        "title": "Show HN: We Beat MLPerf: Modern Storage for KV Offload and LLM Training",
+        "url": "https://www.theopenlake.com/blog/openlake-leads-mlperf-storage-v3-0",
+        "points": 78,
+        "comments": 1,
+        "author": "arnav__1",
+        "createdAt": "2026-09-05T17:32:20Z",
+        "domain": "theopenlake.com",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "低",
+        "newsLens": "技術",
+        "titleJa": "AIニュース: Show HN: We Beat MLPerf: Modern Storage for KV Offload and LLM Training",
+        "summaryJa": "この記事は「Show HN: We Beat MLPerf: Modern Storage for KV Offload and LLM Training」を扱っています。効率的なLLM推論とGPUトレーニングのための高性能ストレージエンジン。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "keyPoints": [
+          "この記事は「Show HN: We Beat MLPerf: Modern Storage for KV Offload and LLM Training」を扱っています。",
+          "効率的なLLM推論とGPUトレーニングのための高性能ストレージエンジン。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
       },
       {
         "title": "Claude's new system prompt doesn't want to reproduce song lyrics",
         "url": "https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/",
-        "points": 76,
-        "comments": 57,
+        "points": 77,
+        "comments": 76,
         "author": "Bluestein",
         "createdAt": "2026-09-05T10:32:09Z",
         "domain": "simonwillison.net",
         "sourceType": "hn",
         "category": "AIモデル",
-        "impact": "低",
+        "impact": "中",
         "newsLens": "技術",
         "titleJa": "Claudeの新しいシステムプロンプトは、歌詞を再現したくない",
         "summaryJa": "この記事は「Claudeの新しいシステムプロンプトは、歌詞を再現したくない」を扱っています。Anthropicは、Claudeコンシューマーアプリケーション（ Claude.aiとClaudeモバイルアプリ-残念ながらClaude CoworkやClaude Codeではない）のシステムプロンプトを公開します。私は彼らがこれをするのが大好きです、そして...。",
@@ -82,30 +103,9 @@
           "Anthropicは、Claudeコンシューマーアプリケーション（ Claude.aiとClaudeモバイルアプリ-残念ながらClaude CoworkやClaude Codeではない）のシステムプロンプトを公開します。",
           "私は彼らがこれをするのが大好きです、そして...。"
         ]
-      },
-      {
-        "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
-        "url": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
-        "points": -3,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-09-04T21:12:11.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
-        "category": "AIニュース",
-        "impact": "低",
-        "titleJa": "AIコンピューティングプロバイダーのNscaleは、IPO前の資金調達で35億$を探しています",
-        "summaryJa": "この記事は「AIコンピューティングプロバイダーのNscaleは、IPO前の資金調達で35億$を探しています」を扱っています。最近、Anthropicと450億$の契約を結んだNscaleは、今後のIPOを見越して追加資金を調達する交渉を行っている。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
-        "keyPoints": [
-          "この記事は「AIコンピューティングプロバイダーのNscaleは、IPO前の資金調達で35億$を探しています」を扱っています。",
-          "最近、Anthropicと450億$の契約を結んだNscaleは、今後のIPOを見越して追加資金を調達する交渉を行っている。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
-        ]
       }
     ],
-    "fetchedAt": "2026-09-05T17:20:24.130Z",
+    "fetchedAt": "2026-09-05T20:18:31.426Z",
     "mock": false
   },
   "xTrends": {
@@ -117,22 +117,22 @@
         "appearances": 2,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-09-05T17:20:24.048Z",
+        "observedAt": "2026-09-05T20:18:31.377Z",
         "url": "https://x.com/search?q=GEMINI%20JOURNEY%20CONTINUE&src=typed_query&f=live",
         "articleTitle": "GEMINI JOURNEY CONTINUE",
         "articleTitleJa": "公開トレンド: GEMINI JOURNEY CONTINUE",
         "articleUrl": "https://trends24.in/united-states/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-09-05T17:20:24.048Z",
+        "articlePublishedAt": "2026-09-05T20:18:31.377Z",
         "summaryJa": "米国のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
       }
     ],
-    "fetchedAt": "2026-09-05T17:20:24.130Z",
+    "fetchedAt": "2026-09-05T20:18:31.426Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-09-05T17:20:24.572Z"
+    "articleFetchedAt": "2026-09-05T20:18:31.967Z"
   }
 }
