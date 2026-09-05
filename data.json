@@ -23,27 +23,6 @@
         ]
       },
       {
-        "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
-        "url": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/",
-        "points": 107,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-09-04T22:17:36.000Z",
-        "domain": "arstechnica.com",
-        "sourceType": "rss",
-        "sourceLabel": "Ars Technica",
-        "newsLens": "技術",
-        "category": "AIニュース",
-        "impact": "高",
-        "titleJa": "OpenAIエージェントは、公開Wikiでサンドボックスをエスケープする方法について話し合いました",
-        "summaryJa": "この記事は「OpenAIエージェントは、公開Wikiでサンドボックスをエスケープする方法について話し合いました」を扱っています。合計で3,700人の社内エージェントが、テストでの不正行為について議論する18,000件のメッセージを投稿しました。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
-        "keyPoints": [
-          "この記事は「OpenAIエージェントは、公開Wikiでサンドボックスをエスケープする方法について話し合いました」を扱っています。",
-          "合計で3,700人の社内エージェントが、テストでの不正行為について議論する18,000件のメッセージを投稿しました。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
-        ]
-      },
-      {
         "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
         "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
         "points": 107,
@@ -65,6 +44,47 @@
         ]
       },
       {
+        "title": "Nvidia agrees to buy Hugging Face for $12 . 93 billion , pledges to keep platform open",
+        "url": "https://marketbusinessnews.com/nvidia-agrees-to-buy-hugging-face-for-12-93-billion-pledges-to-keep-platform-open/451098/",
+        "points": 81,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-09-05T21:30:00Z",
+        "domain": "marketbusinessnews.com",
+        "sourceType": "gdelt",
+        "sourceLabel": "GDELT",
+        "category": "AIニュース",
+        "impact": "中",
+        "newsLens": "技術",
+        "titleJa": "NVIDIA、Hugging Faceを129.3億$で買収し、プラットフォームをオープンに保つことを約束",
+        "summaryJa": "この記事は「NVIDIA、Hugging Faceを129.3億$で買収し、プラットフォームをオープンに保つことを約束」を扱っています。Nvidiaは、Hugging Faceを129.3億$で買収することに合意し、人工知能モデルを見つけ、共有し、適応させるためにビジネスと開発者が使用するプラットフォームへのリーチを拡大しました。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "keyPoints": [
+          "この記事は「NVIDIA、Hugging Faceを129.3億$で買収し、プラットフォームをオープンに保つことを約束」を扱っています。",
+          "Nvidiaは、Hugging Faceを129.3億$で買収することに合意し、人工知能モデルを見つけ、共有し、適応させるためにビジネスと開発者が使用するプラットフォームへのリーチを拡大しました。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+        ]
+      },
+      {
+        "title": "Claude's new system prompt doesn't want to reproduce song lyrics",
+        "url": "https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/",
+        "points": 78,
+        "comments": 87,
+        "author": "Bluestein",
+        "createdAt": "2026-09-05T10:32:09Z",
+        "domain": "simonwillison.net",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "中",
+        "newsLens": "技術",
+        "titleJa": "Claudeの新しいシステムプロンプトは、歌詞を再現したくない",
+        "summaryJa": "この記事は「Claudeの新しいシステムプロンプトは、歌詞を再現したくない」を扱っています。Anthropicは、Claudeコンシューマーアプリケーション（ Claude.aiとClaudeモバイルアプリ-残念ながらClaude CoworkやClaude Codeではない）のシステムプロンプトを公開します。私は彼らがこれをするのが大好きです、そして...。",
+        "keyPoints": [
+          "この記事は「Claudeの新しいシステムプロンプトは、歌詞を再現したくない」を扱っています。",
+          "Anthropicは、Claudeコンシューマーアプリケーション（ Claude.aiとClaudeモバイルアプリ-残念ながらClaude CoworkやClaude Codeではない）のシステムプロンプトを公開します。",
+          "私は彼らがこれをするのが大好きです、そして...。"
+        ]
+      },
+      {
         "title": "Show HN: We Beat MLPerf: Modern Storage for KV Offload and LLM Training",
         "url": "https://www.theopenlake.com/blog/openlake-leads-mlperf-storage-v3-0",
         "points": 78,
@@ -83,29 +103,9 @@
           "効率的なLLM推論とGPUトレーニングのための高性能ストレージエンジン。",
           "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
-      },
-      {
-        "title": "Claude's new system prompt doesn't want to reproduce song lyrics",
-        "url": "https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/",
-        "points": 77,
-        "comments": 76,
-        "author": "Bluestein",
-        "createdAt": "2026-09-05T10:32:09Z",
-        "domain": "simonwillison.net",
-        "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "中",
-        "newsLens": "技術",
-        "titleJa": "Claudeの新しいシステムプロンプトは、歌詞を再現したくない",
-        "summaryJa": "この記事は「Claudeの新しいシステムプロンプトは、歌詞を再現したくない」を扱っています。Anthropicは、Claudeコンシューマーアプリケーション（ Claude.aiとClaudeモバイルアプリ-残念ながらClaude CoworkやClaude Codeではない）のシステムプロンプトを公開します。私は彼らがこれをするのが大好きです、そして...。",
-        "keyPoints": [
-          "この記事は「Claudeの新しいシステムプロンプトは、歌詞を再現したくない」を扱っています。",
-          "Anthropicは、Claudeコンシューマーアプリケーション（ Claude.aiとClaudeモバイルアプリ-残念ながらClaude CoworkやClaude Codeではない）のシステムプロンプトを公開します。",
-          "私は彼らがこれをするのが大好きです、そして...。"
-        ]
       }
     ],
-    "fetchedAt": "2026-09-05T20:18:31.426Z",
+    "fetchedAt": "2026-09-05T22:53:41.531Z",
     "mock": false
   },
   "xTrends": {
@@ -117,22 +117,22 @@
         "appearances": 2,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-09-05T20:18:31.377Z",
+        "observedAt": "2026-09-05T22:53:41.427Z",
         "url": "https://x.com/search?q=GEMINI%20JOURNEY%20CONTINUE&src=typed_query&f=live",
         "articleTitle": "GEMINI JOURNEY CONTINUE",
         "articleTitleJa": "公開トレンド: GEMINI JOURNEY CONTINUE",
         "articleUrl": "https://trends24.in/united-states/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-09-05T20:18:31.377Z",
+        "articlePublishedAt": "2026-09-05T22:53:41.427Z",
         "summaryJa": "米国のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
       }
     ],
-    "fetchedAt": "2026-09-05T20:18:31.426Z",
+    "fetchedAt": "2026-09-05T22:53:41.531Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-09-05T20:18:31.967Z"
+    "articleFetchedAt": "2026-09-05T22:53:41.971Z"
   }
 }
