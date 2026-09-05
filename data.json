@@ -47,7 +47,7 @@
         "title": "Corporate America is getting hooked on open-source AI",
         "url": "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html",
         "points": 121,
-        "comments": 257,
+        "comments": 272,
         "author": "aaraujo002",
         "createdAt": "2026-09-04T15:33:45Z",
         "domain": "nytimes.com",
@@ -88,7 +88,7 @@
         "title": "Discovery of a new OpenAI agent message board",
         "url": "https://collusion.wiki/",
         "points": 101,
-        "comments": 1234,
+        "comments": 1330,
         "author": "moultano",
         "createdAt": "2026-09-04T11:54:53Z",
         "domain": "collusion.wiki",
@@ -105,7 +105,7 @@
         ]
       }
     ],
-    "fetchedAt": "2026-09-05T04:23:46.094Z",
+    "fetchedAt": "2026-09-05T10:32:39.734Z",
     "mock": false
   },
   "xTrends": {
@@ -113,44 +113,26 @@
       {
         "topic": "GEMINI START THE ADVENTURE",
         "locationLabel": "米国",
-        "bestRank": 10,
-        "appearances": 8,
+        "bestRank": 20,
+        "appearances": 5,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-09-05T04:23:46.064Z",
+        "observedAt": "2026-09-05T10:32:39.614Z",
         "url": "https://x.com/search?q=GEMINI%20START%20THE%20ADVENTURE&src=typed_query&f=live",
         "articleTitle": "GEMINI START THE ADVENTURE",
         "articleTitleJa": "公開トレンド: GEMINI START THE ADVENTURE",
         "articleUrl": "https://trends24.in/united-states/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-09-05T04:23:46.064Z",
-        "summaryJa": "米国のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
-        "translationVersion": 3,
-        "articleFallback": true
-      },
-      {
-        "topic": "GPT-6 Astra",
-        "locationLabel": "米国",
-        "bestRank": 19,
-        "appearances": 3,
-        "trendSource": "Trends24",
-        "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-09-05T04:23:46.064Z",
-        "url": "https://x.com/search?q=GPT-6%20Astra&src=typed_query&f=live",
-        "articleTitle": "GPT-6 Astra",
-        "articleTitleJa": "公開トレンド: GPT-6 Astra",
-        "articleUrl": "https://trends24.in/united-states/",
-        "articleSource": "Trends24",
-        "articlePublishedAt": "2026-09-05T04:23:46.064Z",
+        "articlePublishedAt": "2026-09-05T10:32:39.614Z",
         "summaryJa": "米国のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
       }
     ],
-    "fetchedAt": "2026-09-05T04:23:46.094Z",
+    "fetchedAt": "2026-09-05T10:32:39.734Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-09-05T04:23:48.157Z"
+    "articleFetchedAt": "2026-09-05T10:32:40.105Z"
   }
 }
