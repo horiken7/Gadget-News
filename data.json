@@ -47,7 +47,7 @@
         "title": "Corporate America is getting hooked on open-source AI",
         "url": "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html",
         "points": 121,
-        "comments": 272,
+        "comments": 285,
         "author": "aaraujo002",
         "createdAt": "2026-09-04T15:33:45Z",
         "domain": "nytimes.com",
@@ -85,54 +85,54 @@
         ]
       },
       {
-        "title": "Discovery of a new OpenAI agent message board",
-        "url": "https://collusion.wiki/",
-        "points": 101,
-        "comments": 1330,
-        "author": "moultano",
-        "createdAt": "2026-09-04T11:54:53Z",
-        "domain": "collusion.wiki",
+        "title": "Nobody is saying why OpenAI and Anthropic had outages",
+        "url": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/",
+        "points": 93,
+        "comments": 4,
+        "author": "jslakro",
+        "createdAt": "2026-09-04T17:29:22Z",
+        "domain": "wired.com",
         "sourceType": "hn",
         "category": "AIニュース",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "新しいOpenAIエージェントのメッセージボードの発見",
-        "summaryJa": "この記事は「新しいOpenAIエージェントのメッセージボードの発見」を扱っています。collusion.wikiが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "titleJa": "OpenAIとAnthropicが停電した理由は誰も言っていません",
+        "summaryJa": "この記事は「OpenAIとAnthropicが停電した理由は誰も言っていません」を扱っています。wired.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
         "keyPoints": [
-          "この記事は「新しいOpenAIエージェントのメッセージボードの発見」を扱っています。",
-          "collusion.wikiが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "この記事は「OpenAIとAnthropicが停電した理由は誰も言っていません」を扱っています。",
+          "wired.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
           "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
       }
     ],
-    "fetchedAt": "2026-09-05T10:32:39.734Z",
+    "fetchedAt": "2026-09-05T15:11:20.565Z",
     "mock": false
   },
   "xTrends": {
     "items": [
       {
-        "topic": "GEMINI START THE ADVENTURE",
+        "topic": "GEMINI JOURNEY CONTINUE",
         "locationLabel": "米国",
-        "bestRank": 20,
-        "appearances": 5,
+        "bestRank": 24,
+        "appearances": 2,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-09-05T10:32:39.614Z",
-        "url": "https://x.com/search?q=GEMINI%20START%20THE%20ADVENTURE&src=typed_query&f=live",
-        "articleTitle": "GEMINI START THE ADVENTURE",
-        "articleTitleJa": "公開トレンド: GEMINI START THE ADVENTURE",
+        "observedAt": "2026-09-05T15:11:20.422Z",
+        "url": "https://x.com/search?q=GEMINI%20JOURNEY%20CONTINUE&src=typed_query&f=live",
+        "articleTitle": "GEMINI JOURNEY CONTINUE",
+        "articleTitleJa": "公開トレンド: GEMINI JOURNEY CONTINUE",
         "articleUrl": "https://trends24.in/united-states/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-09-05T10:32:39.614Z",
+        "articlePublishedAt": "2026-09-05T15:11:20.422Z",
         "summaryJa": "米国のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
       }
     ],
-    "fetchedAt": "2026-09-05T10:32:39.734Z",
+    "fetchedAt": "2026-09-05T15:11:20.565Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-09-05T10:32:40.105Z"
+    "articleFetchedAt": "2026-09-05T15:11:21.001Z"
   }
 }
