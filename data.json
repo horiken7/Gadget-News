@@ -2,16 +2,37 @@
   "news": {
     "items": [
       {
+        "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
+        "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
+        "points": 107,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-09-06T20:47:37.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
+        "category": "AIニュース",
+        "impact": "高",
+        "titleJa": "パブリッシャーとエージェントがAnthropic和解について主張しているため、著者は反論します",
+        "summaryJa": "この記事は「パブリッシャーとエージェントがAnthropic和解について主張しているため、著者は反論します」を扱っています。著者らは、パブリッシャーが和解金の公正な割合を超えて請求しているようだと述べている。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "keyPoints": [
+          "この記事は「パブリッシャーとエージェントがAnthropic和解について主張しているため、著者は反論します」を扱っています。",
+          "著者らは、パブリッシャーが和解金の公正な割合を超えて請求しているようだと述べている。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+        ]
+      },
+      {
         "title": "Research acceleration: The view inside OpenAI",
         "url": "https://openai.com/index/research-acceleration-view-inside-openai",
-        "points": 87,
-        "comments": 47,
+        "points": 92,
+        "comments": 66,
         "author": "iamsyr",
         "createdAt": "2026-09-06T15:08:44Z",
         "domain": "openai.com",
         "sourceType": "hn",
         "category": "研究",
-        "impact": "中",
+        "impact": "高",
         "newsLens": "技術",
         "titleJa": "リサーチアクセラレーション： OpenAI内のビュー",
         "summaryJa": "この記事は「リサーチアクセラレーション： OpenAI内のビュー」を扱っています。openai.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。研究・実装面では、手法の新しさ、再現性、既存モデルとの差分が見るべき点です。",
@@ -22,51 +43,10 @@
         ]
       },
       {
-        "title": "America's two largest school districts impose AI moratoriums",
-        "url": "https://www.techpolicy.press/americas-two-largest-school-districts-impose-ai-moratoriums/",
-        "points": 82,
-        "comments": 74,
-        "author": "cdrnsf",
-        "createdAt": "2026-09-05T21:43:22Z",
-        "domain": "techpolicy.press",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "中",
-        "newsLens": "一般",
-        "titleJa": "アメリカの2つの最大の学区がAIモラトリアムを課す",
-        "summaryJa": "この記事は「アメリカの2つの最大の学区がAIモラトリアムを課す」を扱っています。クリス・ミルズ・ロドリゴ氏は、ニューヨーク市教育局とロサンゼルス統一学区が今週新しい方針を発表したと報告している。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
-        "keyPoints": [
-          "この記事は「アメリカの2つの最大の学区がAIモラトリアムを課す」を扱っています。",
-          "クリス・ミルズ・ロドリゴ氏は、ニューヨーク市教育局とロサンゼルス統一学区が今週新しい方針を発表したと報告している。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
-        ]
-      },
-      {
-        "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
-        "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
-        "points": 79,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-09-05T22:49:55.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
-        "category": "AIニュース",
-        "impact": "中",
-        "titleJa": "シアトル・タイムズとNewsdayは、OpenAIとマイクロソフトを訴える最新の出版物です",
-        "summaryJa": "この記事は「シアトル・タイムズとNewsdayは、OpenAIとマイクロソフトを訴える最新の出版物です」を扱っています。さらに2つの報道機関が、AIを訓練するためのジャーナリズムの使用が疑われるとして、OpenAIとマイクロソフトを訴えている。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
-        "keyPoints": [
-          "この記事は「シアトル・タイムズとNewsdayは、OpenAIとマイクロソフトを訴える最新の出版物です」を扱っています。",
-          "さらに2つの報道機関が、AIを訓練するためのジャーナリズムの使用が疑われるとして、OpenAIとマイクロソフトを訴えている。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
-        ]
-      },
-      {
         "title": "GPT-6 Astra on robot arms",
         "url": "https://openai.robocurve.org/gpt-6-astra/",
         "points": 73,
-        "comments": 179,
+        "comments": 180,
         "author": "Anon84",
         "createdAt": "2026-09-06T01:52:45Z",
         "domain": "openai.robocurve.org",
@@ -83,35 +63,55 @@
         ]
       },
       {
-        "title": "How I feel about AI",
-        "url": "https://beza1e1.tuxen.de/ai_feelings.html",
-        "points": 73,
-        "comments": 217,
-        "author": "qznc",
-        "createdAt": "2026-09-06T15:00:19Z",
-        "domain": "beza1e1.tuxen.de",
+        "title": "LLM representations have implicit symbolic structure",
+        "url": "https://twitter.com/RTomMcCoy/status/2094870131939684488",
+        "points": 72,
+        "comments": 0,
+        "author": "porridgeraisin",
+        "createdAt": "2026-09-06T13:54:25Z",
+        "domain": "twitter.com",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "低",
+        "newsLens": "技術",
+        "titleJa": "LLM表現は暗黙のシンボル構造を有する",
+        "summaryJa": "この記事は「LLM表現は暗黙のシンボル構造を有する」を扱っています。🤖🧠新しい論文🧠🤖（ 8年間のプロジェクトの成果！） LLMはシンボリックシステムとは大きく異なるようです。",
+        "keyPoints": [
+          "この記事は「LLM表現は暗黙のシンボル構造を有する」を扱っています。",
+          "🤖🧠新しい論文🧠🤖（ 8年間のプロジェクトの成果。",
+          "） LLMはシンボリックシステムとは大きく異なるようです。"
+        ]
+      },
+      {
+        "title": "The Leaked Audit That Exposes OpenAI's Real Financial Crisis [video]",
+        "url": "https://www.youtube.com/watch?v=UVKmPMTwglI",
+        "points": 37,
+        "comments": 2,
+        "author": "__natty__",
+        "createdAt": "2026-09-06T20:13:39Z",
+        "domain": "youtube.com",
         "sourceType": "hn",
         "category": "AIニュース",
-        "impact": "高",
+        "impact": "低",
         "newsLens": "技術",
-        "titleJa": "AIについての私の気持ち",
-        "summaryJa": "この記事は「AIについての私の気持ち」を扱っています。beza1e1.tuxen.deが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "titleJa": "OpenAIの本当の金融危機を暴露するリークされた監査[ビデオ]",
+        "summaryJa": "この記事は「OpenAIの本当の金融危機を暴露するリークされた監査[ビデオ]」を扱っています。お気に入りの動画や音楽を楽しんだり、オリジナルコンテンツをアップロードしたり、YouTubeで友達や家族、世界中の人と共有したりできます。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
         "keyPoints": [
-          "この記事は「AIについての私の気持ち」を扱っています。",
-          "beza1e1.tuxen.deが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "この記事は「OpenAIの本当の金融危機を暴露するリークされた監査[ビデオ]」を扱っています。",
+          "お気に入りの動画や音楽を楽しんだり、オリジナルコンテンツをアップロードしたり、YouTubeで友達や家族、世界中の人と共有したりできます。",
           "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
       }
     ],
-    "fetchedAt": "2026-09-06T20:22:49.451Z",
+    "fetchedAt": "2026-09-06T22:53:33.165Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-09-06T20:22:49.451Z",
+    "fetchedAt": "2026-09-06T22:53:33.165Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-09-06T20:22:49.666Z"
+    "articleFetchedAt": "2026-09-06T22:53:33.363Z"
   }
 }
