@@ -2,31 +2,30 @@
   "news": {
     "items": [
       {
-        "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
-        "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
-        "points": 107,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-09-05T18:05:27.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
-        "category": "AIニュース",
-        "impact": "高",
-        "titleJa": "OpenAIは「wikiインシデント」を確認し、より多くの開示のために「フレームワークに取り組んでいる」と述べています",
-        "summaryJa": "この記事は「OpenAIは「wikiインシデント」を確認し、より多くの開示のために「フレームワークに取り組んでいる」と述べています」を扱っています。OpenAIは、最近報告されたAIエージェントがドイツのWikiフォーラムを乗っ取った事件での役割を認めました。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "title": "Research acceleration: The view inside OpenAI",
+        "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+        "points": 87,
+        "comments": 47,
+        "author": "iamsyr",
+        "createdAt": "2026-09-06T15:08:44Z",
+        "domain": "openai.com",
+        "sourceType": "hn",
+        "category": "研究",
+        "impact": "中",
+        "newsLens": "技術",
+        "titleJa": "リサーチアクセラレーション： OpenAI内のビュー",
+        "summaryJa": "この記事は「リサーチアクセラレーション： OpenAI内のビュー」を扱っています。openai.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。研究・実装面では、手法の新しさ、再現性、既存モデルとの差分が見るべき点です。",
         "keyPoints": [
-          "この記事は「OpenAIは「wikiインシデント」を確認し、より多くの開示のために「フレームワークに取り組んでいる」と述べています」を扱っています。",
-          "OpenAIは、最近報告されたAIエージェントがドイツのWikiフォーラムを乗っ取った事件での役割を認めました。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+          "この記事は「リサーチアクセラレーション： OpenAI内のビュー」を扱っています。",
+          "openai.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "研究・実装面では、手法の新しさ、再現性、既存モデルとの差分が見るべき点です。"
         ]
       },
       {
         "title": "America's two largest school districts impose AI moratoriums",
         "url": "https://www.techpolicy.press/americas-two-largest-school-districts-impose-ai-moratoriums/",
         "points": 82,
-        "comments": 72,
+        "comments": 74,
         "author": "cdrnsf",
         "createdAt": "2026-09-05T21:43:22Z",
         "domain": "techpolicy.press",
@@ -43,30 +42,31 @@
         ]
       },
       {
-        "title": "Show HN: We Beat MLPerf: Modern Storage for KV Offload and LLM Training",
-        "url": "https://www.theopenlake.com/blog/openlake-leads-mlperf-storage-v3-0",
-        "points": 78,
-        "comments": 1,
-        "author": "arnav__1",
-        "createdAt": "2026-09-05T17:32:20Z",
-        "domain": "theopenlake.com",
-        "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "低",
-        "newsLens": "技術",
-        "titleJa": "AIニュース: Show HN: We Beat MLPerf: Modern Storage for KV Offload and LLM Training",
-        "summaryJa": "この記事は「Show HN: We Beat MLPerf: Modern Storage for KV Offload and LLM Training」を扱っています。効率的なLLM推論とGPUトレーニングのための高性能ストレージエンジン。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+        "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+        "points": 79,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-09-05T22:49:55.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
+        "category": "AIニュース",
+        "impact": "中",
+        "titleJa": "シアトル・タイムズとNewsdayは、OpenAIとマイクロソフトを訴える最新の出版物です",
+        "summaryJa": "この記事は「シアトル・タイムズとNewsdayは、OpenAIとマイクロソフトを訴える最新の出版物です」を扱っています。さらに2つの報道機関が、AIを訓練するためのジャーナリズムの使用が疑われるとして、OpenAIとマイクロソフトを訴えている。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
-          "この記事は「Show HN: We Beat MLPerf: Modern Storage for KV Offload and LLM Training」を扱っています。",
-          "効率的なLLM推論とGPUトレーニングのための高性能ストレージエンジン。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+          "この記事は「シアトル・タイムズとNewsdayは、OpenAIとマイクロソフトを訴える最新の出版物です」を扱っています。",
+          "さらに2つの報道機関が、AIを訓練するためのジャーナリズムの使用が疑われるとして、OpenAIとマイクロソフトを訴えている。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       },
       {
         "title": "GPT-6 Astra on robot arms",
         "url": "https://openai.robocurve.org/gpt-6-astra/",
         "points": 73,
-        "comments": 171,
+        "comments": 179,
         "author": "Anon84",
         "createdAt": "2026-09-06T01:52:45Z",
         "domain": "openai.robocurve.org",
@@ -83,35 +83,35 @@
         ]
       },
       {
-        "title": "Show HN: Claude Skill – Interns must review (your agent's design choices)",
-        "url": "https://github.com/alpbahadur/interns-review-plugin",
-        "points": 72,
-        "comments": 0,
-        "author": "alpbahadur",
-        "createdAt": "2026-09-05T19:27:47Z",
-        "domain": "github.com",
+        "title": "How I feel about AI",
+        "url": "https://beza1e1.tuxen.de/ai_feelings.html",
+        "points": 73,
+        "comments": 217,
+        "author": "qznc",
+        "createdAt": "2026-09-06T15:00:19Z",
+        "domain": "beza1e1.tuxen.de",
         "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "低",
+        "category": "AIニュース",
+        "impact": "高",
         "newsLens": "技術",
-        "titleJa": "HNを表示：Claudeスキル–インターンはレビューする必要があります（エージェントのデザイン選択）",
-        "summaryJa": "この記事は「HNを表示：Claudeスキル–インターンはレビューする必要があります（エージェントのデザイン選択）」を扱っています。自分でデザインの選択を決めないでください！常に3人の寓話エージェントを出現させ、あなたの仕事を批判的に批判的に見直すように依頼します。",
+        "titleJa": "AIについての私の気持ち",
+        "summaryJa": "この記事は「AIについての私の気持ち」を扱っています。beza1e1.tuxen.deが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
         "keyPoints": [
-          "この記事は「HNを表示：Claudeスキル–インターンはレビューする必要があります（エージェントのデザイン選択）」を扱っています。",
-          "自分でデザインの選択を決めないでください。",
-          "常に3人の寓話エージェントを出現させ、あなたの仕事を批判的に批判的に見直すように依頼します。"
+          "この記事は「AIについての私の気持ち」を扱っています。",
+          "beza1e1.tuxen.deが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
       }
     ],
-    "fetchedAt": "2026-09-06T15:26:36.852Z",
+    "fetchedAt": "2026-09-06T20:22:49.451Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-09-06T15:26:36.852Z",
+    "fetchedAt": "2026-09-06T20:22:49.451Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-09-06T15:26:37.122Z"
+    "articleFetchedAt": "2026-09-06T20:22:49.666Z"
   }
 }
