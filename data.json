@@ -23,10 +23,30 @@
         ]
       },
       {
+        "title": "Your intellectual fly is open when you use an LLM to author a post (2025)",
+        "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
+        "points": 101,
+        "comments": 392,
+        "author": "cyb0rg0",
+        "createdAt": "2026-09-06T11:56:43Z",
+        "domain": "bcantrill.dtrace.org",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "LLMを使用して投稿を作成すると、知的なフライがオープンになります（ 2025年）",
+        "summaryJa": "この記事は「LLMを使用して投稿を作成すると、知的なフライがオープンになります（ 2025年）」を扱っています。注：これはもともと2025年11月11日にLinkedInの投稿として公開されました。痛みを伴う告白をする必要があります。",
+        "keyPoints": [
+          "この記事は「LLMを使用して投稿を作成すると、知的なフライがオープンになります（ 2025年）」を扱っています。",
+          "注：これはもともと2025年11月11日にLinkedInの投稿として公開されました。",
+          "痛みを伴う告白をする必要があります。"
+        ]
+      },
+      {
         "title": "Research acceleration: The view inside OpenAI",
         "url": "https://openai.com/index/research-acceleration-view-inside-openai",
-        "points": 92,
-        "comments": 66,
+        "points": 101,
+        "comments": 87,
         "author": "iamsyr",
         "createdAt": "2026-09-06T15:08:44Z",
         "domain": "openai.com",
@@ -43,75 +63,56 @@
         ]
       },
       {
-        "title": "GPT-6 Astra on robot arms",
-        "url": "https://openai.robocurve.org/gpt-6-astra/",
-        "points": 73,
-        "comments": 180,
-        "author": "Anon84",
-        "createdAt": "2026-09-06T01:52:45Z",
-        "domain": "openai.robocurve.org",
-        "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "ロボットアーム上のGPT -6 Astra",
-        "summaryJa": "この記事は「ロボットアーム上のGPT -6 Astra」を扱っています。openai.robocurve.orgが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
-        "keyPoints": [
-          "この記事は「ロボットアーム上のGPT -6 Astra」を扱っています。",
-          "openai.robocurve.orgが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
-        ]
-      },
-      {
-        "title": "LLM representations have implicit symbolic structure",
-        "url": "https://twitter.com/RTomMcCoy/status/2094870131939684488",
-        "points": 72,
+        "title": "OpenAI Reaches Its Automated Research Intern Goal , Aims to Have an Automated AI Researcher by March 2028",
+        "url": "https://www.itechpost.com/articles/237237/20260906/openai-reaches-its-automated-research-intern-goal-aims-have-automated-ai-researcher-march-2028.htm",
+        "points": 81,
         "comments": 0,
-        "author": "porridgeraisin",
-        "createdAt": "2026-09-06T13:54:25Z",
-        "domain": "twitter.com",
-        "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "低",
+        "author": "",
+        "createdAt": "2026-09-07T04:00:00Z",
+        "domain": "itechpost.com",
+        "sourceType": "gdelt",
+        "sourceLabel": "GDELT",
+        "category": "研究",
+        "impact": "中",
         "newsLens": "技術",
-        "titleJa": "LLM表現は暗黙のシンボル構造を有する",
-        "summaryJa": "この記事は「LLM表現は暗黙のシンボル構造を有する」を扱っています。🤖🧠新しい論文🧠🤖（ 8年間のプロジェクトの成果！） LLMはシンボリックシステムとは大きく異なるようです。",
+        "titleJa": "OpenAIは、2028年3月までに自動化されたAI研究者を持つことを目指して、自動化された研究インターンの目標を達成します",
+        "summaryJa": "この記事は「OpenAIは、2028年3月までに自動化されたAI研究者を持つことを目指して、自動化された研究インターンの目標を達成します」を扱っています。OpenAIは、自動化された研究の成果を明らかにし、2028年3月までにAI研究者を提供することを目指していることを明らかにしました。研究・実装面では、手法の新しさ、再現性、既存モデルとの差分が見るべき点です。",
         "keyPoints": [
-          "この記事は「LLM表現は暗黙のシンボル構造を有する」を扱っています。",
-          "🤖🧠新しい論文🧠🤖（ 8年間のプロジェクトの成果。",
-          "） LLMはシンボリックシステムとは大きく異なるようです。"
+          "この記事は「OpenAIは、2028年3月までに自動化されたAI研究者を持つことを目指して、自動化された研究インターンの目標を達成します」を扱っています。",
+          "OpenAIは、自動化された研究の成果を明らかにし、2028年3月までにAI研究者を提供することを目指していることを明らかにしました。",
+          "研究・実装面では、手法の新しさ、再現性、既存モデルとの差分が見るべき点です。"
         ]
       },
       {
-        "title": "The Leaked Audit That Exposes OpenAI's Real Financial Crisis [video]",
-        "url": "https://www.youtube.com/watch?v=UVKmPMTwglI",
-        "points": 37,
-        "comments": 2,
-        "author": "__natty__",
-        "createdAt": "2026-09-06T20:13:39Z",
-        "domain": "youtube.com",
+        "title": "Pivot to AI safety, I beg you",
+        "url": "https://ceselder.substack.com/p/pivot-to-ai-safety-i-beg-you",
+        "points": 70,
+        "comments": 9,
+        "author": "doitLP",
+        "createdAt": "2026-09-06T23:37:04Z",
+        "domain": "ceselder.substack.com",
         "sourceType": "hn",
         "category": "AIニュース",
         "impact": "低",
-        "newsLens": "技術",
-        "titleJa": "OpenAIの本当の金融危機を暴露するリークされた監査[ビデオ]",
-        "summaryJa": "この記事は「OpenAIの本当の金融危機を暴露するリークされた監査[ビデオ]」を扱っています。お気に入りの動画や音楽を楽しんだり、オリジナルコンテンツをアップロードしたり、YouTubeで友達や家族、世界中の人と共有したりできます。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "newsLens": "一般",
+        "titleJa": "AIの安全性に焦点を当ててください",
+        "summaryJa": "この記事は「AIの安全性に焦点を当ててください」を扱っています。ceselder.substack.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
-          "この記事は「OpenAIの本当の金融危機を暴露するリークされた監査[ビデオ]」を扱っています。",
-          "お気に入りの動画や音楽を楽しんだり、オリジナルコンテンツをアップロードしたり、YouTubeで友達や家族、世界中の人と共有したりできます。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+          "この記事は「AIの安全性に焦点を当ててください」を扱っています。",
+          "ceselder.substack.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       }
     ],
-    "fetchedAt": "2026-09-06T22:53:33.165Z",
+    "fetchedAt": "2026-09-07T04:37:05.435Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-09-06T22:53:33.165Z",
+    "fetchedAt": "2026-09-07T04:37:05.435Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-09-06T22:53:33.363Z"
+    "articleFetchedAt": "2026-09-07T04:37:05.565Z"
   }
 }
