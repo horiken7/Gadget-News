@@ -2,31 +2,10 @@
   "news": {
     "items": [
       {
-        "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
-        "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
-        "points": 107,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-09-06T20:47:37.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
-        "category": "AIニュース",
-        "impact": "高",
-        "titleJa": "パブリッシャーとエージェントがAnthropic和解について主張しているため、著者は反論します",
-        "summaryJa": "この記事は「パブリッシャーとエージェントがAnthropic和解について主張しているため、著者は反論します」を扱っています。著者らは、パブリッシャーが和解金の公正な割合を超えて請求しているようだと述べている。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
-        "keyPoints": [
-          "この記事は「パブリッシャーとエージェントがAnthropic和解について主張しているため、著者は反論します」を扱っています。",
-          "著者らは、パブリッシャーが和解金の公正な割合を超えて請求しているようだと述べている。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
-        ]
-      },
-      {
         "title": "Tell HN: OpenAI brings back 5 hour limit for plus and business standard users",
         "url": "https://news.ycombinator.com/item?id=49600233",
-        "points": 87,
-        "comments": 103,
+        "points": 91,
+        "comments": 133,
         "author": "spwa4",
         "createdAt": "2026-09-07T16:40:32Z",
         "domain": "news.ycombinator.com",
@@ -34,19 +13,40 @@
         "category": "AIニュース",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "HNに伝える： OpenAIは、Plusおよびビジネススタンダードのユーザーに5時間の制限を取り戻しました",
-        "summaryJa": "この記事は「HNに伝える： OpenAIは、Plusおよびビジネススタンダードのユーザーに5時間の制限を取り戻しました」を扱っています。なぜ制限が先週と大きく異なるのか疑問に思うかもしれません。また：これにより、リミットリセットの種類が大幅に少なくなります。",
+        "titleJa": "AIニュース: Tell HN: OpenAI brings back 5 hour limit for plus and business standard users",
+        "summaryJa": "この記事は「Tell HN: OpenAI brings back 5 hour limit for plus and business standard users」を扱っています。news.ycombinator.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
         "keyPoints": [
-          "この記事は「HNに伝える： OpenAIは、Plusおよびビジネススタンダードのユーザーに5時間の制限を取り戻しました」を扱っています。",
-          "なぜ制限が先週と大きく異なるのか疑問に思うかもしれません。",
-          "また：これにより、リミットリセットの種類が大幅に少なくなります。"
+          "この記事は「Tell HN: OpenAI brings back 5 hour limit for plus and business standard users」を扱っています。",
+          "news.ycombinator.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+        ]
+      },
+      {
+        "title": "Opaque recurrence, and other AI terms that you should probably know",
+        "url": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+        "points": 79,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-09-07T19:24:00.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
+        "category": "AIニュース",
+        "impact": "中",
+        "titleJa": "不透明な繰り返し、およびおそらく知っておくべき他のAI用語",
+        "summaryJa": "この記事は「不透明な繰り返し、およびおそらく知っておくべき他のAI用語」を扱っています。techcrunch.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "keyPoints": [
+          "この記事は「不透明な繰り返し、およびおそらく知っておくべき他のAI用語」を扱っています。",
+          "techcrunch.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       },
       {
         "title": "Nvidia's Jensen Huang says 'AGI has arrived' and congratulates OpenAI",
         "url": "https://www.businessinsider.com/nvidia-jensen-huang-agi-openai-astra-ai-2026-9",
         "points": 70,
-        "comments": 93,
+        "comments": 95,
         "author": "vinni2",
         "createdAt": "2026-09-07T05:23:31Z",
         "domain": "businessinsider.com",
@@ -54,64 +54,64 @@
         "category": "AIニュース",
         "impact": "低",
         "newsLens": "技術",
-        "titleJa": "NVIDIAのJensen Huangが「AGIが到着しました」と語り、OpenAIを祝福",
-        "summaryJa": "この記事は「NVIDIAのJensen Huangが「AGIが到着しました」と語り、OpenAIを祝福」を扱っています。NVIDIAの最高経営責任者（ CEO ）であるJensen Huang氏は、OpenAIが最新かつ最も強力なAIモデルであるAstraをリリースした数日後の日曜日にコメントした。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "titleJa": "AIニュース: Nvidia's Jensen Huang says 'AGI has arrived' and congratulates OpenAI",
+        "summaryJa": "この記事は「Nvidia's Jensen Huang says 'AGI has arrived' and congratulates OpenAI」を扱っています。businessinsider.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
         "keyPoints": [
-          "この記事は「NVIDIAのJensen Huangが「AGIが到着しました」と語り、OpenAIを祝福」を扱っています。",
-          "NVIDIAの最高経営責任者（ CEO ）であるJensen Huang氏は、OpenAIが最新かつ最も強力なAIモデルであるAstraをリリースした数日後の日曜日にコメントした。",
+          "この記事は「Nvidia's Jensen Huang says 'AGI has arrived' and congratulates OpenAI」を扱っています。",
+          "businessinsider.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
           "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
       },
       {
         "title": "AI models ran real businesses: They sent $12,431 in fake invoices, lost $3,200",
         "url": "https://www.bottlenecklabs.com/blog/benchmarking-7-autonomous-businesses",
-        "points": 58,
-        "comments": 64,
+        "points": 65,
+        "comments": 114,
         "author": "Areibman",
         "createdAt": "2026-09-07T18:24:32Z",
         "domain": "bottlenecklabs.com",
         "sourceType": "hn",
         "category": "AIモデル",
-        "impact": "中",
+        "impact": "高",
         "newsLens": "技術",
-        "titleJa": "AIモデルは実際のビジネスを実行しました：彼らは偽の請求書で$ 12,431を送金し、$ 3,200を失いました",
-        "summaryJa": "この記事は「AIモデルは実際のビジネスを実行しました：彼らは偽の請求書で$ 12,431を送金し、$ 3,200を失いました」を扱っています。$ 12,431の偽の請求書、2,797のスパムメール、$ 0の収益。7人のフロンティアエージェント、72時間、リアルマネー。",
+        "titleJa": "AIニュース: AI models ran real businesses: They sent $12,431 in fake invoices, lost $3,200",
+        "summaryJa": "この記事は「AI models ran real businesses: They sent $12,431 in fake invoices, lost $3,200」を扱っています。bottlenecklabs.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
         "keyPoints": [
-          "この記事は「AIモデルは実際のビジネスを実行しました：彼らは偽の請求書で$ 12,431を送金し、$ 3,200を失いました」を扱っています。",
-          "$ 12,431の偽の請求書、2,797のスパムメール、$ 0の収益。",
-          "7人のフロンティアエージェント、72時間、リアルマネー。"
+          "この記事は「AI models ran real businesses: They sent $12,431 in fake invoices, lost $3,200」を扱っています。",
+          "bottlenecklabs.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
       },
       {
-        "title": "Coop – Isolated VM Environments for Running Claude Code and Codex",
-        "url": "https://github.com/trailofbits/coop",
-        "points": 51,
-        "comments": 10,
-        "author": "aggrrrh",
-        "createdAt": "2026-09-07T04:18:28Z",
-        "domain": "github.com",
+        "title": "AI Cold Showers",
+        "url": "https://allan.reyes.sh/posts/ai-cold-showers/",
+        "points": 58,
+        "comments": 11,
+        "author": "mooreds",
+        "createdAt": "2026-09-07T19:05:39Z",
+        "domain": "allan.reyes.sh",
         "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "低",
+        "category": "AIニュース",
+        "impact": "中",
         "newsLens": "技術",
-        "titleJa": "COOP –Claudeコードとコーデックスを実行するための隔離されたVM環境",
-        "summaryJa": "この記事は「COOP –Claudeコードとコーデックスを実行するための隔離されたVM環境」を扱っています。Claudeコードとコーデックスを実行するための隔離されたVM環境- trailofbits/coop。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "titleJa": "AIニュース: AI Cold Showers",
+        "summaryJa": "この記事は「AI Cold Showers」を扱っています。allan.reyes.shが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
         "keyPoints": [
-          "この記事は「COOP –Claudeコードとコーデックスを実行するための隔離されたVM環境」を扱っています。",
-          "Claudeコードとコーデックスを実行するための隔離されたVM環境- trailofbits/coop。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+          "この記事は「AI Cold Showers」を扱っています。",
+          "allan.reyes.shが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
       }
     ],
-    "fetchedAt": "2026-09-07T19:08:53.345Z",
+    "fetchedAt": "2026-09-07T23:30:57.259Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-09-07T19:08:53.345Z",
+    "fetchedAt": "2026-09-07T23:30:57.259Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-09-07T19:08:53.558Z"
+    "articleFetchedAt": "2026-09-07T23:30:57.498Z"
   }
 }
