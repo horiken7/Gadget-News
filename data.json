@@ -23,50 +23,30 @@
         ]
       },
       {
-        "title": "Research acceleration: The view inside OpenAI",
-        "url": "https://openai.com/index/research-acceleration-view-inside-openai",
-        "points": 101,
-        "comments": 137,
-        "author": "iamsyr",
-        "createdAt": "2026-09-06T15:08:44Z",
-        "domain": "openai.com",
+        "title": "Tell HN: OpenAI brings back 5 hour limit for plus and business standard users",
+        "url": "https://news.ycombinator.com/item?id=49600233",
+        "points": 87,
+        "comments": 103,
+        "author": "spwa4",
+        "createdAt": "2026-09-07T16:40:32Z",
+        "domain": "news.ycombinator.com",
         "sourceType": "hn",
-        "category": "研究",
+        "category": "AIニュース",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "リサーチアクセラレーション： OpenAI内のビュー",
-        "summaryJa": "この記事は「リサーチアクセラレーション： OpenAI内のビュー」を扱っています。openai.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。研究・実装面では、手法の新しさ、再現性、既存モデルとの差分が見るべき点です。",
+        "titleJa": "HNに伝える： OpenAIは、Plusおよびビジネススタンダードのユーザーに5時間の制限を取り戻しました",
+        "summaryJa": "この記事は「HNに伝える： OpenAIは、Plusおよびビジネススタンダードのユーザーに5時間の制限を取り戻しました」を扱っています。なぜ制限が先週と大きく異なるのか疑問に思うかもしれません。また：これにより、リミットリセットの種類が大幅に少なくなります。",
         "keyPoints": [
-          "この記事は「リサーチアクセラレーション： OpenAI内のビュー」を扱っています。",
-          "openai.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "研究・実装面では、手法の新しさ、再現性、既存モデルとの差分が見るべき点です。"
-        ]
-      },
-      {
-        "title": "LLM representations have implicit symbolic structure",
-        "url": "https://twitter.com/RTomMcCoy/status/2094870131939684488",
-        "points": 72,
-        "comments": 0,
-        "author": "porridgeraisin",
-        "createdAt": "2026-09-06T13:54:25Z",
-        "domain": "twitter.com",
-        "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "低",
-        "newsLens": "技術",
-        "titleJa": "LLM表現は暗黙のシンボル構造を有する",
-        "summaryJa": "この記事は「LLM表現は暗黙のシンボル構造を有する」を扱っています。🤖🧠新しい論文🧠🤖（ 8年間のプロジェクトの成果！） LLMはシンボリックシステムとは大きく異なるようです。",
-        "keyPoints": [
-          "この記事は「LLM表現は暗黙のシンボル構造を有する」を扱っています。",
-          "🤖🧠新しい論文🧠🤖（ 8年間のプロジェクトの成果。",
-          "） LLMはシンボリックシステムとは大きく異なるようです。"
+          "この記事は「HNに伝える： OpenAIは、Plusおよびビジネススタンダードのユーザーに5時間の制限を取り戻しました」を扱っています。",
+          "なぜ制限が先週と大きく異なるのか疑問に思うかもしれません。",
+          "また：これにより、リミットリセットの種類が大幅に少なくなります。"
         ]
       },
       {
         "title": "Nvidia's Jensen Huang says 'AGI has arrived' and congratulates OpenAI",
         "url": "https://www.businessinsider.com/nvidia-jensen-huang-agi-openai-astra-ai-2026-9",
         "points": 70,
-        "comments": 76,
+        "comments": 93,
         "author": "vinni2",
         "createdAt": "2026-09-07T05:23:31Z",
         "domain": "businessinsider.com",
@@ -83,9 +63,29 @@
         ]
       },
       {
+        "title": "AI models ran real businesses: They sent $12,431 in fake invoices, lost $3,200",
+        "url": "https://www.bottlenecklabs.com/blog/benchmarking-7-autonomous-businesses",
+        "points": 58,
+        "comments": 64,
+        "author": "Areibman",
+        "createdAt": "2026-09-07T18:24:32Z",
+        "domain": "bottlenecklabs.com",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "中",
+        "newsLens": "技術",
+        "titleJa": "AIモデルは実際のビジネスを実行しました：彼らは偽の請求書で$ 12,431を送金し、$ 3,200を失いました",
+        "summaryJa": "この記事は「AIモデルは実際のビジネスを実行しました：彼らは偽の請求書で$ 12,431を送金し、$ 3,200を失いました」を扱っています。$ 12,431の偽の請求書、2,797のスパムメール、$ 0の収益。7人のフロンティアエージェント、72時間、リアルマネー。",
+        "keyPoints": [
+          "この記事は「AIモデルは実際のビジネスを実行しました：彼らは偽の請求書で$ 12,431を送金し、$ 3,200を失いました」を扱っています。",
+          "$ 12,431の偽の請求書、2,797のスパムメール、$ 0の収益。",
+          "7人のフロンティアエージェント、72時間、リアルマネー。"
+        ]
+      },
+      {
         "title": "Coop – Isolated VM Environments for Running Claude Code and Codex",
         "url": "https://github.com/trailofbits/coop",
-        "points": 49,
+        "points": 51,
         "comments": 10,
         "author": "aggrrrh",
         "createdAt": "2026-09-07T04:18:28Z",
@@ -103,15 +103,15 @@
         ]
       }
     ],
-    "fetchedAt": "2026-09-07T12:27:51.167Z",
+    "fetchedAt": "2026-09-07T19:08:53.345Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-09-07T12:27:51.167Z",
+    "fetchedAt": "2026-09-07T19:08:53.345Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-09-07T12:27:51.338Z"
+    "articleFetchedAt": "2026-09-07T19:08:53.558Z"
   }
 }
