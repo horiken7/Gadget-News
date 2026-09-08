@@ -47,7 +47,7 @@
         "title": "Muse: Meta's personal AI agent, features and capabilities",
         "url": "https://ai.meta.com/muse/",
         "points": 101,
-        "comments": 136,
+        "comments": 201,
         "author": "yks",
         "createdAt": "2026-09-08T19:25:00Z",
         "domain": "ai.meta.com",
@@ -86,14 +86,14 @@
       {
         "title": "Show HN: LLM Attention Visualization",
         "url": "https://ishamf.dev/p/llm-attention-visualizer/",
-        "points": 90,
-        "comments": 16,
+        "points": 95,
+        "comments": 19,
         "author": "ifz",
         "createdAt": "2026-09-08T16:59:41Z",
         "domain": "ishamf.dev",
         "sourceType": "hn",
         "category": "AIモデル",
-        "impact": "中",
+        "impact": "高",
         "newsLens": "技術",
         "titleJa": "HN: LLM Attention Visualizationを表示",
         "summaryJa": "この記事は「HN: LLM Attention Visualizationを表示」を扱っています。LLMにおける注意メカニズムの可視化。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
@@ -104,34 +104,52 @@
         ]
       }
     ],
-    "fetchedAt": "2026-09-08T21:08:13.300Z",
+    "fetchedAt": "2026-09-08T23:23:04.271Z",
     "mock": false
   },
   "xTrends": {
     "items": [
       {
         "topic": "ChatGPT Images 2.5",
-        "locationLabel": "米国",
-        "bestRank": 49,
-        "appearances": 1,
+        "locationLabel": "日本",
+        "bestRank": 29,
+        "appearances": 2,
         "trendSource": "Trends24",
-        "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-09-08T21:08:13.200Z",
+        "sourceUrl": "https://trends24.in/japan/",
+        "observedAt": "2026-09-08T23:23:04.239Z",
         "url": "https://x.com/search?q=ChatGPT%20Images%202.5&src=typed_query&f=live",
         "articleTitle": "ChatGPT Images 2.5",
         "articleTitleJa": "公開トレンド: ChatGPT Images 2.5",
+        "articleUrl": "https://trends24.in/japan/",
+        "articleSource": "Trends24",
+        "articlePublishedAt": "2026-09-08T23:23:04.239Z",
+        "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
+        "translationVersion": 3,
+        "articleFallback": true
+      },
+      {
+        "topic": "OpenAI",
+        "locationLabel": "米国",
+        "bestRank": 26,
+        "appearances": 3,
+        "trendSource": "Trends24",
+        "sourceUrl": "https://trends24.in/united-states/",
+        "observedAt": "2026-09-08T23:23:04.190Z",
+        "url": "https://x.com/search?q=OpenAI&src=typed_query&f=live",
+        "articleTitle": "OpenAI",
+        "articleTitleJa": "公開トレンド: OpenAI",
         "articleUrl": "https://trends24.in/united-states/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-09-08T21:08:13.200Z",
+        "articlePublishedAt": "2026-09-08T23:23:04.190Z",
         "summaryJa": "米国のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
       }
     ],
-    "fetchedAt": "2026-09-08T21:08:13.300Z",
+    "fetchedAt": "2026-09-08T23:23:04.271Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-09-08T21:08:13.765Z"
+    "articleFetchedAt": "2026-09-08T23:23:06.903Z"
   }
 }
