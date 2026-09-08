@@ -2,10 +2,72 @@
   "news": {
     "items": [
       {
+        "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
+        "url": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
+        "points": 133,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-09-08T19:00:00.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
+        "category": "AIニュース",
+        "impact": "高",
+        "titleJa": "MetaがMuse AIエージェントをデビューさせました。消費者はそれを信頼するでしょうか？",
+        "summaryJa": "この記事は「MetaがMuse AIエージェントをデビューさせました。消費者はそれを信頼するでしょうか？」を扱っています。Metaの新しいパーソナルAIエージェントMuseは、ユーザーの電子メール、カレンダー、支払い、医療サービスなどへのアクセスを望んでいる。これは同社最大の消費者AIベットであり、人々が自分のデータでMetaを信頼しているかどうかの主要なテストとなっている。",
+        "keyPoints": [
+          "この記事は「MetaがMuse AIエージェントをデビューさせました。",
+          "消費者はそれを信頼するでしょうか。",
+          "Metaの新しいパーソナルAIエージェントMuseは、ユーザーの電子メール、カレンダー、支払い、医療サービスなどへのアクセスを望んでいる。"
+        ]
+      },
+      {
+        "title": "Chrome is now shipping updates every 2 weeks as AI changes the security landscape",
+        "url": "https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape/",
+        "points": 133,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-09-08T15:04:09.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
+        "category": "AIニュース",
+        "impact": "高",
+        "titleJa": "AIがセキュリティの状況を変えるにつれて、Chromeは2週間ごとにアップデートを配信するようになりました",
+        "summaryJa": "この記事は「AIがセキュリティの状況を変えるにつれて、Chromeは2週間ごとにアップデートを配信するようになりました」を扱っています。Googleは、Chromeのリリーススケジュールを短縮して、セキュリティパッチと新機能をより迅速に出荷しています。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "keyPoints": [
+          "この記事は「AIがセキュリティの状況を変えるにつれて、Chromeは2週間ごとにアップデートを配信するようになりました」を扱っています。",
+          "Googleは、Chromeのリリーススケジュールを短縮して、セキュリティパッチと新機能をより迅速に出荷しています。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+        ]
+      },
+      {
+        "title": "Muse: Meta's personal AI agent, features and capabilities",
+        "url": "https://ai.meta.com/muse/",
+        "points": 101,
+        "comments": 136,
+        "author": "yks",
+        "createdAt": "2026-09-08T19:25:00Z",
+        "domain": "ai.meta.com",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "MUSE ： MetaのパーソナルAIエージェント、機能、機能",
+        "summaryJa": "この記事は「MUSE ： MetaのパーソナルAIエージェント、機能、機能」を扱っています。メタの個人的なAIエージェントであるミューズに会いましょう。日々のタスクで何ができるのか、どのように機能するのか、そしてより多くの仕事をこなすためにどのように役立つのかを学びましょう。",
+        "keyPoints": [
+          "この記事は「MUSE ： MetaのパーソナルAIエージェント、機能、機能」を扱っています。",
+          "メタの個人的なAIエージェントであるミューズに会いましょう。",
+          "日々のタスクで何ができるのか、どのように機能するのか、そしてより多くの仕事をこなすためにどのように役立つのかを学びましょう。"
+        ]
+      },
+      {
         "title": "Multi-Agents LLM Financial Trading Framework",
         "url": "https://github.com/TauricResearch/TradingAgents",
-        "points": 95,
-        "comments": 72,
+        "points": 97,
+        "comments": 75,
         "author": "fittingopposite",
         "createdAt": "2026-09-08T05:20:23Z",
         "domain": "github.com",
@@ -22,97 +84,54 @@
         ]
       },
       {
-        "title": "Tell HN: OpenAI brings back 5 hour limit for plus and business standard users",
-        "url": "https://news.ycombinator.com/item?id=49600233",
-        "points": 93,
-        "comments": 143,
-        "author": "spwa4",
-        "createdAt": "2026-09-07T16:40:32Z",
-        "domain": "news.ycombinator.com",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "HNに伝える： OpenAIは、Plusおよびビジネススタンダードのユーザーに5時間の制限を取り戻しました",
-        "summaryJa": "この記事は「HNに伝える： OpenAIは、Plusおよびビジネススタンダードのユーザーに5時間の制限を取り戻しました」を扱っています。なぜ制限が先週と大きく異なるのか疑問に思うかもしれません。また：これにより、リミットリセットの種類が大幅に少なくなります。",
-        "keyPoints": [
-          "この記事は「HNに伝える： OpenAIは、Plusおよびビジネススタンダードのユーザーに5時間の制限を取り戻しました」を扱っています。",
-          "なぜ制限が先週と大きく異なるのか疑問に思うかもしれません。",
-          "また：これにより、リミットリセットの種類が大幅に少なくなります。"
-        ]
-      },
-      {
-        "title": "The VMs Powering Mobile Agents (Instinct, Claude Code)",
-        "url": "https://rohanadwankar.github.io/posts/platforms.html",
-        "points": 84,
-        "comments": 23,
-        "author": "RohanAdwankar",
-        "createdAt": "2026-09-08T04:36:26Z",
-        "domain": "rohanadwankar.github.io",
+        "title": "Show HN: LLM Attention Visualization",
+        "url": "https://ishamf.dev/p/llm-attention-visualizer/",
+        "points": 90,
+        "comments": 16,
+        "author": "ifz",
+        "createdAt": "2026-09-08T16:59:41Z",
+        "domain": "ishamf.dev",
         "sourceType": "hn",
         "category": "AIモデル",
         "impact": "中",
         "newsLens": "技術",
-        "titleJa": "モバイルエージェントを強化するVM （本能、Claudeコード）",
-        "summaryJa": "この記事は「モバイルエージェントを強化するVM （本能、Claudeコード）」を扱っています。rohanadwankar.github.ioが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "titleJa": "HN: LLM Attention Visualizationを表示",
+        "summaryJa": "この記事は「HN: LLM Attention Visualizationを表示」を扱っています。LLMにおける注意メカニズムの可視化。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
         "keyPoints": [
-          "この記事は「モバイルエージェントを強化するVM （本能、Claudeコード）」を扱っています。",
-          "rohanadwankar.github.ioが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "この記事は「HN: LLM Attention Visualizationを表示」を扱っています。",
+          "LLMにおける注意メカニズムの可視化。",
           "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
-        ]
-      },
-      {
-        "title": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
-        "url": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/",
-        "points": 79,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-09-08T16:20:31.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
-        "category": "AIニュース",
-        "impact": "中",
-        "titleJa": "Google Cloudがアクセンチュアとの契約でAI展開戦争に追いつこうと競争",
-        "summaryJa": "この記事は「Google Cloudがアクセンチュアとの契約でAI展開戦争に追いつこうと競争」を扱っています。Google Cloudは、アクセンチュアのエンタープライズAIプッシュを拡大し、採用を促進し、展開のボトルネックを克服するために、先行デプロイされたエンジニアに賭けています。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
-        "keyPoints": [
-          "この記事は「Google Cloudがアクセンチュアとの契約でAI展開戦争に追いつこうと競争」を扱っています。",
-          "Google Cloudは、アクセンチュアのエンタープライズAIプッシュを拡大し、採用を促進し、展開のボトルネックを克服するために、先行デプロイされたエンジニアに賭けています。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
-        ]
-      },
-      {
-        "title": "Opaque recurrence, and other AI terms that you should probably know",
-        "url": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-        "points": 79,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-09-07T19:24:00.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
-        "category": "AIニュース",
-        "impact": "中",
-        "titleJa": "不透明な繰り返し、およびおそらく知っておくべき他のAI用語",
-        "summaryJa": "この記事は「不透明な繰り返し、およびおそらく知っておくべき他のAI用語」を扱っています。AIの台頭は、新しい用語やスラングの雪崩をもたらしました。ここには、あなたが遭遇する可能性のある最も重要な単語やフレーズの定義が記載された用語集があります。",
-        "keyPoints": [
-          "この記事は「不透明な繰り返し、およびおそらく知っておくべき他のAI用語」を扱っています。",
-          "AIの台頭は、新しい用語やスラングの雪崩をもたらしました。",
-          "ここには、あなたが遭遇する可能性のある最も重要な単語やフレーズの定義が記載された用語集があります。"
         ]
       }
     ],
-    "fetchedAt": "2026-09-08T16:36:22.485Z",
+    "fetchedAt": "2026-09-08T21:08:13.300Z",
     "mock": false
   },
   "xTrends": {
-    "items": [],
-    "fetchedAt": "2026-09-08T16:36:22.485Z",
+    "items": [
+      {
+        "topic": "ChatGPT Images 2.5",
+        "locationLabel": "米国",
+        "bestRank": 49,
+        "appearances": 1,
+        "trendSource": "Trends24",
+        "sourceUrl": "https://trends24.in/united-states/",
+        "observedAt": "2026-09-08T21:08:13.200Z",
+        "url": "https://x.com/search?q=ChatGPT%20Images%202.5&src=typed_query&f=live",
+        "articleTitle": "ChatGPT Images 2.5",
+        "articleTitleJa": "公開トレンド: ChatGPT Images 2.5",
+        "articleUrl": "https://trends24.in/united-states/",
+        "articleSource": "Trends24",
+        "articlePublishedAt": "2026-09-08T21:08:13.200Z",
+        "summaryJa": "米国のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
+        "translationVersion": 3,
+        "articleFallback": true
+      }
+    ],
+    "fetchedAt": "2026-09-08T21:08:13.300Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-09-08T16:36:22.660Z"
+    "articleFetchedAt": "2026-09-08T21:08:13.765Z"
   }
 }
