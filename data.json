@@ -2,27 +2,6 @@
   "news": {
     "items": [
       {
-        "title": "Why this month's Microsoft patch release is a doozy",
-        "url": "https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/",
-        "points": 133,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-09-08T21:11:46.000Z",
-        "domain": "arstechnica.com",
-        "sourceType": "rss",
-        "sourceLabel": "Ars Technica",
-        "newsLens": "技術",
-        "category": "AIニュース",
-        "impact": "高",
-        "titleJa": "今月のMicrosoftパッチリリースがおかしい理由",
-        "summaryJa": "この記事は「今月のMicrosoftパッチリリースがおかしい理由」を扱っています。セキュリティノームは、予想されるAI支援攻撃の猛攻に先立ち、パッチを送り出しています。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
-        "keyPoints": [
-          "この記事は「今月のMicrosoftパッチリリースがおかしい理由」を扱っています。",
-          "セキュリティノームは、予想されるAI支援攻撃の猛攻に先立ち、パッチを送り出しています。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
-        ]
-      },
-      {
         "title": "Sequoia doubles down on Cymphony as AI agents create new enterprise security risks",
         "url": "https://techcrunch.com/2026/09/09/sequoia-doubles-down-on-cymphony-as-ai-agents-create-new-enterprise-security-risks/",
         "points": 133,
@@ -68,7 +47,7 @@
         "title": "DeepSeek launching v4.1 flash cheaper and more capable than v4 pro",
         "url": "https://news.ycombinator.com/item?id=49624603",
         "points": 121,
-        "comments": 201,
+        "comments": 202,
         "author": "nickweb",
         "createdAt": "2026-09-09T11:19:26Z",
         "domain": "news.ycombinator.com",
@@ -85,10 +64,31 @@
         ]
       },
       {
+        "title": "4 groups caught using the same Chrome and Windows exploit kit",
+        "url": "https://arstechnica.com/information-technology/2026/09/4-groups-caught-using-the-same-chrome-and-windows-exploit-kit/",
+        "points": 107,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-09-09T20:55:02.000Z",
+        "domain": "arstechnica.com",
+        "sourceType": "rss",
+        "sourceLabel": "Ars Technica",
+        "newsLens": "技術",
+        "category": "AIニュース",
+        "impact": "高",
+        "titleJa": "同じChromeとWindowsエクスプロイトキットを使用している4つのグループが見つかりました",
+        "summaryJa": "この記事は「同じChromeとWindowsエクスプロイトキットを使用している4つのグループが見つかりました」を扱っています。パッチギャップとAIベースの脆弱性発見の急速なペースが貢献している可能性が高い。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "keyPoints": [
+          "この記事は「同じChromeとWindowsエクスプロイトキットを使用している4つのグループが見つかりました」を扱っています。",
+          "パッチギャップとAIベースの脆弱性発見の急速なペースが貢献している可能性が高い。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+        ]
+      },
+      {
         "title": "Claude, change the “Add to Cart” button to blue",
         "url": "https://opusfived.dev/",
         "points": 73,
-        "comments": 358,
+        "comments": 383,
         "author": "matthieu_bl",
         "createdAt": "2026-09-09T09:39:46Z",
         "domain": "opusfived.dev",
@@ -105,7 +105,7 @@
         ]
       }
     ],
-    "fetchedAt": "2026-09-09T20:55:18.521Z",
+    "fetchedAt": "2026-09-09T23:13:36.347Z",
     "mock": false
   },
   "xTrends": {
@@ -114,16 +114,16 @@
         "topic": "Anthropic",
         "locationLabel": "米国",
         "bestRank": 1,
-        "appearances": 21,
+        "appearances": 20,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-09-09T20:55:18.347Z",
+        "observedAt": "2026-09-09T23:13:35.977Z",
         "url": "https://x.com/search?q=Anthropic&src=typed_query&f=live",
         "articleTitle": "Anthropic",
         "articleTitleJa": "公開トレンド: Anthropic",
         "articleUrl": "https://trends24.in/united-states/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-09-09T20:55:18.347Z",
+        "articlePublishedAt": "2026-09-09T23:13:35.977Z",
         "summaryJa": "米国のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -135,7 +135,7 @@
         "appearances": 4,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-09-09T20:55:18.347Z",
+        "observedAt": "2026-09-09T23:13:35.977Z",
         "url": "https://x.com/search?q=Siri%20AI&src=typed_query&f=live",
         "articleTitle": "Due to DMA, Siri AI delayed in EU for iOS 27 and iPadOS 27",
         "articleTitleJa": "DMAのために、Siri AIはiOS 27とiPadOS 27のEUで遅れました",
@@ -152,13 +152,13 @@
         "appearances": 7,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-kingdom/",
-        "observedAt": "2026-09-09T20:55:18.481Z",
+        "observedAt": "2026-09-09T23:13:36.332Z",
         "url": "https://x.com/search?q=OpenAI&src=typed_query&f=live",
         "articleTitle": "OpenAI",
         "articleTitleJa": "公開トレンド: OpenAI",
         "articleUrl": "https://trends24.in/united-kingdom/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-09-09T20:55:18.481Z",
+        "articlePublishedAt": "2026-09-09T23:13:36.332Z",
         "summaryJa": "英国のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -170,22 +170,22 @@
         "appearances": 2,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/canada/",
-        "observedAt": "2026-09-09T20:55:18.416Z",
+        "observedAt": "2026-09-09T23:13:36.001Z",
         "url": "https://x.com/search?q=OpenAI%20and%20Anthropic&src=typed_query&f=live",
         "articleTitle": "OpenAI and Anthropic",
         "articleTitleJa": "公開トレンド: OpenAI and Anthropic",
         "articleUrl": "https://trends24.in/canada/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-09-09T20:55:18.416Z",
+        "articlePublishedAt": "2026-09-09T23:13:36.001Z",
         "summaryJa": "カナダのTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
       }
     ],
-    "fetchedAt": "2026-09-09T20:55:18.521Z",
+    "fetchedAt": "2026-09-09T23:13:36.347Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-09-09T20:55:29.255Z"
+    "articleFetchedAt": "2026-09-09T23:13:45.557Z"
   }
 }
