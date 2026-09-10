@@ -5,7 +5,7 @@
         "title": "Tell HN: OpenAI keeps re-enabling the 'allow training' setting",
         "url": "https://news.ycombinator.com/item?id=49643556",
         "points": 121,
-        "comments": 163,
+        "comments": 172,
         "author": "jacquesm",
         "createdAt": "2026-09-10T13:39:53Z",
         "domain": "news.ycombinator.com",
@@ -43,27 +43,6 @@
         ]
       },
       {
-        "title": "Four groups caught using the same Chrome and Windows exploit kit",
-        "url": "https://arstechnica.com/information-technology/2026/09/4-groups-caught-using-the-same-chrome-and-windows-exploit-kit/",
-        "points": 107,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-09-09T20:55:02.000Z",
-        "domain": "arstechnica.com",
-        "sourceType": "rss",
-        "sourceLabel": "Ars Technica",
-        "newsLens": "技術",
-        "category": "AIニュース",
-        "impact": "高",
-        "titleJa": "同じChromeとWindowsエクスプロイトキットを使用している4つのグループが見つかりました",
-        "summaryJa": "この記事は「同じChromeとWindowsエクスプロイトキットを使用している4つのグループが見つかりました」を扱っています。パッチギャップとAIベースの脆弱性発見の急速なペースが貢献している可能性が高い。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
-        "keyPoints": [
-          "この記事は「同じChromeとWindowsエクスプロイトキットを使用している4つのグループが見つかりました」を扱っています。",
-          "パッチギャップとAIベースの脆弱性発見の急速なペースが貢献している可能性が高い。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
-        ]
-      },
-      {
         "title": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
         "url": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/",
         "points": 107,
@@ -88,7 +67,7 @@
         "title": "DeepSeek v4.1 Flash",
         "url": "https://twitter.com/deepseek_ai/status/2097930608790167907",
         "points": 73,
-        "comments": 498,
+        "comments": 515,
         "author": "Liwink",
         "createdAt": "2026-09-10T06:11:05Z",
         "domain": "twitter.com",
@@ -103,9 +82,29 @@
           "twitter.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
           "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
+      },
+      {
+        "title": "More questions about whether researchers can trust OpenAI with unpublished math",
+        "url": "https://mathstodon.xyz/@andreasthom/117240535270608201",
+        "points": 73,
+        "comments": 563,
+        "author": "pred_",
+        "createdAt": "2026-09-10T06:49:43Z",
+        "domain": "mathstodon.xyz",
+        "sourceType": "hn",
+        "category": "研究",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "研究者が未発表の数学でOpenAIを信頼できるかどうかについてのさらなる質問",
+        "summaryJa": "この記事は「研究者が未発表の数学でOpenAIを信頼できるかどうかについてのさらなる質問」を扱っています。mathstodon.xyzが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。研究・実装面では、手法の新しさ、再現性、既存モデルとの差分が見るべき点です。",
+        "keyPoints": [
+          "この記事は「研究者が未発表の数学でOpenAIを信頼できるかどうかについてのさらなる質問」を扱っています。",
+          "mathstodon.xyzが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "研究・実装面では、手法の新しさ、再現性、既存モデルとの差分が見るべき点です。"
+        ]
       }
     ],
-    "fetchedAt": "2026-09-10T20:50:16.127Z",
+    "fetchedAt": "2026-09-10T23:09:02.171Z",
     "mock": false
   },
   "xTrends": {
@@ -117,13 +116,13 @@
         "appearances": 2,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-09-10T20:50:16.111Z",
+        "observedAt": "2026-09-10T23:09:02.060Z",
         "url": "https://x.com/search?q=AI%E6%AD%8C%E5%94%B1&src=typed_query&f=live",
         "articleTitle": "AI歌唱",
         "articleTitleJa": "公開トレンド: AI歌唱",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-09-10T20:50:16.111Z",
+        "articlePublishedAt": "2026-09-10T23:09:02.060Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -135,22 +134,22 @@
         "appearances": 6,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-09-10T20:50:16.020Z",
+        "observedAt": "2026-09-10T23:09:02.002Z",
         "url": "https://x.com/search?q=DeepSeek%20V4&src=typed_query&f=live",
         "articleTitle": "DeepSeek V4",
         "articleTitleJa": "公開トレンド: DeepSeek V4",
         "articleUrl": "https://trends24.in/united-states/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-09-10T20:50:16.020Z",
+        "articlePublishedAt": "2026-09-10T23:09:02.002Z",
         "summaryJa": "米国のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
       }
     ],
-    "fetchedAt": "2026-09-10T20:50:16.127Z",
+    "fetchedAt": "2026-09-10T23:09:02.171Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-09-10T20:50:18.778Z"
+    "articleFetchedAt": "2026-09-10T23:09:04.579Z"
   }
 }
