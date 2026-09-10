@@ -14,11 +14,11 @@
         "newsLens": "一般",
         "category": "AIニュース",
         "impact": "高",
-        "titleJa": "AIエージェントが新しいエンタープライズセキュリティリスクを生み出すにつれて、SequoiaはCymphonyを倍増させます",
-        "summaryJa": "この記事は「AIエージェントが新しいエンタープライズセキュリティリスクを生み出すにつれて、SequoiaはCymphonyを倍増させます」を扱っています。Cymphonyは、セキュリティチームがアクセスできるシステムや機密データを含む、従業員、AIエージェント、およびその他の非人間のアイデンティティの単一ビューを提供します。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "titleJa": "AIニュース: Sequoia doubles down on Cymphony as AI agents create new enterprise security risks",
+        "summaryJa": "この記事は「Sequoia doubles down on Cymphony as AI agents create new enterprise security risks」を扱っています。techcrunch.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
-          "この記事は「AIエージェントが新しいエンタープライズセキュリティリスクを生み出すにつれて、SequoiaはCymphonyを倍増させます」を扱っています。",
-          "Cymphonyは、セキュリティチームがアクセスできるシステムや機密データを含む、従業員、AIエージェント、およびその他の非人間のアイデンティティの単一ビューを提供します。",
+          "この記事は「Sequoia doubles down on Cymphony as AI agents create new enterprise security risks」を扱っています。",
+          "techcrunch.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
           "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       },
@@ -35,11 +35,11 @@
         "newsLens": "一般",
         "category": "AIモデル",
         "impact": "高",
-        "titleJa": "Sunoは、著作権訴訟が積み重なるにつれて、AIモデルをライセンスされた音楽で訓練された新しいモデルに置き換える",
-        "summaryJa": "この記事は「Sunoは、著作権訴訟が積み重なるにつれて、AIモデルをライセンスされた音楽で訓練された新しいモデルに置き換える」を扱っています。一連の訴訟に取り組んでいるSuno氏は、新しいモデルであるSuno v 6は、以前のバージョンのAIモデルのトレーニングに使用した音楽を使用してトレーニングされていないと述べた。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "titleJa": "AIニュース: Suno replaces its AI models with a new one trained on licensed music as copyright suits pile up",
+        "summaryJa": "この記事は「Suno replaces its AI models with a new one trained on licensed music as copyright suits pile up」を扱っています。techcrunch.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
-          "この記事は「Sunoは、著作権訴訟が積み重なるにつれて、AIモデルをライセンスされた音楽で訓練された新しいモデルに置き換える」を扱っています。",
-          "一連の訴訟に取り組んでいるSuno氏は、新しいモデルであるSuno v 6は、以前のバージョンのAIモデルのトレーニングに使用した音楽を使用してトレーニングされていないと述べた。",
+          "この記事は「Suno replaces its AI models with a new one trained on licensed music as copyright suits pile up」を扱っています。",
+          "techcrunch.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
           "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       },
@@ -47,7 +47,7 @@
         "title": "DeepSeek launching v4.1 flash cheaper and more capable than v4 pro",
         "url": "https://news.ycombinator.com/item?id=49624603",
         "points": 121,
-        "comments": 202,
+        "comments": 206,
         "author": "nickweb",
         "createdAt": "2026-09-09T11:19:26Z",
         "domain": "news.ycombinator.com",
@@ -55,12 +55,12 @@
         "category": "AIニュース",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "DeepSeek、v4.1フラッシュをv 4 proよりも安く、より機能的に発売",
-        "summaryJa": "この記事は「DeepSeek、v4.1フラッシュをv 4 proよりも安く、より機能的に発売」を扱っています。DSeekは、2026年9月10日（北京時間）頃にV4.1 Flashモデルを正式にリリースする予定です。広範な内部および外部テストの後、V4.1 Flashは、パフォーマンス、コスト、スピード、タスク完了時間など、すべての主要な指標でV 4 Proを包括的に上回っています。",
+        "titleJa": "AIニュース: DeepSeek launching v4.1 flash cheaper and more capable than v4 pro",
+        "summaryJa": "この記事は「DeepSeek launching v4.1 flash cheaper and more capable than v4 pro」を扱っています。news.ycombinator.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
         "keyPoints": [
-          "この記事は「DeepSeek、v4.1フラッシュをv 4 proよりも安く、より機能的に発売」を扱っています。",
-          "DSeekは、2026年9月10日（北京時間）頃にV4.1 Flashモデルを正式にリリースする予定です。",
-          "広範な内部および外部テストの後、V4.1 Flashは、パフォーマンス、コスト、スピード、タスク完了時間など、すべての主要な指標でV 4 Proを包括的に上回っています。"
+          "この記事は「DeepSeek launching v4.1 flash cheaper and more capable than v4 pro」を扱っています。",
+          "news.ycombinator.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
       },
       {
@@ -76,36 +76,36 @@
         "newsLens": "技術",
         "category": "AIニュース",
         "impact": "高",
-        "titleJa": "同じChromeとWindowsエクスプロイトキットを使用している4つのグループが見つかりました",
-        "summaryJa": "この記事は「同じChromeとWindowsエクスプロイトキットを使用している4つのグループが見つかりました」を扱っています。パッチギャップとAIベースの脆弱性発見の急速なペースが貢献している可能性が高い。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "titleJa": "AIニュース: 4 groups caught using the same Chrome and Windows exploit kit",
+        "summaryJa": "この記事は「4 groups caught using the same Chrome and Windows exploit kit」を扱っています。arstechnica.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
         "keyPoints": [
-          "この記事は「同じChromeとWindowsエクスプロイトキットを使用している4つのグループが見つかりました」を扱っています。",
-          "パッチギャップとAIベースの脆弱性発見の急速なペースが貢献している可能性が高い。",
+          "この記事は「4 groups caught using the same Chrome and Windows exploit kit」を扱っています。",
+          "arstechnica.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
           "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
       },
       {
-        "title": "Claude, change the “Add to Cart” button to blue",
-        "url": "https://opusfived.dev/",
-        "points": 73,
-        "comments": 383,
-        "author": "matthieu_bl",
-        "createdAt": "2026-09-09T09:39:46Z",
-        "domain": "opusfived.dev",
+        "title": "Muse, the band, lost its social media handles to Muse, Meta's new AI agent",
+        "url": "https://www.engadget.com/2254419/muse-the-band-lost-its-social-media-handles-to-muse-meta-s-new-ai-agent/",
+        "points": 101,
+        "comments": 6,
+        "author": "_djo_",
+        "createdAt": "2026-09-09T23:57:29Z",
+        "domain": "engadget.com",
         "sourceType": "hn",
-        "category": "AIモデル",
+        "category": "AIニュース",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "Claudeさん、「カートに入れる」ボタンを青に変更してください",
-        "summaryJa": "この記事は「Claudeさん、「カートに入れる」ボタンを青に変更してください」を扱っています。エージェントAIアシスタントについての短いインタラクティブなコメディは、決して単に物事を行うことはできません。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "titleJa": "AIニュース: Muse, the band, lost its social media handles to Muse, Meta's new AI agent",
+        "summaryJa": "この記事は「Muse, the band, lost its social media handles to Muse, Meta's new AI agent」を扱っています。engadget.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
         "keyPoints": [
-          "この記事は「Claudeさん、「カートに入れる」ボタンを青に変更してください」を扱っています。",
-          "エージェントAIアシスタントについての短いインタラクティブなコメディは、決して単に物事を行うことはできません。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+          "この記事は「Muse, the band, lost its social media handles to Muse, Meta's new AI agent」を扱っています。",
+          "engadget.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
       }
     ],
-    "fetchedAt": "2026-09-09T23:13:36.347Z",
+    "fetchedAt": "2026-09-10T04:39:09.053Z",
     "mock": false
   },
   "xTrends": {
@@ -113,17 +113,17 @@
       {
         "topic": "Anthropic",
         "locationLabel": "米国",
-        "bestRank": 1,
-        "appearances": 20,
+        "bestRank": 3,
+        "appearances": 12,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-09-09T23:13:35.977Z",
+        "observedAt": "2026-09-10T04:39:08.802Z",
         "url": "https://x.com/search?q=Anthropic&src=typed_query&f=live",
         "articleTitle": "Anthropic",
         "articleTitleJa": "公開トレンド: Anthropic",
         "articleUrl": "https://trends24.in/united-states/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-09-09T23:13:35.977Z",
+        "articlePublishedAt": "2026-09-10T04:39:08.802Z",
         "summaryJa": "米国のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -131,34 +131,35 @@
       {
         "topic": "Siri AI",
         "locationLabel": "米国",
-        "bestRank": 13,
+        "bestRank": 6,
         "appearances": 4,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-09-09T23:13:35.977Z",
+        "observedAt": "2026-09-10T04:39:08.802Z",
         "url": "https://x.com/search?q=Siri%20AI&src=typed_query&f=live",
-        "articleTitle": "Due to DMA, Siri AI delayed in EU for iOS 27 and iPadOS 27",
-        "articleTitleJa": "DMAのために、Siri AIはiOS 27とiPadOS 27のEUで遅れました",
-        "articleUrl": "https://www.apple.com/newsroom/2026/06/due-to-dma-siri-ai-delayed-in-eu-for-ios-27-and-ipados-27/",
-        "articleSource": "apple.com",
-        "articlePublishedAt": "2026-09-09T20:10:58Z",
-        "summaryJa": "デジタル市場法により、AppleはiOS 27とiPadOS 27のリリースに伴い、欧州連合でSiri AIを出荷することができなくなります。",
-        "translationVersion": 3
+        "articleTitle": "Siri AI",
+        "articleTitleJa": "公開トレンド: Siri AI",
+        "articleUrl": "https://trends24.in/united-states/",
+        "articleSource": "Trends24",
+        "articlePublishedAt": "2026-09-10T04:39:08.802Z",
+        "summaryJa": "米国のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
+        "translationVersion": 3,
+        "articleFallback": true
       },
       {
         "topic": "OpenAI",
         "locationLabel": "英国",
-        "bestRank": 12,
+        "bestRank": 4,
         "appearances": 7,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-kingdom/",
-        "observedAt": "2026-09-09T23:13:36.332Z",
+        "observedAt": "2026-09-10T04:39:08.909Z",
         "url": "https://x.com/search?q=OpenAI&src=typed_query&f=live",
         "articleTitle": "OpenAI",
         "articleTitleJa": "公開トレンド: OpenAI",
         "articleUrl": "https://trends24.in/united-kingdom/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-09-09T23:13:36.332Z",
+        "articlePublishedAt": "2026-09-10T04:39:08.909Z",
         "summaryJa": "英国のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -170,22 +171,22 @@
         "appearances": 2,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/canada/",
-        "observedAt": "2026-09-09T23:13:36.001Z",
+        "observedAt": "2026-09-10T04:39:09.033Z",
         "url": "https://x.com/search?q=OpenAI%20and%20Anthropic&src=typed_query&f=live",
         "articleTitle": "OpenAI and Anthropic",
         "articleTitleJa": "公開トレンド: OpenAI and Anthropic",
         "articleUrl": "https://trends24.in/canada/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-09-09T23:13:36.001Z",
+        "articlePublishedAt": "2026-09-10T04:39:09.033Z",
         "summaryJa": "カナダのTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
       }
     ],
-    "fetchedAt": "2026-09-09T23:13:36.347Z",
+    "fetchedAt": "2026-09-10T04:39:09.053Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-09-09T23:13:45.557Z"
+    "articleFetchedAt": "2026-09-10T04:39:19.618Z"
   }
 }
