@@ -5,7 +5,7 @@
         "title": "Tell HN: OpenAI keeps re-enabling the 'allow training' setting",
         "url": "https://news.ycombinator.com/item?id=49643556",
         "points": 121,
-        "comments": 172,
+        "comments": 178,
         "author": "jacquesm",
         "createdAt": "2026-09-10T13:39:53Z",
         "domain": "news.ycombinator.com",
@@ -64,10 +64,30 @@
         ]
       },
       {
+        "title": "OpenAI Agents API",
+        "url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
+        "points": 101,
+        "comments": 116,
+        "author": "aquir",
+        "createdAt": "2026-09-10T19:43:22Z",
+        "domain": "developers.openai.com",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "OpenAIエージェントAPI",
+        "summaryJa": "この記事は「OpenAIエージェントAPI」を扱っています。管理されたコーデックスハーネスを使用して、耐久性のあるクラウドエージェントを構築します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "keyPoints": [
+          "この記事は「OpenAIエージェントAPI」を扱っています。",
+          "管理されたコーデックスハーネスを使用して、耐久性のあるクラウドエージェントを構築します。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+        ]
+      },
+      {
         "title": "DeepSeek v4.1 Flash",
         "url": "https://twitter.com/deepseek_ai/status/2097930608790167907",
         "points": 73,
-        "comments": 515,
+        "comments": 532,
         "author": "Liwink",
         "createdAt": "2026-09-10T06:11:05Z",
         "domain": "twitter.com",
@@ -82,51 +102,13 @@
           "twitter.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
           "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
-      },
-      {
-        "title": "More questions about whether researchers can trust OpenAI with unpublished math",
-        "url": "https://mathstodon.xyz/@andreasthom/117240535270608201",
-        "points": 73,
-        "comments": 563,
-        "author": "pred_",
-        "createdAt": "2026-09-10T06:49:43Z",
-        "domain": "mathstodon.xyz",
-        "sourceType": "hn",
-        "category": "研究",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "研究者が未発表の数学でOpenAIを信頼できるかどうかについてのさらなる質問",
-        "summaryJa": "この記事は「研究者が未発表の数学でOpenAIを信頼できるかどうかについてのさらなる質問」を扱っています。mathstodon.xyzが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。研究・実装面では、手法の新しさ、再現性、既存モデルとの差分が見るべき点です。",
-        "keyPoints": [
-          "この記事は「研究者が未発表の数学でOpenAIを信頼できるかどうかについてのさらなる質問」を扱っています。",
-          "mathstodon.xyzが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "研究・実装面では、手法の新しさ、再現性、既存モデルとの差分が見るべき点です。"
-        ]
       }
     ],
-    "fetchedAt": "2026-09-10T23:09:02.171Z",
+    "fetchedAt": "2026-09-11T04:36:49.905Z",
     "mock": false
   },
   "xTrends": {
     "items": [
-      {
-        "topic": "AI歌唱",
-        "locationLabel": "日本",
-        "bestRank": 26,
-        "appearances": 2,
-        "trendSource": "Trends24",
-        "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-09-10T23:09:02.060Z",
-        "url": "https://x.com/search?q=AI%E6%AD%8C%E5%94%B1&src=typed_query&f=live",
-        "articleTitle": "AI歌唱",
-        "articleTitleJa": "公開トレンド: AI歌唱",
-        "articleUrl": "https://trends24.in/japan/",
-        "articleSource": "Trends24",
-        "articlePublishedAt": "2026-09-10T23:09:02.060Z",
-        "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
-        "translationVersion": 3,
-        "articleFallback": true
-      },
       {
         "topic": "DeepSeek V4",
         "locationLabel": "米国",
@@ -134,22 +116,22 @@
         "appearances": 6,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-09-10T23:09:02.002Z",
+        "observedAt": "2026-09-11T04:36:49.812Z",
         "url": "https://x.com/search?q=DeepSeek%20V4&src=typed_query&f=live",
         "articleTitle": "DeepSeek V4",
         "articleTitleJa": "公開トレンド: DeepSeek V4",
         "articleUrl": "https://trends24.in/united-states/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-09-10T23:09:02.002Z",
+        "articlePublishedAt": "2026-09-11T04:36:49.812Z",
         "summaryJa": "米国のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
       }
     ],
-    "fetchedAt": "2026-09-10T23:09:02.171Z",
+    "fetchedAt": "2026-09-11T04:36:49.905Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-09-10T23:09:04.579Z"
+    "articleFetchedAt": "2026-09-11T04:36:52.263Z"
   }
 }
