@@ -2,44 +2,23 @@
   "news": {
     "items": [
       {
-        "title": "Other Barks & Bites for Friday , September 11 : Federal Research Agencies Asked About Biotech Safeguards ; CISA Reports Industrial - Scale AI Distillation by China ; and CJEU Says Right to Expression Isnt Due Cause to Use Mark",
-        "url": "https://ipwatchdog.com/2026/09/11/bites-barks-cisa-reports-industrial-scale-ai-distillation-by-china-and-cjeu-says-right-to-expression-isn/",
+        "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
+        "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
         "points": 107,
         "comments": 0,
         "author": "",
-        "createdAt": "2026-09-11T20:30:00Z",
-        "domain": "ipwatchdog.com",
-        "sourceType": "gdelt",
-        "sourceLabel": "GDELT",
-        "category": "研究",
-        "impact": "高",
-        "newsLens": "一般",
-        "titleJa": "9月11日金曜日のその他の樹皮と噛みつき：連邦研究機関がバイオテクノロジーのセーフガードについて尋ねた。CISAは中国による工業用-スケールAI蒸留を報告し、CJEUは表現の権利はマークを使用するための原因ではないと述べている",
-        "summaryJa": "この記事は「9月11日金曜日のその他の樹皮と噛みつき：連邦研究機関がバイオテクノロジーのセーフガードについて尋ねた。CISAは中国による工業用-スケールAI蒸留を報告し、CJEUは表現の権利はマークを使用するための原因ではないと述べている」を扱っています。今週のOther Barks & Bites ：米国のトップ連邦サイバーセキュリティ機関は、中国政府が国内のAI企業の産業規模の蒸留努力を支援している可能性があると警告しています。一般向けには、AIが社会にどう受け止められ、どの分野で使われ始めているかを知る材料になります。",
-        "keyPoints": [
-          "この記事は「9月11日金曜日のその他の樹皮と噛みつき：連邦研究機関がバイオテクノロジーのセーフガードについて尋ねた。",
-          "CISAは中国による工業用-スケールAI蒸留を報告し、CJEUは表現の権利はマークを使用するための原因ではないと述べている」を扱っています。",
-          "今週のOther Barks & Bites ：米国のトップ連邦サイバーセキュリティ機関は、中国政府が国内のAI企業の産業規模の蒸留努力を支援している可能性があると警告しています。"
-        ]
-      },
-      {
-        "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
-        "url": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
-        "points": 105,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-09-10T20:57:30.000Z",
+        "createdAt": "2026-09-11T20:59:47.000Z",
         "domain": "techcrunch.com",
         "sourceType": "rss",
         "sourceLabel": "TechCrunch AI",
         "newsLens": "一般",
-        "category": "AIニュース",
+        "category": "AIモデル",
         "impact": "高",
-        "titleJa": "Anthropic、Alibaba、Moonshot AI、DeepSeekの蒸留キャンペーンの詳細",
-        "summaryJa": "この記事は「Anthropic、Alibaba、Moonshot AI、DeepSeekの蒸留キャンペーンの詳細」を扱っています。Anthropicが木曜日に発表した新しいレポートによると、中国に拠点を置くAI企業による継続的な蒸留攻撃は、この分野での競争が激化しているため、ここ数カ月でエスカレートしていると主張している。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "titleJa": "Y Combinatorのギャリー・タン氏は、米国のオープンウェイトAIラボがフロンティアモデルを「蒸留」することを望んでいる",
+        "summaryJa": "この記事は「Y Combinatorのギャリー・タン氏は、米国のオープンウェイトAIラボがフロンティアモデルを「蒸留」することを望んでいる」を扱っています。Tan氏は、米国の小規模なオープンウェイトAIラボが米国のフロンティアAIラボで同じ種類のトレーニング技術を使用することを望んでおり、米国に中国以外のより堅牢なオープンウェイトオプションを提供している。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
-          "この記事は「Anthropic、Alibaba、Moonshot AI、DeepSeekの蒸留キャンペーンの詳細」を扱っています。",
-          "Anthropicが木曜日に発表した新しいレポートによると、中国に拠点を置くAI企業による継続的な蒸留攻撃は、この分野での競争が激化しているため、ここ数カ月でエスカレートしていると主張している。",
+          "この記事は「Y Combinatorのギャリー・タン氏は、米国のオープンウェイトAIラボがフロンティアモデルを「蒸留」することを望んでいる」を扱っています。",
+          "Tan氏は、米国の小規模なオープンウェイトAIラボが米国のフロンティアAIラボで同じ種類のトレーニング技術を使用することを望んでおり、米国に中国以外のより堅牢なオープンウェイトオプションを提供している。",
           "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       },
@@ -47,7 +26,7 @@
         "title": "Ask HN: Can we please limit the AI news flood?",
         "url": "https://news.ycombinator.com/item?id=49657850",
         "points": 93,
-        "comments": 347,
+        "comments": 354,
         "author": "cromka",
         "createdAt": "2026-09-11T13:11:04Z",
         "domain": "news.ycombinator.com",
@@ -64,10 +43,51 @@
         ]
       },
       {
+        "title": "Moonshot serves Claude instead of Kimi and collects exchanges for model training",
+        "url": "https://twitter.com/DavidAgranovich/status/2098168522862215449",
+        "points": 84,
+        "comments": 65,
+        "author": "MrBuddyCasino",
+        "createdAt": "2026-09-11T11:36:24Z",
+        "domain": "twitter.com",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "低",
+        "newsLens": "技術",
+        "titleJa": "ムーンショットはキミの代わりにClaudeに仕え、モデルトレーニングのための交換を集めます",
+        "summaryJa": "この記事は「ムーンショットはキミの代わりにClaudeに仕え、モデルトレーニングのための交換を集めます」を扱っています。twitter.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "keyPoints": [
+          "この記事は「ムーンショットはキミの代わりにClaudeに仕え、モデルトレーニングのための交換を集めます」を扱っています。",
+          "twitter.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+        ]
+      },
+      {
+        "title": "OpenAI’s feud with mathematicians is only escalating",
+        "url": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
+        "points": 79,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-09-11T20:57:36.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
+        "category": "AIニュース",
+        "impact": "中",
+        "titleJa": "OpenAIの数学者との確執はエスカレートしているだけです",
+        "summaryJa": "この記事は「OpenAIの数学者との確執はエスカレートしているだけです」を扱っています。25人の主要な数学者が、AIラボが彼らの知的研究を脅かしていると主張する公開書簡に署名した。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "keyPoints": [
+          "この記事は「OpenAIの数学者との確執はエスカレートしているだけです」を扱っています。",
+          "25人の主要な数学者が、AIラボが彼らの知的研究を脅かしていると主張する公開書簡に署名した。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+        ]
+      },
+      {
         "title": "Claude is only available to people over 18 years",
         "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
         "points": 73,
-        "comments": 545,
+        "comments": 579,
         "author": "Muhammad523",
         "createdAt": "2026-09-11T10:48:00Z",
         "domain": "support.claude.com",
@@ -82,37 +102,17 @@
           "support.claude.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
           "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
-      },
-      {
-        "title": "A misalignment of AI in mathematics",
-        "url": "https://mathandai.org/",
-        "points": 73,
-        "comments": 386,
-        "author": "meredydd",
-        "createdAt": "2026-09-11T17:45:12Z",
-        "domain": "mathandai.org",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "数学におけるAIのミスアライメント",
-        "summaryJa": "この記事は「数学におけるAIのミスアライメント」を扱っています。mathandai.orgが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
-        "keyPoints": [
-          "この記事は「数学におけるAIのミスアライメント」を扱っています。",
-          "mathandai.orgが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
-        ]
       }
     ],
-    "fetchedAt": "2026-09-11T20:56:48.027Z",
+    "fetchedAt": "2026-09-11T23:15:20.768Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-09-11T20:56:48.027Z",
+    "fetchedAt": "2026-09-11T23:15:20.768Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-09-11T20:56:48.189Z"
+    "articleFetchedAt": "2026-09-11T23:15:21.014Z"
   }
 }
