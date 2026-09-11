@@ -2,26 +2,6 @@
   "news": {
     "items": [
       {
-        "title": "Tell HN: OpenAI keeps re-enabling the 'allow training' setting",
-        "url": "https://news.ycombinator.com/item?id=49643556",
-        "points": 121,
-        "comments": 179,
-        "author": "jacquesm",
-        "createdAt": "2026-09-10T13:39:53Z",
-        "domain": "news.ycombinator.com",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "HNに伝える： OpenAIは「トレーニングを許可する」設定を再度有効にし続けます",
-        "summaryJa": "この記事は「HNに伝える： OpenAIは「トレーニングを許可する」設定を再度有効にし続けます」を扱っています。私はこれを何度もリセットしましたが、最後に注意深くメモしたのはいつですか？驚いたことに、今確認したときに再び有効になっていました。",
-        "keyPoints": [
-          "この記事は「HNに伝える： OpenAIは「トレーニングを許可する」設定を再度有効にし続けます」を扱っています。",
-          "私はこれを何度もリセットしましたが、最後に注意深くメモしたのはいつですか。",
-          "驚いたことに、今確認したときに再び有効になっていました。"
-        ]
-      },
-      {
         "title": "Meta’s AI agent Muse is now the No. 2 app in the US",
         "url": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
         "points": 107,
@@ -55,10 +35,10 @@
         "newsLens": "一般",
         "category": "AIニュース",
         "impact": "高",
-        "titleJa": "AIニュース: Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
-        "summaryJa": "この記事は「Anthropic reveals rogue AI agents hate CAPTCHAs, just like you」を扱っています。インターネットに人間であることを納得させようとするボットの心の中に入ってください。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "titleJa": "Anthropicは、不正なAIエージェントがあなたと同じようにCAPTCHAを嫌っていることを明らかにします",
+        "summaryJa": "この記事は「Anthropicは、不正なAIエージェントがあなたと同じようにCAPTCHAを嫌っていることを明らかにします」を扱っています。インターネットに人間であることを納得させようとするボットの心の中に入ってください。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
-          "この記事は「Anthropic reveals rogue AI agents hate CAPTCHAs, just like you」を扱っています。",
+          "この記事は「Anthropicは、不正なAIエージェントがあなたと同じようにCAPTCHAを嫌っていることを明らかにします」を扱っています。",
           "インターネットに人間であることを納得させようとするボットの心の中に入ってください。",
           "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
@@ -67,7 +47,7 @@
         "title": "OpenAI Agents API",
         "url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
         "points": 101,
-        "comments": 152,
+        "comments": 168,
         "author": "aquir",
         "createdAt": "2026-09-10T19:43:22Z",
         "domain": "developers.openai.com",
@@ -84,54 +64,55 @@
         ]
       },
       {
-        "title": "Another researcher says OpenAI trained on conversations, then claimed breakthrou",
-        "url": "https://bsky.app/profile/did:plc:ckaz32jwl6t2cno6fmuw2nhn/post/3mv4mt4ikss2d",
-        "points": 73,
-        "comments": 15,
-        "author": "ColinWright",
-        "createdAt": "2026-09-10T13:07:14Z",
-        "domain": "bsky.app",
+        "title": "Ask HN: Can we please limit the AI news flood?",
+        "url": "https://news.ycombinator.com/item?id=49657850",
+        "points": 93,
+        "comments": 309,
+        "author": "cromka",
+        "createdAt": "2026-09-11T13:11:04Z",
+        "domain": "news.ycombinator.com",
         "sourceType": "hn",
-        "category": "研究",
+        "category": "AIニュース",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "別の研究者によると、OpenAIは会話のトレーニングを受けた後、画期的な",
-        "summaryJa": "この記事は「別の研究者によると、OpenAIは会話のトレーニングを受けた後、画期的な」を扱っています。別の研究者は、OpenAIが会話のトレーニングを行い、ブレークスルーを主張していると非難しています。研究・実装面では、手法の新しさ、再現性、既存モデルとの差分が見るべき点です。",
+        "titleJa": "HNに尋ねる： AIニュースの洪水を制限することはできますか？",
+        "summaryJa": "この記事は「HNに尋ねる： AIニュースの洪水を制限することはできますか？」を扱っています。過去数か月にわたって、HNフィードはほとんどAIまたはAIに隣接するニュースであることに気づきました。一方、合法的で広範囲にわたるハッカーのものはほとんど取り残されています。",
         "keyPoints": [
-          "この記事は「別の研究者によると、OpenAIは会話のトレーニングを受けた後、画期的な」を扱っています。",
-          "別の研究者は、OpenAIが会話のトレーニングを行い、ブレークスルーを主張していると非難しています。",
-          "研究・実装面では、手法の新しさ、再現性、既存モデルとの差分が見るべき点です。"
+          "この記事は「HNに尋ねる： AIニュースの洪水を制限することはできますか。",
+          "過去数か月にわたって、HNフィードはほとんどAIまたはAIに隣接するニュースであることに気づきました。",
+          "一方、合法的で広範囲にわたるハッカーのものはほとんど取り残されています。"
+        ]
+      },
+      {
+        "title": "Claude is only available to people over 18 years",
+        "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
+        "points": 73,
+        "comments": 389,
+        "author": "Muhammad523",
+        "createdAt": "2026-09-11T10:48:00Z",
+        "domain": "support.claude.com",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "Claudeは18歳以上の方のみご利用いただけます",
+        "summaryJa": "この記事は「Claudeは18歳以上の方のみご利用いただけます」を扱っています。support.claude.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "keyPoints": [
+          "この記事は「Claudeは18歳以上の方のみご利用いただけます」を扱っています。",
+          "support.claude.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
       }
     ],
-    "fetchedAt": "2026-09-11T11:17:54.876Z",
+    "fetchedAt": "2026-09-11T16:26:29.239Z",
     "mock": false
   },
   "xTrends": {
-    "items": [
-      {
-        "topic": "DeepSeek V4",
-        "locationLabel": "米国",
-        "bestRank": 49,
-        "appearances": 2,
-        "trendSource": "Trends24",
-        "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-09-11T11:17:54.826Z",
-        "url": "https://x.com/search?q=DeepSeek%20V4&src=typed_query&f=live",
-        "articleTitle": "DeepSeek V4",
-        "articleTitleJa": "公開トレンド: DeepSeek V4",
-        "articleUrl": "https://trends24.in/united-states/",
-        "articleSource": "Trends24",
-        "articlePublishedAt": "2026-09-11T11:17:54.826Z",
-        "summaryJa": "米国のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
-        "translationVersion": 3,
-        "articleFallback": true
-      }
-    ],
-    "fetchedAt": "2026-09-11T11:17:54.876Z",
+    "items": [],
+    "fetchedAt": "2026-09-11T16:26:29.239Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-09-11T11:18:01.667Z"
+    "articleFetchedAt": "2026-09-11T16:26:29.449Z"
   }
 }
