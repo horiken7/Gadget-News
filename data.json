@@ -2,72 +2,52 @@
   "news": {
     "items": [
       {
-        "title": "Meta’s AI agent Muse is now the No. 2 app in the US",
-        "url": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
+        "title": "Other Barks & Bites for Friday , September 11 : Federal Research Agencies Asked About Biotech Safeguards ; CISA Reports Industrial - Scale AI Distillation by China ; and CJEU Says Right to Expression Isnt Due Cause to Use Mark",
+        "url": "https://ipwatchdog.com/2026/09/11/bites-barks-cisa-reports-industrial-scale-ai-distillation-by-china-and-cjeu-says-right-to-expression-isn/",
         "points": 107,
         "comments": 0,
         "author": "",
-        "createdAt": "2026-09-10T19:50:04.000Z",
+        "createdAt": "2026-09-11T20:30:00Z",
+        "domain": "ipwatchdog.com",
+        "sourceType": "gdelt",
+        "sourceLabel": "GDELT",
+        "category": "研究",
+        "impact": "高",
+        "newsLens": "一般",
+        "titleJa": "9月11日金曜日のその他の樹皮と噛みつき：連邦研究機関がバイオテクノロジーのセーフガードについて尋ねた。CISAは中国による工業用-スケールAI蒸留を報告し、CJEUは表現の権利はマークを使用するための原因ではないと述べている",
+        "summaryJa": "この記事は「9月11日金曜日のその他の樹皮と噛みつき：連邦研究機関がバイオテクノロジーのセーフガードについて尋ねた。CISAは中国による工業用-スケールAI蒸留を報告し、CJEUは表現の権利はマークを使用するための原因ではないと述べている」を扱っています。今週のOther Barks & Bites ：米国のトップ連邦サイバーセキュリティ機関は、中国政府が国内のAI企業の産業規模の蒸留努力を支援している可能性があると警告しています。一般向けには、AIが社会にどう受け止められ、どの分野で使われ始めているかを知る材料になります。",
+        "keyPoints": [
+          "この記事は「9月11日金曜日のその他の樹皮と噛みつき：連邦研究機関がバイオテクノロジーのセーフガードについて尋ねた。",
+          "CISAは中国による工業用-スケールAI蒸留を報告し、CJEUは表現の権利はマークを使用するための原因ではないと述べている」を扱っています。",
+          "今週のOther Barks & Bites ：米国のトップ連邦サイバーセキュリティ機関は、中国政府が国内のAI企業の産業規模の蒸留努力を支援している可能性があると警告しています。"
+        ]
+      },
+      {
+        "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
+        "url": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
+        "points": 105,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-09-10T20:57:30.000Z",
         "domain": "techcrunch.com",
         "sourceType": "rss",
         "sourceLabel": "TechCrunch AI",
         "newsLens": "一般",
         "category": "AIニュース",
         "impact": "高",
-        "titleJa": "MetaのAIエージェントMuseは現在、米国で2番目のアプリです",
-        "summaryJa": "この記事は「MetaのAIエージェントMuseは現在、米国で2番目のアプリです」を扱っています。Metaの最新アプリMuseは、Meta AIやThreadsなどの同社の他のアプリよりもスタートが遅い。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "titleJa": "Anthropic、Alibaba、Moonshot AI、DeepSeekの蒸留キャンペーンの詳細",
+        "summaryJa": "この記事は「Anthropic、Alibaba、Moonshot AI、DeepSeekの蒸留キャンペーンの詳細」を扱っています。Anthropicが木曜日に発表した新しいレポートによると、中国に拠点を置くAI企業による継続的な蒸留攻撃は、この分野での競争が激化しているため、ここ数カ月でエスカレートしていると主張している。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
-          "この記事は「MetaのAIエージェントMuseは現在、米国で2番目のアプリです」を扱っています。",
-          "Metaの最新アプリMuseは、Meta AIやThreadsなどの同社の他のアプリよりもスタートが遅い。",
+          "この記事は「Anthropic、Alibaba、Moonshot AI、DeepSeekの蒸留キャンペーンの詳細」を扱っています。",
+          "Anthropicが木曜日に発表した新しいレポートによると、中国に拠点を置くAI企業による継続的な蒸留攻撃は、この分野での競争が激化しているため、ここ数カ月でエスカレートしていると主張している。",
           "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
-        ]
-      },
-      {
-        "title": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
-        "url": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/",
-        "points": 107,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-09-10T17:54:44.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
-        "category": "AIニュース",
-        "impact": "高",
-        "titleJa": "Anthropicは、不正なAIエージェントがあなたと同じようにCAPTCHAを嫌っていることを明らかにします",
-        "summaryJa": "この記事は「Anthropicは、不正なAIエージェントがあなたと同じようにCAPTCHAを嫌っていることを明らかにします」を扱っています。インターネットに人間であることを納得させようとするボットの心の中に入ってください。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
-        "keyPoints": [
-          "この記事は「Anthropicは、不正なAIエージェントがあなたと同じようにCAPTCHAを嫌っていることを明らかにします」を扱っています。",
-          "インターネットに人間であることを納得させようとするボットの心の中に入ってください。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
-        ]
-      },
-      {
-        "title": "OpenAI Agents API",
-        "url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
-        "points": 101,
-        "comments": 168,
-        "author": "aquir",
-        "createdAt": "2026-09-10T19:43:22Z",
-        "domain": "developers.openai.com",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "OpenAIエージェントAPI",
-        "summaryJa": "この記事は「OpenAIエージェントAPI」を扱っています。管理されたコーデックスハーネスを使用して、耐久性のあるクラウドエージェントを構築します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
-        "keyPoints": [
-          "この記事は「OpenAIエージェントAPI」を扱っています。",
-          "管理されたコーデックスハーネスを使用して、耐久性のあるクラウドエージェントを構築します。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
       },
       {
         "title": "Ask HN: Can we please limit the AI news flood?",
         "url": "https://news.ycombinator.com/item?id=49657850",
         "points": 93,
-        "comments": 309,
+        "comments": 347,
         "author": "cromka",
         "createdAt": "2026-09-11T13:11:04Z",
         "domain": "news.ycombinator.com",
@@ -87,7 +67,7 @@
         "title": "Claude is only available to people over 18 years",
         "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
         "points": 73,
-        "comments": 389,
+        "comments": 545,
         "author": "Muhammad523",
         "createdAt": "2026-09-11T10:48:00Z",
         "domain": "support.claude.com",
@@ -102,17 +82,37 @@
           "support.claude.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
           "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
+      },
+      {
+        "title": "A misalignment of AI in mathematics",
+        "url": "https://mathandai.org/",
+        "points": 73,
+        "comments": 386,
+        "author": "meredydd",
+        "createdAt": "2026-09-11T17:45:12Z",
+        "domain": "mathandai.org",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "数学におけるAIのミスアライメント",
+        "summaryJa": "この記事は「数学におけるAIのミスアライメント」を扱っています。mathandai.orgが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "keyPoints": [
+          "この記事は「数学におけるAIのミスアライメント」を扱っています。",
+          "mathandai.orgが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+        ]
       }
     ],
-    "fetchedAt": "2026-09-11T16:26:29.239Z",
+    "fetchedAt": "2026-09-11T20:56:48.027Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-09-11T16:26:29.239Z",
+    "fetchedAt": "2026-09-11T20:56:48.027Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-09-11T16:26:29.449Z"
+    "articleFetchedAt": "2026-09-11T20:56:48.189Z"
   }
 }
