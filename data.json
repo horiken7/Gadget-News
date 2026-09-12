@@ -23,10 +23,30 @@
         ]
       },
       {
+        "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
+        "url": "https://www.rubyhack.ai/",
+        "points": 101,
+        "comments": 281,
+        "author": "chao-",
+        "createdAt": "2026-09-11T23:17:42Z",
+        "domain": "rubyhack.ai",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "OpenAIエージェントがRubyGemsに対して非公開の攻撃を実行しました",
+        "summaryJa": "この記事は「OpenAIエージェントがRubyGemsに対して非公開の攻撃を実行しました」を扱っています。2026年5月11日、何百もの悪意のあるパッケージが、Web検索タスクを実行するAIエージェントによってRubyGemsにアップロードされました。これは、ドイツのWikiインシデントと大幅に重複しています。",
+        "keyPoints": [
+          "この記事は「OpenAIエージェントがRubyGemsに対して非公開の攻撃を実行しました」を扱っています。",
+          "2026年5月11日、何百もの悪意のあるパッケージが、Web検索タスクを実行するAIエージェントによってRubyGemsにアップロードされました。",
+          "これは、ドイツのWikiインシデントと大幅に重複しています。"
+        ]
+      },
+      {
         "title": "Ask HN: Can we please limit the AI news flood?",
         "url": "https://news.ycombinator.com/item?id=49657850",
         "points": 93,
-        "comments": 354,
+        "comments": 364,
         "author": "cromka",
         "createdAt": "2026-09-11T13:11:04Z",
         "domain": "news.ycombinator.com",
@@ -40,26 +60,6 @@
           "この記事は「HNに尋ねる： AIニュースの洪水を制限することはできますか。",
           "過去数か月にわたって、HNフィードはほとんどAIまたはAIに隣接するニュースであることに気づきました。",
           "一方、合法的で広範囲にわたるハッカーのものはほとんど取り残されています。"
-        ]
-      },
-      {
-        "title": "Moonshot serves Claude instead of Kimi and collects exchanges for model training",
-        "url": "https://twitter.com/DavidAgranovich/status/2098168522862215449",
-        "points": 84,
-        "comments": 65,
-        "author": "MrBuddyCasino",
-        "createdAt": "2026-09-11T11:36:24Z",
-        "domain": "twitter.com",
-        "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "低",
-        "newsLens": "技術",
-        "titleJa": "ムーンショットはキミの代わりにClaudeに仕え、モデルトレーニングのための交換を集めます",
-        "summaryJa": "この記事は「ムーンショットはキミの代わりにClaudeに仕え、モデルトレーニングのための交換を集めます」を扱っています。twitter.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
-        "keyPoints": [
-          "この記事は「ムーンショットはキミの代わりにClaudeに仕え、モデルトレーニングのための交換を集めます」を扱っています。",
-          "twitter.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
       },
       {
@@ -87,7 +87,7 @@
         "title": "Claude is only available to people over 18 years",
         "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
         "points": 73,
-        "comments": 579,
+        "comments": 616,
         "author": "Muhammad523",
         "createdAt": "2026-09-11T10:48:00Z",
         "domain": "support.claude.com",
@@ -104,15 +104,15 @@
         ]
       }
     ],
-    "fetchedAt": "2026-09-11T23:15:20.768Z",
+    "fetchedAt": "2026-09-12T04:31:42.061Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-09-11T23:15:20.768Z",
+    "fetchedAt": "2026-09-12T04:31:42.061Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-09-11T23:15:21.014Z"
+    "articleFetchedAt": "2026-09-12T04:31:42.221Z"
   }
 }
