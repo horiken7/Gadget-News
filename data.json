@@ -2,6 +2,26 @@
   "news": {
     "items": [
       {
+        "title": "Anthropic CEO Says It's Time to Slow AI Model Advances",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-12/anthropic-ceo-says-it-s-time-to-slow-pace-of-improving-ai-models",
+        "points": 125,
+        "comments": 56,
+        "author": "sbulaev",
+        "createdAt": "2026-09-12T18:07:07Z",
+        "domain": "bloomberg.com",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "低",
+        "newsLens": "技術",
+        "titleJa": "AnthropicのCEO、AIモデルの進歩を遅らせる時が来たと語る",
+        "summaryJa": "この記事は「AnthropicのCEO、AIモデルの進歩を遅らせる時が来たと語る」を扱っています。bloomberg.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "keyPoints": [
+          "この記事は「AnthropicのCEO、AIモデルの進歩を遅らせる時が来たと語る」を扱っています。",
+          "bloomberg.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+        ]
+      },
+      {
         "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
         "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
         "points": 107,
@@ -23,31 +43,31 @@
         ]
       },
       {
-        "title": "Anthropic CEO urges AI companies to slow model development",
-        "url": "https://www.thestar.com.my/tech/tech-news/2026/09/12/anthropic-ceo-urges-ai-companies-to-slow-model-development",
-        "points": 107,
+        "title": "Anthropic CEO outlines plan to slow AI development",
+        "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+        "points": 105,
         "comments": 0,
         "author": "",
-        "createdAt": "2026-09-12T15:00:00Z",
-        "domain": "thestar.com.my",
-        "sourceType": "gdelt",
-        "sourceLabel": "GDELT",
-        "category": "AIモデル",
-        "impact": "高",
+        "createdAt": "2026-09-12T19:34:44.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
         "newsLens": "一般",
-        "titleJa": "Anthropic CEO、AI企業にモデル開発を遅らせるよう促す",
-        "summaryJa": "この記事は「Anthropic CEO、AI企業にモデル開発を遅らせるよう促す」を扱っています。9月12日（ロイター）- Anthropicの最高経営責任者（ CEO ）であるDario Amodei氏は、人工知能の悪用への懸念が高まっている中で、AI企業がモデル機能を進歩させる速度を緩和するよう呼びかけ、開発をペースアップし、リスクを管理するための時間を増やすことを目的とした3段階のフレームワークを概説した。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "category": "AIニュース",
+        "impact": "高",
+        "titleJa": "AnthropicのCEOは、AI開発を遅らせる計画を概説しています",
+        "summaryJa": "この記事は「AnthropicのCEOは、AI開発を遅らせる計画を概説しています」を扱っています。AnthropicのDario AmodeiとOpenAIのSam Altmanは、「フロンティアをペースで進める」時が来たことに同意しているようだ。「それは実際にどのように見えるでしょうか？",
         "keyPoints": [
-          "この記事は「Anthropic CEO、AI企業にモデル開発を遅らせるよう促す」を扱っています。",
-          "9月12日（ロイター）- Anthropicの最高経営責任者（ CEO ）であるDario Amodei氏は、人工知能の悪用への懸念が高まっている中で、AI企業がモデル機能を進歩させる速度を緩和するよう呼びかけ、開発をペースアップし、リスクを管理するための時間を増やすことを目的とした3段階のフレームワークを概説した。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+          "この記事は「AnthropicのCEOは、AI開発を遅らせる計画を概説しています」を扱っています。",
+          "AnthropicのDario AmodeiとOpenAIのSam Altmanは、「フロンティアをペースで進める」時が来たことに同意しているようだ。",
+          "「それは実際にどのように見えるでしょうか。"
         ]
       },
       {
         "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
         "url": "https://www.rubyhack.ai/",
         "points": 101,
-        "comments": 493,
+        "comments": 548,
         "author": "chao-",
         "createdAt": "2026-09-11T23:17:42Z",
         "domain": "rubyhack.ai",
@@ -64,30 +84,10 @@
         ]
       },
       {
-        "title": "The Worst Spam Emails: Inside iLands' AI Agent Hustle",
-        "url": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/",
-        "points": 85,
-        "comments": 30,
-        "author": "ColinWright",
-        "createdAt": "2026-09-12T11:13:38Z",
-        "domain": "tedium.co",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "中",
-        "newsLens": "技術",
-        "titleJa": "最悪のスパムメール： iLandsのAIエージェントハッスルの内部",
-        "summaryJa": "この記事は「最悪のスパムメール： iLandsのAIエージェントハッスルの内部」を扱っています。新しいAIエージェント中心のスタートアップであるiLandsは、私のようなクリエイティブを1日に何度もスパムしています。彼らはもっとトークンを購入する必要があります。",
-        "keyPoints": [
-          "この記事は「最悪のスパムメール： iLandsのAIエージェントハッスルの内部」を扱っています。",
-          "新しいAIエージェント中心のスタートアップであるiLandsは、私のようなクリエイティブを1日に何度もスパムしています。",
-          "彼らはもっとトークンを購入する必要があります。"
-        ]
-      },
-      {
         "title": "Houthis used Anthropic to develop guided weapons",
         "url": "https://www.washingtonpost.com/technology/2026/09/11/rebels-used-anthropics-ai-bot-develop-guided-weapons-report-says/",
-        "points": 75,
-        "comments": 21,
+        "points": 76,
+        "comments": 24,
         "author": "Alien1Being",
         "createdAt": "2026-09-11T22:44:03Z",
         "domain": "washingtonpost.com",
@@ -104,15 +104,15 @@
         ]
       }
     ],
-    "fetchedAt": "2026-09-12T15:30:29.648Z",
+    "fetchedAt": "2026-09-12T20:32:30.253Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-09-12T15:30:29.648Z",
+    "fetchedAt": "2026-09-12T20:32:30.253Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-09-12T15:30:29.989Z"
+    "articleFetchedAt": "2026-09-12T20:32:30.390Z"
   }
 }
