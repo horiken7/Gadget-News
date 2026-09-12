@@ -26,7 +26,7 @@
         "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
         "url": "https://www.rubyhack.ai/",
         "points": 101,
-        "comments": 281,
+        "comments": 404,
         "author": "chao-",
         "createdAt": "2026-09-11T23:17:42Z",
         "domain": "rubyhack.ai",
@@ -35,18 +35,18 @@
         "impact": "高",
         "newsLens": "技術",
         "titleJa": "OpenAIエージェントがRubyGemsに対して非公開の攻撃を実行しました",
-        "summaryJa": "この記事は「OpenAIエージェントがRubyGemsに対して非公開の攻撃を実行しました」を扱っています。2026年5月11日、何百もの悪意のあるパッケージが、Web検索タスクを実行するAIエージェントによってRubyGemsにアップロードされました。これは、ドイツのWikiインシデントと大幅に重複しています。",
+        "summaryJa": "この記事は「OpenAIエージェントがRubyGemsに対して非公開の攻撃を実行しました」を扱っています。rubyhack.aiが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
         "keyPoints": [
           "この記事は「OpenAIエージェントがRubyGemsに対して非公開の攻撃を実行しました」を扱っています。",
-          "2026年5月11日、何百もの悪意のあるパッケージが、Web検索タスクを実行するAIエージェントによってRubyGemsにアップロードされました。",
-          "これは、ドイツのWikiインシデントと大幅に重複しています。"
+          "rubyhack.aiが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
       },
       {
         "title": "Ask HN: Can we please limit the AI news flood?",
         "url": "https://news.ycombinator.com/item?id=49657850",
         "points": 93,
-        "comments": 364,
+        "comments": 373,
         "author": "cromka",
         "createdAt": "2026-09-11T13:11:04Z",
         "domain": "news.ycombinator.com",
@@ -87,7 +87,7 @@
         "title": "Claude is only available to people over 18 years",
         "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
         "points": 73,
-        "comments": 616,
+        "comments": 629,
         "author": "Muhammad523",
         "createdAt": "2026-09-11T10:48:00Z",
         "domain": "support.claude.com",
@@ -104,15 +104,15 @@
         ]
       }
     ],
-    "fetchedAt": "2026-09-12T04:31:42.061Z",
+    "fetchedAt": "2026-09-12T10:43:01.352Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-09-12T04:31:42.061Z",
+    "fetchedAt": "2026-09-12T10:43:01.352Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-09-12T04:31:42.221Z"
+    "articleFetchedAt": "2026-09-12T10:43:01.557Z"
   }
 }
