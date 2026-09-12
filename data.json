@@ -23,10 +23,31 @@
         ]
       },
       {
+        "title": "Anthropic CEO urges AI companies to slow model development",
+        "url": "https://www.thestar.com.my/tech/tech-news/2026/09/12/anthropic-ceo-urges-ai-companies-to-slow-model-development",
+        "points": 107,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-09-12T15:00:00Z",
+        "domain": "thestar.com.my",
+        "sourceType": "gdelt",
+        "sourceLabel": "GDELT",
+        "category": "AIモデル",
+        "impact": "高",
+        "newsLens": "一般",
+        "titleJa": "Anthropic CEO、AI企業にモデル開発を遅らせるよう促す",
+        "summaryJa": "この記事は「Anthropic CEO、AI企業にモデル開発を遅らせるよう促す」を扱っています。9月12日（ロイター）- Anthropicの最高経営責任者（ CEO ）であるDario Amodei氏は、人工知能の悪用への懸念が高まっている中で、AI企業がモデル機能を進歩させる速度を緩和するよう呼びかけ、開発をペースアップし、リスクを管理するための時間を増やすことを目的とした3段階のフレームワークを概説した。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "keyPoints": [
+          "この記事は「Anthropic CEO、AI企業にモデル開発を遅らせるよう促す」を扱っています。",
+          "9月12日（ロイター）- Anthropicの最高経営責任者（ CEO ）であるDario Amodei氏は、人工知能の悪用への懸念が高まっている中で、AI企業がモデル機能を進歩させる速度を緩和するよう呼びかけ、開発をペースアップし、リスクを管理するための時間を増やすことを目的とした3段階のフレームワークを概説した。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+        ]
+      },
+      {
         "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
         "url": "https://www.rubyhack.ai/",
         "points": 101,
-        "comments": 404,
+        "comments": 493,
         "author": "chao-",
         "createdAt": "2026-09-11T23:17:42Z",
         "domain": "rubyhack.ai",
@@ -43,76 +64,55 @@
         ]
       },
       {
-        "title": "Ask HN: Can we please limit the AI news flood?",
-        "url": "https://news.ycombinator.com/item?id=49657850",
-        "points": 93,
-        "comments": 373,
-        "author": "cromka",
-        "createdAt": "2026-09-11T13:11:04Z",
-        "domain": "news.ycombinator.com",
+        "title": "The Worst Spam Emails: Inside iLands' AI Agent Hustle",
+        "url": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/",
+        "points": 85,
+        "comments": 30,
+        "author": "ColinWright",
+        "createdAt": "2026-09-12T11:13:38Z",
+        "domain": "tedium.co",
         "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "HNに尋ねる： AIニュースの洪水を制限することはできますか？",
-        "summaryJa": "この記事は「HNに尋ねる： AIニュースの洪水を制限することはできますか？」を扱っています。過去数か月にわたって、HNフィードはほとんどAIまたはAIに隣接するニュースであることに気づきました。一方、合法的で広範囲にわたるハッカーのものはほとんど取り残されています。",
-        "keyPoints": [
-          "この記事は「HNに尋ねる： AIニュースの洪水を制限することはできますか。",
-          "過去数か月にわたって、HNフィードはほとんどAIまたはAIに隣接するニュースであることに気づきました。",
-          "一方、合法的で広範囲にわたるハッカーのものはほとんど取り残されています。"
-        ]
-      },
-      {
-        "title": "OpenAI’s feud with mathematicians is only escalating",
-        "url": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
-        "points": 79,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-09-11T20:57:36.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
         "category": "AIニュース",
         "impact": "中",
-        "titleJa": "OpenAIの数学者との確執はエスカレートしているだけです",
-        "summaryJa": "この記事は「OpenAIの数学者との確執はエスカレートしているだけです」を扱っています。25人の主要な数学者が、AIラボが彼らの知的研究を脅かしていると主張する公開書簡に署名した。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "newsLens": "技術",
+        "titleJa": "最悪のスパムメール： iLandsのAIエージェントハッスルの内部",
+        "summaryJa": "この記事は「最悪のスパムメール： iLandsのAIエージェントハッスルの内部」を扱っています。新しいAIエージェント中心のスタートアップであるiLandsは、私のようなクリエイティブを1日に何度もスパムしています。彼らはもっとトークンを購入する必要があります。",
         "keyPoints": [
-          "この記事は「OpenAIの数学者との確執はエスカレートしているだけです」を扱っています。",
-          "25人の主要な数学者が、AIラボが彼らの知的研究を脅かしていると主張する公開書簡に署名した。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+          "この記事は「最悪のスパムメール： iLandsのAIエージェントハッスルの内部」を扱っています。",
+          "新しいAIエージェント中心のスタートアップであるiLandsは、私のようなクリエイティブを1日に何度もスパムしています。",
+          "彼らはもっとトークンを購入する必要があります。"
         ]
       },
       {
-        "title": "Claude is only available to people over 18 years",
-        "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
-        "points": 73,
-        "comments": 629,
-        "author": "Muhammad523",
-        "createdAt": "2026-09-11T10:48:00Z",
-        "domain": "support.claude.com",
+        "title": "Houthis used Anthropic to develop guided weapons",
+        "url": "https://www.washingtonpost.com/technology/2026/09/11/rebels-used-anthropics-ai-bot-develop-guided-weapons-report-says/",
+        "points": 75,
+        "comments": 21,
+        "author": "Alien1Being",
+        "createdAt": "2026-09-11T22:44:03Z",
+        "domain": "washingtonpost.com",
         "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "高",
+        "category": "AIニュース",
+        "impact": "低",
         "newsLens": "技術",
-        "titleJa": "Claudeは18歳以上の方のみご利用いただけます",
-        "summaryJa": "この記事は「Claudeは18歳以上の方のみご利用いただけます」を扱っています。support.claude.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "titleJa": "フーシ派はアントロピックを使用して誘導武器を開発した",
+        "summaryJa": "この記事は「フーシ派はアントロピックを使用して誘導武器を開発した」を扱っています。washingtonpost.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
         "keyPoints": [
-          "この記事は「Claudeは18歳以上の方のみご利用いただけます」を扱っています。",
-          "support.claude.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+          "この記事は「フーシ派はアントロピックを使用して誘導武器を開発した」を扱っています。",
+          "washingtonpost.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
       }
     ],
-    "fetchedAt": "2026-09-12T10:43:01.352Z",
+    "fetchedAt": "2026-09-12T15:30:29.648Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-09-12T10:43:01.352Z",
+    "fetchedAt": "2026-09-12T15:30:29.648Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-09-12T10:43:01.557Z"
+    "articleFetchedAt": "2026-09-12T15:30:29.989Z"
   }
 }
