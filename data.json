@@ -2,6 +2,26 @@
   "news": {
     "items": [
       {
+        "title": "Anthropic CEO Says It's Time to Slow AI Model Advances",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-12/anthropic-ceo-says-it-s-time-to-slow-pace-of-improving-ai-models",
+        "points": 127,
+        "comments": 79,
+        "author": "sbulaev",
+        "createdAt": "2026-09-12T18:07:07Z",
+        "domain": "bloomberg.com",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "低",
+        "newsLens": "技術",
+        "titleJa": "AnthropicのCEO、AIモデルの進歩を遅らせる時が来たと語る",
+        "summaryJa": "この記事は「AnthropicのCEO、AIモデルの進歩を遅らせる時が来たと語る」を扱っています。bloomberg.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "keyPoints": [
+          "この記事は「AnthropicのCEO、AIモデルの進歩を遅らせる時が来たと語る」を扱っています。",
+          "bloomberg.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+        ]
+      },
+      {
         "title": "Anthropic CEO outlines plan to slow AI development",
         "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
         "points": 105,
@@ -25,8 +45,8 @@
       {
         "title": "Ask HN: What default model do you use and why?",
         "url": "https://news.ycombinator.com/item?id=49672966",
-        "points": 102,
-        "comments": 92,
+        "points": 103,
+        "comments": 97,
         "author": "stikit",
         "createdAt": "2026-09-12T14:58:44Z",
         "domain": "news.ycombinator.com",
@@ -45,14 +65,14 @@
       {
         "title": "OpenAI's Sam Altman says it would be 'ill-advised' to go public in 2026",
         "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
-        "points": 80,
-        "comments": 61,
+        "points": 84,
+        "comments": 63,
         "author": "humanlion87",
         "createdAt": "2026-09-12T20:28:29Z",
         "domain": "techcrunch.com",
         "sourceType": "hn",
         "category": "AIニュース",
-        "impact": "中",
+        "impact": "高",
         "newsLens": "技術",
         "titleJa": "OpenAIのサム・アルトマン氏は、2026年に上場するのは「不適切」だと述べている",
         "summaryJa": "この記事は「OpenAIのサム・アルトマン氏は、2026年に上場するのは「不適切」だと述べている」を扱っています。最高経営責任者（ CEO ）のサム・アルトマン（ Sam Altman ）氏によると、OpenAIは内密にIPOを申請しているが、今年は上場しないという。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
@@ -65,8 +85,8 @@
       {
         "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
         "url": "https://www.bbc.com/news/articles/c14dpgm0rg4o",
-        "points": 74,
-        "comments": 106,
+        "points": 75,
+        "comments": 107,
         "author": "champagnepapi",
         "createdAt": "2026-09-12T16:56:52Z",
         "domain": "bbc.com",
@@ -81,37 +101,17 @@
           "この呼びかけは、AIモデルが世界中で深刻な損害を与える可能性があるという懸念が高まっている中で行われました。",
           "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
-      },
-      {
-        "title": "Everyone should slow down AI development except for me",
-        "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/",
-        "points": 73,
-        "comments": 152,
-        "author": "xena",
-        "createdAt": "2026-09-13T00:30:44Z",
-        "domain": "xeiaso.net",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "私を除いて、誰もがAI開発を遅くする必要があります",
-        "summaryJa": "この記事は「私を除いて、誰もがAI開発を遅くする必要があります」を扱っています。xeiaso.netが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
-        "keyPoints": [
-          "この記事は「私を除いて、誰もがAI開発を遅くする必要があります」を扱っています。",
-          "xeiaso.netが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
-        ]
       }
     ],
-    "fetchedAt": "2026-09-13T04:44:01.033Z",
+    "fetchedAt": "2026-09-13T11:48:16.092Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-09-13T04:44:01.033Z",
+    "fetchedAt": "2026-09-13T11:48:16.092Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-09-13T04:44:01.211Z"
+    "articleFetchedAt": "2026-09-13T11:48:16.225Z"
   }
 }
