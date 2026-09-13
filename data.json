@@ -2,51 +2,31 @@
   "news": {
     "items": [
       {
-        "title": "Anthropic CEO Says It's Time to Slow AI Model Advances",
-        "url": "https://www.bloomberg.com/news/articles/2026-09-12/anthropic-ceo-says-it-s-time-to-slow-pace-of-improving-ai-models",
-        "points": 127,
-        "comments": 81,
-        "author": "sbulaev",
-        "createdAt": "2026-09-12T18:07:07Z",
-        "domain": "bloomberg.com",
-        "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "低",
-        "newsLens": "技術",
-        "titleJa": "AnthropicのCEO、AIモデルの進歩を遅らせる時が来たと語る",
-        "summaryJa": "この記事は「AnthropicのCEO、AIモデルの進歩を遅らせる時が来たと語る」を扱っています。bloomberg.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
-        "keyPoints": [
-          "この記事は「AnthropicのCEO、AIモデルの進歩を遅らせる時が来たと語る」を扱っています。",
-          "bloomberg.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
-        ]
-      },
-      {
-        "title": "Anthropic CEO outlines plan to slow AI development",
-        "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+        "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
+        "url": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
         "points": 105,
         "comments": 0,
         "author": "",
-        "createdAt": "2026-09-12T19:34:44.000Z",
+        "createdAt": "2026-09-13T16:30:00.000Z",
         "domain": "techcrunch.com",
         "sourceType": "rss",
         "sourceLabel": "TechCrunch AI",
         "newsLens": "一般",
         "category": "AIニュース",
         "impact": "高",
-        "titleJa": "AnthropicのCEOは、AI開発を遅らせる計画を概説しています",
-        "summaryJa": "この記事は「AnthropicのCEOは、AI開発を遅らせる計画を概説しています」を扱っています。AnthropicのDario AmodeiとOpenAIのSam Altmanは、「フロンティアをペースで進める」時が来たことに同意しているようだ。「それは実際にどのように見えるでしょうか？",
+        "titleJa": "オバマ大統領、民主党にAIセーフガードの「明確な計画」を策定するよう要請",
+        "summaryJa": "この記事は「オバマ大統領、民主党にAIセーフガードの「明確な計画」を策定するよう要請」を扱っています。オバマ大統領は最近、民主党は人工知能を「中心的な議題」の1つにし、技術の経済的影響と安全性に関する懸念に対処するための「非常に明確な計画」を持つ必要があると述べた。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
-          "この記事は「AnthropicのCEOは、AI開発を遅らせる計画を概説しています」を扱っています。",
-          "AnthropicのDario AmodeiとOpenAIのSam Altmanは、「フロンティアをペースで進める」時が来たことに同意しているようだ。",
-          "「それは実際にどのように見えるでしょうか。"
+          "この記事は「オバマ大統領、民主党にAIセーフガードの「明確な計画」を策定するよう要請」を扱っています。",
+          "オバマ大統領は最近、民主党は人工知能を「中心的な議題」の1つにし、技術の経済的影響と安全性に関する懸念に対処するための「非常に明確な計画」を持つ必要があると述べた。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       },
       {
         "title": "Anthropic CEO says AI swarm could 'take over the Internet' in 6-12 months",
         "url": "https://venturebeat.com/security/anthropic-ceo-says-ai-swarm-could-take-over-the-entire-internet-in-6-12-months-commits-to-ai-slowdown-plan",
         "points": 98,
-        "comments": 29,
+        "comments": 30,
         "author": "pseudolus",
         "createdAt": "2026-09-13T03:25:32Z",
         "domain": "venturebeat.com",
@@ -63,47 +43,67 @@
         ]
       },
       {
-        "title": "OpenAI's Sam Altman says it would be 'ill-advised' to go public in 2026",
-        "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
-        "points": 85,
-        "comments": 64,
-        "author": "humanlion87",
-        "createdAt": "2026-09-12T20:28:29Z",
+        "title": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
+        "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+        "points": 93,
+        "comments": 124,
+        "author": "TheJCDenton",
+        "createdAt": "2026-09-13T15:44:38Z",
         "domain": "techcrunch.com",
         "sourceType": "hn",
-        "category": "AIニュース",
+        "category": "AIモデル",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "OpenAIのサム・アルトマン氏は、2026年に上場するのは「不適切」だと述べている",
-        "summaryJa": "この記事は「OpenAIのサム・アルトマン氏は、2026年に上場するのは「不適切」だと述べている」を扱っています。最高経営責任者（ CEO ）のサム・アルトマン（ Sam Altman ）氏によると、OpenAIは内密にIPOを申請しているが、今年は上場しないという。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "titleJa": "Garry Tanは、フロンティアモデルを「蒸留」するための米国のオープンウェイトAIラボを望んでいます",
+        "summaryJa": "この記事は「Garry Tanは、フロンティアモデルを「蒸留」するための米国のオープンウェイトAIラボを望んでいます」を扱っています。Tan氏は、米国の小規模なオープンウェイトAIラボが米国のフロンティアAIラボで同じ種類のトレーニング技術を使用することを望んでおり、米国に中国以外のより堅牢なオープンウェイトオプションを提供している。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
         "keyPoints": [
-          "この記事は「OpenAIのサム・アルトマン氏は、2026年に上場するのは「不適切」だと述べている」を扱っています。",
-          "最高経営責任者（ CEO ）のサム・アルトマン（ Sam Altman ）氏によると、OpenAIは内密にIPOを申請しているが、今年は上場しないという。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+          "この記事は「Garry Tanは、フロンティアモデルを「蒸留」するための米国のオープンウェイトAIラボを望んでいます」を扱っています。",
+          "Tan氏は、米国の小規模なオープンウェイトAIラボが米国のフロンティアAIラボで同じ種類のトレーニング技術を使用することを望んでおり、米国に中国以外のより堅牢なオープンウェイトオプションを提供している。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
       },
       {
-        "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
-        "url": "https://www.bbc.com/news/articles/c14dpgm0rg4o",
-        "points": 75,
-        "comments": 107,
-        "author": "champagnepapi",
-        "createdAt": "2026-09-12T16:56:52Z",
-        "domain": "bbc.com",
+        "title": "David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models",
+        "url": "https://twitter.com/DavidSacks/status/2098973625252708460",
+        "points": 73,
+        "comments": 130,
+        "author": "kolanos",
+        "createdAt": "2026-09-13T16:52:33Z",
+        "domain": "twitter.com",
         "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "低",
+        "category": "AIモデル",
+        "impact": "高",
         "newsLens": "技術",
-        "titleJa": "AnthropicのボスであるDario Amodei氏は、AIの開発を減速させるよう呼びかけています",
-        "summaryJa": "この記事は「AnthropicのボスであるDario Amodei氏は、AIの開発を減速させるよう呼びかけています」を扱っています。この呼びかけは、AIモデルが世界中で深刻な損害を与える可能性があるという懸念が高まっている中で行われました。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "titleJa": "デビッド・サックス： OpenAIとAnthropicはフロンティアモデルのペースを調整するための規制を必要としない",
+        "summaryJa": "この記事は「デビッド・サックス： OpenAIとAnthropicはフロンティアモデルのペースを調整するための規制を必要としない」を扱っています。ダリオは「フロンティアのペースを上げる」必要があると書いていますが、サムはそれに同意しました。人々は私の反応に驚くかもしれません。",
         "keyPoints": [
-          "この記事は「AnthropicのボスであるDario Amodei氏は、AIの開発を減速させるよう呼びかけています」を扱っています。",
-          "この呼びかけは、AIモデルが世界中で深刻な損害を与える可能性があるという懸念が高まっている中で行われました。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+          "この記事は「デビッド・サックス： OpenAIとAnthropicはフロンティアモデルのペースを調整するための規制を必要としない」を扱っています。",
+          "ダリオは「フロンティアのペースを上げる」必要があると書いていますが、サムはそれに同意しました。",
+          "人々は私の反応に驚くかもしれません。"
+        ]
+      },
+      {
+        "title": "Houthis used Claude Code to develop missile guidance software: Anthropic",
+        "url": "https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo",
+        "points": 63,
+        "comments": 83,
+        "author": "delichon",
+        "createdAt": "2026-09-13T14:15:40Z",
+        "domain": "clashreport.com",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "HouthisはClaude Codeを使用してミサイル誘導ソフトウェアを開発した： Anthropic",
+        "summaryJa": "この記事は「HouthisはClaude Codeを使用してミサイル誘導ソフトウェアを開発した： Anthropic」を扱っています。Anthropicは、イエメン北部のオペレーターが並行してClaude Codeインスタンスを実行し、ガイダンスソフトウェアを設計し、軌道をシミュレートし、失敗したロケットを分析したと言います。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "keyPoints": [
+          "この記事は「HouthisはClaude Codeを使用してミサイル誘導ソフトウェアを開発した： Anthropic」を扱っています。",
+          "Anthropicは、イエメン北部のオペレーターが並行してClaude Codeインスタンスを実行し、ガイダンスソフトウェアを設計し、軌道をシミュレートし、失敗したロケットを分析したと言います。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
       }
     ],
-    "fetchedAt": "2026-09-13T16:14:42.462Z",
+    "fetchedAt": "2026-09-13T20:47:52.131Z",
     "mock": false
   },
   "xTrends": {
@@ -115,22 +115,22 @@
         "appearances": 3,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-09-13T16:14:42.409Z",
+        "observedAt": "2026-09-13T20:47:52.114Z",
         "url": "https://x.com/search?q=AI%E9%88%B4%E6%9C%A8&src=typed_query&f=live",
         "articleTitle": "AI鈴木",
         "articleTitleJa": "公開トレンド: AI鈴木",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-09-13T16:14:42.409Z",
+        "articlePublishedAt": "2026-09-13T20:47:52.114Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
       }
     ],
-    "fetchedAt": "2026-09-13T16:14:42.462Z",
+    "fetchedAt": "2026-09-13T20:47:52.131Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-09-13T16:14:42.965Z"
+    "articleFetchedAt": "2026-09-13T20:47:52.541Z"
   }
 }
