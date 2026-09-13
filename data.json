@@ -23,30 +23,10 @@
         ]
       },
       {
-        "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
-        "url": "https://www.rubyhack.ai/",
-        "points": 101,
-        "comments": 570,
-        "author": "chao-",
-        "createdAt": "2026-09-11T23:17:42Z",
-        "domain": "rubyhack.ai",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "OpenAIエージェントがRubyGemsに対して非公開の攻撃を実行しました",
-        "summaryJa": "この記事は「OpenAIエージェントがRubyGemsに対して非公開の攻撃を実行しました」を扱っています。rubyhack.aiが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
-        "keyPoints": [
-          "この記事は「OpenAIエージェントがRubyGemsに対して非公開の攻撃を実行しました」を扱っています。",
-          "rubyhack.aiが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
-        ]
-      },
-      {
         "title": "Ask HN: What default model do you use and why?",
         "url": "https://news.ycombinator.com/item?id=49672966",
-        "points": 100,
-        "comments": 91,
+        "points": 102,
+        "comments": 92,
         "author": "stikit",
         "createdAt": "2026-09-12T14:58:44Z",
         "domain": "news.ycombinator.com",
@@ -63,10 +43,30 @@
         ]
       },
       {
+        "title": "OpenAI's Sam Altman says it would be 'ill-advised' to go public in 2026",
+        "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+        "points": 80,
+        "comments": 61,
+        "author": "humanlion87",
+        "createdAt": "2026-09-12T20:28:29Z",
+        "domain": "techcrunch.com",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "中",
+        "newsLens": "技術",
+        "titleJa": "OpenAIのサム・アルトマン氏は、2026年に上場するのは「不適切」だと述べている",
+        "summaryJa": "この記事は「OpenAIのサム・アルトマン氏は、2026年に上場するのは「不適切」だと述べている」を扱っています。最高経営責任者（ CEO ）のサム・アルトマン（ Sam Altman ）氏によると、OpenAIは内密にIPOを申請しているが、今年は上場しないという。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "keyPoints": [
+          "この記事は「OpenAIのサム・アルトマン氏は、2026年に上場するのは「不適切」だと述べている」を扱っています。",
+          "最高経営責任者（ CEO ）のサム・アルトマン（ Sam Altman ）氏によると、OpenAIは内密にIPOを申請しているが、今年は上場しないという。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+        ]
+      },
+      {
         "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
         "url": "https://www.bbc.com/news/articles/c14dpgm0rg4o",
-        "points": 73,
-        "comments": 105,
+        "points": 74,
+        "comments": 106,
         "author": "champagnepapi",
         "createdAt": "2026-09-12T16:56:52Z",
         "domain": "bbc.com",
@@ -83,36 +83,35 @@
         ]
       },
       {
-        "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
-        "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
-        "points": 45,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-09-12T20:19:16.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
+        "title": "Everyone should slow down AI development except for me",
+        "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/",
+        "points": 73,
+        "comments": 152,
+        "author": "xena",
+        "createdAt": "2026-09-13T00:30:44Z",
+        "domain": "xeiaso.net",
+        "sourceType": "hn",
         "category": "AIニュース",
-        "impact": "低",
-        "titleJa": "OpenAIのサム・アルトマン氏は、2026年に上場するのは「不適切」だと述べている",
-        "summaryJa": "この記事は「OpenAIのサム・アルトマン氏は、2026年に上場するのは「不適切」だと述べている」を扱っています。最高経営責任者（ CEO ）のサム・アルトマン（ Sam Altman ）氏によると、OpenAIは内密にIPOを申請しているが、今年は上場しないという。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "私を除いて、誰もがAI開発を遅くする必要があります",
+        "summaryJa": "この記事は「私を除いて、誰もがAI開発を遅くする必要があります」を扱っています。xeiaso.netが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
         "keyPoints": [
-          "この記事は「OpenAIのサム・アルトマン氏は、2026年に上場するのは「不適切」だと述べている」を扱っています。",
-          "最高経営責任者（ CEO ）のサム・アルトマン（ Sam Altman ）氏によると、OpenAIは内密にIPOを申請しているが、今年は上場しないという。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+          "この記事は「私を除いて、誰もがAI開発を遅くする必要があります」を扱っています。",
+          "xeiaso.netが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
       }
     ],
-    "fetchedAt": "2026-09-12T23:02:26.940Z",
+    "fetchedAt": "2026-09-13T04:44:01.033Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-09-12T23:02:26.940Z",
+    "fetchedAt": "2026-09-13T04:44:01.033Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-09-12T23:02:27.159Z"
+    "articleFetchedAt": "2026-09-13T04:44:01.211Z"
   }
 }
