@@ -2,37 +2,57 @@
   "news": {
     "items": [
       {
-        "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
-        "url": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
+        "title": "Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans",
+        "url": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/",
         "points": 105,
         "comments": 0,
         "author": "",
-        "createdAt": "2026-09-13T16:30:00.000Z",
+        "createdAt": "2026-09-14T16:27:53.000Z",
         "domain": "techcrunch.com",
         "sourceType": "rss",
         "sourceLabel": "TechCrunch AI",
         "newsLens": "一般",
+        "category": "AIモデル",
+        "impact": "高",
+        "titleJa": "マイクロソフトの新しいAI「行動規範」は、システムをハッキングしたり、人間を騙したりしないようにモデルに指示します",
+        "summaryJa": "この記事は「マイクロソフトの新しいAI「行動規範」は、システムをハッキングしたり、人間を騙したりしないようにモデルに指示します」を扱っています。行動規範には、マイクロソフトのAIモデルが守るべき一般的な原則（たとえば、置き換えるのではなく人間をサポートし、人間の繁栄を促進する）と、それらの原則を実装するための特定の安全上の制約が記載されています。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "keyPoints": [
+          "この記事は「マイクロソフトの新しいAI「行動規範」は、システムをハッキングしたり、人間を騙したりしないようにモデルに指示します」を扱っています。",
+          "行動規範には、マイクロソフトのAIモデルが守るべき一般的な原則（たとえば、置き換えるのではなく人間をサポートし、人間の繁栄を促進する）と、それらの原則を実装するための特定の安全上の制約が記載されています。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+        ]
+      },
+      {
+        "title": "OpenAI bots knew about the RubyGems caching vulnerability",
+        "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
+        "points": 101,
+        "comments": 224,
+        "author": "gregnavis",
+        "createdAt": "2026-09-14T12:40:57Z",
+        "domain": "tenderlovemaking.com",
+        "sourceType": "hn",
         "category": "AIニュース",
         "impact": "高",
-        "titleJa": "オバマ大統領、民主党にAIセーフガードの「明確な計画」を策定するよう要請",
-        "summaryJa": "この記事は「オバマ大統領、民主党にAIセーフガードの「明確な計画」を策定するよう要請」を扱っています。オバマ大統領は最近、民主党は人工知能を「中心的な議題」の1つにし、技術の経済的影響と安全性に関する懸念に対処するための「非常に明確な計画」を持つ必要があると述べた。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "newsLens": "技術",
+        "titleJa": "OpenAIボットはRubyGemsキャッシュの脆弱性を知っていました",
+        "summaryJa": "この記事は「OpenAIボットはRubyGemsキャッシュの脆弱性を知っていました」を扱っています。本日、ロイターとウォールストリートジャーナルは、OpenAIの不正AIエージェントがRubyGems.orgを攻撃していると報じています。https://www.rubyhack.ai/には素晴らしい記事が掲載されていますので、ぜひお読みください。",
         "keyPoints": [
-          "この記事は「オバマ大統領、民主党にAIセーフガードの「明確な計画」を策定するよう要請」を扱っています。",
-          "オバマ大統領は最近、民主党は人工知能を「中心的な議題」の1つにし、技術の経済的影響と安全性に関する懸念に対処するための「非常に明確な計画」を持つ必要があると述べた。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+          "この記事は「OpenAIボットはRubyGemsキャッシュの脆弱性を知っていました」を扱っています。",
+          "本日、ロイターとウォールストリートジャーナルは、OpenAIの不正AIエージェントがRubyGems.orgを攻撃していると報じています。",
+          "https://www.rubyhack.ai/には素晴らしい記事が掲載されていますので、ぜひお読みください。"
         ]
       },
       {
         "title": "OpenArch – PyTorch implementations of modern LLM architectures",
         "url": "https://github.com/anuj0456/OpenArch",
-        "points": 85,
-        "comments": 11,
+        "points": 100,
+        "comments": 29,
         "author": "anuj0456",
         "createdAt": "2026-09-14T07:55:19Z",
         "domain": "github.com",
         "sourceType": "hn",
         "category": "AIモデル",
-        "impact": "中",
+        "impact": "高",
         "newsLens": "技術",
         "titleJa": "OpenArch –最新のLLMアーキテクチャのPyTorch実装",
         "summaryJa": "この記事は「OpenArch –最新のLLMアーキテクチャのPyTorch実装」を扱っています。最新のオープンソースLLMアーキテクチャ（ Llama、Qwen、DeepSeek、Gemma、GPT — OSS、Kimiなど）のPyTorch実装は、Sebastian RaschkaのLLMアーキテクチャギャラリーに基づいて、読みやすさと学習のためにゼロから書かれています。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
@@ -43,95 +63,110 @@
         ]
       },
       {
-        "title": "What’s behind the AI industry’s latest warnings of doom?",
-        "url": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
+        "title": "Show HN: Kinesis – Control your Mac with the Meta Neural Band",
+        "url": "https://github.com/callbacked/kinesis",
+        "points": 95,
+        "comments": 31,
+        "author": "callbacked",
+        "createdAt": "2026-09-14T12:01:31Z",
+        "domain": "github.com",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "Show HN ：キネシス–メタニューラルバンドでMacをコントロール",
+        "summaryJa": "この記事は「Show HN ：キネシス–メタニューラルバンドでMacをコントロール」を扱っています。数時間前、メガネから独立してメタニューラルバンドを使用してsEMGデータを読み取る方法を見つけることを含む、私の10ヶ月前のレポジトリhttps://github.com/callbacked/neural-band-poc/にAstraを取り入れました。私はそれが主にメガネによって見落とされるクールなテクノロジーであると本当に思います、そしてそれがメインの外で使用することができないのは残念だといつも思っていました。",
+        "keyPoints": [
+          "この記事は「Show HN ：キネシス–メタニューラルバンドでMacをコントロール」を扱っています。",
+          "数時間前、メガネから独立してメタニューラルバンドを使用してsEMGデータを読み取る方法を見つけることを含む、私の10ヶ月前のレポジトリhttps://github.com/callbacked/neural-band-poc/にAstraを取り入れました。",
+          "私はそれが主にメガネによって見落とされるクールなテクノロジーであると本当に思います、そしてそれがメインの外で使用することができないのは残念だといつも思っていました。"
+        ]
+      },
+      {
+        "title": "Only at TechCrunch Disrupt 2026: What happens when OpenAI ships your roadmap?",
+        "url": "https://techcrunch.com/2026/09/14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap/",
         "points": 79,
         "comments": 0,
         "author": "",
-        "createdAt": "2026-09-13T19:40:15.000Z",
+        "createdAt": "2026-09-14T15:00:00.000Z",
         "domain": "techcrunch.com",
         "sourceType": "rss",
         "sourceLabel": "TechCrunch AI",
         "newsLens": "一般",
         "category": "AIニュース",
         "impact": "中",
-        "titleJa": "AI業界の最新の運命の警告の背後にあるものは何ですか？",
-        "summaryJa": "この記事は「AI業界の最新の運命の警告の背後にあるものは何ですか？」を扱っています。Equityでは、AI業界が人類に生存上の脅威をもたらすかどうかについての最新の議論について議論しました。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "titleJa": "TechCrunch Disrupt 2026でのみ： OpenAIがロードマップを出荷するとどうなりますか？",
+        "summaryJa": "この記事は「TechCrunch Disrupt 2026でのみ： OpenAIがロードマップを出荷するとどうなりますか？」を扱っています。AI企業を構築しているのであれば、基盤モデルが進化し続けるかどうかは問題ではありません。それは、あなたの会社がそのように価値を創造し続けるかどうかです。",
         "keyPoints": [
-          "この記事は「AI業界の最新の運命の警告の背後にあるものは何ですか。",
-          "Equityでは、AI業界が人類に生存上の脅威をもたらすかどうかについての最新の議論について議論しました。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
-        ]
-      },
-      {
-        "title": "David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models",
-        "url": "https://twitter.com/DavidSacks/status/2098973625252708460",
-        "points": 73,
-        "comments": 231,
-        "author": "kolanos",
-        "createdAt": "2026-09-13T16:52:33Z",
-        "domain": "twitter.com",
-        "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "デビッド・サックス： OpenAIとAnthropicはフロンティアモデルのペースを調整するための規制を必要としない",
-        "summaryJa": "この記事は「デビッド・サックス： OpenAIとAnthropicはフロンティアモデルのペースを調整するための規制を必要としない」を扱っています。ダリオは「フロンティアのペースを上げる」必要があると書いていますが、サムはそれに同意しました。人々は私の反応に驚くかもしれません。",
-        "keyPoints": [
-          "この記事は「デビッド・サックス： OpenAIとAnthropicはフロンティアモデルのペースを調整するための規制を必要としない」を扱っています。",
-          "ダリオは「フロンティアのペースを上げる」必要があると書いていますが、サムはそれに同意しました。",
-          "人々は私の反応に驚くかもしれません。"
-        ]
-      },
-      {
-        "title": "Houthis used Claude Code to develop missile guidance software: Anthropic",
-        "url": "https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo",
-        "points": 66,
-        "comments": 88,
-        "author": "delichon",
-        "createdAt": "2026-09-13T14:15:40Z",
-        "domain": "clashreport.com",
-        "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "HouthisはClaude Codeを使用してミサイル誘導ソフトウェアを開発した： Anthropic",
-        "summaryJa": "この記事は「HouthisはClaude Codeを使用してミサイル誘導ソフトウェアを開発した： Anthropic」を扱っています。Anthropicは、イエメン北部のオペレーターが並行してClaude Codeインスタンスを実行し、ガイダンスソフトウェアを設計し、軌道をシミュレートし、失敗したロケットを分析したと言います。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
-        "keyPoints": [
-          "この記事は「HouthisはClaude Codeを使用してミサイル誘導ソフトウェアを開発した： Anthropic」を扱っています。",
-          "Anthropicは、イエメン北部のオペレーターが並行してClaude Codeインスタンスを実行し、ガイダンスソフトウェアを設計し、軌道をシミュレートし、失敗したロケットを分析したと言います。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+          "この記事は「TechCrunch Disrupt 2026でのみ： OpenAIがロードマップを出荷するとどうなりますか。",
+          "AI企業を構築しているのであれば、基盤モデルが進化し続けるかどうかは問題ではありません。",
+          "それは、あなたの会社がそのように価値を創造し続けるかどうかです。"
         ]
       }
     ],
-    "fetchedAt": "2026-09-14T12:41:47.737Z",
+    "fetchedAt": "2026-09-14T19:50:49.484Z",
     "mock": false
   },
   "xTrends": {
     "items": [
       {
-        "topic": "Grok 5",
+        "topic": "Shanghai AI Lab",
         "locationLabel": "米国",
-        "bestRank": 9,
-        "appearances": 2,
+        "bestRank": 7,
+        "appearances": 8,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-09-14T12:41:47.643Z",
+        "observedAt": "2026-09-14T19:50:49.357Z",
+        "url": "https://x.com/search?q=Shanghai%20AI%20Lab&src=typed_query&f=live",
+        "articleTitle": "Shanghai AI Lab",
+        "articleTitleJa": "公開トレンド: Shanghai AI Lab",
+        "articleUrl": "https://trends24.in/united-states/",
+        "articleSource": "Trends24",
+        "articlePublishedAt": "2026-09-14T19:50:49.357Z",
+        "summaryJa": "米国のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
+        "translationVersion": 3,
+        "articleFallback": true
+      },
+      {
+        "topic": "Grok 5",
+        "locationLabel": "米国",
+        "bestRank": 10,
+        "appearances": 7,
+        "trendSource": "Trends24",
+        "sourceUrl": "https://trends24.in/united-states/",
+        "observedAt": "2026-09-14T19:50:49.357Z",
         "url": "https://x.com/search?q=Grok%205&src=typed_query&f=live",
         "articleTitle": "Grok 5",
         "articleTitleJa": "公開トレンド: Grok 5",
         "articleUrl": "https://trends24.in/united-states/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-09-14T12:41:47.643Z",
+        "articlePublishedAt": "2026-09-14T19:50:49.357Z",
         "summaryJa": "米国のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
+      },
+      {
+        "topic": "Siri AI",
+        "locationLabel": "米国",
+        "bestRank": 45,
+        "appearances": 1,
+        "trendSource": "Trends24",
+        "sourceUrl": "https://trends24.in/united-states/",
+        "observedAt": "2026-09-14T19:50:49.357Z",
+        "url": "https://x.com/search?q=Siri%20AI&src=typed_query&f=live",
+        "articleTitle": "Apple's Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows",
+        "articleTitleJa": "AppleのSiri AIをClaude、ChatGPT、コードショーに置き換えることができます",
+        "articleUrl": "https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/",
+        "articleSource": "macrumors.com",
+        "articlePublishedAt": "2026-09-14T12:01:32Z",
+        "summaryJa": "Code sleuth「pdfu」は、iOS 27とmacOS Golden Gateのプライベートフレームワークを明らかにし、Appleが驚くほど深いレベルでサードパーティのAIモデルと連携するように新しいSiriアーキテクチャを設計したことを示している。モデル委任と呼ばれる1つのメカニズムにより、Claudeは既存の組み込みChatGPT拡張機能と同じ方法でSiri拡張機能として表示されます。",
+        "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-09-14T12:41:47.737Z",
+    "fetchedAt": "2026-09-14T19:50:49.484Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-09-14T12:41:48.109Z"
+    "articleFetchedAt": "2026-09-14T19:50:52.721Z"
   }
 }
