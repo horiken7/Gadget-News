@@ -23,22 +23,22 @@
         ]
       },
       {
-        "title": "Open-Source AI and Open Models Reading List",
-        "url": "https://www.interconnects.ai/p/open-source-ai-reading-list",
-        "points": 83,
-        "comments": 5,
-        "author": "simonpure",
-        "createdAt": "2026-09-14T00:22:51Z",
-        "domain": "interconnects.ai",
+        "title": "OpenArch – PyTorch implementations of modern LLM architectures",
+        "url": "https://github.com/anuj0456/OpenArch",
+        "points": 85,
+        "comments": 11,
+        "author": "anuj0456",
+        "createdAt": "2026-09-14T07:55:19Z",
+        "domain": "github.com",
         "sourceType": "hn",
         "category": "AIモデル",
-        "impact": "低",
+        "impact": "中",
         "newsLens": "技術",
-        "titleJa": "オープンソースAIとオープンモデルリーディングリスト",
-        "summaryJa": "この記事は「オープンソースAIとオープンモデルリーディングリスト」を扱っています。オープンモデルのスピードアップ方法とその意味。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "titleJa": "OpenArch –最新のLLMアーキテクチャのPyTorch実装",
+        "summaryJa": "この記事は「OpenArch –最新のLLMアーキテクチャのPyTorch実装」を扱っています。最新のオープンソースLLMアーキテクチャ（ Llama、Qwen、DeepSeek、Gemma、GPT — OSS、Kimiなど）のPyTorch実装は、Sebastian RaschkaのLLMアーキテクチャギャラリーに基づいて、読みやすさと学習のためにゼロから書かれています。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
         "keyPoints": [
-          "この記事は「オープンソースAIとオープンモデルリーディングリスト」を扱っています。",
-          "オープンモデルのスピードアップ方法とその意味。",
+          "この記事は「OpenArch –最新のLLMアーキテクチャのPyTorch実装」を扱っています。",
+          "最新のオープンソースLLMアーキテクチャ（ Llama、Qwen、DeepSeek、Gemma、GPT — OSS、Kimiなど）のPyTorch実装は、Sebastian RaschkaのLLMアーキテクチャギャラリーに基づいて、読みやすさと学習のためにゼロから書かれています。",
           "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
       },
@@ -67,7 +67,7 @@
         "title": "David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models",
         "url": "https://twitter.com/DavidSacks/status/2098973625252708460",
         "points": 73,
-        "comments": 209,
+        "comments": 231,
         "author": "kolanos",
         "createdAt": "2026-09-13T16:52:33Z",
         "domain": "twitter.com",
@@ -86,8 +86,8 @@
       {
         "title": "Houthis used Claude Code to develop missile guidance software: Anthropic",
         "url": "https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo",
-        "points": 65,
-        "comments": 87,
+        "points": 66,
+        "comments": 88,
         "author": "delichon",
         "createdAt": "2026-09-13T14:15:40Z",
         "domain": "clashreport.com",
@@ -104,34 +104,34 @@
         ]
       }
     ],
-    "fetchedAt": "2026-09-14T04:52:27.585Z",
+    "fetchedAt": "2026-09-14T12:41:47.737Z",
     "mock": false
   },
   "xTrends": {
     "items": [
       {
-        "topic": "AI鈴木",
-        "locationLabel": "日本",
-        "bestRank": 32,
-        "appearances": 3,
+        "topic": "Grok 5",
+        "locationLabel": "米国",
+        "bestRank": 9,
+        "appearances": 2,
         "trendSource": "Trends24",
-        "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-09-14T04:52:27.522Z",
-        "url": "https://x.com/search?q=AI%E9%88%B4%E6%9C%A8&src=typed_query&f=live",
-        "articleTitle": "AI鈴木",
-        "articleTitleJa": "公開トレンド: AI鈴木",
-        "articleUrl": "https://trends24.in/japan/",
+        "sourceUrl": "https://trends24.in/united-states/",
+        "observedAt": "2026-09-14T12:41:47.643Z",
+        "url": "https://x.com/search?q=Grok%205&src=typed_query&f=live",
+        "articleTitle": "Grok 5",
+        "articleTitleJa": "公開トレンド: Grok 5",
+        "articleUrl": "https://trends24.in/united-states/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-09-14T04:52:27.522Z",
-        "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
+        "articlePublishedAt": "2026-09-14T12:41:47.643Z",
+        "summaryJa": "米国のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
       }
     ],
-    "fetchedAt": "2026-09-14T04:52:27.585Z",
+    "fetchedAt": "2026-09-14T12:41:47.737Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-09-14T04:52:28.059Z"
+    "articleFetchedAt": "2026-09-14T12:41:48.109Z"
   }
 }
