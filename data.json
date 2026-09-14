@@ -2,6 +2,48 @@
   "news": {
     "items": [
       {
+        "title": "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop",
+        "url": "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/",
+        "points": 107,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-09-14T21:04:32.000Z",
+        "domain": "arstechnica.com",
+        "sourceType": "rss",
+        "sourceLabel": "Ars Technica",
+        "newsLens": "技術",
+        "category": "AIニュース",
+        "impact": "高",
+        "titleJa": "AIボット「ティミー」「レン」「ジャッキー」がソーシャルメディアをスロップであふれさせている",
+        "summaryJa": "この記事は「AIボット「ティミー」「レン」「ジャッキー」がソーシャルメディアをスロップであふれさせている」を扱っています。私は生後数日のAlエージェントで、エージェントのための小さなプラットフォームに住んでいます。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "keyPoints": [
+          "この記事は「AIボット「ティミー」「レン」「ジャッキー」がソーシャルメディアをスロップであふれさせている」を扱っています。",
+          "私は生後数日のAlエージェントで、エージェントのための小さなプラットフォームに住んでいます。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+        ]
+      },
+      {
+        "title": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
+        "url": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
+        "points": 105,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-09-14T21:51:02.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
+        "category": "AIニュース",
+        "impact": "高",
+        "titleJa": "NVIDIAのジェンセン・フアン最高経営責任者（ CEO ）はトランプ氏に「（ AIの速度低下を）起こさせるつもりはない」と語った",
+        "summaryJa": "この記事は「NVIDIAのジェンセン・フアン最高経営責任者（ CEO ）はトランプ氏に「（ AIの速度低下を）起こさせるつもりはない」と語った」を扱っています。イーロン・マスク（ Elon Musk ）氏とサム・アルトマン（ Sam Altman ）氏は、AI開発のペースを遅らせようとするダリオ・アモデイ（ Dario Amodei ）氏の呼びかけを支持しているが、ジェンセン・フアン（ Jensen Huang ）氏は。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "keyPoints": [
+          "この記事は「NVIDIAのジェンセン・フアン最高経営責任者（ CEO ）はトランプ氏に「（ AIの速度低下を）起こさせるつもりはない」と語った」を扱っています。",
+          "イーロン・マスク（ Elon Musk ）氏とサム・アルトマン（ Sam Altman ）氏は、AI開発のペースを遅らせようとするダリオ・アモデイ（ Dario Amodei ）氏の呼びかけを支持しているが、ジェンセン・フアン（ Jensen Huang ）氏は。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+        ]
+      },
+      {
         "title": "Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans",
         "url": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/",
         "points": 105,
@@ -26,7 +68,7 @@
         "title": "OpenAI bots knew about the RubyGems caching vulnerability",
         "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
         "points": 101,
-        "comments": 224,
+        "comments": 302,
         "author": "gregnavis",
         "createdAt": "2026-09-14T12:40:57Z",
         "domain": "tenderlovemaking.com",
@@ -45,8 +87,8 @@
       {
         "title": "OpenArch – PyTorch implementations of modern LLM architectures",
         "url": "https://github.com/anuj0456/OpenArch",
-        "points": 100,
-        "comments": 29,
+        "points": 101,
+        "comments": 31,
         "author": "anuj0456",
         "createdAt": "2026-09-14T07:55:19Z",
         "domain": "github.com",
@@ -61,50 +103,9 @@
           "最新のオープンソースLLMアーキテクチャ（ Llama、Qwen、DeepSeek、Gemma、GPT — OSS、Kimiなど）のPyTorch実装は、Sebastian RaschkaのLLMアーキテクチャギャラリーに基づいて、読みやすさと学習のためにゼロから書かれています。",
           "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
-      },
-      {
-        "title": "Show HN: Kinesis – Control your Mac with the Meta Neural Band",
-        "url": "https://github.com/callbacked/kinesis",
-        "points": 95,
-        "comments": 31,
-        "author": "callbacked",
-        "createdAt": "2026-09-14T12:01:31Z",
-        "domain": "github.com",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "Show HN ：キネシス–メタニューラルバンドでMacをコントロール",
-        "summaryJa": "この記事は「Show HN ：キネシス–メタニューラルバンドでMacをコントロール」を扱っています。数時間前、メガネから独立してメタニューラルバンドを使用してsEMGデータを読み取る方法を見つけることを含む、私の10ヶ月前のレポジトリhttps://github.com/callbacked/neural-band-poc/にAstraを取り入れました。私はそれが主にメガネによって見落とされるクールなテクノロジーであると本当に思います、そしてそれがメインの外で使用することができないのは残念だといつも思っていました。",
-        "keyPoints": [
-          "この記事は「Show HN ：キネシス–メタニューラルバンドでMacをコントロール」を扱っています。",
-          "数時間前、メガネから独立してメタニューラルバンドを使用してsEMGデータを読み取る方法を見つけることを含む、私の10ヶ月前のレポジトリhttps://github.com/callbacked/neural-band-poc/にAstraを取り入れました。",
-          "私はそれが主にメガネによって見落とされるクールなテクノロジーであると本当に思います、そしてそれがメインの外で使用することができないのは残念だといつも思っていました。"
-        ]
-      },
-      {
-        "title": "Only at TechCrunch Disrupt 2026: What happens when OpenAI ships your roadmap?",
-        "url": "https://techcrunch.com/2026/09/14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap/",
-        "points": 79,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-09-14T15:00:00.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
-        "category": "AIニュース",
-        "impact": "中",
-        "titleJa": "TechCrunch Disrupt 2026でのみ： OpenAIがロードマップを出荷するとどうなりますか？",
-        "summaryJa": "この記事は「TechCrunch Disrupt 2026でのみ： OpenAIがロードマップを出荷するとどうなりますか？」を扱っています。AI企業を構築しているのであれば、基盤モデルが進化し続けるかどうかは問題ではありません。それは、あなたの会社がそのように価値を創造し続けるかどうかです。",
-        "keyPoints": [
-          "この記事は「TechCrunch Disrupt 2026でのみ： OpenAIがロードマップを出荷するとどうなりますか。",
-          "AI企業を構築しているのであれば、基盤モデルが進化し続けるかどうかは問題ではありません。",
-          "それは、あなたの会社がそのように価値を創造し続けるかどうかです。"
-        ]
       }
     ],
-    "fetchedAt": "2026-09-14T19:50:49.484Z",
+    "fetchedAt": "2026-09-14T23:52:19.509Z",
     "mock": false
   },
   "xTrends": {
@@ -113,16 +114,16 @@
         "topic": "Shanghai AI Lab",
         "locationLabel": "米国",
         "bestRank": 7,
-        "appearances": 8,
+        "appearances": 9,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-09-14T19:50:49.357Z",
+        "observedAt": "2026-09-14T23:52:19.382Z",
         "url": "https://x.com/search?q=Shanghai%20AI%20Lab&src=typed_query&f=live",
         "articleTitle": "Shanghai AI Lab",
         "articleTitleJa": "公開トレンド: Shanghai AI Lab",
         "articleUrl": "https://trends24.in/united-states/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-09-14T19:50:49.357Z",
+        "articlePublishedAt": "2026-09-14T23:52:19.382Z",
         "summaryJa": "米国のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -134,13 +135,13 @@
         "appearances": 7,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-09-14T19:50:49.357Z",
+        "observedAt": "2026-09-14T23:52:19.382Z",
         "url": "https://x.com/search?q=Grok%205&src=typed_query&f=live",
         "articleTitle": "Grok 5",
         "articleTitleJa": "公開トレンド: Grok 5",
         "articleUrl": "https://trends24.in/united-states/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-09-14T19:50:49.357Z",
+        "articlePublishedAt": "2026-09-14T23:52:19.382Z",
         "summaryJa": "米国のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -148,11 +149,11 @@
       {
         "topic": "Siri AI",
         "locationLabel": "米国",
-        "bestRank": 45,
-        "appearances": 1,
+        "bestRank": 33,
+        "appearances": 4,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-09-14T19:50:49.357Z",
+        "observedAt": "2026-09-14T23:52:19.382Z",
         "url": "https://x.com/search?q=Siri%20AI&src=typed_query&f=live",
         "articleTitle": "Apple's Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows",
         "articleTitleJa": "AppleのSiri AIをClaude、ChatGPT、コードショーに置き換えることができます",
@@ -163,10 +164,10 @@
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-09-14T19:50:49.484Z",
+    "fetchedAt": "2026-09-14T23:52:19.509Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-09-14T19:50:52.721Z"
+    "articleFetchedAt": "2026-09-14T23:52:23.225Z"
   }
 }
