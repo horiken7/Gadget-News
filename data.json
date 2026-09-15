@@ -68,7 +68,7 @@
         "title": "OpenAI bots knew about the RubyGems caching vulnerability",
         "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
         "points": 101,
-        "comments": 302,
+        "comments": 335,
         "author": "gregnavis",
         "createdAt": "2026-09-14T12:40:57Z",
         "domain": "tenderlovemaking.com",
@@ -105,11 +105,29 @@
         ]
       }
     ],
-    "fetchedAt": "2026-09-14T23:52:19.509Z",
+    "fetchedAt": "2026-09-15T04:51:52.435Z",
     "mock": false
   },
   "xTrends": {
     "items": [
+      {
+        "topic": "AI懸念",
+        "locationLabel": "日本",
+        "bestRank": 43,
+        "appearances": 1,
+        "trendSource": "Trends24",
+        "sourceUrl": "https://trends24.in/japan/",
+        "observedAt": "2026-09-15T04:51:52.346Z",
+        "url": "https://x.com/search?q=AI%E6%87%B8%E5%BF%B5&src=typed_query&f=live",
+        "articleTitle": "AI懸念",
+        "articleTitleJa": "公開トレンド: AI懸念",
+        "articleUrl": "https://trends24.in/japan/",
+        "articleSource": "Trends24",
+        "articlePublishedAt": "2026-09-15T04:51:52.346Z",
+        "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
+        "translationVersion": 3,
+        "articleFallback": true
+      },
       {
         "topic": "Shanghai AI Lab",
         "locationLabel": "米国",
@@ -117,13 +135,13 @@
         "appearances": 9,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-09-14T23:52:19.382Z",
+        "observedAt": "2026-09-15T04:51:52.236Z",
         "url": "https://x.com/search?q=Shanghai%20AI%20Lab&src=typed_query&f=live",
         "articleTitle": "Shanghai AI Lab",
         "articleTitleJa": "公開トレンド: Shanghai AI Lab",
         "articleUrl": "https://trends24.in/united-states/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-09-14T23:52:19.382Z",
+        "articlePublishedAt": "2026-09-15T04:51:52.236Z",
         "summaryJa": "米国のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -135,13 +153,13 @@
         "appearances": 7,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-09-14T23:52:19.382Z",
+        "observedAt": "2026-09-15T04:51:52.236Z",
         "url": "https://x.com/search?q=Grok%205&src=typed_query&f=live",
         "articleTitle": "Grok 5",
         "articleTitleJa": "公開トレンド: Grok 5",
         "articleUrl": "https://trends24.in/united-states/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-09-14T23:52:19.382Z",
+        "articlePublishedAt": "2026-09-15T04:51:52.236Z",
         "summaryJa": "米国のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -153,7 +171,7 @@
         "appearances": 4,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-09-14T23:52:19.382Z",
+        "observedAt": "2026-09-15T04:51:52.236Z",
         "url": "https://x.com/search?q=Siri%20AI&src=typed_query&f=live",
         "articleTitle": "Apple's Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows",
         "articleTitleJa": "AppleのSiri AIをClaude、ChatGPT、コードショーに置き換えることができます",
@@ -164,10 +182,10 @@
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-09-14T23:52:19.509Z",
+    "fetchedAt": "2026-09-15T04:51:52.435Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-09-14T23:52:23.225Z"
+    "articleFetchedAt": "2026-09-15T04:51:56.488Z"
   }
 }
