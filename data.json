@@ -44,30 +44,10 @@
         ]
       },
       {
-        "title": "How much of F-Droid is LLM generated?",
-        "url": "https://tintotint.eu/whacky-corner/f-droid_slop/",
-        "points": 98,
-        "comments": 155,
-        "author": "_ZeD_",
-        "createdAt": "2026-09-15T09:47:48Z",
-        "domain": "tintotint.eu",
-        "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "LLMはどのくらいのF - Droidを生成しますか？",
-        "summaryJa": "この記事は「LLMはどのくらいのF - Droidを生成しますか？」を扱っています。Android FOSSコミュニティにおけるLLMの使用の調査。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
-        "keyPoints": [
-          "この記事は「LLMはどのくらいのF - Droidを生成しますか。",
-          "Android FOSSコミュニティにおけるLLMの使用の調査。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
-        ]
-      },
-      {
         "title": "Hugging Face is billing OpenAI $100M for hacking it",
         "url": "https://thenextweb.com/news/hugging-face-delangue-openai-100m-compute-traces-demand",
-        "points": 96,
-        "comments": 40,
+        "points": 101,
+        "comments": 46,
         "author": "cwwc",
         "createdAt": "2026-09-15T17:56:10Z",
         "domain": "thenextweb.com",
@@ -84,10 +64,30 @@
         ]
       },
       {
+        "title": "How much of F-Droid is LLM generated?",
+        "url": "https://tintotint.eu/whacky-corner/f-droid_slop/",
+        "points": 101,
+        "comments": 169,
+        "author": "_ZeD_",
+        "createdAt": "2026-09-15T09:47:48Z",
+        "domain": "tintotint.eu",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "LLMはどのくらいのF - Droidを生成しますか？",
+        "summaryJa": "この記事は「LLMはどのくらいのF - Droidを生成しますか？」を扱っています。Android FOSSコミュニティにおけるLLMの使用の調査。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "keyPoints": [
+          "この記事は「LLMはどのくらいのF - Droidを生成しますか。",
+          "Android FOSSコミュニティにおけるLLMの使用の調査。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+        ]
+      },
+      {
         "title": "OpenAI buys smartphone camera maker Glass Imaging for $300M",
         "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
-        "points": 91,
-        "comments": 93,
+        "points": 92,
+        "comments": 97,
         "author": "myth_drannon",
         "createdAt": "2026-09-15T12:01:31Z",
         "domain": "techcrunch.com",
@@ -104,7 +104,7 @@
         ]
       }
     ],
-    "fetchedAt": "2026-09-15T21:18:43.060Z",
+    "fetchedAt": "2026-09-16T04:46:47.989Z",
     "mock": false
   },
   "xTrends": {
@@ -112,26 +112,26 @@
       {
         "topic": "AIグラス",
         "locationLabel": "日本",
-        "bestRank": 20,
-        "appearances": 4,
+        "bestRank": 27,
+        "appearances": 1,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-09-15T21:18:43.016Z",
+        "observedAt": "2026-09-16T04:46:47.864Z",
         "url": "https://x.com/search?q=AI%E3%82%B0%E3%83%A9%E3%82%B9&src=typed_query&f=live",
         "articleTitle": "AIグラス",
         "articleTitleJa": "公開トレンド: AIグラス",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-09-15T21:18:43.016Z",
+        "articlePublishedAt": "2026-09-16T04:46:47.864Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
       }
     ],
-    "fetchedAt": "2026-09-15T21:18:43.060Z",
+    "fetchedAt": "2026-09-16T04:46:47.989Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-09-15T21:18:43.568Z"
+    "articleFetchedAt": "2026-09-16T04:46:48.354Z"
   }
 }
