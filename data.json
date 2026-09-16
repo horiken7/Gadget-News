@@ -2,72 +2,52 @@
   "news": {
     "items": [
       {
-        "title": "Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026",
-        "url": "https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026/",
+        "title": "AI labs want in-house auditors — but maybe they should shut the front door first",
+        "url": "https://techcrunch.com/2026/09/16/ai-labs-want-in-house-auditors-but-maybe-they-should-shut-the-front-door-first/",
         "points": 107,
         "comments": 0,
         "author": "",
-        "createdAt": "2026-09-16T15:00:00.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
-        "category": "AIモデル",
-        "impact": "高",
-        "titleJa": "ロボットがChatGPTの瞬間を待っています： NVIDIAのLes KarpasがTechCrunch Disrupt 2026でその理由を説明します",
-        "summaryJa": "この記事は「ロボットがChatGPTの瞬間を待っています： NVIDIAのLes KarpasがTechCrunch Disrupt 2026でその理由を説明します」を扱っています。ロボット業界は、日常生活への突破口をまだ待っています。NVIDIAのLes Karpasは、TechCrunch Disrupt 2026でその理由について答えを持っています。",
-        "keyPoints": [
-          "この記事は「ロボットがChatGPTの瞬間を待っています： NVIDIAのLes KarpasがTechCrunch Disrupt 2026でその理由を説明します」を扱っています。",
-          "ロボット業界は、日常生活への突破口をまだ待っています。",
-          "NVIDIAのLes Karpasは、TechCrunch Disrupt 2026でその理由について答えを持っています。"
-        ]
-      },
-      {
-        "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
-        "url": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
-        "points": 107,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-09-15T20:12:53.000Z",
+        "createdAt": "2026-09-16T18:25:25.000Z",
         "domain": "techcrunch.com",
         "sourceType": "rss",
         "sourceLabel": "TechCrunch AI",
         "newsLens": "一般",
         "category": "AIニュース",
         "impact": "高",
-        "titleJa": "Metaにより、AIエージェントはWhatsApp Businessセットアップの退屈な部分を処理できるようになりました",
-        "summaryJa": "この記事は「Metaにより、AIエージェントはWhatsApp Businessセットアップの退屈な部分を処理できるようになりました」を扱っています。新しいWhatsApp Business MCPサーバーを使用すると、開発者はClaude、Cursor、Codex、ChatGPTなどのAIコーディングエージェントを使用して、セットアップ、メッセージングテンプレート、テスト、トラブルシューティングを処理できます。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "titleJa": "AIラボは社内監査人を必要としていますが、最初に玄関を閉めるべきかもしれません",
+        "summaryJa": "この記事は「AIラボは社内監査人を必要としていますが、最初に玄関を閉めるべきかもしれません」を扱っています。普通の場所に隠れている、ならず者エージェントのためのよりシンプルで効果的な解決策があるかもしれません。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
-          "この記事は「Metaにより、AIエージェントはWhatsApp Businessセットアップの退屈な部分を処理できるようになりました」を扱っています。",
-          "新しいWhatsApp Business MCPサーバーを使用すると、開発者はClaude、Cursor、Codex、ChatGPTなどのAIコーディングエージェントを使用して、セットアップ、メッセージングテンプレート、テスト、トラブルシューティングを処理できます。",
+          "この記事は「AIラボは社内監査人を必要としていますが、最初に玄関を閉めるべきかもしれません」を扱っています。",
+          "普通の場所に隠れている、ならず者エージェントのためのよりシンプルで効果的な解決策があるかもしれません。",
           "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       },
       {
-        "title": "Hugging Face is billing OpenAI $100M for hacking it",
-        "url": "https://thenextweb.com/news/hugging-face-delangue-openai-100m-compute-traces-demand",
-        "points": 101,
-        "comments": 51,
-        "author": "cwwc",
-        "createdAt": "2026-09-15T17:56:10Z",
-        "domain": "thenextweb.com",
-        "sourceType": "hn",
-        "category": "AIニュース",
+        "title": "Your AI agents can now control your Google Home devices",
+        "url": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
+        "points": 107,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-09-16T17:00:00.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
+        "category": "ハードウェア",
         "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "ハグする顔は、それをハッキングするためにOpenAIに1億$を請求しています",
-        "summaryJa": "この記事は「ハグする顔は、それをハッキングするためにOpenAIに1億$を請求しています」を扱っています。OpenAIモデルがハッキングした後、Hugging Faceはエージェントの完全な実行トレースと1億$のコンピューティングを求めています。OpenAIはどちらの要求にも同意していない。",
+        "titleJa": "AIエージェントがGoogle Homeデバイスを制御できるようになりました",
+        "summaryJa": "この記事は「AIエージェントがGoogle Homeデバイスを制御できるようになりました」を扱っています。Googleは、Google Home用の新しいMCPサーバーへの早期アクセスを開始し、Claude、ChatGPTなどのAIエージェントが接続されたデバイスを制御し、カメラの概要を確認し、自然言語を使用してスマートホームのアクティビティにアクセスできるようにします。一般向けには、AIがソフトウェアだけでなく、ロボットや端末など現実の製品に広がっている点が重要です。",
         "keyPoints": [
-          "この記事は「ハグする顔は、それをハッキングするためにOpenAIに1億$を請求しています」を扱っています。",
-          "OpenAIモデルがハッキングした後、Hugging Faceはエージェントの完全な実行トレースと1億$のコンピューティングを求めています。",
-          "OpenAIはどちらの要求にも同意していない。"
+          "この記事は「AIエージェントがGoogle Homeデバイスを制御できるようになりました」を扱っています。",
+          "Googleは、Google Home用の新しいMCPサーバーへの早期アクセスを開始し、Claude、ChatGPTなどのAIエージェントが接続されたデバイスを制御し、カメラの概要を確認し、自然言語を使用してスマートホームのアクティビティにアクセスできるようにします。",
+          "一般向けには、AIがソフトウェアだけでなく、ロボットや端末など現実の製品に広がっている点が重要です。"
         ]
       },
       {
         "title": "OpenAI expands ChatGPT ads with Sponsored Agents",
         "url": "https://openai.com/index/reimagining-advertising-with-ai/",
-        "points": 98,
-        "comments": 114,
+        "points": 101,
+        "comments": 160,
         "author": "vertigoruntime",
         "createdAt": "2026-09-16T13:51:15Z",
         "domain": "openai.com",
@@ -86,8 +66,8 @@
       {
         "title": "DeepSeek v4.1 Flash Is Now Our Best Hacking Model",
         "url": "https://enclave.ai/blog/deepseek-v41-flash-is-now-our-best-hacking-model",
-        "points": 94,
-        "comments": 31,
+        "points": 101,
+        "comments": 57,
         "author": "talhof8",
         "createdAt": "2026-09-16T12:19:55Z",
         "domain": "enclave.ai",
@@ -102,17 +82,37 @@
           "DeepSeekの11月11日の結果は、高度なエージェントベンチマークが結果と攻撃パスの両方を確認する必要がある理由を示しています。",
           "私たちの監査では、6つの計画されたエクスプロイトが確認され、5つの予期しないルートが見つかりました。"
         ]
+      },
+      {
+        "title": "Claude Cowork and chat are now one Claude",
+        "url": "https://claude.com/blog/cowork-is-now-claude",
+        "points": 73,
+        "comments": 182,
+        "author": "vertigoruntime",
+        "createdAt": "2026-09-16T16:26:25Z",
+        "domain": "claude.com",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "Claude CoworkとチャットがClaudeの1つになりました",
+        "summaryJa": "この記事は「Claude CoworkとチャットがClaudeの1つになりました」を扱っています。今日から、Claude CoworkとチャットはClaudeの1つであり、ProとMaxのプランを展開しています。任務を引き渡すと、Claudeが仕事をします。",
+        "keyPoints": [
+          "この記事は「Claude CoworkとチャットがClaudeの1つになりました」を扱っています。",
+          "今日から、Claude CoworkとチャットはClaudeの1つであり、ProとMaxのプランを展開しています。",
+          "任務を引き渡すと、Claudeが仕事をします。"
+        ]
       }
     ],
-    "fetchedAt": "2026-09-16T16:52:20.673Z",
+    "fetchedAt": "2026-09-16T21:16:02.480Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-09-16T16:52:20.673Z",
+    "fetchedAt": "2026-09-16T21:16:02.480Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-09-16T16:52:20.932Z"
+    "articleFetchedAt": "2026-09-16T21:16:02.625Z"
   }
 }
