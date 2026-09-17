@@ -2,6 +2,27 @@
   "news": {
     "items": [
       {
+        "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
+        "url": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/",
+        "points": 107,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-09-17T05:00:00.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
+        "category": "AIニュース",
+        "impact": "高",
+        "titleJa": "アイスランドを拠点とするTreble、音声シミュレーションプラットフォームで1,800万$を調達",
+        "summaryJa": "この記事は「アイスランドを拠点とするTreble、音声シミュレーションプラットフォームで1,800万$を調達」を扱っています。Trebleの音声シミュレーションプラットフォームは、音声AIモデル開発者、AIウェアラブル、ロボット企業で使用されています。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "keyPoints": [
+          "この記事は「アイスランドを拠点とするTreble、音声シミュレーションプラットフォームで1,800万$を調達」を扱っています。",
+          "Trebleの音声シミュレーションプラットフォームは、音声AIモデル開発者、AIウェアラブル、ロボット企業で使用されています。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+        ]
+      },
+      {
         "title": "AI labs want in-house auditors — but maybe they should shut the front door first",
         "url": "https://techcrunch.com/2026/09/16/ai-labs-want-in-house-auditors-but-maybe-they-should-shut-the-front-door-first/",
         "points": 107,
@@ -20,27 +41,6 @@
           "この記事は「AIラボは社内監査人を必要としていますが、最初に玄関を閉めるべきかもしれません」を扱っています。",
           "普通の場所に隠れている、ならず者エージェントのためのよりシンプルで効果的な解決策があるかもしれません。",
           "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
-        ]
-      },
-      {
-        "title": "Your AI agents can now control your Google Home devices",
-        "url": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
-        "points": 107,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-09-16T17:00:00.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
-        "category": "ハードウェア",
-        "impact": "高",
-        "titleJa": "AIエージェントがGoogle Homeデバイスを制御できるようになりました",
-        "summaryJa": "この記事は「AIエージェントがGoogle Homeデバイスを制御できるようになりました」を扱っています。Googleは、Google Home用の新しいMCPサーバーへの早期アクセスを開始し、Claude、ChatGPTなどのAIエージェントが接続されたデバイスを制御し、カメラの概要を確認し、自然言語を使用してスマートホームのアクティビティにアクセスできるようにします。一般向けには、AIがソフトウェアだけでなく、ロボットや端末など現実の製品に広がっている点が重要です。",
-        "keyPoints": [
-          "この記事は「AIエージェントがGoogle Homeデバイスを制御できるようになりました」を扱っています。",
-          "Googleは、Google Home用の新しいMCPサーバーへの早期アクセスを開始し、Claude、ChatGPTなどのAIエージェントが接続されたデバイスを制御し、カメラの概要を確認し、自然言語を使用してスマートホームのアクティビティにアクセスできるようにします。",
-          "一般向けには、AIがソフトウェアだけでなく、ロボットや端末など現実の製品に広がっている点が重要です。"
         ]
       },
       {
@@ -67,7 +67,7 @@
         "title": "OpenAI expands ChatGPT ads with Sponsored Agents",
         "url": "https://openai.com/index/reimagining-advertising-with-ai/",
         "points": 101,
-        "comments": 172,
+        "comments": 174,
         "author": "vertigoruntime",
         "createdAt": "2026-09-16T13:51:15Z",
         "domain": "openai.com",
@@ -87,7 +87,7 @@
         "title": "Claude Cowork and chat are now one Claude",
         "url": "https://claude.com/blog/cowork-is-now-claude",
         "points": 73,
-        "comments": 217,
+        "comments": 221,
         "author": "vertigoruntime",
         "createdAt": "2026-09-16T16:26:25Z",
         "domain": "claude.com",
@@ -104,7 +104,7 @@
         ]
       }
     ],
-    "fetchedAt": "2026-09-17T04:49:41.287Z",
+    "fetchedAt": "2026-09-17T11:38:38.819Z",
     "mock": false
   },
   "xTrends": {
@@ -116,22 +116,22 @@
         "appearances": 3,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-09-17T04:49:41.267Z",
+        "observedAt": "2026-09-17T11:38:38.747Z",
         "url": "https://x.com/search?q=AI%E8%91%97%E4%BD%9C%E7%89%A9&src=typed_query&f=live",
         "articleTitle": "AI著作物",
         "articleTitleJa": "公開トレンド: AI著作物",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-09-17T04:49:41.267Z",
+        "articlePublishedAt": "2026-09-17T11:38:38.747Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
       }
     ],
-    "fetchedAt": "2026-09-17T04:49:41.287Z",
+    "fetchedAt": "2026-09-17T11:38:38.819Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-09-17T04:49:41.695Z"
+    "articleFetchedAt": "2026-09-17T11:38:39.432Z"
   }
 }
