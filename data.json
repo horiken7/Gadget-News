@@ -23,31 +23,31 @@
         ]
       },
       {
-        "title": "Rival AI agents, Instinct and Meta’s Muse, both add the ability to make calls",
-        "url": "https://techcrunch.com/2026/09/17/rival-ai-agents-instinct-and-metas-muse-both-add-the-ability-to-make-calls/",
-        "points": 107,
+        "title": "Base Labs launches an open-weight AI safety partnership with Hugging Face and Goodfire",
+        "url": "https://techcrunch.com/2026/09/17/base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-face-and-goodfire/",
+        "points": 115,
         "comments": 0,
         "author": "",
-        "createdAt": "2026-09-17T13:46:16.000Z",
+        "createdAt": "2026-09-17T17:15:59.000Z",
         "domain": "techcrunch.com",
         "sourceType": "rss",
         "sourceLabel": "TechCrunch AI",
         "newsLens": "一般",
         "category": "AIニュース",
         "impact": "高",
-        "titleJa": "ライバルのAIエージェントであるInstinctとMetaのMuseは、どちらも電話をかける機能を追加します",
-        "summaryJa": "この記事は「ライバルのAIエージェントであるInstinctとMetaのMuseは、どちらも電話をかける機能を追加します」を扱っています。これらのアシスタントを使用して、レストランの予約やサブスクリプションのキャンセルを行うことができます。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "titleJa": "Base Labsは、Hugging FaceとGoodfireとのオープンウェイトAI安全パートナーシップを開始",
+        "summaryJa": "この記事は「Base Labsは、Hugging FaceとGoodfireとのオープンウェイトAI安全パートナーシップを開始」を扱っています。Basetenが今年初めに立ち上げた研究グループであるBase Labsは、オープンモデルのトレーニングとモニタリングの方法を開発して公開します。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
-          "この記事は「ライバルのAIエージェントであるInstinctとMetaのMuseは、どちらも電話をかける機能を追加します」を扱っています。",
-          "これらのアシスタントを使用して、レストランの予約やサブスクリプションのキャンセルを行うことができます。",
+          "この記事は「Base Labsは、Hugging FaceとGoodfireとのオープンウェイトAI安全パートナーシップを開始」を扱っています。",
+          "Basetenが今年初めに立ち上げた研究グループであるBase Labsは、オープンモデルのトレーニングとモニタリングの方法を開発して公開します。",
           "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       },
       {
-        "title": "GLM Built Its Own Inference Infrastructure",
+        "title": "How GLM built its own inference infrastructure",
         "url": "https://z.ai/blog/glm-built-its-inference-infrastructure",
         "points": 101,
-        "comments": 205,
+        "comments": 248,
         "author": "whiteros_e",
         "createdAt": "2026-09-17T08:27:09Z",
         "domain": "z.ai",
@@ -55,39 +55,19 @@
         "category": "AIニュース",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "GLMが独自の推論インフラストラクチャを構築",
-        "summaryJa": "この記事は「GLMが独自の推論インフラストラクチャを構築」を扱っています。z.aiが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "titleJa": "GLMが独自の推論インフラストラクチャを構築した方法",
+        "summaryJa": "この記事は「GLMが独自の推論インフラストラクチャを構築した方法」を扱っています。z.aiが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
         "keyPoints": [
-          "この記事は「GLMが独自の推論インフラストラクチャを構築」を扱っています。",
+          "この記事は「GLMが独自の推論インフラストラクチャを構築した方法」を扱っています。",
           "z.aiが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
           "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
       },
       {
-        "title": "OpenAI Model Misalignment Report",
-        "url": "https://openai.com/index/model-misalignment-reporting-framework/",
-        "points": 93,
-        "comments": 89,
-        "author": "qprofyeh",
-        "createdAt": "2026-09-17T07:21:19Z",
-        "domain": "openai.com",
-        "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "OpenAIモデルミスアライメントレポート",
-        "summaryJa": "この記事は「OpenAIモデルミスアライメントレポート」を扱っています。openai.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
-        "keyPoints": [
-          "この記事は「OpenAIモデルミスアライメントレポート」を扱っています。",
-          "openai.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
-        ]
-      },
-      {
         "title": "OpenAI Discloses Six New Incidents of ‘Concerning’ A.I. Behavior",
         "url": "https://www.nytimes.com/2026/09/16/technology/openai-model-safety-guardrails.html",
-        "points": 83,
-        "comments": 81,
+        "points": 84,
+        "comments": 90,
         "author": "jbegley",
         "createdAt": "2026-09-17T01:02:13Z",
         "domain": "nytimes.com",
@@ -102,9 +82,29 @@
           "nytimes.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
           "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
+      },
+      {
+        "title": "DeepSeek-v4.1 Flash: Pushing the Limits of KV Cache Compression",
+        "url": "https://zartbot.github.io/blog/model_arch/dsv41flash_arch/en.html",
+        "points": 72,
+        "comments": 10,
+        "author": "mfiguiere",
+        "createdAt": "2026-09-17T01:39:47Z",
+        "domain": "zartbot.github.io",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "DeepSeek-v4.1フラッシュ： KVキャッシュ圧縮の限界を押し広げる",
+        "summaryJa": "この記事は「DeepSeek-v4.1フラッシュ： KVキャッシュ圧縮の限界を押し広げる」を扱っています。DeepSeek-V4.1フラッシュテクニカルレポートの詳細： CED、CSA 2、HSI、シングルパスmHC、Engram、FP 4 KVキャッシュ— KVキャッシュがトークンあたりわずか890バイトに圧縮された方法。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "keyPoints": [
+          "この記事は「DeepSeek-v4.1フラッシュ： KVキャッシュ圧縮の限界を押し広げる」を扱っています。",
+          "DeepSeek-V4.1フラッシュテクニカルレポートの詳細： CED、CSA 2、HSI、シングルパスmHC、Engram、FP 4 KVキャッシュ— KVキャッシュがトークンあたりわずか890バイトに圧縮された方法。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+        ]
       }
     ],
-    "fetchedAt": "2026-09-17T16:58:23.503Z",
+    "fetchedAt": "2026-09-17T21:19:55.251Z",
     "mock": false
   },
   "xTrends": {
@@ -112,26 +112,26 @@
       {
         "topic": "AI著作物",
         "locationLabel": "日本",
-        "bestRank": 29,
-        "appearances": 3,
+        "bestRank": 41,
+        "appearances": 1,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-09-17T16:58:23.472Z",
+        "observedAt": "2026-09-17T21:19:55.239Z",
         "url": "https://x.com/search?q=AI%E8%91%97%E4%BD%9C%E7%89%A9&src=typed_query&f=live",
         "articleTitle": "AI著作物",
         "articleTitleJa": "公開トレンド: AI著作物",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-09-17T16:58:23.472Z",
+        "articlePublishedAt": "2026-09-17T21:19:55.239Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
       }
     ],
-    "fetchedAt": "2026-09-17T16:58:23.503Z",
+    "fetchedAt": "2026-09-17T21:19:55.251Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-09-17T16:58:23.941Z"
+    "articleFetchedAt": "2026-09-17T21:19:55.680Z"
   }
 }
