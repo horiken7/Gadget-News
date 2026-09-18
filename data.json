@@ -47,7 +47,7 @@
         "title": "How GLM built its own inference infrastructure",
         "url": "https://z.ai/blog/glm-built-its-inference-infrastructure",
         "points": 101,
-        "comments": 248,
+        "comments": 265,
         "author": "whiteros_e",
         "createdAt": "2026-09-17T08:27:09Z",
         "domain": "z.ai",
@@ -64,74 +64,55 @@
         ]
       },
       {
-        "title": "OpenAI Discloses Six New Incidents of ‘Concerning’ A.I. Behavior",
-        "url": "https://www.nytimes.com/2026/09/16/technology/openai-model-safety-guardrails.html",
-        "points": 84,
-        "comments": 90,
-        "author": "jbegley",
-        "createdAt": "2026-09-17T01:02:13Z",
-        "domain": "nytimes.com",
+        "title": "Bend – A language that blocks AI mistakes via proof, on CPU and GPU",
+        "url": "https://bend-lang.com/",
+        "points": 101,
+        "comments": 182,
+        "author": "nicolas-siplis",
+        "createdAt": "2026-09-17T20:36:13Z",
+        "domain": "bend-lang.com",
         "sourceType": "hn",
         "category": "AIニュース",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "OpenAI、AIの行動に関する6つの新しいインシデントを開示",
-        "summaryJa": "この記事は「OpenAI、AIの行動に関する6つの新しいインシデントを開示」を扱っています。nytimes.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "titleJa": "Bend – CPUとGPU上で証明を介してAIの間違いをブロックする言語",
+        "summaryJa": "この記事は「Bend – CPUとGPU上で証明を介してAIの間違いをブロックする言語」を扱っています。Bend ：証明を介してAIの間違いをブロックする高速言語。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
         "keyPoints": [
-          "この記事は「OpenAI、AIの行動に関する6つの新しいインシデントを開示」を扱っています。",
-          "nytimes.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "この記事は「Bend – CPUとGPU上で証明を介してAIの間違いをブロックする言語」を扱っています。",
+          "Bend ：証明を介してAIの間違いをブロックする高速言語。",
           "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
       },
       {
-        "title": "DeepSeek-v4.1 Flash: Pushing the Limits of KV Cache Compression",
-        "url": "https://zartbot.github.io/blog/model_arch/dsv41flash_arch/en.html",
-        "points": 72,
-        "comments": 10,
-        "author": "mfiguiere",
-        "createdAt": "2026-09-17T01:39:47Z",
-        "domain": "zartbot.github.io",
+        "title": "LLM Classification Is Feature Engineering",
+        "url": "https://minimallysufficient.com/posts/llm-classification-is-feature-extraction/",
+        "points": 93,
+        "comments": 19,
+        "author": "minsufficient",
+        "createdAt": "2026-09-17T15:40:17Z",
+        "domain": "minimallysufficient.com",
         "sourceType": "hn",
-        "category": "AIニュース",
+        "category": "AIモデル",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "DeepSeek-v4.1フラッシュ： KVキャッシュ圧縮の限界を押し広げる",
-        "summaryJa": "この記事は「DeepSeek-v4.1フラッシュ： KVキャッシュ圧縮の限界を押し広げる」を扱っています。DeepSeek-V4.1フラッシュテクニカルレポートの詳細： CED、CSA 2、HSI、シングルパスmHC、Engram、FP 4 KVキャッシュ— KVキャッシュがトークンあたりわずか890バイトに圧縮された方法。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "titleJa": "LLM分類はフィーチャーエンジニアリング",
+        "summaryJa": "この記事は「LLM分類はフィーチャーエンジニアリング」を扱っています。LLMは優れた分類子を作りますが、さらに優れた機能を備えています。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
         "keyPoints": [
-          "この記事は「DeepSeek-v4.1フラッシュ： KVキャッシュ圧縮の限界を押し広げる」を扱っています。",
-          "DeepSeek-V4.1フラッシュテクニカルレポートの詳細： CED、CSA 2、HSI、シングルパスmHC、Engram、FP 4 KVキャッシュ— KVキャッシュがトークンあたりわずか890バイトに圧縮された方法。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+          "この記事は「LLM分類はフィーチャーエンジニアリング」を扱っています。",
+          "LLMは優れた分類子を作りますが、さらに優れた機能を備えています。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
       }
     ],
-    "fetchedAt": "2026-09-17T21:19:55.251Z",
+    "fetchedAt": "2026-09-18T04:40:37.755Z",
     "mock": false
   },
   "xTrends": {
-    "items": [
-      {
-        "topic": "AI著作物",
-        "locationLabel": "日本",
-        "bestRank": 41,
-        "appearances": 1,
-        "trendSource": "Trends24",
-        "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-09-17T21:19:55.239Z",
-        "url": "https://x.com/search?q=AI%E8%91%97%E4%BD%9C%E7%89%A9&src=typed_query&f=live",
-        "articleTitle": "AI著作物",
-        "articleTitleJa": "公開トレンド: AI著作物",
-        "articleUrl": "https://trends24.in/japan/",
-        "articleSource": "Trends24",
-        "articlePublishedAt": "2026-09-17T21:19:55.239Z",
-        "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
-        "translationVersion": 3,
-        "articleFallback": true
-      }
-    ],
-    "fetchedAt": "2026-09-17T21:19:55.251Z",
+    "items": [],
+    "fetchedAt": "2026-09-18T04:40:37.755Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-09-17T21:19:55.680Z"
+    "articleFetchedAt": "2026-09-18T04:40:38.021Z"
   }
 }
