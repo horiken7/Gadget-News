@@ -44,50 +44,30 @@
         ]
       },
       {
-        "title": "How GLM built its own inference infrastructure",
-        "url": "https://z.ai/blog/glm-built-its-inference-infrastructure",
+        "title": "How to Write with an LLM",
+        "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
         "points": 101,
-        "comments": 265,
-        "author": "whiteros_e",
-        "createdAt": "2026-09-17T08:27:09Z",
-        "domain": "z.ai",
+        "comments": 115,
+        "author": "joeriddles",
+        "createdAt": "2026-09-17T21:48:38Z",
+        "domain": "sockpuppet.org",
         "sourceType": "hn",
-        "category": "AIニュース",
+        "category": "AIモデル",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "GLMが独自の推論インフラストラクチャを構築した方法",
-        "summaryJa": "この記事は「GLMが独自の推論インフラストラクチャを構築した方法」を扱っています。z.aiが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "titleJa": "LLMで書く方法",
+        "summaryJa": "この記事は「LLMで書く方法」を扱っています。LLMがあなたの文章を低温殺菌するのを防ぐ2つのルール：それが示唆する単語を決して取らないこと、そしてそれがあなたを励ますことを決して許さないこと。それなら、面倒な作業はすべて手渡してください。",
         "keyPoints": [
-          "この記事は「GLMが独自の推論インフラストラクチャを構築した方法」を扱っています。",
-          "z.aiが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
-        ]
-      },
-      {
-        "title": "Bend – A language that blocks AI mistakes via proof, on CPU and GPU",
-        "url": "https://bend-lang.com/",
-        "points": 101,
-        "comments": 182,
-        "author": "nicolas-siplis",
-        "createdAt": "2026-09-17T20:36:13Z",
-        "domain": "bend-lang.com",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "Bend – CPUとGPU上で証明を介してAIの間違いをブロックする言語",
-        "summaryJa": "この記事は「Bend – CPUとGPU上で証明を介してAIの間違いをブロックする言語」を扱っています。Bend ：証明を介してAIの間違いをブロックする高速言語。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
-        "keyPoints": [
-          "この記事は「Bend – CPUとGPU上で証明を介してAIの間違いをブロックする言語」を扱っています。",
-          "Bend ：証明を介してAIの間違いをブロックする高速言語。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+          "この記事は「LLMで書く方法」を扱っています。",
+          "LLMがあなたの文章を低温殺菌するのを防ぐ2つのルール：それが示唆する単語を決して取らないこと、そしてそれがあなたを励ますことを決して許さないこと。",
+          "それなら、面倒な作業はすべて手渡してください。"
         ]
       },
       {
         "title": "LLM Classification Is Feature Engineering",
         "url": "https://minimallysufficient.com/posts/llm-classification-is-feature-extraction/",
-        "points": 93,
-        "comments": 19,
+        "points": 95,
+        "comments": 20,
         "author": "minsufficient",
         "createdAt": "2026-09-17T15:40:17Z",
         "domain": "minimallysufficient.com",
@@ -102,17 +82,37 @@
           "LLMは優れた分類子を作りますが、さらに優れた機能を備えています。",
           "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
+      },
+      {
+        "title": "Microsoft exec called AI scraping 'the largest theft of labor in human history'",
+        "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
+        "points": 91,
+        "comments": 62,
+        "author": "pluc",
+        "createdAt": "2026-09-18T09:45:07Z",
+        "domain": "techcrunch.com",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "マイクロソフトの幹部は、AIスクレイピングを「人類史上最大の労働窃盗」と呼んだ",
+        "summaryJa": "この記事は「マイクロソフトの幹部は、AIスクレイピングを「人類史上最大の労働窃盗」と呼んだ」を扱っています。新たに公開された裁判所のファイルによると、マイクロソフトは個人的にOpenAIのデータ慣行を「盗難」と呼んでいるが、両社は有料のタイムズのコンテンツをスクレイピングし、そこからデータセットを構築し、内部的にパブリッシャーに警告した。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "keyPoints": [
+          "この記事は「マイクロソフトの幹部は、AIスクレイピングを「人類史上最大の労働窃盗」と呼んだ」を扱っています。",
+          "新たに公開された裁判所のファイルによると、マイクロソフトは個人的にOpenAIのデータ慣行を「盗難」と呼んでいるが、両社は有料のタイムズのコンテンツをスクレイピングし、そこからデータセットを構築し、内部的にパブリッシャーに警告した。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+        ]
       }
     ],
-    "fetchedAt": "2026-09-18T04:40:37.755Z",
+    "fetchedAt": "2026-09-18T11:10:53.892Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-09-18T04:40:37.755Z",
+    "fetchedAt": "2026-09-18T11:10:53.892Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-09-18T04:40:38.021Z"
+    "articleFetchedAt": "2026-09-18T11:10:54.061Z"
   }
 }
