@@ -2,24 +2,24 @@
   "news": {
     "items": [
       {
-        "title": "Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia",
-        "url": "https://techcrunch.com/2026/09/17/huawei-plans-q1-2027-launch-of-new-ai-chip-as-it-takes-on-nvidia/",
+        "title": "Researchers used Anthropic’s Claude to hack into OpenAI",
+        "url": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/",
         "points": 133,
         "comments": 0,
         "author": "",
-        "createdAt": "2026-09-17T14:06:14.000Z",
+        "createdAt": "2026-09-18T14:00:14.000Z",
         "domain": "techcrunch.com",
         "sourceType": "rss",
         "sourceLabel": "TechCrunch AI",
         "newsLens": "一般",
-        "category": "ハードウェア",
+        "category": "AIモデル",
         "impact": "高",
-        "titleJa": "ファーウェイ、2027年第1四半期にNVIDIAに対応した新しいAIチップの発売を計画",
-        "summaryJa": "この記事は「ファーウェイ、2027年第1四半期にNVIDIAに対応した新しいAIチップの発売を計画」を扱っています。ファーウェイは、NVIDIAとの競争を推進し、米国との中国のAIコンピューティングギャップを埋めるため、次世代Ascend 960 DT AIチップの発売を加速している。一般向けには、AIがソフトウェアだけでなく、ロボットや端末など現実の製品に広がっている点が重要です。",
+        "titleJa": "研究者は、AnthropicのClaudeを使用してOpenAIをハッキングしました",
+        "summaryJa": "この記事は「研究者は、AnthropicのClaudeを使用してOpenAIをハッキングしました」を扱っています。セキュリティ研究者は、AnthropicのClaudeを使用してOpenAIのシステムの脆弱性を悪用し、従業員アカウントを乗っ取り、脆弱性を報告する前に内部コードリポジトリにアクセスしました。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
-          "この記事は「ファーウェイ、2027年第1四半期にNVIDIAに対応した新しいAIチップの発売を計画」を扱っています。",
-          "ファーウェイは、NVIDIAとの競争を推進し、米国との中国のAIコンピューティングギャップを埋めるため、次世代Ascend 960 DT AIチップの発売を加速している。",
-          "一般向けには、AIがソフトウェアだけでなく、ロボットや端末など現実の製品に広がっている点が重要です。"
+          "この記事は「研究者は、AnthropicのClaudeを使用してOpenAIをハッキングしました」を扱っています。",
+          "セキュリティ研究者は、AnthropicのClaudeを使用してOpenAIのシステムの脆弱性を悪用し、従業員アカウントを乗っ取り、脆弱性を報告する前に内部コードリポジトリにアクセスしました。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       },
       {
@@ -44,10 +44,30 @@
         ]
       },
       {
+        "title": "Launch HN: Skillsync (YC W26) – AI chat sessions made portable across agents",
+        "url": "https://news.ycombinator.com/item?id=49743049",
+        "points": 104,
+        "comments": 53,
+        "author": "cat-whisperer",
+        "createdAt": "2026-09-17T16:22:15Z",
+        "domain": "news.ycombinator.com",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "中",
+        "newsLens": "技術",
+        "titleJa": "HN: Skillsyncを起動(YC W 26) – AIチャットセッションをエージェント間でポータブルに",
+        "summaryJa": "この記事は「HN: Skillsyncを起動(YC W 26) – AIチャットセッションをエージェント間でポータブルに」を扱っています。Skillsyncを使用すると、すべてのコーディングエージェント間でAIチャットを移動できます。私たちの仕事のほとんどは会話として存在し、現在はエージェント全体に散らばっています。",
+        "keyPoints": [
+          "この記事は「HN: Skillsyncを起動(YC W 26) – AIチャットセッションをエージェント間でポータブルに」を扱っています。",
+          "Skillsyncを使用すると、すべてのコーディングエージェント間でAIチャットを移動できます。",
+          "私たちの仕事のほとんどは会話として存在し、現在はエージェント全体に散らばっています。"
+        ]
+      },
+      {
         "title": "How to Write with an LLM",
         "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
         "points": 101,
-        "comments": 115,
+        "comments": 177,
         "author": "joeriddles",
         "createdAt": "2026-09-17T21:48:38Z",
         "domain": "sockpuppet.org",
@@ -64,30 +84,10 @@
         ]
       },
       {
-        "title": "LLM Classification Is Feature Engineering",
-        "url": "https://minimallysufficient.com/posts/llm-classification-is-feature-extraction/",
-        "points": 95,
-        "comments": 20,
-        "author": "minsufficient",
-        "createdAt": "2026-09-17T15:40:17Z",
-        "domain": "minimallysufficient.com",
-        "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "LLM分類はフィーチャーエンジニアリング",
-        "summaryJa": "この記事は「LLM分類はフィーチャーエンジニアリング」を扱っています。LLMは優れた分類子を作りますが、さらに優れた機能を備えています。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
-        "keyPoints": [
-          "この記事は「LLM分類はフィーチャーエンジニアリング」を扱っています。",
-          "LLMは優れた分類子を作りますが、さらに優れた機能を備えています。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
-        ]
-      },
-      {
         "title": "Microsoft exec called AI scraping 'the largest theft of labor in human history'",
         "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
-        "points": 91,
-        "comments": 62,
+        "points": 93,
+        "comments": 575,
         "author": "pluc",
         "createdAt": "2026-09-18T09:45:07Z",
         "domain": "techcrunch.com",
@@ -104,15 +104,15 @@
         ]
       }
     ],
-    "fetchedAt": "2026-09-18T11:10:53.892Z",
+    "fetchedAt": "2026-09-18T16:22:22.027Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-09-18T11:10:53.892Z",
+    "fetchedAt": "2026-09-18T16:22:22.027Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-09-18T11:10:54.061Z"
+    "articleFetchedAt": "2026-09-18T16:22:22.254Z"
   }
 }
