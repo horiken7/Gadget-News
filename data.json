@@ -23,31 +23,51 @@
         ]
       },
       {
-        "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
-        "url": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
+        "title": "AI Hallucination Nearly Triggers US Military Operation",
+        "url": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/",
         "points": 107,
         "comments": 0,
         "author": "",
-        "createdAt": "2026-09-18T18:49:30.000Z",
+        "createdAt": "2026-09-18T23:12:32.000Z",
         "domain": "techcrunch.com",
         "sourceType": "rss",
         "sourceLabel": "TechCrunch AI",
         "newsLens": "一般",
+        "category": "AIニュース",
+        "impact": "高",
+        "titleJa": "AIの幻覚が米軍の作戦を引き起こす",
+        "summaryJa": "この記事は「AIの幻覚が米軍の作戦を引き起こす」を扱っています。「LLMに固有の不確実性を理解することは、サービスメンバーにとって重要です」とGovAIの研究者は警告しています。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "keyPoints": [
+          "この記事は「AIの幻覚が米軍の作戦を引き起こす」を扱っています。",
+          "「LLMに固有の不確実性を理解することは、サービスメンバーにとって重要です」とGovAIの研究者は警告しています。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+        ]
+      },
+      {
+        "title": "Claude Code now reads AGENTS.md if there is no Claude.md",
+        "url": "https://code.claude.com/docs/en/changelog",
+        "points": 101,
+        "comments": 135,
+        "author": "datadrivenangel",
+        "createdAt": "2026-09-18T21:00:32Z",
+        "domain": "code.claude.com",
+        "sourceType": "hn",
         "category": "AIモデル",
         "impact": "高",
-        "titleJa": "ChatGPTの発明者による新しい種類のAIモデルは、開発者を興奮させています",
-        "summaryJa": "この記事は「ChatGPTの発明者による新しい種類のAIモデルは、開発者を興奮させています」を扱っています。新しい種類のAIモデルであるJevは、ソフトウェアインテリジェンスへのより安価で迅速な道筋を開発者に示しています。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "newsLens": "技術",
+        "titleJa": "Claude.mdがない場合、Claude CodeはAGENTS.mdを読み取るようになりました",
+        "summaryJa": "この記事は「Claude.mdがない場合、Claude CodeはAGENTS.mdを読み取るようになりました」を扱っています。バージョン別の新機能、改善点、バグ修正など、Claude Codeのリリースノート。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
         "keyPoints": [
-          "この記事は「ChatGPTの発明者による新しい種類のAIモデルは、開発者を興奮させています」を扱っています。",
-          "新しい種類のAIモデルであるJevは、ソフトウェアインテリジェンスへのより安価で迅速な道筋を開発者に示しています。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+          "この記事は「Claude.mdがない場合、Claude CodeはAGENTS.mdを読み取るようになりました」を扱っています。",
+          "バージョン別の新機能、改善点、バグ修正など、Claude Codeのリリースノート。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
       },
       {
         "title": "Microsoft exec called AI scraping 'the largest theft of labor in human history'",
         "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
         "points": 93,
-        "comments": 717,
+        "comments": 752,
         "author": "pluc",
         "createdAt": "2026-09-18T09:45:07Z",
         "domain": "techcrunch.com",
@@ -64,30 +84,10 @@
         ]
       },
       {
-        "title": "Show HN: Scry, programmable internet search w/ congestion pricing",
-        "url": "https://scry.io/",
-        "points": 77,
-        "comments": 15,
-        "author": "Xyra",
-        "createdAt": "2026-09-17T23:15:57Z",
-        "domain": "scry.io",
-        "sourceType": "hn",
-        "category": "開発ツール",
-        "impact": "低",
-        "newsLens": "技術",
-        "titleJa": "HNを表示：渋滞料金を設定した、慌ただしい、プログラム可能なインターネット検索",
-        "summaryJa": "この記事は「HNを表示：渋滞料金を設定した、慌ただしい、プログラム可能なインターネット検索」を扱っています。ClickHouseの500 TB NVMeインターネットインデックスであるScryをご紹介します。このインデックスでは、任意の読み取り専用SQLとDatalogの一部を実行できます。",
-        "keyPoints": [
-          "この記事は「HNを表示：渋滞料金を設定した、慌ただしい、プログラム可能なインターネット検索」を扱っています。",
-          "ClickHouseの500 TB NVMeインターネットインデックスであるScryをご紹介します。",
-          "このインデックスでは、任意の読み取り専用SQLとDatalogの一部を実行できます。"
-        ]
-      },
-      {
         "title": "Anthropic finally adds AGENTS.md support to Claude Code",
         "url": "https://twitter.com/trq212/status/2101009392611278961",
-        "points": 77,
-        "comments": 4,
+        "points": 80,
+        "comments": 8,
         "author": "deaux",
         "createdAt": "2026-09-18T18:26:34Z",
         "domain": "twitter.com",
@@ -104,15 +104,34 @@
         ]
       }
     ],
-    "fetchedAt": "2026-09-18T20:53:03.487Z",
+    "fetchedAt": "2026-09-18T23:17:13.779Z",
     "mock": false
   },
   "xTrends": {
-    "items": [],
-    "fetchedAt": "2026-09-18T20:53:03.487Z",
+    "items": [
+      {
+        "topic": "#AI短剧",
+        "locationLabel": "カナダ",
+        "bestRank": 7,
+        "appearances": 2,
+        "trendSource": "Trends24",
+        "sourceUrl": "https://trends24.in/canada/",
+        "observedAt": "2026-09-18T23:17:13.657Z",
+        "url": "https://x.com/search?q=%23AI%E7%9F%AD%E5%89%A7&src=typed_query&f=live",
+        "articleTitle": "#AI短剧",
+        "articleTitleJa": "公開トレンド: #AI短剧",
+        "articleUrl": "https://trends24.in/canada/",
+        "articleSource": "Trends24",
+        "articlePublishedAt": "2026-09-18T23:17:13.657Z",
+        "summaryJa": "カナダのTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
+        "translationVersion": 3,
+        "articleFallback": true
+      }
+    ],
+    "fetchedAt": "2026-09-18T23:17:13.779Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-09-18T20:53:03.720Z"
+    "articleFetchedAt": "2026-09-18T23:17:14.363Z"
   }
 }
