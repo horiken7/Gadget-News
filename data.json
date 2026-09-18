@@ -23,71 +23,31 @@
         ]
       },
       {
-        "title": "Base Labs launches an open-weight AI safety partnership with Hugging Face and Goodfire",
-        "url": "https://techcrunch.com/2026/09/17/base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-face-and-goodfire/",
-        "points": 115,
+        "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
+        "url": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
+        "points": 107,
         "comments": 0,
         "author": "",
-        "createdAt": "2026-09-17T17:15:59.000Z",
+        "createdAt": "2026-09-18T18:49:30.000Z",
         "domain": "techcrunch.com",
         "sourceType": "rss",
         "sourceLabel": "TechCrunch AI",
         "newsLens": "一般",
-        "category": "AIニュース",
-        "impact": "高",
-        "titleJa": "Base Labsは、Hugging FaceとGoodfireとのオープンウェイトAI安全パートナーシップを開始",
-        "summaryJa": "この記事は「Base Labsは、Hugging FaceとGoodfireとのオープンウェイトAI安全パートナーシップを開始」を扱っています。Basetenが今年初めに立ち上げた研究グループであるBase Labsは、オープンモデルのトレーニングとモニタリングの方法を開発して公開します。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
-        "keyPoints": [
-          "この記事は「Base Labsは、Hugging FaceとGoodfireとのオープンウェイトAI安全パートナーシップを開始」を扱っています。",
-          "Basetenが今年初めに立ち上げた研究グループであるBase Labsは、オープンモデルのトレーニングとモニタリングの方法を開発して公開します。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
-        ]
-      },
-      {
-        "title": "Launch HN: Skillsync (YC W26) – AI chat sessions made portable across agents",
-        "url": "https://news.ycombinator.com/item?id=49743049",
-        "points": 104,
-        "comments": 53,
-        "author": "cat-whisperer",
-        "createdAt": "2026-09-17T16:22:15Z",
-        "domain": "news.ycombinator.com",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "中",
-        "newsLens": "技術",
-        "titleJa": "HN: Skillsyncを起動(YC W 26) – AIチャットセッションをエージェント間でポータブルに",
-        "summaryJa": "この記事は「HN: Skillsyncを起動(YC W 26) – AIチャットセッションをエージェント間でポータブルに」を扱っています。Skillsyncを使用すると、すべてのコーディングエージェント間でAIチャットを移動できます。私たちの仕事のほとんどは会話として存在し、現在はエージェント全体に散らばっています。",
-        "keyPoints": [
-          "この記事は「HN: Skillsyncを起動(YC W 26) – AIチャットセッションをエージェント間でポータブルに」を扱っています。",
-          "Skillsyncを使用すると、すべてのコーディングエージェント間でAIチャットを移動できます。",
-          "私たちの仕事のほとんどは会話として存在し、現在はエージェント全体に散らばっています。"
-        ]
-      },
-      {
-        "title": "How to Write with an LLM",
-        "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
-        "points": 101,
-        "comments": 177,
-        "author": "joeriddles",
-        "createdAt": "2026-09-17T21:48:38Z",
-        "domain": "sockpuppet.org",
-        "sourceType": "hn",
         "category": "AIモデル",
         "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "LLMで書く方法",
-        "summaryJa": "この記事は「LLMで書く方法」を扱っています。LLMがあなたの文章を低温殺菌するのを防ぐ2つのルール：それが示唆する単語を決して取らないこと、そしてそれがあなたを励ますことを決して許さないこと。それなら、面倒な作業はすべて手渡してください。",
+        "titleJa": "ChatGPTの発明者による新しい種類のAIモデルは、開発者を興奮させています",
+        "summaryJa": "この記事は「ChatGPTの発明者による新しい種類のAIモデルは、開発者を興奮させています」を扱っています。新しい種類のAIモデルであるJevは、ソフトウェアインテリジェンスへのより安価で迅速な道筋を開発者に示しています。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
-          "この記事は「LLMで書く方法」を扱っています。",
-          "LLMがあなたの文章を低温殺菌するのを防ぐ2つのルール：それが示唆する単語を決して取らないこと、そしてそれがあなたを励ますことを決して許さないこと。",
-          "それなら、面倒な作業はすべて手渡してください。"
+          "この記事は「ChatGPTの発明者による新しい種類のAIモデルは、開発者を興奮させています」を扱っています。",
+          "新しい種類のAIモデルであるJevは、ソフトウェアインテリジェンスへのより安価で迅速な道筋を開発者に示しています。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       },
       {
         "title": "Microsoft exec called AI scraping 'the largest theft of labor in human history'",
         "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
         "points": 93,
-        "comments": 575,
+        "comments": 717,
         "author": "pluc",
         "createdAt": "2026-09-18T09:45:07Z",
         "domain": "techcrunch.com",
@@ -102,17 +62,57 @@
           "新たに公開された裁判所のファイルによると、マイクロソフトは個人的にOpenAIのデータ慣行を「盗難」と呼んでいるが、両社は有料のタイムズのコンテンツをスクレイピングし、そこからデータセットを構築し、内部的にパブリッシャーに警告した。",
           "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
+      },
+      {
+        "title": "Show HN: Scry, programmable internet search w/ congestion pricing",
+        "url": "https://scry.io/",
+        "points": 77,
+        "comments": 15,
+        "author": "Xyra",
+        "createdAt": "2026-09-17T23:15:57Z",
+        "domain": "scry.io",
+        "sourceType": "hn",
+        "category": "開発ツール",
+        "impact": "低",
+        "newsLens": "技術",
+        "titleJa": "HNを表示：渋滞料金を設定した、慌ただしい、プログラム可能なインターネット検索",
+        "summaryJa": "この記事は「HNを表示：渋滞料金を設定した、慌ただしい、プログラム可能なインターネット検索」を扱っています。ClickHouseの500 TB NVMeインターネットインデックスであるScryをご紹介します。このインデックスでは、任意の読み取り専用SQLとDatalogの一部を実行できます。",
+        "keyPoints": [
+          "この記事は「HNを表示：渋滞料金を設定した、慌ただしい、プログラム可能なインターネット検索」を扱っています。",
+          "ClickHouseの500 TB NVMeインターネットインデックスであるScryをご紹介します。",
+          "このインデックスでは、任意の読み取り専用SQLとDatalogの一部を実行できます。"
+        ]
+      },
+      {
+        "title": "Anthropic finally adds AGENTS.md support to Claude Code",
+        "url": "https://twitter.com/trq212/status/2101009392611278961",
+        "points": 77,
+        "comments": 4,
+        "author": "deaux",
+        "createdAt": "2026-09-18T18:26:34Z",
+        "domain": "twitter.com",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "低",
+        "newsLens": "技術",
+        "titleJa": "AnthropicがついにClaude CodeにAGENTS.mdサポートを追加",
+        "summaryJa": "この記事は「AnthropicがついにClaude CodeにAGENTS.mdサポートを追加」を扱っています。Claude CodeにAGENTS.mdのサポートを追加します。今日のバージョン2.1.277から、フォルダーにCLAUDE.mdがない場合、ClaudeはAGENTS.mdをチェックして使用します。",
+        "keyPoints": [
+          "この記事は「AnthropicがついにClaude CodeにAGENTS.mdサポートを追加」を扱っています。",
+          "Claude CodeにAGENTS.mdのサポートを追加します。",
+          "今日のバージョン2.1.277から、フォルダーにCLAUDE.mdがない場合、ClaudeはAGENTS.mdをチェックして使用します。"
+        ]
       }
     ],
-    "fetchedAt": "2026-09-18T16:22:22.027Z",
+    "fetchedAt": "2026-09-18T20:53:03.487Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-09-18T16:22:22.027Z",
+    "fetchedAt": "2026-09-18T20:53:03.487Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-09-18T16:22:22.254Z"
+    "articleFetchedAt": "2026-09-18T20:53:03.720Z"
   }
 }
