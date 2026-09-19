@@ -23,7 +23,47 @@
         ]
       },
       {
-        "title": "AI Hallucination Nearly Triggers US Military Operation",
+        "title": "The Implications of Linguistic Illegibility for LLM Security",
+        "url": "https://arxiv.org/abs/2609.02852",
+        "points": 130,
+        "comments": 22,
+        "author": "tomjakubowski",
+        "createdAt": "2026-09-18T19:00:06Z",
+        "domain": "arxiv.org",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "低",
+        "newsLens": "技術",
+        "titleJa": "LLMセキュリティに対する言語的非判読性の影響",
+        "summaryJa": "この記事は「LLMセキュリティに対する言語的非判読性の影響」を扱っています。ArXiv論文の要約ページ2609.02852 ： LLMセキュリティに対する言語的非判読性の影響。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "keyPoints": [
+          "この記事は「LLMセキュリティに対する言語的非判読性の影響」を扱っています。",
+          "ArXiv論文の要約ページ2609.02852 ： LLMセキュリティに対する言語的非判読性の影響。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+        ]
+      },
+      {
+        "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
+        "url": "https://spectrum.ieee.org/llms-for-chip-design",
+        "points": 109,
+        "comments": 67,
+        "author": "maxall4",
+        "createdAt": "2026-09-18T23:04:17Z",
+        "domain": "spectrum.ieee.org",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "中",
+        "newsLens": "技術",
+        "titleJa": "OpenAIが独自のLLMを使用してハラペーニョチップを設計した方法",
+        "summaryJa": "この記事は「OpenAIが独自のLLMを使用してハラペーニョチップを設計した方法」を扱っています。AIは設計時間を大幅に短縮しました。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "keyPoints": [
+          "この記事は「OpenAIが独自のLLMを使用してハラペーニョチップを設計した方法」を扱っています。",
+          "AIは設計時間を大幅に短縮しました。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+        ]
+      },
+      {
+        "title": "AI hallucination nearly triggers US military operation",
         "url": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/",
         "points": 107,
         "comments": 0,
@@ -47,7 +87,7 @@
         "title": "Claude Code now reads AGENTS.md if there is no Claude.md",
         "url": "https://code.claude.com/docs/en/changelog",
         "points": 101,
-        "comments": 135,
+        "comments": 203,
         "author": "datadrivenangel",
         "createdAt": "2026-09-18T21:00:32Z",
         "domain": "code.claude.com",
@@ -62,49 +102,9 @@
           "バージョン別の新機能、改善点、バグ修正など、Claude Codeのリリースノート。",
           "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
-      },
-      {
-        "title": "Microsoft exec called AI scraping 'the largest theft of labor in human history'",
-        "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
-        "points": 93,
-        "comments": 752,
-        "author": "pluc",
-        "createdAt": "2026-09-18T09:45:07Z",
-        "domain": "techcrunch.com",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "マイクロソフトの幹部は、AIスクレイピングを「人類史上最大の労働窃盗」と呼んだ",
-        "summaryJa": "この記事は「マイクロソフトの幹部は、AIスクレイピングを「人類史上最大の労働窃盗」と呼んだ」を扱っています。新たに公開された裁判所のファイルによると、マイクロソフトは個人的にOpenAIのデータ慣行を「盗難」と呼んでいるが、両社は有料のタイムズのコンテンツをスクレイピングし、そこからデータセットを構築し、内部的にパブリッシャーに警告した。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
-        "keyPoints": [
-          "この記事は「マイクロソフトの幹部は、AIスクレイピングを「人類史上最大の労働窃盗」と呼んだ」を扱っています。",
-          "新たに公開された裁判所のファイルによると、マイクロソフトは個人的にOpenAIのデータ慣行を「盗難」と呼んでいるが、両社は有料のタイムズのコンテンツをスクレイピングし、そこからデータセットを構築し、内部的にパブリッシャーに警告した。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
-        ]
-      },
-      {
-        "title": "Anthropic finally adds AGENTS.md support to Claude Code",
-        "url": "https://twitter.com/trq212/status/2101009392611278961",
-        "points": 80,
-        "comments": 8,
-        "author": "deaux",
-        "createdAt": "2026-09-18T18:26:34Z",
-        "domain": "twitter.com",
-        "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "低",
-        "newsLens": "技術",
-        "titleJa": "AnthropicがついにClaude CodeにAGENTS.mdサポートを追加",
-        "summaryJa": "この記事は「AnthropicがついにClaude CodeにAGENTS.mdサポートを追加」を扱っています。Claude CodeにAGENTS.mdのサポートを追加します。今日のバージョン2.1.277から、フォルダーにCLAUDE.mdがない場合、ClaudeはAGENTS.mdをチェックして使用します。",
-        "keyPoints": [
-          "この記事は「AnthropicがついにClaude CodeにAGENTS.mdサポートを追加」を扱っています。",
-          "Claude CodeにAGENTS.mdのサポートを追加します。",
-          "今日のバージョン2.1.277から、フォルダーにCLAUDE.mdがない場合、ClaudeはAGENTS.mdをチェックして使用します。"
-        ]
       }
     ],
-    "fetchedAt": "2026-09-18T23:17:13.779Z",
+    "fetchedAt": "2026-09-19T04:35:06.904Z",
     "mock": false
   },
   "xTrends": {
@@ -112,26 +112,26 @@
       {
         "topic": "#AI短剧",
         "locationLabel": "カナダ",
-        "bestRank": 7,
+        "bestRank": 17,
         "appearances": 2,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/canada/",
-        "observedAt": "2026-09-18T23:17:13.657Z",
+        "observedAt": "2026-09-19T04:35:06.860Z",
         "url": "https://x.com/search?q=%23AI%E7%9F%AD%E5%89%A7&src=typed_query&f=live",
         "articleTitle": "#AI短剧",
         "articleTitleJa": "公開トレンド: #AI短剧",
         "articleUrl": "https://trends24.in/canada/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-09-18T23:17:13.657Z",
+        "articlePublishedAt": "2026-09-19T04:35:06.860Z",
         "summaryJa": "カナダのTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
       }
     ],
-    "fetchedAt": "2026-09-18T23:17:13.779Z",
+    "fetchedAt": "2026-09-19T04:35:06.904Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-09-18T23:17:14.363Z"
+    "articleFetchedAt": "2026-09-19T04:35:07.430Z"
   }
 }
