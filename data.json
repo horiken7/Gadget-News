@@ -2,30 +2,10 @@
   "news": {
     "items": [
       {
-        "title": "The Implications of Linguistic Illegibility for LLM Security",
-        "url": "https://arxiv.org/abs/2609.02852",
-        "points": 134,
-        "comments": 28,
-        "author": "tomjakubowski",
-        "createdAt": "2026-09-18T19:00:06Z",
-        "domain": "arxiv.org",
-        "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "中",
-        "newsLens": "技術",
-        "titleJa": "LLMセキュリティに対する言語的非判読性の影響",
-        "summaryJa": "この記事は「LLMセキュリティに対する言語的非判読性の影響」を扱っています。ArXiv論文の要約ページ2609.02852 ： LLMセキュリティに対する言語的非判読性の影響。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
-        "keyPoints": [
-          "この記事は「LLMセキュリティに対する言語的非判読性の影響」を扱っています。",
-          "ArXiv論文の要約ページ2609.02852 ： LLMセキュリティに対する言語的非判読性の影響。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
-        ]
-      },
-      {
         "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
         "url": "https://spectrum.ieee.org/llms-for-chip-design",
         "points": 121,
-        "comments": 118,
+        "comments": 128,
         "author": "maxall4",
         "createdAt": "2026-09-18T23:04:17Z",
         "domain": "spectrum.ieee.org",
@@ -39,6 +19,27 @@
           "この記事は「OpenAIが独自のLLMを使用してハラペーニョチップを設計した方法」を扱っています。",
           "AIは設計時間を大幅に短縮しました。",
           "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+        ]
+      },
+      {
+        "title": "Google’s Gemini is the latest AI model to hack other companies",
+        "url": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
+        "points": 107,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-09-19T17:30:00.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
+        "category": "AIモデル",
+        "impact": "高",
+        "titleJa": "GoogleのGeminiは、他の企業をハッキングする最新のAIモデルです",
+        "summaryJa": "この記事は「GoogleのGeminiは、他の企業をハッキングする最新のAIモデルです」を扱っています。Googleは、Geminiが各ハッキングを直ちに終了することで「適切に行動した」と述べた。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "keyPoints": [
+          "この記事は「GoogleのGeminiは、他の企業をハッキングする最新のAIモデルです」を扱っています。",
+          "Googleは、Geminiが各ハッキングを直ちに終了することで「適切に行動した」と述べた。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       },
       {
@@ -63,31 +64,10 @@
         ]
       },
       {
-        "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
-        "url": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
-        "points": 107,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-09-18T18:49:30.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
-        "category": "AIモデル",
-        "impact": "高",
-        "titleJa": "ChatGPTの発明者による新しい種類のAIモデルは、開発者を興奮させています",
-        "summaryJa": "この記事は「ChatGPTの発明者による新しい種類のAIモデルは、開発者を興奮させています」を扱っています。新しい種類のAIモデルであるJevは、ソフトウェアインテリジェンスへのより安価で迅速な道筋を開発者に示しています。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
-        "keyPoints": [
-          "この記事は「ChatGPTの発明者による新しい種類のAIモデルは、開発者を興奮させています」を扱っています。",
-          "新しい種類のAIモデルであるJevは、ソフトウェアインテリジェンスへのより安価で迅速な道筋を開発者に示しています。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
-        ]
-      },
-      {
         "title": "Claude Code now reads AGENTS.md if there is no Claude.md",
         "url": "https://code.claude.com/docs/en/changelog",
         "points": 101,
-        "comments": 256,
+        "comments": 263,
         "author": "datadrivenangel",
         "createdAt": "2026-09-18T21:00:32Z",
         "domain": "code.claude.com",
@@ -102,36 +82,89 @@
           "バージョン別の新機能、改善点、バグ修正など、Claude Codeのリリースノート。",
           "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
+      },
+      {
+        "title": "Gemini hacked three companies in first known breakout by Google's AI",
+        "url": "https://www.reuters.com/business/gemini-hacked-three-companies-first-known-breakout-by-google-ai-wsj-reports-2026-09-18/",
+        "points": 79,
+        "comments": 68,
+        "author": "usernomdeguerre",
+        "createdAt": "2026-09-19T01:40:35Z",
+        "domain": "reuters.com",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "中",
+        "newsLens": "技術",
+        "titleJa": "Geminiは、GoogleのAIによって最初に知られているブレイクアウトで3つの会社をハッキングしました",
+        "summaryJa": "この記事は「Geminiは、GoogleのAIによって最初に知られているブレイクアウトで3つの会社をハッキングしました」を扱っています。reuters.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "keyPoints": [
+          "この記事は「Geminiは、GoogleのAIによって最初に知られているブレイクアウトで3つの会社をハッキングしました」を扱っています。",
+          "reuters.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+        ]
       }
     ],
-    "fetchedAt": "2026-09-19T15:51:40.896Z",
+    "fetchedAt": "2026-09-19T20:37:22.972Z",
     "mock": false
   },
   "xTrends": {
     "items": [
       {
-        "topic": "#AI短剧",
-        "locationLabel": "カナダ",
-        "bestRank": 17,
+        "topic": "AI Force",
+        "locationLabel": "米国",
+        "bestRank": 10,
+        "appearances": 4,
+        "trendSource": "Trends24",
+        "sourceUrl": "https://trends24.in/united-states/",
+        "observedAt": "2026-09-19T20:37:22.953Z",
+        "url": "https://x.com/search?q=AI%20Force&src=typed_query&f=live",
+        "articleTitle": "MIT creates method to force AI to comply with safety rules",
+        "articleTitleJa": "MITは、AIが安全規則を遵守するように強制する方法を作成します",
+        "articleUrl": "https://theframenews.org/en/hardflow-safety-critical-ai/",
+        "articleSource": "theframenews.org",
+        "articlePublishedAt": "2026-09-14T16:18:17Z",
+        "summaryJa": "MITで開発されたHardFlowは、モデルを再トレーニングすることなく、シミュレートされたロボット工学とイメージングテストで厳格な安全規則を満たすように生成AI出力を強制しました。",
+        "translationVersion": 3
+      },
+      {
+        "topic": "Artificial Intelligence",
+        "locationLabel": "米国",
+        "bestRank": 35,
+        "appearances": 3,
+        "trendSource": "Trends24",
+        "sourceUrl": "https://trends24.in/united-states/",
+        "observedAt": "2026-09-19T20:37:22.953Z",
+        "url": "https://x.com/search?q=Artificial%20Intelligence&src=typed_query&f=live",
+        "articleTitle": "The Malicious Use of Artificial Intelligence",
+        "articleTitleJa": "人工知能の悪意のある使用",
+        "articleUrl": "https://arxiv.org/abs/1802.07228",
+        "articleSource": "arxiv.org",
+        "articlePublishedAt": "2026-09-14T01:22:35Z",
+        "summaryJa": "ArXiv論文の要約ページ1802.07228 ：人工知能の悪意のある使用：予測、予防、および緩和",
+        "translationVersion": 3
+      },
+      {
+        "topic": "AI Czar",
+        "locationLabel": "米国",
+        "bestRank": 43,
         "appearances": 2,
         "trendSource": "Trends24",
-        "sourceUrl": "https://trends24.in/canada/",
-        "observedAt": "2026-09-19T15:51:40.736Z",
-        "url": "https://x.com/search?q=%23AI%E7%9F%AD%E5%89%A7&src=typed_query&f=live",
-        "articleTitle": "#AI短剧",
-        "articleTitleJa": "公開トレンド: #AI短剧",
-        "articleUrl": "https://trends24.in/canada/",
-        "articleSource": "Trends24",
-        "articlePublishedAt": "2026-09-19T15:51:40.736Z",
-        "summaryJa": "カナダのTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
-        "translationVersion": 3,
-        "articleFallback": true
+        "sourceUrl": "https://trends24.in/united-states/",
+        "observedAt": "2026-09-19T20:37:22.953Z",
+        "url": "https://x.com/search?q=AI%20Czar&src=typed_query&f=live",
+        "articleTitle": "Cartesian – AI 3D Modeling for Design",
+        "articleTitleJa": "デカルト–デザインのためのAI 3 Dモデリング",
+        "articleUrl": "https://www.formas.ai/cartesian",
+        "articleSource": "formas.ai",
+        "articlePublishedAt": "2026-09-15T15:26:45Z",
+        "summaryJa": "単語、スケッチ、参照を編集可能な3 Dモデルに変換します。建築と製品デザインのためにFormasのCartesianを探索してください。待機リストのプレビューに参加しましょう。",
+        "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-09-19T15:51:40.896Z",
+    "fetchedAt": "2026-09-19T20:37:22.972Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-09-19T15:51:41.331Z"
+    "articleFetchedAt": "2026-09-19T20:37:30.534Z"
   }
 }
