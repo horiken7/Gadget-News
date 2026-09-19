@@ -2,6 +2,26 @@
   "news": {
     "items": [
       {
+        "title": "The Implications of Linguistic Illegibility for LLM Security",
+        "url": "https://arxiv.org/abs/2609.02852",
+        "points": 133,
+        "comments": 28,
+        "author": "tomjakubowski",
+        "createdAt": "2026-09-18T19:00:06Z",
+        "domain": "arxiv.org",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "中",
+        "newsLens": "技術",
+        "titleJa": "LLMセキュリティに対する言語的非判読性の影響",
+        "summaryJa": "この記事は「LLMセキュリティに対する言語的非判読性の影響」を扱っています。ArXiv論文の要約ページ2609.02852 ： LLMセキュリティに対する言語的非判読性の影響。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "keyPoints": [
+          "この記事は「LLMセキュリティに対する言語的非判読性の影響」を扱っています。",
+          "ArXiv論文の要約ページ2609.02852 ： LLMセキュリティに対する言語的非判読性の影響。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+        ]
+      },
+      {
         "title": "Researchers used Anthropic’s Claude to hack into OpenAI",
         "url": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/",
         "points": 133,
@@ -23,36 +43,16 @@
         ]
       },
       {
-        "title": "The Implications of Linguistic Illegibility for LLM Security",
-        "url": "https://arxiv.org/abs/2609.02852",
-        "points": 130,
-        "comments": 22,
-        "author": "tomjakubowski",
-        "createdAt": "2026-09-18T19:00:06Z",
-        "domain": "arxiv.org",
-        "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "低",
-        "newsLens": "技術",
-        "titleJa": "LLMセキュリティに対する言語的非判読性の影響",
-        "summaryJa": "この記事は「LLMセキュリティに対する言語的非判読性の影響」を扱っています。ArXiv論文の要約ページ2609.02852 ： LLMセキュリティに対する言語的非判読性の影響。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
-        "keyPoints": [
-          "この記事は「LLMセキュリティに対する言語的非判読性の影響」を扱っています。",
-          "ArXiv論文の要約ページ2609.02852 ： LLMセキュリティに対する言語的非判読性の影響。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
-        ]
-      },
-      {
         "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
         "url": "https://spectrum.ieee.org/llms-for-chip-design",
-        "points": 109,
-        "comments": 67,
+        "points": 121,
+        "comments": 92,
         "author": "maxall4",
         "createdAt": "2026-09-18T23:04:17Z",
         "domain": "spectrum.ieee.org",
         "sourceType": "hn",
         "category": "AIモデル",
-        "impact": "中",
+        "impact": "高",
         "newsLens": "技術",
         "titleJa": "OpenAIが独自のLLMを使用してハラペーニョチップを設計した方法",
         "summaryJa": "この記事は「OpenAIが独自のLLMを使用してハラペーニョチップを設計した方法」を扱っています。AIは設計時間を大幅に短縮しました。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
@@ -87,7 +87,7 @@
         "title": "Claude Code now reads AGENTS.md if there is no Claude.md",
         "url": "https://code.claude.com/docs/en/changelog",
         "points": 101,
-        "comments": 203,
+        "comments": 237,
         "author": "datadrivenangel",
         "createdAt": "2026-09-18T21:00:32Z",
         "domain": "code.claude.com",
@@ -104,7 +104,7 @@
         ]
       }
     ],
-    "fetchedAt": "2026-09-19T04:35:06.904Z",
+    "fetchedAt": "2026-09-19T10:55:32.253Z",
     "mock": false
   },
   "xTrends": {
@@ -116,22 +116,22 @@
         "appearances": 2,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/canada/",
-        "observedAt": "2026-09-19T04:35:06.860Z",
+        "observedAt": "2026-09-19T10:55:32.214Z",
         "url": "https://x.com/search?q=%23AI%E7%9F%AD%E5%89%A7&src=typed_query&f=live",
         "articleTitle": "#AI短剧",
         "articleTitleJa": "公開トレンド: #AI短剧",
         "articleUrl": "https://trends24.in/canada/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-09-19T04:35:06.860Z",
+        "articlePublishedAt": "2026-09-19T10:55:32.214Z",
         "summaryJa": "カナダのTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
       }
     ],
-    "fetchedAt": "2026-09-19T04:35:06.904Z",
+    "fetchedAt": "2026-09-19T10:55:32.253Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-09-19T04:35:07.430Z"
+    "articleFetchedAt": "2026-09-19T10:55:32.645Z"
   }
 }
