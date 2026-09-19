@@ -5,7 +5,7 @@
         "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
         "url": "https://spectrum.ieee.org/llms-for-chip-design",
         "points": 121,
-        "comments": 128,
+        "comments": 132,
         "author": "maxall4",
         "createdAt": "2026-09-18T23:04:17Z",
         "domain": "spectrum.ieee.org",
@@ -64,30 +64,30 @@
         ]
       },
       {
-        "title": "Claude Code now reads AGENTS.md if there is no Claude.md",
-        "url": "https://code.claude.com/docs/en/changelog",
-        "points": 101,
-        "comments": 263,
-        "author": "datadrivenangel",
-        "createdAt": "2026-09-18T21:00:32Z",
-        "domain": "code.claude.com",
+        "title": "Show HN: CUA-S1 – A System One Model for Computer Use",
+        "url": "https://github.com/trycua/cua",
+        "points": 81,
+        "comments": 5,
+        "author": "frabonacci",
+        "createdAt": "2026-09-19T15:52:51Z",
+        "domain": "github.com",
         "sourceType": "hn",
         "category": "AIモデル",
-        "impact": "高",
+        "impact": "低",
         "newsLens": "技術",
-        "titleJa": "Claude.mdがない場合、Claude CodeはAGENTS.mdを読み取るようになりました",
-        "summaryJa": "この記事は「Claude.mdがない場合、Claude CodeはAGENTS.mdを読み取るようになりました」を扱っています。バージョン別の新機能、改善点、バグ修正など、Claude Codeのリリースノート。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "titleJa": "HNを表示： CUA – S 1 -コンピュータ使用のためのシステムワンモデル",
+        "summaryJa": "この記事は「HNを表示： CUA – S 1 -コンピュータ使用のためのシステムワンモデル」を扱っています。私たちは、すべての意思決定とステップを考えるために、実際には完全な汎用LLM （例： gpt -6 - astra、claude - opus -5など）が必要なコンピュータ使用タスクがいくつあるか疑問に思っていました。一部のタスクでは、計画を考え、さまざまな道を模索し、失敗から回復する必要があります。",
         "keyPoints": [
-          "この記事は「Claude.mdがない場合、Claude CodeはAGENTS.mdを読み取るようになりました」を扱っています。",
-          "バージョン別の新機能、改善点、バグ修正など、Claude Codeのリリースノート。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+          "この記事は「HNを表示： CUA – S 1 -コンピュータ使用のためのシステムワンモデル」を扱っています。",
+          "私たちは、すべての意思決定とステップを考えるために、実際には完全な汎用LLM （例： gpt -6 - astra、claude - opus -5など）が必要なコンピュータ使用タスクがいくつあるか疑問に思っていました。",
+          "一部のタスクでは、計画を考え、さまざまな道を模索し、失敗から回復する必要があります。"
         ]
       },
       {
         "title": "Gemini hacked three companies in first known breakout by Google's AI",
         "url": "https://www.reuters.com/business/gemini-hacked-three-companies-first-known-breakout-by-google-ai-wsj-reports-2026-09-18/",
         "points": 79,
-        "comments": 68,
+        "comments": 69,
         "author": "usernomdeguerre",
         "createdAt": "2026-09-19T01:40:35Z",
         "domain": "reuters.com",
@@ -104,7 +104,7 @@
         ]
       }
     ],
-    "fetchedAt": "2026-09-19T20:37:22.972Z",
+    "fetchedAt": "2026-09-19T23:01:45.625Z",
     "mock": false
   },
   "xTrends": {
@@ -112,11 +112,11 @@
       {
         "topic": "AI Force",
         "locationLabel": "米国",
-        "bestRank": 10,
-        "appearances": 4,
+        "bestRank": 11,
+        "appearances": 7,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-09-19T20:37:22.953Z",
+        "observedAt": "2026-09-19T23:01:45.515Z",
         "url": "https://x.com/search?q=AI%20Force&src=typed_query&f=live",
         "articleTitle": "MIT creates method to force AI to comply with safety rules",
         "articleTitleJa": "MITは、AIが安全規則を遵守するように強制する方法を作成します",
@@ -133,7 +133,7 @@
         "appearances": 3,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-09-19T20:37:22.953Z",
+        "observedAt": "2026-09-19T23:01:45.515Z",
         "url": "https://x.com/search?q=Artificial%20Intelligence&src=typed_query&f=live",
         "articleTitle": "The Malicious Use of Artificial Intelligence",
         "articleTitleJa": "人工知能の悪意のある使用",
@@ -147,10 +147,10 @@
         "topic": "AI Czar",
         "locationLabel": "米国",
         "bestRank": 43,
-        "appearances": 2,
+        "appearances": 3,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-09-19T20:37:22.953Z",
+        "observedAt": "2026-09-19T23:01:45.515Z",
         "url": "https://x.com/search?q=AI%20Czar&src=typed_query&f=live",
         "articleTitle": "Cartesian – AI 3D Modeling for Design",
         "articleTitleJa": "デカルト–デザインのためのAI 3 Dモデリング",
@@ -161,10 +161,10 @@
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-09-19T20:37:22.972Z",
+    "fetchedAt": "2026-09-19T23:01:45.625Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-09-19T20:37:30.534Z"
+    "articleFetchedAt": "2026-09-19T23:01:53.025Z"
   }
 }
