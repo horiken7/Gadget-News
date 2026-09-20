@@ -46,7 +46,7 @@
       {
         "title": "Show HN: CUA-S1 – A System One Model for Computer Use",
         "url": "https://github.com/trycua/cua",
-        "points": 87,
+        "points": 89,
         "comments": 8,
         "author": "frabonacci",
         "createdAt": "2026-09-19T15:52:51Z",
@@ -67,7 +67,7 @@
         "title": "I think you should almost never use AI to write",
         "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
         "points": 73,
-        "comments": 136,
+        "comments": 149,
         "author": "erwald",
         "createdAt": "2026-09-19T16:35:24Z",
         "domain": "erichgrunewald.substack.com",
@@ -87,7 +87,7 @@
         "title": "Microsoft director: AI scraping 'the largest theft of labor in human history'",
         "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
         "points": 73,
-        "comments": 44,
+        "comments": 47,
         "author": "jonbaer",
         "createdAt": "2026-09-19T18:21:30Z",
         "domain": "tomshardware.com",
@@ -104,7 +104,7 @@
         ]
       }
     ],
-    "fetchedAt": "2026-09-20T04:51:38.504Z",
+    "fetchedAt": "2026-09-20T11:19:36.563Z",
     "mock": false
   },
   "xTrends": {
@@ -116,7 +116,7 @@
         "appearances": 8,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-09-20T04:51:38.432Z",
+        "observedAt": "2026-09-20T11:19:36.543Z",
         "url": "https://x.com/search?q=AI%20Force&src=typed_query&f=live",
         "articleTitle": "MIT creates method to force AI to comply with safety rules",
         "articleTitleJa": "MITは、AIが安全規則を遵守するように強制する方法を作成します",
@@ -133,7 +133,7 @@
         "appearances": 3,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-09-20T04:51:38.432Z",
+        "observedAt": "2026-09-20T11:19:36.543Z",
         "url": "https://x.com/search?q=Artificial%20Intelligence&src=typed_query&f=live",
         "articleTitle": "The Malicious Use of Artificial Intelligence",
         "articleTitleJa": "人工知能の悪意のある使用",
@@ -150,7 +150,7 @@
         "appearances": 3,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-09-20T04:51:38.432Z",
+        "observedAt": "2026-09-20T11:19:36.543Z",
         "url": "https://x.com/search?q=AI%20Czar&src=typed_query&f=live",
         "articleTitle": "Trump appointing an AI czar amid concerns over the rapidly developing tech",
         "articleTitleJa": "急速に発展している技術に対する懸念の中で、トランプはAIの皇帝を任命しました",
@@ -161,10 +161,10 @@
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-09-20T04:51:38.504Z",
+    "fetchedAt": "2026-09-20T11:19:36.563Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-09-20T04:51:45.403Z"
+    "articleFetchedAt": "2026-09-20T11:19:44.654Z"
   }
 }
