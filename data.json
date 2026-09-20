@@ -44,30 +44,30 @@
         ]
       },
       {
-        "title": "Show HN: CUA-S1 – A System One Model for Computer Use",
-        "url": "https://github.com/trycua/cua",
-        "points": 89,
-        "comments": 8,
-        "author": "frabonacci",
-        "createdAt": "2026-09-19T15:52:51Z",
-        "domain": "github.com",
+        "title": "If AI coding is lowering your code quality, you're not managing quality right",
+        "url": "https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code",
+        "points": 84,
+        "comments": 101,
+        "author": "bucket2015",
+        "createdAt": "2026-09-20T11:37:10Z",
+        "domain": "i-kh.net",
         "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "中",
+        "category": "開発ツール",
+        "impact": "低",
         "newsLens": "技術",
-        "titleJa": "HNを表示： CUA – S 1 -コンピュータ使用のためのシステムワンモデル",
-        "summaryJa": "この記事は「HNを表示： CUA – S 1 -コンピュータ使用のためのシステムワンモデル」を扱っています。私たちは、すべての意思決定とステップを考えるために、実際には完全な汎用LLM （例： gpt -6 - astra、claude - opus -5など）が必要なコンピュータ使用タスクがいくつあるか疑問に思っていました。一部のタスクでは、計画を考え、さまざまな道を模索し、失敗から回復する必要があります。",
+        "titleJa": "AIコーディングがコードの品質を低下させている場合は、品質を適切に管理していません",
+        "summaryJa": "この記事は「AIコーディングがコードの品質を低下させている場合は、品質を適切に管理していません」を扱っています。私が見たコーディングエージェントに対する一般的な考え方は次のようなものです。「確かに、AIはより多くのコードを出力するのに役立ちますが、品質は損なわれませんか？",
         "keyPoints": [
-          "この記事は「HNを表示： CUA – S 1 -コンピュータ使用のためのシステムワンモデル」を扱っています。",
-          "私たちは、すべての意思決定とステップを考えるために、実際には完全な汎用LLM （例： gpt -6 - astra、claude - opus -5など）が必要なコンピュータ使用タスクがいくつあるか疑問に思っていました。",
-          "一部のタスクでは、計画を考え、さまざまな道を模索し、失敗から回復する必要があります。"
+          "この記事は「AIコーディングがコードの品質を低下させている場合は、品質を適切に管理していません」を扱っています。",
+          "私が見たコーディングエージェントに対する一般的な考え方は次のようなものです。",
+          "「確かに、AIはより多くのコードを出力するのに役立ちますが、品質は損なわれませんか。"
         ]
       },
       {
         "title": "I think you should almost never use AI to write",
         "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
         "points": 73,
-        "comments": 149,
+        "comments": 156,
         "author": "erwald",
         "createdAt": "2026-09-19T16:35:24Z",
         "domain": "erichgrunewald.substack.com",
@@ -84,27 +84,27 @@
         ]
       },
       {
-        "title": "Microsoft director: AI scraping 'the largest theft of labor in human history'",
-        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
+        "title": "AI and the Destruction of the Creative Commons",
+        "url": "https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons/",
         "points": 73,
-        "comments": 47,
-        "author": "jonbaer",
-        "createdAt": "2026-09-19T18:21:30Z",
-        "domain": "tomshardware.com",
+        "comments": 222,
+        "author": "rakel_rakel",
+        "createdAt": "2026-09-20T10:07:51Z",
+        "domain": "chesterwisniewski.com",
         "sourceType": "hn",
         "category": "AIニュース",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "マイクロソフトのディレクター： AIスクレイピング「人類史上最大の労働窃盗」",
-        "summaryJa": "この記事は「マイクロソフトのディレクター： AIスクレイピング「人類史上最大の労働窃盗」」を扱っています。ニューヨークタイムズは、OpenAIとマイクロソフトが何千ものニュース記事の著作権を侵害したと主張している。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "titleJa": "AIとクリエイティブ・コモンズの破壊",
+        "summaryJa": "この記事は「AIとクリエイティブ・コモンズの破壊」を扱っています。chesterwisniewski.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
         "keyPoints": [
-          "この記事は「マイクロソフトのディレクター： AIスクレイピング「人類史上最大の労働窃盗」」を扱っています。",
-          "ニューヨークタイムズは、OpenAIとマイクロソフトが何千ものニュース記事の著作権を侵害したと主張している。",
+          "この記事は「AIとクリエイティブ・コモンズの破壊」を扱っています。",
+          "chesterwisniewski.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
           "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
       }
     ],
-    "fetchedAt": "2026-09-20T11:19:36.563Z",
+    "fetchedAt": "2026-09-20T16:03:04.428Z",
     "mock": false
   },
   "xTrends": {
@@ -112,11 +112,11 @@
       {
         "topic": "AI Force",
         "locationLabel": "米国",
-        "bestRank": 11,
-        "appearances": 8,
+        "bestRank": 13,
+        "appearances": 7,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-09-20T11:19:36.543Z",
+        "observedAt": "2026-09-20T16:03:04.286Z",
         "url": "https://x.com/search?q=AI%20Force&src=typed_query&f=live",
         "articleTitle": "MIT creates method to force AI to comply with safety rules",
         "articleTitleJa": "MITは、AIが安全規則を遵守するように強制する方法を作成します",
@@ -127,30 +127,13 @@
         "translationVersion": 3
       },
       {
-        "topic": "Artificial Intelligence",
-        "locationLabel": "米国",
-        "bestRank": 35,
-        "appearances": 3,
-        "trendSource": "Trends24",
-        "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-09-20T11:19:36.543Z",
-        "url": "https://x.com/search?q=Artificial%20Intelligence&src=typed_query&f=live",
-        "articleTitle": "The Malicious Use of Artificial Intelligence",
-        "articleTitleJa": "人工知能の悪意のある使用",
-        "articleUrl": "https://arxiv.org/abs/1802.07228",
-        "articleSource": "arxiv.org",
-        "articlePublishedAt": "2026-09-14T01:22:35Z",
-        "summaryJa": "ArXiv論文の要約ページ1802.07228 ：人工知能の悪意のある使用：予測、予防、および緩和",
-        "translationVersion": 3
-      },
-      {
         "topic": "AI Czar",
         "locationLabel": "米国",
-        "bestRank": 43,
-        "appearances": 3,
+        "bestRank": 50,
+        "appearances": 1,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-09-20T11:19:36.543Z",
+        "observedAt": "2026-09-20T16:03:04.286Z",
         "url": "https://x.com/search?q=AI%20Czar&src=typed_query&f=live",
         "articleTitle": "Trump appointing an AI czar amid concerns over the rapidly developing tech",
         "articleTitleJa": "急速に発展している技術に対する懸念の中で、トランプはAIの皇帝を任命しました",
@@ -161,10 +144,10 @@
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-09-20T11:19:36.563Z",
+    "fetchedAt": "2026-09-20T16:03:04.428Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-09-20T11:19:44.654Z"
+    "articleFetchedAt": "2026-09-20T16:03:10.510Z"
   }
 }
