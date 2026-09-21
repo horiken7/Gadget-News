@@ -2,50 +2,72 @@
   "news": {
     "items": [
       {
-        "title": "OpenAI's Sam Altman to Brief UN Security Council Next Week",
-        "url": "https://www.reuters.com/business/openais-sam-altman-to-brief-un-security-council-next-week-during-2026-09-18/",
-        "points": 127,
-        "comments": 59,
-        "author": "layer8",
-        "createdAt": "2026-09-20T20:32:43Z",
-        "domain": "reuters.com",
+        "title": "Amazon blocks Meta’s new Muse AI agent from shopping on amazon.com",
+        "url": "https://www.forbes.com/sites/jonmarkman/2026/09/21/amazon-blocks-metas-new-muse-ai-agent-from-shopping-on-amazoncom/",
+        "points": 120,
+        "comments": 116,
+        "author": "simianwords",
+        "createdAt": "2026-09-21T17:00:23Z",
+        "domain": "forbes.com",
         "sourceType": "hn",
         "category": "AIニュース",
-        "impact": "低",
+        "impact": "高",
         "newsLens": "技術",
-        "titleJa": "OpenAIのサム・アルトマンが来週国連安全保障理事会にブリーフィング",
-        "summaryJa": "この記事は「OpenAIのサム・アルトマンが来週国連安全保障理事会にブリーフィング」を扱っています。reuters.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "titleJa": "AmazonがMetaの新しいMuse AIエージェントのamazon.comでのショッピングをブロック",
+        "summaryJa": "この記事は「AmazonがMetaの新しいMuse AIエージェントのamazon.comでのショッピングをブロック」を扱っています。forbes.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
         "keyPoints": [
-          "この記事は「OpenAIのサム・アルトマンが来週国連安全保障理事会にブリーフィング」を扱っています。",
-          "reuters.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "この記事は「AmazonがMetaの新しいMuse AIエージェントのamazon.comでのショッピングをブロック」を扱っています。",
+          "forbes.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
           "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
       },
       {
-        "title": "Pirate Face Rescues LLM Models from Deletion",
-        "url": "https://pirateface.co/",
-        "points": 101,
-        "comments": 144,
-        "author": "skepticalgenius",
-        "createdAt": "2026-09-20T15:16:07Z",
-        "domain": "pirateface.co",
-        "sourceType": "hn",
+        "title": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
+        "url": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
+        "points": 107,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-09-21T19:19:21.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
         "category": "AIモデル",
         "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "Pirate FaceはLLMモデルを削除から救います",
-        "summaryJa": "この記事は「Pirate FaceはLLMモデルを削除から救います」を扱っています。ソブリンAIモデル用のバナナブルでチェックサム検証済みのミラー。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "titleJa": "MetaのMuseは、ChatGPTの初期のモバイルローンチを上回っています",
+        "summaryJa": "この記事は「MetaのMuseは、ChatGPTの初期のモバイルローンチを上回っています」を扱っています。Appfiguresの新しい推計によると、Metaの新しいAIエージェントMuseは、モバイルデビュー後の同時期にChatGPTよりも多くのダウンロードとデイリーアクティブユーザーを米国とカナダで獲得している。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
-          "この記事は「Pirate FaceはLLMモデルを削除から救います」を扱っています。",
-          "ソブリンAIモデル用のバナナブルでチェックサム検証済みのミラー。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+          "この記事は「MetaのMuseは、ChatGPTの初期のモバイルローンチを上回っています」を扱っています。",
+          "Appfiguresの新しい推計によると、Metaの新しいAIエージェントMuseは、モバイルデビュー後の同時期にChatGPTよりも多くのダウンロードとデイリーアクティブユーザーを米国とカナダで獲得している。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+        ]
+      },
+      {
+        "title": "Meta’s AI agent has been blocked from using Amazon.com",
+        "url": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
+        "points": 107,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-09-21T17:55:18.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
+        "category": "AIニュース",
+        "impact": "高",
+        "titleJa": "MetaのAIエージェントがAmazon.comの使用をブロックされました",
+        "summaryJa": "この記事は「MetaのAIエージェントがAmazon.comの使用をブロックされました」を扱っています。Amazonは、インターネット上で最も人気のある推論プラットフォームの1つとともに、独自の基礎モデルのコホートを持っています。彼らがミューズへの扉を開く法的義務を負っていない限り、なぜ彼らはそうするのでしょうか？",
+        "keyPoints": [
+          "この記事は「MetaのAIエージェントがAmazon.comの使用をブロックされました」を扱っています。",
+          "Amazonは、インターネット上で最も人気のある推論プラットフォームの1つとともに、独自の基礎モデルのコホートを持っています。",
+          "彼らがミューズへの扉を開く法的義務を負っていない限り、なぜ彼らはそうするのでしょうか。"
         ]
       },
       {
         "title": "Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM",
         "url": "https://github.com/volotat/mini-AGI/",
         "points": 101,
-        "comments": 30,
+        "comments": 51,
         "author": "volotat",
         "createdAt": "2026-09-21T04:42:37Z",
         "domain": "github.com",
@@ -62,57 +84,54 @@
         ]
       },
       {
-        "title": "Is the AI industry really ready to slow down?",
-        "url": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/",
-        "points": 79,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-09-20T18:56:04.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
+        "title": "Grok 4.7",
+        "url": "https://x.ai/news/grok-4-7",
+        "points": 73,
+        "comments": 305,
+        "author": "meetpateltech",
+        "createdAt": "2026-09-21T15:50:15Z",
+        "domain": "x.ai",
+        "sourceType": "hn",
         "category": "AIニュース",
-        "impact": "中",
-        "titleJa": "AI業界は本当に減速する準備ができていますか？",
-        "summaryJa": "この記事は「AI業界は本当に減速する準備ができていますか？」を扱っています。Equityでは、Aiの幹部が減速したいと真剣に考えているかどうかを議論しました。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "AIニュース: Grok 4.7",
+        "summaryJa": "この記事は「Grok 4.7」を扱っています。SpaceXAIのコーディングとナレッジワークのための最も強力なモデル。同等のモデルの半分の価格で、2倍の速さです。",
         "keyPoints": [
-          "この記事は「AI業界は本当に減速する準備ができていますか。",
-          "Equityでは、Aiの幹部が減速したいと真剣に考えているかどうかを議論しました。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
-        ]
-      },
-      {
-        "title": "Trump Proposes Renaming Artificial Intelligence | News Radio 105 . 5 WERC",
-        "url": "https://wercfm.iheart.com/content/2026-09-21-trump-proposes-renaming-artificial-intelligence/",
-        "points": 79,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-09-21T11:45:00Z",
-        "domain": "wercfm.iheart.com",
-        "sourceType": "gdelt",
-        "sourceLabel": "GDELT",
-        "category": "AIニュース",
-        "impact": "中",
-        "newsLens": "一般",
-        "titleJa": "トランプ氏、人工知能の名称変更を提案|ニュースラジオ105. 5 WERC",
-        "summaryJa": "この記事は「トランプ氏、人工知能の名称変更を提案|ニュースラジオ105. 5 WERC」を扱っています。トランプ大統領は人工知能の名称変更を提案し、「優れたインテリジェンス」や「最高のインテリジェンス」といった名称を提案した。「彼は世論を集めるためにTruth Socialで世論調査を開始しました。",
-        "keyPoints": [
-          "この記事は「トランプ氏、人工知能の名称変更を提案|ニュースラジオ105. 5 WERC」を扱っています。",
-          "トランプ大統領は人工知能の名称変更を提案し、「優れたインテリジェンス」や「最高のインテリジェンス」といった名称を提案した。",
-          "「彼は世論を集めるためにTruth Socialで世論調査を開始しました。"
+          "この記事は「Grok 4.7」を扱っています。",
+          "SpaceXAIのコーディングとナレッジワークのための最も強力なモデル。",
+          "同等のモデルの半分の価格で、2倍の速さです。"
         ]
       }
     ],
-    "fetchedAt": "2026-09-21T12:44:20.480Z",
+    "fetchedAt": "2026-09-21T19:59:20.293Z",
     "mock": false
   },
   "xTrends": {
-    "items": [],
-    "fetchedAt": "2026-09-21T12:44:20.480Z",
+    "items": [
+      {
+        "topic": "Grok 4.7",
+        "locationLabel": "日本",
+        "bestRank": 1,
+        "appearances": 5,
+        "trendSource": "Trends24",
+        "sourceUrl": "https://trends24.in/japan/",
+        "observedAt": "2026-09-21T19:59:20.274Z",
+        "url": "https://x.com/search?q=Grok%204.7&src=typed_query&f=live",
+        "articleTitle": "Grok 4.7",
+        "articleTitleJa": "公開トレンド: Grok 4.7",
+        "articleUrl": "https://trends24.in/japan/",
+        "articleSource": "Trends24",
+        "articlePublishedAt": "2026-09-21T19:59:20.274Z",
+        "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
+        "translationVersion": 3,
+        "articleFallback": true
+      }
+    ],
+    "fetchedAt": "2026-09-21T19:59:20.293Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-09-21T12:44:20.620Z"
+    "articleFetchedAt": "2026-09-21T19:59:22.011Z"
   }
 }
