@@ -5,7 +5,7 @@
         "title": "OpenAI's Sam Altman to Brief UN Security Council Next Week",
         "url": "https://www.reuters.com/business/openais-sam-altman-to-brief-un-security-council-next-week-during-2026-09-18/",
         "points": 127,
-        "comments": 57,
+        "comments": 59,
         "author": "layer8",
         "createdAt": "2026-09-20T20:32:43Z",
         "domain": "reuters.com",
@@ -25,7 +25,7 @@
         "title": "Pirate Face Rescues LLM Models from Deletion",
         "url": "https://pirateface.co/",
         "points": 101,
-        "comments": 142,
+        "comments": 144,
         "author": "skepticalgenius",
         "createdAt": "2026-09-20T15:16:07Z",
         "domain": "pirateface.co",
@@ -39,6 +39,26 @@
           "この記事は「Pirate FaceはLLMモデルを削除から救います」を扱っています。",
           "ソブリンAIモデル用のバナナブルでチェックサム検証済みのミラー。",
           "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+        ]
+      },
+      {
+        "title": "Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM",
+        "url": "https://github.com/volotat/mini-AGI/",
+        "points": 101,
+        "comments": 30,
+        "author": "volotat",
+        "createdAt": "2026-09-21T04:42:37Z",
+        "domain": "github.com",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "Show HN: Mini – AGI – 8 GB VRAMでトレーニングされたダイナミック継続的学習モデル",
+        "summaryJa": "この記事は「Show HN: Mini – AGI – 8 GB VRAMでトレーニングされたダイナミック継続的学習モデル」を扱っています。名誉な名前ですみません、わかっています、わかっています。AGIモデルを見たいと思っているすべての部分が含まれているだけで、誘惑に耐えられません。",
+        "keyPoints": [
+          "この記事は「Show HN: Mini – AGI – 8 GB VRAMでトレーニングされたダイナミック継続的学習モデル」を扱っています。",
+          "名誉な名前ですみません、わかっています、わかっています。",
+          "AGIモデルを見たいと思っているすべての部分が含まれているだけで、誘惑に耐えられません。"
         ]
       },
       {
@@ -63,73 +83,36 @@
         ]
       },
       {
-        "title": "ChatGPT now knows what you do on other websites via ad collector",
-        "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/",
-        "points": 73,
-        "comments": 367,
-        "author": "lmbbuchodi",
-        "createdAt": "2026-09-20T15:18:44Z",
-        "domain": "buchodi.com",
-        "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "ChatGPTは、広告コレクターを介して他のウェブサイトで何をしているかを知るようになりました",
-        "summaryJa": "この記事は「ChatGPTは、広告コレクターを介して他のウェブサイトで何をしているかを知るようになりました」を扱っています。Bzr.openai.comのOpenAIの広告コレクターは、.openai.comにスコープを設定した__ obiというクッキーを設定します。値は、ChatGPTを使用していて、ChatGPTアカウントに関連付けられている間の値です。",
-        "keyPoints": [
-          "この記事は「ChatGPTは、広告コレクターを介して他のウェブサイトで何をしているかを知るようになりました」を扱っています。",
-          "Bzr.openai.comのOpenAIの広告コレクターは、.openai.comにスコープを設定した__ obiというクッキーを設定します。",
-          "値は、ChatGPTを使用していて、ChatGPTアカウントに関連付けられている間の値です。"
-        ]
-      },
-      {
-        "title": "I stopped drinking the AI Kool-Aid",
-        "url": "https://joshtronic.com/2026/09/20/i-stopped-drinking-the-ai-kool-aid/",
-        "points": 56,
-        "comments": 43,
-        "author": "joshtronic",
-        "createdAt": "2026-09-20T21:17:26Z",
-        "domain": "joshtronic.com",
-        "sourceType": "hn",
+        "title": "Trump Proposes Renaming Artificial Intelligence | News Radio 105 . 5 WERC",
+        "url": "https://wercfm.iheart.com/content/2026-09-21-trump-proposes-renaming-artificial-intelligence/",
+        "points": 79,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-09-21T11:45:00Z",
+        "domain": "wercfm.iheart.com",
+        "sourceType": "gdelt",
+        "sourceLabel": "GDELT",
         "category": "AIニュース",
         "impact": "中",
-        "newsLens": "技術",
-        "titleJa": "AI Kool - Aidを飲むのをやめました",
-        "summaryJa": "この記事は「AI Kool - Aidを飲むのをやめました」を扱っています。joshtronic.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "newsLens": "一般",
+        "titleJa": "トランプ氏、人工知能の名称変更を提案|ニュースラジオ105. 5 WERC",
+        "summaryJa": "この記事は「トランプ氏、人工知能の名称変更を提案|ニュースラジオ105. 5 WERC」を扱っています。トランプ大統領は人工知能の名称変更を提案し、「優れたインテリジェンス」や「最高のインテリジェンス」といった名称を提案した。「彼は世論を集めるためにTruth Socialで世論調査を開始しました。",
         "keyPoints": [
-          "この記事は「AI Kool - Aidを飲むのをやめました」を扱っています。",
-          "joshtronic.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+          "この記事は「トランプ氏、人工知能の名称変更を提案|ニュースラジオ105. 5 WERC」を扱っています。",
+          "トランプ大統領は人工知能の名称変更を提案し、「優れたインテリジェンス」や「最高のインテリジェンス」といった名称を提案した。",
+          "「彼は世論を集めるためにTruth Socialで世論調査を開始しました。"
         ]
       }
     ],
-    "fetchedAt": "2026-09-21T04:52:23.954Z",
+    "fetchedAt": "2026-09-21T12:44:20.480Z",
     "mock": false
   },
   "xTrends": {
-    "items": [
-      {
-        "topic": "AI Force",
-        "locationLabel": "米国",
-        "bestRank": 40,
-        "appearances": 3,
-        "trendSource": "Trends24",
-        "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-09-21T04:52:23.702Z",
-        "url": "https://x.com/search?q=AI%20Force&src=typed_query&f=live",
-        "articleTitle": "MIT creates method to force AI to comply with safety rules",
-        "articleTitleJa": "MITは、AIが安全規則を遵守するように強制する方法を作成します",
-        "articleUrl": "https://theframenews.org/en/hardflow-safety-critical-ai/",
-        "articleSource": "theframenews.org",
-        "articlePublishedAt": "2026-09-14T16:18:17Z",
-        "summaryJa": "MITで開発されたHardFlowは、モデルを再トレーニングすることなく、シミュレートされたロボット工学とイメージングテストで厳格な安全規則を満たすように生成AI出力を強制しました。",
-        "translationVersion": 3
-      }
-    ],
-    "fetchedAt": "2026-09-21T04:52:23.954Z",
+    "items": [],
+    "fetchedAt": "2026-09-21T12:44:20.480Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-09-21T04:52:26.606Z"
+    "articleFetchedAt": "2026-09-21T12:44:20.620Z"
   }
 }
