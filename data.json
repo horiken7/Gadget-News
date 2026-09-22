@@ -2,23 +2,45 @@
   "news": {
     "items": [
       {
-        "title": "Amazon blocks Meta’s new Muse AI agent from shopping on amazon.com",
-        "url": "https://www.forbes.com/sites/jonmarkman/2026/09/21/amazon-blocks-metas-new-muse-ai-agent-from-shopping-on-amazoncom/",
-        "points": 120,
-        "comments": 116,
-        "author": "simianwords",
-        "createdAt": "2026-09-21T17:00:23Z",
-        "domain": "forbes.com",
-        "sourceType": "hn",
+        "title": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
+        "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/",
+        "points": 107,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-09-21T22:24:38.000Z",
+        "domain": "arstechnica.com",
+        "sourceType": "rss",
+        "sourceLabel": "Ars Technica",
+        "newsLens": "技術",
         "category": "AIニュース",
         "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "AmazonがMetaの新しいMuse AIエージェントのamazon.comでのショッピングをブロック",
-        "summaryJa": "この記事は「AmazonがMetaの新しいMuse AIエージェントのamazon.comでのショッピングをブロック」を扱っています。forbes.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "titleJa": "AIニュース: Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
+        "summaryJa": "この記事は「Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day」を扱っています。arstechnica.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
         "keyPoints": [
-          "この記事は「AmazonがMetaの新しいMuse AIエージェントのamazon.comでのショッピングをブロック」を扱っています。",
-          "forbes.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "この記事は「Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day」を扱っています。",
+          "arstechnica.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
           "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+        ]
+      },
+      {
+        "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
+        "url": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
+        "points": 107,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-09-21T20:15:58.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
+        "category": "AIニュース",
+        "impact": "高",
+        "titleJa": "AIニュース: OpenAI forms math advisory group as its AI resolves more than 100 open problems",
+        "summaryJa": "この記事は「OpenAI forms math advisory group as its AI resolves more than 100 open problems」を扱っています。techcrunch.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "keyPoints": [
+          "この記事は「OpenAI forms math advisory group as its AI resolves more than 100 open problems」を扱っています。",
+          "techcrunch.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       },
       {
@@ -34,40 +56,19 @@
         "newsLens": "一般",
         "category": "AIモデル",
         "impact": "高",
-        "titleJa": "MetaのMuseは、ChatGPTの初期のモバイルローンチを上回っています",
-        "summaryJa": "この記事は「MetaのMuseは、ChatGPTの初期のモバイルローンチを上回っています」を扱っています。Appfiguresの新しい推計によると、Metaの新しいAIエージェントMuseは、モバイルデビュー後の同時期にChatGPTよりも多くのダウンロードとデイリーアクティブユーザーを米国とカナダで獲得している。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "titleJa": "AIニュース: Meta’s Muse is outpacing ChatGPT’s early mobile launch",
+        "summaryJa": "この記事は「Meta’s Muse is outpacing ChatGPT’s early mobile launch」を扱っています。techcrunch.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
-          "この記事は「MetaのMuseは、ChatGPTの初期のモバイルローンチを上回っています」を扱っています。",
-          "Appfiguresの新しい推計によると、Metaの新しいAIエージェントMuseは、モバイルデビュー後の同時期にChatGPTよりも多くのダウンロードとデイリーアクティブユーザーを米国とカナダで獲得している。",
+          "この記事は「Meta’s Muse is outpacing ChatGPT’s early mobile launch」を扱っています。",
+          "techcrunch.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
           "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
-        ]
-      },
-      {
-        "title": "Meta’s AI agent has been blocked from using Amazon.com",
-        "url": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
-        "points": 107,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-09-21T17:55:18.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
-        "category": "AIニュース",
-        "impact": "高",
-        "titleJa": "MetaのAIエージェントがAmazon.comの使用をブロックされました",
-        "summaryJa": "この記事は「MetaのAIエージェントがAmazon.comの使用をブロックされました」を扱っています。Amazonは、インターネット上で最も人気のある推論プラットフォームの1つとともに、独自の基礎モデルのコホートを持っています。彼らがミューズへの扉を開く法的義務を負っていない限り、なぜ彼らはそうするのでしょうか？",
-        "keyPoints": [
-          "この記事は「MetaのAIエージェントがAmazon.comの使用をブロックされました」を扱っています。",
-          "Amazonは、インターネット上で最も人気のある推論プラットフォームの1つとともに、独自の基礎モデルのコホートを持っています。",
-          "彼らがミューズへの扉を開く法的義務を負っていない限り、なぜ彼らはそうするのでしょうか。"
         ]
       },
       {
         "title": "Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM",
         "url": "https://github.com/volotat/mini-AGI/",
         "points": 101,
-        "comments": 51,
+        "comments": 56,
         "author": "volotat",
         "createdAt": "2026-09-21T04:42:37Z",
         "domain": "github.com",
@@ -75,36 +76,36 @@
         "category": "AIモデル",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "Show HN: Mini – AGI – 8 GB VRAMでトレーニングされたダイナミック継続的学習モデル",
-        "summaryJa": "この記事は「Show HN: Mini – AGI – 8 GB VRAMでトレーニングされたダイナミック継続的学習モデル」を扱っています。名誉な名前ですみません、わかっています、わかっています。AGIモデルを見たいと思っているすべての部分が含まれているだけで、誘惑に耐えられません。",
+        "titleJa": "AIニュース: Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM",
+        "summaryJa": "この記事は「Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM」を扱っています。github.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
         "keyPoints": [
-          "この記事は「Show HN: Mini – AGI – 8 GB VRAMでトレーニングされたダイナミック継続的学習モデル」を扱っています。",
-          "名誉な名前ですみません、わかっています、わかっています。",
-          "AGIモデルを見たいと思っているすべての部分が含まれているだけで、誘惑に耐えられません。"
+          "この記事は「Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM」を扱っています。",
+          "github.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
       },
       {
-        "title": "Grok 4.7",
-        "url": "https://x.ai/news/grok-4-7",
-        "points": 73,
-        "comments": 305,
-        "author": "meetpateltech",
-        "createdAt": "2026-09-21T15:50:15Z",
-        "domain": "x.ai",
+        "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
+        "url": "https://linear.app/now/ci-bottleneck-reworked",
+        "points": 98,
+        "comments": 101,
+        "author": "julian_digital",
+        "createdAt": "2026-09-21T19:23:33Z",
+        "domain": "linear.app",
         "sourceType": "hn",
         "category": "AIニュース",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "AIニュース: Grok 4.7",
-        "summaryJa": "この記事は「Grok 4.7」を扱っています。SpaceXAIのコーディングとナレッジワークのための最も強力なモデル。同等のモデルの半分の価格で、2倍の速さです。",
+        "titleJa": "AIニュース: AI coding has made CI a bottleneck, so we reworked ours to keep up",
+        "summaryJa": "この記事は「AI coding has made CI a bottleneck, so we reworked ours to keep up」を扱っています。CIをシステムとして、その下にあるインフラストラクチャから、仕事のスケジュール設定やテストの並列化まで、再考することで、PRの待ち時間とランニングコストを削減しました。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
         "keyPoints": [
-          "この記事は「Grok 4.7」を扱っています。",
-          "SpaceXAIのコーディングとナレッジワークのための最も強力なモデル。",
-          "同等のモデルの半分の価格で、2倍の速さです。"
+          "この記事は「AI coding has made CI a bottleneck, so we reworked ours to keep up」を扱っています。",
+          "CIをシステムとして、その下にあるインフラストラクチャから、仕事のスケジュール設定やテストの並列化まで、再考することで、PRの待ち時間とランニングコストを削減しました。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
       }
     ],
-    "fetchedAt": "2026-09-21T19:59:20.293Z",
+    "fetchedAt": "2026-09-22T00:07:12.630Z",
     "mock": false
   },
   "xTrends": {
@@ -112,26 +113,26 @@
       {
         "topic": "Grok 4.7",
         "locationLabel": "日本",
-        "bestRank": 1,
-        "appearances": 5,
+        "bestRank": 3,
+        "appearances": 11,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-09-21T19:59:20.274Z",
+        "observedAt": "2026-09-22T00:07:12.513Z",
         "url": "https://x.com/search?q=Grok%204.7&src=typed_query&f=live",
         "articleTitle": "Grok 4.7",
         "articleTitleJa": "公開トレンド: Grok 4.7",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-09-21T19:59:20.274Z",
+        "articlePublishedAt": "2026-09-22T00:07:12.513Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
       }
     ],
-    "fetchedAt": "2026-09-21T19:59:20.293Z",
+    "fetchedAt": "2026-09-22T00:07:12.630Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-09-21T19:59:22.011Z"
+    "articleFetchedAt": "2026-09-22T00:07:25.898Z"
   }
 }
