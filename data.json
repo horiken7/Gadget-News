@@ -2,47 +2,6 @@
   "news": {
     "items": [
       {
-        "title": "Overreliance on AI contributed to missile strike on Iran school – Pentagon",
-        "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack/",
-        "points": 119,
-        "comments": 125,
-        "author": "devonnull",
-        "createdAt": "2026-09-22T19:03:38Z",
-        "domain": "bloomberg.com",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "高",
-        "newsLens": "一般",
-        "titleJa": "AIへの過度の依存がイランの学校へのミサイル攻撃に貢献–ペンタゴン",
-        "summaryJa": "この記事は「AIへの過度の依存がイランの学校へのミサイル攻撃に貢献–ペンタゴン」を扱っています。bloomberg.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
-        "keyPoints": [
-          "この記事は「AIへの過度の依存がイランの学校へのミサイル攻撃に貢献–ペンタゴン」を扱っています。",
-          "bloomberg.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
-        ]
-      },
-      {
-        "title": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
-        "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/",
-        "points": 107,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-09-21T22:24:38.000Z",
-        "domain": "arstechnica.com",
-        "sourceType": "rss",
-        "sourceLabel": "Ars Technica",
-        "newsLens": "技術",
-        "category": "AIニュース",
-        "impact": "高",
-        "titleJa": "Metaの非常に特権的なAIアシスタントであるMuseは、",
-        "summaryJa": "この記事は「Metaの非常に特権的なAIアシスタントであるMuseは、」を扱っています。単純なClickFix攻撃は、新しいエージェントを完全にハイジャックする1つの方法に過ぎません。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
-        "keyPoints": [
-          "この記事は「Metaの非常に特権的なAIアシスタントであるMuseは、」を扱っています。",
-          "単純なClickFix攻撃は、新しいエージェントを完全にハイジャックする1つの方法に過ぎません。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
-        ]
-      },
-      {
         "title": "Qualcomm launches two new smartphone chips with emphasis on AI",
         "url": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
         "points": 107,
@@ -61,6 +20,27 @@
           "この記事は「クアルコム、AIに重点を置いた2つの新しいスマートフォンチップを発売」を扱っています。",
           "Qualcommは、新しいトップチップがローカルで30 B混合エキスパートモデルを実行できると述べた。",
           "一般向けには、AIがソフトウェアだけでなく、ロボットや端末など現実の製品に広がっている点が重要です。"
+        ]
+      },
+      {
+        "title": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
+        "url": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/",
+        "points": 107,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-09-22T16:30:07.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
+        "category": "AIニュース",
+        "impact": "高",
+        "titleJa": "Anthropicが低価格と寓話レベルのパフォーマンスでOpus 5.5をリリース",
+        "summaryJa": "この記事は「Anthropicが低価格と寓話レベルのパフォーマンスでOpus 5.5をリリース」を扱っています。Anthropicはこれを「これまでにテストした中で最も強力なパフォーマンスモデル」と呼んでいます。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "keyPoints": [
+          "この記事は「Anthropicが低価格と寓話レベルのパフォーマンスでOpus 5.5をリリース」を扱っています。",
+          "Anthropicはこれを「これまでにテストした中で最も強力なパフォーマンスモデル」と呼んでいます。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       },
       {
@@ -84,7 +64,7 @@
         ]
       },
       {
-        "title": "Microsoft disrupts AI-assisted platform that compromised 12,000",
+        "title": "Microsoft disrupts AI-assisted platform that compromised 12,000 accounts",
         "url": "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/",
         "points": 79,
         "comments": 0,
@@ -96,16 +76,36 @@
         "newsLens": "技術",
         "category": "AIニュース",
         "impact": "中",
-        "titleJa": "マイクロソフトはAI支援プラットフォームを破壊し、12,000人を危険にさらした",
-        "summaryJa": "この記事は「マイクロソフトはAI支援プラットフォームを破壊し、12,000人を危険にさらした」を扱っています。EvilTokensは、大量の妥協をより迅速かつ容易にするエンドツーエンドのプラットフォームを提供しました。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "titleJa": "マイクロソフト、12,000のアカウントを侵害したAI支援プラットフォームを破壊",
+        "summaryJa": "この記事は「マイクロソフト、12,000のアカウントを侵害したAI支援プラットフォームを破壊」を扱っています。EvilTokensは、大量の妥協をより迅速かつ容易にするエンドツーエンドのプラットフォームを提供しました。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
         "keyPoints": [
-          "この記事は「マイクロソフトはAI支援プラットフォームを破壊し、12,000人を危険にさらした」を扱っています。",
+          "この記事は「マイクロソフト、12,000のアカウントを侵害したAI支援プラットフォームを破壊」を扱っています。",
           "EvilTokensは、大量の妥協をより迅速かつ容易にするエンドツーエンドのプラットフォームを提供しました。",
           "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
+      },
+      {
+        "title": "GPT-6 Sol and Luna",
+        "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
+        "points": 73,
+        "comments": 647,
+        "author": "OfficialTurkey",
+        "createdAt": "2026-09-22T18:00:34Z",
+        "domain": "openai.com",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "GPT -6ソルとルナ",
+        "summaryJa": "この記事は「GPT -6ソルとルナ」を扱っています。openai.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "keyPoints": [
+          "この記事は「GPT -6ソルとルナ」を扱っています。",
+          "openai.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+        ]
       }
     ],
-    "fetchedAt": "2026-09-22T21:16:29.114Z",
+    "fetchedAt": "2026-09-23T04:42:28.521Z",
     "mock": false
   },
   "xTrends": {
@@ -113,11 +113,11 @@
       {
         "topic": "GPT-6 Sol",
         "locationLabel": "日本",
-        "bestRank": 11,
-        "appearances": 4,
+        "bestRank": 10,
+        "appearances": 10,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-09-22T21:16:29.093Z",
+        "observedAt": "2026-09-23T04:42:28.508Z",
         "url": "https://x.com/search?q=GPT-6%20Sol&src=typed_query&f=live",
         "articleTitle": "GPT-6 Astra Solves a WWI German Radio Cipher",
         "articleTitleJa": "GPT -6 Astraが第一次世界大戦のドイツのラジオ暗号を解く",
@@ -131,10 +131,10 @@
         "topic": "GPT-6 Luna",
         "locationLabel": "日本",
         "bestRank": 18,
-        "appearances": 4,
+        "appearances": 5,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-09-22T21:16:29.093Z",
+        "observedAt": "2026-09-23T04:42:28.508Z",
         "url": "https://x.com/search?q=GPT-6%20Luna&src=typed_query&f=live",
         "articleTitle": "GPT-6 Luna (Max) Intelligence, Performance and Price Analysis",
         "articleTitleJa": "GPT -6 LUNA （ MAX ）インテリジェンス、パフォーマンス、価格分析",
@@ -145,31 +145,13 @@
         "translationVersion": 3
       },
       {
-        "topic": "AI学習",
-        "locationLabel": "日本",
-        "bestRank": 33,
-        "appearances": 2,
-        "trendSource": "Trends24",
-        "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-09-22T21:16:29.093Z",
-        "url": "https://x.com/search?q=AI%E5%AD%A6%E7%BF%92&src=typed_query&f=live",
-        "articleTitle": "AI学習",
-        "articleTitleJa": "公開トレンド: AI学習",
-        "articleUrl": "https://trends24.in/japan/",
-        "articleSource": "Trends24",
-        "articlePublishedAt": "2026-09-22T21:16:29.093Z",
-        "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
-        "translationVersion": 3,
-        "articleFallback": true
-      },
-      {
         "topic": "AI to SI",
         "locationLabel": "米国",
         "bestRank": 47,
         "appearances": 1,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-09-22T21:16:28.942Z",
+        "observedAt": "2026-09-23T04:42:28.491Z",
         "url": "https://x.com/search?q=AI%20to%20SI&src=typed_query&f=live",
         "articleTitle": "Free Unlimited AI Text to Speech – No Sign Up",
         "articleTitleJa": "無料の無制限のAIテキスト読み上げ–サインアップなし",
@@ -181,27 +163,27 @@
       },
       {
         "topic": "Grok 4.7",
-        "locationLabel": "英国",
-        "bestRank": 20,
-        "appearances": 24,
+        "locationLabel": "カナダ",
+        "bestRank": 2,
+        "appearances": 19,
         "trendSource": "Trends24",
-        "sourceUrl": "https://trends24.in/united-kingdom/",
-        "observedAt": "2026-09-22T21:16:28.974Z",
+        "sourceUrl": "https://trends24.in/canada/",
+        "observedAt": "2026-09-23T04:42:28.473Z",
         "url": "https://x.com/search?q=Grok%204.7&src=typed_query&f=live",
         "articleTitle": "Grok 4.7",
         "articleTitleJa": "公開トレンド: Grok 4.7",
-        "articleUrl": "https://trends24.in/united-kingdom/",
+        "articleUrl": "https://trends24.in/canada/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-09-22T21:16:28.974Z",
-        "summaryJa": "英国のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
+        "articlePublishedAt": "2026-09-23T04:42:28.473Z",
+        "summaryJa": "カナダのTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
       }
     ],
-    "fetchedAt": "2026-09-22T21:16:29.114Z",
+    "fetchedAt": "2026-09-23T04:42:28.521Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
-    "partial": false,
-    "articleFetchedAt": "2026-09-22T21:16:38.150Z"
+    "partial": true,
+    "articleFetchedAt": "2026-09-23T04:42:38.506Z"
   }
 }
