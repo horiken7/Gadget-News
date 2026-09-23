@@ -44,26 +44,6 @@
         ]
       },
       {
-        "title": "Claude Opus 5.5",
-        "url": "https://www.anthropic.com/claude-opus-5-5",
-        "points": 101,
-        "comments": 2,
-        "author": "throwaway371647",
-        "createdAt": "2026-09-22T16:27:30Z",
-        "domain": "anthropic.com",
-        "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "Claude・オーパス5.5",
-        "summaryJa": "この記事は「Claude・オーパス5.5」を扱っています。anthropic.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
-        "keyPoints": [
-          "この記事は「Claude・オーパス5.5」を扱っています。",
-          "anthropic.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
-        ]
-      },
-      {
         "title": "Microsoft disrupts AI-assisted platform that compromised 12,000 accounts",
         "url": "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/",
         "points": 79,
@@ -85,10 +65,30 @@
         ]
       },
       {
+        "title": "Claude Opus 5.5",
+        "url": "https://www.anthropic.com/claude-opus-5-5",
+        "points": 73,
+        "comments": 982,
+        "author": "km144",
+        "createdAt": "2026-09-22T16:29:05Z",
+        "domain": "anthropic.com",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "Claude・オーパス5.5",
+        "summaryJa": "この記事は「Claude・オーパス5.5」を扱っています。Claude Opus 5.5は、エージェントのコーディングとナレッジワークをリードしており、一般的なワーClaudeではOpus 5よりも40 ％少ないコストで実行できます。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "keyPoints": [
+          "この記事は「Claude・オーパス5.5」を扱っています。",
+          "Claude Opus 5.5は、エージェントのコーディングとナレッジワークをリードしており、一般的なワーClaudeではOpus 5よりも40 ％少ないコストで実行できます。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+        ]
+      },
+      {
         "title": "GPT-6 Sol and Luna",
         "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
         "points": 73,
-        "comments": 647,
+        "comments": 758,
         "author": "OfficialTurkey",
         "createdAt": "2026-09-22T18:00:34Z",
         "domain": "openai.com",
@@ -105,7 +105,7 @@
         ]
       }
     ],
-    "fetchedAt": "2026-09-23T04:42:28.521Z",
+    "fetchedAt": "2026-09-23T11:31:42.768Z",
     "mock": false
   },
   "xTrends": {
@@ -117,7 +117,7 @@
         "appearances": 10,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-09-23T04:42:28.508Z",
+        "observedAt": "2026-09-23T11:31:42.750Z",
         "url": "https://x.com/search?q=GPT-6%20Sol&src=typed_query&f=live",
         "articleTitle": "GPT-6 Astra Solves a WWI German Radio Cipher",
         "articleTitleJa": "GPT -6 Astraが第一次世界大戦のドイツのラジオ暗号を解く",
@@ -134,24 +134,24 @@
         "appearances": 5,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-09-23T04:42:28.508Z",
+        "observedAt": "2026-09-23T11:31:42.750Z",
         "url": "https://x.com/search?q=GPT-6%20Luna&src=typed_query&f=live",
-        "articleTitle": "GPT-6 Luna (Max) Intelligence, Performance and Price Analysis",
-        "articleTitleJa": "GPT -6 LUNA （ MAX ）インテリジェンス、パフォーマンス、価格分析",
-        "articleUrl": "https://artificialanalysis.ai/models/gpt-6-luna",
-        "articleSource": "artificialanalysis.ai",
-        "articlePublishedAt": "2026-09-22T18:53:39Z",
-        "summaryJa": "OpenAIのGPT -6 Luna （ MAX ）の分析と、品質、価格、パフォーマンス（ 1秒あたりのトークンと最初のトークンまでの時間）、コンテキストウィンドウなどの主要な指標にわたる他のAIモデルとの比較。",
+        "articleTitle": "Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war",
+        "articleTitleJa": "Claude・オーパス5.5、GPT -6ソル、GPT -6ルナ、そして新しい価格戦争",
+        "articleUrl": "https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna/",
+        "articleSource": "simonwillison.net",
+        "articlePublishedAt": "2026-09-23T07:46:22Z",
+        "summaryJa": "昨日はGrok 4.7 （ペリカン）とMiMo v2.6 Flash/Pro （より多くのペリカン）でした。今日、AnthropicはClaude Opus 5.5をリリースし、約1時間後にOpenAIはGPT -6 SolとGPT -6 Lunaをリリースしました。それは...",
         "translationVersion": 3
       },
       {
         "topic": "AI to SI",
         "locationLabel": "米国",
-        "bestRank": 47,
+        "bestRank": 45,
         "appearances": 1,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-09-23T04:42:28.491Z",
+        "observedAt": "2026-09-23T11:31:42.642Z",
         "url": "https://x.com/search?q=AI%20to%20SI&src=typed_query&f=live",
         "articleTitle": "Free Unlimited AI Text to Speech – No Sign Up",
         "articleTitleJa": "無料の無制限のAIテキスト読み上げ–サインアップなし",
@@ -164,26 +164,26 @@
       {
         "topic": "Grok 4.7",
         "locationLabel": "カナダ",
-        "bestRank": 2,
-        "appearances": 19,
+        "bestRank": 14,
+        "appearances": 11,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/canada/",
-        "observedAt": "2026-09-23T04:42:28.473Z",
+        "observedAt": "2026-09-23T11:31:42.725Z",
         "url": "https://x.com/search?q=Grok%204.7&src=typed_query&f=live",
         "articleTitle": "Grok 4.7",
         "articleTitleJa": "公開トレンド: Grok 4.7",
         "articleUrl": "https://trends24.in/canada/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-09-23T04:42:28.473Z",
+        "articlePublishedAt": "2026-09-23T11:31:42.725Z",
         "summaryJa": "カナダのTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
       }
     ],
-    "fetchedAt": "2026-09-23T04:42:28.521Z",
+    "fetchedAt": "2026-09-23T11:31:42.768Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-09-23T04:42:38.506Z"
+    "articleFetchedAt": "2026-09-23T11:31:58.252Z"
   }
 }
