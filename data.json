@@ -2,6 +2,26 @@
   "news": {
     "items": [
       {
+        "title": "OpenAI agent hacked Australian government website, PM says",
+        "url": "https://www.bbc.com/news/live/cvgl73pxgndwt",
+        "points": 147,
+        "comments": 181,
+        "author": "rudy6912",
+        "createdAt": "2026-09-24T02:44:48Z",
+        "domain": "bbc.com",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "OpenAIエージェントがオーストラリア政府のウェブサイトをハッキング、首相は言う",
+        "summaryJa": "この記事は「OpenAIエージェントがオーストラリア政府のウェブサイトをハッキング、首相は言う」を扱っています。専門家は、これが政府システムに対する世界初の既知のAI侵害であると考えています。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "keyPoints": [
+          "この記事は「OpenAIエージェントがオーストラリア政府のウェブサイトをハッキング、首相は言う」を扱っています。",
+          "専門家は、これが政府システムに対する世界初の既知のAI侵害であると考えています。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+        ]
+      },
+      {
         "title": "Everything new coming to Meta’s AI agent Muse",
         "url": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
         "points": 133,
@@ -44,68 +64,47 @@
         ]
       },
       {
-        "title": "Claude Code reads AGENTS.md only when telemetry is on [fixed]",
-        "url": "https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/",
+        "title": "Mercury 2.5 LLM hits 770 tokens per second",
+        "url": "https://artificialanalysis.ai/models/mercury-2-5",
         "points": 101,
-        "comments": 269,
-        "author": "pszypowicz",
-        "createdAt": "2026-09-23T12:15:33Z",
-        "domain": "blog.szypowi.cz",
+        "comments": 88,
+        "author": "Retro_Dev",
+        "createdAt": "2026-09-23T22:16:19Z",
+        "domain": "artificialanalysis.ai",
         "sourceType": "hn",
         "category": "AIモデル",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "Claudeコードは、テレメトリがオンの場合にのみAGENTS.mdを読み取ります[固定]",
-        "summaryJa": "この記事は「Claudeコードは、テレメトリがオンの場合にのみAGENTS.mdを読み取ります[固定]」を扱っています。Claude Code 2.1.277はAGENTS.mdサポートを追加しましたが、ローダーはリモート機能フラグの背後にあります。テレメトリまたは不要なトラフィックがオフになっている場合、ローカルAGENTS.mdは警告なしでスキップされます。",
+        "titleJa": "Mercury 2.5 LLMが毎秒770トークンに到達",
+        "summaryJa": "この記事は「Mercury 2.5 LLMが毎秒770トークンに到達」を扱っています。InceptionのMercury 2.5の分析と、品質、価格、パフォーマンス（ 1秒あたりのトークンと最初のトークンまでの時間）、コンテキストウィンドウなどの主要な指標にわたる他のAIモデルとの比較。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
         "keyPoints": [
-          "この記事は「Claudeコードは、テレメトリがオンの場合にのみAGENTS.mdを読み取ります[固定]」を扱っています。",
-          "Claude Code 2.1.277はAGENTS.mdサポートを追加しましたが、ローダーはリモート機能フラグの背後にあります。",
-          "テレメトリまたは不要なトラフィックがオフになっている場合、ローカルAGENTS.mdは警告なしでスキップされます。"
+          "この記事は「Mercury 2.5 LLMが毎秒770トークンに到達」を扱っています。",
+          "InceptionのMercury 2.5の分析と、品質、価格、パフォーマンス（ 1秒あたりのトークンと最初のトークンまでの時間）、コンテキストウィンドウなどの主要な指標にわたる他のAIモデルとの比較。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
       },
       {
-        "title": "OpenAI is enlisting an influencer army to make it look 'good for the world'",
-        "url": "https://www.businessinsider.com/inside-open-ai-influencer-marketing-strategy-chatgpt-ads-sponsorships-instagram-2026-9",
-        "points": 93,
-        "comments": 205,
-        "author": "cdrnsf",
-        "createdAt": "2026-09-23T12:32:00Z",
-        "domain": "businessinsider.com",
+        "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+        "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+        "points": 73,
+        "comments": 747,
+        "author": "raahelb",
+        "createdAt": "2026-09-23T18:06:47Z",
+        "domain": "anthropic.com",
         "sourceType": "hn",
-        "category": "AIニュース",
+        "category": "AIモデル",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "OpenAIはインフルエンサーの軍隊を募集して、それを「世界にとって良い」ように見せています",
-        "summaryJa": "この記事は「OpenAIはインフルエンサーの軍隊を募集して、それを「世界にとって良い」ように見せています」を扱っています。OpenAIは、AIを恐ろしいものではなく、クールで役に立つと表現するコンテンツを作成するためにインフルエンサーを雇っています。ここでは、そのマーケティング戦略の内部を見てみましょう。",
+        "titleJa": "Claudeは、CRISPRのような繰り返しを持つ新しい酵素システムを発見しました",
+        "summaryJa": "この記事は「Claudeは、CRISPRのような繰り返しを持つ新しい酵素システムを発見しました」を扱っています。新しいライフサイエンス研究所の初期の結果では、Claudeエージェントはまだ機能が不明な酵素系を発見しました。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
         "keyPoints": [
-          "この記事は「OpenAIはインフルエンサーの軍隊を募集して、それを「世界にとって良い」ように見せています」を扱っています。",
-          "OpenAIは、AIを恐ろしいものではなく、クールで役に立つと表現するコンテンツを作成するためにインフルエンサーを雇っています。",
-          "ここでは、そのマーケティング戦略の内部を見てみましょう。"
-        ]
-      },
-      {
-        "title": "AI changes how Indians research cars ; Google - Kantar study calls for shift in automaker marketing strategies",
-        "url": "https://news.webindia123.com/news/Articles/Business/20260924/4502931.html",
-        "points": 81,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-09-24T11:15:00Z",
-        "domain": "news.webindia123.com",
-        "sourceType": "gdelt",
-        "sourceLabel": "GDELT",
-        "category": "研究",
-        "impact": "中",
-        "newsLens": "技術",
-        "titleJa": "AIはインド人の車の研究方法を変えます。Google - Kantarの研究は、自動車メーカーのマーケティング戦略の変化を求めています",
-        "summaryJa": "この記事は「AIはインド人の車の研究方法を変えます。Google - Kantarの研究は、自動車メーカーのマーケティング戦略の変化を求めています」を扱っています。news.webindia123.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。研究・実装面では、手法の新しさ、再現性、既存モデルとの差分が見るべき点です。",
-        "keyPoints": [
-          "この記事は「AIはインド人の車の研究方法を変えます。",
-          "Google - Kantarの研究は、自動車メーカーのマーケティング戦略の変化を求めています」を扱っています。",
-          "news.webindia123.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。"
+          "この記事は「Claudeは、CRISPRのような繰り返しを持つ新しい酵素システムを発見しました」を扱っています。",
+          "新しいライフサイエンス研究所の初期の結果では、Claudeエージェントはまだ機能が不明な酵素系を発見しました。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
       }
     ],
-    "fetchedAt": "2026-09-24T11:41:59.247Z",
+    "fetchedAt": "2026-09-24T17:08:09.356Z",
     "mock": false
   },
   "xTrends": {
@@ -117,32 +116,14 @@
         "appearances": 2,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-09-24T11:41:59.127Z",
+        "observedAt": "2026-09-24T17:08:09.271Z",
         "url": "https://x.com/search?q=OpenAI%E3%81%AEAI&src=typed_query&f=live",
         "articleTitle": "OpenAIのAI",
         "articleTitleJa": "公開トレンド: OpenAIのAI",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-09-24T11:41:59.127Z",
+        "articlePublishedAt": "2026-09-24T17:08:09.271Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
-        "translationVersion": 3,
-        "articleFallback": true
-      },
-      {
-        "topic": "ChatGPT Voice",
-        "locationLabel": "米国",
-        "bestRank": 48,
-        "appearances": 1,
-        "trendSource": "Trends24",
-        "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-09-24T11:41:59.087Z",
-        "url": "https://x.com/search?q=ChatGPT%20Voice&src=typed_query&f=live",
-        "articleTitle": "ChatGPT Voice",
-        "articleTitleJa": "公開トレンド: ChatGPT Voice",
-        "articleUrl": "https://trends24.in/united-states/",
-        "articleSource": "Trends24",
-        "articlePublishedAt": "2026-09-24T11:41:59.087Z",
-        "summaryJa": "米国のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
       },
@@ -150,10 +131,10 @@
         "topic": "OpenAI",
         "locationLabel": "豪州",
         "bestRank": 1,
-        "appearances": 19,
+        "appearances": 26,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/australia/",
-        "observedAt": "2026-09-24T11:41:59.230Z",
+        "observedAt": "2026-09-24T17:08:09.328Z",
         "url": "https://x.com/search?q=OpenAI&src=typed_query&f=live",
         "articleTitle": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
         "articleTitleJa": "OpenAI内部リポジトリを危険にさらすヒープオーバーフローとSSOの設定ミス",
@@ -164,10 +145,10 @@
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-09-24T11:41:59.247Z",
+    "fetchedAt": "2026-09-24T17:08:09.356Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-09-24T11:42:03.915Z"
+    "articleFetchedAt": "2026-09-24T17:08:12.767Z"
   }
 }
