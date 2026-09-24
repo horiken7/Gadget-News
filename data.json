@@ -5,7 +5,7 @@
         "title": "OpenAI agent hacked Australian government website, PM says",
         "url": "https://www.bbc.com/news/live/cvgl73pxgndwt",
         "points": 147,
-        "comments": 181,
+        "comments": 190,
         "author": "rudy6912",
         "createdAt": "2026-09-24T02:44:48Z",
         "domain": "bbc.com",
@@ -64,10 +64,30 @@
         ]
       },
       {
+        "title": "Best LLM for every budget, updated daily",
+        "url": "https://bestmodelforyourbudget.terrydjony.com/",
+        "points": 101,
+        "comments": 103,
+        "author": "terryds",
+        "createdAt": "2026-09-24T14:09:57Z",
+        "domain": "bestmodelforyourbudget.terrydjony.com",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "あらゆる予算に最適なLLM、毎日更新",
+        "summaryJa": "この記事は「あらゆる予算に最適なLLM、毎日更新」を扱っています。どのLLMが価値があるか：ブレンドされたAPI価格に対する人工分析インテリジェンスインデックス、バリューフロンティアが強調表示されます。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "keyPoints": [
+          "この記事は「あらゆる予算に最適なLLM、毎日更新」を扱っています。",
+          "どのLLMが価値があるか：ブレンドされたAPI価格に対する人工分析インテリジェンスインデックス、バリューフロンティアが強調表示されます。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+        ]
+      },
+      {
         "title": "Mercury 2.5 LLM hits 770 tokens per second",
         "url": "https://artificialanalysis.ai/models/mercury-2-5",
         "points": 101,
-        "comments": 88,
+        "comments": 89,
         "author": "Retro_Dev",
         "createdAt": "2026-09-23T22:16:19Z",
         "domain": "artificialanalysis.ai",
@@ -82,51 +102,13 @@
           "InceptionのMercury 2.5の分析と、品質、価格、パフォーマンス（ 1秒あたりのトークンと最初のトークンまでの時間）、コンテキストウィンドウなどの主要な指標にわたる他のAIモデルとの比較。",
           "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
-      },
-      {
-        "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
-        "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
-        "points": 73,
-        "comments": 747,
-        "author": "raahelb",
-        "createdAt": "2026-09-23T18:06:47Z",
-        "domain": "anthropic.com",
-        "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "Claudeは、CRISPRのような繰り返しを持つ新しい酵素システムを発見しました",
-        "summaryJa": "この記事は「Claudeは、CRISPRのような繰り返しを持つ新しい酵素システムを発見しました」を扱っています。新しいライフサイエンス研究所の初期の結果では、Claudeエージェントはまだ機能が不明な酵素系を発見しました。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
-        "keyPoints": [
-          "この記事は「Claudeは、CRISPRのような繰り返しを持つ新しい酵素システムを発見しました」を扱っています。",
-          "新しいライフサイエンス研究所の初期の結果では、Claudeエージェントはまだ機能が不明な酵素系を発見しました。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
-        ]
       }
     ],
-    "fetchedAt": "2026-09-24T17:08:09.356Z",
+    "fetchedAt": "2026-09-24T21:29:28.131Z",
     "mock": false
   },
   "xTrends": {
     "items": [
-      {
-        "topic": "OpenAIのAI",
-        "locationLabel": "日本",
-        "bestRank": 50,
-        "appearances": 2,
-        "trendSource": "Trends24",
-        "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-09-24T17:08:09.271Z",
-        "url": "https://x.com/search?q=OpenAI%E3%81%AEAI&src=typed_query&f=live",
-        "articleTitle": "OpenAIのAI",
-        "articleTitleJa": "公開トレンド: OpenAIのAI",
-        "articleUrl": "https://trends24.in/japan/",
-        "articleSource": "Trends24",
-        "articlePublishedAt": "2026-09-24T17:08:09.271Z",
-        "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
-        "translationVersion": 3,
-        "articleFallback": true
-      },
       {
         "topic": "OpenAI",
         "locationLabel": "豪州",
@@ -134,7 +116,7 @@
         "appearances": 26,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/australia/",
-        "observedAt": "2026-09-24T17:08:09.328Z",
+        "observedAt": "2026-09-24T21:29:28.072Z",
         "url": "https://x.com/search?q=OpenAI&src=typed_query&f=live",
         "articleTitle": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
         "articleTitleJa": "OpenAI内部リポジトリを危険にさらすヒープオーバーフローとSSOの設定ミス",
@@ -145,10 +127,10 @@
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-09-24T17:08:09.356Z",
+    "fetchedAt": "2026-09-24T21:29:28.131Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-09-24T17:08:12.767Z"
+    "articleFetchedAt": "2026-09-24T21:29:30.993Z"
   }
 }
