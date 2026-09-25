@@ -2,23 +2,44 @@
   "news": {
     "items": [
       {
-        "title": "Australia to investigate if OpenAI hack of government health website broke the law",
-        "url": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law/",
-        "points": 105,
+        "title": "Meta is putting its muscle behind Muse as the AI app takes off",
+        "url": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/",
+        "points": 107,
         "comments": 0,
         "author": "",
-        "createdAt": "2026-09-24T12:54:19.000Z",
+        "createdAt": "2026-09-25T16:16:52.000Z",
         "domain": "techcrunch.com",
         "sourceType": "rss",
         "sourceLabel": "TechCrunch AI",
         "newsLens": "一般",
         "category": "AIニュース",
         "impact": "高",
-        "titleJa": "オーストラリア、OpenAIによる政府の医療ウェブサイトのハッキングが法律に違反しているかどうかを調査",
-        "summaryJa": "この記事は「オーストラリア、OpenAIによる政府の医療ウェブサイトのハッキングが法律に違反しているかどうかを調査」を扱っています。この事件は、政府機関に影響を及ぼした最初の既知の違反であり、オーストラリアの首相はOpenAIに責任を負わせることを誓った。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "titleJa": "AIアプリが離陸するにつれて、MetaはMuseの背後に力を入れています",
+        "summaryJa": "この記事は「AIアプリが離陸するにつれて、MetaはMuseの背後に力を入れています」を扱っています。Museはアプリストアのチャートを上回り、ユーザーを迅速に追加していますが、Metaは自社アプリ内外でパーソナルAIエージェントのプロモーションを強化しています。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
-          "この記事は「オーストラリア、OpenAIによる政府の医療ウェブサイトのハッキングが法律に違反しているかどうかを調査」を扱っています。",
-          "この事件は、政府機関に影響を及ぼした最初の既知の違反であり、オーストラリアの首相はOpenAIに責任を負わせることを誓った。",
+          "この記事は「AIアプリが離陸するにつれて、MetaはMuseの背後に力を入れています」を扱っています。",
+          "Museはアプリストアのチャートを上回り、ユーザーを迅速に追加していますが、Metaは自社アプリ内外でパーソナルAIエージェントのプロモーションを強化しています。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+        ]
+      },
+      {
+        "title": "For months, OpenAI’s agent swarms have been attacking online databases to find obscure facts",
+        "url": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts/",
+        "points": 107,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-09-25T15:48:14.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
+        "category": "AIニュース",
+        "impact": "高",
+        "titleJa": "何ヶ月もの間、OpenAIのエージェント群は、不明瞭な事実を見つけるためにオンラインデータベースを攻撃してきました",
+        "summaryJa": "この記事は「何ヶ月もの間、OpenAIのエージェント群は、不明瞭な事実を見つけるためにオンラインデータベースを攻撃してきました」を扱っています。最新の無許可の工作員集団が研究者によって発見されました。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "keyPoints": [
+          "この記事は「何ヶ月もの間、OpenAIのエージェント群は、不明瞭な事実を見つけるためにオンラインデータベースを攻撃してきました」を扱っています。",
+          "最新の無許可の工作員集団が研究者によって発見されました。",
           "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       },
@@ -26,7 +47,7 @@
         "title": "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
         "url": "https://github.com/devdotfast/whiteboard",
         "points": 101,
-        "comments": 120,
+        "comments": 126,
         "author": "sidharthkmenon",
         "createdAt": "2026-09-24T17:21:36Z",
         "domain": "github.com",
@@ -46,7 +67,7 @@
         "title": "Show HN: Koi.rest – watch some fish and regain your balance",
         "url": "https://koi.rest",
         "points": 101,
-        "comments": 55,
+        "comments": 59,
         "author": "hxii",
         "createdAt": "2026-09-24T21:33:03Z",
         "domain": "koi.rest",
@@ -63,75 +84,71 @@
         ]
       },
       {
-        "title": "Best LLM for every budget, updated daily",
-        "url": "https://bestmodelforyourbudget.terrydjony.com/",
-        "points": 101,
-        "comments": 109,
-        "author": "terryds",
-        "createdAt": "2026-09-24T14:09:57Z",
-        "domain": "bestmodelforyourbudget.terrydjony.com",
+        "title": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
+        "url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
+        "points": 92,
+        "comments": 90,
+        "author": "cramer4next",
+        "createdAt": "2026-09-25T15:29:25Z",
+        "domain": "cnbc.com",
         "sourceType": "hn",
-        "category": "AIモデル",
+        "category": "AIニュース",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "あらゆる予算に最適なLLM、毎日更新",
-        "summaryJa": "この記事は「あらゆる予算に最適なLLM、毎日更新」を扱っています。どのLLMが価値があるか：ブレンドされたAPI価格に対する人工分析インテリジェンスインデックス、バリューフロンティアが強調表示されます。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "titleJa": "米国の控訴裁判所は、Anthropicをサプライチェーンリスクとして指定することを支持",
+        "summaryJa": "この記事は「米国の控訴裁判所は、Anthropicをサプライチェーンリスクとして指定することを支持」を扱っています。連邦控訴裁判所は2対1の判決で、国防総省のAnthropicのブラックリストを支持した。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
         "keyPoints": [
-          "この記事は「あらゆる予算に最適なLLM、毎日更新」を扱っています。",
-          "どのLLMが価値があるか：ブレンドされたAPI価格に対する人工分析インテリジェンスインデックス、バリューフロンティアが強調表示されます。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
-        ]
-      },
-      {
-        "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
-        "url": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/",
-        "points": 79,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-09-25T05:00:00.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
-        "category": "AIニュース",
-        "impact": "中",
-        "titleJa": "Lightspeedは、初期段階のAIに焦点を当てた新しいインドのファンドに2億5000万$を目標としています",
-        "summaryJa": "この記事は「Lightspeedは、初期段階のAIに焦点を当てた新しいインドのファンドに2億5000万$を目標としています」を扱っています。このベンチャー企業は、より短い投資期間に移行するため、初めてインドの資金調達サイクルをグローバルファンドに合わせています。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
-        "keyPoints": [
-          "この記事は「Lightspeedは、初期段階のAIに焦点を当てた新しいインドのファンドに2億5000万$を目標としています」を扱っています。",
-          "このベンチャー企業は、より短い投資期間に移行するため、初めてインドの資金調達サイクルをグローバルファンドに合わせています。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+          "この記事は「米国の控訴裁判所は、Anthropicをサプライチェーンリスクとして指定することを支持」を扱っています。",
+          "連邦控訴裁判所は2対1の判決で、国防総省のAnthropicのブラックリストを支持した。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
       }
     ],
-    "fetchedAt": "2026-09-25T11:47:54.546Z",
+    "fetchedAt": "2026-09-25T17:08:23.764Z",
     "mock": false
   },
   "xTrends": {
     "items": [
       {
+        "topic": "Copilot",
+        "locationLabel": "米国",
+        "bestRank": 15,
+        "appearances": 4,
+        "trendSource": "Trends24",
+        "sourceUrl": "https://trends24.in/united-states/",
+        "observedAt": "2026-09-25T17:08:23.513Z",
+        "url": "https://x.com/search?q=Copilot&src=typed_query&f=live",
+        "articleTitle": "Microsoft agentically ports Copilot runtime to Rust for $120K",
+        "articleTitleJa": "Microsoftが12万$でCopilotランタイムをRustにエージェント移植",
+        "articleUrl": "https://www.theregister.com/devops/2026/09/18/microsoft-agentically-ports-copilot-runtime-to-rust-for-120k/5297549",
+        "articleSource": "theregister.com",
+        "articlePublishedAt": "2026-09-20T09:08:52Z",
+        "summaryJa": "Rustコンパイラは、LLMの滑稽さに邪魔されません",
+        "translationVersion": 3
+      },
+      {
         "topic": "OpenAI",
         "locationLabel": "豪州",
-        "bestRank": 2,
-        "appearances": 26,
+        "bestRank": 3,
+        "appearances": 24,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/australia/",
-        "observedAt": "2026-09-25T11:47:54.525Z",
+        "observedAt": "2026-09-25T17:08:23.569Z",
         "url": "https://x.com/search?q=OpenAI&src=typed_query&f=live",
         "articleTitle": "OpenAI",
         "articleTitleJa": "公開トレンド: OpenAI",
         "articleUrl": "https://trends24.in/australia/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-09-25T11:47:54.525Z",
+        "articlePublishedAt": "2026-09-25T17:08:23.569Z",
         "summaryJa": "豪州のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
       }
     ],
-    "fetchedAt": "2026-09-25T11:47:54.546Z",
+    "fetchedAt": "2026-09-25T17:08:23.764Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-09-25T11:47:57.428Z"
+    "articleFetchedAt": "2026-09-25T17:08:29.342Z"
   }
 }
