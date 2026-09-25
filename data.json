@@ -2,6 +2,27 @@
   "news": {
     "items": [
       {
+        "title": "Meta’s Muse just stole the AI spotlight from OpenAI and Anthropic",
+        "url": "https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/",
+        "points": 107,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-09-25T18:22:47.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
+        "category": "AIニュース",
+        "impact": "高",
+        "titleJa": "MetaのMuseは、OpenAIとAnthropicからAIのスポットライトを盗んだばかりです",
+        "summaryJa": "この記事は「MetaのMuseは、OpenAIとAnthropicからAIのスポットライトを盗んだばかりです」を扱っています。OpenAIとAnthropicのAIリーダーが「フロンティアのペーシング」について話し始めたとき、誰かが尋ねるべきだったかもしれません：どのようなペースで？今では、AnthropicがOpus 5.5をロールアウトし、わずか90分後にOpenAIのGPT -6モデルがアップデートされたため、両社のモデルドロップウィークになりました。",
+        "keyPoints": [
+          "この記事は「MetaのMuseは、OpenAIとAnthropicからAIのスポットライトを盗んだばかりです」を扱っています。",
+          "OpenAIとAnthropicのAIリーダーが「フロンティアのペーシング」について話し始めたとき、誰かが尋ねるべきだったかもしれません：どのようなペースで。",
+          "今では、AnthropicがOpus 5.5をロールアウトし、わずか90分後にOpenAIのGPT -6モデルがアップデートされたため、両社のモデルドロップウィークになりました。"
+        ]
+      },
+      {
         "title": "Meta is putting its muscle behind Muse as the AI app takes off",
         "url": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/",
         "points": 107,
@@ -15,59 +36,18 @@
         "category": "AIニュース",
         "impact": "高",
         "titleJa": "AIアプリが離陸するにつれて、MetaはMuseの背後に力を入れています",
-        "summaryJa": "この記事は「AIアプリが離陸するにつれて、MetaはMuseの背後に力を入れています」を扱っています。Museはアプリストアのチャートを上回り、ユーザーを迅速に追加していますが、Metaは自社アプリ内外でパーソナルAIエージェントのプロモーションを強化しています。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "summaryJa": "この記事は「AIアプリが離陸するにつれて、MetaはMuseの背後に力を入れています」を扱っています。Museはアプリストアのチャートを上回り、ユーザーを迅速に追加していますが、Metaは独自のアプリを超えてパーソナルAIエージェントのプロモーションを強化しています。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
           "この記事は「AIアプリが離陸するにつれて、MetaはMuseの背後に力を入れています」を扱っています。",
-          "Museはアプリストアのチャートを上回り、ユーザーを迅速に追加していますが、Metaは自社アプリ内外でパーソナルAIエージェントのプロモーションを強化しています。",
+          "Museはアプリストアのチャートを上回り、ユーザーを迅速に追加していますが、Metaは独自のアプリを超えてパーソナルAIエージェントのプロモーションを強化しています。",
           "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
-        ]
-      },
-      {
-        "title": "For months, OpenAI’s agent swarms have been attacking online databases to find obscure facts",
-        "url": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts/",
-        "points": 107,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-09-25T15:48:14.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
-        "category": "AIニュース",
-        "impact": "高",
-        "titleJa": "何ヶ月もの間、OpenAIのエージェント群は、不明瞭な事実を見つけるためにオンラインデータベースを攻撃してきました",
-        "summaryJa": "この記事は「何ヶ月もの間、OpenAIのエージェント群は、不明瞭な事実を見つけるためにオンラインデータベースを攻撃してきました」を扱っています。最新の無許可の工作員集団が研究者によって発見されました。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
-        "keyPoints": [
-          "この記事は「何ヶ月もの間、OpenAIのエージェント群は、不明瞭な事実を見つけるためにオンラインデータベースを攻撃してきました」を扱っています。",
-          "最新の無許可の工作員集団が研究者によって発見されました。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
-        ]
-      },
-      {
-        "title": "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
-        "url": "https://github.com/devdotfast/whiteboard",
-        "points": 101,
-        "comments": 126,
-        "author": "sidharthkmenon",
-        "createdAt": "2026-09-24T17:21:36Z",
-        "domain": "github.com",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "Show HN: Whiteboard (YC W 26) –思慮深いソフトウェア設計のためのオープンソースIDE",
-        "summaryJa": "この記事は「Show HN: Whiteboard (YC W 26) –思慮深いソフトウェア設計のためのオープンソースIDE」を扱っています。私たちは、人間とエージェントが共通のワークスペースでソフトウェアを構築できるオープンソースデスクトップアプリであるWhiteboard （ https://whiteboard.dev.fast/ ）を構築しています。当社のリポジトリは次のとおりです： https://github.com/devdotfast/whiteboard。",
-        "keyPoints": [
-          "この記事は「Show HN: Whiteboard (YC W 26) –思慮深いソフトウェア設計のためのオープンソースIDE」を扱っています。",
-          "私たちは、人間とエージェントが共通のワークスペースでソフトウェアを構築できるオープンソースデスクトップアプリであるWhiteboard （ https://whiteboard.dev.fast/ ）を構築しています。",
-          "当社のリポジトリは次のとおりです： https://github.com/devdotfast/whiteboard。"
         ]
       },
       {
         "title": "Show HN: Koi.rest – watch some fish and regain your balance",
         "url": "https://koi.rest",
         "points": 101,
-        "comments": 59,
+        "comments": 60,
         "author": "hxii",
         "createdAt": "2026-09-24T21:33:03Z",
         "domain": "koi.rest",
@@ -86,8 +66,8 @@
       {
         "title": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
         "url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
-        "points": 92,
-        "comments": 90,
+        "points": 93,
+        "comments": 506,
         "author": "cramer4next",
         "createdAt": "2026-09-25T15:29:25Z",
         "domain": "cnbc.com",
@@ -102,9 +82,29 @@
           "連邦控訴裁判所は2対1の判決で、国防総省のAnthropicのブラックリストを支持した。",
           "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
+      },
+      {
+        "title": "Meta's Muse appears to use an OpenAI model labeled muse-special",
+        "url": "https://mouse.dev/blog/muse-special/",
+        "points": 87,
+        "comments": 32,
+        "author": "Aeroi",
+        "createdAt": "2026-09-25T18:18:06Z",
+        "domain": "mouse.dev",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "中",
+        "newsLens": "技術",
+        "titleJa": "MetaのMuseは、muse - specialとラベル付けされたOpenAIモデルを使用しているようです",
+        "summaryJa": "この記事は「MetaのMuseは、muse - specialとラベル付けされたOpenAIモデルを使用しているようです」を扱っています。Museが私のウェブサイトを構築している間、1つのサブエージェントはazure/muse - specialと呼ばれるモデルで実行されました。そこで、もう一度ファイルシステムを掘り下げました。",
+        "keyPoints": [
+          "この記事は「MetaのMuseは、muse - specialとラベル付けされたOpenAIモデルを使用しているようです」を扱っています。",
+          "Museが私のウェブサイトを構築している間、1つのサブエージェントはazure/muse - specialと呼ばれるモデルで実行されました。",
+          "そこで、もう一度ファイルシステムを掘り下げました。"
+        ]
       }
     ],
-    "fetchedAt": "2026-09-25T17:08:23.764Z",
+    "fetchedAt": "2026-09-25T21:32:58.721Z",
     "mock": false
   },
   "xTrends": {
@@ -113,10 +113,10 @@
         "topic": "Copilot",
         "locationLabel": "米国",
         "bestRank": 15,
-        "appearances": 4,
+        "appearances": 7,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-09-25T17:08:23.513Z",
+        "observedAt": "2026-09-25T21:32:58.598Z",
         "url": "https://x.com/search?q=Copilot&src=typed_query&f=live",
         "articleTitle": "Microsoft agentically ports Copilot runtime to Rust for $120K",
         "articleTitleJa": "Microsoftが12万$でCopilotランタイムをRustにエージェント移植",
@@ -129,26 +129,26 @@
       {
         "topic": "OpenAI",
         "locationLabel": "豪州",
-        "bestRank": 3,
+        "bestRank": 5,
         "appearances": 24,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/australia/",
-        "observedAt": "2026-09-25T17:08:23.569Z",
+        "observedAt": "2026-09-25T21:32:58.708Z",
         "url": "https://x.com/search?q=OpenAI&src=typed_query&f=live",
         "articleTitle": "OpenAI",
         "articleTitleJa": "公開トレンド: OpenAI",
         "articleUrl": "https://trends24.in/australia/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-09-25T17:08:23.569Z",
+        "articlePublishedAt": "2026-09-25T21:32:58.708Z",
         "summaryJa": "豪州のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
       }
     ],
-    "fetchedAt": "2026-09-25T17:08:23.764Z",
+    "fetchedAt": "2026-09-25T21:32:58.721Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-09-25T17:08:29.342Z"
+    "articleFetchedAt": "2026-09-25T21:33:04.790Z"
   }
 }
