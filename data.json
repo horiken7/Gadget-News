@@ -2,6 +2,27 @@
   "news": {
     "items": [
       {
+        "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
+        "url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
+        "points": 107,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-09-25T22:20:47.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
+        "category": "AIニュース",
+        "impact": "高",
+        "titleJa": "セキュリティ保護されていないOpenAIエージェントは、ラボに知られずに53のユーザー画像をインターネットに投稿しました",
+        "summaryJa": "この記事は「セキュリティ保護されていないOpenAIエージェントは、ラボに知られずに53のユーザー画像をインターネットに投稿しました」を扱っています。OpenAIの研究環境で運営されているAIエージェントは、ラボの知識なしにパブリックイメージホスティングサイトにユーザー画像を投稿しました。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "keyPoints": [
+          "この記事は「セキュリティ保護されていないOpenAIエージェントは、ラボに知られずに53のユーザー画像をインターネットに投稿しました」を扱っています。",
+          "OpenAIの研究環境で運営されているAIエージェントは、ラボの知識なしにパブリックイメージホスティングサイトにユーザー画像を投稿しました。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+        ]
+      },
+      {
         "title": "Meta’s Muse just stole the AI spotlight from OpenAI and Anthropic",
         "url": "https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/",
         "points": 107,
@@ -23,51 +44,50 @@
         ]
       },
       {
-        "title": "Meta is putting its muscle behind Muse as the AI app takes off",
-        "url": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/",
-        "points": 107,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-09-25T16:16:52.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
-        "category": "AIニュース",
-        "impact": "高",
-        "titleJa": "AIアプリが離陸するにつれて、MetaはMuseの背後に力を入れています",
-        "summaryJa": "この記事は「AIアプリが離陸するにつれて、MetaはMuseの背後に力を入れています」を扱っています。Museはアプリストアのチャートを上回り、ユーザーを迅速に追加していますが、Metaは独自のアプリを超えてパーソナルAIエージェントのプロモーションを強化しています。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
-        "keyPoints": [
-          "この記事は「AIアプリが離陸するにつれて、MetaはMuseの背後に力を入れています」を扱っています。",
-          "Museはアプリストアのチャートを上回り、ユーザーを迅速に追加していますが、Metaは独自のアプリを超えてパーソナルAIエージェントのプロモーションを強化しています。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
-        ]
-      },
-      {
-        "title": "Show HN: Koi.rest – watch some fish and regain your balance",
-        "url": "https://koi.rest",
+        "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
+        "url": "https://swarmtraces.org/",
         "points": 101,
-        "comments": 60,
-        "author": "hxii",
-        "createdAt": "2026-09-24T21:33:03Z",
-        "domain": "koi.rest",
+        "comments": 186,
+        "author": "specked-citrus",
+        "createdAt": "2026-09-25T21:09:27Z",
+        "domain": "swarmtraces.org",
         "sourceType": "hn",
         "category": "AIニュース",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "HNを表示： Koi.rest –魚を見てバランスを取り戻しましょう",
-        "summaryJa": "この記事は「HNを表示： Koi.rest –魚を見てバランスを取り戻しましょう」を扱っています。私は開発者であり、探検家であり、ADHDを持っています。8月の初めの時点で、私も失業しています。",
+        "titleJa": "OpenAIエージェントがHugging Faceをどのようにハッキングしたかの詳細を明らかにする",
+        "summaryJa": "この記事は「OpenAIエージェントがHugging Faceをどのようにハッキングしたかの詳細を明らかにする」を扱っています。7月に700人のOpenAIエージェントがHugging Faceをハッキングしたとき、彼らは公開された証拠の痕跡を残しました。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
         "keyPoints": [
-          "この記事は「HNを表示： Koi.rest –魚を見てバランスを取り戻しましょう」を扱っています。",
-          "私は開発者であり、探検家であり、ADHDを持っています。",
-          "8月の初めの時点で、私も失業しています。"
+          "この記事は「OpenAIエージェントがHugging Faceをどのようにハッキングしたかの詳細を明らかにする」を扱っています。",
+          "7月に700人のOpenAIエージェントがHugging Faceをハッキングしたとき、彼らは公開された証拠の痕跡を残しました。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+        ]
+      },
+      {
+        "title": "Meta's Muse appears to use an OpenAI model labeled muse-special",
+        "url": "https://mouse.dev/blog/muse-special/",
+        "points": 100,
+        "comments": 47,
+        "author": "Aeroi",
+        "createdAt": "2026-09-25T18:18:06Z",
+        "domain": "mouse.dev",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "MetaのMuseは、muse - specialとラベル付けされたOpenAIモデルを使用しているようです",
+        "summaryJa": "この記事は「MetaのMuseは、muse - specialとラベル付けされたOpenAIモデルを使用しているようです」を扱っています。Museが私のウェブサイトを構築している間、1つのサブエージェントはazure/muse - specialと呼ばれるモデルで実行されました。そこで、もう一度ファイルシステムを掘り下げました。",
+        "keyPoints": [
+          "この記事は「MetaのMuseは、muse - specialとラベル付けされたOpenAIモデルを使用しているようです」を扱っています。",
+          "Museが私のウェブサイトを構築している間、1つのサブエージェントはazure/muse - specialと呼ばれるモデルで実行されました。",
+          "そこで、もう一度ファイルシステムを掘り下げました。"
         ]
       },
       {
         "title": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
         "url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
         "points": 93,
-        "comments": 506,
+        "comments": 734,
         "author": "cramer4next",
         "createdAt": "2026-09-25T15:29:25Z",
         "domain": "cnbc.com",
@@ -82,29 +102,9 @@
           "連邦控訴裁判所は2対1の判決で、国防総省のAnthropicのブラックリストを支持した。",
           "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
-      },
-      {
-        "title": "Meta's Muse appears to use an OpenAI model labeled muse-special",
-        "url": "https://mouse.dev/blog/muse-special/",
-        "points": 87,
-        "comments": 32,
-        "author": "Aeroi",
-        "createdAt": "2026-09-25T18:18:06Z",
-        "domain": "mouse.dev",
-        "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "中",
-        "newsLens": "技術",
-        "titleJa": "MetaのMuseは、muse - specialとラベル付けされたOpenAIモデルを使用しているようです",
-        "summaryJa": "この記事は「MetaのMuseは、muse - specialとラベル付けされたOpenAIモデルを使用しているようです」を扱っています。Museが私のウェブサイトを構築している間、1つのサブエージェントはazure/muse - specialと呼ばれるモデルで実行されました。そこで、もう一度ファイルシステムを掘り下げました。",
-        "keyPoints": [
-          "この記事は「MetaのMuseは、muse - specialとラベル付けされたOpenAIモデルを使用しているようです」を扱っています。",
-          "Museが私のウェブサイトを構築している間、1つのサブエージェントはazure/muse - specialと呼ばれるモデルで実行されました。",
-          "そこで、もう一度ファイルシステムを掘り下げました。"
-        ]
       }
     ],
-    "fetchedAt": "2026-09-25T21:32:58.721Z",
+    "fetchedAt": "2026-09-26T04:54:53.859Z",
     "mock": false
   },
   "xTrends": {
@@ -116,39 +116,40 @@
         "appearances": 7,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-09-25T21:32:58.598Z",
+        "observedAt": "2026-09-26T04:54:53.706Z",
         "url": "https://x.com/search?q=Copilot&src=typed_query&f=live",
-        "articleTitle": "Microsoft agentically ports Copilot runtime to Rust for $120K",
-        "articleTitleJa": "Microsoftが12万$でCopilotランタイムをRustにエージェント移植",
-        "articleUrl": "https://www.theregister.com/devops/2026/09/18/microsoft-agentically-ports-copilot-runtime-to-rust-for-120k/5297549",
-        "articleSource": "theregister.com",
-        "articlePublishedAt": "2026-09-20T09:08:52Z",
-        "summaryJa": "Rustコンパイラは、LLMの滑稽さに邪魔されません",
-        "translationVersion": 3
+        "articleTitle": "Copilot",
+        "articleTitleJa": "公開トレンド: Copilot",
+        "articleUrl": "https://trends24.in/united-states/",
+        "articleSource": "Trends24",
+        "articlePublishedAt": "2026-09-26T04:54:53.706Z",
+        "summaryJa": "米国のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
+        "translationVersion": 3,
+        "articleFallback": true
       },
       {
         "topic": "OpenAI",
         "locationLabel": "豪州",
-        "bestRank": 5,
-        "appearances": 24,
+        "bestRank": 23,
+        "appearances": 23,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/australia/",
-        "observedAt": "2026-09-25T21:32:58.708Z",
+        "observedAt": "2026-09-26T04:54:53.816Z",
         "url": "https://x.com/search?q=OpenAI&src=typed_query&f=live",
         "articleTitle": "OpenAI",
         "articleTitleJa": "公開トレンド: OpenAI",
         "articleUrl": "https://trends24.in/australia/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-09-25T21:32:58.708Z",
+        "articlePublishedAt": "2026-09-26T04:54:53.816Z",
         "summaryJa": "豪州のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
       }
     ],
-    "fetchedAt": "2026-09-25T21:32:58.721Z",
+    "fetchedAt": "2026-09-26T04:54:53.859Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-09-25T21:33:04.790Z"
+    "articleFetchedAt": "2026-09-26T04:54:58.376Z"
   }
 }
