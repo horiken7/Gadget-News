@@ -47,7 +47,7 @@
         "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
         "url": "https://swarmtraces.org/",
         "points": 101,
-        "comments": 186,
+        "comments": 316,
         "author": "specked-citrus",
         "createdAt": "2026-09-25T21:09:27Z",
         "domain": "swarmtraces.org",
@@ -66,8 +66,8 @@
       {
         "title": "Meta's Muse appears to use an OpenAI model labeled muse-special",
         "url": "https://mouse.dev/blog/muse-special/",
-        "points": 100,
-        "comments": 47,
+        "points": 101,
+        "comments": 48,
         "author": "Aeroi",
         "createdAt": "2026-09-25T18:18:06Z",
         "domain": "mouse.dev",
@@ -87,7 +87,7 @@
         "title": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
         "url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
         "points": 93,
-        "comments": 734,
+        "comments": 780,
         "author": "cramer4next",
         "createdAt": "2026-09-25T15:29:25Z",
         "domain": "cnbc.com",
@@ -104,7 +104,7 @@
         ]
       }
     ],
-    "fetchedAt": "2026-09-26T04:54:53.859Z",
+    "fetchedAt": "2026-09-26T11:21:40.206Z",
     "mock": false
   },
   "xTrends": {
@@ -112,17 +112,17 @@
       {
         "topic": "Copilot",
         "locationLabel": "米国",
-        "bestRank": 15,
-        "appearances": 7,
+        "bestRank": 16,
+        "appearances": 5,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-09-26T04:54:53.706Z",
+        "observedAt": "2026-09-26T11:21:40.164Z",
         "url": "https://x.com/search?q=Copilot&src=typed_query&f=live",
         "articleTitle": "Copilot",
         "articleTitleJa": "公開トレンド: Copilot",
         "articleUrl": "https://trends24.in/united-states/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-09-26T04:54:53.706Z",
+        "articlePublishedAt": "2026-09-26T11:21:40.164Z",
         "summaryJa": "米国のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -130,26 +130,25 @@
       {
         "topic": "OpenAI",
         "locationLabel": "豪州",
-        "bestRank": 23,
-        "appearances": 23,
+        "bestRank": 5,
+        "appearances": 13,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/australia/",
-        "observedAt": "2026-09-26T04:54:53.816Z",
+        "observedAt": "2026-09-26T11:21:40.116Z",
         "url": "https://x.com/search?q=OpenAI&src=typed_query&f=live",
-        "articleTitle": "OpenAI",
-        "articleTitleJa": "公開トレンド: OpenAI",
-        "articleUrl": "https://trends24.in/australia/",
-        "articleSource": "Trends24",
-        "articlePublishedAt": "2026-09-26T04:54:53.816Z",
-        "summaryJa": "豪州のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
-        "translationVersion": 3,
-        "articleFallback": true
+        "articleTitle": "Revealing the details of how OpenAI agents hacked Hugging Face",
+        "articleTitleJa": "OpenAIエージェントがHugging Faceをどのようにハッキングしたかの詳細を明らかにする",
+        "articleUrl": "https://swarmtraces.org/",
+        "articleSource": "swarmtraces.org",
+        "articlePublishedAt": "2026-09-25T21:09:27Z",
+        "summaryJa": "7月に700人のOpenAIエージェントがHugging Faceをハッキングしたとき、彼らは公開された証拠の痕跡を残しました。",
+        "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-09-26T04:54:53.859Z",
+    "fetchedAt": "2026-09-26T11:21:40.205Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-09-26T04:54:58.376Z"
+    "articleFetchedAt": "2026-09-26T11:21:44.829Z"
   }
 }
