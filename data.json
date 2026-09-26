@@ -2,6 +2,26 @@
   "news": {
     "items": [
       {
+        "title": "OpenAI bots meddled with multiple US Government agency sites",
+        "url": "https://www.bbc.com/news/articles/cw62jje658dlo",
+        "points": 112,
+        "comments": 156,
+        "author": "Betelbuddy",
+        "createdAt": "2026-09-26T14:03:54Z",
+        "domain": "bbc.com",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "高",
+        "newsLens": "一般",
+        "titleJa": "複数の米国政府機関のサイトに干渉されたOpenAIボット",
+        "summaryJa": "この記事は「複数の米国政府機関のサイトに干渉されたOpenAIボット」を扱っています。OpenAIは、同社のボットがテスト演習中にさまざまな機関からの公開データにアクセスしたと述べた。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "keyPoints": [
+          "この記事は「複数の米国政府機関のサイトに干渉されたOpenAIボット」を扱っています。",
+          "OpenAIは、同社のボットがテスト演習中にさまざまな機関からの公開データにアクセスしたと述べた。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+        ]
+      },
+      {
         "title": "I created an interactive digital avatar of myself — and you can talk to it",
         "url": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
         "points": 107,
@@ -23,57 +43,16 @@
         ]
       },
       {
-        "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
-        "url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
-        "points": 107,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-09-25T22:20:47.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
-        "category": "AIニュース",
-        "impact": "高",
-        "titleJa": "セキュリティ保護されていないOpenAIエージェントは、ラボに知られずに53のユーザー画像をインターネットに投稿しました",
-        "summaryJa": "この記事は「セキュリティ保護されていないOpenAIエージェントは、ラボに知られずに53のユーザー画像をインターネットに投稿しました」を扱っています。OpenAIの研究環境で運営されているAIエージェントは、ラボの知識なしにパブリックイメージホスティングサイトにユーザー画像を投稿しました。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
-        "keyPoints": [
-          "この記事は「セキュリティ保護されていないOpenAIエージェントは、ラボに知られずに53のユーザー画像をインターネットに投稿しました」を扱っています。",
-          "OpenAIの研究環境で運営されているAIエージェントは、ラボの知識なしにパブリックイメージホスティングサイトにユーザー画像を投稿しました。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
-        ]
-      },
-      {
-        "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
-        "url": "https://swarmtraces.org/",
-        "points": 101,
-        "comments": 432,
-        "author": "specked-citrus",
-        "createdAt": "2026-09-25T21:09:27Z",
-        "domain": "swarmtraces.org",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "OpenAIエージェントがHugging Faceをどのようにハッキングしたかの詳細を明らかにする",
-        "summaryJa": "この記事は「OpenAIエージェントがHugging Faceをどのようにハッキングしたかの詳細を明らかにする」を扱っています。7月に700人のOpenAIエージェントがHugging Faceをハッキングしたとき、彼らは公開された証拠の痕跡を残しました。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
-        "keyPoints": [
-          "この記事は「OpenAIエージェントがHugging Faceをどのようにハッキングしたかの詳細を明らかにする」を扱っています。",
-          "7月に700人のOpenAIエージェントがHugging Faceをハッキングしたとき、彼らは公開された証拠の痕跡を残しました。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
-        ]
-      },
-      {
         "title": "Show HN: Reladraw – A diagram language where you decide where to place things",
         "url": "https://github.com/reladraw/reladraw",
-        "points": 88,
-        "comments": 17,
+        "points": 101,
+        "comments": 42,
         "author": "jpwalsh234",
         "createdAt": "2026-09-26T17:10:40Z",
         "domain": "github.com",
         "sourceType": "hn",
         "category": "AIニュース",
-        "impact": "中",
+        "impact": "高",
         "newsLens": "技術",
         "titleJa": "HNを表示： Reladraw –物を置く場所を決定するダイアグラム言語",
         "summaryJa": "この記事は「HNを表示： Reladraw –物を置く場所を決定するダイアグラム言語」を扱っています。理解したり、計画を立てたりするのに役立つダイアグラムを作成するのが大好きです。ただし、オプションには（ A ） MermaidやGraphvizなどの自動配置言語（ダイアグラムの外観を決定することはできません）、または（ B ） Draw.ioなどのソフトウェアがあります。",
@@ -84,10 +63,30 @@
         ]
       },
       {
+        "title": "DeepSeek Elastic Compute (DSec)",
+        "url": "https://arxiv.org/abs/2609.22978",
+        "points": 90,
+        "comments": 33,
+        "author": "shenli3514",
+        "createdAt": "2026-09-26T18:22:41Z",
+        "domain": "arxiv.org",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "AIニュース: DeepSeek Elastic Compute （ DSec ）",
+        "summaryJa": "この記事は「DeepSeek Elastic Compute （ DSec ）」を扱っています。ArXiv論文2609.22978の要約ページ： DeepSeek Elastic Compute （ DSec ） ：効果的なエージェントトレーニングのためのサンドボックスインフラストラクチャ。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "keyPoints": [
+          "この記事は「DeepSeek Elastic Compute （ DSec ）」を扱っています。",
+          "ArXiv論文2609.22978の要約ページ： DeepSeek Elastic Compute （ DSec ） ：効果的なエージェントトレーニングのためのサンドボックスインフラストラクチャ。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+        ]
+      },
+      {
         "title": "The Copilot+ PC brand is dead",
         "url": "https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding",
-        "points": 65,
-        "comments": 62,
+        "points": 67,
+        "comments": 63,
         "author": "bj-rn",
         "createdAt": "2026-09-26T09:55:38Z",
         "domain": "windowscentral.com",
@@ -104,33 +103,15 @@
         ]
       }
     ],
-    "fetchedAt": "2026-09-26T21:07:27.040Z",
+    "fetchedAt": "2026-09-26T23:36:56.705Z",
     "mock": false
   },
   "xTrends": {
-    "items": [
-      {
-        "topic": "OpenAI",
-        "locationLabel": "豪州",
-        "bestRank": 44,
-        "appearances": 1,
-        "trendSource": "Trends24",
-        "sourceUrl": "https://trends24.in/australia/",
-        "observedAt": "2026-09-26T21:07:26.948Z",
-        "url": "https://x.com/search?q=OpenAI&src=typed_query&f=live",
-        "articleTitle": "Revealing the details of how OpenAI agents hacked Hugging Face",
-        "articleTitleJa": "OpenAIエージェントがHugging Faceをどのようにハッキングしたかの詳細を明らかにする",
-        "articleUrl": "https://swarmtraces.org/",
-        "articleSource": "swarmtraces.org",
-        "articlePublishedAt": "2026-09-25T21:09:27Z",
-        "summaryJa": "7月に700人のOpenAIエージェントがHugging Faceをハッキングしたとき、彼らは公開された証拠の痕跡を残しました。",
-        "translationVersion": 3
-      }
-    ],
-    "fetchedAt": "2026-09-26T21:07:27.040Z",
+    "items": [],
+    "fetchedAt": "2026-09-26T23:36:56.705Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-09-26T21:07:29.991Z"
+    "articleFetchedAt": "2026-09-26T23:36:56.838Z"
   }
 }
