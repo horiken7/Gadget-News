@@ -2,6 +2,27 @@
   "news": {
     "items": [
       {
+        "title": "I created an interactive digital avatar of myself — and you can talk to it",
+        "url": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
+        "points": 107,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-09-26T14:00:00.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
+        "category": "AIニュース",
+        "impact": "高",
+        "titleJa": "私は自分自身のインタラクティブなデジタルアバターを作成しました—あなたはそれと話すことができます",
+        "summaryJa": "この記事は「私は自分自身のインタラクティブなデジタルアバターを作成しました—あなたはそれと話すことができます」を扱っています。インタラクティブなアバターを入手し、ベンチャー詐欺について話し合うように訓練した後、私は自分自身のAIクローンを作ることについて複雑な感情を抱いています。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "keyPoints": [
+          "この記事は「私は自分自身のインタラクティブなデジタルアバターを作成しました—あなたはそれと話すことができます」を扱っています。",
+          "インタラクティブなアバターを入手し、ベンチャー詐欺について話し合うように訓練した後、私は自分自身のAIクローンを作ることについて複雑な感情を抱いています。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+        ]
+      },
+      {
         "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
         "url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
         "points": 107,
@@ -23,31 +44,10 @@
         ]
       },
       {
-        "title": "Meta’s Muse just stole the AI spotlight from OpenAI and Anthropic",
-        "url": "https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/",
-        "points": 107,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-09-25T18:22:47.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
-        "category": "AIニュース",
-        "impact": "高",
-        "titleJa": "MetaのMuseは、OpenAIとAnthropicからAIのスポットライトを盗んだばかりです",
-        "summaryJa": "この記事は「MetaのMuseは、OpenAIとAnthropicからAIのスポットライトを盗んだばかりです」を扱っています。OpenAIとAnthropicのAIリーダーが「フロンティアのペーシング」について話し始めたとき、誰かが尋ねるべきだったかもしれません：どのようなペースで？今では、AnthropicがOpus 5.5をロールアウトし、わずか90分後にOpenAIのGPT -6モデルがアップデートされたため、両社のモデルドロップウィークになりました。",
-        "keyPoints": [
-          "この記事は「MetaのMuseは、OpenAIとAnthropicからAIのスポットライトを盗んだばかりです」を扱っています。",
-          "OpenAIとAnthropicのAIリーダーが「フロンティアのペーシング」について話し始めたとき、誰かが尋ねるべきだったかもしれません：どのようなペースで。",
-          "今では、AnthropicがOpus 5.5をロールアウトし、わずか90分後にOpenAIのGPT -6モデルがアップデートされたため、両社のモデルドロップウィークになりました。"
-        ]
-      },
-      {
         "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
         "url": "https://swarmtraces.org/",
         "points": 101,
-        "comments": 316,
+        "comments": 391,
         "author": "specked-citrus",
         "createdAt": "2026-09-25T21:09:27Z",
         "domain": "swarmtraces.org",
@@ -84,57 +84,39 @@
         ]
       },
       {
-        "title": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
-        "url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
-        "points": 93,
-        "comments": 780,
-        "author": "cramer4next",
-        "createdAt": "2026-09-25T15:29:25Z",
-        "domain": "cnbc.com",
+        "title": "One Month Without AI",
+        "url": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
+        "points": 73,
+        "comments": 171,
+        "author": "saibotk",
+        "createdAt": "2026-09-26T10:08:21Z",
+        "domain": "blog.bustikiller.com",
         "sourceType": "hn",
         "category": "AIニュース",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "米国の控訴裁判所は、Anthropicをサプライチェーンリスクとして指定することを支持",
-        "summaryJa": "この記事は「米国の控訴裁判所は、Anthropicをサプライチェーンリスクとして指定することを支持」を扱っています。連邦控訴裁判所は2対1の判決で、国防総省のAnthropicのブラックリストを支持した。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "titleJa": "AIなしの1か月",
+        "summaryJa": "この記事は「AIなしの1か月」を扱っています。数ヶ月前、私が構築し維持しているFOSSプロジェクトであるLibreWeddingPlannerでは、AIの貢献はもはや歓迎されないと判断しました。AIで多くの貢献を得たわけではありません。",
         "keyPoints": [
-          "この記事は「米国の控訴裁判所は、Anthropicをサプライチェーンリスクとして指定することを支持」を扱っています。",
-          "連邦控訴裁判所は2対1の判決で、国防総省のAnthropicのブラックリストを支持した。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+          "この記事は「AIなしの1か月」を扱っています。",
+          "数ヶ月前、私が構築し維持しているFOSSプロジェクトであるLibreWeddingPlannerでは、AIの貢献はもはや歓迎されないと判断しました。",
+          "AIで多くの貢献を得たわけではありません。"
         ]
       }
     ],
-    "fetchedAt": "2026-09-26T11:21:40.206Z",
+    "fetchedAt": "2026-09-26T16:21:01.476Z",
     "mock": false
   },
   "xTrends": {
     "items": [
       {
-        "topic": "Copilot",
-        "locationLabel": "米国",
-        "bestRank": 16,
-        "appearances": 5,
-        "trendSource": "Trends24",
-        "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-09-26T11:21:40.164Z",
-        "url": "https://x.com/search?q=Copilot&src=typed_query&f=live",
-        "articleTitle": "Copilot",
-        "articleTitleJa": "公開トレンド: Copilot",
-        "articleUrl": "https://trends24.in/united-states/",
-        "articleSource": "Trends24",
-        "articlePublishedAt": "2026-09-26T11:21:40.164Z",
-        "summaryJa": "米国のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
-        "translationVersion": 3,
-        "articleFallback": true
-      },
-      {
         "topic": "OpenAI",
         "locationLabel": "豪州",
-        "bestRank": 5,
-        "appearances": 13,
+        "bestRank": 26,
+        "appearances": 7,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/australia/",
-        "observedAt": "2026-09-26T11:21:40.116Z",
+        "observedAt": "2026-09-26T16:21:01.465Z",
         "url": "https://x.com/search?q=OpenAI&src=typed_query&f=live",
         "articleTitle": "Revealing the details of how OpenAI agents hacked Hugging Face",
         "articleTitleJa": "OpenAIエージェントがHugging Faceをどのようにハッキングしたかの詳細を明らかにする",
@@ -145,10 +127,10 @@
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-09-26T11:21:40.205Z",
+    "fetchedAt": "2026-09-26T16:21:01.476Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-09-26T11:21:44.829Z"
+    "articleFetchedAt": "2026-09-26T16:21:04.992Z"
   }
 }
