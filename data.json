@@ -4,8 +4,8 @@
       {
         "title": "OpenAI bots meddled with multiple US Government agency sites",
         "url": "https://www.bbc.com/news/articles/cw62jje658dlo",
-        "points": 115,
-        "comments": 171,
+        "points": 117,
+        "comments": 179,
         "author": "Betelbuddy",
         "createdAt": "2026-09-26T14:03:54Z",
         "domain": "bbc.com",
@@ -46,7 +46,7 @@
         "title": "Show HN: Reladraw – A diagram language where you decide where to place things",
         "url": "https://github.com/reladraw/reladraw",
         "points": 101,
-        "comments": 68,
+        "comments": 88,
         "author": "jpwalsh234",
         "createdAt": "2026-09-26T17:10:40Z",
         "domain": "github.com",
@@ -66,7 +66,7 @@
         "title": "DeepSeek Elastic Compute (DSec)",
         "url": "https://arxiv.org/abs/2609.22978",
         "points": 93,
-        "comments": 62,
+        "comments": 86,
         "author": "shenli3514",
         "createdAt": "2026-09-26T18:22:41Z",
         "domain": "arxiv.org",
@@ -83,35 +83,35 @@
         ]
       },
       {
-        "title": "The Copilot+ PC brand is dead",
-        "url": "https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding",
-        "points": 67,
-        "comments": 65,
-        "author": "bj-rn",
-        "createdAt": "2026-09-26T09:55:38Z",
-        "domain": "windowscentral.com",
+        "title": "OpenAI Feared \"Optics\" of what might appear on Hacker News",
+        "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/",
+        "points": 73,
+        "comments": 245,
+        "author": "papergirl",
+        "createdAt": "2026-09-27T06:19:33Z",
+        "domain": "authorsguild.org",
         "sourceType": "hn",
         "category": "AIニュース",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "Copilot + PCブランドは死んだ",
-        "summaryJa": "この記事は「Copilot + PCブランドは死んだ」を扱っています。新しいインタビューで、Microsoft Surface CVPは、新しいSurface PCがCopilot + PCとは呼ばれなくなりましたが、引き続きCopilot +のすべての機能をサポートすることを確認しました。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "titleJa": "OpenAIは、ハッカーニュースに表示される可能性のある「光学系」を恐れていました",
+        "summaryJa": "この記事は「OpenAIは、ハッカーニュースに表示される可能性のある「光学系」を恐れていました」を扱っています。（ニューヨーク、2026年9月21日）先週木曜日に公開された爆発的な新しい文書Authors Guild v. OpenAI - OpenAIとMicrosoftが著作権で保護された書籍で製品を違法にトレーニングしたと主張する主要な書籍著作者の訴訟-は、両社の幹部と従業員が意図的に[...]。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
         "keyPoints": [
-          "この記事は「Copilot + PCブランドは死んだ」を扱っています。",
-          "新しいインタビューで、Microsoft Surface CVPは、新しいSurface PCがCopilot + PCとは呼ばれなくなりましたが、引き続きCopilot +のすべての機能をサポートすることを確認しました。",
+          "この記事は「OpenAIは、ハッカーニュースに表示される可能性のある「光学系」を恐れていました」を扱っています。",
+          "（ニューヨーク、2026年9月21日）先週木曜日に公開された爆発的な新しい文書Authors Guild v. OpenAI - OpenAIとMicrosoftが著作権で保護された書籍で製品を違法にトレーニングしたと主張する主要な書籍著作者の訴訟-は、両社の幹部と従業員が意図的に[...]。",
           "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
       }
     ],
-    "fetchedAt": "2026-09-27T05:15:47.489Z",
+    "fetchedAt": "2026-09-27T11:59:16.259Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-09-27T05:15:47.489Z",
+    "fetchedAt": "2026-09-27T11:59:16.259Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-09-27T05:15:47.640Z"
+    "articleFetchedAt": "2026-09-27T11:59:16.405Z"
   }
 }
