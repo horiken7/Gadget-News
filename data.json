@@ -2,51 +2,30 @@
   "news": {
     "items": [
       {
-        "title": "OpenAI bots meddled with multiple US Government agency sites",
-        "url": "https://www.bbc.com/news/articles/cw62jje658dlo",
-        "points": 117,
-        "comments": 179,
-        "author": "Betelbuddy",
-        "createdAt": "2026-09-26T14:03:54Z",
-        "domain": "bbc.com",
+        "title": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
+        "url": "https://arxiv.org/abs/2609.25021",
+        "points": 110,
+        "comments": 93,
+        "author": "yu3zhou4",
+        "createdAt": "2026-09-27T10:26:25Z",
+        "domain": "arxiv.org",
         "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "高",
-        "newsLens": "一般",
-        "titleJa": "複数の米国政府機関のサイトに干渉されたOpenAIボット",
-        "summaryJa": "この記事は「複数の米国政府機関のサイトに干渉されたOpenAIボット」を扱っています。OpenAIは、同社のボットがテスト演習中にさまざまな機関からの公開データにアクセスしたと述べた。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "category": "AIモデル",
+        "impact": "中",
+        "newsLens": "技術",
+        "titleJa": "「言語モデルとして」：チャットテンプレートがLLMの自己参照音声を切り替える",
+        "summaryJa": "この記事は「「言語モデルとして」：チャットテンプレートがLLMの自己参照音声を切り替える」を扱っています。ArXiv論文2609.25021のアブストラクトページ：「言語モデルとして...」：チャットテンプレートスイッチLLM自己参照音声とアクティベーションステアリングが再現。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
         "keyPoints": [
-          "この記事は「複数の米国政府機関のサイトに干渉されたOpenAIボット」を扱っています。",
-          "OpenAIは、同社のボットがテスト演習中にさまざまな機関からの公開データにアクセスしたと述べた。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
-        ]
-      },
-      {
-        "title": "I created an interactive digital avatar of myself — and you can talk to it",
-        "url": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
-        "points": 107,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-09-26T14:00:00.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
-        "category": "AIニュース",
-        "impact": "高",
-        "titleJa": "私は自分自身のインタラクティブなデジタルアバターを作成しました—あなたはそれと話すことができます",
-        "summaryJa": "この記事は「私は自分自身のインタラクティブなデジタルアバターを作成しました—あなたはそれと話すことができます」を扱っています。インタラクティブなアバターを入手し、ベンチャー詐欺について話し合うように訓練した後、私は自分自身のAIクローンを作ることについて複雑な感情を抱いています。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
-        "keyPoints": [
-          "この記事は「私は自分自身のインタラクティブなデジタルアバターを作成しました—あなたはそれと話すことができます」を扱っています。",
-          "インタラクティブなアバターを入手し、ベンチャー詐欺について話し合うように訓練した後、私は自分自身のAIクローンを作ることについて複雑な感情を抱いています。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+          "この記事は「「言語モデルとして」：チャットテンプレートがLLMの自己参照音声を切り替える」を扱っています。",
+          "ArXiv論文2609.25021のアブストラクトページ：「言語モデルとして...」：チャットテンプレートスイッチLLM自己参照音声とアクティベーションステアリングが再現。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
       },
       {
         "title": "Show HN: Reladraw – A diagram language where you decide where to place things",
         "url": "https://github.com/reladraw/reladraw",
         "points": 101,
-        "comments": 88,
+        "comments": 101,
         "author": "jpwalsh234",
         "createdAt": "2026-09-26T17:10:40Z",
         "domain": "github.com",
@@ -66,7 +45,7 @@
         "title": "DeepSeek Elastic Compute (DSec)",
         "url": "https://arxiv.org/abs/2609.22978",
         "points": 93,
-        "comments": 86,
+        "comments": 95,
         "author": "shenli3514",
         "createdAt": "2026-09-26T18:22:41Z",
         "domain": "arxiv.org",
@@ -83,35 +62,57 @@
         ]
       },
       {
-        "title": "OpenAI Feared \"Optics\" of what might appear on Hacker News",
-        "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/",
-        "points": 73,
-        "comments": 245,
-        "author": "papergirl",
-        "createdAt": "2026-09-27T06:19:33Z",
-        "domain": "authorsguild.org",
-        "sourceType": "hn",
+        "title": "Anthropic’s Dario Amodei gets the SNL treatment",
+        "url": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
+        "points": 79,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-09-27T16:30:00.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
         "category": "AIニュース",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "OpenAIは、ハッカーニュースに表示される可能性のある「光学系」を恐れていました",
-        "summaryJa": "この記事は「OpenAIは、ハッカーニュースに表示される可能性のある「光学系」を恐れていました」を扱っています。（ニューヨーク、2026年9月21日）先週木曜日に公開された爆発的な新しい文書Authors Guild v. OpenAI - OpenAIとMicrosoftが著作権で保護された書籍で製品を違法にトレーニングしたと主張する主要な書籍著作者の訴訟-は、両社の幹部と従業員が意図的に[...]。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "impact": "中",
+        "titleJa": "AnthropicのDario AmodeiがSNL治療を受ける",
+        "summaryJa": "この記事は「AnthropicのDario AmodeiがSNL治療を受ける」を扱っています。「AIは悪魔であり、私はその創造者です。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
-          "この記事は「OpenAIは、ハッカーニュースに表示される可能性のある「光学系」を恐れていました」を扱っています。",
-          "（ニューヨーク、2026年9月21日）先週木曜日に公開された爆発的な新しい文書Authors Guild v. OpenAI - OpenAIとMicrosoftが著作権で保護された書籍で製品を違法にトレーニングしたと主張する主要な書籍著作者の訴訟-は、両社の幹部と従業員が意図的に[...]。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+          "この記事は「AnthropicのDario AmodeiがSNL治療を受ける」を扱っています。",
+          "「AIは悪魔であり、私はその創造者です。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+        ]
+      },
+      {
+        "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
+        "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
+        "points": 79,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-09-27T01:30:00.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
+        "category": "AIモデル",
+        "impact": "中",
+        "titleJa": "Google、インドでウォルマートが所有するFlipkartからGeminiとAI Modeを通じた購入をテスト",
+        "summaryJa": "この記事は「Google、インドでウォルマートが所有するFlipkartからGeminiとAI Modeを通じた購入をテスト」を扱っています。この限定的なテストは、一部の製品とユーザーを対象としており、10月後半にはより広範な展開が予定されています。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "keyPoints": [
+          "この記事は「Google、インドでウォルマートが所有するFlipkartからGeminiとAI Modeを通じた購入をテスト」を扱っています。",
+          "この限定的なテストは、一部の製品とユーザーを対象としており、10月後半にはより広範な展開が予定されています。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       }
     ],
-    "fetchedAt": "2026-09-27T11:59:16.259Z",
+    "fetchedAt": "2026-09-27T16:56:39.519Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-09-27T11:59:16.259Z",
+    "fetchedAt": "2026-09-27T16:56:39.519Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-09-27T11:59:16.405Z"
+    "articleFetchedAt": "2026-09-27T16:56:39.667Z"
   }
 }
