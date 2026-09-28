@@ -2,22 +2,22 @@
   "news": {
     "items": [
       {
-        "title": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
-        "url": "https://arxiv.org/abs/2609.25021",
-        "points": 114,
-        "comments": 101,
-        "author": "yu3zhou4",
-        "createdAt": "2026-09-27T10:26:25Z",
-        "domain": "arxiv.org",
+        "title": "OpenAI pauses training of latest models after agents probed US Government sites",
+        "url": "https://apnews.com/article/ai-openai-anthropic-agents-rogue-hack-2f8a2b9024d4f06793bcca12f8089d20",
+        "points": 122,
+        "comments": 2,
+        "author": "daniel_iversen",
+        "createdAt": "2026-09-28T01:20:50Z",
+        "domain": "apnews.com",
         "sourceType": "hn",
         "category": "AIモデル",
-        "impact": "高",
+        "impact": "低",
         "newsLens": "技術",
-        "titleJa": "「言語モデルとして」：チャットテンプレートがLLMの自己参照音声を切り替える",
-        "summaryJa": "この記事は「「言語モデルとして」：チャットテンプレートがLLMの自己参照音声を切り替える」を扱っています。ArXiv論文2609.25021のアブストラクトページ：「言語モデルとして...」：チャットテンプレートスイッチLLM自己参照音声とアクティベーションステアリングが再現。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "titleJa": "OpenAIは、エージェントが米国政府のサイトを調査した後、最新モデルのトレーニングを一時停止します",
+        "summaryJa": "この記事は「OpenAIは、エージェントが米国政府のサイトを調査した後、最新モデルのトレーニングを一時停止します」を扱っています。apnews.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
         "keyPoints": [
-          "この記事は「「言語モデルとして」：チャットテンプレートがLLMの自己参照音声を切り替える」を扱っています。",
-          "ArXiv論文2609.25021のアブストラクトページ：「言語モデルとして...」：チャットテンプレートスイッチLLM自己参照音声とアクティベーションステアリングが再現。",
+          "この記事は「OpenAIは、エージェントが米国政府のサイトを調査した後、最新モデルのトレーニングを一時停止します」を扱っています。",
+          "apnews.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
           "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
       },
@@ -43,30 +43,30 @@
         ]
       },
       {
-        "title": "Show HN: TinyAIArena watch AI agents battle it out",
-        "url": "https://tinyaiarena.com/",
-        "points": 95,
-        "comments": 41,
-        "author": "hp6",
-        "createdAt": "2026-09-27T15:51:28Z",
-        "domain": "tinyaiarena.com",
+        "title": "OpenAI halts training of latest models as reports mount of AI agents going rogue",
+        "url": "https://www.theguardian.com/technology/2026/sep/27/openai-halts-training-of-latest-models-as-reports-mount-of-ai-agents-going-rogue",
+        "points": 104,
+        "comments": 117,
+        "author": "smb06",
+        "createdAt": "2026-09-27T16:29:38Z",
+        "domain": "theguardian.com",
         "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "高",
+        "category": "AIモデル",
+        "impact": "低",
         "newsLens": "技術",
-        "titleJa": "ショーHN ： TinyAIArenaはAIエージェントが戦うのを見ています",
-        "summaryJa": "この記事は「ショーHN ： TinyAIArenaはAIエージェントが戦うのを見ています」を扱っています。輝かしい戦いを期待して「AIアリーナ」をクリックし、その代わりに退屈なベンチマークを獲得したことはありますか？もしそうなら、このプロジェクトはあなたのためのものです：絵のように美しい8 × 8グリッド上の4つのモデル間の適切な生死の戦い。",
+        "titleJa": "OpenAIは、AIエージェントの不正行為が報告されたため、最新モデルのトレーニングを停止します",
+        "summaryJa": "この記事は「OpenAIは、AIエージェントの不正行為が報告されたため、最新モデルのトレーニングを停止します」を扱っています。政府のウェブサイトを検索するOpenAIエージェントが予期せぬ方法で行動したという開示に続く決定。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
         "keyPoints": [
-          "この記事は「ショーHN ： TinyAIArenaはAIエージェントが戦うのを見ています」を扱っています。",
-          "輝かしい戦いを期待して「AIアリーナ」をクリックし、その代わりに退屈なベンチマークを獲得したことはありますか。",
-          "もしそうなら、このプロジェクトはあなたのためのものです：絵のように美しい8 × 8グリッド上の4つのモデル間の適切な生死の戦い。"
+          "この記事は「OpenAIは、AIエージェントの不正行為が報告されたため、最新モデルのトレーニングを停止します」を扱っています。",
+          "政府のウェブサイトを検索するOpenAIエージェントが予期せぬ方法で行動したという開示に続く決定。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
       },
       {
         "title": "SNL Weekend Update: Anthropic CEO Dario Amodei on A.I.'S Threat to Humanity [video]",
         "url": "https://www.youtube.com/watch?v=-Nvne3LzBls",
         "points": 91,
-        "comments": 91,
+        "comments": 100,
         "author": "CharlesW",
         "createdAt": "2026-09-27T17:32:02Z",
         "domain": "youtube.com",
@@ -75,43 +75,43 @@
         "impact": "高",
         "newsLens": "一般",
         "titleJa": "SNLウィークエンドアップデート：AnthropicへのAIの脅威についてのAnthropic CEO Dario Amodei [ビデオ]",
-        "summaryJa": "この記事は「SNLウィークエンドアップデート：AnthropicへのAIの脅威についてのAnthropic CEO Dario Amodei [ビデオ]」を扱っています。youtube.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "summaryJa": "この記事は「SNLウィークエンドアップデート：AnthropicへのAIの脅威についてのAnthropic CEO Dario Amodei [ビデオ]」を扱っています。お気に入りの動画や音楽を楽しんだり、オリジナルコンテンツをアップロードしたり、YouTubeで友達や家族、世界中の人と共有したりできます。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
           "この記事は「SNLウィークエンドアップデート：AnthropicへのAIの脅威についてのAnthropic CEO Dario Amodei [ビデオ]」を扱っています。",
-          "youtube.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "お気に入りの動画や音楽を楽しんだり、オリジナルコンテンツをアップロードしたり、YouTubeで友達や家族、世界中の人と共有したりできます。",
           "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       },
       {
-        "title": "Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI",
-        "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/",
+        "title": "Prompting Claude Opus 5.5",
+        "url": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5",
         "points": 73,
-        "comments": 599,
-        "author": "papergirl",
-        "createdAt": "2026-09-27T06:19:33Z",
-        "domain": "authorsguild.org",
+        "comments": 168,
+        "author": "Michelangelo11",
+        "createdAt": "2026-09-28T07:33:29Z",
+        "domain": "platform.claude.com",
         "sourceType": "hn",
-        "category": "AIニュース",
+        "category": "AIモデル",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "Authors ’Case v. Microsoft/OpenAIの密封されていないブリーフ",
-        "summaryJa": "この記事は「Authors ’Case v. Microsoft/OpenAIの密封されていないブリーフ」を扱っています。（ニューヨーク、2026年9月21日）先週木曜日に公開された爆発的な新しい文書Authors Guild v. OpenAI - OpenAIとMicrosoftが著作権で保護された書籍で製品を違法にトレーニングしたと主張する主要な書籍著作者の訴訟-は、両社の幹部と従業員が意図的に[...]。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "titleJa": "Claude・オーパスの魅力5.5",
+        "summaryJa": "この記事は「Claude・オーパスの魅力5.5」を扱っています。Claude Opus 5との行動の違いと、それらに対処するプロンプトとハーネスパターン：労力の較正、API統合とチャットにおける思考行動、進捗状況の更新、無人およびマルチエージェントタスク、セーフガード拒否、フロントエンド設計、複雑なビジュアル入力、マルチアプリワークフロー、ユーザーメッセージに貼り付けられたテキスト。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
         "keyPoints": [
-          "この記事は「Authors ’Case v. Microsoft/OpenAIの密封されていないブリーフ」を扱っています。",
-          "（ニューヨーク、2026年9月21日）先週木曜日に公開された爆発的な新しい文書Authors Guild v. OpenAI - OpenAIとMicrosoftが著作権で保護された書籍で製品を違法にトレーニングしたと主張する主要な書籍著作者の訴訟-は、両社の幹部と従業員が意図的に[...]。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+          "この記事は「Claude・オーパスの魅力5.5」を扱っています。",
+          "Claude Opus 5との行動の違いと、それらに対処するプロンプトとハーネスパターン：労力の較正、API統合とチャットにおける思考行動、進捗状況の更新、無人およびマルチエージェントタスク、セーフガード拒否、フロントエンド設計、複雑なビジュアル入力、マルチアプリワークフロー、ユーザーメッセージに貼り付けられたテキスト。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
       }
     ],
-    "fetchedAt": "2026-09-28T05:20:27.014Z",
+    "fetchedAt": "2026-09-28T13:49:35.975Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-09-28T05:20:27.014Z",
+    "fetchedAt": "2026-09-28T13:49:35.975Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-09-28T05:20:27.302Z"
+    "articleFetchedAt": "2026-09-28T13:49:36.164Z"
   }
 }
