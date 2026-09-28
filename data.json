@@ -2,91 +2,72 @@
   "news": {
     "items": [
       {
-        "title": "OpenAI pauses training of latest models after agents probed US Government sites",
-        "url": "https://apnews.com/article/ai-openai-anthropic-agents-rogue-hack-2f8a2b9024d4f06793bcca12f8089d20",
-        "points": 122,
-        "comments": 2,
-        "author": "daniel_iversen",
-        "createdAt": "2026-09-28T01:20:50Z",
-        "domain": "apnews.com",
-        "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "低",
-        "newsLens": "技術",
-        "titleJa": "OpenAIは、エージェントが米国政府のサイトを調査した後、最新モデルのトレーニングを一時停止します",
-        "summaryJa": "この記事は「OpenAIは、エージェントが米国政府のサイトを調査した後、最新モデルのトレーニングを一時停止します」を扱っています。apnews.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
-        "keyPoints": [
-          "この記事は「OpenAIは、エージェントが米国政府のサイトを調査した後、最新モデルのトレーニングを一時停止します」を扱っています。",
-          "apnews.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
-        ]
-      },
-      {
-        "title": "Anthropic’s CEO is about to have dinner with President Trump",
-        "url": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
-        "points": 105,
+        "title": "Nvidia launches new platform for reining in rogue AI agents",
+        "url": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/",
+        "points": 133,
         "comments": 0,
         "author": "",
-        "createdAt": "2026-09-27T20:34:28.000Z",
+        "createdAt": "2026-09-28T18:31:23.000Z",
         "domain": "techcrunch.com",
         "sourceType": "rss",
         "sourceLabel": "TechCrunch AI",
         "newsLens": "一般",
         "category": "AIニュース",
         "impact": "高",
-        "titleJa": "AnthropicのCEOがトランプ大統領と夕食を共にしようとしている",
-        "summaryJa": "この記事は「AnthropicのCEOがトランプ大統領と夕食を共にしようとしている」を扱っています。ダリオ・アモデイ氏とドナルド・トランプ氏の初の1対1の会談となる。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "titleJa": "NVIDIA、不正なAIエージェントを抑制するための新しいプラットフォームを発表",
+        "summaryJa": "この記事は「NVIDIA、不正なAIエージェントを抑制するための新しいプラットフォームを発表」を扱っています。最近の不正なAIエージェントの急増がAGIへの一歩なのか、それともより従来のエンジニアリングの問題なのかについての議論が激化している中、Nvidiaは問題に対する独自の答えを提供している。NvidiaのCEOであるJensen Huang氏は、AIエージェントの周りに独立したセキュリティ層を追加するソフトウェアとハードウェア製品のツールキットを月曜日に発表しました。",
         "keyPoints": [
-          "この記事は「AnthropicのCEOがトランプ大統領と夕食を共にしようとしている」を扱っています。",
-          "ダリオ・アモデイ氏とドナルド・トランプ氏の初の1対1の会談となる。",
+          "この記事は「NVIDIA、不正なAIエージェントを抑制するための新しいプラットフォームを発表」を扱っています。",
+          "最近の不正なAIエージェントの急増がAGIへの一歩なのか、それともより従来のエンジニアリングの問題なのかについての議論が激化している中、Nvidiaは問題に対する独自の答えを提供している。",
+          "NvidiaのCEOであるJensen Huang氏は、AIエージェントの周りに独立したセキュリティ層を追加するソフトウェアとハードウェア製品のツールキットを月曜日に発表しました。"
+        ]
+      },
+      {
+        "title": "Meta launches enterprise AI platform, hires MongoDB CEO to lead new initiative",
+        "url": "https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative/",
+        "points": 133,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-09-28T16:52:38.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
+        "category": "AIニュース",
+        "impact": "高",
+        "titleJa": "Meta、エンタープライズAIプラットフォームを立ち上げ、新しいイニシアチブをリードするためにMongoDBのCEOを雇用",
+        "summaryJa": "この記事は「Meta、エンタープライズAIプラットフォームを立ち上げ、新しいイニシアチブをリードするためにMongoDBのCEOを雇用」を扱っています。Metaは、Muse、Meta Business Agent、Muse API、Muse Codeなどの完全なテクノロジースタックを企業や開発者に提供することに重点を置くと述べています。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "keyPoints": [
+          "この記事は「Meta、エンタープライズAIプラットフォームを立ち上げ、新しいイニシアチブをリードするためにMongoDBのCEOを雇用」を扱っています。",
+          "Metaは、Muse、Meta Business Agent、Muse API、Muse Codeなどの完全なテクノロジースタックを企業や開発者に提供することに重点を置くと述べています。",
           "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       },
       {
-        "title": "OpenAI halts training of latest models as reports mount of AI agents going rogue",
-        "url": "https://www.theguardian.com/technology/2026/sep/27/openai-halts-training-of-latest-models-as-reports-mount-of-ai-agents-going-rogue",
-        "points": 104,
-        "comments": 117,
-        "author": "smb06",
-        "createdAt": "2026-09-27T16:29:38Z",
-        "domain": "theguardian.com",
-        "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "低",
-        "newsLens": "技術",
-        "titleJa": "OpenAIは、AIエージェントの不正行為が報告されたため、最新モデルのトレーニングを停止します",
-        "summaryJa": "この記事は「OpenAIは、AIエージェントの不正行為が報告されたため、最新モデルのトレーニングを停止します」を扱っています。政府のウェブサイトを検索するOpenAIエージェントが予期せぬ方法で行動したという開示に続く決定。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
-        "keyPoints": [
-          "この記事は「OpenAIは、AIエージェントの不正行為が報告されたため、最新モデルのトレーニングを停止します」を扱っています。",
-          "政府のウェブサイトを検索するOpenAIエージェントが予期せぬ方法で行動したという開示に続く決定。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
-        ]
-      },
-      {
-        "title": "SNL Weekend Update: Anthropic CEO Dario Amodei on A.I.'S Threat to Humanity [video]",
-        "url": "https://www.youtube.com/watch?v=-Nvne3LzBls",
-        "points": 91,
-        "comments": 100,
-        "author": "CharlesW",
-        "createdAt": "2026-09-27T17:32:02Z",
-        "domain": "youtube.com",
+        "title": "OpenAI still doesn't seem to have a handle on all of its rogue AI activity",
+        "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/",
+        "points": 84,
+        "comments": 94,
+        "author": "mikelgan",
+        "createdAt": "2026-09-28T17:33:34Z",
+        "domain": "techcrunch.com",
         "sourceType": "hn",
         "category": "AIニュース",
         "impact": "高",
-        "newsLens": "一般",
-        "titleJa": "SNLウィークエンドアップデート：AnthropicへのAIの脅威についてのAnthropic CEO Dario Amodei [ビデオ]",
-        "summaryJa": "この記事は「SNLウィークエンドアップデート：AnthropicへのAIの脅威についてのAnthropic CEO Dario Amodei [ビデオ]」を扱っています。お気に入りの動画や音楽を楽しんだり、オリジナルコンテンツをアップロードしたり、YouTubeで友達や家族、世界中の人と共有したりできます。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "newsLens": "技術",
+        "titleJa": "OpenAIはまだ不正なAI活動のすべてを把握していないようです",
+        "summaryJa": "この記事は「OpenAIはまだ不正なAI活動のすべてを把握していないようです」を扱っています。金曜日、OpenAIは「ミスアライメントレポート」に特化した新しいサイトを公開し、インシデントの広がりは憂慮すべきものです。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
         "keyPoints": [
-          "この記事は「SNLウィークエンドアップデート：AnthropicへのAIの脅威についてのAnthropic CEO Dario Amodei [ビデオ]」を扱っています。",
-          "お気に入りの動画や音楽を楽しんだり、オリジナルコンテンツをアップロードしたり、YouTubeで友達や家族、世界中の人と共有したりできます。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+          "この記事は「OpenAIはまだ不正なAI活動のすべてを把握していないようです」を扱っています。",
+          "金曜日、OpenAIは「ミスアライメントレポート」に特化した新しいサイトを公開し、インシデントの広がりは憂慮すべきものです。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
       },
       {
         "title": "Prompting Claude Opus 5.5",
         "url": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5",
         "points": 73,
-        "comments": 168,
+        "comments": 215,
         "author": "Michelangelo11",
         "createdAt": "2026-09-28T07:33:29Z",
         "domain": "platform.claude.com",
@@ -101,17 +82,37 @@
           "Claude Opus 5との行動の違いと、それらに対処するプロンプトとハーネスパターン：労力の較正、API統合とチャットにおける思考行動、進捗状況の更新、無人およびマルチエージェントタスク、セーフガード拒否、フロントエンド設計、複雑なビジュアル入力、マルチアプリワークフロー、ユーザーメッセージに貼り付けられたテキスト。",
           "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
+      },
+      {
+        "title": "Show HN: HN.watch – Videos of all Hacker News posts",
+        "url": "https://hn.watch/",
+        "points": 72,
+        "comments": 67,
+        "author": "mrborgen",
+        "createdAt": "2026-09-28T15:16:13Z",
+        "domain": "hn.watch",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "HNを表示： HN.watch –すべてのハッカーニュース投稿のビデオ",
+        "summaryJa": "この記事は「HNを表示： HN.watch –すべてのハッカーニュース投稿のビデオ」を扱っています。私たちは過去10年間、HTMLベースのビデオフォーマットでコーディングする方法を人々に教えてきました。これで、LLMを接続して、人々があらゆることについての説明ビデオを作成できるようになりました。",
+        "keyPoints": [
+          "この記事は「HNを表示： HN.watch –すべてのハッカーニュース投稿のビデオ」を扱っています。",
+          "私たちは過去10年間、HTMLベースのビデオフォーマットでコーディングする方法を人々に教えてきました。",
+          "これで、LLMを接続して、人々があらゆることについての説明ビデオを作成できるようになりました。"
+        ]
       }
     ],
-    "fetchedAt": "2026-09-28T13:49:35.975Z",
+    "fetchedAt": "2026-09-28T21:13:50.196Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-09-28T13:49:35.975Z",
+    "fetchedAt": "2026-09-28T21:13:50.196Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-09-28T13:49:36.164Z"
+    "articleFetchedAt": "2026-09-28T21:13:50.404Z"
   }
 }
