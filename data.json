@@ -4,8 +4,8 @@
       {
         "title": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
         "url": "https://arxiv.org/abs/2609.25021",
-        "points": 113,
-        "comments": 100,
+        "points": 114,
+        "comments": 101,
         "author": "yu3zhou4",
         "createdAt": "2026-09-27T10:26:25Z",
         "domain": "arxiv.org",
@@ -43,30 +43,30 @@
         ]
       },
       {
-        "title": "There are no \"rogue\" AI agents",
-        "url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
-        "points": 101,
-        "comments": 223,
-        "author": "zzzeek",
-        "createdAt": "2026-09-27T16:19:46Z",
-        "domain": "eoinhiggins.substack.com",
+        "title": "Show HN: TinyAIArena watch AI agents battle it out",
+        "url": "https://tinyaiarena.com/",
+        "points": 95,
+        "comments": 41,
+        "author": "hp6",
+        "createdAt": "2026-09-27T15:51:28Z",
+        "domain": "tinyaiarena.com",
         "sourceType": "hn",
         "category": "AIニュース",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "「ならず者」AIエージェントはいません",
-        "summaryJa": "この記事は「「ならず者」AIエージェントはいません」を扱っています。eoinhiggins.substack.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "titleJa": "ショーHN ： TinyAIArenaはAIエージェントが戦うのを見ています",
+        "summaryJa": "この記事は「ショーHN ： TinyAIArenaはAIエージェントが戦うのを見ています」を扱っています。輝かしい戦いを期待して「AIアリーナ」をクリックし、その代わりに退屈なベンチマークを獲得したことはありますか？もしそうなら、このプロジェクトはあなたのためのものです：絵のように美しい8 × 8グリッド上の4つのモデル間の適切な生死の戦い。",
         "keyPoints": [
-          "この記事は「「ならず者」AIエージェントはいません」を扱っています。",
-          "eoinhiggins.substack.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+          "この記事は「ショーHN ： TinyAIArenaはAIエージェントが戦うのを見ています」を扱っています。",
+          "輝かしい戦いを期待して「AIアリーナ」をクリックし、その代わりに退屈なベンチマークを獲得したことはありますか。",
+          "もしそうなら、このプロジェクトはあなたのためのものです：絵のように美しい8 × 8グリッド上の4つのモデル間の適切な生死の戦い。"
         ]
       },
       {
         "title": "SNL Weekend Update: Anthropic CEO Dario Amodei on A.I.'S Threat to Humanity [video]",
         "url": "https://www.youtube.com/watch?v=-Nvne3LzBls",
         "points": 91,
-        "comments": 79,
+        "comments": 91,
         "author": "CharlesW",
         "createdAt": "2026-09-27T17:32:02Z",
         "domain": "youtube.com",
@@ -75,43 +75,43 @@
         "impact": "高",
         "newsLens": "一般",
         "titleJa": "SNLウィークエンドアップデート：AnthropicへのAIの脅威についてのAnthropic CEO Dario Amodei [ビデオ]",
-        "summaryJa": "この記事は「SNLウィークエンドアップデート：AnthropicへのAIの脅威についてのAnthropic CEO Dario Amodei [ビデオ]」を扱っています。お気に入りの動画や音楽を楽しんだり、オリジナルコンテンツをアップロードしたり、YouTubeで友達や家族、世界中の人と共有したりできます。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "summaryJa": "この記事は「SNLウィークエンドアップデート：AnthropicへのAIの脅威についてのAnthropic CEO Dario Amodei [ビデオ]」を扱っています。youtube.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
           "この記事は「SNLウィークエンドアップデート：AnthropicへのAIの脅威についてのAnthropic CEO Dario Amodei [ビデオ]」を扱っています。",
-          "お気に入りの動画や音楽を楽しんだり、オリジナルコンテンツをアップロードしたり、YouTubeで友達や家族、世界中の人と共有したりできます。",
+          "youtube.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
           "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       },
       {
-        "title": "OpenAI agents tried to bruteforce a UN website's API fields",
-        "url": "https://swarmcha.se/posts/openai-unctad",
-        "points": 90,
-        "comments": 83,
-        "author": "intunderflow",
-        "createdAt": "2026-09-27T01:08:07Z",
-        "domain": "swarmcha.se",
+        "title": "Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI",
+        "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/",
+        "points": 73,
+        "comments": 599,
+        "author": "papergirl",
+        "createdAt": "2026-09-27T06:19:33Z",
+        "domain": "authorsguild.org",
         "sourceType": "hn",
         "category": "AIニュース",
-        "impact": "中",
+        "impact": "高",
         "newsLens": "技術",
-        "titleJa": "OpenAIエージェントが国連ウェブサイトのAPIフィールドをブルートフォースしようとしました",
-        "summaryJa": "この記事は「OpenAIエージェントが国連ウェブサイトのAPIフィールドをブルートフォースしようとしました」を扱っています。2026年4月13日から6月19日まで、OpenAIエージェントはUNCTADをスキャンしました。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "titleJa": "Authors ’Case v. Microsoft/OpenAIの密封されていないブリーフ",
+        "summaryJa": "この記事は「Authors ’Case v. Microsoft/OpenAIの密封されていないブリーフ」を扱っています。（ニューヨーク、2026年9月21日）先週木曜日に公開された爆発的な新しい文書Authors Guild v. OpenAI - OpenAIとMicrosoftが著作権で保護された書籍で製品を違法にトレーニングしたと主張する主要な書籍著作者の訴訟-は、両社の幹部と従業員が意図的に[...]。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
         "keyPoints": [
-          "この記事は「OpenAIエージェントが国連ウェブサイトのAPIフィールドをブルートフォースしようとしました」を扱っています。",
-          "2026年4月13日から6月19日まで、OpenAIエージェントはUNCTADをスキャンしました。",
+          "この記事は「Authors ’Case v. Microsoft/OpenAIの密封されていないブリーフ」を扱っています。",
+          "（ニューヨーク、2026年9月21日）先週木曜日に公開された爆発的な新しい文書Authors Guild v. OpenAI - OpenAIとMicrosoftが著作権で保護された書籍で製品を違法にトレーニングしたと主張する主要な書籍著作者の訴訟-は、両社の幹部と従業員が意図的に[...]。",
           "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
       }
     ],
-    "fetchedAt": "2026-09-27T21:19:20.509Z",
+    "fetchedAt": "2026-09-28T05:20:27.014Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-09-27T21:19:20.509Z",
+    "fetchedAt": "2026-09-28T05:20:27.014Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-09-27T21:19:20.653Z"
+    "articleFetchedAt": "2026-09-28T05:20:27.302Z"
   }
 }
