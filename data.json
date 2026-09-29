@@ -46,8 +46,8 @@
       {
         "title": "MicroLLM Lab – Try 7 tiny LLM's in the browser",
         "url": "https://stateofutopia.com/experiments/microllmlab/",
-        "points": 98,
-        "comments": 57,
+        "points": 101,
+        "comments": 85,
         "author": "logicallee",
         "createdAt": "2026-09-28T18:58:53Z",
         "domain": "stateofutopia.com",
@@ -66,8 +66,8 @@
       {
         "title": "OpenAI still doesn't seem to have a handle on all of its rogue AI activity",
         "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/",
-        "points": 87,
-        "comments": 101,
+        "points": 88,
+        "comments": 109,
         "author": "mikelgan",
         "createdAt": "2026-09-28T17:33:34Z",
         "domain": "techcrunch.com",
@@ -86,8 +86,8 @@
       {
         "title": "Show HN: HN.watch – Videos of all Hacker News posts",
         "url": "https://hn.watch/",
-        "points": 74,
-        "comments": 78,
+        "points": 75,
+        "comments": 92,
         "author": "mrborgen",
         "createdAt": "2026-09-28T15:16:13Z",
         "domain": "hn.watch",
@@ -104,7 +104,7 @@
         ]
       }
     ],
-    "fetchedAt": "2026-09-29T01:00:33.075Z",
+    "fetchedAt": "2026-09-29T09:46:38.247Z",
     "mock": false
   },
   "xTrends": {
@@ -116,38 +116,55 @@
         "appearances": 2,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-09-29T01:00:32.980Z",
+        "observedAt": "2026-09-29T09:46:38.092Z",
         "url": "https://x.com/search?q=GPT-6.1%20Astra&src=typed_query&f=live",
         "articleTitle": "WSJ reports OpenAI scrapped GPT-6.1 Astra over safety concerns",
-        "articleTitleJa": "WSJは、OpenAIが安全上の懸念からGPT-6.1 Astraを廃止したと報告しています",
+        "articleTitleJa": "WSJがOpenAIが安全上の懸念を理由にGPT-6.1 Astraを廃止したと報告",
         "articleUrl": "https://runtimewire.com/article/wsj-reports-openai-scrapped-gpt-6-1-astra-over-safety-concerns",
         "articleSource": "runtimewire.com",
         "articlePublishedAt": "2026-09-28T23:30:35Z",
-        "summaryJa": "Xの投稿は、OpenAIが10月のGPT-6.1 Astraリリースをキャンセルしたと主張する画像を共有しています。OpenAIの公開資料は、スケジュールされた6.1ではなく、GPT -6 Astraを確認します。",
+        "summaryJa": "X 投稿では、OpenAI が 10 月の GPT-6.1 Astra リリースをキャンセルしたと主張する画像が共有されています。 OpenAI の公開資料では、予定されている 6.1 ではなく、GPT-6 Astra が確認されています。",
         "translationVersion": 3
       },
       {
         "topic": "AI CEOs",
         "locationLabel": "豪州",
-        "bestRank": 8,
-        "appearances": 2,
+        "bestRank": 42,
+        "appearances": 4,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/australia/",
-        "observedAt": "2026-09-29T01:00:33.026Z",
+        "observedAt": "2026-09-29T09:46:38.225Z",
         "url": "https://x.com/search?q=AI%20CEOs&src=typed_query&f=live",
         "articleTitle": "Shopify CEO Who Pushed Staff to Use AI Is Now Horrified by What He's Wrought",
-        "articleTitleJa": "スタッフにAIの使用を促したShopifyのCEOは、今や彼が行ったことに恐怖を感じています",
+        "articleTitleJa": "従業員に AI の使用を奨励した Shopify CEO、自分がもたらした結果に恐怖を感じる",
         "articleUrl": "https://futurism.com/artificial-intelligence/shopify-ceo-ai-workplace-staff-horrified-backfire",
         "articleSource": "futurism.com",
         "articlePublishedAt": "2026-09-23T19:36:54Z",
-        "summaryJa": "Shopifyの最高経営責任者（ CEO ）であるTobias Lütke氏は、AIワークプレイスの革命を直接見ていますが、それは美しい光景ではありません。",
+        "summaryJa": "Shopify CEO の Tobias Lütke 氏は、AI による職場革命を目の当たりにしていますが、それは決して美しい光景ではありません。",
+        "translationVersion": 3
+      },
+      {
+        "topic": "Grok Bot",
+        "locationLabel": "豪州",
+        "bestRank": 46,
+        "appearances": 2,
+        "trendSource": "Trends24",
+        "sourceUrl": "https://trends24.in/australia/",
+        "observedAt": "2026-09-29T09:46:38.225Z",
+        "url": "https://x.com/search?q=Grok%20Bot&src=typed_query&f=live",
+        "articleTitle": "Errand – open-source Grok Bot and Muse alternative, built in a week",
+        "articleTitleJa": "Errand – オープンソースの Grok Bot と Muse の代替品、1 週間で構築",
+        "articleUrl": "https://runta.com/blog/building-errand-in-one-week/",
+        "articleSource": "runta.com",
+        "articlePublishedAt": "2026-09-22T15:36:03Z",
+        "summaryJa": "私は、Grok Bot や Muse に代わるオープンソースの Errand を、約 1 週間で自分で構築しました。告白: しました",
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-09-29T01:00:33.075Z",
+    "fetchedAt": "2026-09-29T09:46:38.247Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-09-29T01:00:39.678Z"
+    "articleFetchedAt": "2026-09-29T09:46:47.029Z"
   }
 }
