@@ -2,6 +2,27 @@
   "news": {
     "items": [
       {
+        "title": "OpenAI reportedly ditches model over safety concerns",
+        "url": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
+        "points": 133,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-09-28T23:39:20.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
+        "category": "AIモデル",
+        "impact": "高",
+        "titleJa": "OpenAIは、安全上の懸念でモデルを捨てたと報告されています",
+        "summaryJa": "この記事は「OpenAIは、安全上の懸念でモデルを捨てたと報告されています」を扱っています。AIラボのトップエグゼクティブはウォールストリートジャーナルに、問題のモデルは命令に従う能力が低いことを示していたと語った。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "keyPoints": [
+          "この記事は「OpenAIは、安全上の懸念でモデルを捨てたと報告されています」を扱っています。",
+          "AIラボのトップエグゼクティブはウォールストリートジャーナルに、問題のモデルは命令に従う能力が低いことを示していたと語った。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+        ]
+      },
+      {
         "title": "Nvidia launches new platform for reining in rogue AI agents",
         "url": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/",
         "points": 133,
@@ -15,39 +36,38 @@
         "category": "AIニュース",
         "impact": "高",
         "titleJa": "NVIDIA、不正なAIエージェントを抑制するための新しいプラットフォームを発表",
-        "summaryJa": "この記事は「NVIDIA、不正なAIエージェントを抑制するための新しいプラットフォームを発表」を扱っています。最近の不正なAIエージェントの急増がAGIへの一歩なのか、それともより従来のエンジニアリングの問題なのかについての議論が激化している中、Nvidiaは問題に対する独自の答えを提供している。NvidiaのCEOであるJensen Huang氏は、AIエージェントの周りに独立したセキュリティ層を追加するソフトウェアとハードウェア製品のツールキットを月曜日に発表しました。",
+        "summaryJa": "この記事は「NVIDIA、不正なAIエージェントを抑制するための新しいプラットフォームを発表」を扱っています。NVIDIAのCEOであるJensen Huang氏は、月曜日に、AIエージェントの周りに独立したセキュリティ層を追加して、突破しようとしてもテスト環境内に留まることを保証するソフトウェアとハードウェア製品のツールキットを発表した。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
           "この記事は「NVIDIA、不正なAIエージェントを抑制するための新しいプラットフォームを発表」を扱っています。",
-          "最近の不正なAIエージェントの急増がAGIへの一歩なのか、それともより従来のエンジニアリングの問題なのかについての議論が激化している中、Nvidiaは問題に対する独自の答えを提供している。",
-          "NvidiaのCEOであるJensen Huang氏は、AIエージェントの周りに独立したセキュリティ層を追加するソフトウェアとハードウェア製品のツールキットを月曜日に発表しました。"
+          "NVIDIAのCEOであるJensen Huang氏は、月曜日に、AIエージェントの周りに独立したセキュリティ層を追加して、突破しようとしてもテスト環境内に留まることを保証するソフトウェアとハードウェア製品のツールキットを発表した。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       },
       {
-        "title": "Meta launches enterprise AI platform, hires MongoDB CEO to lead new initiative",
-        "url": "https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative/",
-        "points": 133,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-09-28T16:52:38.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
-        "category": "AIニュース",
+        "title": "MicroLLM Lab – Try 7 tiny LLM's in the browser",
+        "url": "https://stateofutopia.com/experiments/microllmlab/",
+        "points": 98,
+        "comments": 57,
+        "author": "logicallee",
+        "createdAt": "2026-09-28T18:58:53Z",
+        "domain": "stateofutopia.com",
+        "sourceType": "hn",
+        "category": "AIモデル",
         "impact": "高",
-        "titleJa": "Meta、エンタープライズAIプラットフォームを立ち上げ、新しいイニシアチブをリードするためにMongoDBのCEOを雇用",
-        "summaryJa": "この記事は「Meta、エンタープライズAIプラットフォームを立ち上げ、新しいイニシアチブをリードするためにMongoDBのCEOを雇用」を扱っています。Metaは、Muse、Meta Business Agent、Muse API、Muse Codeなどの完全なテクノロジースタックを企業や開発者に提供することに重点を置くと述べています。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "newsLens": "技術",
+        "titleJa": "MicroLLMラボ–ブラウザで7つの小さなLLMを試してみてください",
+        "summaryJa": "この記事は「MicroLLMラボ–ブラウザで7つの小さなLLMを試してみてください」を扱っています。WebGPUを使用して、第4四半期の小さな言語モデルを完全にブラウザで実行します。PetitGPT、SmolLM 2、およびデバイス上の友人のチャット、ベンチマーク、および比較。",
         "keyPoints": [
-          "この記事は「Meta、エンタープライズAIプラットフォームを立ち上げ、新しいイニシアチブをリードするためにMongoDBのCEOを雇用」を扱っています。",
-          "Metaは、Muse、Meta Business Agent、Muse API、Muse Codeなどの完全なテクノロジースタックを企業や開発者に提供することに重点を置くと述べています。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+          "この記事は「MicroLLMラボ–ブラウザで7つの小さなLLMを試してみてください」を扱っています。",
+          "WebGPUを使用して、第4四半期の小さな言語モデルを完全にブラウザで実行します。",
+          "PetitGPT、SmolLM 2、およびデバイス上の友人のチャット、ベンチマーク、および比較。"
         ]
       },
       {
         "title": "OpenAI still doesn't seem to have a handle on all of its rogue AI activity",
         "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/",
-        "points": 84,
-        "comments": 94,
+        "points": 87,
+        "comments": 101,
         "author": "mikelgan",
         "createdAt": "2026-09-28T17:33:34Z",
         "domain": "techcrunch.com",
@@ -64,30 +84,10 @@
         ]
       },
       {
-        "title": "Prompting Claude Opus 5.5",
-        "url": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5",
-        "points": 73,
-        "comments": 215,
-        "author": "Michelangelo11",
-        "createdAt": "2026-09-28T07:33:29Z",
-        "domain": "platform.claude.com",
-        "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "Claude・オーパスの魅力5.5",
-        "summaryJa": "この記事は「Claude・オーパスの魅力5.5」を扱っています。Claude Opus 5との行動の違いと、それらに対処するプロンプトとハーネスパターン：労力の較正、API統合とチャットにおける思考行動、進捗状況の更新、無人およびマルチエージェントタスク、セーフガード拒否、フロントエンド設計、複雑なビジュアル入力、マルチアプリワークフロー、ユーザーメッセージに貼り付けられたテキスト。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
-        "keyPoints": [
-          "この記事は「Claude・オーパスの魅力5.5」を扱っています。",
-          "Claude Opus 5との行動の違いと、それらに対処するプロンプトとハーネスパターン：労力の較正、API統合とチャットにおける思考行動、進捗状況の更新、無人およびマルチエージェントタスク、セーフガード拒否、フロントエンド設計、複雑なビジュアル入力、マルチアプリワークフロー、ユーザーメッセージに貼り付けられたテキスト。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
-        ]
-      },
-      {
         "title": "Show HN: HN.watch – Videos of all Hacker News posts",
         "url": "https://hn.watch/",
-        "points": 72,
-        "comments": 67,
+        "points": 74,
+        "comments": 78,
         "author": "mrborgen",
         "createdAt": "2026-09-28T15:16:13Z",
         "domain": "hn.watch",
@@ -104,15 +104,50 @@
         ]
       }
     ],
-    "fetchedAt": "2026-09-28T21:13:50.196Z",
+    "fetchedAt": "2026-09-29T01:00:33.075Z",
     "mock": false
   },
   "xTrends": {
-    "items": [],
-    "fetchedAt": "2026-09-28T21:13:50.196Z",
+    "items": [
+      {
+        "topic": "GPT-6.1 Astra",
+        "locationLabel": "米国",
+        "bestRank": 18,
+        "appearances": 2,
+        "trendSource": "Trends24",
+        "sourceUrl": "https://trends24.in/united-states/",
+        "observedAt": "2026-09-29T01:00:32.980Z",
+        "url": "https://x.com/search?q=GPT-6.1%20Astra&src=typed_query&f=live",
+        "articleTitle": "WSJ reports OpenAI scrapped GPT-6.1 Astra over safety concerns",
+        "articleTitleJa": "WSJは、OpenAIが安全上の懸念からGPT-6.1 Astraを廃止したと報告しています",
+        "articleUrl": "https://runtimewire.com/article/wsj-reports-openai-scrapped-gpt-6-1-astra-over-safety-concerns",
+        "articleSource": "runtimewire.com",
+        "articlePublishedAt": "2026-09-28T23:30:35Z",
+        "summaryJa": "Xの投稿は、OpenAIが10月のGPT-6.1 Astraリリースをキャンセルしたと主張する画像を共有しています。OpenAIの公開資料は、スケジュールされた6.1ではなく、GPT -6 Astraを確認します。",
+        "translationVersion": 3
+      },
+      {
+        "topic": "AI CEOs",
+        "locationLabel": "豪州",
+        "bestRank": 8,
+        "appearances": 2,
+        "trendSource": "Trends24",
+        "sourceUrl": "https://trends24.in/australia/",
+        "observedAt": "2026-09-29T01:00:33.026Z",
+        "url": "https://x.com/search?q=AI%20CEOs&src=typed_query&f=live",
+        "articleTitle": "Shopify CEO Who Pushed Staff to Use AI Is Now Horrified by What He's Wrought",
+        "articleTitleJa": "スタッフにAIの使用を促したShopifyのCEOは、今や彼が行ったことに恐怖を感じています",
+        "articleUrl": "https://futurism.com/artificial-intelligence/shopify-ceo-ai-workplace-staff-horrified-backfire",
+        "articleSource": "futurism.com",
+        "articlePublishedAt": "2026-09-23T19:36:54Z",
+        "summaryJa": "Shopifyの最高経営責任者（ CEO ）であるTobias Lütke氏は、AIワークプレイスの革命を直接見ていますが、それは美しい光景ではありません。",
+        "translationVersion": 3
+      }
+    ],
+    "fetchedAt": "2026-09-29T01:00:33.075Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-09-28T21:13:50.404Z"
+    "articleFetchedAt": "2026-09-29T01:00:39.678Z"
   }
 }
