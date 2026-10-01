@@ -46,8 +46,8 @@
       {
         "title": "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
         "url": "https://github.com/magnitudedev/magnitude",
-        "points": 99,
-        "comments": 55,
+        "points": 101,
+        "comments": 81,
         "author": "anerli",
         "createdAt": "2026-09-30T17:37:40Z",
         "domain": "github.com",
@@ -64,30 +64,10 @@
         ]
       },
       {
-        "title": "PSSA: A non-transformer language model written from scratch in Rust",
-        "url": "https://github.com/Sparticle62ops/pssa",
-        "points": 90,
-        "comments": 37,
-        "author": "sparticle62",
-        "createdAt": "2026-09-30T03:19:54Z",
-        "domain": "github.com",
-        "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "PSSA ： Rustでゼロから書かれた非トランスフォーマー言語モデル",
-        "summaryJa": "この記事は「PSSA ： Rustでゼロから書かれた非トランスフォーマー言語モデル」を扱っています。サビで開発中のカスタムAIアーキテクチャ。GitHubでアカウントを作成して、Sparticle 62 ops/pssa開発に貢献します。",
-        "keyPoints": [
-          "この記事は「PSSA ： Rustでゼロから書かれた非トランスフォーマー言語モデル」を扱っています。",
-          "サビで開発中のカスタムAIアーキテクチャ。",
-          "GitHubでアカウントを作成して、Sparticle 62 ops/pssa開発に貢献します。"
-        ]
-      },
-      {
         "title": "Gemini 4 Argon",
         "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
         "points": 73,
-        "comments": 619,
+        "comments": 896,
         "author": "bradleyg223",
         "createdAt": "2026-09-30T20:04:37Z",
         "domain": "blog.google",
@@ -102,9 +82,29 @@
           "blog.googleが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
           "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
+      },
+      {
+        "title": "Gemini 4 Argon (High): Intelligence, Performance and Price Analysis",
+        "url": "https://artificialanalysis.ai/models/gemini-4-argon",
+        "points": 68,
+        "comments": 59,
+        "author": "theanonymousone",
+        "createdAt": "2026-09-30T20:50:28Z",
+        "domain": "artificialanalysis.ai",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "Gemini4アルゴン（高） ：インテリジェンス、パフォーマンス、価格分析",
+        "summaryJa": "この記事は「Gemini4アルゴン（高） ：インテリジェンス、パフォーマンス、価格分析」を扱っています。artificialanalysis.aiが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "keyPoints": [
+          "この記事は「Gemini4アルゴン（高） ：インテリジェンス、パフォーマンス、価格分析」を扱っています。",
+          "artificialanalysis.aiが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+        ]
       }
     ],
-    "fetchedAt": "2026-10-01T00:32:31.732Z",
+    "fetchedAt": "2026-10-01T10:04:47.378Z",
     "mock": false
   },
   "xTrends": {
@@ -113,10 +113,10 @@
         "topic": "Gemini 4 Argon",
         "locationLabel": "日本",
         "bestRank": 5,
-        "appearances": 5,
+        "appearances": 12,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-10-01T00:32:31.632Z",
+        "observedAt": "2026-10-01T10:04:47.309Z",
         "url": "https://x.com/search?q=Gemini%204%20Argon&src=typed_query&f=live",
         "articleTitle": "Gemini 4 Argon",
         "articleTitleJa": "Gemini4アルゴン",
@@ -127,30 +127,13 @@
         "translationVersion": 3
       },
       {
-        "topic": "GPT-6.1 Sol",
-        "locationLabel": "米国",
-        "bestRank": 44,
-        "appearances": 1,
-        "trendSource": "Trends24",
-        "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-10-01T00:32:31.579Z",
-        "url": "https://x.com/search?q=GPT-6.1%20Sol&src=typed_query&f=live",
-        "articleTitle": "GPT-6.1 Sol replaces GPT-6 Sol after just 7 days, with near-Astra intelligence",
-        "articleTitleJa": "GPT-6.1 Solは、わずか7日後にGPT -6 SolをほぼAstraのインテリジェンスで置き換えます",
-        "articleUrl": "https://artificialanalysis.ai/articles/gpt-6-1-sol-replaces-gpt-6-sol-after-just-7-days-with-near-astra-intelligence",
-        "articleSource": "artificialanalysis.ai",
-        "articlePublishedAt": "2026-09-30T09:59:03Z",
-        "summaryJa": "GPT-6.1 SOLは、わずか7日後にGPT -6 SOLを置き換えます。インテリジェンス・インデックスでは、1タスクあたりのコストの4分の1未満でGPT -6アストラを1ポイント下回っています",
-        "translationVersion": 3
-      },
-      {
         "topic": "Gemini 4",
         "locationLabel": "カナダ",
-        "bestRank": 37,
-        "appearances": 2,
+        "bestRank": 22,
+        "appearances": 1,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/canada/",
-        "observedAt": "2026-10-01T00:32:31.657Z",
+        "observedAt": "2026-10-01T10:04:47.337Z",
         "url": "https://x.com/search?q=Gemini%204&src=typed_query&f=live",
         "articleTitle": "Gemini 4 Argon",
         "articleTitleJa": "Gemini4アルゴン",
@@ -161,10 +144,10 @@
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-10-01T00:32:31.732Z",
+    "fetchedAt": "2026-10-01T10:04:47.378Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-10-01T00:32:37.795Z"
+    "articleFetchedAt": "2026-10-01T10:04:51.127Z"
   }
 }
