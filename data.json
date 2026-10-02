@@ -47,7 +47,7 @@
         "title": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
         "url": "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design",
         "points": 101,
-        "comments": 97,
+        "comments": 106,
         "author": "giuliomagnifico",
         "createdAt": "2026-10-01T10:21:36Z",
         "domain": "news.synopsys.com",
@@ -67,7 +67,7 @@
         "title": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
         "url": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html",
         "points": 93,
-        "comments": 147,
+        "comments": 153,
         "author": "dgellow",
         "createdAt": "2026-10-01T13:00:55Z",
         "domain": "cnbc.com",
@@ -86,8 +86,8 @@
       {
         "title": "Show HN: Rhun, an open-source code editor written in assembly",
         "url": "https://rhun.app/",
-        "points": 77,
-        "comments": 11,
+        "points": 82,
+        "comments": 30,
         "author": "vladcodes",
         "createdAt": "2026-10-01T20:32:18Z",
         "domain": "rhun.app",
@@ -104,7 +104,7 @@
         ]
       }
     ],
-    "fetchedAt": "2026-10-02T00:46:07.803Z",
+    "fetchedAt": "2026-10-02T09:42:55.933Z",
     "mock": false
   },
   "xTrends": {
@@ -116,38 +116,38 @@
         "appearances": 8,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-10-02T00:46:07.632Z",
+        "observedAt": "2026-10-02T09:42:55.890Z",
         "url": "https://x.com/search?q=Based%20Grok&src=typed_query&f=live",
         "articleTitle": "Show HN: Burning Man for Agents",
-        "articleTitleJa": "HN ：エージェントのためのバーニングマンを表示",
+        "articleTitleJa": "HN を表示: エージェント向けバーニングマン",
         "articleUrl": "https://burning-tokens.transitivebullsh.it/",
         "articleSource": "burning-tokens.transitivebullsh.it",
         "articlePublishedAt": "2026-09-30T14:35:11Z",
-        "summaryJa": "小さなプロンプトを貼り付けて、自分のエージェントを送信します。エージェントに必要なのはHTTP GETだけなので、すべての主要なエージェント（ chatgpt、claude、grokなど）がサポートされています。面白い名前にもかかわらず、通常のウェブ検索よりも多くのトークンを燃やすことはありません。エージェントがキャンプをリアルタイムで探索する様子をご覧ください。人間は素晴らしいゲームUXを手に入れ、エージェントは無駄のないテキストUXを手に入れます。エージェントは、必要に応じて、私が作成した新しい緩い標準を使用して、部屋の1つで自分自身を表現するために画像をアップロードすることができます",
+        "summaryJa": "小さなプロンプトを貼り付けて、独自のエージェントを送信します。エージェントに必要なのは HTTP GET だけなので、すべての主要なエージェント (chatgpt、claude、grok など) がサポートされています。楽しい名前にもかかわらず、通常の Web 検索よりも多くのトークンを消費するわけではありません。エージェントがキャンプ内を探索する様子をリアルタイムで監視します。人間には優れたゲームの UX が得られ、エージェントには無駄のないテキストの UX が得られます。エージェントはオプションで画像をアップロードし、私が作成した新しい緩い標準を使用して部屋の 1 つで自分自身を表現できます。",
         "translationVersion": 3
       },
       {
         "topic": "Gemini 4 Argon",
         "locationLabel": "豪州",
-        "bestRank": 31,
-        "appearances": 15,
+        "bestRank": 42,
+        "appearances": 7,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/australia/",
-        "observedAt": "2026-10-02T00:46:07.670Z",
+        "observedAt": "2026-10-02T09:42:55.914Z",
         "url": "https://x.com/search?q=Gemini%204%20Argon&src=typed_query&f=live",
         "articleTitle": "Gemini 4 Argon",
-        "articleTitleJa": "Gemini4アルゴン",
+        "articleTitleJa": "Gemini 4 アルゴン",
         "articleUrl": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
         "articleSource": "blog.google",
         "articlePublishedAt": "2026-09-30T20:04:37Z",
-        "summaryJa": "参照： Gemini 4 Argon (High): Intelligence, Performance and Price Analysis - https://news.ycombinator.com/item?id=49914236",
+        "summaryJa": "参照: Gemini 4 Argon (High): インテリジェンス、パフォーマンス、および価格分析 - https://news.ycombinator.com/item?id=49914236",
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-10-02T00:46:07.803Z",
+    "fetchedAt": "2026-10-02T09:42:55.933Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-10-02T00:46:12.371Z"
+    "articleFetchedAt": "2026-10-02T09:43:00.286Z"
   }
 }
