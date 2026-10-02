@@ -2,109 +2,109 @@
   "news": {
     "items": [
       {
-        "title": "It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)",
-        "url": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/",
-        "points": 105,
+        "title": "Greg Kroah-Hartman – Security in the LLM Age [video]",
+        "url": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
+        "points": 119,
+        "comments": 31,
+        "author": "usernomdeguerre",
+        "createdAt": "2026-10-02T02:51:27Z",
+        "domain": "youtube.com",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "Greg Kroah – Hartman – LLM時代のセキュリティ[動画]",
+        "summaryJa": "この記事は「Greg Kroah – Hartman – LLM時代のセキュリティ[動画]」を扱っています。お気に入りの動画や音楽を楽しんだり、オリジナルコンテンツをアップロードしたり、YouTubeで友達や家族、世界中の人と共有したりできます。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "keyPoints": [
+          "この記事は「Greg Kroah – Hartman – LLM時代のセキュリティ[動画]」を扱っています。",
+          "お気に入りの動画や音楽を楽しんだり、オリジナルコンテンツをアップロードしたり、YouTubeで友達や家族、世界中の人と共有したりできます。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+        ]
+      },
+      {
+        "title": "With most information hidden, the game Stratego had stumped AI until now",
+        "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
+        "points": 119,
+        "comments": 47,
+        "author": "PaulHoule",
+        "createdAt": "2026-10-02T14:11:24Z",
+        "domain": "arstechnica.com",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "ほとんどの情報が隠されていたため、今までゲームStrategoはAIに悩まされていました",
+        "summaryJa": "この記事は「ほとんどの情報が隠されていたため、今までゲームStrategoはAIに悩まされていました」を扱っています。arstechnica.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "keyPoints": [
+          "この記事は「ほとんどの情報が隠されていたため、今までゲームStrategoはAIに悩まされていました」を扱っています。",
+          "arstechnica.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+        ]
+      },
+      {
+        "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
+        "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
+        "points": 107,
         "comments": 0,
         "author": "",
-        "createdAt": "2026-10-02T17:48:16.000Z",
+        "createdAt": "2026-10-02T18:11:27.000Z",
         "domain": "techcrunch.com",
         "sourceType": "rss",
         "sourceLabel": "TechCrunch AI",
         "newsLens": "一般",
         "category": "AIニュース",
         "impact": "高",
-        "titleJa": "それはもはやAIではなく、「スーパーインテリジェンス」です（ホワイトハウスによると）",
-        "summaryJa": "この記事は「それはもはやAIではなく、「スーパーインテリジェンス」です（ホワイトハウスによると）」を扱っています。今週、ホワイトハウスは、Zuckerberg氏、Bezos氏、Musk氏、AnthropicのDario Amodei氏など、ほぼすべての主要なテクノロジーCEOを1つの部屋に集め、ドナルド・トランプ大統領が「道徳的に拘束力がある」と呼んだAI安全誓約に署名させた。トランプ氏はまた、AIを「スーパーインテリジェンス」として公式にリブランディングする大統領令に署名した。",
+        "titleJa": "Appleは、AIエージェントからの新しいリスクのために、macOSの「フルディスクアクセス」コントロールを強化していると述べています",
+        "summaryJa": "この記事は「Appleは、AIエージェントからの新しいリスクのために、macOSの「フルディスクアクセス」コントロールを強化していると述べています」を扱っています。Appleは、macOSのフルディスクアクセス権限に関する新しいコントロールを追加し、ますます能力の高いAIエージェントがユーザーのファイル、メッセージ、メール、閲覧履歴への幅広いアクセスを危険にさらすことを警告すると述べている。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
-          "この記事は「それはもはやAIではなく、「スーパーインテリジェンス」です（ホワイトハウスによると）」を扱っています。",
+          "この記事は「Appleは、AIエージェントからの新しいリスクのために、macOSの「フルディスクアクセス」コントロールを強化していると述べています」を扱っています。",
+          "Appleは、macOSのフルディスクアクセス権限に関する新しいコントロールを追加し、ますます能力の高いAIエージェントがユーザーのファイル、メッセージ、メール、閲覧履歴への幅広いアクセスを危険にさらすことを警告すると述べている。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+        ]
+      },
+      {
+        "title": "Call it AI, call it Super Intelligence, only 2% of consumers are buying it",
+        "url": "https://techcrunch.com/podcast/call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buying-it/",
+        "points": 105,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-10-02T17:56:00.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
+        "category": "AIニュース",
+        "impact": "高",
+        "titleJa": "AIと呼ばれ、スーパーインテリジェンスと呼ばれ、消費者のわずか2 ％がそれを購入しています",
+        "summaryJa": "この記事は「AIと呼ばれ、スーパーインテリジェンスと呼ばれ、消費者のわずか2 ％がそれを購入しています」を扱っています。今週、ホワイトハウスは、Zuckerberg氏、Bezos氏、Musk氏、AnthropicのDario Amodei氏など、ほぼすべての主要なテクノロジーCEOを1つの部屋に集め、ドナルド・トランプ大統領が「道徳的に拘束力がある」と呼んだAI安全誓約に署名させた。トランプ氏はまた、AIを「スーパーインテリジェンス」として公式にリブランディングする大統領令に署名した。",
+        "keyPoints": [
+          "この記事は「AIと呼ばれ、スーパーインテリジェンスと呼ばれ、消費者のわずか2 ％がそれを購入しています」を扱っています。",
           "今週、ホワイトハウスは、Zuckerberg氏、Bezos氏、Musk氏、AnthropicのDario Amodei氏など、ほぼすべての主要なテクノロジーCEOを1つの部屋に集め、ドナルド・トランプ大統領が「道徳的に拘束力がある」と呼んだAI安全誓約に署名させた。",
           "トランプ氏はまた、AIを「スーパーインテリジェンス」として公式にリブランディングする大統領令に署名した。"
         ]
       },
       {
-        "title": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture Venezuela’s president",
-        "url": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
-        "points": 105,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-10-01T21:08:11.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
-        "category": "AIニュース",
-        "impact": "高",
-        "titleJa": "マスク氏のAIチャットボットGrokは、トランプ氏にベネズエラの大統領を捕まえるよう促したと伝えられている",
-        "summaryJa": "この記事は「マスク氏のAIチャットボットGrokは、トランプ氏にベネズエラの大統領を捕まえるよう促したと伝えられている」を扱っています。伝えられるところによると、トランプ大統領は、ベネズエラに侵攻し、ニコラス・マドゥロを捕まえる前に、Grok氏の意見を求めたという。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
-        "keyPoints": [
-          "この記事は「マスク氏のAIチャットボットGrokは、トランプ氏にベネズエラの大統領を捕まえるよう促したと伝えられている」を扱っています。",
-          "伝えられるところによると、トランプ大統領は、ベネズエラに侵攻し、ニコラス・マドゥロを捕まえる前に、Grok氏の意見を求めたという。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
-        ]
-      },
-      {
-        "title": "GPT-6 Astra plays World of Warcraft for the first time with agent-wow",
-        "url": "https://agent-wow.sh/gpt-6-astra-plays-world-of-warcraft-for-the-first-time-with-agent-wow/",
-        "points": 85,
-        "comments": 48,
-        "author": "almostlit",
-        "createdAt": "2026-10-02T13:19:47Z",
-        "domain": "agent-wow.sh",
+        "title": "From the creator of Redis; run LLM locally with ds4",
+        "url": "https://dwarfstar.sh/",
+        "points": 92,
+        "comments": 17,
+        "author": "fibo",
+        "createdAt": "2026-10-02T18:01:16Z",
+        "domain": "dwarfstar.sh",
         "sourceType": "hn",
         "category": "AIモデル",
-        "impact": "中",
-        "newsLens": "技術",
-        "titleJa": "GPT -6アストラが初めてエージェントと共にワールド・オブ・ウォークラフトをプレイ",
-        "summaryJa": "この記事は「GPT -6アストラが初めてエージェントと共にワールド・オブ・ウォークラフトをプレイ」を扱っています。GPT -6アストラは、エージェントWOWを使ってワールド・オブ・ウォークラフトのオーク開始ゾーンを40分で自律的にクリアします。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
-        "keyPoints": [
-          "この記事は「GPT -6アストラが初めてエージェントと共にワールド・オブ・ウォークラフトをプレイ」を扱っています。",
-          "GPT -6アストラは、エージェントWOWを使ってワールド・オブ・ウォークラフトのオーク開始ゾーンを40分で自律的にクリアします。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
-        ]
-      },
-      {
-        "title": "Show HN: Rhun, an open-source code editor written in assembly",
-        "url": "https://rhun.app/",
-        "points": 84,
-        "comments": 43,
-        "author": "vladcodes",
-        "createdAt": "2026-10-01T20:32:18Z",
-        "domain": "rhun.app",
-        "sourceType": "hn",
-        "category": "開発ツール",
-        "impact": "低",
-        "newsLens": "技術",
-        "titleJa": "Show HN: Rhun、アセンブリで書かれたオープンソースコードエディタ",
-        "summaryJa": "この記事は「Show HN: Rhun、アセンブリで書かれたオープンソースコードエディタ」を扱っています。Vim/vscode機能の1/3も使用していないことがわかりました。Linux、Windows、AppleのシリコンMac用の小さなコードエディタであるrhunを構築しています。",
-        "keyPoints": [
-          "この記事は「Show HN: Rhun、アセンブリで書かれたオープンソースコードエディタ」を扱っています。",
-          "Vim/vscode機能の1/3も使用していないことがわかりました。",
-          "Linux、Windows、AppleのシリコンMac用の小さなコードエディタであるrhunを構築しています。"
-        ]
-      },
-      {
-        "title": "DeepSeek Harness Desktop for macOS and Windows",
-        "url": "https://www.deepseek.com/en/harness/",
-        "points": 73,
-        "comments": 191,
-        "author": "Kuyawa",
-        "createdAt": "2026-10-02T03:11:20Z",
-        "domain": "deepseek.com",
-        "sourceType": "hn",
-        "category": "AIニュース",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "MacOSおよびWindows用DeepSeekハーネスデスクトップ",
-        "summaryJa": "この記事は「MacOSおよびWindows用DeepSeekハーネスデスクトップ」を扱っています。DeepSeekハーネスを使用して、ドキュメントの操作、スプレッドシートの分析、コードの記述、タスクのスケジュール設定を行います。コンポーザブルプラグインで機能を拡張します。",
+        "titleJa": "Redisの作成者から。ds 4でローカルでLLMを実行",
+        "summaryJa": "この記事は「Redisの作成者から。ds 4でローカルでLLMを実行」を扱っています。Ds 4、antirezのドキュメント、ベンチマーク、セットアップノート。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
         "keyPoints": [
-          "この記事は「MacOSおよびWindows用DeepSeekハーネスデスクトップ」を扱っています。",
-          "DeepSeekハーネスを使用して、ドキュメントの操作、スプレッドシートの分析、コードの記述、タスクのスケジュール設定を行います。",
-          "コンポーザブルプラグインで機能を拡張します。"
+          "この記事は「Redisの作成者から。",
+          "ds 4でローカルでLLMを実行」を扱っています。",
+          "Ds 4、antirezのドキュメント、ベンチマーク、セットアップノート。"
         ]
       }
     ],
-    "fetchedAt": "2026-10-02T17:51:47.010Z",
+    "fetchedAt": "2026-10-02T22:11:34.618Z",
     "mock": false
   },
   "xTrends": {
@@ -116,39 +116,22 @@
         "appearances": 2,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-10-02T17:51:46.938Z",
+        "observedAt": "2026-10-02T22:11:34.531Z",
         "url": "https://x.com/search?q=%23AI%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A7%E3%82%B9%E3%83%86%E3%82%A3%E3%83%90%E3%83%AB&src=typed_query&f=live",
         "articleTitle": "#AIデザインフェスティバル",
         "articleTitleJa": "公開トレンド: #AIデザインフェスティバル",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-10-02T17:51:46.938Z",
+        "articlePublishedAt": "2026-10-02T22:11:34.531Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
-      },
-      {
-        "topic": "Gemini 4 Argon",
-        "locationLabel": "豪州",
-        "bestRank": 42,
-        "appearances": 3,
-        "trendSource": "Trends24",
-        "sourceUrl": "https://trends24.in/australia/",
-        "observedAt": "2026-10-02T17:51:46.974Z",
-        "url": "https://x.com/search?q=Gemini%204%20Argon&src=typed_query&f=live",
-        "articleTitle": "Gemini 4 Argon",
-        "articleTitleJa": "Gemini4アルゴン",
-        "articleUrl": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
-        "articleSource": "blog.google",
-        "articlePublishedAt": "2026-09-30T20:04:37Z",
-        "summaryJa": "参照： Gemini 4 Argon (High): Intelligence, Performance and Price Analysis - https://news.ycombinator.com/item?id=49914236",
-        "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-10-02T17:51:47.010Z",
+    "fetchedAt": "2026-10-02T22:11:34.618Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-10-02T17:51:49.771Z"
+    "articleFetchedAt": "2026-10-02T22:11:34.953Z"
   }
 }
