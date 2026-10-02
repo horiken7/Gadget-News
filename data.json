@@ -47,7 +47,7 @@
         "title": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
         "url": "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design",
         "points": 101,
-        "comments": 73,
+        "comments": 97,
         "author": "giuliomagnifico",
         "createdAt": "2026-10-01T10:21:36Z",
         "domain": "news.synopsys.com",
@@ -67,7 +67,7 @@
         "title": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
         "url": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html",
         "points": 93,
-        "comments": 104,
+        "comments": 147,
         "author": "dgellow",
         "createdAt": "2026-10-01T13:00:55Z",
         "domain": "cnbc.com",
@@ -84,56 +84,39 @@
         ]
       },
       {
-        "title": "Gemini 4 Argon",
-        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
-        "points": 73,
-        "comments": 1070,
-        "author": "bradleyg223",
-        "createdAt": "2026-09-30T20:04:37Z",
-        "domain": "blog.google",
+        "title": "Show HN: Rhun, an open-source code editor written in assembly",
+        "url": "https://rhun.app/",
+        "points": 77,
+        "comments": 11,
+        "author": "vladcodes",
+        "createdAt": "2026-10-01T20:32:18Z",
+        "domain": "rhun.app",
         "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "高",
+        "category": "開発ツール",
+        "impact": "低",
         "newsLens": "技術",
-        "titleJa": "Gemini4アルゴン",
-        "summaryJa": "この記事は「Gemini4アルゴン」を扱っています。blog.googleが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "titleJa": "Show HN: Rhun、アセンブリで書かれたオープンソースコードエディタ",
+        "summaryJa": "この記事は「Show HN: Rhun、アセンブリで書かれたオープンソースコードエディタ」を扱っています。Vim/vscode機能の1/3も使用していないことがわかりました。Linux、Windows、AppleのシリコンMac用の小さなコードエディタであるrhunを構築しています。",
         "keyPoints": [
-          "この記事は「Gemini4アルゴン」を扱っています。",
-          "blog.googleが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+          "この記事は「Show HN: Rhun、アセンブリで書かれたオープンソースコードエディタ」を扱っています。",
+          "Vim/vscode機能の1/3も使用していないことがわかりました。",
+          "Linux、Windows、AppleのシリコンMac用の小さなコードエディタであるrhunを構築しています。"
         ]
       }
     ],
-    "fetchedAt": "2026-10-01T18:24:38.974Z",
+    "fetchedAt": "2026-10-02T00:46:07.803Z",
     "mock": false
   },
   "xTrends": {
     "items": [
       {
-        "topic": "Gemini 4 Argon",
-        "locationLabel": "日本",
-        "bestRank": 18,
-        "appearances": 16,
-        "trendSource": "Trends24",
-        "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-10-01T18:24:38.958Z",
-        "url": "https://x.com/search?q=Gemini%204%20Argon&src=typed_query&f=live",
-        "articleTitle": "Gemini 4 Argon",
-        "articleTitleJa": "Gemini4アルゴン",
-        "articleUrl": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
-        "articleSource": "blog.google",
-        "articlePublishedAt": "2026-09-30T20:04:37Z",
-        "summaryJa": "参照： Gemini 4 Argon (High): Intelligence, Performance and Price Analysis - https://news.ycombinator.com/item?id=49914236",
-        "translationVersion": 3
-      },
-      {
         "topic": "Based Grok",
         "locationLabel": "米国",
         "bestRank": 18,
-        "appearances": 5,
+        "appearances": 8,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-10-01T18:24:38.886Z",
+        "observedAt": "2026-10-02T00:46:07.632Z",
         "url": "https://x.com/search?q=Based%20Grok&src=typed_query&f=live",
         "articleTitle": "Show HN: Burning Man for Agents",
         "articleTitleJa": "HN ：エージェントのためのバーニングマンを表示",
@@ -144,14 +127,14 @@
         "translationVersion": 3
       },
       {
-        "topic": "Gemini 4",
-        "locationLabel": "カナダ",
-        "bestRank": 22,
-        "appearances": 1,
+        "topic": "Gemini 4 Argon",
+        "locationLabel": "豪州",
+        "bestRank": 31,
+        "appearances": 15,
         "trendSource": "Trends24",
-        "sourceUrl": "https://trends24.in/canada/",
-        "observedAt": "2026-10-01T18:24:38.864Z",
-        "url": "https://x.com/search?q=Gemini%204&src=typed_query&f=live",
+        "sourceUrl": "https://trends24.in/australia/",
+        "observedAt": "2026-10-02T00:46:07.670Z",
+        "url": "https://x.com/search?q=Gemini%204%20Argon&src=typed_query&f=live",
         "articleTitle": "Gemini 4 Argon",
         "articleTitleJa": "Gemini4アルゴン",
         "articleUrl": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
@@ -161,10 +144,10 @@
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-10-01T18:24:38.974Z",
+    "fetchedAt": "2026-10-02T00:46:07.803Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-10-01T18:24:44.948Z"
+    "articleFetchedAt": "2026-10-02T00:46:12.371Z"
   }
 }
