@@ -5,7 +5,7 @@
         "title": "With most information hidden, the game Stratego had stumped AI until now",
         "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
         "points": 121,
-        "comments": 95,
+        "comments": 109,
         "author": "PaulHoule",
         "createdAt": "2026-10-02T14:11:24Z",
         "domain": "arstechnica.com",
@@ -88,7 +88,7 @@
         "title": "From the creator of Redis; run LLM locally with ds4",
         "url": "https://dwarfstar.sh/",
         "points": 101,
-        "comments": 56,
+        "comments": 68,
         "author": "fibo",
         "createdAt": "2026-10-02T18:01:16Z",
         "domain": "dwarfstar.sh",
@@ -105,34 +105,15 @@
         ]
       }
     ],
-    "fetchedAt": "2026-10-03T05:15:15.981Z",
+    "fetchedAt": "2026-10-03T11:36:44.024Z",
     "mock": false
   },
   "xTrends": {
-    "items": [
-      {
-        "topic": "#AIデザインフェスティバル",
-        "locationLabel": "日本",
-        "bestRank": 5,
-        "appearances": 2,
-        "trendSource": "Trends24",
-        "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-10-03T05:15:15.823Z",
-        "url": "https://x.com/search?q=%23AI%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A7%E3%82%B9%E3%83%86%E3%82%A3%E3%83%90%E3%83%AB&src=typed_query&f=live",
-        "articleTitle": "#AIデザインフェスティバル",
-        "articleTitleJa": "公開トレンド: #AIデザインフェスティバル",
-        "articleUrl": "https://trends24.in/japan/",
-        "articleSource": "Trends24",
-        "articlePublishedAt": "2026-10-03T05:15:15.823Z",
-        "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
-        "translationVersion": 3,
-        "articleFallback": true
-      }
-    ],
-    "fetchedAt": "2026-10-03T05:15:15.981Z",
+    "items": [],
+    "fetchedAt": "2026-10-03T11:36:44.024Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-10-03T05:15:16.351Z"
+    "articleFetchedAt": "2026-10-03T11:36:44.166Z"
   }
 }
