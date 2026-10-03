@@ -44,51 +44,31 @@
         ]
       },
       {
-        "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
-        "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
-        "points": 107,
+        "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+        "url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+        "points": 105,
         "comments": 0,
         "author": "",
-        "createdAt": "2026-10-02T18:11:27.000Z",
+        "createdAt": "2026-10-03T16:30:01.000Z",
         "domain": "techcrunch.com",
         "sourceType": "rss",
         "sourceLabel": "TechCrunch AI",
         "newsLens": "一般",
         "category": "AIニュース",
         "impact": "高",
-        "titleJa": "Appleは、AIエージェントからの新しいリスクのために、macOSの「フルディスクアクセス」コントロールを強化していると述べています",
-        "summaryJa": "この記事は「Appleは、AIエージェントからの新しいリスクのために、macOSの「フルディスクアクセス」コントロールを強化していると述べています」を扱っています。Appleは、macOSのフルディスクアクセス権限に関する新しいコントロールを追加し、ますます能力の高いAIエージェントがユーザーのファイル、メッセージ、メール、閲覧履歴への幅広いアクセスを危険にさらすことを警告すると述べている。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "titleJa": "OpenAIの安全担当者は、会社の「文化が壊れている」と主張して辞職します",
+        "summaryJa": "この記事は「OpenAIの安全担当者は、会社の「文化が壊れている」と主張して辞職します」を扱っています。デビッド・ロビンソン自身が認めているように、彼は「決まり文句のようなもの」です。大手AI企業の従業員で、仕事を辞めている間に悲惨な警告を発します。",
         "keyPoints": [
-          "この記事は「Appleは、AIエージェントからの新しいリスクのために、macOSの「フルディスクアクセス」コントロールを強化していると述べています」を扱っています。",
-          "Appleは、macOSのフルディスクアクセス権限に関する新しいコントロールを追加し、ますます能力の高いAIエージェントがユーザーのファイル、メッセージ、メール、閲覧履歴への幅広いアクセスを危険にさらすことを警告すると述べている。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+          "この記事は「OpenAIの安全担当者は、会社の「文化が壊れている」と主張して辞職します」を扱っています。",
+          "デビッド・ロビンソン自身が認めているように、彼は「決まり文句のようなもの」です。",
+          "大手AI企業の従業員で、仕事を辞めている間に悲惨な警告を発します。"
         ]
       },
       {
-        "title": "From the creator of Redis; run LLM locally with ds4",
-        "url": "https://dwarfstar.sh/",
-        "points": 101,
-        "comments": 89,
-        "author": "fibo",
-        "createdAt": "2026-10-02T18:01:16Z",
-        "domain": "dwarfstar.sh",
-        "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "Redisの作成者から。ds 4でローカルでLLMを実行",
-        "summaryJa": "この記事は「Redisの作成者から。ds 4でローカルでLLMを実行」を扱っています。Ds 4、antirezのドキュメント、ベンチマーク、セットアップノート。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
-        "keyPoints": [
-          "この記事は「Redisの作成者から。",
-          "ds 4でローカルでLLMを実行」を扱っています。",
-          "Ds 4、antirezのドキュメント、ベンチマーク、セットアップノート。"
-        ]
-      },
-      {
-        "title": "Kolibri is an open-weight LLM from Aleph Alpha for German and English",
+        "title": "Aleph Alpha Kolibri: How the sovereign German LLM works",
         "url": "https://tej.as/blog/aleph-alpha-kolibri",
         "points": 101,
-        "comments": 117,
+        "comments": 11,
         "author": "tejaskumar__",
         "createdAt": "2026-10-03T10:43:51Z",
         "domain": "tej.as",
@@ -96,24 +76,44 @@
         "category": "AIモデル",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "Kolibriは、ドイツ語と英語のAleph AlphaのオープンウェイトLLMです",
-        "summaryJa": "この記事は「Kolibriは、ドイツ語と英語のAleph AlphaのオープンウェイトLLMです」を扱っています。tej.asが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "titleJa": "アレフ・アルファ・コリブリ：主権を持つドイツのLLMの仕組み",
+        "summaryJa": "この記事は「アレフ・アルファ・コリブリ：主権を持つドイツのLLMの仕組み」を扱っています。tej.asが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
         "keyPoints": [
-          "この記事は「Kolibriは、ドイツ語と英語のAleph AlphaのオープンウェイトLLMです」を扱っています。",
+          "この記事は「アレフ・アルファ・コリブリ：主権を持つドイツのLLMの仕組み」を扱っています。",
           "tej.asが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
           "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
+      },
+      {
+        "title": "Show HN: Offrun – manage every coding agent from one workspace",
+        "url": "https://offrun.dev/",
+        "points": 87,
+        "comments": 58,
+        "author": "arunbhatia",
+        "createdAt": "2026-10-03T08:40:17Z",
+        "domain": "offrun.dev",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "中",
+        "newsLens": "技術",
+        "titleJa": "HN: Offrunを表示- 1つのワークスペースからすべてのコーディングエージェントを管理",
+        "summaryJa": "この記事は「HN: Offrunを表示- 1つのワークスペースからすべてのコーディングエージェントを管理」を扱っています。誰が働いているのか、誰があなたを必要としているのか、そしてすべてのアカウントに何が残っているのかを確認します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "keyPoints": [
+          "この記事は「HN: Offrunを表示- 1つのワークスペースからすべてのコーディングエージェントを管理」を扱っています。",
+          "誰が働いているのか、誰があなたを必要としているのか、そしてすべてのアカウントに何が残っているのかを確認します。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+        ]
       }
     ],
-    "fetchedAt": "2026-10-03T16:16:34.845Z",
+    "fetchedAt": "2026-10-03T21:12:12.872Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-10-03T16:16:34.845Z",
+    "fetchedAt": "2026-10-03T21:12:12.872Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-10-03T16:16:34.982Z"
+    "articleFetchedAt": "2026-10-03T21:12:13.002Z"
   }
 }
