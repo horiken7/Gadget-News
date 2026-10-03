@@ -2,30 +2,10 @@
   "news": {
     "items": [
       {
-        "title": "Greg Kroah-Hartman – Security in the LLM Age [video]",
-        "url": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
-        "points": 119,
-        "comments": 31,
-        "author": "usernomdeguerre",
-        "createdAt": "2026-10-02T02:51:27Z",
-        "domain": "youtube.com",
-        "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "Greg Kroah – Hartman – LLM時代のセキュリティ[動画]",
-        "summaryJa": "この記事は「Greg Kroah – Hartman – LLM時代のセキュリティ[動画]」を扱っています。お気に入りの動画や音楽を楽しんだり、オリジナルコンテンツをアップロードしたり、YouTubeで友達や家族、世界中の人と共有したりできます。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
-        "keyPoints": [
-          "この記事は「Greg Kroah – Hartman – LLM時代のセキュリティ[動画]」を扱っています。",
-          "お気に入りの動画や音楽を楽しんだり、オリジナルコンテンツをアップロードしたり、YouTubeで友達や家族、世界中の人と共有したりできます。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
-        ]
-      },
-      {
         "title": "With most information hidden, the game Stratego had stumped AI until now",
         "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
-        "points": 119,
-        "comments": 47,
+        "points": 121,
+        "comments": 95,
         "author": "PaulHoule",
         "createdAt": "2026-10-02T14:11:24Z",
         "domain": "arstechnica.com",
@@ -63,6 +43,27 @@
         ]
       },
       {
+        "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
+        "url": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
+        "points": 107,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-10-02T23:03:16.000Z",
+        "domain": "arstechnica.com",
+        "sourceType": "rss",
+        "sourceLabel": "Ars Technica",
+        "newsLens": "技術",
+        "category": "AIニュース",
+        "impact": "高",
+        "titleJa": "Appleは、AIエージェントからの不正使用を抑制するためにフルディスクアクセス権限を変更",
+        "summaryJa": "この記事は「Appleは、AIエージェントからの不正使用を抑制するためにフルディスクアクセス権限を変更」を扱っています。Meta氏は、FDAはMuseがメッセージを読むのに十分ではないと述べています。Appleは違うことを願っています。",
+        "keyPoints": [
+          "この記事は「Appleは、AIエージェントからの不正使用を抑制するためにフルディスクアクセス権限を変更」を扱っています。",
+          "Meta氏は、FDAはMuseがメッセージを読むのに十分ではないと述べています。",
+          "Appleは違うことを願っています。"
+        ]
+      },
+      {
         "title": "Call it AI, call it Super Intelligence, only 2% of consumers are buying it",
         "url": "https://techcrunch.com/podcast/call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buying-it/",
         "points": 105,
@@ -86,8 +87,8 @@
       {
         "title": "From the creator of Redis; run LLM locally with ds4",
         "url": "https://dwarfstar.sh/",
-        "points": 92,
-        "comments": 17,
+        "points": 101,
+        "comments": 56,
         "author": "fibo",
         "createdAt": "2026-10-02T18:01:16Z",
         "domain": "dwarfstar.sh",
@@ -104,7 +105,7 @@
         ]
       }
     ],
-    "fetchedAt": "2026-10-02T22:11:34.618Z",
+    "fetchedAt": "2026-10-03T05:15:15.981Z",
     "mock": false
   },
   "xTrends": {
@@ -116,22 +117,22 @@
         "appearances": 2,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-10-02T22:11:34.531Z",
+        "observedAt": "2026-10-03T05:15:15.823Z",
         "url": "https://x.com/search?q=%23AI%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A7%E3%82%B9%E3%83%86%E3%82%A3%E3%83%90%E3%83%AB&src=typed_query&f=live",
         "articleTitle": "#AIデザインフェスティバル",
         "articleTitleJa": "公開トレンド: #AIデザインフェスティバル",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-10-02T22:11:34.531Z",
+        "articlePublishedAt": "2026-10-03T05:15:15.823Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
       }
     ],
-    "fetchedAt": "2026-10-02T22:11:34.618Z",
+    "fetchedAt": "2026-10-03T05:15:15.981Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-10-02T22:11:34.953Z"
+    "articleFetchedAt": "2026-10-03T05:15:16.351Z"
   }
 }
