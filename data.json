@@ -2,27 +2,6 @@
   "news": {
     "items": [
       {
-        "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
-        "url": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
-        "points": 107,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-10-02T23:03:16.000Z",
-        "domain": "arstechnica.com",
-        "sourceType": "rss",
-        "sourceLabel": "Ars Technica",
-        "newsLens": "技術",
-        "category": "AIニュース",
-        "impact": "高",
-        "titleJa": "Appleは、AIエージェントからの不正使用を抑制するためにフルディスクアクセス権限を変更",
-        "summaryJa": "この記事は「Appleは、AIエージェントからの不正使用を抑制するためにフルディスクアクセス権限を変更」を扱っています。Meta氏は、FDAはMuseがメッセージを読むのに十分ではないと述べています。Appleは違うことを願っています。",
-        "keyPoints": [
-          "この記事は「Appleは、AIエージェントからの不正使用を抑制するためにフルディスクアクセス権限を変更」を扱っています。",
-          "Meta氏は、FDAはMuseがメッセージを読むのに十分ではないと述べています。",
-          "Appleは違うことを願っています。"
-        ]
-      },
-      {
         "title": "All the AI agents that can live in your text messages",
         "url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
         "points": 107,
@@ -85,10 +64,30 @@
         ]
       },
       {
+        "title": "I Quit OpenAI Because Its Culture Is Broken",
+        "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/",
+        "points": 88,
+        "comments": 150,
+        "author": "Brajeshwar",
+        "createdAt": "2026-10-03T13:46:34Z",
+        "domain": "theatlantic.com",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "OpenAIの文化が壊れているため、OpenAIをやめます",
+        "summaryJa": "この記事は「OpenAIの文化が壊れているため、OpenAIをやめます」を扱っています。theatlantic.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "keyPoints": [
+          "この記事は「OpenAIの文化が壊れているため、OpenAIをやめます」を扱っています。",
+          "theatlantic.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+        ]
+      },
+      {
         "title": "Show HN: Offrun – manage every coding agent from one workspace",
         "url": "https://offrun.dev/",
         "points": 87,
-        "comments": 58,
+        "comments": 59,
         "author": "arunbhatia",
         "createdAt": "2026-10-03T08:40:17Z",
         "domain": "offrun.dev",
@@ -105,15 +104,34 @@
         ]
       }
     ],
-    "fetchedAt": "2026-10-03T21:12:12.872Z",
+    "fetchedAt": "2026-10-03T23:46:53.796Z",
     "mock": false
   },
   "xTrends": {
-    "items": [],
-    "fetchedAt": "2026-10-03T21:12:12.872Z",
+    "items": [
+      {
+        "topic": "米政府の対話型AI",
+        "locationLabel": "日本",
+        "bestRank": 49,
+        "appearances": 2,
+        "trendSource": "Trends24",
+        "sourceUrl": "https://trends24.in/japan/",
+        "observedAt": "2026-10-03T23:46:53.670Z",
+        "url": "https://x.com/search?q=%E7%B1%B3%E6%94%BF%E5%BA%9C%E3%81%AE%E5%AF%BE%E8%A9%B1%E5%9E%8BAI&src=typed_query&f=live",
+        "articleTitle": "米政府の対話型AI",
+        "articleTitleJa": "公開トレンド: 米政府の対話型AI",
+        "articleUrl": "https://trends24.in/japan/",
+        "articleSource": "Trends24",
+        "articlePublishedAt": "2026-10-03T23:46:53.670Z",
+        "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
+        "translationVersion": 3,
+        "articleFallback": true
+      }
+    ],
+    "fetchedAt": "2026-10-03T23:46:53.796Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-10-03T21:12:13.002Z"
+    "articleFetchedAt": "2026-10-03T23:46:57.694Z"
   }
 }
