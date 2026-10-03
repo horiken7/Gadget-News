@@ -2,23 +2,45 @@
   "news": {
     "items": [
       {
-        "title": "With most information hidden, the game Stratego had stumped AI until now",
-        "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
-        "points": 121,
-        "comments": 109,
-        "author": "PaulHoule",
-        "createdAt": "2026-10-02T14:11:24Z",
+        "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
+        "url": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
+        "points": 107,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-10-02T23:03:16.000Z",
         "domain": "arstechnica.com",
-        "sourceType": "hn",
+        "sourceType": "rss",
+        "sourceLabel": "Ars Technica",
+        "newsLens": "技術",
         "category": "AIニュース",
         "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "ほとんどの情報が隠されていたため、今までゲームStrategoはAIに悩まされていました",
-        "summaryJa": "この記事は「ほとんどの情報が隠されていたため、今までゲームStrategoはAIに悩まされていました」を扱っています。arstechnica.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "titleJa": "Appleは、AIエージェントからの不正使用を抑制するためにフルディスクアクセス権限を変更",
+        "summaryJa": "この記事は「Appleは、AIエージェントからの不正使用を抑制するためにフルディスクアクセス権限を変更」を扱っています。Meta氏は、FDAはMuseがメッセージを読むのに十分ではないと述べています。Appleは違うことを願っています。",
         "keyPoints": [
-          "この記事は「ほとんどの情報が隠されていたため、今までゲームStrategoはAIに悩まされていました」を扱っています。",
-          "arstechnica.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+          "この記事は「Appleは、AIエージェントからの不正使用を抑制するためにフルディスクアクセス権限を変更」を扱っています。",
+          "Meta氏は、FDAはMuseがメッセージを読むのに十分ではないと述べています。",
+          "Appleは違うことを願っています。"
+        ]
+      },
+      {
+        "title": "All the AI agents that can live in your text messages",
+        "url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
+        "points": 107,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-10-03T14:00:00.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
+        "category": "AIニュース",
+        "impact": "高",
+        "titleJa": "あなたのテキストメッセージに存在できるすべてのAIエージェント",
+        "summaryJa": "この記事は「あなたのテキストメッセージに存在できるすべてのAIエージェント」を扱っています。一般アシスタントから、家族、旅行、仕事用に設計されたエージェントまで、テキストメッセージに存在できる最も注目すべきAIエージェントのリストを作成しました。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "keyPoints": [
+          "この記事は「あなたのテキストメッセージに存在できるすべてのAIエージェント」を扱っています。",
+          "一般アシスタントから、家族、旅行、仕事用に設計されたエージェントまで、テキストメッセージに存在できる最も注目すべきAIエージェントのリストを作成しました。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       },
       {
@@ -43,52 +65,10 @@
         ]
       },
       {
-        "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
-        "url": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
-        "points": 107,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-10-02T23:03:16.000Z",
-        "domain": "arstechnica.com",
-        "sourceType": "rss",
-        "sourceLabel": "Ars Technica",
-        "newsLens": "技術",
-        "category": "AIニュース",
-        "impact": "高",
-        "titleJa": "Appleは、AIエージェントからの不正使用を抑制するためにフルディスクアクセス権限を変更",
-        "summaryJa": "この記事は「Appleは、AIエージェントからの不正使用を抑制するためにフルディスクアクセス権限を変更」を扱っています。Meta氏は、FDAはMuseがメッセージを読むのに十分ではないと述べています。Appleは違うことを願っています。",
-        "keyPoints": [
-          "この記事は「Appleは、AIエージェントからの不正使用を抑制するためにフルディスクアクセス権限を変更」を扱っています。",
-          "Meta氏は、FDAはMuseがメッセージを読むのに十分ではないと述べています。",
-          "Appleは違うことを願っています。"
-        ]
-      },
-      {
-        "title": "Call it AI, call it Super Intelligence, only 2% of consumers are buying it",
-        "url": "https://techcrunch.com/podcast/call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buying-it/",
-        "points": 105,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-10-02T17:56:00.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
-        "category": "AIニュース",
-        "impact": "高",
-        "titleJa": "AIと呼ばれ、スーパーインテリジェンスと呼ばれ、消費者のわずか2 ％がそれを購入しています",
-        "summaryJa": "この記事は「AIと呼ばれ、スーパーインテリジェンスと呼ばれ、消費者のわずか2 ％がそれを購入しています」を扱っています。今週、ホワイトハウスは、Zuckerberg氏、Bezos氏、Musk氏、AnthropicのDario Amodei氏など、ほぼすべての主要なテクノロジーCEOを1つの部屋に集め、ドナルド・トランプ大統領が「道徳的に拘束力がある」と呼んだAI安全誓約に署名させた。トランプ氏はまた、AIを「スーパーインテリジェンス」として公式にリブランディングする大統領令に署名した。",
-        "keyPoints": [
-          "この記事は「AIと呼ばれ、スーパーインテリジェンスと呼ばれ、消費者のわずか2 ％がそれを購入しています」を扱っています。",
-          "今週、ホワイトハウスは、Zuckerberg氏、Bezos氏、Musk氏、AnthropicのDario Amodei氏など、ほぼすべての主要なテクノロジーCEOを1つの部屋に集め、ドナルド・トランプ大統領が「道徳的に拘束力がある」と呼んだAI安全誓約に署名させた。",
-          "トランプ氏はまた、AIを「スーパーインテリジェンス」として公式にリブランディングする大統領令に署名した。"
-        ]
-      },
-      {
         "title": "From the creator of Redis; run LLM locally with ds4",
         "url": "https://dwarfstar.sh/",
         "points": 101,
-        "comments": 68,
+        "comments": 89,
         "author": "fibo",
         "createdAt": "2026-10-02T18:01:16Z",
         "domain": "dwarfstar.sh",
@@ -103,17 +83,37 @@
           "ds 4でローカルでLLMを実行」を扱っています。",
           "Ds 4、antirezのドキュメント、ベンチマーク、セットアップノート。"
         ]
+      },
+      {
+        "title": "Kolibri is an open-weight LLM from Aleph Alpha for German and English",
+        "url": "https://tej.as/blog/aleph-alpha-kolibri",
+        "points": 101,
+        "comments": 117,
+        "author": "tejaskumar__",
+        "createdAt": "2026-10-03T10:43:51Z",
+        "domain": "tej.as",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "Kolibriは、ドイツ語と英語のAleph AlphaのオープンウェイトLLMです",
+        "summaryJa": "この記事は「Kolibriは、ドイツ語と英語のAleph AlphaのオープンウェイトLLMです」を扱っています。tej.asが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "keyPoints": [
+          "この記事は「Kolibriは、ドイツ語と英語のAleph AlphaのオープンウェイトLLMです」を扱っています。",
+          "tej.asが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+        ]
       }
     ],
-    "fetchedAt": "2026-10-03T11:36:44.024Z",
+    "fetchedAt": "2026-10-03T16:16:34.845Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-10-03T11:36:44.024Z",
+    "fetchedAt": "2026-10-03T16:16:34.845Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-10-03T11:36:44.166Z"
+    "articleFetchedAt": "2026-10-03T16:16:34.982Z"
   }
 }
