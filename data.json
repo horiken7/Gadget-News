@@ -2,43 +2,44 @@
   "news": {
     "items": [
       {
-        "title": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
-        "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
-        "points": 119,
-        "comments": 3,
-        "author": "jethronethro",
-        "createdAt": "2026-10-03T22:18:13Z",
-        "domain": "theguardian.com",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "高",
+        "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
+        "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+        "points": 107,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-10-04T20:31:07.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
         "newsLens": "一般",
-        "titleJa": "OpenAIの安全リーダーが辞任し、AI企業の文化が「壊れている」と警告",
-        "summaryJa": "この記事は「OpenAIの安全リーダーが辞任し、AI企業の文化が「壊れている」と警告」を扱っています。デビッド・ロビンソンは、急速に発展するテクノロジーにもっと注意を払うよう業界に促すために他のインサイダーに加わります。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "category": "開発ツール",
+        "impact": "高",
+        "titleJa": "Googleは、AIの提出が「大幅に増加」したため、オープンソースのバグ報奨金プログラムを凍結しました",
+        "summaryJa": "この記事は「Googleは、AIの提出が「大幅に増加」したため、オープンソースのバグ報奨金プログラムを凍結しました」を扱っています。AI SLOPは圧倒的なバグ報奨金プログラムのようです。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
-          "この記事は「OpenAIの安全リーダーが辞任し、AI企業の文化が「壊れている」と警告」を扱っています。",
-          "デビッド・ロビンソンは、急速に発展するテクノロジーにもっと注意を払うよう業界に促すために他のインサイダーに加わります。",
+          "この記事は「Googleは、AIの提出が「大幅に増加」したため、オープンソースのバグ報奨金プログラムを凍結しました」を扱っています。",
+          "AI SLOPは圧倒的なバグ報奨金プログラムのようです。",
           "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       },
       {
-        "title": "Trump unveils his new Super Intelligence Force",
-        "url": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
+        "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
+        "url": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
         "points": 105,
         "comments": 0,
         "author": "",
-        "createdAt": "2026-10-04T15:15:10.000Z",
+        "createdAt": "2026-10-04T20:08:34.000Z",
         "domain": "techcrunch.com",
         "sourceType": "rss",
         "sourceLabel": "TechCrunch AI",
         "newsLens": "一般",
         "category": "AIニュース",
         "impact": "高",
-        "titleJa": "トランプ大統領、新しいスーパーインテリジェンスフォースを発表",
-        "summaryJa": "この記事は「トランプ大統領、新しいスーパーインテリジェンスフォースを発表」を扱っています。この新しいタスクフォースは、AIの安全性に関する議論に対するトランプの最新の対応です。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "titleJa": "「スーパーインテリジェンス」と拘束力のない安全協定は、AIのイメージの問題を解決できますか？",
+        "summaryJa": "この記事は「「スーパーインテリジェンス」と拘束力のない安全協定は、AIのイメージの問題を解決できますか？」を扱っています。エクイティについては、トランプ政権がAIをリブランディングしようとしていることについて話し合いました。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
-          "この記事は「トランプ大統領、新しいスーパーインテリジェンスフォースを発表」を扱っています。",
-          "この新しいタスクフォースは、AIの安全性に関する議論に対するトランプの最新の対応です。",
+          "この記事は「「スーパーインテリジェンス」と拘束力のない安全協定は、AIのイメージの問題を解決できますか。",
+          "エクイティについては、トランプ政権がAIをリブランディングしようとしていることについて話し合いました。",
           "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       },
@@ -46,7 +47,7 @@
         "title": "Religious scholars met with Anthropic",
         "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
         "points": 93,
-        "comments": 363,
+        "comments": 393,
         "author": "bookofjoe",
         "createdAt": "2026-10-04T02:34:22Z",
         "domain": "nytimes.com",
@@ -63,30 +64,30 @@
         ]
       },
       {
-        "title": "Anthropic tried to persuade Pope that AI could be conscious being",
-        "url": "https://www.telegraph.co.uk/business/2026/10/02/anthropic-lobbied-pope-to-argue-ai-conscious-being/",
-        "points": 55,
-        "comments": 91,
-        "author": "Topfi",
-        "createdAt": "2026-10-03T19:33:10Z",
-        "domain": "telegraph.co.uk",
+        "title": "Homa: The end of TCP for AI clusters [video]",
+        "url": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
+        "points": 73,
+        "comments": 12,
+        "author": "signa11",
+        "createdAt": "2026-10-04T19:42:25Z",
+        "domain": "youtube.com",
         "sourceType": "hn",
         "category": "AIニュース",
         "impact": "低",
         "newsLens": "技術",
-        "titleJa": "Anthropicは、AIが意識されている可能性があることをポープに説得しようとしました",
-        "summaryJa": "この記事は「Anthropicは、AIが意識されている可能性があることをポープに説得しようとしました」を扱っています。教皇の画期的な回勅は、彼がテクノロジー大手の提案を拒否したことを示した。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "titleJa": "HOMA ： AIクラスターのためのTCPの終わり[ビデオ]",
+        "summaryJa": "この記事は「HOMA ： AIクラスターのためのTCPの終わり[ビデオ]」を扱っています。youtube.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
         "keyPoints": [
-          "この記事は「Anthropicは、AIが意識されている可能性があることをポープに説得しようとしました」を扱っています。",
-          "教皇の画期的な回勅は、彼がテクノロジー大手の提案を拒否したことを示した。",
+          "この記事は「HOMA ： AIクラスターのためのTCPの終わり[ビデオ]」を扱っています。",
+          "youtube.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
           "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
       },
       {
         "title": "\"Torturing\" LLMs in a Robot Prison Has Triggered the Dumbest Debate in AI Yet",
         "url": "https://www.404media.co/someone-torturing-llms-in-a-robot-prison-has-triggered-the-dumbest-debate-in-ai-yet/",
-        "points": 51,
-        "comments": 99,
+        "points": 52,
+        "comments": 100,
         "author": "airhangerf15",
         "createdAt": "2026-10-04T08:02:33Z",
         "domain": "404media.co",
@@ -103,7 +104,7 @@
         ]
       }
     ],
-    "fetchedAt": "2026-10-04T18:38:11.587Z",
+    "fetchedAt": "2026-10-04T23:57:05.644Z",
     "mock": false
   },
   "xTrends": {
@@ -115,22 +116,22 @@
         "appearances": 1,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-10-04T18:38:11.488Z",
+        "observedAt": "2026-10-04T23:57:05.589Z",
         "url": "https://x.com/search?q=AI%E9%88%B4%E6%9C%A8&src=typed_query&f=live",
         "articleTitle": "AI鈴木",
         "articleTitleJa": "公開トレンド: AI鈴木",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-10-04T18:38:11.488Z",
+        "articlePublishedAt": "2026-10-04T23:57:05.589Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
       }
     ],
-    "fetchedAt": "2026-10-04T18:38:11.587Z",
+    "fetchedAt": "2026-10-04T23:57:05.644Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-10-04T18:38:11.989Z"
+    "articleFetchedAt": "2026-10-04T23:57:06.064Z"
   }
 }
