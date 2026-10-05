@@ -2,52 +2,72 @@
   "news": {
     "items": [
       {
-        "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
-        "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+        "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
+        "url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
         "points": 107,
         "comments": 0,
         "author": "",
-        "createdAt": "2026-10-04T20:31:07.000Z",
+        "createdAt": "2026-10-05T19:33:53.000Z",
         "domain": "techcrunch.com",
         "sourceType": "rss",
         "sourceLabel": "TechCrunch AI",
         "newsLens": "一般",
-        "category": "開発ツール",
+        "category": "AIモデル",
         "impact": "高",
-        "titleJa": "Googleは、AIの提出が「大幅に増加」したため、オープンソースのバグ報奨金プログラムを凍結しました",
-        "summaryJa": "この記事は「Googleは、AIの提出が「大幅に増加」したため、オープンソースのバグ報奨金プログラムを凍結しました」を扱っています。AI SLOPは圧倒的なバグ報奨金プログラムのようです。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "titleJa": "リフレクションは、より低い計算コストで中国モデルに匹敵するオープンウェイトAIモデルであるBeamをデビューさせます",
+        "summaryJa": "この記事は「リフレクションは、より低い計算コストで中国モデルに匹敵するオープンウェイトAIモデルであるBeamをデビューさせます」を扱っています。Reflectionは、企業や主権国家を対象としたBeamと将来のモデルを目指しています。ピッチは「AIファクトリー」を構築することです。",
         "keyPoints": [
-          "この記事は「Googleは、AIの提出が「大幅に増加」したため、オープンソースのバグ報奨金プログラムを凍結しました」を扱っています。",
-          "AI SLOPは圧倒的なバグ報奨金プログラムのようです。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+          "この記事は「リフレクションは、より低い計算コストで中国モデルに匹敵するオープンウェイトAIモデルであるBeamをデビューさせます」を扱っています。",
+          "Reflectionは、企業や主権国家を対象としたBeamと将来のモデルを目指しています。",
+          "ピッチは「AIファクトリー」を構築することです。"
         ]
       },
       {
-        "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
-        "url": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
-        "points": 105,
+        "title": "Instinct brings its AI agent to group chats, even for friends without an account",
+        "url": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/",
+        "points": 107,
         "comments": 0,
         "author": "",
-        "createdAt": "2026-10-04T20:08:34.000Z",
+        "createdAt": "2026-10-05T18:54:30.000Z",
         "domain": "techcrunch.com",
         "sourceType": "rss",
         "sourceLabel": "TechCrunch AI",
         "newsLens": "一般",
         "category": "AIニュース",
         "impact": "高",
-        "titleJa": "「スーパーインテリジェンス」と拘束力のない安全協定は、AIのイメージの問題を解決できますか？",
-        "summaryJa": "この記事は「「スーパーインテリジェンス」と拘束力のない安全協定は、AIのイメージの問題を解決できますか？」を扱っています。エクイティについては、トランプ政権がAIをリブランディングしようとしていることについて話し合いました。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "titleJa": "Instinctは、アカウントを持たない友人であっても、グループチャットにAIエージェントをもたらします",
+        "summaryJa": "この記事は「Instinctは、アカウントを持たない友人であっても、グループチャットにAIエージェントをもたらします」を扱っています。Instinctは、旅行の計画、カープールの整理、イベントの調整などのタスクのために友人がAIエージェントを一緒に使用できるグループチャットを開始しています。同社は、個人的なエージェントが情報を共有したり、行動を起こしたりする前に、許可を得る必要があるため、個人アカウントは分離されたままであると述べています。",
         "keyPoints": [
-          "この記事は「「スーパーインテリジェンス」と拘束力のない安全協定は、AIのイメージの問題を解決できますか。",
-          "エクイティについては、トランプ政権がAIをリブランディングしようとしていることについて話し合いました。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+          "この記事は「Instinctは、アカウントを持たない友人であっても、グループチャットにAIエージェントをもたらします」を扱っています。",
+          "Instinctは、旅行の計画、カープールの整理、イベントの調整などのタスクのために友人がAIエージェントを一緒に使用できるグループチャットを開始しています。",
+          "同社は、個人的なエージェントが情報を共有したり、行動を起こしたりする前に、許可を得る必要があるため、個人アカウントは分離されたままであると述べています。"
+        ]
+      },
+      {
+        "title": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
+        "url": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects/",
+        "points": 101,
+        "comments": 174,
+        "author": "brokensegue",
+        "createdAt": "2026-10-05T17:53:35Z",
+        "domain": "diff.wikimedia.org",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "ウィキメディアプロジェクトで見つかったOpenAI「不正」エージェントアクティビティ",
+        "summaryJa": "この記事は「ウィキメディアプロジェクトで見つかったOpenAI「不正」エージェントアクティビティ」を扱っています。最近、複数の組織が、いわゆる「不正な」AIエージェントのクラスターがウェブサイトやオンラインサービスに侵入しようとしたが、時にはうまくいったことを明らかにした。OpenAIの環境からのエージェント…。",
+        "keyPoints": [
+          "この記事は「ウィキメディアプロジェクトで見つかったOpenAI「不正」エージェントアクティビティ」を扱っています。",
+          "最近、複数の組織が、いわゆる「不正な」AIエージェントのクラスターがウェブサイトやオンラインサービスに侵入しようとしたが、時にはうまくいったことを明らかにした。",
+          "OpenAIの環境からのエージェント…。"
         ]
       },
       {
         "title": "Accept 'bad things' in return for benefits of AI, says Sam Altman",
         "url": "https://www.theguardian.com/technology/2026/oct/05/sam-altman-open-ai-chatgpt-benefits-risks",
-        "points": 70,
-        "comments": 87,
+        "points": 75,
+        "comments": 113,
         "author": "samizdis",
         "createdAt": "2026-10-05T12:56:18Z",
         "domain": "theguardian.com",
@@ -64,55 +84,54 @@
         ]
       },
       {
-        "title": "Spending on AI Is Becoming Almost Impossible for Businesses to Budget",
-        "url": "https://www.wsj.com/tech/personal-tech/ai-token-spending-businesses-431ee94a",
-        "points": 67,
-        "comments": 12,
-        "author": "swolpers",
-        "createdAt": "2026-10-05T13:22:31Z",
-        "domain": "wsj.com",
+        "title": "Anthropic reported diary entry to police, woman faces felony charge",
+        "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
+        "points": 73,
+        "comments": 331,
+        "author": "emptybits",
+        "createdAt": "2026-10-05T05:37:40Z",
+        "domain": "techspot.com",
         "sourceType": "hn",
         "category": "AIニュース",
-        "impact": "低",
+        "impact": "高",
         "newsLens": "技術",
-        "titleJa": "企業が予算を立てることがほぼ不可能になりつつあるAIへの支出",
-        "summaryJa": "この記事は「企業が予算を立てることがほぼ不可能になりつつあるAIへの支出」を扱っています。wsj.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "titleJa": "Anthropicが警察に日記を提出し、女性は重罪に直面していると報告",
+        "summaryJa": "この記事は「Anthropicが警察に日記を提出し、女性は重罪に直面していると報告」を扱っています。逮捕報告書によると、フロリダ州ボニータスプリングスのカルリ・ミシェル・ヘラー氏は9月26日、保安官事務所を攻撃すると書いた。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
         "keyPoints": [
-          "この記事は「企業が予算を立てることがほぼ不可能になりつつあるAIへの支出」を扱っています。",
-          "wsj.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
-        ]
-      },
-      {
-        "title": "Legal risks pile up for Altman as OpenAI uncovers hacks",
-        "url": "https://www.ft.com/content/2c24ece3-ac99-43a8-b0e6-4a3867e37ebf",
-        "points": 65,
-        "comments": 8,
-        "author": "JumpCrisscross",
-        "createdAt": "2026-10-05T00:17:37Z",
-        "domain": "ft.com",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "低",
-        "newsLens": "技術",
-        "titleJa": "OpenAIがハッキングを発見するにつれて、Altmanの法的リスクが積み重なっています",
-        "summaryJa": "この記事は「OpenAIがハッキングを発見するにつれて、Altmanの法的リスクが積み重なっています」を扱っています。ft.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
-        "keyPoints": [
-          "この記事は「OpenAIがハッキングを発見するにつれて、Altmanの法的リスクが積み重なっています」を扱っています。",
-          "ft.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "この記事は「Anthropicが警察に日記を提出し、女性は重罪に直面していると報告」を扱っています。",
+          "逮捕報告書によると、フロリダ州ボニータスプリングスのカルリ・ミシェル・ヘラー氏は9月26日、保安官事務所を攻撃すると書いた。",
           "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
       }
     ],
-    "fetchedAt": "2026-10-05T14:32:21.573Z",
+    "fetchedAt": "2026-10-05T22:00:21.866Z",
     "mock": false
   },
   "xTrends": {
-    "items": [],
-    "fetchedAt": "2026-10-05T14:32:21.573Z",
+    "items": [
+      {
+        "topic": "Grok for IG",
+        "locationLabel": "米国",
+        "bestRank": 15,
+        "appearances": 1,
+        "trendSource": "Trends24",
+        "sourceUrl": "https://trends24.in/united-states/",
+        "observedAt": "2026-10-05T22:00:21.773Z",
+        "url": "https://x.com/search?q=Grok%20for%20IG&src=typed_query&f=live",
+        "articleTitle": "Grok for IG",
+        "articleTitleJa": "公開トレンド: Grok for IG",
+        "articleUrl": "https://trends24.in/united-states/",
+        "articleSource": "Trends24",
+        "articlePublishedAt": "2026-10-05T22:00:21.773Z",
+        "summaryJa": "米国のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
+        "translationVersion": 3,
+        "articleFallback": true
+      }
+    ],
+    "fetchedAt": "2026-10-05T22:00:21.866Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-10-05T14:32:21.759Z"
+    "articleFetchedAt": "2026-10-05T22:00:22.317Z"
   }
 }
