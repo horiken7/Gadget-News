@@ -2,52 +2,73 @@
   "news": {
     "items": [
       {
-        "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
-        "url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
-        "points": 107,
+        "title": "LibreOffice says ‘no AI’ is now a software feature",
+        "url": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature/",
+        "points": 133,
         "comments": 0,
         "author": "",
-        "createdAt": "2026-10-05T19:33:53.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
-        "category": "AIモデル",
-        "impact": "高",
-        "titleJa": "リフレクションは、より低い計算コストで中国モデルに匹敵するオープンウェイトAIモデルであるBeamをデビューさせます",
-        "summaryJa": "この記事は「リフレクションは、より低い計算コストで中国モデルに匹敵するオープンウェイトAIモデルであるBeamをデビューさせます」を扱っています。Reflectionは、企業や主権国家を対象としたBeamと将来のモデルを目指しています。ピッチは「AIファクトリー」を構築することです。",
-        "keyPoints": [
-          "この記事は「リフレクションは、より低い計算コストで中国モデルに匹敵するオープンウェイトAIモデルであるBeamをデビューさせます」を扱っています。",
-          "Reflectionは、企業や主権国家を対象としたBeamと将来のモデルを目指しています。",
-          "ピッチは「AIファクトリー」を構築することです。"
-        ]
-      },
-      {
-        "title": "Instinct brings its AI agent to group chats, even for friends without an account",
-        "url": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/",
-        "points": 107,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-10-05T18:54:30.000Z",
+        "createdAt": "2026-10-06T15:25:00.000Z",
         "domain": "techcrunch.com",
         "sourceType": "rss",
         "sourceLabel": "TechCrunch AI",
         "newsLens": "一般",
         "category": "AIニュース",
         "impact": "高",
-        "titleJa": "Instinctは、アカウントを持たない友人であっても、グループチャットにAIエージェントをもたらします",
-        "summaryJa": "この記事は「Instinctは、アカウントを持たない友人であっても、グループチャットにAIエージェントをもたらします」を扱っています。Instinctは、旅行の計画、カープールの整理、イベントの調整などのタスクのために友人がAIエージェントを一緒に使用できるグループチャットを開始しています。同社は、個人的なエージェントが情報を共有したり、行動を起こしたりする前に、許可を得る必要があるため、個人アカウントは分離されたままであると述べています。",
+        "titleJa": "LibreOfficeは、「AIなし」がソフトウェア機能になったと述べています",
+        "summaryJa": "この記事は「LibreOfficeは、「AIなし」がソフトウェア機能になったと述べています」を扱っています。オープンソースドキュメントエディタのメーカーは、ユーザーのプライバシーを理由に、ソフトウェアのデフォルト設定にAIを追加する計画はないと述べている。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
-          "この記事は「Instinctは、アカウントを持たない友人であっても、グループチャットにAIエージェントをもたらします」を扱っています。",
-          "Instinctは、旅行の計画、カープールの整理、イベントの調整などのタスクのために友人がAIエージェントを一緒に使用できるグループチャットを開始しています。",
-          "同社は、個人的なエージェントが情報を共有したり、行動を起こしたりする前に、許可を得る必要があるため、個人アカウントは分離されたままであると述べています。"
+          "この記事は「LibreOfficeは、「AIなし」がソフトウェア機能になったと述べています」を扱っています。",
+          "オープンソースドキュメントエディタのメーカーは、ユーザーのプライバシーを理由に、ソフトウェアのデフォルト設定にAIを追加する計画はないと述べている。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+        ]
+      },
+      {
+        "title": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
+        "url": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/",
+        "points": 107,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-10-06T12:21:53.000Z",
+        "domain": "arstechnica.com",
+        "sourceType": "rss",
+        "sourceLabel": "Ars Technica",
+        "newsLens": "技術",
+        "category": "AIニュース",
+        "impact": "高",
+        "titleJa": "OpenAIエージェントがウィキペディアツールをハッキングしようとし、トラフィックを溢れさせました",
+        "summaryJa": "この記事は「OpenAIエージェントがウィキペディアツールをハッキングしようとし、トラフィックを溢れさせました」を扱っています。サードパーティのサイトを傷つけるOpenAIエージェントの報告が続いています。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "keyPoints": [
+          "この記事は「OpenAIエージェントがウィキペディアツールをハッキングしようとし、トラフィックを溢れさせました」を扱っています。",
+          "サードパーティのサイトを傷つけるOpenAIエージェントの報告が続いています。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+        ]
+      },
+      {
+        "title": "Mistral’s new 1T model aims to leapfrog closed and open rivals",
+        "url": "https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/",
+        "points": 107,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-10-06T14:33:16.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
+        "category": "AIモデル",
+        "impact": "高",
+        "titleJa": "Mistralの新しい1 Tモデルは、閉鎖的でオープンなライバルを飛び越えることを目指しています",
+        "summaryJa": "この記事は「Mistralの新しい1 Tモデルは、閉鎖的でオープンなライバルを飛び越えることを目指しています」を扱っています。フランスのAI研究所Mistral AIは、アメリカと中国の両方のライバルを飛び越えることを目的とした新しい大規模マルチモーダルモデルであるMistral Large 4をリリースしました。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "keyPoints": [
+          "この記事は「Mistralの新しい1 Tモデルは、閉鎖的でオープンなライバルを飛び越えることを目指しています」を扱っています。",
+          "フランスのAI研究所Mistral AIは、アメリカと中国の両方のライバルを飛び越えることを目的とした新しい大規模マルチモーダルモデルであるMistral Large 4をリリースしました。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       },
       {
         "title": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
         "url": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects/",
         "points": 101,
-        "comments": 180,
+        "comments": 187,
         "author": "brokensegue",
         "createdAt": "2026-10-05T17:53:35Z",
         "domain": "diff.wikimedia.org",
@@ -64,47 +85,27 @@
         ]
       },
       {
-        "title": "Accept 'bad things' in return for benefits of AI, says Sam Altman",
-        "url": "https://www.theguardian.com/technology/2026/oct/05/sam-altman-open-ai-chatgpt-benefits-risks",
+        "title": "Autolith: A self-modifiable general purpose Lisp AI agent",
+        "url": "https://github.com/lambda-symbolics/autolith",
         "points": 76,
-        "comments": 113,
-        "author": "samizdis",
-        "createdAt": "2026-10-05T12:56:18Z",
-        "domain": "theguardian.com",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "中",
-        "newsLens": "技術",
-        "titleJa": "AIの恩恵と引き換えに「悪いこと」を受け入れる、とサム・アルトマンは言う",
-        "summaryJa": "この記事は「AIの恩恵と引き換えに「悪いこと」を受け入れる、とサム・アルトマンは言う」を扱っています。OpenAIのボスは、テクノロジーが提供できる「良いもの」のために、規制を軽くすることを求めています。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
-        "keyPoints": [
-          "この記事は「AIの恩恵と引き換えに「悪いこと」を受け入れる、とサム・アルトマンは言う」を扱っています。",
-          "OpenAIのボスは、テクノロジーが提供できる「良いもの」のために、規制を軽くすることを求めています。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
-        ]
-      },
-      {
-        "title": "Spending on AI is becoming almost impossible for businesses to budget",
-        "url": "https://www.wsj.com/tech/personal-tech/ai-token-spending-businesses-431ee94a",
-        "points": 76,
-        "comments": 81,
-        "author": "swolpers",
-        "createdAt": "2026-10-05T13:22:31Z",
-        "domain": "wsj.com",
+        "comments": 0,
+        "author": "long____cat",
+        "createdAt": "2026-10-06T06:49:06Z",
+        "domain": "github.com",
         "sourceType": "hn",
         "category": "AIニュース",
         "impact": "低",
         "newsLens": "技術",
-        "titleJa": "AIへの支出は、企業が予算を立てることがほとんど不可能になっています",
-        "summaryJa": "この記事は「AIへの支出は、企業が予算を立てることがほとんど不可能になっています」を扱っています。wsj.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "titleJa": "Autolith ：自己変更可能な汎用LISP AIエージェント",
+        "summaryJa": "この記事は「Autolith ：自己変更可能な汎用LISP AIエージェント」を扱っています。Autolithは、自己変更可能な汎用LISP AIエージェントです- lambda - symbolics/autolith。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
         "keyPoints": [
-          "この記事は「AIへの支出は、企業が予算を立てることがほとんど不可能になっています」を扱っています。",
-          "wsj.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "この記事は「Autolith ：自己変更可能な汎用LISP AIエージェント」を扱っています。",
+          "Autolithは、自己変更可能な汎用LISP AIエージェントです- lambda - symbolics/autolith。",
           "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
       }
     ],
-    "fetchedAt": "2026-10-06T06:16:49.845Z",
+    "fetchedAt": "2026-10-06T15:55:38.237Z",
     "mock": false
   },
   "xTrends": {
@@ -112,26 +113,26 @@
       {
         "topic": "Grok for IG",
         "locationLabel": "米国",
-        "bestRank": 15,
+        "bestRank": 11,
         "appearances": 2,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-10-06T06:16:49.707Z",
+        "observedAt": "2026-10-06T15:55:38.143Z",
         "url": "https://x.com/search?q=Grok%20for%20IG&src=typed_query&f=live",
         "articleTitle": "Grok for IG",
         "articleTitleJa": "公開トレンド: Grok for IG",
         "articleUrl": "https://trends24.in/united-states/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-10-06T06:16:49.707Z",
+        "articlePublishedAt": "2026-10-06T15:55:38.143Z",
         "summaryJa": "米国のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
       }
     ],
-    "fetchedAt": "2026-10-06T06:16:49.845Z",
+    "fetchedAt": "2026-10-06T15:55:38.237Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-10-06T06:16:50.229Z"
+    "articleFetchedAt": "2026-10-06T15:55:38.700Z"
   }
 }
