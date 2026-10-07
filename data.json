@@ -23,27 +23,6 @@
         ]
       },
       {
-        "title": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
-        "url": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/",
-        "points": 107,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-10-06T12:21:53.000Z",
-        "domain": "arstechnica.com",
-        "sourceType": "rss",
-        "sourceLabel": "Ars Technica",
-        "newsLens": "技術",
-        "category": "AIニュース",
-        "impact": "高",
-        "titleJa": "OpenAIエージェントがウィキペディアツールをハッキングしようとし、トラフィックを溢れさせました",
-        "summaryJa": "この記事は「OpenAIエージェントがウィキペディアツールをハッキングしようとし、トラフィックを溢れさせました」を扱っています。サードパーティのサイトを傷つけるOpenAIエージェントの報告が続いています。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
-        "keyPoints": [
-          "この記事は「OpenAIエージェントがウィキペディアツールをハッキングしようとし、トラフィックを溢れさせました」を扱っています。",
-          "サードパーティのサイトを傷つけるOpenAIエージェントの報告が続いています。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
-        ]
-      },
-      {
         "title": "How AI decision models could change content moderation",
         "url": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
         "points": 107,
@@ -65,30 +44,10 @@
         ]
       },
       {
-        "title": "South Korea says AI agents appear to have been used to hack the country's banks",
-        "url": "https://www.reuters.com/world/south-koreas-lee-says-ai-appears-have-been-used-bank-hacks-2026-10-06/",
-        "points": 105,
-        "comments": 11,
-        "author": "thoughtpeddler",
-        "createdAt": "2026-10-06T23:50:33Z",
-        "domain": "reuters.com",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "中",
-        "newsLens": "技術",
-        "titleJa": "韓国は、AIエージェントが同国の銀行をハッキングするために使用されたようだと述べている",
-        "summaryJa": "この記事は「韓国は、AIエージェントが同国の銀行をハッキングするために使用されたようだと述べている」を扱っています。reuters.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
-        "keyPoints": [
-          "この記事は「韓国は、AIエージェントが同国の銀行をハッキングするために使用されたようだと述べている」を扱っています。",
-          "reuters.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
-        ]
-      },
-      {
         "title": "Sharing AI progress in mathematics",
         "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
         "points": 101,
-        "comments": 636,
+        "comments": 1034,
         "author": "OfficialTurkey",
         "createdAt": "2026-10-06T22:17:21Z",
         "domain": "openai.com",
@@ -103,9 +62,49 @@
           "openai.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
           "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
+      },
+      {
+        "title": "Claude Code’s suggested message feature: I think the real customer is the model",
+        "url": "https://www.zohaib.cc/blog/smartest-claude-code-feature",
+        "points": 101,
+        "comments": 132,
+        "author": "zed_labs_dev",
+        "createdAt": "2026-10-06T18:00:34Z",
+        "domain": "zohaib.cc",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "Claude・コードが提案するメッセージ機能：本当の顧客はモデルだと思う",
+        "summaryJa": "この記事は「Claude・コードが提案するメッセージ機能：本当の顧客はモデルだと思う」を扱っています。zohaib.ccが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "keyPoints": [
+          "この記事は「Claude・コードが提案するメッセージ機能：本当の顧客はモデルだと思う」を扱っています。",
+          "zohaib.ccが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+        ]
+      },
+      {
+        "title": "Reasons to Dislike AI Coding",
+        "url": "https://www.sicpers.info/2026/10/reasons-to-dislike-ai-coding/",
+        "points": 80,
+        "comments": 79,
+        "author": "signa11",
+        "createdAt": "2026-10-07T09:15:00Z",
+        "domain": "sicpers.info",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "低",
+        "newsLens": "技術",
+        "titleJa": "AIコーディングが嫌いな理由",
+        "summaryJa": "この記事は「AIコーディングが嫌いな理由」を扱っています。アートとしてのコード以前にアートまたはツールでこれをカバーしましたか？ソフトウェアを芸術的なアウトプットと考えると、生成されたソフトウェアは本物ではありません。",
+        "keyPoints": [
+          "この記事は「AIコーディングが嫌いな理由」を扱っています。",
+          "アートとしてのコード以前にアートまたはツールでこれをカバーしましたか。",
+          "ソフトウェアを芸術的なアウトプットと考えると、生成されたソフトウェアは本物ではありません。"
+        ]
       }
     ],
-    "fetchedAt": "2026-10-07T05:55:47.772Z",
+    "fetchedAt": "2026-10-07T13:18:50.535Z",
     "mock": false
   },
   "xTrends": {
@@ -117,22 +116,39 @@
         "appearances": 1,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-10-07T05:55:47.751Z",
+        "observedAt": "2026-10-07T13:18:50.516Z",
         "url": "https://x.com/search?q=AI%E4%B8%8A%E5%8F%B8&src=typed_query&f=live",
         "articleTitle": "AI上司",
         "articleTitleJa": "公開トレンド: AI上司",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-10-07T05:55:47.751Z",
+        "articlePublishedAt": "2026-10-07T13:18:50.516Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
+      },
+      {
+        "topic": "Grok Bot",
+        "locationLabel": "豪州",
+        "bestRank": 40,
+        "appearances": 1,
+        "trendSource": "Trends24",
+        "sourceUrl": "https://trends24.in/australia/",
+        "observedAt": "2026-10-07T13:18:50.493Z",
+        "url": "https://x.com/search?q=Grok%20Bot&src=typed_query&f=live",
+        "articleTitle": "Grok Bot 101 [video]",
+        "articleTitleJa": "Grok ボット 101 [ビデオ]",
+        "articleUrl": "https://www.youtube.com/watch?v=8xXhE25vJZY",
+        "articleSource": "youtube.com",
+        "articlePublishedAt": "2026-10-07T02:02:47Z",
+        "summaryJa": "YouTube でお気に入りの動画や音楽を楽しみ、オリジナルのコンテンツをアップロードして友だちや家族、世界中の人たちと共有しましょう。",
+        "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-10-07T05:55:47.772Z",
+    "fetchedAt": "2026-10-07T13:18:50.535Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-10-07T05:55:48.241Z"
+    "articleFetchedAt": "2026-10-07T13:18:55.207Z"
   }
 }
