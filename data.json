@@ -46,8 +46,8 @@
       {
         "title": "Study: Claude, ChatGPT Offer Different Shopping Prices Based on Wealth",
         "url": "https://www.bloomberg.com/news/newsletters/2026-10-07/study-claude-chatgpt-ai-bots-offer-different-shopping-prices-based-on-wealth",
-        "points": 84,
-        "comments": 32,
+        "points": 85,
+        "comments": 36,
         "author": "sbulaev",
         "createdAt": "2026-10-07T16:07:08Z",
         "domain": "bloomberg.com",
@@ -56,10 +56,10 @@
         "impact": "高",
         "newsLens": "技術",
         "titleJa": "調査： Claude、ChatGPTは、富に基づいて異なるショッピング価格を提供しています",
-        "summaryJa": "この記事は「調査： Claude、ChatGPTは、富に基づいて異なるショッピング価格を提供しています」を扱っています。ClaudeとChatGPTがショッピングアシスタントとしてどのように機能するかについての研究は、より多くの規制要求につながる可能性があります。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "summaryJa": "この記事は「調査： Claude、ChatGPTは、富に基づいて異なるショッピング価格を提供しています」を扱っています。bloomberg.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
         "keyPoints": [
           "この記事は「調査： Claude、ChatGPTは、富に基づいて異なるショッピング価格を提供しています」を扱っています。",
-          "ClaudeとChatGPTがショッピングアシスタントとしてどのように機能するかについての研究は、より多くの規制要求につながる可能性があります。",
+          "bloomberg.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
           "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
       },
@@ -67,7 +67,7 @@
         "title": "Claude Haiku 5.5",
         "url": "https://www.anthropic.com/claude-haiku-5-5",
         "points": 73,
-        "comments": 325,
+        "comments": 427,
         "author": "sfkgtbor",
         "createdAt": "2026-10-07T18:01:32Z",
         "domain": "anthropic.com",
@@ -87,7 +87,7 @@
         "title": "GPT‑6 and Intelligent UI for everyone",
         "url": "https://openai.com/index/gpt-6-for-everyone/",
         "points": 73,
-        "comments": 248,
+        "comments": 352,
         "author": "joshuawright11",
         "createdAt": "2026-10-07T18:00:58Z",
         "domain": "openai.com",
@@ -104,7 +104,7 @@
         ]
       }
     ],
-    "fetchedAt": "2026-10-08T00:58:27.133Z",
+    "fetchedAt": "2026-10-08T10:31:29.093Z",
     "mock": false
   },
   "xTrends": {
@@ -113,10 +113,10 @@
         "topic": "GPT-6",
         "locationLabel": "日本",
         "bestRank": 40,
-        "appearances": 3,
+        "appearances": 6,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-10-08T00:58:27.043Z",
+        "observedAt": "2026-10-08T10:31:29.080Z",
         "url": "https://x.com/search?q=GPT-6&src=typed_query&f=live",
         "articleTitle": "GPT-6 Astra plays World of Warcraft for the first time with agent-wow",
         "articleTitleJa": "GPT-6 アストラが Agent-Wow とともに World of Warcraft を初めてプレイ",
@@ -133,7 +133,7 @@
         "appearances": 2,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-10-08T00:58:27.043Z",
+        "observedAt": "2026-10-08T10:31:29.080Z",
         "url": "https://x.com/search?q=Claude%20Haiku%205.5&src=typed_query&f=live",
         "articleTitle": "Claude Haiku 5.5",
         "articleTitleJa": "Claude俳句 5.5",
@@ -150,25 +150,25 @@
         "appearances": 3,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-10-08T00:58:26.946Z",
+        "observedAt": "2026-10-08T10:31:28.976Z",
         "url": "https://x.com/search?q=Grok%20for%20IG&src=typed_query&f=live",
         "articleTitle": "Grok for IG",
         "articleTitleJa": "公開トレンド: Grok for IG",
         "articleUrl": "https://trends24.in/united-states/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-10-08T00:58:26.946Z",
+        "articlePublishedAt": "2026-10-08T10:31:28.976Z",
         "summaryJa": "米国のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
       },
       {
         "topic": "Grok Bot",
-        "locationLabel": "豪州",
-        "bestRank": 40,
+        "locationLabel": "米国",
+        "bestRank": 49,
         "appearances": 1,
         "trendSource": "Trends24",
-        "sourceUrl": "https://trends24.in/australia/",
-        "observedAt": "2026-10-08T00:58:27.113Z",
+        "sourceUrl": "https://trends24.in/united-states/",
+        "observedAt": "2026-10-08T10:31:28.976Z",
         "url": "https://x.com/search?q=Grok%20Bot&src=typed_query&f=live",
         "articleTitle": "Grok Bot 101 [video]",
         "articleTitleJa": "Grok ボット 101 [ビデオ]",
@@ -179,10 +179,10 @@
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-10-08T00:58:27.133Z",
+    "fetchedAt": "2026-10-08T10:31:29.093Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-10-08T00:58:36.765Z"
+    "articleFetchedAt": "2026-10-08T10:31:33.945Z"
   }
 }
