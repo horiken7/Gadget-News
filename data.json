@@ -44,30 +44,10 @@
         ]
       },
       {
-        "title": "Anthropic AI model submits false tip on unsolved Philly murder, police say",
-        "url": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/",
-        "points": 101,
-        "comments": 140,
-        "author": "Zambyte",
-        "createdAt": "2026-10-09T22:00:35Z",
-        "domain": "nbcphiladelphia.com",
-        "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "警察によると、Anthropic AIモデルがフィラデルフィアの未解決殺人事件に誤った情報を提供",
-        "summaryJa": "この記事は「警察によると、Anthropic AIモデルがフィラデルフィアの未解決殺人事件に誤った情報を提供」を扱っています。警察によると、フィラデルフィアで未解決の殺人事件について、Anthropic社のAIモデルが偽の情報を提出した後、捜査が進められているという。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
-        "keyPoints": [
-          "この記事は「警察によると、Anthropic AIモデルがフィラデルフィアの未解決殺人事件に誤った情報を提供」を扱っています。",
-          "警察によると、フィラデルフィアで未解決の殺人事件について、Anthropic社のAIモデルが偽の情報を提出した後、捜査が進められているという。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
-        ]
-      },
-      {
         "title": "My personal AI agent posted my bank details on company Slack",
         "url": "https://www.businessinsider.com/personal-ai-agent-grok-bot-posted-bank-details-company-slack-2026-10",
-        "points": 101,
-        "comments": 49,
+        "points": 103,
+        "comments": 63,
         "author": "bhrlady",
         "createdAt": "2026-10-10T14:46:16Z",
         "domain": "businessinsider.com",
@@ -84,54 +64,55 @@
         ]
       },
       {
-        "title": "Microsoft , Nvidia push AI agents onto personal computers",
-        "url": "http://www.argentinastar.com/news/279358260/microsoft-nvidia-push-ai-agents-onto-personal-computers",
-        "points": 81,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-10-10T06:45:00Z",
-        "domain": "argentinastar.com",
-        "sourceType": "gdelt",
-        "sourceLabel": "GDELT",
-        "category": "AIニュース",
+        "title": "Anthropic AI model submits false tip on unsolved Philly murder, police say",
+        "url": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/",
+        "points": 101,
+        "comments": 148,
+        "author": "Zambyte",
+        "createdAt": "2026-10-09T22:00:35Z",
+        "domain": "nbcphiladelphia.com",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "警察によると、Anthropic AIモデルがフィラデルフィアの未解決殺人事件に誤った情報を提供",
+        "summaryJa": "この記事は「警察によると、Anthropic AIモデルがフィラデルフィアの未解決殺人事件に誤った情報を提供」を扱っています。警察によると、フィラデルフィアで未解決の殺人事件について、Anthropic社のAIモデルが偽の情報を提出した後、捜査が進められているという。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "keyPoints": [
+          "この記事は「警察によると、Anthropic AIモデルがフィラデルフィアの未解決殺人事件に誤った情報を提供」を扱っています。",
+          "警察によると、フィラデルフィアで未解決の殺人事件について、Anthropic社のAIモデルが偽の情報を提出した後、捜査が進められているという。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+        ]
+      },
+      {
+        "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
+        "url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
+        "points": 92,
+        "comments": 49,
+        "author": "arkj",
+        "createdAt": "2026-10-10T18:48:35Z",
+        "domain": "ft.com",
+        "sourceType": "hn",
+        "category": "AIモデル",
         "impact": "中",
         "newsLens": "技術",
-        "titleJa": "マイクロソフト、NVIDIAがAIエージェントをパソコンにプッシュ",
-        "summaryJa": "この記事は「マイクロソフト、NVIDIAがAIエージェントをパソコンにプッシュ」を扱っています。マイクロソフトは、人工知能を直接パーソナルコンピュータにもたらすために、より大きな努力をしています。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "titleJa": "NVIDIA、米国の「オープン」モデルスタートアップReflection AIの買収について協議中",
+        "summaryJa": "この記事は「NVIDIA、米国の「オープン」モデルスタートアップReflection AIの買収について協議中」を扱っています。ft.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
         "keyPoints": [
-          "この記事は「マイクロソフト、NVIDIAがAIエージェントをパソコンにプッシュ」を扱っています。",
-          "マイクロソフトは、人工知能を直接パーソナルコンピュータにもたらすために、より大きな努力をしています。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+          "この記事は「NVIDIA、米国の「オープン」モデルスタートアップReflection AIの買収について協議中」を扱っています。",
+          "ft.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
       }
     ],
-    "fetchedAt": "2026-10-10T17:20:03.249Z",
+    "fetchedAt": "2026-10-10T21:40:55.879Z",
     "mock": false
   },
   "xTrends": {
-    "items": [
-      {
-        "topic": "Artificial Intelligence",
-        "locationLabel": "カナダ",
-        "bestRank": 45,
-        "appearances": 1,
-        "trendSource": "Trends24",
-        "sourceUrl": "https://trends24.in/canada/",
-        "observedAt": "2026-10-10T17:20:03.131Z",
-        "url": "https://x.com/search?q=Artificial%20Intelligence&src=typed_query&f=live",
-        "articleTitle": "Trump says anyone who uses the phrase \"artificial intelligence\" is \"the enemy\"",
-        "articleTitleJa": "トランプ氏は、「人工知能」というフレーズを使用する人は誰でも「敵」であると述べている",
-        "articleUrl": "https://breakingthenews.net/Article/Trump:-Anyone-using-term-%27Artificial-Intelligence%27-is-the-%27ENEMY%27/67261230",
-        "articleSource": "breakingthenews.net",
-        "articlePublishedAt": "2026-10-08T16:50:52Z",
-        "summaryJa": "米国のドナルド・トランプ大統領は木曜日、ホワイトハウスのブランディングに照らして、",
-        "translationVersion": 3
-      }
-    ],
-    "fetchedAt": "2026-10-10T17:20:03.249Z",
+    "items": [],
+    "fetchedAt": "2026-10-10T21:40:55.879Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-10-10T17:20:06.328Z"
+    "articleFetchedAt": "2026-10-10T21:40:56.016Z"
   }
 }
