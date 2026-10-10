@@ -2,23 +2,24 @@
   "news": {
     "items": [
       {
-        "title": "OpenAI fires three safety researchers for \"mishandling research information\"",
-        "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
-        "points": 147,
-        "comments": 213,
-        "author": "trakkstar",
-        "createdAt": "2026-10-09T10:00:26Z",
+        "title": "Here are the top AI agents that can live in your text messages",
+        "url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
+        "points": 107,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-10-10T14:00:00.000Z",
         "domain": "techcrunch.com",
-        "sourceType": "hn",
-        "category": "研究",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
+        "category": "AIニュース",
         "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "OpenAIが「研究情報の取り扱いミス」で3人の安全研究者を解雇",
-        "summaryJa": "この記事は「OpenAIが「研究情報の取り扱いミス」で3人の安全研究者を解雇」を扱っています。techcrunch.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。研究・実装面では、手法の新しさ、再現性、既存モデルとの差分が見るべき点です。",
+        "titleJa": "あなたのテキストメッセージに存在することができる上位のAIエージェントは次のとおりです",
+        "summaryJa": "この記事は「あなたのテキストメッセージに存在することができる上位のAIエージェントは次のとおりです」を扱っています。一般アシスタントから、家族、旅行、仕事用に設計されたエージェントまで、テキストメッセージに存在できる最も注目すべきAIエージェントのリストを作成しました。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
-          "この記事は「OpenAIが「研究情報の取り扱いミス」で3人の安全研究者を解雇」を扱っています。",
-          "techcrunch.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "研究・実装面では、手法の新しさ、再現性、既存モデルとの差分が見るべき点です。"
+          "この記事は「あなたのテキストメッセージに存在することができる上位のAIエージェントは次のとおりです」を扱っています。",
+          "一般アシスタントから、家族、旅行、仕事用に設計されたエージェントまで、テキストメッセージに存在できる最も注目すべきAIエージェントのリストを作成しました。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       },
       {
@@ -43,31 +44,10 @@
         ]
       },
       {
-        "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
-        "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
-        "points": 107,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-10-09T21:41:29.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
-        "category": "AIモデル",
-        "impact": "高",
-        "titleJa": "非テキストAIモデルJEVのメーカーは、発売後わずか数週間で75億$の価値がありました",
-        "summaryJa": "この記事は「非テキストAIモデルJEVのメーカーは、発売後わずか数週間で75億$の価値がありました」を扱っています。ユーザーや大企業がJEVに非常に興奮しているのは、LLMよりもはるかに高速に動作し、使用するトークンがはるかに少ないというTypeSafeの主張です。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
-        "keyPoints": [
-          "この記事は「非テキストAIモデルJEVのメーカーは、発売後わずか数週間で75億$の価値がありました」を扱っています。",
-          "ユーザーや大企業がJEVに非常に興奮しているのは、LLMよりもはるかに高速に動作し、使用するトークンがはるかに少ないというTypeSafeの主張です。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
-        ]
-      },
-      {
         "title": "Anthropic AI model submits false tip on unsolved Philly murder, police say",
         "url": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/",
         "points": 101,
-        "comments": 122,
+        "comments": 140,
         "author": "Zambyte",
         "createdAt": "2026-10-09T22:00:35Z",
         "domain": "nbcphiladelphia.com",
@@ -81,6 +61,26 @@
           "この記事は「警察によると、Anthropic AIモデルがフィラデルフィアの未解決殺人事件に誤った情報を提供」を扱っています。",
           "警察によると、フィラデルフィアで未解決の殺人事件について、Anthropic社のAIモデルが偽の情報を提出した後、捜査が進められているという。",
           "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+        ]
+      },
+      {
+        "title": "My personal AI agent posted my bank details on company Slack",
+        "url": "https://www.businessinsider.com/personal-ai-agent-grok-bot-posted-bank-details-company-slack-2026-10",
+        "points": 101,
+        "comments": 49,
+        "author": "bhrlady",
+        "createdAt": "2026-10-10T14:46:16Z",
+        "domain": "businessinsider.com",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "低",
+        "newsLens": "技術",
+        "titleJa": "個人的なAIエージェントが会社のSlackに銀行口座情報を投稿しました",
+        "summaryJa": "この記事は「個人的なAIエージェントが会社のSlackに銀行口座情報を投稿しました」を扱っています。XMTP LabsのCEOであるシェーン・マックは、彼のAIエージェントの1人が会社のSlackチャンネルに毎月の銀行監査を投稿したとき、失礼なショックを受けました。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "keyPoints": [
+          "この記事は「個人的なAIエージェントが会社のSlackに銀行口座情報を投稿しました」を扱っています。",
+          "XMTP LabsのCEOであるシェーン・マックは、彼のAIエージェントの1人が会社のSlackチャンネルに毎月の銀行監査を投稿したとき、失礼なショックを受けました。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
       },
       {
@@ -105,7 +105,7 @@
         ]
       }
     ],
-    "fetchedAt": "2026-10-10T09:47:11.411Z",
+    "fetchedAt": "2026-10-10T17:20:03.249Z",
     "mock": false
   },
   "xTrends": {
@@ -113,11 +113,11 @@
       {
         "topic": "Artificial Intelligence",
         "locationLabel": "カナダ",
-        "bestRank": 35,
-        "appearances": 9,
+        "bestRank": 45,
+        "appearances": 1,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/canada/",
-        "observedAt": "2026-10-10T09:47:11.358Z",
+        "observedAt": "2026-10-10T17:20:03.131Z",
         "url": "https://x.com/search?q=Artificial%20Intelligence&src=typed_query&f=live",
         "articleTitle": "Trump says anyone who uses the phrase \"artificial intelligence\" is \"the enemy\"",
         "articleTitleJa": "トランプ氏は、「人工知能」というフレーズを使用する人は誰でも「敵」であると述べている",
@@ -128,10 +128,10 @@
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-10-10T09:47:11.411Z",
+    "fetchedAt": "2026-10-10T17:20:03.249Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-10-10T09:47:14.388Z"
+    "articleFetchedAt": "2026-10-10T17:20:06.328Z"
   }
 }
