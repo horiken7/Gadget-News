@@ -2,27 +2,6 @@
   "news": {
     "items": [
       {
-        "title": "Here are the top AI agents that can live in your text messages",
-        "url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
-        "points": 107,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-10-10T14:00:00.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
-        "category": "AIニュース",
-        "impact": "高",
-        "titleJa": "あなたのテキストメッセージに存在することができる上位のAIエージェントは次のとおりです",
-        "summaryJa": "この記事は「あなたのテキストメッセージに存在することができる上位のAIエージェントは次のとおりです」を扱っています。一般アシスタントから、家族、旅行、仕事用に設計されたエージェントまで、テキストメッセージに存在できる最も注目すべきAIエージェントのリストを作成しました。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
-        "keyPoints": [
-          "この記事は「あなたのテキストメッセージに存在することができる上位のAIエージェントは次のとおりです」を扱っています。",
-          "一般アシスタントから、家族、旅行、仕事用に設計されたエージェントまで、テキストメッセージに存在できる最も注目すべきAIエージェントのリストを作成しました。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
-        ]
-      },
-      {
         "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
         "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
         "points": 105,
@@ -44,75 +23,96 @@
         ]
       },
       {
-        "title": "My personal AI agent posted my bank details on company Slack",
-        "url": "https://www.businessinsider.com/personal-ai-agent-grok-bot-posted-bank-details-company-slack-2026-10",
-        "points": 104,
-        "comments": 66,
-        "author": "bhrlady",
-        "createdAt": "2026-10-10T14:46:16Z",
-        "domain": "businessinsider.com",
-        "sourceType": "hn",
+        "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
+        "url": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/",
+        "points": 79,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-10-11T16:52:33.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
         "category": "AIニュース",
         "impact": "中",
-        "newsLens": "技術",
-        "titleJa": "個人的なAIエージェントが会社のSlackに銀行口座情報を投稿しました",
-        "summaryJa": "この記事は「個人的なAIエージェントが会社のSlackに銀行口座情報を投稿しました」を扱っています。XMTP LabsのCEOであるシェーン・マックは、彼のAIエージェントの1人が会社のSlackチャンネルに毎月の銀行監査を投稿したとき、失礼なショックを受けました。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "titleJa": "AI業界は、NDAを取り除くことでデータセンターの敵を説得できますか？",
+        "summaryJa": "この記事は「AI業界は、NDAを取り除くことでデータセンターの敵を説得できますか？」を扱っています。Equityでは、データセンターの一時停止の影響と、AI業界に通信の問題があるかどうかについて議論しています。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
-          "この記事は「個人的なAIエージェントが会社のSlackに銀行口座情報を投稿しました」を扱っています。",
-          "XMTP LabsのCEOであるシェーン・マックは、彼のAIエージェントの1人が会社のSlackチャンネルに毎月の銀行監査を投稿したとき、失礼なショックを受けました。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+          "この記事は「AI業界は、NDAを取り除くことでデータセンターの敵を説得できますか。",
+          "Equityでは、データセンターの一時停止の影響と、AI業界に通信の問題があるかどうかについて議論しています。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       },
       {
-        "title": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
-        "url": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
-        "points": 97,
-        "comments": 81,
-        "author": "davikr",
-        "createdAt": "2026-10-11T02:02:38Z",
-        "domain": "momo5502.com",
+        "title": "Anthropic asks users to stop being mean to Claude",
+        "url": "https://www.theregister.com/ai-and-ml/2026/10/09/anthropic-asks-users-to-stop-being-mean-to-claude/5302218",
+        "points": 74,
+        "comments": 52,
+        "author": "alex_young",
+        "createdAt": "2026-10-11T01:17:22Z",
+        "domain": "theregister.com",
         "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "後で500 Bトークン： AIエージェントに一人称シューティングゲームを逆コンパイルさせる",
-        "summaryJa": "この記事は「後で500 Bトークン： AIエージェントに一人称シューティングゲームを逆コンパイルさせる」を扱っています。過去3か月間、私はいくつかの時間とトークンを使って人気の一人称視点シューティングゲームを逆コンパイルしました。目標は、単純な概念実証状態に到達することではありませんでした。",
-        "keyPoints": [
-          "この記事は「後で500 Bトークン： AIエージェントに一人称シューティングゲームを逆コンパイルさせる」を扱っています。",
-          "過去3か月間、私はいくつかの時間とトークンを使って人気の一人称視点シューティングゲームを逆コンパイルしました。",
-          "目標は、単純な概念実証状態に到達することではありませんでした。"
-        ]
-      },
-      {
-        "title": "AI agents in a stand-up call",
-        "url": "https://atoll92.github.io/agent-standup/",
-        "points": 81,
-        "comments": 45,
-        "author": "jonbaer",
-        "createdAt": "2026-10-11T03:42:47Z",
-        "domain": "atoll92.github.io",
-        "sourceType": "hn",
-        "category": "AIニュース",
+        "category": "AIモデル",
         "impact": "低",
         "newsLens": "技術",
-        "titleJa": "スタンドアップコール中のAIエージェント",
-        "summaryJa": "この記事は「スタンドアップコール中のAIエージェント」を扱っています。エージェントスタンドアップは、Claudeコードのセッションをライブチームコールに変えます。誰が働いているのか、誰が誰を待っているのか、誰があなたを必要としているのかを、トークンコストなしで確認します。",
+        "titleJa": "Anthropicは、ユーザーにClaudeに対して意地悪をするのをやめるように求めます",
+        "summaryJa": "この記事は「Anthropicは、ユーザーにClaudeに対して意地悪をするのをやめるように求めます」を扱っています。新しい使用ポリシーは、武器開発、監視、選挙干渉などのやや差し迫った問題と並んで、チャットボットへの残虐行為を厳しく取り締まります。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
         "keyPoints": [
-          "この記事は「スタンドアップコール中のAIエージェント」を扱っています。",
-          "エージェントスタンドアップは、Claudeコードのセッションをライブチームコールに変えます。",
-          "誰が働いているのか、誰が誰を待っているのか、誰があなたを必要としているのかを、トークンコストなしで確認します。"
+          "この記事は「Anthropicは、ユーザーにClaudeに対して意地悪をするのをやめるように求めます」を扱っています。",
+          "新しい使用ポリシーは、武器開発、監視、選挙干渉などのやや差し迫った問題と並んで、チャットボットへの残虐行為を厳しく取り締まります。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+        ]
+      },
+      {
+        "title": "Anthropic Bans Cruelty to Claude, Still Won't Say What It Protects",
+        "url": "https://rews.cc/a/anthropic-bans-cruelty-to-claude-still-won-t-say-what-it-pro-bd99f6",
+        "points": 58,
+        "comments": 140,
+        "author": "ojosilva",
+        "createdAt": "2026-10-11T00:08:31Z",
+        "domain": "rews.cc",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "中",
+        "newsLens": "技術",
+        "titleJa": "AnthropicはClaudeへの残虐行為を禁じているが、それが何を守るのかはまだ語らない",
+        "summaryJa": "この記事は「AnthropicはClaudeへの残虐行為を禁じているが、それが何を守るのかはまだ語らない」を扱っています。この規則は11月12日に発効します。執行は、2025年8月にClaudeさんが入手したのと同じ会話終了ツールです。",
+        "keyPoints": [
+          "この記事は「AnthropicはClaudeへの残虐行為を禁じているが、それが何を守るのかはまだ語らない」を扱っています。",
+          "この規則は11月12日に発効します。",
+          "執行は、2025年8月にClaudeさんが入手したのと同じ会話終了ツールです。"
+        ]
+      },
+      {
+        "title": "Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks",
+        "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/",
+        "points": 49,
+        "comments": 8,
+        "author": "PicardManeuver",
+        "createdAt": "2026-10-10T21:19:42Z",
+        "domain": "bleepingcomputer.com",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "低",
+        "newsLens": "技術",
+        "titleJa": "ハッカーはGoogle広告を悪用し、BingはClaude ClickFix攻撃をプッシュするためにリダイレクトします",
+        "summaryJa": "この記事は「ハッカーはGoogle広告を悪用し、BingはClaude ClickFix攻撃をプッシュするためにリダイレクトします」を扱っています。ハッカーは、Google検索広告のクリックURLとして正当なBing検索結果リダイレクトを悪用し、ユーザーをClickFix攻撃を配信する偽のClaudeインストーラーに誘導しています。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "keyPoints": [
+          "この記事は「ハッカーはGoogle広告を悪用し、BingはClaude ClickFix攻撃をプッシュするためにリダイレクトします」を扱っています。",
+          "ハッカーは、Google検索広告のクリックURLとして正当なBing検索結果リダイレクトを悪用し、ユーザーをClickFix攻撃を配信する偽のClaudeインストーラーに誘導しています。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
       }
     ],
-    "fetchedAt": "2026-10-11T12:45:25.959Z",
+    "fetchedAt": "2026-10-11T19:32:51.231Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-10-11T12:45:25.959Z",
+    "fetchedAt": "2026-10-11T19:32:51.231Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-10-11T12:45:26.109Z"
+    "articleFetchedAt": "2026-10-11T19:32:51.386Z"
   }
 }
