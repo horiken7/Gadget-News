@@ -66,14 +66,14 @@
       {
         "title": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
         "url": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
-        "points": 86,
-        "comments": 54,
+        "points": 97,
+        "comments": 81,
         "author": "davikr",
         "createdAt": "2026-10-11T02:02:38Z",
         "domain": "momo5502.com",
         "sourceType": "hn",
         "category": "AIニュース",
-        "impact": "中",
+        "impact": "高",
         "newsLens": "技術",
         "titleJa": "後で500 Bトークン： AIエージェントに一人称シューティングゲームを逆コンパイルさせる",
         "summaryJa": "この記事は「後で500 Bトークン： AIエージェントに一人称シューティングゲームを逆コンパイルさせる」を扱っています。過去3か月間、私はいくつかの時間とトークンを使って人気の一人称視点シューティングゲームを逆コンパイルしました。目標は、単純な概念実証状態に到達することではありませんでした。",
@@ -84,35 +84,35 @@
         ]
       },
       {
-        "title": "Anthropic asks users to stop being mean to Claude",
-        "url": "https://www.theregister.com/ai-and-ml/2026/10/09/anthropic-asks-users-to-stop-being-mean-to-claude/5302218",
-        "points": 73,
-        "comments": 49,
-        "author": "alex_young",
-        "createdAt": "2026-10-11T01:17:22Z",
-        "domain": "theregister.com",
+        "title": "AI agents in a stand-up call",
+        "url": "https://atoll92.github.io/agent-standup/",
+        "points": 81,
+        "comments": 45,
+        "author": "jonbaer",
+        "createdAt": "2026-10-11T03:42:47Z",
+        "domain": "atoll92.github.io",
         "sourceType": "hn",
-        "category": "AIモデル",
+        "category": "AIニュース",
         "impact": "低",
         "newsLens": "技術",
-        "titleJa": "Anthropicは、ユーザーにClaudeに対して意地悪をするのをやめるように求めます",
-        "summaryJa": "この記事は「Anthropicは、ユーザーにClaudeに対して意地悪をするのをやめるように求めます」を扱っています。新しい使用ポリシーは、武器開発、監視、選挙干渉などのやや差し迫った問題と並んで、チャットボットへの残虐行為を厳しく取り締まります。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "titleJa": "スタンドアップコール中のAIエージェント",
+        "summaryJa": "この記事は「スタンドアップコール中のAIエージェント」を扱っています。エージェントスタンドアップは、Claudeコードのセッションをライブチームコールに変えます。誰が働いているのか、誰が誰を待っているのか、誰があなたを必要としているのかを、トークンコストなしで確認します。",
         "keyPoints": [
-          "この記事は「Anthropicは、ユーザーにClaudeに対して意地悪をするのをやめるように求めます」を扱っています。",
-          "新しい使用ポリシーは、武器開発、監視、選挙干渉などのやや差し迫った問題と並んで、チャットボットへの残虐行為を厳しく取り締まります。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+          "この記事は「スタンドアップコール中のAIエージェント」を扱っています。",
+          "エージェントスタンドアップは、Claudeコードのセッションをライブチームコールに変えます。",
+          "誰が働いているのか、誰が誰を待っているのか、誰があなたを必要としているのかを、トークンコストなしで確認します。"
         ]
       }
     ],
-    "fetchedAt": "2026-10-11T05:42:45.198Z",
+    "fetchedAt": "2026-10-11T12:45:25.959Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-10-11T05:42:45.198Z",
+    "fetchedAt": "2026-10-11T12:45:25.959Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-10-11T05:42:45.339Z"
+    "articleFetchedAt": "2026-10-11T12:45:26.109Z"
   }
 }
