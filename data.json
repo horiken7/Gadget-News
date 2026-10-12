@@ -2,24 +2,43 @@
   "news": {
     "items": [
       {
-        "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
-        "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
-        "points": 105,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-10-10T21:47:51.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
+        "title": "The gap in shared understanding of LLM capability is widening",
+        "url": "https://twitter.com/karpathy/status/2109361546505966046",
+        "points": 101,
+        "comments": 329,
+        "author": "albertzeyer",
+        "createdAt": "2026-10-11T20:20:52Z",
+        "domain": "twitter.com",
+        "sourceType": "hn",
         "category": "AIモデル",
         "impact": "高",
-        "titleJa": "マイクロソフトのサティア・ナデラ氏は、AIモデルには「緊急ブレーキ」が必要だと述べている",
-        "summaryJa": "この記事は「マイクロソフトのサティア・ナデラ氏は、AIモデルには「緊急ブレーキ」が必要だと述べている」を扱っています。土曜日の朝の投稿で、マイクロソフトのCEOは、AIの「一歩下がって信頼アーキテクチャを評価する」時が来たと書いた。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "newsLens": "技術",
+        "titleJa": "LLM能力に対する共通の理解のギャップが広がっている",
+        "summaryJa": "この記事は「LLM能力に対する共通の理解のギャップが広がっている」を扱っています。LLM能力に対する共通の理解のギャップが*広がっている*ため、4月のこのツイートからほこりを落としています。今では、「2つのグループがお互いに話し合っている」のではなく、鋭い漏斗になっています。",
         "keyPoints": [
-          "この記事は「マイクロソフトのサティア・ナデラ氏は、AIモデルには「緊急ブレーキ」が必要だと述べている」を扱っています。",
-          "土曜日の朝の投稿で、マイクロソフトのCEOは、AIの「一歩下がって信頼アーキテクチャを評価する」時が来たと書いた。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+          "この記事は「LLM能力に対する共通の理解のギャップが広がっている」を扱っています。",
+          "LLM能力に対する共通の理解のギャップが*広がっている*ため、4月のこのツイートからほこりを落としています。",
+          "今では、「2つのグループがお互いに話し合っている」のではなく、鋭い漏斗になっています。"
+        ]
+      },
+      {
+        "title": "OpenAI fires 3 safety researchers in dispute over AI risks",
+        "url": "https://apnews.com/article/openai-chatgpt-ai-artificial-intelligence-safety-789d4f5293fba45a22fcb62ebfbc2a41",
+        "points": 90,
+        "comments": 0,
+        "author": "devonnull",
+        "createdAt": "2026-10-11T20:35:03Z",
+        "domain": "apnews.com",
+        "sourceType": "hn",
+        "category": "研究",
+        "impact": "低",
+        "newsLens": "一般",
+        "titleJa": "OpenAI、AIリスクをめぐる論争で3人の安全研究者を解雇",
+        "summaryJa": "この記事は「OpenAI、AIリスクをめぐる論争で3人の安全研究者を解雇」を扱っています。apnews.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。一般向けには、AIが社会にどう受け止められ、どの分野で使われ始めているかを知る材料になります。",
+        "keyPoints": [
+          "この記事は「OpenAI、AIリスクをめぐる論争で3人の安全研究者を解雇」を扱っています。",
+          "apnews.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "一般向けには、AIが社会にどう受け止められ、どの分野で使われ始めているかを知る材料になります。"
         ]
       },
       {
@@ -64,55 +83,35 @@
         ]
       },
       {
-        "title": "Anthropic Bans Cruelty to Claude, Still Won't Say What It Protects",
-        "url": "https://rews.cc/a/anthropic-bans-cruelty-to-claude-still-won-t-say-what-it-pro-bd99f6",
-        "points": 58,
-        "comments": 140,
-        "author": "ojosilva",
-        "createdAt": "2026-10-11T00:08:31Z",
-        "domain": "rews.cc",
-        "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "中",
-        "newsLens": "技術",
-        "titleJa": "AnthropicはClaudeへの残虐行為を禁じているが、それが何を守るのかはまだ語らない",
-        "summaryJa": "この記事は「AnthropicはClaudeへの残虐行為を禁じているが、それが何を守るのかはまだ語らない」を扱っています。この規則は11月12日に発効します。執行は、2025年8月にClaudeさんが入手したのと同じ会話終了ツールです。",
-        "keyPoints": [
-          "この記事は「AnthropicはClaudeへの残虐行為を禁じているが、それが何を守るのかはまだ語らない」を扱っています。",
-          "この規則は11月12日に発効します。",
-          "執行は、2025年8月にClaudeさんが入手したのと同じ会話終了ツールです。"
-        ]
-      },
-      {
-        "title": "Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks",
-        "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/",
-        "points": 49,
-        "comments": 8,
-        "author": "PicardManeuver",
-        "createdAt": "2026-10-10T21:19:42Z",
-        "domain": "bleepingcomputer.com",
+        "title": "Show HN: Littleguys – Claude Code, Codex and OpenClaw agents in your menu bar",
+        "url": "https://littleguys.hervalicio.us",
+        "points": 73,
+        "comments": 0,
+        "author": "herval",
+        "createdAt": "2026-10-11T01:19:18Z",
+        "domain": "littleguys.hervalicio.us",
         "sourceType": "hn",
         "category": "AIモデル",
         "impact": "低",
         "newsLens": "技術",
-        "titleJa": "ハッカーはGoogle広告を悪用し、BingはClaude ClickFix攻撃をプッシュするためにリダイレクトします",
-        "summaryJa": "この記事は「ハッカーはGoogle広告を悪用し、BingはClaude ClickFix攻撃をプッシュするためにリダイレクトします」を扱っています。ハッカーは、Google検索広告のクリックURLとして正当なBing検索結果リダイレクトを悪用し、ユーザーをClickFix攻撃を配信する偽のClaudeインストーラーに誘導しています。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "titleJa": "HN: Littleguys - Claude Code、Codex、OpenClawエージェントをメニューバーに表示",
+        "summaryJa": "この記事は「HN: Littleguys - Claude Code、Codex、OpenClawエージェントをメニューバーに表示」を扱っています。Claude Code、Codex、Gemini、OpenClaw、Hermesのエージェントは、Macのメニューバーに表示されます。チャットし、承認し、スケジュールを設定します。",
         "keyPoints": [
-          "この記事は「ハッカーはGoogle広告を悪用し、BingはClaude ClickFix攻撃をプッシュするためにリダイレクトします」を扱っています。",
-          "ハッカーは、Google検索広告のクリックURLとして正当なBing検索結果リダイレクトを悪用し、ユーザーをClickFix攻撃を配信する偽のClaudeインストーラーに誘導しています。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+          "この記事は「HN: Littleguys - Claude Code、Codex、OpenClawエージェントをメニューバーに表示」を扱っています。",
+          "Claude Code、Codex、Gemini、OpenClaw、Hermesのエージェントは、Macのメニューバーに表示されます。",
+          "チャットし、承認し、スケジュールを設定します。"
         ]
       }
     ],
-    "fetchedAt": "2026-10-11T19:32:51.231Z",
+    "fetchedAt": "2026-10-12T00:31:19.912Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-10-11T19:32:51.231Z",
+    "fetchedAt": "2026-10-12T00:31:19.912Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-10-11T19:32:51.386Z"
+    "articleFetchedAt": "2026-10-12T00:31:20.085Z"
   }
 }
