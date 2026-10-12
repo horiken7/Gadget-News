@@ -2,117 +2,117 @@
   "news": {
     "items": [
       {
-        "title": "The gap in shared understanding of LLM capability is widening",
-        "url": "https://twitter.com/karpathy/status/2109361546505966046",
-        "points": 101,
-        "comments": 691,
-        "author": "albertzeyer",
-        "createdAt": "2026-10-11T20:20:52Z",
-        "domain": "twitter.com",
-        "sourceType": "hn",
-        "category": "AIモデル",
+        "title": "Microsoft president says UK is best placed to drive AI regulation",
+        "url": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
+        "points": 105,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-10-12T15:31:19.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
+        "category": "AIニュース",
         "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "LLM能力に対する共通の理解のギャップが広がっている",
-        "summaryJa": "この記事は「LLM能力に対する共通の理解のギャップが広がっている」を扱っています。LLM能力に対する共通の理解のギャップが*広がっている*ため、4月のこのツイートからほこりを落としています。今では、「2つのグループがお互いに話し合っている」のではなく、鋭い漏斗になっています。",
+        "titleJa": "マイクロソフト社長は、英国がAI規制を推進するのに最適であると述べています",
+        "summaryJa": "この記事は「マイクロソフト社長は、英国がAI規制を推進するのに最適であると述べています」を扱っています。マイクロソフト社長のブラッド・スミス氏は、ミルクや洗濯機はAI企業よりも監視されていると述べ、緊急のAI規制を求めている。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
-          "この記事は「LLM能力に対する共通の理解のギャップが広がっている」を扱っています。",
-          "LLM能力に対する共通の理解のギャップが*広がっている*ため、4月のこのツイートからほこりを落としています。",
-          "今では、「2つのグループがお互いに話し合っている」のではなく、鋭い漏斗になっています。"
+          "この記事は「マイクロソフト社長は、英国がAI規制を推進するのに最適であると述べています」を扱っています。",
+          "マイクロソフト社長のブラッド・スミス氏は、ミルクや洗濯機はAI企業よりも監視されていると述べ、緊急のAI規制を求めている。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       },
       {
-        "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
-        "url": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/",
+        "title": "QGIS enacts moratorium on AI contributions",
+        "url": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
+        "points": 101,
+        "comments": 387,
+        "author": "bwnkl",
+        "createdAt": "2026-10-12T11:22:24Z",
+        "domain": "github.com",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "QGISがAI貢献の一時停止を制定",
+        "summaryJa": "この記事は「QGISがAI貢献の一時停止を制定」を扱っています。github.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "keyPoints": [
+          "この記事は「QGISがAI貢献の一時停止を制定」を扱っています。",
+          "github.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+        ]
+      },
+      {
+        "title": "Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents",
+        "url": "https://news.ycombinator.com/item?id=50059096",
+        "points": 98,
+        "comments": 46,
+        "author": "vishnukool",
+        "createdAt": "2026-10-12T16:46:34Z",
+        "domain": "news.ycombinator.com",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "中",
+        "newsLens": "技術",
+        "titleJa": "HNを起動:エージェント37 (YC F 26) –エージェントを実行するための低コストのエージェントサンドボックス",
+        "summaryJa": "この記事は「HNを起動:エージェント37 (YC F 26) –エージェントを実行するための低コストのエージェントサンドボックス」を扱っています。私たちは、ほとんどのサンドボックスプロバイダの10 ％未満のコストでAIエージェントを実行するためのサンドボックスを構築しています。当社の顧客は、サンドボックスごとに平均0.37 $/月を費やしています。",
+        "keyPoints": [
+          "この記事は「HNを起動:エージェント37 (YC F 26) –エージェントを実行するための低コストのエージェントサンドボックス」を扱っています。",
+          "私たちは、ほとんどのサンドボックスプロバイダの10 ％未満のコストでAIエージェントを実行するためのサンドボックスを構築しています。",
+          "当社の顧客は、サンドボックスごとに平均0.37 $/月を費やしています。"
+        ]
+      },
+      {
+        "title": "Honeyjar offers AI tools to improve PR and comms at every company",
+        "url": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
         "points": 79,
         "comments": 0,
         "author": "",
-        "createdAt": "2026-10-11T16:52:33.000Z",
+        "createdAt": "2026-10-12T15:45:00.000Z",
         "domain": "techcrunch.com",
         "sourceType": "rss",
         "sourceLabel": "TechCrunch AI",
         "newsLens": "一般",
         "category": "AIニュース",
         "impact": "中",
-        "titleJa": "AI業界は、NDAを取り除くことでデータセンターの敵を説得できますか？",
-        "summaryJa": "この記事は「AI業界は、NDAを取り除くことでデータセンターの敵を説得できますか？」を扱っています。Equityでは、データセンターの一時停止の影響と、AI業界に通信の問題があるかどうかについて議論しています。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "titleJa": "Honeyjarは、すべての企業でPRとコミュニケーションを改善するためのAIツールを提供しています",
+        "summaryJa": "この記事は「Honeyjarは、すべての企業でPRとコミュニケーションを改善するためのAIツールを提供しています」を扱っています。ジャーナリスト、起業家、さらには広報の専門家の中には、PRプロセスが壊れていると言う人もいます。しかし、AIは実際に物事をより良くすることができますか？",
         "keyPoints": [
-          "この記事は「AI業界は、NDAを取り除くことでデータセンターの敵を説得できますか。",
-          "Equityでは、データセンターの一時停止の影響と、AI業界に通信の問題があるかどうかについて議論しています。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+          "この記事は「Honeyjarは、すべての企業でPRとコミュニケーションを改善するためのAIツールを提供しています」を扱っています。",
+          "ジャーナリスト、起業家、さらには広報の専門家の中には、PRプロセスが壊れていると言う人もいます。",
+          "しかし、AIは実際に物事をより良くすることができますか。"
         ]
       },
       {
-        "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
-        "url": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
-        "points": 79,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-10-11T14:00:00.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
-        "category": "AIモデル",
-        "impact": "中",
-        "titleJa": "これらのエグゼクティブは、音声AIがまだChatGPTの瞬間に達していないと考えています",
-        "summaryJa": "この記事は「これらのエグゼクティブは、音声AIがまだChatGPTの瞬間に達していないと考えています」を扱っています。音声AIは、コンテキストレイヤーの重要なポイントを見落とし、パイプライン全体が壊れてしまうことがよくあります。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
-        "keyPoints": [
-          "この記事は「これらのエグゼクティブは、音声AIがまだChatGPTの瞬間に達していないと考えています」を扱っています。",
-          "音声AIは、コンテキストレイヤーの重要なポイントを見落とし、パイプライン全体が壊れてしまうことがよくあります。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
-        ]
-      },
-      {
-        "title": "Research Firm Calls Anthropic's IPO 'Unprecedented Test of Investor Gullibity'",
-        "url": "https://www.cnbc.com/2026/10/07/anthropic-will-be-most-ridiculous-ipo-of-year-analyst-says.html",
-        "points": 49,
-        "comments": 61,
-        "author": "m463",
-        "createdAt": "2026-10-12T05:03:47Z",
-        "domain": "cnbc.com",
+        "title": "Just say no to OpenAI and Anthropic",
+        "url": "https://micahflee.com/just-say-no-to-openai-and-anthropic/",
+        "points": 73,
+        "comments": 137,
+        "author": "DeepLogin",
+        "createdAt": "2026-10-12T18:17:29Z",
+        "domain": "micahflee.com",
         "sourceType": "hn",
-        "category": "研究",
-        "impact": "中",
+        "category": "AIニュース",
+        "impact": "高",
         "newsLens": "技術",
-        "titleJa": "調査会社は、AnthropicのIPOを「前例のない投資家のごまかしのテスト」と呼んでいます",
-        "summaryJa": "この記事は「調査会社は、AnthropicのIPOを「前例のない投資家のごまかしのテスト」と呼んでいます」を扱っています。Anthropicは感謝祭前にナスダックに上場する予定であると伝えられており、弱気なアドバイザリー会社の1つは、投資家がこれを見逃すことを示唆しています。研究・実装面では、手法の新しさ、再現性、既存モデルとの差分が見るべき点です。",
+        "titleJa": "OpenAIとAnthropicにノーと言ってください",
+        "summaryJa": "この記事は「OpenAIとAnthropicにノーと言ってください」を扱っています。私は最近、ナオミ・クラインとアストラ・テイラーの『終わりの時代のファシズムと生きている世界のための戦い』を読みました。これは素晴らしい本であり、私はすべての人がそれを読むことを強くお勧めします。",
         "keyPoints": [
-          "この記事は「調査会社は、AnthropicのIPOを「前例のない投資家のごまかしのテスト」と呼んでいます」を扱っています。",
-          "Anthropicは感謝祭前にナスダックに上場する予定であると伝えられており、弱気なアドバイザリー会社の1つは、投資家がこれを見逃すことを示唆しています。",
-          "研究・実装面では、手法の新しさ、再現性、既存モデルとの差分が見るべき点です。"
-        ]
-      },
-      {
-        "title": "Show HN: Atticus – Hold-to-talk voice assistant for macOS that runs on Claude -p",
-        "url": "https://github.com/SaarthurR/atticus-mac",
-        "points": 47,
-        "comments": 3,
-        "author": "SaarthRanka",
-        "createdAt": "2026-10-12T00:15:12Z",
-        "domain": "github.com",
-        "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "低",
-        "newsLens": "技術",
-        "titleJa": "HNを表示： Atticus – Claudeで動作するmacOS用のホールドトゥトークボイスアシスタント- p",
-        "summaryJa": "この記事は「HNを表示： Atticus – Claudeで動作するmacOS用のホールドトゥトークボイスアシスタント- p」を扱っています。私は9年生で、アッティクスを建てました。Atticusは、非常に高速で安価なMacアシスタントで、あなたのためにタスクを実行できます。",
-        "keyPoints": [
-          "この記事は「HNを表示： Atticus – Claudeで動作するmacOS用のホールドトゥトークボイスアシスタント- p」を扱っています。",
-          "私は9年生で、アッティクスを建てました。",
-          "Atticusは、非常に高速で安価なMacアシスタントで、あなたのためにタスクを実行できます。"
+          "この記事は「OpenAIとAnthropicにノーと言ってください」を扱っています。",
+          "私は最近、ナオミ・クラインとアストラ・テイラーの『終わりの時代のファシズムと生きている世界のための戦い』を読みました。",
+          "これは素晴らしい本であり、私はすべての人がそれを読むことを強くお勧めします。"
         ]
       }
     ],
-    "fetchedAt": "2026-10-12T10:44:15.801Z",
+    "fetchedAt": "2026-10-12T21:15:34.166Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-10-12T10:44:15.801Z",
+    "fetchedAt": "2026-10-12T21:15:34.166Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-10-12T10:44:15.932Z"
+    "articleFetchedAt": "2026-10-12T21:15:34.369Z"
   }
 }
