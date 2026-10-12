@@ -5,7 +5,7 @@
         "title": "The gap in shared understanding of LLM capability is widening",
         "url": "https://twitter.com/karpathy/status/2109361546505966046",
         "points": 101,
-        "comments": 329,
+        "comments": 691,
         "author": "albertzeyer",
         "createdAt": "2026-10-11T20:20:52Z",
         "domain": "twitter.com",
@@ -19,26 +19,6 @@
           "この記事は「LLM能力に対する共通の理解のギャップが広がっている」を扱っています。",
           "LLM能力に対する共通の理解のギャップが*広がっている*ため、4月のこのツイートからほこりを落としています。",
           "今では、「2つのグループがお互いに話し合っている」のではなく、鋭い漏斗になっています。"
-        ]
-      },
-      {
-        "title": "OpenAI fires 3 safety researchers in dispute over AI risks",
-        "url": "https://apnews.com/article/openai-chatgpt-ai-artificial-intelligence-safety-789d4f5293fba45a22fcb62ebfbc2a41",
-        "points": 90,
-        "comments": 0,
-        "author": "devonnull",
-        "createdAt": "2026-10-11T20:35:03Z",
-        "domain": "apnews.com",
-        "sourceType": "hn",
-        "category": "研究",
-        "impact": "低",
-        "newsLens": "一般",
-        "titleJa": "OpenAI、AIリスクをめぐる論争で3人の安全研究者を解雇",
-        "summaryJa": "この記事は「OpenAI、AIリスクをめぐる論争で3人の安全研究者を解雇」を扱っています。apnews.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。一般向けには、AIが社会にどう受け止められ、どの分野で使われ始めているかを知る材料になります。",
-        "keyPoints": [
-          "この記事は「OpenAI、AIリスクをめぐる論争で3人の安全研究者を解雇」を扱っています。",
-          "apnews.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "一般向けには、AIが社会にどう受け止められ、どの分野で使われ始めているかを知る材料になります。"
         ]
       },
       {
@@ -63,55 +43,76 @@
         ]
       },
       {
-        "title": "Anthropic asks users to stop being mean to Claude",
-        "url": "https://www.theregister.com/ai-and-ml/2026/10/09/anthropic-asks-users-to-stop-being-mean-to-claude/5302218",
-        "points": 74,
-        "comments": 52,
-        "author": "alex_young",
-        "createdAt": "2026-10-11T01:17:22Z",
-        "domain": "theregister.com",
-        "sourceType": "hn",
+        "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
+        "url": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
+        "points": 79,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-10-11T14:00:00.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
         "category": "AIモデル",
-        "impact": "低",
-        "newsLens": "技術",
-        "titleJa": "Anthropicは、ユーザーにClaudeに対して意地悪をするのをやめるように求めます",
-        "summaryJa": "この記事は「Anthropicは、ユーザーにClaudeに対して意地悪をするのをやめるように求めます」を扱っています。新しい使用ポリシーは、武器開発、監視、選挙干渉などのやや差し迫った問題と並んで、チャットボットへの残虐行為を厳しく取り締まります。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "impact": "中",
+        "titleJa": "これらのエグゼクティブは、音声AIがまだChatGPTの瞬間に達していないと考えています",
+        "summaryJa": "この記事は「これらのエグゼクティブは、音声AIがまだChatGPTの瞬間に達していないと考えています」を扱っています。音声AIは、コンテキストレイヤーの重要なポイントを見落とし、パイプライン全体が壊れてしまうことがよくあります。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
-          "この記事は「Anthropicは、ユーザーにClaudeに対して意地悪をするのをやめるように求めます」を扱っています。",
-          "新しい使用ポリシーは、武器開発、監視、選挙干渉などのやや差し迫った問題と並んで、チャットボットへの残虐行為を厳しく取り締まります。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+          "この記事は「これらのエグゼクティブは、音声AIがまだChatGPTの瞬間に達していないと考えています」を扱っています。",
+          "音声AIは、コンテキストレイヤーの重要なポイントを見落とし、パイプライン全体が壊れてしまうことがよくあります。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       },
       {
-        "title": "Show HN: Littleguys – Claude Code, Codex and OpenClaw agents in your menu bar",
-        "url": "https://littleguys.hervalicio.us",
-        "points": 73,
-        "comments": 0,
-        "author": "herval",
-        "createdAt": "2026-10-11T01:19:18Z",
-        "domain": "littleguys.hervalicio.us",
+        "title": "Research Firm Calls Anthropic's IPO 'Unprecedented Test of Investor Gullibity'",
+        "url": "https://www.cnbc.com/2026/10/07/anthropic-will-be-most-ridiculous-ipo-of-year-analyst-says.html",
+        "points": 49,
+        "comments": 61,
+        "author": "m463",
+        "createdAt": "2026-10-12T05:03:47Z",
+        "domain": "cnbc.com",
+        "sourceType": "hn",
+        "category": "研究",
+        "impact": "中",
+        "newsLens": "技術",
+        "titleJa": "調査会社は、AnthropicのIPOを「前例のない投資家のごまかしのテスト」と呼んでいます",
+        "summaryJa": "この記事は「調査会社は、AnthropicのIPOを「前例のない投資家のごまかしのテスト」と呼んでいます」を扱っています。Anthropicは感謝祭前にナスダックに上場する予定であると伝えられており、弱気なアドバイザリー会社の1つは、投資家がこれを見逃すことを示唆しています。研究・実装面では、手法の新しさ、再現性、既存モデルとの差分が見るべき点です。",
+        "keyPoints": [
+          "この記事は「調査会社は、AnthropicのIPOを「前例のない投資家のごまかしのテスト」と呼んでいます」を扱っています。",
+          "Anthropicは感謝祭前にナスダックに上場する予定であると伝えられており、弱気なアドバイザリー会社の1つは、投資家がこれを見逃すことを示唆しています。",
+          "研究・実装面では、手法の新しさ、再現性、既存モデルとの差分が見るべき点です。"
+        ]
+      },
+      {
+        "title": "Show HN: Atticus – Hold-to-talk voice assistant for macOS that runs on Claude -p",
+        "url": "https://github.com/SaarthurR/atticus-mac",
+        "points": 47,
+        "comments": 3,
+        "author": "SaarthRanka",
+        "createdAt": "2026-10-12T00:15:12Z",
+        "domain": "github.com",
         "sourceType": "hn",
         "category": "AIモデル",
         "impact": "低",
         "newsLens": "技術",
-        "titleJa": "HN: Littleguys - Claude Code、Codex、OpenClawエージェントをメニューバーに表示",
-        "summaryJa": "この記事は「HN: Littleguys - Claude Code、Codex、OpenClawエージェントをメニューバーに表示」を扱っています。Claude Code、Codex、Gemini、OpenClaw、Hermesのエージェントは、Macのメニューバーに表示されます。チャットし、承認し、スケジュールを設定します。",
+        "titleJa": "HNを表示： Atticus – Claudeで動作するmacOS用のホールドトゥトークボイスアシスタント- p",
+        "summaryJa": "この記事は「HNを表示： Atticus – Claudeで動作するmacOS用のホールドトゥトークボイスアシスタント- p」を扱っています。私は9年生で、アッティクスを建てました。Atticusは、非常に高速で安価なMacアシスタントで、あなたのためにタスクを実行できます。",
         "keyPoints": [
-          "この記事は「HN: Littleguys - Claude Code、Codex、OpenClawエージェントをメニューバーに表示」を扱っています。",
-          "Claude Code、Codex、Gemini、OpenClaw、Hermesのエージェントは、Macのメニューバーに表示されます。",
-          "チャットし、承認し、スケジュールを設定します。"
+          "この記事は「HNを表示： Atticus – Claudeで動作するmacOS用のホールドトゥトークボイスアシスタント- p」を扱っています。",
+          "私は9年生で、アッティクスを建てました。",
+          "Atticusは、非常に高速で安価なMacアシスタントで、あなたのためにタスクを実行できます。"
         ]
       }
     ],
-    "fetchedAt": "2026-10-12T00:31:19.912Z",
+    "fetchedAt": "2026-10-12T10:44:15.801Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-10-12T00:31:19.912Z",
+    "fetchedAt": "2026-10-12T10:44:15.801Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-10-12T00:31:20.085Z"
+    "articleFetchedAt": "2026-10-12T10:44:15.932Z"
   }
 }
