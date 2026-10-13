@@ -2,6 +2,26 @@
   "news": {
     "items": [
       {
+        "title": "Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents",
+        "url": "https://news.ycombinator.com/item?id=50059096",
+        "points": 113,
+        "comments": 98,
+        "author": "vishnukool",
+        "createdAt": "2026-10-12T16:46:34Z",
+        "domain": "news.ycombinator.com",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "HNを起動:エージェント37 (YC F 26) –エージェントを実行するための低コストのエージェントサンドボックス",
+        "summaryJa": "この記事は「HNを起動:エージェント37 (YC F 26) –エージェントを実行するための低コストのエージェントサンドボックス」を扱っています。私たちは、ほとんどのサンドボックスプロバイダの10 ％未満のコストでAIエージェントを実行するためのサンドボックスを構築しています。当社の顧客は、サンドボックスごとに平均0.37 $/月を費やしています。",
+        "keyPoints": [
+          "この記事は「HNを起動:エージェント37 (YC F 26) –エージェントを実行するための低コストのエージェントサンドボックス」を扱っています。",
+          "私たちは、ほとんどのサンドボックスプロバイダの10 ％未満のコストでAIエージェントを実行するためのサンドボックスを構築しています。",
+          "当社の顧客は、サンドボックスごとに平均0.37 $/月を費やしています。"
+        ]
+      },
+      {
         "title": "Microsoft president says UK is best placed to drive AI regulation",
         "url": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
         "points": 105,
@@ -26,7 +46,7 @@
         "title": "QGIS enacts moratorium on AI contributions",
         "url": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
         "points": 101,
-        "comments": 398,
+        "comments": 402,
         "author": "bwnkl",
         "createdAt": "2026-10-12T11:22:24Z",
         "domain": "github.com",
@@ -39,6 +59,26 @@
         "keyPoints": [
           "この記事は「QGISがAI貢献の一時停止を制定」を扱っています。",
           "github.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+        ]
+      },
+      {
+        "title": "Threat of AI share crash puts world financial stability at risk, says IMF",
+        "url": "https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks",
+        "points": 83,
+        "comments": 93,
+        "author": "novaRom",
+        "createdAt": "2026-10-13T05:57:32Z",
+        "domain": "theguardian.com",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "AIシェアの暴落の脅威は世界の金融安定を危険にさらすとIMFは述べている",
+        "summaryJa": "この記事は「AIシェアの暴落の脅威は世界の金融安定を危険にさらすとIMFは述べている」を扱っています。高いバリュエーションと債務はセクターを危険にさらし、IMFは政府の借入金とサイバー攻撃についても警告しています。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "keyPoints": [
+          "この記事は「AIシェアの暴落の脅威は世界の金融安定を危険にさらすとIMFは述べている」を扱っています。",
+          "高いバリュエーションと債務はセクターを危険にさらし、IMFは政府の借入金とサイバー攻撃についても警告しています。",
           "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
       },
@@ -62,49 +102,9 @@
           "ジャーナリスト、起業家、さらには広報の専門家の中には、PRプロセスが壊れていると言う人もいます。",
           "しかし、AIは実際に物事をより良くすることができますか。"
         ]
-      },
-      {
-        "title": "AI is a tool and using it well takes skill",
-        "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
-        "points": 73,
-        "comments": 215,
-        "author": "layer8",
-        "createdAt": "2026-10-12T21:40:18Z",
-        "domain": "yyhh.org",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "AIはツールであり、うまく活用するにはスキルが必要です",
-        "summaryJa": "この記事は「AIはツールであり、うまく活用するにはスキルが必要です」を扱っています。Rich Hickey氏の「' AI 'はツールではない」への対応：自動化とツールの使用は共存でき、LLMをうまく活用するにはスキル、フィードバック、判断が必要です。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
-        "keyPoints": [
-          "この記事は「AIはツールであり、うまく活用するにはスキルが必要です」を扱っています。",
-          "Rich Hickey氏の「' AI 'はツールではない」への対応：自動化とツールの使用は共存でき、LLMをうまく活用するにはスキル、フィードバック、判断が必要です。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
-        ]
-      },
-      {
-        "title": "Just say no to OpenAI and Anthropic",
-        "url": "https://micahflee.com/just-say-no-to-openai-and-anthropic/",
-        "points": 73,
-        "comments": 146,
-        "author": "DeepLogin",
-        "createdAt": "2026-10-12T18:17:29Z",
-        "domain": "micahflee.com",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "OpenAIとAnthropicにノーと言ってください",
-        "summaryJa": "この記事は「OpenAIとAnthropicにノーと言ってください」を扱っています。私は最近、ナオミ・クラインとアストラ・テイラーの『終わりの時代のファシズムと生きている世界のための戦い』を読みました。これは素晴らしい本であり、私はすべての人がそれを読むことを強くお勧めします。",
-        "keyPoints": [
-          "この記事は「OpenAIとAnthropicにノーと言ってください」を扱っています。",
-          "私は最近、ナオミ・クラインとアストラ・テイラーの『終わりの時代のファシズムと生きている世界のための戦い』を読みました。",
-          "これは素晴らしい本であり、私はすべての人がそれを読むことを強くお勧めします。"
-        ]
       }
     ],
-    "fetchedAt": "2026-10-13T02:36:02.415Z",
+    "fetchedAt": "2026-10-13T10:31:18.877Z",
     "mock": false
   },
   "xTrends": {
@@ -116,22 +116,22 @@
         "appearances": 1,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-10-13T02:36:01.917Z",
+        "observedAt": "2026-10-13T10:31:18.684Z",
         "url": "https://x.com/search?q=%E3%83%95%E3%82%A3%E3%82%B8%E3%82%AB%E3%83%ABAI%E5%9F%BA%E7%9B%A4%E6%A7%8B%E7%AF%89&src=typed_query&f=live",
         "articleTitle": "フィジカルAI基盤構築",
         "articleTitleJa": "公開トレンド: フィジカルAI基盤構築",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-10-13T02:36:01.917Z",
+        "articlePublishedAt": "2026-10-13T10:31:18.684Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
       }
     ],
-    "fetchedAt": "2026-10-13T02:36:02.415Z",
+    "fetchedAt": "2026-10-13T10:31:18.877Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-10-13T02:36:02.890Z"
+    "articleFetchedAt": "2026-10-13T10:31:19.371Z"
   }
 }
