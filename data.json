@@ -23,23 +23,23 @@
         ]
       },
       {
-        "title": "Amex introduces a framework to prevent AI agents from making unauthorized purchases",
-        "url": "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/",
-        "points": 107,
+        "title": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
+        "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
+        "points": 105,
         "comments": 0,
         "author": "",
-        "createdAt": "2026-10-13T13:00:00.000Z",
+        "createdAt": "2026-10-13T23:05:34.000Z",
         "domain": "techcrunch.com",
         "sourceType": "rss",
         "sourceLabel": "TechCrunch AI",
         "newsLens": "一般",
         "category": "AIニュース",
         "impact": "高",
-        "titleJa": "Amexは、AIエージェントが不正な購入を行うのを防ぐためのフレームワークを導入しています",
-        "summaryJa": "この記事は「Amexは、AIエージェントが不正な購入を行うのを防ぐためのフレームワークを導入しています」を扱っています。アメリカン・エキスプレスは、AIエージェントがユーザーが承認した購入のみを行うように設計された新しいフレームワークを導入しており、AI搭載のショッピングが成長するにつれて、コストのかかるミスや紛争を防ぐ可能性があります。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "titleJa": "CerebrasのCEOは、誰もが自宅にパーソナルAIアシスタントを持つ未来に近づいていると述べています",
+        "summaryJa": "この記事は「CerebrasのCEOは、誰もが自宅にパーソナルAIアシスタントを持つ未来に近づいていると述べています」を扱っています。Cerebrasの最高経営責任者（ CEO ）であるAndrew Feldman氏は、パーソナルAIアシスタントが家庭用電化製品と同じくらい一般的になり、一部はローカルデバイスで、一部はクラウドで動作する未来を予測しています。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
-          "この記事は「Amexは、AIエージェントが不正な購入を行うのを防ぐためのフレームワークを導入しています」を扱っています。",
-          "アメリカン・エキスプレスは、AIエージェントがユーザーが承認した購入のみを行うように設計された新しいフレームワークを導入しており、AI搭載のショッピングが成長するにつれて、コストのかかるミスや紛争を防ぐ可能性があります。",
+          "この記事は「CerebrasのCEOは、誰もが自宅にパーソナルAIアシスタントを持つ未来に近づいていると述べています」を扱っています。",
+          "Cerebrasの最高経営責任者（ CEO ）であるAndrew Feldman氏は、パーソナルAIアシスタントが家庭用電化製品と同じくらい一般的になり、一部はローカルデバイスで、一部はクラウドで動作する未来を予測しています。",
           "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       },
@@ -47,7 +47,7 @@
         "title": "Gemini 4 Argon",
         "url": "https://deepmind.google/models/gemini/",
         "points": 101,
-        "comments": 886,
+        "comments": 975,
         "author": "737max",
         "createdAt": "2026-10-13T16:03:16Z",
         "domain": "deepmind.google",
@@ -67,7 +67,7 @@
         "title": "Gemini 4 Argon for Robotics",
         "url": "https://developers.googleblog.com/gemini-4-argon-for-robotics/",
         "points": 101,
-        "comments": 49,
+        "comments": 52,
         "author": "xnx",
         "createdAt": "2026-10-13T16:55:47Z",
         "domain": "developers.googleblog.com",
@@ -84,27 +84,28 @@
         ]
       },
       {
-        "title": "Redesigning source control at Anthropic",
-        "url": "https://www.anthropic.com/engineering/redesigning-source-control",
-        "points": 73,
-        "comments": 741,
-        "author": "Philpax",
-        "createdAt": "2026-10-13T15:49:56Z",
-        "domain": "anthropic.com",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "高",
+        "title": "Anthropic warns small AI models could self-replicate through IoT devices",
+        "url": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/",
+        "points": 79,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-10-14T12:55:06.000Z",
+        "domain": "arstechnica.com",
+        "sourceType": "rss",
+        "sourceLabel": "Ars Technica",
         "newsLens": "技術",
-        "titleJa": "Anthropicでのソースコントロールの再設計",
-        "summaryJa": "この記事は「Anthropicでのソースコントロールの再設計」を扱っています。1日あたりのマージが10倍以上に成長するにつれて、ソース管理が最大の開発ボトルネックとなりました。ここでは、5か月で社内のバージョン管理システムに移行した方法を紹介します。",
+        "category": "AIモデル",
+        "impact": "中",
+        "titleJa": "Anthropicは、小さなAIモデルがIoTデバイスを介して自己複製する可能性があると警告しています",
+        "summaryJa": "この記事は「Anthropicは、小さなAIモデルがIoTデバイスを介して自己複製する可能性があると警告しています」を扱っています。「小さな重量ベースのレプリケーター」は、新世代のコンピュータワームをもたらす可能性があります。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
         "keyPoints": [
-          "この記事は「Anthropicでのソースコントロールの再設計」を扱っています。",
-          "1日あたりのマージが10倍以上に成長するにつれて、ソース管理が最大の開発ボトルネックとなりました。",
-          "ここでは、5か月で社内のバージョン管理システムに移行した方法を紹介します。"
+          "この記事は「Anthropicは、小さなAIモデルがIoTデバイスを介して自己複製する可能性があると警告しています」を扱っています。",
+          "「小さな重量ベースのレプリケーター」は、新世代のコンピュータワームをもたらす可能性があります。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
       }
     ],
-    "fetchedAt": "2026-10-14T08:39:35.180Z",
+    "fetchedAt": "2026-10-14T14:29:52.751Z",
     "mock": false
   },
   "xTrends": {
@@ -112,11 +113,11 @@
       {
         "topic": "Gemini 4 Argon",
         "locationLabel": "日本",
-        "bestRank": 1,
-        "appearances": 19,
+        "bestRank": 8,
+        "appearances": 16,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-10-14T08:39:35.161Z",
+        "observedAt": "2026-10-14T14:29:52.652Z",
         "url": "https://x.com/search?q=Gemini%204%20Argon&src=typed_query&f=live",
         "articleTitle": "Gemini 4 Argon",
         "articleTitleJa": "Gemini4アルゴン",
@@ -125,30 +126,12 @@
         "articlePublishedAt": "2026-10-13T16:03:16Z",
         "summaryJa": "参照： Gemini 4 Argon for Robotics - https://news.ycombinator.com/item?id=50074869",
         "translationVersion": 3
-      },
-      {
-        "topic": "Siri AI",
-        "locationLabel": "米国",
-        "bestRank": 7,
-        "appearances": 2,
-        "trendSource": "Trends24",
-        "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-10-14T08:39:35.090Z",
-        "url": "https://x.com/search?q=Siri%20AI&src=typed_query&f=live",
-        "articleTitle": "Siri AI",
-        "articleTitleJa": "公開トレンド: Siri AI",
-        "articleUrl": "https://trends24.in/united-states/",
-        "articleSource": "Trends24",
-        "articlePublishedAt": "2026-10-14T08:39:35.090Z",
-        "summaryJa": "米国のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
-        "translationVersion": 3,
-        "articleFallback": true
       }
     ],
-    "fetchedAt": "2026-10-14T08:39:35.180Z",
+    "fetchedAt": "2026-10-14T14:29:52.751Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-10-14T08:39:37.067Z"
+    "articleFetchedAt": "2026-10-14T14:29:54.905Z"
   }
 }
