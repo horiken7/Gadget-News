@@ -2,24 +2,44 @@
   "news": {
     "items": [
       {
-        "title": "Pluto Security raises $42M as AI gives enterprise security teams a new headache",
-        "url": "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/",
-        "points": 133,
+        "title": "AI agents aren't 'going rogue.' Frontier labs are skipping security basics",
+        "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
+        "points": 127,
+        "comments": 182,
+        "author": "latexr",
+        "createdAt": "2026-10-14T17:45:23Z",
+        "domain": "csoonline.com",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "AIエージェントはならず者ではありません。「フロンティアラボはセキュリティの基本をスキップしています",
+        "summaryJa": "この記事は「AIエージェントはならず者ではありません。「フロンティアラボはセキュリティの基本をスキップしています」を扱っています。サイバー専門家は、AIラボの封じ込めとモニタリングの失敗は、最近の憂慮すべきハッキング報告の原因であり、独自の考えを持つエージェントではないと述べています。CISOは、AIベンダーを審査し、セーフガードとしてセキュリティの基本を強化する必要があります。",
+        "keyPoints": [
+          "この記事は「AIエージェントはならず者ではありません。",
+          "「フロンティアラボはセキュリティの基本をスキップしています」を扱っています。",
+          "サイバー専門家は、AIラボの封じ込めとモニタリングの失敗は、最近の憂慮すべきハッキング報告の原因であり、独自の考えを持つエージェントではないと述べています。"
+        ]
+      },
+      {
+        "title": "Apate sends AI agents undercover to get scammed so they can gather fraud intelligence",
+        "url": "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/",
+        "points": 107,
         "comments": 0,
         "author": "",
-        "createdAt": "2026-10-13T17:18:25.000Z",
+        "createdAt": "2026-10-14T18:00:00.000Z",
         "domain": "techcrunch.com",
         "sourceType": "rss",
         "sourceLabel": "TechCrunch AI",
         "newsLens": "一般",
         "category": "AIニュース",
         "impact": "高",
-        "titleJa": "Pluto Securityが4200万$を調達、AIがエンタープライズセキュリティチームに新たな頭痛をもたらす",
-        "summaryJa": "この記事は「Pluto Securityが4200万$を調達、AIがエンタープライズセキュリティチームに新たな頭痛をもたらす」を扱っています。会社の誰もがAIツールにアクセスできるようにすることの問題は、人々が予期せぬ方法でそれらを使用することです。そして、その事実は、企業が今やシステムに新しい大きなセキュリティホールを抱えているか、少なくとも間もなくそうなるのではないかという懸念を着実に植え付けています。",
+        "titleJa": "ApateはAIエージェントを潜入させて詐欺を仕掛け、詐欺情報を収集できるようにします",
+        "summaryJa": "この記事は「ApateはAIエージェントを潜入させて詐欺を仕掛け、詐欺情報を収集できるようにします」を扱っています。ほとんどの企業は、AIエージェントを使用して製品をより迅速に出荷したり、ワークフローを高速化したりしています。Apate.aiは詐欺を受けるために彼らを潜入捜査に送ります。",
         "keyPoints": [
-          "この記事は「Pluto Securityが4200万$を調達、AIがエンタープライズセキュリティチームに新たな頭痛をもたらす」を扱っています。",
-          "会社の誰もがAIツールにアクセスできるようにすることの問題は、人々が予期せぬ方法でそれらを使用することです。",
-          "そして、その事実は、企業が今やシステムに新しい大きなセキュリティホールを抱えているか、少なくとも間もなくそうなるのではないかという懸念を着実に植え付けています。"
+          "この記事は「ApateはAIエージェントを潜入させて詐欺を仕掛け、詐欺情報を収集できるようにします」を扱っています。",
+          "ほとんどの企業は、AIエージェントを使用して製品をより迅速に出荷したり、ワークフローを高速化したりしています。",
+          "Apate.aiは詐欺を受けるために彼らを潜入捜査に送ります。"
         ]
       },
       {
@@ -44,80 +64,77 @@
         ]
       },
       {
-        "title": "Gemini 4 Argon",
-        "url": "https://deepmind.google/models/gemini/",
+        "title": "Why do LLM pelicans look like this?",
+        "url": "https://arcfu.com/post/the-emperor-pelican-has-no-clothes/",
         "points": 101,
-        "comments": 975,
-        "author": "737max",
-        "createdAt": "2026-10-13T16:03:16Z",
-        "domain": "deepmind.google",
+        "comments": 123,
+        "author": "pcwelder",
+        "createdAt": "2026-10-14T16:33:34Z",
+        "domain": "arcfu.com",
         "sourceType": "hn",
         "category": "AIモデル",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "Gemini4アルゴン",
-        "summaryJa": "この記事は「Gemini4アルゴン」を扱っています。deepmind.googleが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "titleJa": "なぜLLMペリカンはこのように見えるのですか？",
+        "summaryJa": "この記事は「なぜLLMペリカンはこのように見えるのですか？」を扱っています。arcfu.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
         "keyPoints": [
-          "この記事は「Gemini4アルゴン」を扱っています。",
-          "deepmind.googleが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "この記事は「なぜLLMペリカンはこのように見えるのですか。",
+          "arcfu.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
           "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
       },
       {
-        "title": "Gemini 4 Argon for Robotics",
-        "url": "https://developers.googleblog.com/gemini-4-argon-for-robotics/",
-        "points": 101,
-        "comments": 52,
-        "author": "xnx",
-        "createdAt": "2026-10-13T16:55:47Z",
-        "domain": "developers.googleblog.com",
+        "title": "Linus Torvalds's first LLM-assisted patch series",
+        "url": "https://lwn.net/Articles/1100449/",
+        "points": 95,
+        "comments": 75,
+        "author": "janvdberg",
+        "createdAt": "2026-10-14T16:55:07Z",
+        "domain": "lwn.net",
         "sourceType": "hn",
         "category": "AIモデル",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "ロボット工学用Gemini4アルゴン",
-        "summaryJa": "この記事は「ロボット工学用Gemini4アルゴン」を扱っています。developers.googleblog.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "titleJa": "Linus Torvaldsの最初のLLMアシストパッチシリーズ",
+        "summaryJa": "この記事は「Linus Torvaldsの最初のLLMアシストパッチシリーズ」を扱っています。最近締めくくられたMaintainers Summitで、Linus TorvaldsはLARG [...]を使用していたと言いました。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
         "keyPoints": [
-          "この記事は「ロボット工学用Gemini4アルゴン」を扱っています。",
-          "developers.googleblog.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
-        ]
-      },
-      {
-        "title": "Anthropic warns small AI models could self-replicate through IoT devices",
-        "url": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/",
-        "points": 79,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-10-14T12:55:06.000Z",
-        "domain": "arstechnica.com",
-        "sourceType": "rss",
-        "sourceLabel": "Ars Technica",
-        "newsLens": "技術",
-        "category": "AIモデル",
-        "impact": "中",
-        "titleJa": "Anthropicは、小さなAIモデルがIoTデバイスを介して自己複製する可能性があると警告しています",
-        "summaryJa": "この記事は「Anthropicは、小さなAIモデルがIoTデバイスを介して自己複製する可能性があると警告しています」を扱っています。「小さな重量ベースのレプリケーター」は、新世代のコンピュータワームをもたらす可能性があります。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
-        "keyPoints": [
-          "この記事は「Anthropicは、小さなAIモデルがIoTデバイスを介して自己複製する可能性があると警告しています」を扱っています。",
-          "「小さな重量ベースのレプリケーター」は、新世代のコンピュータワームをもたらす可能性があります。",
+          "この記事は「Linus Torvaldsの最初のLLMアシストパッチシリーズ」を扱っています。",
+          "最近締めくくられたMaintainers Summitで、Linus TorvaldsはLARG [...]を使用していたと言いました。",
           "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
       }
     ],
-    "fetchedAt": "2026-10-14T14:29:52.751Z",
+    "fetchedAt": "2026-10-14T19:21:14.499Z",
     "mock": false
   },
   "xTrends": {
     "items": [
       {
-        "topic": "Gemini 4 Argon",
-        "locationLabel": "日本",
-        "bestRank": 8,
-        "appearances": 16,
+        "topic": "Grok Voice 3.0",
+        "locationLabel": "米国",
+        "bestRank": 7,
+        "appearances": 2,
         "trendSource": "Trends24",
-        "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-10-14T14:29:52.652Z",
+        "sourceUrl": "https://trends24.in/united-states/",
+        "observedAt": "2026-10-14T19:21:14.418Z",
+        "url": "https://x.com/search?q=Grok%20Voice%203.0&src=typed_query&f=live",
+        "articleTitle": "Grok Voice 3.0",
+        "articleTitleJa": "公開トレンド: Grok Voice 3.0",
+        "articleUrl": "https://trends24.in/united-states/",
+        "articleSource": "Trends24",
+        "articlePublishedAt": "2026-10-14T19:21:14.418Z",
+        "summaryJa": "米国のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
+        "translationVersion": 3,
+        "articleFallback": true
+      },
+      {
+        "topic": "Gemini 4 Argon",
+        "locationLabel": "カナダ",
+        "bestRank": 26,
+        "appearances": 18,
+        "trendSource": "Trends24",
+        "sourceUrl": "https://trends24.in/canada/",
+        "observedAt": "2026-10-14T19:21:14.486Z",
         "url": "https://x.com/search?q=Gemini%204%20Argon&src=typed_query&f=live",
         "articleTitle": "Gemini 4 Argon",
         "articleTitleJa": "Gemini4アルゴン",
@@ -128,10 +145,10 @@
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-10-14T14:29:52.751Z",
+    "fetchedAt": "2026-10-14T19:21:14.499Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-10-14T14:29:54.905Z"
+    "articleFetchedAt": "2026-10-14T19:21:21.503Z"
   }
 }
