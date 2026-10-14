@@ -2,26 +2,6 @@
   "news": {
     "items": [
       {
-        "title": "AI agents aren't 'going rogue.' Frontier labs are skipping security basics",
-        "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
-        "points": 127,
-        "comments": 182,
-        "author": "latexr",
-        "createdAt": "2026-10-14T17:45:23Z",
-        "domain": "csoonline.com",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "AIエージェントはならず者ではありません。「フロンティアラボはセキュリティの基本をスキップしています",
-        "summaryJa": "この記事は「AIエージェントはならず者ではありません。「フロンティアラボはセキュリティの基本をスキップしています」を扱っています。サイバー専門家は、AIラボの封じ込めとモニタリングの失敗は、最近の憂慮すべきハッキング報告の原因であり、独自の考えを持つエージェントではないと述べています。CISOは、AIベンダーを審査し、セーフガードとしてセキュリティの基本を強化する必要があります。",
-        "keyPoints": [
-          "この記事は「AIエージェントはならず者ではありません。",
-          "「フロンティアラボはセキュリティの基本をスキップしています」を扱っています。",
-          "サイバー専門家は、AIラボの封じ込めとモニタリングの失敗は、最近の憂慮すべきハッキング報告の原因であり、独自の考えを持つエージェントではないと述べています。"
-        ]
-      },
-      {
         "title": "Apate sends AI agents undercover to get scammed so they can gather fraud intelligence",
         "url": "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/",
         "points": 107,
@@ -43,31 +23,10 @@
         ]
       },
       {
-        "title": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
-        "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
-        "points": 105,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-10-13T23:05:34.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
-        "category": "AIニュース",
-        "impact": "高",
-        "titleJa": "CerebrasのCEOは、誰もが自宅にパーソナルAIアシスタントを持つ未来に近づいていると述べています",
-        "summaryJa": "この記事は「CerebrasのCEOは、誰もが自宅にパーソナルAIアシスタントを持つ未来に近づいていると述べています」を扱っています。Cerebrasの最高経営責任者（ CEO ）であるAndrew Feldman氏は、パーソナルAIアシスタントが家庭用電化製品と同じくらい一般的になり、一部はローカルデバイスで、一部はクラウドで動作する未来を予測しています。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
-        "keyPoints": [
-          "この記事は「CerebrasのCEOは、誰もが自宅にパーソナルAIアシスタントを持つ未来に近づいていると述べています」を扱っています。",
-          "Cerebrasの最高経営責任者（ CEO ）であるAndrew Feldman氏は、パーソナルAIアシスタントが家庭用電化製品と同じくらい一般的になり、一部はローカルデバイスで、一部はクラウドで動作する未来を予測しています。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
-        ]
-      },
-      {
         "title": "Why do LLM pelicans look like this?",
         "url": "https://arcfu.com/post/the-emperor-pelican-has-no-clothes/",
         "points": 101,
-        "comments": 123,
+        "comments": 131,
         "author": "pcwelder",
         "createdAt": "2026-10-14T16:33:34Z",
         "domain": "arcfu.com",
@@ -86,8 +45,8 @@
       {
         "title": "Linus Torvalds's first LLM-assisted patch series",
         "url": "https://lwn.net/Articles/1100449/",
-        "points": 95,
-        "comments": 75,
+        "points": 97,
+        "comments": 93,
         "author": "janvdberg",
         "createdAt": "2026-10-14T16:55:07Z",
         "domain": "lwn.net",
@@ -102,27 +61,86 @@
           "最近締めくくられたMaintainers Summitで、Linus TorvaldsはLARG [...]を使用していたと言いました。",
           "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
+      },
+      {
+        "title": "Show HN: Petal, open-source CoScreen/ScreenHero finally free",
+        "url": "https://petal.live/",
+        "points": 95,
+        "comments": 25,
+        "author": "thedracle",
+        "createdAt": "2026-10-14T18:23:14Z",
+        "domain": "petal.live",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "HNを表示： Petal、オープンソースのCoScreen/ScreenHeroがついに無料",
+        "summaryJa": "この記事は「HNを表示： Petal、オープンソースのCoScreen/ScreenHeroがついに無料」を扱っています。私はCoScreenの創設者の1人であるJason Thomasです。ご存知の方もいるかもしれませんが、Datadogは7月31日にCoScreenサービスを終了します。",
+        "keyPoints": [
+          "この記事は「HNを表示： Petal、オープンソースのCoScreen/ScreenHeroがついに無料」を扱っています。",
+          "私はCoScreenの創設者の1人であるJason Thomasです。",
+          "ご存知の方もいるかもしれませんが、Datadogは7月31日にCoScreenサービスを終了します。"
+        ]
+      },
+      {
+        "title": "YouTube Music launches new labels as AI-generated music floods streaming platforms",
+        "url": "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/",
+        "points": 79,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-10-14T18:23:46.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
+        "category": "AIニュース",
+        "impact": "中",
+        "titleJa": "YouTube Musicは、AIが生成した音楽がストリーミングプラットフォームを氾濫させるにつれて、新しいレーベルを立ち上げます",
+        "summaryJa": "この記事は「YouTube Musicは、AIが生成した音楽がストリーミングプラットフォームを氾濫させるにつれて、新しいレーベルを立ち上げます」を扱っています。ラベルはプレイヤーページに表示され、完全にAIによって生成された曲、または作曲やボーカルに関与するAIなどの部分的な曲が含まれます。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "keyPoints": [
+          "この記事は「YouTube Musicは、AIが生成した音楽がストリーミングプラットフォームを氾濫させるにつれて、新しいレーベルを立ち上げます」を扱っています。",
+          "ラベルはプレイヤーページに表示され、完全にAIによって生成された曲、または作曲やボーカルに関与するAIなどの部分的な曲が含まれます。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+        ]
       }
     ],
-    "fetchedAt": "2026-10-14T19:21:14.499Z",
+    "fetchedAt": "2026-10-14T23:54:29.961Z",
     "mock": false
   },
   "xTrends": {
     "items": [
       {
+        "topic": "AI開発者",
+        "locationLabel": "日本",
+        "bestRank": 31,
+        "appearances": 1,
+        "trendSource": "Trends24",
+        "sourceUrl": "https://trends24.in/japan/",
+        "observedAt": "2026-10-14T23:54:29.835Z",
+        "url": "https://x.com/search?q=AI%E9%96%8B%E7%99%BA%E8%80%85&src=typed_query&f=live",
+        "articleTitle": "AI開発者",
+        "articleTitleJa": "公開トレンド: AI開発者",
+        "articleUrl": "https://trends24.in/japan/",
+        "articleSource": "Trends24",
+        "articlePublishedAt": "2026-10-14T23:54:29.835Z",
+        "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
+        "translationVersion": 3,
+        "articleFallback": true
+      },
+      {
         "topic": "Grok Voice 3.0",
         "locationLabel": "米国",
-        "bestRank": 7,
-        "appearances": 2,
+        "bestRank": 12,
+        "appearances": 4,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-10-14T19:21:14.418Z",
+        "observedAt": "2026-10-14T23:54:29.940Z",
         "url": "https://x.com/search?q=Grok%20Voice%203.0&src=typed_query&f=live",
         "articleTitle": "Grok Voice 3.0",
         "articleTitleJa": "公開トレンド: Grok Voice 3.0",
         "articleUrl": "https://trends24.in/united-states/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-10-14T19:21:14.418Z",
+        "articlePublishedAt": "2026-10-14T23:54:29.940Z",
         "summaryJa": "米国のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -130,11 +148,11 @@
       {
         "topic": "Gemini 4 Argon",
         "locationLabel": "カナダ",
-        "bestRank": 26,
-        "appearances": 18,
+        "bestRank": 36,
+        "appearances": 13,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/canada/",
-        "observedAt": "2026-10-14T19:21:14.486Z",
+        "observedAt": "2026-10-14T23:54:29.897Z",
         "url": "https://x.com/search?q=Gemini%204%20Argon&src=typed_query&f=live",
         "articleTitle": "Gemini 4 Argon",
         "articleTitleJa": "Gemini4アルゴン",
@@ -145,10 +163,10 @@
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-10-14T19:21:14.499Z",
+    "fetchedAt": "2026-10-14T23:54:29.961Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-10-14T19:21:21.503Z"
+    "articleFetchedAt": "2026-10-14T23:54:33.941Z"
   }
 }
