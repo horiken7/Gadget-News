@@ -47,7 +47,7 @@
         "title": "Gemini 4 Argon",
         "url": "https://deepmind.google/models/gemini/",
         "points": 101,
-        "comments": 721,
+        "comments": 886,
         "author": "737max",
         "createdAt": "2026-10-13T16:03:16Z",
         "domain": "deepmind.google",
@@ -67,7 +67,7 @@
         "title": "Gemini 4 Argon for Robotics",
         "url": "https://developers.googleblog.com/gemini-4-argon-for-robotics/",
         "points": 101,
-        "comments": 43,
+        "comments": 49,
         "author": "xnx",
         "createdAt": "2026-10-13T16:55:47Z",
         "domain": "developers.googleblog.com",
@@ -87,7 +87,7 @@
         "title": "Redesigning source control at Anthropic",
         "url": "https://www.anthropic.com/engineering/redesigning-source-control",
         "points": 73,
-        "comments": 490,
+        "comments": 741,
         "author": "Philpax",
         "createdAt": "2026-10-13T15:49:56Z",
         "domain": "anthropic.com",
@@ -104,7 +104,7 @@
         ]
       }
     ],
-    "fetchedAt": "2026-10-14T00:16:53.477Z",
+    "fetchedAt": "2026-10-14T08:39:35.180Z",
     "mock": false
   },
   "xTrends": {
@@ -113,10 +113,10 @@
         "topic": "Gemini 4 Argon",
         "locationLabel": "日本",
         "bestRank": 1,
-        "appearances": 11,
+        "appearances": 19,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-10-14T00:16:52.950Z",
+        "observedAt": "2026-10-14T08:39:35.161Z",
         "url": "https://x.com/search?q=Gemini%204%20Argon&src=typed_query&f=live",
         "articleTitle": "Gemini 4 Argon",
         "articleTitleJa": "Gemini4アルゴン",
@@ -133,22 +133,22 @@
         "appearances": 2,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-10-14T00:16:53.282Z",
+        "observedAt": "2026-10-14T08:39:35.090Z",
         "url": "https://x.com/search?q=Siri%20AI&src=typed_query&f=live",
         "articleTitle": "Siri AI",
         "articleTitleJa": "公開トレンド: Siri AI",
         "articleUrl": "https://trends24.in/united-states/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-10-14T00:16:53.282Z",
+        "articlePublishedAt": "2026-10-14T08:39:35.090Z",
         "summaryJa": "米国のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
       }
     ],
-    "fetchedAt": "2026-10-14T00:16:53.477Z",
+    "fetchedAt": "2026-10-14T08:39:35.180Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-10-14T00:16:55.819Z"
+    "articleFetchedAt": "2026-10-14T08:39:37.067Z"
   }
 }
