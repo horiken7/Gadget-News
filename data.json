@@ -2,6 +2,27 @@
   "news": {
     "items": [
       {
+        "title": "AI agents are coming to Rivian’s cars",
+        "url": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/",
+        "points": 107,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-10-15T15:02:36.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
+        "category": "AIニュース",
+        "impact": "高",
+        "titleJa": "AIエージェントがリビアンの車にやってくる",
+        "summaryJa": "この記事は「AIエージェントがリビアンの車にやってくる」を扱っています。これがどのように機能するかについては、12月に予定されている同社の「AI ＆ Autonomy Day」イベントで詳しく学ぶことができるでしょう。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "keyPoints": [
+          "この記事は「AIエージェントがリビアンの車にやってくる」を扱っています。",
+          "これがどのように機能するかについては、12月に予定されている同社の「AI ＆ Autonomy Day」イベントで詳しく学ぶことができるでしょう。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+        ]
+      },
+      {
         "title": "Apate sends AI agents undercover to get scammed so they can gather fraud intelligence",
         "url": "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/",
         "points": 107,
@@ -20,27 +41,6 @@
           "この記事は「ApateはAIエージェントを潜入させて詐欺を仕掛け、詐欺情報を収集できるようにします」を扱っています。",
           "ほとんどの企業は、AIエージェントを使用して製品をより迅速に出荷したり、ワークフローを高速化したりしています。",
           "Apate.aiは詐欺を受けるために彼らを潜入捜査に送ります。"
-        ]
-      },
-      {
-        "title": "AI supercharging security threats to united kingdom , MI5 warns – BRFM",
-        "url": "https://www.brfm.net/ai-supercharging-security-threats-to-uk-mi5-warns/",
-        "points": 107,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-10-15T10:00:00Z",
-        "domain": "brfm.net",
-        "sourceType": "gdelt",
-        "sourceLabel": "GDELT",
-        "category": "AIニュース",
-        "impact": "高",
-        "newsLens": "一般",
-        "titleJa": "MI 5が警告する、英国へのセキュリティ脅威を強化するAI – BRFM",
-        "summaryJa": "この記事は「MI 5が警告する、英国へのセキュリティ脅威を強化するAI – BRFM」を扱っています。brfm.netが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
-        "keyPoints": [
-          "この記事は「MI 5が警告する、英国へのセキュリティ脅威を強化するAI – BRFM」を扱っています。",
-          "brfm.netが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       },
       {
@@ -64,47 +64,47 @@
         ]
       },
       {
-        "title": "Why do LLM pelicans look like this?",
-        "url": "https://arcfu.com/post/the-emperor-pelican-has-no-clothes/",
-        "points": 101,
-        "comments": 138,
-        "author": "pcwelder",
-        "createdAt": "2026-10-14T16:33:34Z",
-        "domain": "arcfu.com",
+        "title": "Anthropic's Scion is heavily inspired by Mononoke",
+        "url": "https://sunshowers.io/posts/anthropic-mononoke/",
+        "points": 73,
+        "comments": 147,
+        "author": "sunshowers",
+        "createdAt": "2026-10-14T20:30:54Z",
+        "domain": "sunshowers.io",
         "sourceType": "hn",
-        "category": "AIモデル",
+        "category": "AIニュース",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "なぜLLMペリカンはこのように見えるのですか？",
-        "summaryJa": "この記事は「なぜLLMペリカンはこのように見えるのですか？」を扱っています。arcfu.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "titleJa": "Anthropic's Scionはモノノケにインスパイアされています",
+        "summaryJa": "この記事は「Anthropic's Scionはモノノケにインスパイアされています」を扱っています。クレジットを提供することが重要です。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
         "keyPoints": [
-          "この記事は「なぜLLMペリカンはこのように見えるのですか。",
-          "arcfu.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+          "この記事は「Anthropic's Scionはモノノケにインスパイアされています」を扱っています。",
+          "クレジットを提供することが重要です。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
       },
       {
-        "title": "Linus Torvalds's first LLM-assisted patch series",
-        "url": "https://lwn.net/Articles/1100449/",
-        "points": 98,
-        "comments": 98,
-        "author": "janvdberg",
-        "createdAt": "2026-10-14T16:55:07Z",
-        "domain": "lwn.net",
+        "title": "Simons Foundation launches $15M effort to help mathematicians navigate AI era",
+        "url": "https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/",
+        "points": 70,
+        "comments": 77,
+        "author": "aaraujo002",
+        "createdAt": "2026-10-15T14:58:48Z",
+        "domain": "simonsfoundation.org",
         "sourceType": "hn",
-        "category": "AIモデル",
+        "category": "AIニュース",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "Linus Torvaldsの最初のLLMアシストパッチシリーズ",
-        "summaryJa": "この記事は「Linus Torvaldsの最初のLLMアシストパッチシリーズ」を扱っています。最近締めくくられたMaintainers Summitで、Linus TorvaldsはLARG [...]を使用していたと言いました。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "titleJa": "サイモンズ財団は、数学者がAI時代をナビゲートするのを助けるために1500万$の取り組みを開始します",
+        "summaryJa": "この記事は「サイモンズ財団は、数学者がAI時代をナビゲートするのを助けるために1500万$の取り組みを開始します」を扱っています。サイモンズ財団は本日、数学コミュニティが人工知能の急速な台頭に対応するのに役立つ一連の新しいイニシアチブを発表しました。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
         "keyPoints": [
-          "この記事は「Linus Torvaldsの最初のLLMアシストパッチシリーズ」を扱っています。",
-          "最近締めくくられたMaintainers Summitで、Linus TorvaldsはLARG [...]を使用していたと言いました。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+          "この記事は「サイモンズ財団は、数学者がAI時代をナビゲートするのを助けるために1500万$の取り組みを開始します」を扱っています。",
+          "サイモンズ財団は本日、数学コミュニティが人工知能の急速な台頭に対応するのに役立つ一連の新しいイニシアチブを発表しました。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
       }
     ],
-    "fetchedAt": "2026-10-15T11:24:30.788Z",
+    "fetchedAt": "2026-10-15T16:57:56.434Z",
     "mock": false
   },
   "xTrends": {
@@ -116,13 +116,13 @@
         "appearances": 4,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-10-15T11:24:30.701Z",
+        "observedAt": "2026-10-15T16:57:56.094Z",
         "url": "https://x.com/search?q=AI%E9%96%8B%E7%99%BA%E8%80%85&src=typed_query&f=live",
         "articleTitle": "AI開発者",
         "articleTitleJa": "公開トレンド: AI開発者",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-10-15T11:24:30.701Z",
+        "articlePublishedAt": "2026-10-15T16:57:56.094Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -130,43 +130,25 @@
       {
         "topic": "Grok Voice 3.0",
         "locationLabel": "米国",
-        "bestRank": 12,
-        "appearances": 4,
+        "bestRank": 50,
+        "appearances": 1,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-10-15T11:24:30.679Z",
+        "observedAt": "2026-10-15T16:57:56.065Z",
         "url": "https://x.com/search?q=Grok%20Voice%203.0&src=typed_query&f=live",
         "articleTitle": "Grok Voice 3.0",
-        "articleTitleJa": "公開トレンド: Grok Voice 3.0",
-        "articleUrl": "https://trends24.in/united-states/",
-        "articleSource": "Trends24",
-        "articlePublishedAt": "2026-10-15T11:24:30.679Z",
-        "summaryJa": "米国のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
-        "translationVersion": 3,
-        "articleFallback": true
-      },
-      {
-        "topic": "Gemini 4 Argon",
-        "locationLabel": "カナダ",
-        "bestRank": 16,
-        "appearances": 4,
-        "trendSource": "Trends24",
-        "sourceUrl": "https://trends24.in/canada/",
-        "observedAt": "2026-10-15T11:24:30.767Z",
-        "url": "https://x.com/search?q=Gemini%204%20Argon&src=typed_query&f=live",
-        "articleTitle": "Gemini 4 Argon",
-        "articleTitleJa": "Gemini4アルゴン",
-        "articleUrl": "https://deepmind.google/models/gemini/",
-        "articleSource": "deepmind.google",
-        "articlePublishedAt": "2026-10-13T16:03:16Z",
-        "summaryJa": "参照： Gemini 4 Argon for Robotics - https://news.ycombinator.com/item?id=50074869",
+        "articleTitleJa": "Grokボイス 3.0",
+        "articleUrl": "https://x.ai/news/grok-voice-3",
+        "articleSource": "x.ai",
+        "articlePublishedAt": "2026-10-14T16:48:50Z",
+        "summaryJa": "世界で最もインテリジェントな音声モデル。",
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-10-15T11:24:30.788Z",
+    "fetchedAt": "2026-10-15T16:57:56.434Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-10-15T11:24:34.482Z"
+    "articleFetchedAt": "2026-10-15T16:57:59.469Z"
   }
 }
