@@ -23,30 +23,31 @@
         ]
       },
       {
-        "title": "Why do LLM pelicans look like this?",
-        "url": "https://arcfu.com/post/the-emperor-pelican-has-no-clothes/",
-        "points": 101,
-        "comments": 134,
-        "author": "pcwelder",
-        "createdAt": "2026-10-14T16:33:34Z",
-        "domain": "arcfu.com",
-        "sourceType": "hn",
-        "category": "AIモデル",
+        "title": "AI supercharging security threats to united kingdom , MI5 warns – BRFM",
+        "url": "https://www.brfm.net/ai-supercharging-security-threats-to-uk-mi5-warns/",
+        "points": 107,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-10-15T10:00:00Z",
+        "domain": "brfm.net",
+        "sourceType": "gdelt",
+        "sourceLabel": "GDELT",
+        "category": "AIニュース",
         "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "なぜLLMペリカンはこのように見えるのですか？",
-        "summaryJa": "この記事は「なぜLLMペリカンはこのように見えるのですか？」を扱っています。arcfu.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "newsLens": "一般",
+        "titleJa": "MI 5が警告する、英国へのセキュリティ脅威を強化するAI – BRFM",
+        "summaryJa": "この記事は「MI 5が警告する、英国へのセキュリティ脅威を強化するAI – BRFM」を扱っています。brfm.netが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
-          "この記事は「なぜLLMペリカンはこのように見えるのですか。",
-          "arcfu.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+          "この記事は「MI 5が警告する、英国へのセキュリティ脅威を強化するAI – BRFM」を扱っています。",
+          "brfm.netが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       },
       {
         "title": "Show HN: Petal, open-source CoScreen/ScreenHero finally free",
         "url": "https://petal.live/",
         "points": 101,
-        "comments": 34,
+        "comments": 39,
         "author": "thedracle",
         "createdAt": "2026-10-14T18:23:14Z",
         "domain": "petal.live",
@@ -63,10 +64,30 @@
         ]
       },
       {
+        "title": "Why do LLM pelicans look like this?",
+        "url": "https://arcfu.com/post/the-emperor-pelican-has-no-clothes/",
+        "points": 101,
+        "comments": 138,
+        "author": "pcwelder",
+        "createdAt": "2026-10-14T16:33:34Z",
+        "domain": "arcfu.com",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "なぜLLMペリカンはこのように見えるのですか？",
+        "summaryJa": "この記事は「なぜLLMペリカンはこのように見えるのですか？」を扱っています。arcfu.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "keyPoints": [
+          "この記事は「なぜLLMペリカンはこのように見えるのですか。",
+          "arcfu.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+        ]
+      },
+      {
         "title": "Linus Torvalds's first LLM-assisted patch series",
         "url": "https://lwn.net/Articles/1100449/",
         "points": 98,
-        "comments": 96,
+        "comments": 98,
         "author": "janvdberg",
         "createdAt": "2026-10-14T16:55:07Z",
         "domain": "lwn.net",
@@ -81,30 +102,9 @@
           "最近締めくくられたMaintainers Summitで、Linus TorvaldsはLARG [...]を使用していたと言いました。",
           "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
-      },
-      {
-        "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
-        "url": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
-        "points": 89,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-10-15T01:01:32.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
-        "category": "ハードウェア",
-        "impact": "高",
-        "titleJa": "Ricursive Intelligenceは、コンピューティングの危機を解決するためにAI設計のチップに賭けています",
-        "summaryJa": "この記事は「Ricursive Intelligenceは、コンピューティングの危機を解決するためにAI設計のチップに賭けています」を扱っています。創業者らは、チップ設計プロセスを自動化して加速することを目標に、チップを設計し、各反復から学び、その後の設計を改善できるAIをスタートアップがどのように開発しているかを詳述した。一般向けには、AIがソフトウェアだけでなく、ロボットや端末など現実の製品に広がっている点が重要です。",
-        "keyPoints": [
-          "この記事は「Ricursive Intelligenceは、コンピューティングの危機を解決するためにAI設計のチップに賭けています」を扱っています。",
-          "創業者らは、チップ設計プロセスを自動化して加速することを目標に、チップを設計し、各反復から学び、その後の設計を改善できるAIをスタートアップがどのように開発しているかを詳述した。",
-          "一般向けには、AIがソフトウェアだけでなく、ロボットや端末など現実の製品に広がっている点が重要です。"
-        ]
       }
     ],
-    "fetchedAt": "2026-10-15T04:34:21.493Z",
+    "fetchedAt": "2026-10-15T11:24:30.788Z",
     "mock": false
   },
   "xTrends": {
@@ -116,13 +116,13 @@
         "appearances": 4,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-10-15T04:34:21.444Z",
+        "observedAt": "2026-10-15T11:24:30.701Z",
         "url": "https://x.com/search?q=AI%E9%96%8B%E7%99%BA%E8%80%85&src=typed_query&f=live",
         "articleTitle": "AI開発者",
         "articleTitleJa": "公開トレンド: AI開発者",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-10-15T04:34:21.444Z",
+        "articlePublishedAt": "2026-10-15T11:24:30.701Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -134,38 +134,39 @@
         "appearances": 4,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-10-15T04:34:21.472Z",
+        "observedAt": "2026-10-15T11:24:30.679Z",
         "url": "https://x.com/search?q=Grok%20Voice%203.0&src=typed_query&f=live",
         "articleTitle": "Grok Voice 3.0",
-        "articleTitleJa": "Grokボイス 3.0",
-        "articleUrl": "https://x.ai/news/grok-voice-3",
-        "articleSource": "x.ai",
-        "articlePublishedAt": "2026-10-14T16:48:50Z",
-        "summaryJa": "世界で最もインテリジェントな音声モデル。",
-        "translationVersion": 3
+        "articleTitleJa": "公開トレンド: Grok Voice 3.0",
+        "articleUrl": "https://trends24.in/united-states/",
+        "articleSource": "Trends24",
+        "articlePublishedAt": "2026-10-15T11:24:30.679Z",
+        "summaryJa": "米国のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
+        "translationVersion": 3,
+        "articleFallback": true
       },
       {
         "topic": "Gemini 4 Argon",
         "locationLabel": "カナダ",
-        "bestRank": 20,
-        "appearances": 8,
+        "bestRank": 16,
+        "appearances": 4,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/canada/",
-        "observedAt": "2026-10-15T04:34:21.366Z",
+        "observedAt": "2026-10-15T11:24:30.767Z",
         "url": "https://x.com/search?q=Gemini%204%20Argon&src=typed_query&f=live",
         "articleTitle": "Gemini 4 Argon",
-        "articleTitleJa": "Gemini 4 アルゴン",
+        "articleTitleJa": "Gemini4アルゴン",
         "articleUrl": "https://deepmind.google/models/gemini/",
         "articleSource": "deepmind.google",
         "articlePublishedAt": "2026-10-13T16:03:16Z",
-        "summaryJa": "参照: ロボット工学のための Gemini 4 Argon - https://news.ycombinator.com/item?id=50074869",
+        "summaryJa": "参照： Gemini 4 Argon for Robotics - https://news.ycombinator.com/item?id=50074869",
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-10-15T04:34:21.493Z",
+    "fetchedAt": "2026-10-15T11:24:30.788Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-10-15T04:34:26.377Z"
+    "articleFetchedAt": "2026-10-15T11:24:34.482Z"
   }
 }
