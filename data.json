@@ -2,153 +2,116 @@
   "news": {
     "items": [
       {
-        "title": "AI agents are coming to Rivian’s cars",
-        "url": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/",
+        "title": "Meta launches an open-weight AI model that runs on Macs",
+        "url": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
         "points": 107,
         "comments": 0,
         "author": "",
-        "createdAt": "2026-10-15T15:02:36.000Z",
+        "createdAt": "2026-10-15T20:04:53.000Z",
         "domain": "techcrunch.com",
         "sourceType": "rss",
         "sourceLabel": "TechCrunch AI",
         "newsLens": "一般",
-        "category": "AIニュース",
+        "category": "AIモデル",
         "impact": "高",
-        "titleJa": "AIエージェントがリビアンの車にやってくる",
-        "summaryJa": "この記事は「AIエージェントがリビアンの車にやってくる」を扱っています。これがどのように機能するかについては、12月に予定されている同社の「AI ＆ Autonomy Day」イベントで詳しく学ぶことができるでしょう。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "titleJa": "MetaがMac上で動作するオープンウェイトAIモデルを発表",
+        "summaryJa": "この記事は「MetaがMac上で動作するオープンウェイトAIモデルを発表」を扱っています。MetaとAppleは、ソーシャルメディア大手の最新モデルであるMuse Spark Openの立ち上げのために協力している。これはAppleのシリコン上でローカルに実行される。",
         "keyPoints": [
-          "この記事は「AIエージェントがリビアンの車にやってくる」を扱っています。",
-          "これがどのように機能するかについては、12月に予定されている同社の「AI ＆ Autonomy Day」イベントで詳しく学ぶことができるでしょう。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+          "この記事は「MetaがMac上で動作するオープンウェイトAIモデルを発表」を扱っています。",
+          "MetaとAppleは、ソーシャルメディア大手の最新モデルであるMuse Spark Openの立ち上げのために協力している。",
+          "これはAppleのシリコン上でローカルに実行される。"
         ]
       },
       {
-        "title": "Apate sends AI agents undercover to get scammed so they can gather fraud intelligence",
-        "url": "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/",
+        "title": "Anthropic is letting METR researchers look under the hood with employee-level access",
+        "url": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
         "points": 107,
         "comments": 0,
         "author": "",
-        "createdAt": "2026-10-14T18:00:00.000Z",
+        "createdAt": "2026-10-15T19:14:26.000Z",
         "domain": "techcrunch.com",
         "sourceType": "rss",
         "sourceLabel": "TechCrunch AI",
         "newsLens": "一般",
-        "category": "AIニュース",
+        "category": "研究",
         "impact": "高",
-        "titleJa": "ApateはAIエージェントを潜入させて詐欺を仕掛け、詐欺情報を収集できるようにします",
-        "summaryJa": "この記事は「ApateはAIエージェントを潜入させて詐欺を仕掛け、詐欺情報を収集できるようにします」を扱っています。ほとんどの企業は、AIエージェントを使用して製品をより迅速に出荷したり、ワークフローを高速化したりしています。Apate.aiは詐欺を受けるために彼らを潜入捜査に送ります。",
+        "titleJa": "Anthropicは、METRの研究者に従業員レベルのアクセスを許可しています",
+        "summaryJa": "この記事は「Anthropicは、METRの研究者に従業員レベルのアクセスを許可しています」を扱っています。METRは、Anthropicのリスク、インシデント、慣行に関する独自の評価を公開し、フロンティアAIモデルメーカーはそれらをブロックする権利を放棄しました。一般向けには、AIが社会にどう受け止められ、どの分野で使われ始めているかを知る材料になります。",
         "keyPoints": [
-          "この記事は「ApateはAIエージェントを潜入させて詐欺を仕掛け、詐欺情報を収集できるようにします」を扱っています。",
-          "ほとんどの企業は、AIエージェントを使用して製品をより迅速に出荷したり、ワークフローを高速化したりしています。",
-          "Apate.aiは詐欺を受けるために彼らを潜入捜査に送ります。"
+          "この記事は「Anthropicは、METRの研究者に従業員レベルのアクセスを許可しています」を扱っています。",
+          "METRは、Anthropicのリスク、インシデント、慣行に関する独自の評価を公開し、フロンティアAIモデルメーカーはそれらをブロックする権利を放棄しました。",
+          "一般向けには、AIが社会にどう受け止められ、どの分野で使われ始めているかを知る材料になります。"
         ]
       },
       {
-        "title": "Show HN: Petal, open-source CoScreen/ScreenHero finally free",
-        "url": "https://petal.live/",
-        "points": 101,
-        "comments": 39,
-        "author": "thedracle",
-        "createdAt": "2026-10-14T18:23:14Z",
-        "domain": "petal.live",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "HNを表示： Petal、オープンソースのCoScreen/ScreenHeroがついに無料",
-        "summaryJa": "この記事は「HNを表示： Petal、オープンソースのCoScreen/ScreenHeroがついに無料」を扱っています。私はCoScreenの創設者の1人であるJason Thomasです。ご存知の方もいるかもしれませんが、Datadogは7月31日にCoScreenサービスを終了します。",
-        "keyPoints": [
-          "この記事は「HNを表示： Petal、オープンソースのCoScreen/ScreenHeroがついに無料」を扱っています。",
-          "私はCoScreenの創設者の1人であるJason Thomasです。",
-          "ご存知の方もいるかもしれませんが、Datadogは7月31日にCoScreenサービスを終了します。"
-        ]
-      },
-      {
-        "title": "Anthropic's Scion is heavily inspired by Mononoke",
-        "url": "https://sunshowers.io/posts/anthropic-mononoke/",
+        "title": "More on Anthropic's Scion ripping off Mononoke",
+        "url": "https://sunshowers.io/posts/anthropic-mononoke-2/",
         "points": 73,
-        "comments": 147,
+        "comments": 63,
         "author": "sunshowers",
-        "createdAt": "2026-10-14T20:30:54Z",
+        "createdAt": "2026-10-15T17:05:19Z",
         "domain": "sunshowers.io",
         "sourceType": "hn",
         "category": "AIニュース",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "Anthropic's Scionはモノノケにインスパイアされています",
-        "summaryJa": "この記事は「Anthropic's Scionはモノノケにインスパイアされています」を扱っています。クレジットを提供することが重要です。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "titleJa": "「Anthropic's Scion」でモノノケを搾り取ろう",
+        "summaryJa": "この記事は「「Anthropic's Scion」でモノノケを搾り取ろう」を扱っています。id=50073633 （ 996件のコメント） Anthropic's ScionはMononokeに大きく影響されています- https://news.ycombinator.com/item?技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
         "keyPoints": [
-          "この記事は「Anthropic's Scionはモノノケにインスパイアされています」を扱っています。",
-          "クレジットを提供することが重要です。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+          "この記事は「「Anthropic's Scion」でモノノケを搾り取ろう」を扱っています。",
+          "id=50073633 （ 996件のコメント） Anthropic's ScionはMononokeに大きく影響されています- https://news.ycombinator.com/item?技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
       },
       {
-        "title": "Simons Foundation launches $15M effort to help mathematicians navigate AI era",
-        "url": "https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/",
-        "points": 70,
-        "comments": 77,
-        "author": "aaraujo002",
-        "createdAt": "2026-10-15T14:58:48Z",
-        "domain": "simonsfoundation.org",
+        "title": "Why We're Banning AI",
+        "url": "https://www.currentaffairs.org/news/why-were-banning-ai",
+        "points": 73,
+        "comments": 162,
+        "author": "vinyl7",
+        "createdAt": "2026-10-15T18:32:29Z",
+        "domain": "currentaffairs.org",
         "sourceType": "hn",
         "category": "AIニュース",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "サイモンズ財団は、数学者がAI時代をナビゲートするのを助けるために1500万$の取り組みを開始します",
-        "summaryJa": "この記事は「サイモンズ財団は、数学者がAI時代をナビゲートするのを助けるために1500万$の取り組みを開始します」を扱っています。サイモンズ財団は本日、数学コミュニティが人工知能の急速な台頭に対応するのに役立つ一連の新しいイニシアチブを発表しました。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "titleJa": "AIを禁止する理由",
+        "summaryJa": "この記事は「AIを禁止する理由」を扱っています。私たちは、人間の思考と創造性を早急に保護する必要があります。私たちの雑誌は、手作りのままでいることにコミットしています。",
         "keyPoints": [
-          "この記事は「サイモンズ財団は、数学者がAI時代をナビゲートするのを助けるために1500万$の取り組みを開始します」を扱っています。",
-          "サイモンズ財団は本日、数学コミュニティが人工知能の急速な台頭に対応するのに役立つ一連の新しいイニシアチブを発表しました。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+          "この記事は「AIを禁止する理由」を扱っています。",
+          "私たちは、人間の思考と創造性を早急に保護する必要があります。",
+          "私たちの雑誌は、手作りのままでいることにコミットしています。"
+        ]
+      },
+      {
+        "title": "Companies rushed in on AI. Now some are pulling back",
+        "url": "https://www.theguardian.com/technology/2026/oct/13/ai-companies-rushed-workers-fallout",
+        "points": 67,
+        "comments": 3,
+        "author": "agent_turtle",
+        "createdAt": "2026-10-15T18:29:29Z",
+        "domain": "theguardian.com",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "低",
+        "newsLens": "技術",
+        "titleJa": "企業はAIに駆けつけた。今、何人かが後退しています",
+        "summaryJa": "この記事は「企業はAIに駆けつけた。今、何人かが後退しています」を扱っています。AIの迅速な採用により、従業員は大量のエラーや低品質の仕事を片付けることができました。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "keyPoints": [
+          "この記事は「企業はAIに駆けつけた。",
+          "今、何人かが後退しています」を扱っています。",
+          "AIの迅速な採用により、従業員は大量のエラーや低品質の仕事を片付けることができました。"
         ]
       }
     ],
-    "fetchedAt": "2026-10-15T16:57:56.434Z",
+    "fetchedAt": "2026-10-15T21:20:19.523Z",
     "mock": false
   },
   "xTrends": {
-    "items": [
-      {
-        "topic": "AI開発者",
-        "locationLabel": "日本",
-        "bestRank": 15,
-        "appearances": 4,
-        "trendSource": "Trends24",
-        "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-10-15T16:57:56.094Z",
-        "url": "https://x.com/search?q=AI%E9%96%8B%E7%99%BA%E8%80%85&src=typed_query&f=live",
-        "articleTitle": "AI開発者",
-        "articleTitleJa": "公開トレンド: AI開発者",
-        "articleUrl": "https://trends24.in/japan/",
-        "articleSource": "Trends24",
-        "articlePublishedAt": "2026-10-15T16:57:56.094Z",
-        "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
-        "translationVersion": 3,
-        "articleFallback": true
-      },
-      {
-        "topic": "Grok Voice 3.0",
-        "locationLabel": "米国",
-        "bestRank": 50,
-        "appearances": 1,
-        "trendSource": "Trends24",
-        "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-10-15T16:57:56.065Z",
-        "url": "https://x.com/search?q=Grok%20Voice%203.0&src=typed_query&f=live",
-        "articleTitle": "Grok Voice 3.0",
-        "articleTitleJa": "Grokボイス 3.0",
-        "articleUrl": "https://x.ai/news/grok-voice-3",
-        "articleSource": "x.ai",
-        "articlePublishedAt": "2026-10-14T16:48:50Z",
-        "summaryJa": "世界で最もインテリジェントな音声モデル。",
-        "translationVersion": 3
-      }
-    ],
-    "fetchedAt": "2026-10-15T16:57:56.434Z",
+    "items": [],
+    "fetchedAt": "2026-10-15T21:20:19.523Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-10-15T16:57:59.469Z"
+    "articleFetchedAt": "2026-10-15T21:20:19.658Z"
   }
 }
