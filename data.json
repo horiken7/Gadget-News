@@ -47,7 +47,7 @@
         "title": "More on Anthropic's Scion ripping off Mononoke",
         "url": "https://sunshowers.io/posts/anthropic-mononoke-2/",
         "points": 73,
-        "comments": 75,
+        "comments": 77,
         "author": "sunshowers",
         "createdAt": "2026-10-15T17:05:19Z",
         "domain": "sunshowers.io",
@@ -63,55 +63,55 @@
         ]
       },
       {
-        "title": "Claude Code Desktop Vulnerability: Preview Pane Data Exfiltration",
-        "url": "https://noma.security/noma-labs/sneakpeek-how-the-preview-pane-in-claude-code-desktop-can-exfiltrate-your-data",
-        "points": 73,
-        "comments": 0,
-        "author": "wondersky",
-        "createdAt": "2026-10-15T05:02:06Z",
-        "domain": "noma.security",
+        "title": "Sergey Brin says Google's AI models are reaching recursive self-improvement",
+        "url": "https://www.businessinsider.com/sergey-brin-google-gemini-ai-argon-recursive-self-improvement-rsi-2026-10",
+        "points": 66,
+        "comments": 19,
+        "author": "ryan_j_naughton",
+        "createdAt": "2026-10-16T03:49:35Z",
+        "domain": "businessinsider.com",
         "sourceType": "hn",
         "category": "AIモデル",
         "impact": "低",
         "newsLens": "技術",
-        "titleJa": "Claude Codeデスクトップの脆弱性:プレビューペインのデータ漏洩",
-        "summaryJa": "この記事は「Claude Codeデスクトップの脆弱性:プレビューペインのデータ漏洩」を扱っています。Noma Labsは、Claude Code DesktopでCVSS 8.7エクスプロイトを発見しました。このエクスプロイトでは、毒されたプレビューファイルがサンドボックスをバイパスして、任意のファイル読み取りを実現し、ローカル資格情報を盗みます。",
+        "titleJa": "Sergey Brinは、GoogleのAIモデルが再帰的な自己改善に到達していると言います",
+        "summaryJa": "この記事は「Sergey Brinは、GoogleのAIモデルが再帰的な自己改善に到達していると言います」を扱っています。Googleの共同創設者は、業界がRSIに向かって競争するにつれて、Geminiモデルが後継者の構築をますます支援していると述べた。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
         "keyPoints": [
-          "この記事は「Claude Codeデスクトップの脆弱性:プレビューペインのデータ漏洩」を扱っています。",
-          "Noma Labsは、Claude Code DesktopでCVSS 8.7エクスプロイトを発見しました。",
-          "このエクスプロイトでは、毒されたプレビューファイルがサンドボックスをバイパスして、任意のファイル読み取りを実現し、ローカル資格情報を盗みます。"
+          "この記事は「Sergey Brinは、GoogleのAIモデルが再帰的な自己改善に到達していると言います」を扱っています。",
+          "Googleの共同創設者は、業界がRSIに向かって競争するにつれて、Geminiモデルが後継者の構築をますます支援していると述べた。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
       },
       {
-        "title": "AI, Crypto and DEI Drove Marc Andreessen to MAGA",
-        "url": "https://www.bloomberg.com/news/features/2026-10-15/how-ai-crypto-and-dei-drove-marc-andreessen-to-maga",
-        "points": 64,
-        "comments": 20,
-        "author": "jamesgill",
-        "createdAt": "2026-10-16T00:56:54Z",
-        "domain": "bloomberg.com",
+        "title": "Linus Torvalds on \"don't use AI for X\"",
+        "url": "https://lore.kernel.org/lkml/CAHk-=whTs09_ozN+e09GU68N1wPP56MUzDjrg9rnKxQUa0A_4Q@mail.gmail.com/",
+        "points": 45,
+        "comments": 4,
+        "author": "thatslast",
+        "createdAt": "2026-10-16T03:41:52Z",
+        "domain": "lore.kernel.org",
         "sourceType": "hn",
         "category": "AIニュース",
         "impact": "低",
         "newsLens": "技術",
-        "titleJa": "AI、暗号、DEIがMarc AndreessenをMAGAに連れて行った",
-        "summaryJa": "この記事は「AI、暗号、DEIがMarc AndreessenをMAGAに連れて行った」を扱っています。bloomberg.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "titleJa": "AIニュース: Linus Torvalds「Don 't use AI for X」",
+        "summaryJa": "この記事は「Linus Torvalds「Don 't use AI for X」」を扱っています。lore.kernel.orgが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
         "keyPoints": [
-          "この記事は「AI、暗号、DEIがMarc AndreessenをMAGAに連れて行った」を扱っています。",
-          "bloomberg.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "この記事は「Linus Torvalds「Don 't use AI for X」」を扱っています。",
+          "lore.kernel.orgが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
           "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
       }
     ],
-    "fetchedAt": "2026-10-16T04:27:53.271Z",
+    "fetchedAt": "2026-10-16T11:18:38.725Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-10-16T04:27:53.271Z",
+    "fetchedAt": "2026-10-16T11:18:38.725Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-10-16T04:27:53.428Z"
+    "articleFetchedAt": "2026-10-16T11:18:38.862Z"
   }
 }
