@@ -47,7 +47,7 @@
         "title": "More on Anthropic's Scion ripping off Mononoke",
         "url": "https://sunshowers.io/posts/anthropic-mononoke-2/",
         "points": 73,
-        "comments": 63,
+        "comments": 75,
         "author": "sunshowers",
         "createdAt": "2026-10-15T17:05:19Z",
         "domain": "sunshowers.io",
@@ -63,55 +63,55 @@
         ]
       },
       {
-        "title": "Why We're Banning AI",
-        "url": "https://www.currentaffairs.org/news/why-were-banning-ai",
+        "title": "Claude Code Desktop Vulnerability: Preview Pane Data Exfiltration",
+        "url": "https://noma.security/noma-labs/sneakpeek-how-the-preview-pane-in-claude-code-desktop-can-exfiltrate-your-data",
         "points": 73,
-        "comments": 162,
-        "author": "vinyl7",
-        "createdAt": "2026-10-15T18:32:29Z",
-        "domain": "currentaffairs.org",
+        "comments": 0,
+        "author": "wondersky",
+        "createdAt": "2026-10-15T05:02:06Z",
+        "domain": "noma.security",
         "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "高",
+        "category": "AIモデル",
+        "impact": "低",
         "newsLens": "技術",
-        "titleJa": "AIを禁止する理由",
-        "summaryJa": "この記事は「AIを禁止する理由」を扱っています。私たちは、人間の思考と創造性を早急に保護する必要があります。私たちの雑誌は、手作りのままでいることにコミットしています。",
+        "titleJa": "Claude Codeデスクトップの脆弱性:プレビューペインのデータ漏洩",
+        "summaryJa": "この記事は「Claude Codeデスクトップの脆弱性:プレビューペインのデータ漏洩」を扱っています。Noma Labsは、Claude Code DesktopでCVSS 8.7エクスプロイトを発見しました。このエクスプロイトでは、毒されたプレビューファイルがサンドボックスをバイパスして、任意のファイル読み取りを実現し、ローカル資格情報を盗みます。",
         "keyPoints": [
-          "この記事は「AIを禁止する理由」を扱っています。",
-          "私たちは、人間の思考と創造性を早急に保護する必要があります。",
-          "私たちの雑誌は、手作りのままでいることにコミットしています。"
+          "この記事は「Claude Codeデスクトップの脆弱性:プレビューペインのデータ漏洩」を扱っています。",
+          "Noma Labsは、Claude Code DesktopでCVSS 8.7エクスプロイトを発見しました。",
+          "このエクスプロイトでは、毒されたプレビューファイルがサンドボックスをバイパスして、任意のファイル読み取りを実現し、ローカル資格情報を盗みます。"
         ]
       },
       {
-        "title": "Companies rushed in on AI. Now some are pulling back",
-        "url": "https://www.theguardian.com/technology/2026/oct/13/ai-companies-rushed-workers-fallout",
-        "points": 67,
-        "comments": 3,
-        "author": "agent_turtle",
-        "createdAt": "2026-10-15T18:29:29Z",
-        "domain": "theguardian.com",
+        "title": "AI, Crypto and DEI Drove Marc Andreessen to MAGA",
+        "url": "https://www.bloomberg.com/news/features/2026-10-15/how-ai-crypto-and-dei-drove-marc-andreessen-to-maga",
+        "points": 64,
+        "comments": 20,
+        "author": "jamesgill",
+        "createdAt": "2026-10-16T00:56:54Z",
+        "domain": "bloomberg.com",
         "sourceType": "hn",
         "category": "AIニュース",
         "impact": "低",
         "newsLens": "技術",
-        "titleJa": "企業はAIに駆けつけた。今、何人かが後退しています",
-        "summaryJa": "この記事は「企業はAIに駆けつけた。今、何人かが後退しています」を扱っています。AIの迅速な採用により、従業員は大量のエラーや低品質の仕事を片付けることができました。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "titleJa": "AI、暗号、DEIがMarc AndreessenをMAGAに連れて行った",
+        "summaryJa": "この記事は「AI、暗号、DEIがMarc AndreessenをMAGAに連れて行った」を扱っています。bloomberg.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
         "keyPoints": [
-          "この記事は「企業はAIに駆けつけた。",
-          "今、何人かが後退しています」を扱っています。",
-          "AIの迅速な採用により、従業員は大量のエラーや低品質の仕事を片付けることができました。"
+          "この記事は「AI、暗号、DEIがMarc AndreessenをMAGAに連れて行った」を扱っています。",
+          "bloomberg.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
       }
     ],
-    "fetchedAt": "2026-10-15T21:20:19.523Z",
+    "fetchedAt": "2026-10-16T04:27:53.271Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-10-15T21:20:19.523Z",
+    "fetchedAt": "2026-10-16T04:27:53.271Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-10-15T21:20:19.658Z"
+    "articleFetchedAt": "2026-10-16T04:27:53.428Z"
   }
 }
