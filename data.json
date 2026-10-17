@@ -47,7 +47,7 @@
         "title": "Show HN: Gemini 4 Argon plays StarCraft",
         "url": "https://starskirmish.com/bench/v0-2/",
         "points": 101,
-        "comments": 90,
+        "comments": 101,
         "author": "__cayenne__",
         "createdAt": "2026-10-16T14:18:44Z",
         "domain": "starskirmish.com",
@@ -67,7 +67,7 @@
         "title": "Anthropic assigned highest junk credit rating in June",
         "url": "https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d",
         "points": 93,
-        "comments": 71,
+        "comments": 77,
         "author": "JumpCrisscross",
         "createdAt": "2026-10-16T18:11:42Z",
         "domain": "ft.com",
@@ -84,36 +84,35 @@
         ]
       },
       {
-        "title": "ASML says strong chip orders signal AI spending boom has room to run",
-        "url": "http://www.californiatelegraph.com/news/279374422/asml-says-strong-chip-orders-signal-ai-spending-boom-has-room-to-run",
-        "points": 81,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-10-17T04:00:00Z",
-        "domain": "californiatelegraph.com",
-        "sourceType": "gdelt",
-        "sourceLabel": "GDELT",
-        "category": "ハードウェア",
-        "impact": "中",
+        "title": "DeepSeek-v4.1-Flash-1017",
+        "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+        "points": 93,
+        "comments": 67,
+        "author": "theykk",
+        "createdAt": "2026-10-17T08:21:25Z",
+        "domain": "huggingface.co",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "高",
         "newsLens": "技術",
-        "titleJa": "ASMLは、強力なチップ受注がAI支出ブームの余地があることを示していると述べています",
-        "summaryJa": "この記事は「ASMLは、強力なチップ受注がAI支出ブームの余地があることを示していると述べています」を扱っています。高度なチップ製造装置の需要は数年先まで伸びており、ASMLは顧客がすでに2029年、さらには2030年の発注を検討していると述べている。技術面では、ロボット、GPU、データセンターなどAIを動かす基盤への影響を見る必要があります。",
+        "titleJa": "AIニュース: DeepSeek-v4.1-Flash-1017",
+        "summaryJa": "この記事は「DeepSeek-v4.1-Flash-1017」を扱っています。私たちは、オープンソースとオープンサイエンスを通じて人工知能を進歩させ、民主化する旅に出ています。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
         "keyPoints": [
-          "この記事は「ASMLは、強力なチップ受注がAI支出ブームの余地があることを示していると述べています」を扱っています。",
-          "高度なチップ製造装置の需要は数年先まで伸びており、ASMLは顧客がすでに2029年、さらには2030年の発注を検討していると述べている。",
-          "技術面では、ロボット、GPU、データセンターなどAIを動かす基盤への影響を見る必要があります。"
+          "この記事は「DeepSeek-v4.1-Flash-1017」を扱っています。",
+          "私たちは、オープンソースとオープンサイエンスを通じて人工知能を進歩させ、民主化する旅に出ています。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
       }
     ],
-    "fetchedAt": "2026-10-17T04:21:48.886Z",
+    "fetchedAt": "2026-10-17T10:39:26.201Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-10-17T04:21:48.886Z",
+    "fetchedAt": "2026-10-17T10:39:26.201Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-10-17T04:21:49.020Z"
+    "articleFetchedAt": "2026-10-17T10:39:26.331Z"
   }
 }
