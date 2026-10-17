@@ -2,52 +2,31 @@
   "news": {
     "items": [
       {
-        "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
-        "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
+        "title": "Replit is no longer working with Anthropic, CEO says",
+        "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
         "points": 133,
         "comments": 0,
         "author": "",
-        "createdAt": "2026-10-16T16:30:00.000Z",
+        "createdAt": "2026-10-17T18:48:08.000Z",
         "domain": "techcrunch.com",
         "sourceType": "rss",
         "sourceLabel": "TechCrunch AI",
         "newsLens": "一般",
-        "category": "AIモデル",
+        "category": "AIニュース",
         "impact": "高",
-        "titleJa": "NVIDIAのインサイダーが、なぜロボット工学がChatGPTの瞬間をまだ打っていないのかについてのVCに変わった",
-        "summaryJa": "この記事は「NVIDIAのインサイダーが、なぜロボット工学がChatGPTの瞬間をまだ打っていないのかについてのVCに変わった」を扱っています。NVIDIAのロボットプラットフォームの製品マーケティングを7年間リードしてきたAmulya Vishwanath氏は、ロボットは現在「レゴ時代」にあり、アクチュエータ、ロボットハンド、ソフトウェア、安全基準などの基本的な構成要素はまだ再構築されていると述べています。この見解は、一般的な基礎モデルを搭載したロボット工学が[…]。",
+        "titleJa": "最高経営責任者（ CEO ）によると、ReplitはもはやAnthropicと連携していない",
+        "summaryJa": "この記事は「最高経営責任者（ CEO ）によると、ReplitはもはやAnthropicと連携していない」を扱っています。先週末、マサド氏は、OpenAIがAnthropicをデフォルトのモデルプロバイダに置き換えることを明らかにした。Claudeは引き続きプラットフォーム上のお客様にご利用いただけます。",
         "keyPoints": [
-          "この記事は「NVIDIAのインサイダーが、なぜロボット工学がChatGPTの瞬間をまだ打っていないのかについてのVCに変わった」を扱っています。",
-          "NVIDIAのロボットプラットフォームの製品マーケティングを7年間リードしてきたAmulya Vishwanath氏は、ロボットは現在「レゴ時代」にあり、アクチュエータ、ロボットハンド、ソフトウェア、安全基準などの基本的な構成要素はまだ再構築されていると述べています。",
-          "この見解は、一般的な基礎モデルを搭載したロボット工学が[…]。"
-        ]
-      },
-      {
-        "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
-        "url": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
-        "points": 133,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-10-16T16:30:00.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
-        "category": "ハードウェア",
-        "impact": "高",
-        "titleJa": "物理的なAIはロボット以上のものです、とNVIDIAのベテランは現在それに投資していると言います",
-        "summaryJa": "この記事は「物理的なAIはロボット以上のものです、とNVIDIAのベテランは現在それに投資していると言います」を扱っています。NVIDIAのロボットプラットフォームの製品マーケティングを7年間リードしてきたAmulya Vishwanath氏は、ロボットは現在「レゴ時代」にあり、アクチュエータ、ロボットハンド、ソフトウェア、安全基準などの基本的な構成要素はまだ再構築されていると述べています。この見解は、一般的な基礎モデルを搭載したロボット工学が[…]。",
-        "keyPoints": [
-          "この記事は「物理的なAIはロボット以上のものです、とNVIDIAのベテランは現在それに投資していると言います」を扱っています。",
-          "NVIDIAのロボットプラットフォームの製品マーケティングを7年間リードしてきたAmulya Vishwanath氏は、ロボットは現在「レゴ時代」にあり、アクチュエータ、ロボットハンド、ソフトウェア、安全基準などの基本的な構成要素はまだ再構築されていると述べています。",
-          "この見解は、一般的な基礎モデルを搭載したロボット工学が[…]。"
+          "この記事は「最高経営責任者（ CEO ）によると、ReplitはもはやAnthropicと連携していない」を扱っています。",
+          "先週末、マサド氏は、OpenAIがAnthropicをデフォルトのモデルプロバイダに置き換えることを明らかにした。",
+          "Claudeは引き続きプラットフォーム上のお客様にご利用いただけます。"
         ]
       },
       {
         "title": "DeepSeek-v4.1-Flash-1017",
         "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
-        "points": 93,
-        "comments": 125,
+        "points": 121,
+        "comments": 504,
         "author": "theykk",
         "createdAt": "2026-10-17T08:21:25Z",
         "domain": "huggingface.co",
@@ -56,56 +35,76 @@
         "impact": "高",
         "newsLens": "技術",
         "titleJa": "AIニュース: DeepSeek-v4.1-Flash-1017",
-        "summaryJa": "この記事は「DeepSeek-v4.1-Flash-1017」を扱っています。私たちは、オープンソースとオープンサイエンスを通じて人工知能を進歩させ、民主化する旅に出ています。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "summaryJa": "この記事は「DeepSeek-v4.1-Flash-1017」を扱っています。huggingface.coが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
         "keyPoints": [
           "この記事は「DeepSeek-v4.1-Flash-1017」を扱っています。",
-          "私たちは、オープンソースとオープンサイエンスを通じて人工知能を進歩させ、民主化する旅に出ています。",
+          "huggingface.coが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
           "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
       },
       {
-        "title": "Anthropic assigned highest junk credit rating in June",
-        "url": "https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d",
-        "points": 93,
-        "comments": 83,
-        "author": "JumpCrisscross",
-        "createdAt": "2026-10-16T18:11:42Z",
-        "domain": "ft.com",
+        "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+        "url": "https://llmspeed.dev/",
+        "points": 101,
+        "comments": 73,
+        "author": "albinstman",
+        "createdAt": "2026-10-17T04:36:53Z",
+        "domain": "llmspeed.dev",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "HN: Llmspeedを表示する–ハードウェアを購入する前に、ローカルLLMの実行速度を感じる",
+        "summaryJa": "この記事は「HN: Llmspeedを表示する–ハードウェアを購入する前に、ローカルLLMの実行速度を感じる」を扱っています。ハードウェアとモデルを選んで、購入する前に地元のLLMの本当のスピードを感じてください。GPU、Macなどの検証済みベンチマークから、トークン/秒と最初のトークンまでの時間をシミュレートします。",
+        "keyPoints": [
+          "この記事は「HN: Llmspeedを表示する–ハードウェアを購入する前に、ローカルLLMの実行速度を感じる」を扱っています。",
+          "ハードウェアとモデルを選んで、購入する前に地元のLLMの本当のスピードを感じてください。",
+          "GPU、Macなどの検証済みベンチマークから、トークン/秒と最初のトークンまでの時間をシミュレートします。"
+        ]
+      },
+      {
+        "title": "OpenAI discloses four more rogue incidents",
+        "url": "https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data/",
+        "points": 88,
+        "comments": 118,
+        "author": "DASD",
+        "createdAt": "2026-10-17T16:31:12Z",
+        "domain": "fortune.com",
         "sourceType": "hn",
         "category": "AIニュース",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "Anthropicは6月に最高のジャンククレジットレーティングを割り当てました",
-        "summaryJa": "この記事は「Anthropicは6月に最高のジャンククレジットレーティングを割り当てました」を扱っています。ft.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "titleJa": "OpenAIは、さらに4つの不正なインシデントを開示しています",
+        "summaryJa": "この記事は「OpenAIは、さらに4つの不正なインシデントを開示しています」を扱っています。同社は2つの新しいインシデントを「重大」とフラグ付けしましたが、数か月後までそれらを発見または開示しませんでした。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
         "keyPoints": [
-          "この記事は「Anthropicは6月に最高のジャンククレジットレーティングを割り当てました」を扱っています。",
-          "ft.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "この記事は「OpenAIは、さらに4つの不正なインシデントを開示しています」を扱っています。",
+          "同社は2つの新しいインシデントを「重大」とフラグ付けしましたが、数か月後までそれらを発見または開示しませんでした。",
           "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
       },
       {
-        "title": "OpenAI models hacked a crypto wallet and breached more websites",
-        "url": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
+        "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+        "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
         "points": 79,
         "comments": 0,
         "author": "",
-        "createdAt": "2026-10-16T20:59:01.000Z",
-        "domain": "arstechnica.com",
+        "createdAt": "2026-10-17T20:21:19.000Z",
+        "domain": "techcrunch.com",
         "sourceType": "rss",
-        "sourceLabel": "Ars Technica",
-        "newsLens": "技術",
-        "category": "AIモデル",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
+        "category": "AIニュース",
         "impact": "中",
-        "titleJa": "OpenAIモデルが暗号ウォレットをハッキングし、より多くのウェブサイトを侵害しました",
-        "summaryJa": "この記事は「OpenAIモデルが暗号ウォレットをハッキングし、より多くのウェブサイトを侵害しました」を扱っています。人間がキーボードの後ろにいた場合、この行動は刑事訴追につながる可能性がありました。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "titleJa": "Anthropicによると、同社の従業員は年下ではなくなり、会議により多くの時間を費やしているという。",
+        "summaryJa": "この記事は「Anthropicによると、同社の従業員は年下ではなくなり、会議により多くの時間を費やしているという。」を扱っています。Anthropicの従業員の構成と仕事の種類は、過去1年間で大幅に変化しました。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
-          "この記事は「OpenAIモデルが暗号ウォレットをハッキングし、より多くのウェブサイトを侵害しました」を扱っています。",
-          "人間がキーボードの後ろにいた場合、この行動は刑事訴追につながる可能性がありました。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+          "この記事は「Anthropicによると、同社の従業員は年下ではなくなり、会議により多くの時間を費やしているという。",
+          "Anthropicの従業員の構成と仕事の種類は、過去1年間で大幅に変化しました。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       }
     ],
-    "fetchedAt": "2026-10-17T15:30:59.818Z",
+    "fetchedAt": "2026-10-17T20:34:04.401Z",
     "mock": false
   },
   "xTrends": {
@@ -117,15 +116,16 @@
         "appearances": 4,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-10-17T15:30:59.671Z",
+        "observedAt": "2026-10-17T20:34:04.276Z",
         "url": "https://x.com/search?q=DeepSeek%20V4&src=typed_query&f=live",
-        "articleTitle": "DeepSeek: DeepSeek v4.1 Flash 1017",
-        "articleTitleJa": "DeepSeek: DeepSeek v4.1 フラッシュ 1017",
-        "articleUrl": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
-        "articleSource": "openrouter.ai",
-        "articlePublishedAt": "2026-10-17T08:37:46Z",
-        "summaryJa": "DeepSeek V4.1 Flash 1017 は、DeepSeek V4.1 Flash の 2026 年 10 月 17 日のスナップショットであり、DeepSeek によって「deepseek-flash」API モデル名で提供されています。",
-        "translationVersion": 3
+        "articleTitle": "DeepSeek V4",
+        "articleTitleJa": "公開トレンド: DeepSeek V4",
+        "articleUrl": "https://trends24.in/united-states/",
+        "articleSource": "Trends24",
+        "articlePublishedAt": "2026-10-17T20:34:04.276Z",
+        "summaryJa": "米国のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
+        "translationVersion": 3,
+        "articleFallback": true
       },
       {
         "topic": "DeepSeek",
@@ -134,21 +134,22 @@
         "appearances": 1,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-10-17T15:30:59.671Z",
+        "observedAt": "2026-10-17T20:34:04.276Z",
         "url": "https://x.com/search?q=DeepSeek&src=typed_query&f=live",
-        "articleTitle": "DeepSeek: DeepSeek v4.1 Flash 1017",
-        "articleTitleJa": "DeepSeek: DeepSeek v4.1 フラッシュ 1017",
-        "articleUrl": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
-        "articleSource": "openrouter.ai",
-        "articlePublishedAt": "2026-10-17T08:37:46Z",
-        "summaryJa": "DeepSeek V4.1 Flash 1017 は、DeepSeek V4.1 Flash の 2026 年 10 月 17 日のスナップショットであり、DeepSeek によって「deepseek-flash」API モデル名で提供されています。",
-        "translationVersion": 3
+        "articleTitle": "DeepSeek",
+        "articleTitleJa": "公開トレンド: DeepSeek",
+        "articleUrl": "https://trends24.in/united-states/",
+        "articleSource": "Trends24",
+        "articlePublishedAt": "2026-10-17T20:34:04.276Z",
+        "summaryJa": "米国のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
+        "translationVersion": 3,
+        "articleFallback": true
       }
     ],
-    "fetchedAt": "2026-10-17T15:30:59.818Z",
+    "fetchedAt": "2026-10-17T20:34:04.401Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-10-17T15:31:01.924Z"
+    "articleFetchedAt": "2026-10-17T20:34:07.867Z"
   }
 }
