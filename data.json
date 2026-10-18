@@ -5,7 +5,7 @@
         "title": "Websites are closing their doors to AI agents",
         "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
         "points": 121,
-        "comments": 121,
+        "comments": 124,
         "author": "evolve2k",
         "createdAt": "2026-10-18T14:58:10Z",
         "domain": "theverge.com",
@@ -22,24 +22,23 @@
         ]
       },
       {
-        "title": "Meta removes language that raised scraping and AI training concerns",
-        "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
-        "points": 107,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-10-17T21:31:32.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
-        "category": "AIニュース",
+        "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+        "url": "https://arxiv.org/abs/2610.18861",
+        "points": 120,
+        "comments": 65,
+        "author": "allinonai",
+        "createdAt": "2026-10-18T20:48:14Z",
+        "domain": "arxiv.org",
+        "sourceType": "hn",
+        "category": "AIモデル",
         "impact": "高",
-        "titleJa": "Metaは、スクレイピングとAIトレーニングの懸念を引き起こす言語を削除します",
-        "summaryJa": "この記事は「Metaは、スクレイピングとAIトレーニングの懸念を引き起こす言語を削除します」を扱っています。Metaの広報担当者は、更新された規約はMetaがウェブをクロールする方法の変更を反映していないと主張した。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "newsLens": "技術",
+        "titleJa": "ハイブリッド推論エージェント：潜在的な空間で考え、テキストを介して行動するLLMエージェント",
+        "summaryJa": "この記事は「ハイブリッド推論エージェント：潜在的な空間で考え、テキストを介して行動するLLMエージェント」を扱っています。arxiv.orgが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
         "keyPoints": [
-          "この記事は「Metaは、スクレイピングとAIトレーニングの懸念を引き起こす言語を削除します」を扱っています。",
-          "Metaの広報担当者は、更新された規約はMetaがウェブをクロールする方法の変更を反映していないと主張した。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+          "この記事は「ハイブリッド推論エージェント：潜在的な空間で考え、テキストを介して行動するLLMエージェント」を扱っています。",
+          "arxiv.orgが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
       },
       {
@@ -64,55 +63,56 @@
         ]
       },
       {
-        "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
-        "url": "https://api-docs.deepseek.com/guides/search/",
-        "points": 73,
-        "comments": 237,
-        "author": "fagnerbrack",
-        "createdAt": "2026-10-18T06:50:36Z",
-        "domain": "api-docs.deepseek.com",
+        "title": "Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
+        "points": 99,
+        "comments": 160,
+        "author": "f-serif",
+        "createdAt": "2026-10-18T14:30:27Z",
+        "domain": "tomshardware.com",
         "sourceType": "hn",
         "category": "AIニュース",
         "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "DeepSeek検索とフェッチ–成功した1000件のリクエストごとに$ 0.75",
-        "summaryJa": "この記事は「DeepSeek検索とフェッチ–成功した1000件のリクエストごとに$ 0.75」を扱っています。Search APIとFetch APIは、エージェントとRAGアプリケーションにライブWebコンテンツへのアクセスを提供します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "newsLens": "一般",
+        "titleJa": "Anthropicの提案されたAI安全法案は、50人の死亡または10億$の損害が発生した場合にのみ発効します",
+        "summaryJa": "この記事は「Anthropicの提案されたAI安全法案は、50人の死亡または10億$の損害が発生した場合にのみ発効します」を扱っています。これで、AIモデルが制御不能にならないようにするのに十分でしょうか？一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
-          "この記事は「DeepSeek検索とフェッチ–成功した1000件のリクエストごとに$ 0.75」を扱っています。",
-          "Search APIとFetch APIは、エージェントとRAGアプリケーションにライブWebコンテンツへのアクセスを提供します。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+          "この記事は「Anthropicの提案されたAI安全法案は、50人の死亡または10億$の損害が発生した場合にのみ発効します」を扱っています。",
+          "これで、AIモデルが制御不能にならないようにするのに十分でしょうか。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       },
       {
-        "title": "Show HN: The Zelda timeline to catch up before the Ocarina of Time remake",
-        "url": "https://legendofhyrule.com/",
-        "points": 73,
-        "comments": 72,
-        "author": "jsomau",
-        "createdAt": "2026-10-18T13:06:54Z",
-        "domain": "legendofhyrule.com",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "高",
+        "title": "AI , Robotics and Nuclear Energy Lead Discussion at ABS North America Regional Committee Meeting",
+        "url": "https://www.hellenicshippingnews.com/ai-robotics-and-nuclear-energy-lead-discussion-at-abs-north-america-regional-committee-meeting/",
+        "points": 81,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-10-18T21:45:00Z",
+        "domain": "hellenicshippingnews.com",
+        "sourceType": "gdelt",
+        "sourceLabel": "GDELT",
+        "category": "ハードウェア",
+        "impact": "中",
         "newsLens": "技術",
-        "titleJa": "HN ：時のオカリナのリメイク前に追いつくためのゼルダのタイムラインを見せよう",
-        "summaryJa": "この記事は「HN ：時のオカリナのリメイク前に追いつくためのゼルダのタイムラインを見せよう」を扱っています。17日後に公開される「オカリナ・オブ・タイム」のリメイクに先立って作りました。子供の頃にプレイした感覚を覚えていますが、ストーリーに追いついていなかったので、時間の扉が再開される前に追いつくためのタイムラインを作成しました。",
+        "titleJa": "ABS北米地域委員会会合におけるAI、ロボット工学、原子力リードディスカッション",
+        "summaryJa": "この記事は「ABS北米地域委員会会合におけるAI、ロボット工学、原子力リードディスカッション」を扱っています。hellenicshippingnews.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、ロボット、GPU、データセンターなどAIを動かす基盤への影響を見る必要があります。",
         "keyPoints": [
-          "この記事は「HN ：時のオカリナのリメイク前に追いつくためのゼルダのタイムラインを見せよう」を扱っています。",
-          "17日後に公開される「オカリナ・オブ・タイム」のリメイクに先立って作りました。",
-          "子供の頃にプレイした感覚を覚えていますが、ストーリーに追いついていなかったので、時間の扉が再開される前に追いつくためのタイムラインを作成しました。"
+          "この記事は「ABS北米地域委員会会合におけるAI、ロボット工学、原子力リードディスカッション」を扱っています。",
+          "hellenicshippingnews.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "技術面では、ロボット、GPU、データセンターなどAIを動かす基盤への影響を見る必要があります。"
         ]
       }
     ],
-    "fetchedAt": "2026-10-18T20:38:47.409Z",
+    "fetchedAt": "2026-10-18T23:09:10.983Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-10-18T20:38:47.409Z",
+    "fetchedAt": "2026-10-18T23:09:10.983Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-10-18T20:38:47.568Z"
+    "articleFetchedAt": "2026-10-18T23:09:11.167Z"
   }
 }
