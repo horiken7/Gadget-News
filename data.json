@@ -26,7 +26,7 @@
         "title": "DeepSeek-v4.1-Flash-1017",
         "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
         "points": 121,
-        "comments": 545,
+        "comments": 610,
         "author": "theykk",
         "createdAt": "2026-10-17T08:21:25Z",
         "domain": "huggingface.co",
@@ -67,7 +67,7 @@
         "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
         "url": "https://llmspeed.dev/",
         "points": 101,
-        "comments": 75,
+        "comments": 77,
         "author": "albinstman",
         "createdAt": "2026-10-17T04:36:53Z",
         "domain": "llmspeed.dev",
@@ -86,8 +86,8 @@
       {
         "title": "OpenAI discloses four more rogue incidents",
         "url": "https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data/",
-        "points": 89,
-        "comments": 140,
+        "points": 92,
+        "comments": 148,
         "author": "DASD",
         "createdAt": "2026-10-17T16:31:12Z",
         "domain": "fortune.com",
@@ -104,7 +104,7 @@
         ]
       }
     ],
-    "fetchedAt": "2026-10-17T23:06:55.421Z",
+    "fetchedAt": "2026-10-18T04:27:43.403Z",
     "mock": false
   },
   "xTrends": {
@@ -116,13 +116,13 @@
         "appearances": 4,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-10-17T23:06:55.350Z",
+        "observedAt": "2026-10-18T04:27:43.330Z",
         "url": "https://x.com/search?q=DeepSeek%20V4&src=typed_query&f=live",
         "articleTitle": "DeepSeek V4",
         "articleTitleJa": "公開トレンド: DeepSeek V4",
         "articleUrl": "https://trends24.in/united-states/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-10-17T23:06:55.350Z",
+        "articlePublishedAt": "2026-10-18T04:27:43.330Z",
         "summaryJa": "米国のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -134,22 +134,22 @@
         "appearances": 1,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-10-17T23:06:55.350Z",
+        "observedAt": "2026-10-18T04:27:43.330Z",
         "url": "https://x.com/search?q=DeepSeek&src=typed_query&f=live",
         "articleTitle": "DeepSeek",
         "articleTitleJa": "公開トレンド: DeepSeek",
         "articleUrl": "https://trends24.in/united-states/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-10-17T23:06:55.350Z",
+        "articlePublishedAt": "2026-10-18T04:27:43.330Z",
         "summaryJa": "米国のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
       }
     ],
-    "fetchedAt": "2026-10-17T23:06:55.421Z",
+    "fetchedAt": "2026-10-18T04:27:43.403Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-10-17T23:06:58.535Z"
+    "articleFetchedAt": "2026-10-18T04:27:46.691Z"
   }
 }
