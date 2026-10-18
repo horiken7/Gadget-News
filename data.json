@@ -2,24 +2,23 @@
   "news": {
     "items": [
       {
-        "title": "Replit makes OpenAI its default over Anthropic, CEO says",
-        "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
-        "points": 133,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-10-17T18:48:08.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
+        "title": "Websites are closing their doors to AI agents",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+        "points": 121,
+        "comments": 121,
+        "author": "evolve2k",
+        "createdAt": "2026-10-18T14:58:10Z",
+        "domain": "theverge.com",
+        "sourceType": "hn",
         "category": "AIニュース",
         "impact": "高",
-        "titleJa": "最高経営責任者（ CEO ）によると、ReplitはOpenAIをAnthropicよりもデフォルトにしている",
-        "summaryJa": "この記事は「最高経営責任者（ CEO ）によると、ReplitはOpenAIをAnthropicよりもデフォルトにしている」を扱っています。先週末、マサド氏は、OpenAIがAnthropicをデフォルトのモデルプロバイダに置き換えることを明らかにした。Claudeは引き続きプラットフォーム上のお客様にご利用いただけます。",
+        "newsLens": "技術",
+        "titleJa": "ウェブサイトはAIエージェントに門戸を閉ざしています",
+        "summaryJa": "この記事は「ウェブサイトはAIエージェントに門戸を閉ざしています」を扱っています。OpenAI、Meta、Googleなどは、さまざまなタスクをオンラインで実行できるパーソナルアシスタントとしてAIエージェントを位置付けています。しかし、ウェブはエージェントに対してますます不親切になり、エージェントの有用性を損なうようになっています。",
         "keyPoints": [
-          "この記事は「最高経営責任者（ CEO ）によると、ReplitはOpenAIをAnthropicよりもデフォルトにしている」を扱っています。",
-          "先週末、マサド氏は、OpenAIがAnthropicをデフォルトのモデルプロバイダに置き換えることを明らかにした。",
-          "Claudeは引き続きプラットフォーム上のお客様にご利用いただけます。"
+          "この記事は「ウェブサイトはAIエージェントに門戸を閉ざしています」を扱っています。",
+          "OpenAI、Meta、Googleなどは、さまざまなタスクをオンラインで実行できるパーソナルアシスタントとしてAIエージェントを位置付けています。",
+          "しかし、ウェブはエージェントに対してますます不親切になり、エージェントの有用性を損なうようになっています。"
         ]
       },
       {
@@ -44,30 +43,31 @@
         ]
       },
       {
-        "title": "OpenAI discloses four more rogue incidents",
-        "url": "https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data/",
-        "points": 93,
-        "comments": 155,
-        "author": "DASD",
-        "createdAt": "2026-10-17T16:31:12Z",
-        "domain": "fortune.com",
-        "sourceType": "hn",
+        "title": "Disney agrees to hire the majority of Character.AI’s workforce",
+        "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+        "points": 105,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-10-18T16:30:00.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
         "category": "AIニュース",
         "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "OpenAIは、さらに4つの不正なインシデントを開示しています",
-        "summaryJa": "この記事は「OpenAIは、さらに4つの不正なインシデントを開示しています」を扱っています。同社は2つの新しいインシデントを「重大」とフラグ付けしましたが、数か月後までそれらを発見または開示しませんでした。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "titleJa": "ディズニーは、Character.AIの従業員の大部分を雇用することに同意します",
+        "summaryJa": "この記事は「ディズニーは、Character.AIの従業員の大部分を雇用することに同意します」を扱っています。この書類はまた、ディズニーで仕事を提供されたCharacter.AIの従業員の「大多数」が彼らを受け入れたと述べている。しかし、これはストーキングホースの入札であるため、別の会社がより高いオファーを出す可能性があります。",
         "keyPoints": [
-          "この記事は「OpenAIは、さらに4つの不正なインシデントを開示しています」を扱っています。",
-          "同社は2つの新しいインシデントを「重大」とフラグ付けしましたが、数か月後までそれらを発見または開示しませんでした。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+          "この記事は「ディズニーは、Character.AIの従業員の大部分を雇用することに同意します」を扱っています。",
+          "この書類はまた、ディズニーで仕事を提供されたCharacter.AIの従業員の「大多数」が彼らを受け入れたと述べている。",
+          "しかし、これはストーキングホースの入札であるため、別の会社がより高いオファーを出す可能性があります。"
         ]
       },
       {
         "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
         "url": "https://api-docs.deepseek.com/guides/search/",
         "points": 73,
-        "comments": 198,
+        "comments": 237,
         "author": "fagnerbrack",
         "createdAt": "2026-10-18T06:50:36Z",
         "domain": "api-docs.deepseek.com",
@@ -84,35 +84,35 @@
         ]
       },
       {
-        "title": "How employment is changing at Anthropic",
-        "url": "https://www.anthropic.com/research/employment-at-anthropic",
-        "points": 63,
-        "comments": 168,
-        "author": "theanonymousone",
-        "createdAt": "2026-10-18T10:49:26Z",
-        "domain": "anthropic.com",
+        "title": "Show HN: The Zelda timeline to catch up before the Ocarina of Time remake",
+        "url": "https://legendofhyrule.com/",
+        "points": 73,
+        "comments": 72,
+        "author": "jsomau",
+        "createdAt": "2026-10-18T13:06:54Z",
+        "domain": "legendofhyrule.com",
         "sourceType": "hn",
         "category": "AIニュース",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "Anthropicでの雇用がどのように変化しているか",
-        "summaryJa": "この記事は「Anthropicでの雇用がどのように変化しているか」を扱っています。AIはAnthropicの仕事と雇用をどのように再構築しましたか？AI導入の最前線にある企業として、Anthropicは、AIが経済全体の仕事の組織、雇用、労働需要をどのように変化させるかを示す主要な指標になる可能性があります。",
+        "titleJa": "HN ：時のオカリナのリメイク前に追いつくためのゼルダのタイムラインを見せよう",
+        "summaryJa": "この記事は「HN ：時のオカリナのリメイク前に追いつくためのゼルダのタイムラインを見せよう」を扱っています。17日後に公開される「オカリナ・オブ・タイム」のリメイクに先立って作りました。子供の頃にプレイした感覚を覚えていますが、ストーリーに追いついていなかったので、時間の扉が再開される前に追いつくためのタイムラインを作成しました。",
         "keyPoints": [
-          "この記事は「Anthropicでの雇用がどのように変化しているか」を扱っています。",
-          "AIはAnthropicの仕事と雇用をどのように再構築しましたか。",
-          "AI導入の最前線にある企業として、Anthropicは、AIが経済全体の仕事の組織、雇用、労働需要をどのように変化させるかを示す主要な指標になる可能性があります。"
+          "この記事は「HN ：時のオカリナのリメイク前に追いつくためのゼルダのタイムラインを見せよう」を扱っています。",
+          "17日後に公開される「オカリナ・オブ・タイム」のリメイクに先立って作りました。",
+          "子供の頃にプレイした感覚を覚えていますが、ストーリーに追いついていなかったので、時間の扉が再開される前に追いつくためのタイムラインを作成しました。"
         ]
       }
     ],
-    "fetchedAt": "2026-10-18T15:49:44.337Z",
+    "fetchedAt": "2026-10-18T20:38:47.409Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-10-18T15:49:44.337Z",
+    "fetchedAt": "2026-10-18T20:38:47.409Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-10-18T15:49:44.472Z"
+    "articleFetchedAt": "2026-10-18T20:38:47.568Z"
   }
 }
