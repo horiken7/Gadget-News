@@ -5,7 +5,7 @@
         "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
         "url": "https://arxiv.org/abs/2610.18861",
         "points": 121,
-        "comments": 216,
+        "comments": 233,
         "author": "allinonai",
         "createdAt": "2026-10-18T20:48:14Z",
         "domain": "arxiv.org",
@@ -22,31 +22,52 @@
         ]
       },
       {
-        "title": "Disney agrees to hire the majority of Character.AI’s workforce",
-        "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
-        "points": 105,
+        "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
+        "url": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
+        "points": 107,
         "comments": 0,
         "author": "",
-        "createdAt": "2026-10-18T16:30:00.000Z",
+        "createdAt": "2026-10-19T19:28:34.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
+        "category": "開発ツール",
+        "impact": "高",
+        "titleJa": "ハッカーがAIコーディングツールOpenCodeを攻撃し、ユーザーのAIアカウントに課金",
+        "summaryJa": "この記事は「ハッカーがAIコーディングツールOpenCodeを攻撃し、ユーザーのAIアカウントに課金」を扱っています。OpenCodeはオープンソースのAIコーディングエージェントであり、Claude CodeとCursorの人気のある代替品となっています。しかし、ハッカーは同社のオンラインプラットフォームの一部に侵入し、一部のユーザーのAPIキーを盗み、同社が助けを求めたAIツールは悪意のあるコードを見ることを拒否し続けた。",
+        "keyPoints": [
+          "この記事は「ハッカーがAIコーディングツールOpenCodeを攻撃し、ユーザーのAIアカウントに課金」を扱っています。",
+          "OpenCodeはオープンソースのAIコーディングエージェントであり、Claude CodeとCursorの人気のある代替品となっています。",
+          "しかし、ハッカーは同社のオンラインプラットフォームの一部に侵入し、一部のユーザーのAPIキーを盗み、同社が助けを求めたAIツールは悪意のあるコードを見ることを拒否し続けた。"
+        ]
+      },
+      {
+        "title": "People are using AI to make their smart TVs dumb again",
+        "url": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
+        "points": 107,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-10-19T16:13:22.000Z",
         "domain": "techcrunch.com",
         "sourceType": "rss",
         "sourceLabel": "TechCrunch AI",
         "newsLens": "一般",
         "category": "AIニュース",
         "impact": "高",
-        "titleJa": "ディズニーは、Character.AIの従業員の大部分を雇用することに同意します",
-        "summaryJa": "この記事は「ディズニーは、Character.AIの従業員の大部分を雇用することに同意します」を扱っています。この書類はまた、ディズニーで仕事を提供されたCharacter.AIの従業員の「大多数」が彼らを受け入れたと述べている。しかし、これはストーキングホースの入札であるため、別の会社がより高いオファーを出す可能性があります。",
+        "titleJa": "人々はAIを使用してスマートテレビを再びダムにしています",
+        "summaryJa": "この記事は「人々はAIを使用してスマートテレビを再びダムにしています」を扱っています。広告、トラッキング、遅いインターフェースにうんざりしているスマートテレビの所有者の中には、膨大なソフトウェアを取り除き、テレビのコントロールを取り戻すためにAIエージェントに目を向けている人もいます。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
-          "この記事は「ディズニーは、Character.AIの従業員の大部分を雇用することに同意します」を扱っています。",
-          "この書類はまた、ディズニーで仕事を提供されたCharacter.AIの従業員の「大多数」が彼らを受け入れたと述べている。",
-          "しかし、これはストーキングホースの入札であるため、別の会社がより高いオファーを出す可能性があります。"
+          "この記事は「人々はAIを使用してスマートテレビを再びダムにしています」を扱っています。",
+          "広告、トラッキング、遅いインターフェースにうんざりしているスマートテレビの所有者の中には、膨大なソフトウェアを取り除き、テレビのコントロールを取り戻すためにAIエージェントに目を向けている人もいます。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       },
       {
         "title": "If you don't run your own LLM proxy, how do you know whats going on?",
         "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
         "points": 101,
-        "comments": 153,
+        "comments": 202,
         "author": "amrrs",
         "createdAt": "2026-10-18T21:09:12Z",
         "domain": "jrdsgl.com",
@@ -63,30 +84,10 @@
         ]
       },
       {
-        "title": "Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
-        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
-        "points": 99,
-        "comments": 165,
-        "author": "f-serif",
-        "createdAt": "2026-10-18T14:30:27Z",
-        "domain": "tomshardware.com",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "高",
-        "newsLens": "一般",
-        "titleJa": "Anthropicの提案されたAI安全法案は、50人の死亡または10億$の損害が発生した場合にのみ発効します",
-        "summaryJa": "この記事は「Anthropicの提案されたAI安全法案は、50人の死亡または10億$の損害が発生した場合にのみ発効します」を扱っています。これで、AIモデルが制御不能にならないようにするのに十分でしょうか？一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
-        "keyPoints": [
-          "この記事は「Anthropicの提案されたAI安全法案は、50人の死亡または10億$の損害が発生した場合にのみ発効します」を扱っています。",
-          "これで、AIモデルが制御不能にならないようにするのに十分でしょうか。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
-        ]
-      },
-      {
         "title": "DeepSeek V4.1 Flash 1017 (Max)",
         "url": "https://artificialanalysis.ai/models/deepseek-v4-1-flash-1017",
         "points": 73,
-        "comments": 62,
+        "comments": 88,
         "author": "theanonymousone",
         "createdAt": "2026-10-19T04:41:46Z",
         "domain": "artificialanalysis.ai",
@@ -103,15 +104,15 @@
         ]
       }
     ],
-    "fetchedAt": "2026-10-19T13:07:49.235Z",
+    "fetchedAt": "2026-10-19T20:34:33.178Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-10-19T13:07:49.235Z",
+    "fetchedAt": "2026-10-19T20:34:33.178Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-10-19T13:07:49.397Z"
+    "articleFetchedAt": "2026-10-19T20:34:33.313Z"
   }
 }
