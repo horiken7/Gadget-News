@@ -2,30 +2,10 @@
   "news": {
     "items": [
       {
-        "title": "Websites are closing their doors to AI agents",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
-        "points": 121,
-        "comments": 124,
-        "author": "evolve2k",
-        "createdAt": "2026-10-18T14:58:10Z",
-        "domain": "theverge.com",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "ウェブサイトはAIエージェントに門戸を閉ざしています",
-        "summaryJa": "この記事は「ウェブサイトはAIエージェントに門戸を閉ざしています」を扱っています。OpenAI、Meta、Googleなどは、さまざまなタスクをオンラインで実行できるパーソナルアシスタントとしてAIエージェントを位置付けています。しかし、ウェブはエージェントに対してますます不親切になり、エージェントの有用性を損なうようになっています。",
-        "keyPoints": [
-          "この記事は「ウェブサイトはAIエージェントに門戸を閉ざしています」を扱っています。",
-          "OpenAI、Meta、Googleなどは、さまざまなタスクをオンラインで実行できるパーソナルアシスタントとしてAIエージェントを位置付けています。",
-          "しかし、ウェブはエージェントに対してますます不親切になり、エージェントの有用性を損なうようになっています。"
-        ]
-      },
-      {
         "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
         "url": "https://arxiv.org/abs/2610.18861",
-        "points": 120,
-        "comments": 65,
+        "points": 121,
+        "comments": 156,
         "author": "allinonai",
         "createdAt": "2026-10-18T20:48:14Z",
         "domain": "arxiv.org",
@@ -39,6 +19,27 @@
           "この記事は「ハイブリッド推論エージェント：潜在的な空間で考え、テキストを介して行動するLLMエージェント」を扱っています。",
           "arxiv.orgが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
           "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+        ]
+      },
+      {
+        "title": "Why AI blocklists give Singapore firms a false sense of security",
+        "url": "https://sbr.com.sg/information-technology/commentary/why-ai-blocklists-give-singapore-firms-false-sense-security",
+        "points": 107,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-10-19T04:15:00Z",
+        "domain": "sbr.com.sg",
+        "sourceType": "gdelt",
+        "sourceLabel": "GDELT",
+        "category": "AIニュース",
+        "impact": "高",
+        "newsLens": "一般",
+        "titleJa": "AIブロックリストがシンガポール企業に誤った安全感を与える理由",
+        "summaryJa": "この記事は「AIブロックリストがシンガポール企業に誤った安全感を与える理由」を扱っています。ツールをブロックすると、ビジネスからではなくログから削除されます。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "keyPoints": [
+          "この記事は「AIブロックリストがシンガポール企業に誤った安全感を与える理由」を扱っています。",
+          "ツールをブロックすると、ビジネスからではなくログから削除されます。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       },
       {
@@ -63,56 +64,55 @@
         ]
       },
       {
-        "title": "Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
-        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
-        "points": 99,
-        "comments": 160,
-        "author": "f-serif",
-        "createdAt": "2026-10-18T14:30:27Z",
-        "domain": "tomshardware.com",
+        "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
+        "url": "https://api-docs.deepseek.com/guides/search/",
+        "points": 73,
+        "comments": 262,
+        "author": "fagnerbrack",
+        "createdAt": "2026-10-18T06:50:36Z",
+        "domain": "api-docs.deepseek.com",
         "sourceType": "hn",
         "category": "AIニュース",
         "impact": "高",
-        "newsLens": "一般",
-        "titleJa": "Anthropicの提案されたAI安全法案は、50人の死亡または10億$の損害が発生した場合にのみ発効します",
-        "summaryJa": "この記事は「Anthropicの提案されたAI安全法案は、50人の死亡または10億$の損害が発生した場合にのみ発効します」を扱っています。これで、AIモデルが制御不能にならないようにするのに十分でしょうか？一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "newsLens": "技術",
+        "titleJa": "DeepSeek検索とフェッチ–成功した1000件のリクエストごとに$ 0.75",
+        "summaryJa": "この記事は「DeepSeek検索とフェッチ–成功した1000件のリクエストごとに$ 0.75」を扱っています。Search APIとFetch APIは、エージェントとRAGアプリケーションにライブWebコンテンツへのアクセスを提供します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
         "keyPoints": [
-          "この記事は「Anthropicの提案されたAI安全法案は、50人の死亡または10億$の損害が発生した場合にのみ発効します」を扱っています。",
-          "これで、AIモデルが制御不能にならないようにするのに十分でしょうか。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+          "この記事は「DeepSeek検索とフェッチ–成功した1000件のリクエストごとに$ 0.75」を扱っています。",
+          "Search APIとFetch APIは、エージェントとRAGアプリケーションにライブWebコンテンツへのアクセスを提供します。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
       },
       {
-        "title": "AI , Robotics and Nuclear Energy Lead Discussion at ABS North America Regional Committee Meeting",
-        "url": "https://www.hellenicshippingnews.com/ai-robotics-and-nuclear-energy-lead-discussion-at-abs-north-america-regional-committee-meeting/",
-        "points": 81,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-10-18T21:45:00Z",
-        "domain": "hellenicshippingnews.com",
-        "sourceType": "gdelt",
-        "sourceLabel": "GDELT",
-        "category": "ハードウェア",
-        "impact": "中",
+        "title": "Show HN: The Zelda timeline to catch up before the Ocarina of Time remake",
+        "url": "https://legendofhyrule.com/",
+        "points": 73,
+        "comments": 105,
+        "author": "jsomau",
+        "createdAt": "2026-10-18T13:06:54Z",
+        "domain": "legendofhyrule.com",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "高",
         "newsLens": "技術",
-        "titleJa": "ABS北米地域委員会会合におけるAI、ロボット工学、原子力リードディスカッション",
-        "summaryJa": "この記事は「ABS北米地域委員会会合におけるAI、ロボット工学、原子力リードディスカッション」を扱っています。hellenicshippingnews.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、ロボット、GPU、データセンターなどAIを動かす基盤への影響を見る必要があります。",
+        "titleJa": "HN ：時のオカリナのリメイク前に追いつくためのゼルダのタイムラインを見せよう",
+        "summaryJa": "この記事は「HN ：時のオカリナのリメイク前に追いつくためのゼルダのタイムラインを見せよう」を扱っています。17日後に公開される「オカリナ・オブ・タイム」のリメイクに先立って作りました。子供の頃にプレイした感覚を覚えていますが、ストーリーに追いついていなかったので、時間の扉が再開される前に追いつくためのタイムラインを作成しました。",
         "keyPoints": [
-          "この記事は「ABS北米地域委員会会合におけるAI、ロボット工学、原子力リードディスカッション」を扱っています。",
-          "hellenicshippingnews.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "技術面では、ロボット、GPU、データセンターなどAIを動かす基盤への影響を見る必要があります。"
+          "この記事は「HN ：時のオカリナのリメイク前に追いつくためのゼルダのタイムラインを見せよう」を扱っています。",
+          "17日後に公開される「オカリナ・オブ・タイム」のリメイクに先立って作りました。",
+          "子供の頃にプレイした感覚を覚えていますが、ストーリーに追いついていなかったので、時間の扉が再開される前に追いつくためのタイムラインを作成しました。"
         ]
       }
     ],
-    "fetchedAt": "2026-10-18T23:09:10.983Z",
+    "fetchedAt": "2026-10-19T04:36:31.092Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-10-18T23:09:10.983Z",
+    "fetchedAt": "2026-10-19T04:36:31.092Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-10-18T23:09:11.167Z"
+    "articleFetchedAt": "2026-10-19T04:36:31.291Z"
   }
 }
