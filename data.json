@@ -5,7 +5,7 @@
         "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
         "url": "https://arxiv.org/abs/2610.18861",
         "points": 121,
-        "comments": 156,
+        "comments": 216,
         "author": "allinonai",
         "createdAt": "2026-10-18T20:48:14Z",
         "domain": "arxiv.org",
@@ -19,27 +19,6 @@
           "この記事は「ハイブリッド推論エージェント：潜在的な空間で考え、テキストを介して行動するLLMエージェント」を扱っています。",
           "arxiv.orgが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
           "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
-        ]
-      },
-      {
-        "title": "Why AI blocklists give Singapore firms a false sense of security",
-        "url": "https://sbr.com.sg/information-technology/commentary/why-ai-blocklists-give-singapore-firms-false-sense-security",
-        "points": 107,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-10-19T04:15:00Z",
-        "domain": "sbr.com.sg",
-        "sourceType": "gdelt",
-        "sourceLabel": "GDELT",
-        "category": "AIニュース",
-        "impact": "高",
-        "newsLens": "一般",
-        "titleJa": "AIブロックリストがシンガポール企業に誤った安全感を与える理由",
-        "summaryJa": "この記事は「AIブロックリストがシンガポール企業に誤った安全感を与える理由」を扱っています。ツールをブロックすると、ビジネスからではなくログから削除されます。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
-        "keyPoints": [
-          "この記事は「AIブロックリストがシンガポール企業に誤った安全感を与える理由」を扱っています。",
-          "ツールをブロックすると、ビジネスからではなくログから削除されます。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       },
       {
@@ -64,55 +43,75 @@
         ]
       },
       {
-        "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
-        "url": "https://api-docs.deepseek.com/guides/search/",
-        "points": 73,
-        "comments": 262,
-        "author": "fagnerbrack",
-        "createdAt": "2026-10-18T06:50:36Z",
-        "domain": "api-docs.deepseek.com",
+        "title": "If you don't run your own LLM proxy, how do you know whats going on?",
+        "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
+        "points": 101,
+        "comments": 153,
+        "author": "amrrs",
+        "createdAt": "2026-10-18T21:09:12Z",
+        "domain": "jrdsgl.com",
         "sourceType": "hn",
-        "category": "AIニュース",
+        "category": "AIモデル",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "DeepSeek検索とフェッチ–成功した1000件のリクエストごとに$ 0.75",
-        "summaryJa": "この記事は「DeepSeek検索とフェッチ–成功した1000件のリクエストごとに$ 0.75」を扱っています。Search APIとFetch APIは、エージェントとRAGアプリケーションにライブWebコンテンツへのアクセスを提供します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "titleJa": "独自のLLMプロキシを実行していない場合、どのようにして状況を把握できますか？",
+        "summaryJa": "この記事は「独自のLLMプロキシを実行していない場合、どのようにして状況を把握できますか？」を扱っています。タイトルはそのアイデアを完全に捉えていると思いますが、これはTwitterではないので掘り下げてみます。あなたは、おそらく世界を救っているアイデア、コード、または年間数十億のSaaSアプリに取り組んでいます。",
         "keyPoints": [
-          "この記事は「DeepSeek検索とフェッチ–成功した1000件のリクエストごとに$ 0.75」を扱っています。",
-          "Search APIとFetch APIは、エージェントとRAGアプリケーションにライブWebコンテンツへのアクセスを提供します。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+          "この記事は「独自のLLMプロキシを実行していない場合、どのようにして状況を把握できますか。",
+          "タイトルはそのアイデアを完全に捉えていると思いますが、これはTwitterではないので掘り下げてみます。",
+          "あなたは、おそらく世界を救っているアイデア、コード、または年間数十億のSaaSアプリに取り組んでいます。"
         ]
       },
       {
-        "title": "Show HN: The Zelda timeline to catch up before the Ocarina of Time remake",
-        "url": "https://legendofhyrule.com/",
+        "title": "Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
+        "points": 99,
+        "comments": 165,
+        "author": "f-serif",
+        "createdAt": "2026-10-18T14:30:27Z",
+        "domain": "tomshardware.com",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "高",
+        "newsLens": "一般",
+        "titleJa": "Anthropicの提案されたAI安全法案は、50人の死亡または10億$の損害が発生した場合にのみ発効します",
+        "summaryJa": "この記事は「Anthropicの提案されたAI安全法案は、50人の死亡または10億$の損害が発生した場合にのみ発効します」を扱っています。これで、AIモデルが制御不能にならないようにするのに十分でしょうか？一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "keyPoints": [
+          "この記事は「Anthropicの提案されたAI安全法案は、50人の死亡または10億$の損害が発生した場合にのみ発効します」を扱っています。",
+          "これで、AIモデルが制御不能にならないようにするのに十分でしょうか。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+        ]
+      },
+      {
+        "title": "DeepSeek V4.1 Flash 1017 (Max)",
+        "url": "https://artificialanalysis.ai/models/deepseek-v4-1-flash-1017",
         "points": 73,
-        "comments": 105,
-        "author": "jsomau",
-        "createdAt": "2026-10-18T13:06:54Z",
-        "domain": "legendofhyrule.com",
+        "comments": 62,
+        "author": "theanonymousone",
+        "createdAt": "2026-10-19T04:41:46Z",
+        "domain": "artificialanalysis.ai",
         "sourceType": "hn",
         "category": "AIニュース",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "HN ：時のオカリナのリメイク前に追いつくためのゼルダのタイムラインを見せよう",
-        "summaryJa": "この記事は「HN ：時のオカリナのリメイク前に追いつくためのゼルダのタイムラインを見せよう」を扱っています。17日後に公開される「オカリナ・オブ・タイム」のリメイクに先立って作りました。子供の頃にプレイした感覚を覚えていますが、ストーリーに追いついていなかったので、時間の扉が再開される前に追いつくためのタイムラインを作成しました。",
+        "titleJa": "DeepSeek V4.1フラッシュ1017 （最大）",
+        "summaryJa": "この記事は「DeepSeek V4.1フラッシュ1017 （最大）」を扱っています。DeepSeekのDeepSeek V4.1 Flash 1017 （ Max ）の分析と、品質、価格、パフォーマンス（ 1秒あたりのトークンと最初のトークンまでの時間）、コンテキストウィンドウなどの主要な指標にわたる他のAIモデルとの比較。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
         "keyPoints": [
-          "この記事は「HN ：時のオカリナのリメイク前に追いつくためのゼルダのタイムラインを見せよう」を扱っています。",
-          "17日後に公開される「オカリナ・オブ・タイム」のリメイクに先立って作りました。",
-          "子供の頃にプレイした感覚を覚えていますが、ストーリーに追いついていなかったので、時間の扉が再開される前に追いつくためのタイムラインを作成しました。"
+          "この記事は「DeepSeek V4.1フラッシュ1017 （最大）」を扱っています。",
+          "DeepSeekのDeepSeek V4.1 Flash 1017 （ Max ）の分析と、品質、価格、パフォーマンス（ 1秒あたりのトークンと最初のトークンまでの時間）、コンテキストウィンドウなどの主要な指標にわたる他のAIモデルとの比較。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
       }
     ],
-    "fetchedAt": "2026-10-19T04:36:31.092Z",
+    "fetchedAt": "2026-10-19T13:07:49.235Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-10-19T04:36:31.092Z",
+    "fetchedAt": "2026-10-19T13:07:49.235Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-10-19T04:36:31.291Z"
+    "articleFetchedAt": "2026-10-19T13:07:49.397Z"
   }
 }
