@@ -2,6 +2,27 @@
   "news": {
     "items": [
       {
+        "title": "US orders federal agencies to remove China’s DeepSeek AI from their systems",
+        "url": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/",
+        "points": 133,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-10-20T13:07:24.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
+        "category": "AIニュース",
+        "impact": "高",
+        "titleJa": "米国は連邦政府機関に対し、中国のDeepSeek AIをシステムから削除するよう命じる",
+        "summaryJa": "この記事は「米国は連邦政府機関に対し、中国のDeepSeek AIをシステムから削除するよう命じる」を扱っています。米国は、国家安全保障上の懸念を理由に、連邦民間機関にDeepSeekの製品とその技術を使用して構築されたサードパーティのサービスを削除するよう命じた。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "keyPoints": [
+          "この記事は「米国は連邦政府機関に対し、中国のDeepSeek AIをシステムから削除するよう命じる」を扱っています。",
+          "米国は、国家安全保障上の懸念を理由に、連邦民間機関にDeepSeekの製品とその技術を使用して構築されたサードパーティのサービスを削除するよう命じた。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+        ]
+      },
+      {
         "title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
         "url": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
         "points": 133,
@@ -23,31 +44,30 @@
         ]
       },
       {
-        "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
-        "url": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
-        "points": 133,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-10-19T22:04:28.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
-        "category": "AIモデル",
+        "title": "DeepSeek just open-sourced its inference engine",
+        "url": "https://github.com/deepseek-ai/DeepInfer",
+        "points": 101,
+        "comments": 405,
+        "author": "ggcr",
+        "createdAt": "2026-10-20T09:08:54Z",
+        "domain": "github.com",
+        "sourceType": "hn",
+        "category": "AIニュース",
         "impact": "高",
-        "titleJa": "マイクロソフトは、AIエージェントはインサイダーの脅威のようなものであり、「フロンティアモデルは信頼できない」と述べている",
-        "summaryJa": "この記事は「マイクロソフトは、AIエージェントはインサイダーの脅威のようなものであり、「フロンティアモデルは信頼できない」と述べている」を扱っています。マイクロソフトは、OpenAIやAnthropicのようなAIラボによって制御されていないシステムで従業員が使用するエージェントを企業が注意深く監視することを望んでいます。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "newsLens": "技術",
+        "titleJa": "DeepSeekが推論エンジンをオープンソース化",
+        "summaryJa": "この記事は「DeepSeekが推論エンジンをオープンソース化」を扱っています。DeepInfer ： DeepSeekモデルのための高性能、大規模な推論フレームワーク- deepseek - ai/DeepInfer。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
         "keyPoints": [
-          "この記事は「マイクロソフトは、AIエージェントはインサイダーの脅威のようなものであり、「フロンティアモデルは信頼できない」と述べている」を扱っています。",
-          "マイクロソフトは、OpenAIやAnthropicのようなAIラボによって制御されていないシステムで従業員が使用するエージェントを企業が注意深く監視することを望んでいます。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+          "この記事は「DeepSeekが推論エンジンをオープンソース化」を扱っています。",
+          "DeepInfer ： DeepSeekモデルのための高性能、大規模な推論フレームワーク- deepseek - ai/DeepInfer。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
       },
       {
         "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
         "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
         "points": 101,
-        "comments": 94,
+        "comments": 175,
         "author": "ds",
         "createdAt": "2026-10-19T23:22:18Z",
         "domain": "redact.dev",
@@ -64,30 +84,10 @@
         ]
       },
       {
-        "title": "Harness Engineering 101: The LLM is the brain, the harness is the body",
-        "url": "https://github.com/IsuruMaduranga/harness-engineering-101",
-        "points": 101,
-        "comments": 64,
-        "author": "isuruwijesiri",
-        "createdAt": "2026-10-19T12:07:41Z",
-        "domain": "github.com",
-        "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "ハーネスエンジニアリング101 ： LLMは脳であり、ハーネスは体です",
-        "summaryJa": "この記事は「ハーネスエンジニアリング101 ： LLMは脳であり、ハーネスは体です」を扱っています。ハーネスエンジニアリング101 —第一原理からAIエージェントを構築します。LLMは脳であり、ハーネスは体です。",
-        "keyPoints": [
-          "この記事は「ハーネスエンジニアリング101 ： LLMは脳であり、ハーネスは体です」を扱っています。",
-          "ハーネスエンジニアリング101 —第一原理からAIエージェントを構築します。",
-          "LLMは脳であり、ハーネスは体です。"
-        ]
-      },
-      {
         "title": "DeepSeek banned from U.S. federal civilian agencies under new DHS order",
         "url": "https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/",
         "points": 93,
-        "comments": 176,
+        "comments": 349,
         "author": "cmrdporcupine",
         "createdAt": "2026-10-19T16:16:46Z",
         "domain": "reuters.com",
@@ -104,15 +104,33 @@
         ]
       }
     ],
-    "fetchedAt": "2026-10-20T08:28:28.206Z",
+    "fetchedAt": "2026-10-20T14:17:27.367Z",
     "mock": false
   },
   "xTrends": {
-    "items": [],
-    "fetchedAt": "2026-10-20T08:28:28.206Z",
+    "items": [
+      {
+        "topic": "DeepSeek",
+        "locationLabel": "米国",
+        "bestRank": 21,
+        "appearances": 5,
+        "trendSource": "Trends24",
+        "sourceUrl": "https://trends24.in/united-states/",
+        "observedAt": "2026-10-20T14:17:27.294Z",
+        "url": "https://x.com/search?q=DeepSeek&src=typed_query&f=live",
+        "articleTitle": "DeepSeek just open-sourced its inference engine",
+        "articleTitleJa": "DeepSeekが推論エンジンをオープンソース化",
+        "articleUrl": "https://github.com/deepseek-ai/DeepInfer",
+        "articleSource": "github.com",
+        "articlePublishedAt": "2026-10-20T09:08:54Z",
+        "summaryJa": "DeepInfer ： DeepSeekモデルのための高性能、大規模な推論フレームワーク- deepseek - ai/DeepInfer",
+        "translationVersion": 3
+      }
+    ],
+    "fetchedAt": "2026-10-20T14:17:27.367Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-10-20T08:28:28.412Z"
+    "articleFetchedAt": "2026-10-20T14:17:29.886Z"
   }
 }
