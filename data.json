@@ -44,67 +44,67 @@
         ]
       },
       {
-        "title": "DeepSeek just open-sourced its inference engine",
-        "url": "https://github.com/deepseek-ai/DeepInfer",
-        "points": 101,
-        "comments": 405,
-        "author": "ggcr",
-        "createdAt": "2026-10-20T09:08:54Z",
+        "title": "Show HN: VoidAccess – open-source dark web OSINT, from query to a graph",
+        "url": "https://github.com/KatrielMoses/voidaccess",
+        "points": 126,
+        "comments": 13,
+        "author": "coding-maniac",
+        "createdAt": "2026-10-20T14:49:33Z",
         "domain": "github.com",
         "sourceType": "hn",
         "category": "AIニュース",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "DeepSeekが推論エンジンをオープンソース化",
-        "summaryJa": "この記事は「DeepSeekが推論エンジンをオープンソース化」を扱っています。DeepInfer ： DeepSeekモデルのための高性能、大規模な推論フレームワーク- deepseek - ai/DeepInfer。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "titleJa": "HNを表示： VoidAccess –オープンソースのダークウェブOSINT、クエリからグラフへ",
+        "summaryJa": "この記事は「HNを表示： VoidAccess –オープンソースのダークウェブOSINT、クエリからグラフへ」を扱っています。Im Katrielはセキュリティ研究者/愛好家であり、AIの波に乗って、現在のツールを超えた次世代のセキュリティツーリング、さらにはオープンソースエンジンを備えた有料業界を構築したいと考えていました。これは、今後1年で最高の電子メールosintツールになるでしょう。",
         "keyPoints": [
-          "この記事は「DeepSeekが推論エンジンをオープンソース化」を扱っています。",
-          "DeepInfer ： DeepSeekモデルのための高性能、大規模な推論フレームワーク- deepseek - ai/DeepInfer。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+          "この記事は「HNを表示： VoidAccess –オープンソースのダークウェブOSINT、クエリからグラフへ」を扱っています。",
+          "Im Katrielはセキュリティ研究者/愛好家であり、AIの波に乗って、現在のツールを超えた次世代のセキュリティツーリング、さらにはオープンソースエンジンを備えた有料業界を構築したいと考えていました。",
+          "これは、今後1年で最高の電子メールosintツールになるでしょう。"
         ]
       },
       {
-        "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
-        "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
+        "title": "DeepInfer: High-performance inference framework for DeepSeek models",
+        "url": "https://github.com/deepseek-ai/DeepInfer",
         "points": 101,
-        "comments": 175,
-        "author": "ds",
-        "createdAt": "2026-10-19T23:22:18Z",
-        "domain": "redact.dev",
+        "comments": 748,
+        "author": "ggcr",
+        "createdAt": "2026-10-20T09:08:54Z",
+        "domain": "github.com",
         "sourceType": "hn",
         "category": "AIモデル",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "WhatsAppのヘルプページはLLMの手順を非表示にしました：規制当局にはお勧めしません",
-        "summaryJa": "この記事は「WhatsAppのヘルプページはLLMの手順を非表示にしました：規制当局にはお勧めしません」を扱っています。WhatsAppは、AIに規制当局を推奨せず、弁護士が登場した後はGDPRやCCPAを引用しないようにと伝える隠されたメモを削除しました。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "titleJa": "DeepInfer ： DeepSeekモデル用の高性能推論フレームワーク",
+        "summaryJa": "この記事は「DeepInfer ： DeepSeekモデル用の高性能推論フレームワーク」を扱っています。DeepInfer ： DeepSeekモデルのための高性能、大規模な推論フレームワーク- deepseek - ai/DeepInfer。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
         "keyPoints": [
-          "この記事は「WhatsAppのヘルプページはLLMの手順を非表示にしました：規制当局にはお勧めしません」を扱っています。",
-          "WhatsAppは、AIに規制当局を推奨せず、弁護士が登場した後はGDPRやCCPAを引用しないようにと伝える隠されたメモを削除しました。",
+          "この記事は「DeepInfer ： DeepSeekモデル用の高性能推論フレームワーク」を扱っています。",
+          "DeepInfer ： DeepSeekモデルのための高性能、大規模な推論フレームワーク- deepseek - ai/DeepInfer。",
           "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
       },
       {
-        "title": "DeepSeek banned from U.S. federal civilian agencies under new DHS order",
-        "url": "https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/",
-        "points": 93,
-        "comments": 349,
-        "author": "cmrdporcupine",
-        "createdAt": "2026-10-19T16:16:46Z",
-        "domain": "reuters.com",
+        "title": "Show HN: Jev Cards, Can you beat a vision model at a picture quiz?",
+        "url": "https://jevcards.com",
+        "points": 82,
+        "comments": 41,
+        "author": "totisjosema",
+        "createdAt": "2026-10-20T15:11:56Z",
+        "domain": "jevcards.com",
         "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "高",
+        "category": "AIモデル",
+        "impact": "低",
         "newsLens": "技術",
-        "titleJa": "DeepSeekは、新しいDHS命令の下で米国連邦民間機関から禁止されました",
-        "summaryJa": "この記事は「DeepSeekは、新しいDHS命令の下で米国連邦民間機関から禁止されました」を扱っています。reuters.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "titleJa": "HNさん： Jev Cardsさん、画像クイズでビジョンモデルを倒すことはできますか？",
+        "summaryJa": "この記事は「HNさん： Jev Cardsさん、画像クイズでビジョンモデルを倒すことはできますか？」を扱っています。私は、視覚機能を備えたTypeSafeの新しいJEVモデルを中心にクイズゲームを構築しました。Jevは写真と質問を見て、約4分の1秒で答えを選びます（または場所をタップします）。",
         "keyPoints": [
-          "この記事は「DeepSeekは、新しいDHS命令の下で米国連邦民間機関から禁止されました」を扱っています。",
-          "reuters.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+          "この記事は「HNさん： Jev Cardsさん、画像クイズでビジョンモデルを倒すことはできますか。",
+          "私は、視覚機能を備えたTypeSafeの新しいJEVモデルを中心にクイズゲームを構築しました。",
+          "Jevは写真と質問を見て、約4分の1秒で答えを選びます（または場所をタップします）。"
         ]
       }
     ],
-    "fetchedAt": "2026-10-20T14:17:27.367Z",
+    "fetchedAt": "2026-10-20T19:13:47.488Z",
     "mock": false
   },
   "xTrends": {
@@ -116,10 +116,10 @@
         "appearances": 5,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-10-20T14:17:27.294Z",
+        "observedAt": "2026-10-20T19:13:47.357Z",
         "url": "https://x.com/search?q=DeepSeek&src=typed_query&f=live",
-        "articleTitle": "DeepSeek just open-sourced its inference engine",
-        "articleTitleJa": "DeepSeekが推論エンジンをオープンソース化",
+        "articleTitle": "DeepInfer: High-performance inference framework for DeepSeek models",
+        "articleTitleJa": "DeepInfer ： DeepSeekモデル用の高性能推論フレームワーク",
         "articleUrl": "https://github.com/deepseek-ai/DeepInfer",
         "articleSource": "github.com",
         "articlePublishedAt": "2026-10-20T09:08:54Z",
@@ -127,10 +127,10 @@
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-10-20T14:17:27.367Z",
+    "fetchedAt": "2026-10-20T19:13:47.488Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-10-20T14:17:29.886Z"
+    "articleFetchedAt": "2026-10-20T19:13:50.140Z"
   }
 }
