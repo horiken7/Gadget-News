@@ -15,11 +15,11 @@
         "category": "AIニュース",
         "impact": "高",
         "titleJa": "組み込みAI評価者は簡単な解決策ではありません、とHugging Faceのポリシーチーフは言います",
-        "summaryJa": "この記事は「組み込みAI評価者は簡単な解決策ではありません、とHugging Faceのポリシーチーフは言います」を扱っています。AIラボは、あるAI製品が別の製品より優れているかどうかを測定するために設計された中立的で正確な評価システムであるモデルベンチマークに評判を賭けています。しかし、これらの評価の背後にある方法は複雑であり、まだ成熟していると、Hugging Faceの最高政策責任者であるIrene Solaiman氏はTechCrunchでの議論の中で述べている[…]。",
+        "summaryJa": "この記事は「組み込みAI評価者は簡単な解決策ではありません、とHugging Faceのポリシーチーフは言います」を扱っています。埋め込まれた評価者のアイデア（「中立的」と思われるサードパーティのオブザーバーがAI組織内に配置される）は、AIラボが自社の技術の潜在的な害に対する懸念を引き起こしている安全上のインシデントの発作に取り組むにつれて、過去数ヶ月にわたって普及してきました。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
           "この記事は「組み込みAI評価者は簡単な解決策ではありません、とHugging Faceのポリシーチーフは言います」を扱っています。",
-          "AIラボは、あるAI製品が別の製品より優れているかどうかを測定するために設計された中立的で正確な評価システムであるモデルベンチマークに評判を賭けています。",
-          "しかし、これらの評価の背後にある方法は複雑であり、まだ成熟していると、Hugging Faceの最高政策責任者であるIrene Solaiman氏はTechCrunchでの議論の中で述べている[…]。"
+          "埋め込まれた評価者のアイデア（「中立的」と思われるサードパーティのオブザーバーがAI組織内に配置される）は、AIラボが自社の技術の潜在的な害に対する懸念を引き起こしている安全上のインシデントの発作に取り組むにつれて、過去数ヶ月にわたって普及してきました。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       },
       {
@@ -44,6 +44,26 @@
         ]
       },
       {
+        "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
+        "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
+        "points": 101,
+        "comments": 94,
+        "author": "ds",
+        "createdAt": "2026-10-19T23:22:18Z",
+        "domain": "redact.dev",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "WhatsAppのヘルプページはLLMの手順を非表示にしました：規制当局にはお勧めしません",
+        "summaryJa": "この記事は「WhatsAppのヘルプページはLLMの手順を非表示にしました：規制当局にはお勧めしません」を扱っています。WhatsAppは、AIに規制当局を推奨せず、弁護士が登場した後はGDPRやCCPAを引用しないようにと伝える隠されたメモを削除しました。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "keyPoints": [
+          "この記事は「WhatsAppのヘルプページはLLMの手順を非表示にしました：規制当局にはお勧めしません」を扱っています。",
+          "WhatsAppは、AIに規制当局を推奨せず、弁護士が登場した後はGDPRやCCPAを引用しないようにと伝える隠されたメモを削除しました。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+        ]
+      },
+      {
         "title": "Harness Engineering 101: The LLM is the brain, the harness is the body",
         "url": "https://github.com/IsuruMaduranga/harness-engineering-101",
         "points": 101,
@@ -64,55 +84,35 @@
         ]
       },
       {
-        "title": "DeepSeek V4.1 Flash 1017 (Max)",
-        "url": "https://artificialanalysis.ai/models/deepseek-v4-1-flash-1017",
-        "points": 73,
-        "comments": 90,
-        "author": "theanonymousone",
-        "createdAt": "2026-10-19T04:41:46Z",
-        "domain": "artificialanalysis.ai",
+        "title": "DeepSeek banned from U.S. federal civilian agencies under new DHS order",
+        "url": "https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/",
+        "points": 93,
+        "comments": 176,
+        "author": "cmrdporcupine",
+        "createdAt": "2026-10-19T16:16:46Z",
+        "domain": "reuters.com",
         "sourceType": "hn",
         "category": "AIニュース",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "DeepSeek V4.1フラッシュ1017 （最大）",
-        "summaryJa": "この記事は「DeepSeek V4.1フラッシュ1017 （最大）」を扱っています。DeepSeekのDeepSeek V4.1 Flash 1017 （ Max ）の分析と、品質、価格、パフォーマンス（ 1秒あたりのトークンと最初のトークンまでの時間）、コンテキストウィンドウなどの主要な指標にわたる他のAIモデルとの比較。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "titleJa": "DeepSeekは、新しいDHS命令の下で米国連邦民間機関から禁止されました",
+        "summaryJa": "この記事は「DeepSeekは、新しいDHS命令の下で米国連邦民間機関から禁止されました」を扱っています。reuters.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
         "keyPoints": [
-          "この記事は「DeepSeek V4.1フラッシュ1017 （最大）」を扱っています。",
-          "DeepSeekのDeepSeek V4.1 Flash 1017 （ Max ）の分析と、品質、価格、パフォーマンス（ 1秒あたりのトークンと最初のトークンまでの時間）、コンテキストウィンドウなどの主要な指標にわたる他のAIモデルとの比較。",
+          "この記事は「DeepSeekは、新しいDHS命令の下で米国連邦民間機関から禁止されました」を扱っています。",
+          "reuters.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
           "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
-        ]
-      },
-      {
-        "title": "Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
-        "url": "https://crystl.dev/guides/tmux-for-ai-agents/",
-        "points": 73,
-        "comments": 112,
-        "author": "ankitg12",
-        "createdAt": "2026-10-19T05:55:31Z",
-        "domain": "crystl.dev",
-        "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "TmuxとClaudeコード：セッション、送信キー、天井",
-        "summaryJa": "この記事は「TmuxとClaudeコード：セッション、送信キー、天井」を扱っています。Claude Codeやその他のAIエージェントを実行するための動作するtmuxセットアップ：プロジェクトごとのセッション命名、ペインレイアウト、エージェントをスクリプト化するための送信キー、1つを読み取るためのキャプチャペイン、およびステータスラインモニター。さらに、4人のエージェントで達成した制限もあります。",
-        "keyPoints": [
-          "この記事は「TmuxとClaudeコード：セッション、送信キー、天井」を扱っています。",
-          "Claude Codeやその他のAIエージェントを実行するための動作するtmuxセットアップ：プロジェクトごとのセッション命名、ペインレイアウト、エージェントをスクリプト化するための送信キー、1つを読み取るためのキャプチャペイン、およびステータスラインモニター。",
-          "さらに、4人のエージェントで達成した制限もあります。"
         ]
       }
     ],
-    "fetchedAt": "2026-10-20T00:18:49.722Z",
+    "fetchedAt": "2026-10-20T08:28:28.206Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-10-20T00:18:49.722Z",
+    "fetchedAt": "2026-10-20T08:28:28.206Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-10-20T00:18:49.924Z"
+    "articleFetchedAt": "2026-10-20T08:28:28.412Z"
   }
 }
