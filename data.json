@@ -2,6 +2,27 @@
   "news": {
     "items": [
       {
+        "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+        "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
+        "points": 133,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-10-20T23:01:23.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
+        "category": "AIモデル",
+        "impact": "高",
+        "titleJa": "Anthropicは、50人以上が殺される可能性がある場合、モデルをブロックする可能性のあるAI安全法案を提案しています",
+        "summaryJa": "この記事は「Anthropicは、50人以上が殺される可能性がある場合、モデルをブロックする可能性のあるAI安全法案を提案しています」を扱っています。提案されたポリシーは、AIの乱用に対する保護を提供しているように見えるが、実際には連邦政府機関が裁判官の許可なくモデルのリリースをブロックすることを禁止している。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "keyPoints": [
+          "この記事は「Anthropicは、50人以上が殺される可能性がある場合、モデルをブロックする可能性のあるAI安全法案を提案しています」を扱っています。",
+          "提案されたポリシーは、AIの乱用に対する保護を提供しているように見えるが、実際には連邦政府機関が裁判官の許可なくモデルのリリースをブロックすることを禁止している。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+        ]
+      },
+      {
         "title": "US orders federal agencies to remove China’s DeepSeek AI from their systems",
         "url": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/",
         "points": 133,
@@ -15,38 +36,17 @@
         "category": "AIニュース",
         "impact": "高",
         "titleJa": "米国は連邦政府機関に対し、中国のDeepSeek AIをシステムから削除するよう命じる",
-        "summaryJa": "この記事は「米国は連邦政府機関に対し、中国のDeepSeek AIをシステムから削除するよう命じる」を扱っています。米国は、国家安全保障上の懸念を理由に、連邦民間機関にDeepSeekの製品とその技術を使用して構築されたサードパーティのサービスを削除するよう命じた。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "summaryJa": "この記事は「米国は連邦政府機関に対し、中国のDeepSeek AIをシステムから削除するよう命じる」を扱っています。米国は、国家安全保障上の懸念を理由に、連邦民間機関にDeepSeekの技術を使用して構築された製品とサードパーティのサービスを削除するよう命じた。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
           "この記事は「米国は連邦政府機関に対し、中国のDeepSeek AIをシステムから削除するよう命じる」を扱っています。",
-          "米国は、国家安全保障上の懸念を理由に、連邦民間機関にDeepSeekの製品とその技術を使用して構築されたサードパーティのサービスを削除するよう命じた。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
-        ]
-      },
-      {
-        "title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
-        "url": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
-        "points": 133,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-10-19T22:49:27.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
-        "category": "AIニュース",
-        "impact": "高",
-        "titleJa": "組み込みAI評価者は簡単な解決策ではありません、とHugging Faceのポリシーチーフは言います",
-        "summaryJa": "この記事は「組み込みAI評価者は簡単な解決策ではありません、とHugging Faceのポリシーチーフは言います」を扱っています。埋め込まれた評価者のアイデア（「中立的」と思われるサードパーティのオブザーバーがAI組織内に配置される）は、AIラボが自社の技術の潜在的な害に対する懸念を引き起こしている安全上のインシデントの発作に取り組むにつれて、過去数ヶ月にわたって普及してきました。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
-        "keyPoints": [
-          "この記事は「組み込みAI評価者は簡単な解決策ではありません、とHugging Faceのポリシーチーフは言います」を扱っています。",
-          "埋め込まれた評価者のアイデア（「中立的」と思われるサードパーティのオブザーバーがAI組織内に配置される）は、AIラボが自社の技術の潜在的な害に対する懸念を引き起こしている安全上のインシデントの発作に取り組むにつれて、過去数ヶ月にわたって普及してきました。",
+          "米国は、国家安全保障上の懸念を理由に、連邦民間機関にDeepSeekの技術を使用して構築された製品とサードパーティのサービスを削除するよう命じた。",
           "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       },
       {
         "title": "Show HN: VoidAccess – open-source dark web OSINT, from query to a graph",
         "url": "https://github.com/KatrielMoses/voidaccess",
-        "points": 126,
+        "points": 127,
         "comments": 13,
         "author": "coding-maniac",
         "createdAt": "2026-10-20T14:49:33Z",
@@ -67,7 +67,7 @@
         "title": "DeepInfer: High-performance inference framework for DeepSeek models",
         "url": "https://github.com/deepseek-ai/DeepInfer",
         "points": 101,
-        "comments": 748,
+        "comments": 816,
         "author": "ggcr",
         "createdAt": "2026-10-20T09:08:54Z",
         "domain": "github.com",
@@ -84,31 +84,49 @@
         ]
       },
       {
-        "title": "Show HN: Jev Cards, Can you beat a vision model at a picture quiz?",
-        "url": "https://jevcards.com",
-        "points": 82,
-        "comments": 41,
-        "author": "totisjosema",
-        "createdAt": "2026-10-20T15:11:56Z",
-        "domain": "jevcards.com",
+        "title": "Anthropic logged net loss of over $80B in first half of 2026",
+        "url": "https://www.reuters.com/business/anthropic-recorded-net-loss-over-80-billion-first-half-this-year-wsj-reports-2026-10-20/",
+        "points": 81,
+        "comments": 45,
+        "author": "throwa356262",
+        "createdAt": "2026-10-20T20:09:46Z",
+        "domain": "reuters.com",
         "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "低",
+        "category": "AIニュース",
+        "impact": "中",
         "newsLens": "技術",
-        "titleJa": "HNさん： Jev Cardsさん、画像クイズでビジョンモデルを倒すことはできますか？",
-        "summaryJa": "この記事は「HNさん： Jev Cardsさん、画像クイズでビジョンモデルを倒すことはできますか？」を扱っています。私は、視覚機能を備えたTypeSafeの新しいJEVモデルを中心にクイズゲームを構築しました。Jevは写真と質問を見て、約4分の1秒で答えを選びます（または場所をタップします）。",
+        "titleJa": "Anthropicは、2026年上半期に800億$を超える純損失を計上しました",
+        "summaryJa": "この記事は「Anthropicは、2026年上半期に800億$を超える純損失を計上しました」を扱っています。reuters.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
         "keyPoints": [
-          "この記事は「HNさん： Jev Cardsさん、画像クイズでビジョンモデルを倒すことはできますか。",
-          "私は、視覚機能を備えたTypeSafeの新しいJEVモデルを中心にクイズゲームを構築しました。",
-          "Jevは写真と質問を見て、約4分の1秒で答えを選びます（または場所をタップします）。"
+          "この記事は「Anthropicは、2026年上半期に800億$を超える純損失を計上しました」を扱っています。",
+          "reuters.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
       }
     ],
-    "fetchedAt": "2026-10-20T19:13:47.488Z",
+    "fetchedAt": "2026-10-20T23:51:15.636Z",
     "mock": false
   },
   "xTrends": {
     "items": [
+      {
+        "topic": "AI事業",
+        "locationLabel": "日本",
+        "bestRank": 47,
+        "appearances": 1,
+        "trendSource": "Trends24",
+        "sourceUrl": "https://trends24.in/japan/",
+        "observedAt": "2026-10-20T23:51:15.396Z",
+        "url": "https://x.com/search?q=AI%E4%BA%8B%E6%A5%AD&src=typed_query&f=live",
+        "articleTitle": "AI事業",
+        "articleTitleJa": "公開トレンド: AI事業",
+        "articleUrl": "https://trends24.in/japan/",
+        "articleSource": "Trends24",
+        "articlePublishedAt": "2026-10-20T23:51:15.396Z",
+        "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
+        "translationVersion": 3,
+        "articleFallback": true
+      },
       {
         "topic": "DeepSeek",
         "locationLabel": "米国",
@@ -116,7 +134,7 @@
         "appearances": 5,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-10-20T19:13:47.357Z",
+        "observedAt": "2026-10-20T23:51:15.366Z",
         "url": "https://x.com/search?q=DeepSeek&src=typed_query&f=live",
         "articleTitle": "DeepInfer: High-performance inference framework for DeepSeek models",
         "articleTitleJa": "DeepInfer ： DeepSeekモデル用の高性能推論フレームワーク",
@@ -127,10 +145,10 @@
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-10-20T19:13:47.488Z",
+    "fetchedAt": "2026-10-20T23:51:15.636Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-10-20T19:13:50.140Z"
+    "articleFetchedAt": "2026-10-20T23:51:18.390Z"
   }
 }
