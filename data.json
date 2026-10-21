@@ -67,7 +67,7 @@
         "title": "DeepInfer: High-performance inference framework for DeepSeek models",
         "url": "https://github.com/deepseek-ai/DeepInfer",
         "points": 101,
-        "comments": 816,
+        "comments": 846,
         "author": "ggcr",
         "createdAt": "2026-10-20T09:08:54Z",
         "domain": "github.com",
@@ -86,14 +86,14 @@
       {
         "title": "Anthropic logged net loss of over $80B in first half of 2026",
         "url": "https://www.reuters.com/business/anthropic-recorded-net-loss-over-80-billion-first-half-this-year-wsj-reports-2026-10-20/",
-        "points": 81,
-        "comments": 45,
+        "points": 93,
+        "comments": 57,
         "author": "throwa356262",
         "createdAt": "2026-10-20T20:09:46Z",
         "domain": "reuters.com",
         "sourceType": "hn",
         "category": "AIニュース",
-        "impact": "中",
+        "impact": "高",
         "newsLens": "技術",
         "titleJa": "Anthropicは、2026年上半期に800億$を超える純損失を計上しました",
         "summaryJa": "この記事は「Anthropicは、2026年上半期に800億$を超える純損失を計上しました」を扱っています。reuters.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
@@ -104,7 +104,7 @@
         ]
       }
     ],
-    "fetchedAt": "2026-10-20T23:51:15.636Z",
+    "fetchedAt": "2026-10-21T04:42:12.619Z",
     "mock": false
   },
   "xTrends": {
@@ -112,17 +112,17 @@
       {
         "topic": "AI事業",
         "locationLabel": "日本",
-        "bestRank": 47,
-        "appearances": 1,
+        "bestRank": 31,
+        "appearances": 3,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-10-20T23:51:15.396Z",
+        "observedAt": "2026-10-21T04:42:12.551Z",
         "url": "https://x.com/search?q=AI%E4%BA%8B%E6%A5%AD&src=typed_query&f=live",
         "articleTitle": "AI事業",
         "articleTitleJa": "公開トレンド: AI事業",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-10-20T23:51:15.396Z",
+        "articlePublishedAt": "2026-10-21T04:42:12.551Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -131,10 +131,10 @@
         "topic": "DeepSeek",
         "locationLabel": "米国",
         "bestRank": 21,
-        "appearances": 5,
+        "appearances": 4,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-10-20T23:51:15.366Z",
+        "observedAt": "2026-10-21T04:42:12.506Z",
         "url": "https://x.com/search?q=DeepSeek&src=typed_query&f=live",
         "articleTitle": "DeepInfer: High-performance inference framework for DeepSeek models",
         "articleTitleJa": "DeepInfer ： DeepSeekモデル用の高性能推論フレームワーク",
@@ -145,10 +145,10 @@
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-10-20T23:51:15.636Z",
+    "fetchedAt": "2026-10-21T04:42:12.619Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-10-20T23:51:18.390Z"
+    "articleFetchedAt": "2026-10-21T04:42:15.349Z"
   }
 }
