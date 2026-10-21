@@ -44,36 +44,16 @@
         ]
       },
       {
-        "title": "Anthropic logged net loss of over $80B in first half of 2026",
-        "url": "https://www.reuters.com/business/anthropic-recorded-net-loss-over-80-billion-first-half-this-year-wsj-reports-2026-10-20/",
-        "points": 93,
-        "comments": 90,
-        "author": "throwa356262",
-        "createdAt": "2026-10-20T20:09:46Z",
-        "domain": "reuters.com",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "Anthropicは、2026年上半期に800億$を超える純損失を計上しました",
-        "summaryJa": "この記事は「Anthropicは、2026年上半期に800億$を超える純損失を計上しました」を扱っています。reuters.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
-        "keyPoints": [
-          "この記事は「Anthropicは、2026年上半期に800億$を超える純損失を計上しました」を扱っています。",
-          "reuters.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
-        ]
-      },
-      {
         "title": "Using thousands of AI agents to uncover new leads in biological data",
         "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/",
-        "points": 83,
-        "comments": 15,
+        "points": 97,
+        "comments": 61,
         "author": "raahelb",
         "createdAt": "2026-10-21T13:37:00Z",
         "domain": "openai.com",
         "sourceType": "hn",
         "category": "AIニュース",
-        "impact": "低",
+        "impact": "高",
         "newsLens": "技術",
         "titleJa": "何千ものAIエージェントを使用して、生物学的データの新しい手がかりを明らかにする",
         "summaryJa": "この記事は「何千ものAIエージェントを使用して、生物学的データの新しい手がかりを明らかにする」を扱っています。openai.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
@@ -84,55 +64,73 @@
         ]
       },
       {
-        "title": "Sentient Launches First Open Benchmark to Test Whether AI Models Can Prove Where They Came From",
-        "url": "https://www.ibtimes.com/press-release/20261021/sentient-launches-first-open-benchmark-to-test-whether-ai-models-can-prove-where-they-came-from",
-        "points": 81,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-10-21T16:45:00Z",
-        "domain": "ibtimes.com",
-        "sourceType": "gdelt",
-        "sourceLabel": "GDELT",
-        "category": "AIモデル",
-        "impact": "中",
+        "title": "Mistral Large 4",
+        "url": "https://mistral.ai/news/mistral-large-4/",
+        "points": 73,
+        "comments": 89,
+        "author": "funnym0nk3y",
+        "createdAt": "2026-10-21T19:20:55Z",
+        "domain": "mistral.ai",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "高",
         "newsLens": "技術",
-        "titleJa": "Sentientは、AIモデルがどこから来たのかを証明できるかどうかをテストするための最初のオープンベンチマークを開始します",
-        "summaryJa": "この記事は「Sentientは、AIモデルがどこから来たのかを証明できるかどうかをテストするための最初のオープンベンチマークを開始します」を扱っています。カリフォルニア州サンフランシスコ、2026年10月20日、Chainwire研究者は、Sentient独自の新しいフィンガープリンティングを含む、テストしたほぼすべてのフィンガープリンティング方法が回避される可能性があることを発見しました。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "titleJa": "ミストラルラージ4",
+        "summaryJa": "この記事は「ミストラルラージ4」を扱っています。mistral.aiが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
         "keyPoints": [
-          "この記事は「Sentientは、AIモデルがどこから来たのかを証明できるかどうかをテストするための最初のオープンベンチマークを開始します」を扱っています。",
-          "カリフォルニア州サンフランシスコ、2026年10月20日、Chainwire研究者は、Sentient独自の新しいフィンガープリンティングを含む、テストしたほぼすべてのフィンガープリンティング方法が回避される可能性があることを発見しました。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+          "この記事は「ミストラルラージ4」を扱っています。",
+          "mistral.aiが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+        ]
+      },
+      {
+        "title": "Claude Duet",
+        "url": "https://claude.com/product/claude-duet",
+        "points": 73,
+        "comments": 169,
+        "author": "kuberwastaken",
+        "createdAt": "2026-10-21T19:14:01Z",
+        "domain": "claude.com",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "Claude・デュエット",
+        "summaryJa": "この記事は「Claude・デュエット」を扱っています。Claude Duetは、あなたがメッセージを送るパーソナルAIエージェントです。受信トレイ、カレンダー、フォローアップを処理し、必要なときにメッセージを送信します。",
+        "keyPoints": [
+          "この記事は「Claude・デュエット」を扱っています。",
+          "Claude Duetは、あなたがメッセージを送るパーソナルAIエージェントです。",
+          "受信トレイ、カレンダー、フォローアップを処理し、必要なときにメッセージを送信します。"
         ]
       }
     ],
-    "fetchedAt": "2026-10-21T17:09:34.076Z",
+    "fetchedAt": "2026-10-21T21:40:05.412Z",
     "mock": false
   },
   "xTrends": {
     "items": [
       {
-        "topic": "AI事業",
-        "locationLabel": "日本",
-        "bestRank": 31,
-        "appearances": 3,
+        "topic": "Claude Duet",
+        "locationLabel": "米国",
+        "bestRank": 9,
+        "appearances": 2,
         "trendSource": "Trends24",
-        "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-10-21T17:09:32.660Z",
-        "url": "https://x.com/search?q=AI%E4%BA%8B%E6%A5%AD&src=typed_query&f=live",
-        "articleTitle": "AI事業",
-        "articleTitleJa": "公開トレンド: AI事業",
-        "articleUrl": "https://trends24.in/japan/",
-        "articleSource": "Trends24",
-        "articlePublishedAt": "2026-10-21T17:09:32.660Z",
-        "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
-        "translationVersion": 3,
-        "articleFallback": true
+        "sourceUrl": "https://trends24.in/united-states/",
+        "observedAt": "2026-10-21T21:40:05.317Z",
+        "url": "https://x.com/search?q=Claude%20Duet&src=typed_query&f=live",
+        "articleTitle": "Claude Duet",
+        "articleTitleJa": "Claude・デュエット",
+        "articleUrl": "https://claude.com/product/claude-duet",
+        "articleSource": "claude.com",
+        "articlePublishedAt": "2026-10-21T19:14:01Z",
+        "summaryJa": "Claude Duetは、あなたがメッセージを送るパーソナルAIエージェントです。受信トレイ、カレンダー、フォローアップを処理し、必要なときにメッセージを送信します。調査待ちになります。",
+        "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-10-21T17:09:34.076Z",
+    "fetchedAt": "2026-10-21T21:40:05.412Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-10-21T17:09:34.489Z"
+    "articleFetchedAt": "2026-10-21T21:40:08.366Z"
   }
 }
