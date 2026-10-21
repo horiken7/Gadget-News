@@ -15,10 +15,10 @@
         "category": "AIモデル",
         "impact": "高",
         "titleJa": "Anthropicは、50人以上が殺される可能性がある場合、モデルをブロックする可能性のあるAI安全法案を提案しています",
-        "summaryJa": "この記事は「Anthropicは、50人以上が殺される可能性がある場合、モデルをブロックする可能性のあるAI安全法案を提案しています」を扱っています。提案されたポリシーは、AIの乱用に対する保護を提供しているように見えるが、実際には連邦政府機関が裁判官の許可なくモデルのリリースをブロックすることを禁止している。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "summaryJa": "この記事は「Anthropicは、50人以上が殺される可能性がある場合、モデルをブロックする可能性のあるAI安全法案を提案しています」を扱っています。提案された方針は、AIの狂乱に対する保護を提供しているように見えるが、実際には連邦政府機関が裁判官の許可なくモデルのリリースをブロックすることを禁止している。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
           "この記事は「Anthropicは、50人以上が殺される可能性がある場合、モデルをブロックする可能性のあるAI安全法案を提案しています」を扱っています。",
-          "提案されたポリシーは、AIの乱用に対する保護を提供しているように見えるが、実際には連邦政府機関が裁判官の許可なくモデルのリリースをブロックすることを禁止している。",
+          "提案された方針は、AIの狂乱に対する保護を提供しているように見えるが、実際には連邦政府機関が裁判官の許可なくモデルのリリースをブロックすることを禁止している。",
           "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       },
@@ -64,30 +64,10 @@
         ]
       },
       {
-        "title": "DeepInfer: High-performance inference framework for DeepSeek models",
-        "url": "https://github.com/deepseek-ai/DeepInfer",
-        "points": 101,
-        "comments": 846,
-        "author": "ggcr",
-        "createdAt": "2026-10-20T09:08:54Z",
-        "domain": "github.com",
-        "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "DeepInfer ： DeepSeekモデル用の高性能推論フレームワーク",
-        "summaryJa": "この記事は「DeepInfer ： DeepSeekモデル用の高性能推論フレームワーク」を扱っています。DeepInfer ： DeepSeekモデルのための高性能、大規模な推論フレームワーク- deepseek - ai/DeepInfer。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
-        "keyPoints": [
-          "この記事は「DeepInfer ： DeepSeekモデル用の高性能推論フレームワーク」を扱っています。",
-          "DeepInfer ： DeepSeekモデルのための高性能、大規模な推論フレームワーク- deepseek - ai/DeepInfer。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
-        ]
-      },
-      {
         "title": "Anthropic logged net loss of over $80B in first half of 2026",
         "url": "https://www.reuters.com/business/anthropic-recorded-net-loss-over-80-billion-first-half-this-year-wsj-reports-2026-10-20/",
         "points": 93,
-        "comments": 57,
+        "comments": 70,
         "author": "throwa356262",
         "createdAt": "2026-10-20T20:09:46Z",
         "domain": "reuters.com",
@@ -102,9 +82,29 @@
           "reuters.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
           "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
+      },
+      {
+        "title": "Show HN: Jev Cards, Can you beat a vision model at a picture quiz?",
+        "url": "https://jevcards.com",
+        "points": 85,
+        "comments": 50,
+        "author": "totisjosema",
+        "createdAt": "2026-10-20T15:11:56Z",
+        "domain": "jevcards.com",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "中",
+        "newsLens": "技術",
+        "titleJa": "HNさん： Jev Cardsさん、画像クイズでビジョンモデルを倒すことはできますか？",
+        "summaryJa": "この記事は「HNさん： Jev Cardsさん、画像クイズでビジョンモデルを倒すことはできますか？」を扱っています。私は、視覚機能を備えたTypeSafeの新しいJEVモデルを中心にクイズゲームを構築しました。Jevは写真と質問を見て、約4分の1秒で答えを選びます（または場所をタップします）。",
+        "keyPoints": [
+          "この記事は「HNさん： Jev Cardsさん、画像クイズでビジョンモデルを倒すことはできますか。",
+          "私は、視覚機能を備えたTypeSafeの新しいJEVモデルを中心にクイズゲームを構築しました。",
+          "Jevは写真と質問を見て、約4分の1秒で答えを選びます（または場所をタップします）。"
+        ]
       }
     ],
-    "fetchedAt": "2026-10-21T04:42:12.619Z",
+    "fetchedAt": "2026-10-21T11:44:38.512Z",
     "mock": false
   },
   "xTrends": {
@@ -116,39 +116,22 @@
         "appearances": 3,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-10-21T04:42:12.551Z",
+        "observedAt": "2026-10-21T11:44:38.414Z",
         "url": "https://x.com/search?q=AI%E4%BA%8B%E6%A5%AD&src=typed_query&f=live",
         "articleTitle": "AI事業",
         "articleTitleJa": "公開トレンド: AI事業",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-10-21T04:42:12.551Z",
+        "articlePublishedAt": "2026-10-21T11:44:38.414Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
-      },
-      {
-        "topic": "DeepSeek",
-        "locationLabel": "米国",
-        "bestRank": 21,
-        "appearances": 4,
-        "trendSource": "Trends24",
-        "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-10-21T04:42:12.506Z",
-        "url": "https://x.com/search?q=DeepSeek&src=typed_query&f=live",
-        "articleTitle": "DeepInfer: High-performance inference framework for DeepSeek models",
-        "articleTitleJa": "DeepInfer ： DeepSeekモデル用の高性能推論フレームワーク",
-        "articleUrl": "https://github.com/deepseek-ai/DeepInfer",
-        "articleSource": "github.com",
-        "articlePublishedAt": "2026-10-20T09:08:54Z",
-        "summaryJa": "DeepInfer ： DeepSeekモデルのための高性能、大規模な推論フレームワーク- deepseek - ai/DeepInfer",
-        "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-10-21T04:42:12.619Z",
+    "fetchedAt": "2026-10-21T11:44:38.512Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-10-21T04:42:15.349Z"
+    "articleFetchedAt": "2026-10-21T11:44:38.910Z"
   }
 }
