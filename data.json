@@ -2,52 +2,52 @@
   "news": {
     "items": [
       {
-        "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
-        "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
+        "title": "PHP Armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet",
+        "url": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/",
         "points": 133,
         "comments": 0,
         "author": "",
-        "createdAt": "2026-10-20T23:01:23.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
-        "category": "AIモデル",
-        "impact": "高",
-        "titleJa": "Anthropicは、50人以上が殺される可能性がある場合、モデルをブロックする可能性のあるAI安全法案を提案しています",
-        "summaryJa": "この記事は「Anthropicは、50人以上が殺される可能性がある場合、モデルをブロックする可能性のあるAI安全法案を提案しています」を扱っています。提案された方針は、AIの狂乱に対する保護を提供しているように見えるが、実際には連邦政府機関が裁判官の許可なくモデルのリリースをブロックすることを禁止している。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
-        "keyPoints": [
-          "この記事は「Anthropicは、50人以上が殺される可能性がある場合、モデルをブロックする可能性のあるAI安全法案を提案しています」を扱っています。",
-          "提案された方針は、AIの狂乱に対する保護を提供しているように見えるが、実際には連邦政府機関が裁判官の許可なくモデルのリリースをブロックすることを禁止している。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
-        ]
-      },
-      {
-        "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
-        "url": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
-        "points": 115,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-10-20T22:24:02.000Z",
+        "createdAt": "2026-10-21T17:59:12.000Z",
         "domain": "techcrunch.com",
         "sourceType": "rss",
         "sourceLabel": "TechCrunch AI",
         "newsLens": "一般",
         "category": "AIニュース",
         "impact": "高",
-        "titleJa": "Hugging Faceの最高経営責任者（ CEO ）は、NetflixのOpenAIハックドキュメンタリーが正確ではないと警告",
-        "summaryJa": "この記事は「Hugging Faceの最高経営責任者（ CEO ）は、NetflixのOpenAIハックドキュメンタリーが正確ではないと警告」を扱っています。Netflixのドキュメンタリー「AI Gone Rogue」を共有する前に、注意してください。映画でフィーチャーされているHugging Faceの共同創設者であるClem Delangueは、それが「フルドゥーマーモード」になり、正確ではないと言います。",
+        "titleJa": "PHPハルマゲドン： OpenAI、GoogleのWizが古代の穴を発見し、インターネットをパニックに陥れる",
+        "summaryJa": "この記事は「PHPハルマゲドン： OpenAI、GoogleのWizが古代の穴を発見し、インターネットをパニックに陥れる」を扱っています。これは、AIによって発見され予防されたセキュリティ問題の一種ですが、AIのためにリスクが高いこともあります。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
-          "この記事は「Hugging Faceの最高経営責任者（ CEO ）は、NetflixのOpenAIハックドキュメンタリーが正確ではないと警告」を扱っています。",
-          "Netflixのドキュメンタリー「AI Gone Rogue」を共有する前に、注意してください。",
-          "映画でフィーチャーされているHugging Faceの共同創設者であるClem Delangueは、それが「フルドゥーマーモード」になり、正確ではないと言います。"
+          "この記事は「PHPハルマゲドン： OpenAI、GoogleのWizが古代の穴を発見し、インターネットをパニックに陥れる」を扱っています。",
+          "これは、AIによって発見され予防されたセキュリティ問題の一種ですが、AIのためにリスクが高いこともあります。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+        ]
+      },
+      {
+        "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
+        "url": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
+        "points": 107,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-10-21T19:30:00.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
+        "category": "AIニュース",
+        "impact": "高",
+        "titleJa": "AmazonはAIエージェントをブロックしていますが、Walmartはウェルカムマットを展開しています",
+        "summaryJa": "この記事は「AmazonはAIエージェントをブロックしていますが、Walmartはウェルカムマットを展開しています」を扱っています。アマゾンがAIエージェントのサイトでのショッピングをブロックしているため、ウォルマートは逆のアプローチをとっており、AIエージェントが顧客に代わって購入することを可能にし、支出と取引承認を制御する新しい技術を導入しています。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "keyPoints": [
+          "この記事は「AmazonはAIエージェントをブロックしていますが、Walmartはウェルカムマットを展開しています」を扱っています。",
+          "アマゾンがAIエージェントのサイトでのショッピングをブロックしているため、ウォルマートは逆のアプローチをとっており、AIエージェントが顧客に代わって購入することを可能にし、支出と取引承認を制御する新しい技術を導入しています。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       },
       {
         "title": "Using thousands of AI agents to uncover new leads in biological data",
         "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/",
-        "points": 97,
-        "comments": 61,
+        "points": 101,
+        "comments": 86,
         "author": "raahelb",
         "createdAt": "2026-10-21T13:37:00Z",
         "domain": "openai.com",
@@ -64,30 +64,30 @@
         ]
       },
       {
-        "title": "Mistral Large 4",
-        "url": "https://mistral.ai/news/mistral-large-4/",
-        "points": 73,
-        "comments": 89,
-        "author": "funnym0nk3y",
-        "createdAt": "2026-10-21T19:20:55Z",
-        "domain": "mistral.ai",
+        "title": "Launch HN: Alter (YC S25) – Access control for multi-user agents",
+        "url": "https://alterauth.com/",
+        "points": 83,
+        "comments": 25,
+        "author": "simfinii",
+        "createdAt": "2026-10-21T06:42:12Z",
+        "domain": "alterauth.com",
         "sourceType": "hn",
         "category": "AIニュース",
-        "impact": "高",
+        "impact": "低",
         "newsLens": "技術",
-        "titleJa": "ミストラルラージ4",
-        "summaryJa": "この記事は「ミストラルラージ4」を扱っています。mistral.aiが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "titleJa": "HNを起動： ALTER （ YC S 25 ） –マルチユーザーエージェントのアクセス制御",
+        "summaryJa": "この記事は「HNを起動： ALTER （ YC S 25 ） –マルチユーザーエージェントのアクセス制御」を扱っています。私たちはAlterの創設者であるSrikarとKevanです– https://alterauth.com/。複数のユーザーに代わってアクションを実行できるエージェント向けのアクセス制御を構築しています。",
         "keyPoints": [
-          "この記事は「ミストラルラージ4」を扱っています。",
-          "mistral.aiが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+          "この記事は「HNを起動： ALTER （ YC S 25 ） –マルチユーザーエージェントのアクセス制御」を扱っています。",
+          "私たちはAlterの創設者であるSrikarとKevanです– https://alterauth.com/。",
+          "複数のユーザーに代わってアクションを実行できるエージェント向けのアクセス制御を構築しています。"
         ]
       },
       {
         "title": "Claude Duet",
         "url": "https://claude.com/product/claude-duet",
         "points": 73,
-        "comments": 169,
+        "comments": 300,
         "author": "kuberwastaken",
         "createdAt": "2026-10-21T19:14:01Z",
         "domain": "claude.com",
@@ -104,19 +104,19 @@
         ]
       }
     ],
-    "fetchedAt": "2026-10-21T21:40:05.412Z",
+    "fetchedAt": "2026-10-22T04:39:51.185Z",
     "mock": false
   },
   "xTrends": {
     "items": [
       {
         "topic": "Claude Duet",
-        "locationLabel": "米国",
+        "locationLabel": "日本",
         "bestRank": 9,
-        "appearances": 2,
+        "appearances": 6,
         "trendSource": "Trends24",
-        "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-10-21T21:40:05.317Z",
+        "sourceUrl": "https://trends24.in/japan/",
+        "observedAt": "2026-10-22T04:39:51.149Z",
         "url": "https://x.com/search?q=Claude%20Duet&src=typed_query&f=live",
         "articleTitle": "Claude Duet",
         "articleTitleJa": "Claude・デュエット",
@@ -125,12 +125,30 @@
         "articlePublishedAt": "2026-10-21T19:14:01Z",
         "summaryJa": "Claude Duetは、あなたがメッセージを送るパーソナルAIエージェントです。受信トレイ、カレンダー、フォローアップを処理し、必要なときにメッセージを送信します。調査待ちになります。",
         "translationVersion": 3
+      },
+      {
+        "topic": "OpenAIのAI",
+        "locationLabel": "日本",
+        "bestRank": 37,
+        "appearances": 2,
+        "trendSource": "Trends24",
+        "sourceUrl": "https://trends24.in/japan/",
+        "observedAt": "2026-10-22T04:39:51.149Z",
+        "url": "https://x.com/search?q=OpenAI%E3%81%AEAI&src=typed_query&f=live",
+        "articleTitle": "OpenAIのAI",
+        "articleTitleJa": "公開トレンド: OpenAIのAI",
+        "articleUrl": "https://trends24.in/japan/",
+        "articleSource": "Trends24",
+        "articlePublishedAt": "2026-10-22T04:39:51.149Z",
+        "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
+        "translationVersion": 3,
+        "articleFallback": true
       }
     ],
-    "fetchedAt": "2026-10-21T21:40:05.412Z",
+    "fetchedAt": "2026-10-22T04:39:51.185Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-10-21T21:40:08.366Z"
+    "articleFetchedAt": "2026-10-22T04:39:53.817Z"
   }
 }
