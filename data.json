@@ -46,14 +46,14 @@
       {
         "title": "Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?",
         "url": "https://news.ycombinator.com/item?id=50200997",
-        "points": 77,
-        "comments": 67,
+        "points": 93,
+        "comments": 188,
         "author": "ex-aws-dude",
         "createdAt": "2026-10-22T21:03:55Z",
         "domain": "news.ycombinator.com",
         "sourceType": "hn",
         "category": "AIモデル",
-        "impact": "中",
+        "impact": "高",
         "newsLens": "技術",
         "titleJa": "HNに尋ねる：モデルがそれほど優れているのであれば、なぜOpenAIは100社しか立ち上げていないのでしょうか？",
         "summaryJa": "この記事は「HNに尋ねる：モデルがそれほど優れているのであれば、なぜOpenAIは100社しか立ち上げていないのでしょうか？」を扱っています。タイトルは少し誇張されていますが、問題はそれ以上です。フロンティアモデルがそれほど優れているのであれば、なぜ主要なマネーメーカーとして売るのでしょうか？",
@@ -84,27 +84,27 @@
         ]
       },
       {
-        "title": "OpenAI CLI",
-        "url": "https://github.com/openai/openai-cli",
-        "points": 73,
-        "comments": 110,
-        "author": "armcat",
-        "createdAt": "2026-10-22T05:23:11Z",
-        "domain": "github.com",
+        "title": "The same AI request emits 8.5 times more CO2 in Texas than in Sweden",
+        "url": "https://berget.ai/en/blog/per-request-co2-press-release",
+        "points": 71,
+        "comments": 131,
+        "author": "jlundberg",
+        "createdAt": "2026-10-23T06:41:11Z",
+        "domain": "berget.ai",
         "sourceType": "hn",
         "category": "AIニュース",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "AIニュース: OpenAI CLI",
-        "summaryJa": "この記事は「OpenAI CLI」を扱っています。GitHubでアカウントを作成して、openai/openai - cli開発に貢献します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "titleJa": "同じAIリクエストは、テキサス州のCO 2排出量がスウェーデンの8.5倍",
+        "summaryJa": "この記事は「同じAIリクエストは、テキサス州のCO 2排出量がスウェーデンの8.5倍」を扱っています。スウェーデンのAIプロバイダーBerget AIは、SEI、WattTime、Klimatkollenの研究者と共に開発された、個々のAIリクエストごとの炭素排出量を計算するためのオープンソースの方法をリリースし、顧客はコンソールでリクエストごとの排出量を追跡できるようになりました。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
         "keyPoints": [
-          "この記事は「OpenAI CLI」を扱っています。",
-          "GitHubでアカウントを作成して、openai/openai - cli開発に貢献します。",
+          "この記事は「同じAIリクエストは、テキサス州のCO 2排出量がスウェーデンの8.5倍」を扱っています。",
+          "スウェーデンのAIプロバイダーBerget AIは、SEI、WattTime、Klimatkollenの研究者と共に開発された、個々のAIリクエストごとの炭素排出量を計算するためのオープンソースの方法をリリースし、顧客はコンソールでリクエストごとの排出量を追跡できるようになりました。",
           "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
       }
     ],
-    "fetchedAt": "2026-10-23T04:45:20.676Z",
+    "fetchedAt": "2026-10-23T11:34:37.657Z",
     "mock": false
   },
   "xTrends": {
@@ -116,39 +116,22 @@
         "appearances": 4,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-10-23T04:45:20.624Z",
+        "observedAt": "2026-10-23T11:34:37.621Z",
         "url": "https://x.com/search?q=%E3%83%91%E3%83%BC%E3%82%BD%E3%83%8A%E3%83%ABAI%E3%82%A8%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88&src=typed_query&f=live",
         "articleTitle": "パーソナルAIエージェント",
         "articleTitleJa": "公開トレンド: パーソナルAIエージェント",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-10-23T04:45:20.624Z",
+        "articlePublishedAt": "2026-10-23T11:34:37.621Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
-      },
-      {
-        "topic": "Claude Duet",
-        "locationLabel": "米国",
-        "bestRank": 45,
-        "appearances": 2,
-        "trendSource": "Trends24",
-        "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-10-23T04:45:20.569Z",
-        "url": "https://x.com/search?q=Claude%20Duet&src=typed_query&f=live",
-        "articleTitle": "Claude Duet",
-        "articleTitleJa": "Claude・デュエット",
-        "articleUrl": "https://claude.com/product/claude-duet",
-        "articleSource": "claude.com",
-        "articlePublishedAt": "2026-10-21T19:14:01Z",
-        "summaryJa": "Claude Duet は、メッセージを送信するパーソナル AI エージェントです。受信箱、カレンダー、フォローアップ、何か必要なことがあったときのメッセージを処理します。順番待ちリストに参加してください。",
-        "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-10-23T04:45:20.676Z",
+    "fetchedAt": "2026-10-23T11:34:37.657Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-10-23T04:45:25.290Z"
+    "articleFetchedAt": "2026-10-23T11:34:38.036Z"
   }
 }
