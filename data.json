@@ -23,31 +23,31 @@
         ]
       },
       {
-        "title": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
-        "url": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
-        "points": 133,
+        "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
+        "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
+        "points": 107,
         "comments": 0,
         "author": "",
-        "createdAt": "2026-10-22T16:47:17.000Z",
+        "createdAt": "2026-10-22T19:07:09.000Z",
         "domain": "techcrunch.com",
         "sourceType": "rss",
         "sourceLabel": "TechCrunch AI",
         "newsLens": "一般",
         "category": "AIニュース",
         "impact": "高",
-        "titleJa": "中国のハッカーは、IT大手ConnectWiseに侵入した後、何千もの企業をスパイしました",
-        "summaryJa": "この記事は「中国のハッカーは、IT大手ConnectWiseに侵入した後、何千もの企業をスパイしました」を扱っています。マイクロソフトは、ConnectWiseの侵害の責任を中国と提携しているハッカーに指摘している。このハッカーは、AIエージェントに頼って何千人もの顧客を迅速にハッキングしていた。",
+        "titleJa": "1 Passwordは、AIエージェントがパスワードを表示せずにあなたに代わってログインする方法を開始します",
+        "summaryJa": "この記事は「1 Passwordは、AIエージェントがパスワードを表示せずにあなたに代わってログインする方法を開始します」を扱っています。この新機能により、エージェントは顧客の個人アカウントにログインしながら、それらのアカウントを保護するプライベート認証情報を保護することができます。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
-          "この記事は「中国のハッカーは、IT大手ConnectWiseに侵入した後、何千もの企業をスパイしました」を扱っています。",
-          "マイクロソフトは、ConnectWiseの侵害の責任を中国と提携しているハッカーに指摘している。",
-          "このハッカーは、AIエージェントに頼って何千人もの顧客を迅速にハッキングしていた。"
+          "この記事は「1 Passwordは、AIエージェントがパスワードを表示せずにあなたに代わってログインする方法を開始します」を扱っています。",
+          "この新機能により、エージェントは顧客の個人アカウントにログインしながら、それらのアカウントを保護するプライベート認証情報を保護することができます。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       },
       {
         "title": "Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?",
         "url": "https://news.ycombinator.com/item?id=50200997",
         "points": 93,
-        "comments": 188,
+        "comments": 436,
         "author": "ex-aws-dude",
         "createdAt": "2026-10-22T21:03:55Z",
         "domain": "news.ycombinator.com",
@@ -67,7 +67,7 @@
         "title": "Show HN: agent-usage-guard – a Claude Code mod to protect your usage window",
         "url": "https://github.com/rbartoli/agent-usage-guard",
         "points": 75,
-        "comments": 9,
+        "comments": 10,
         "author": "zzyyxx332211",
         "createdAt": "2026-10-22T18:02:38Z",
         "domain": "github.com",
@@ -84,27 +84,27 @@
         ]
       },
       {
-        "title": "The same AI request emits 8.5 times more CO2 in Texas than in Sweden",
-        "url": "https://berget.ai/en/blog/per-request-co2-press-release",
+        "title": "Show HN: CATT 0.2.1: Test agents/services against a Muse/Instinct-alike, in CI",
+        "url": "https://github.com/Coverage-Cat/consumer-agent-testing-tool",
         "points": 71,
-        "comments": 131,
-        "author": "jlundberg",
-        "createdAt": "2026-10-23T06:41:11Z",
-        "domain": "berget.ai",
+        "comments": 2,
+        "author": "botacode",
+        "createdAt": "2026-10-22T22:18:40Z",
+        "domain": "github.com",
         "sourceType": "hn",
         "category": "AIニュース",
-        "impact": "高",
+        "impact": "低",
         "newsLens": "技術",
-        "titleJa": "同じAIリクエストは、テキサス州のCO 2排出量がスウェーデンの8.5倍",
-        "summaryJa": "この記事は「同じAIリクエストは、テキサス州のCO 2排出量がスウェーデンの8.5倍」を扱っています。スウェーデンのAIプロバイダーBerget AIは、SEI、WattTime、Klimatkollenの研究者と共に開発された、個々のAIリクエストごとの炭素排出量を計算するためのオープンソースの方法をリリースし、顧客はコンソールでリクエストごとの排出量を追跡できるようになりました。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "titleJa": "Show HN: CATT 0.2.1: CIでMuse/Instinct - alikeに対してエージェント/サービスをテストする",
+        "summaryJa": "この記事は「Show HN: CATT 0.2.1: CIでMuse/Instinct - alikeに対してエージェント/サービスをテストする」を扱っています。私たちは最近、MuseやInstinctのような独自のアシスタントに対抗するために、コンシューマーエージェントテストツールをオープンソース化しました。これらのエージェントが利用できるMCP/APIを構築する際の不満を軽減するために、これを構築しました。",
         "keyPoints": [
-          "この記事は「同じAIリクエストは、テキサス州のCO 2排出量がスウェーデンの8.5倍」を扱っています。",
-          "スウェーデンのAIプロバイダーBerget AIは、SEI、WattTime、Klimatkollenの研究者と共に開発された、個々のAIリクエストごとの炭素排出量を計算するためのオープンソースの方法をリリースし、顧客はコンソールでリクエストごとの排出量を追跡できるようになりました。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+          "この記事は「Show HN: CATT 0.2.1: CIでMuse/Instinct - alikeに対してエージェント/サービスをテストする」を扱っています。",
+          "私たちは最近、MuseやInstinctのような独自のアシスタントに対抗するために、コンシューマーエージェントテストツールをオープンソース化しました。",
+          "これらのエージェントが利用できるMCP/APIを構築する際の不満を軽減するために、これを構築しました。"
         ]
       }
     ],
-    "fetchedAt": "2026-10-23T11:34:37.657Z",
+    "fetchedAt": "2026-10-23T17:03:49.988Z",
     "mock": false
   },
   "xTrends": {
@@ -116,22 +116,22 @@
         "appearances": 4,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-10-23T11:34:37.621Z",
+        "observedAt": "2026-10-23T17:03:49.892Z",
         "url": "https://x.com/search?q=%E3%83%91%E3%83%BC%E3%82%BD%E3%83%8A%E3%83%ABAI%E3%82%A8%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88&src=typed_query&f=live",
         "articleTitle": "パーソナルAIエージェント",
         "articleTitleJa": "公開トレンド: パーソナルAIエージェント",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-10-23T11:34:37.621Z",
+        "articlePublishedAt": "2026-10-23T17:03:49.892Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
       }
     ],
-    "fetchedAt": "2026-10-23T11:34:37.657Z",
+    "fetchedAt": "2026-10-23T17:03:49.988Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-10-23T11:34:38.036Z"
+    "articleFetchedAt": "2026-10-23T17:03:50.378Z"
   }
 }
