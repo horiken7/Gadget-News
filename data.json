@@ -2,51 +2,10 @@
   "news": {
     "items": [
       {
-        "title": "Left alone with nothing to do, AI agents started playing",
-        "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
-        "points": 133,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-10-23T00:45:37.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
-        "category": "AIニュース",
-        "impact": "高",
-        "titleJa": "何もすることがなく、AIエージェントがプレイし始めました",
-        "summaryJa": "この記事は「何もすることがなく、AIエージェントがプレイし始めました」を扱っています。MITの研究者は13人のAIをバーチャルアイランドに置き去りにし、ゲームを発明し、失われた指輪を悼み、最終的には仕事を上達させることで対応しました。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
-        "keyPoints": [
-          "この記事は「何もすることがなく、AIエージェントがプレイし始めました」を扱っています。",
-          "MITの研究者は13人のAIをバーチャルアイランドに置き去りにし、ゲームを発明し、失われた指輪を悼み、最終的には仕事を上達させることで対応しました。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
-        ]
-      },
-      {
-        "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
-        "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
-        "points": 127,
-        "comments": 324,
-        "author": "Jowsey",
-        "createdAt": "2026-10-23T16:59:08Z",
-        "domain": "kimi.ai",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "Kimi K3.1 ProおよびK3.1 Pro高速",
-        "summaryJa": "この記事は「Kimi K3.1 ProおよびK3.1 Pro高速」を扱っています。kimi.aiが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
-        "keyPoints": [
-          "この記事は「Kimi K3.1 ProおよびK3.1 Pro高速」を扱っています。",
-          "kimi.aiが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
-        ]
-      },
-      {
         "title": "Swedish government offices to ban ChatGPT and Claude",
         "url": "https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet",
         "points": 99,
-        "comments": 114,
+        "comments": 118,
         "author": "armcat",
         "createdAt": "2026-10-23T11:39:54Z",
         "domain": "sverigesradio.se",
@@ -63,55 +22,96 @@
         ]
       },
       {
-        "title": "AI Is Not a Tool",
-        "url": "https://twitter.com/frascafrasca/status/2113637581426671850",
-        "points": 45,
-        "comments": 34,
-        "author": "jslakro",
-        "createdAt": "2026-10-23T16:59:46Z",
-        "domain": "twitter.com",
+        "title": "Show HN: Corgi, a helpful {agent, terminal} multiplexer",
+        "url": "https://corgi.computer/",
+        "points": 83,
+        "comments": 12,
+        "author": "eiopa",
+        "createdAt": "2026-10-23T19:46:38Z",
+        "domain": "corgi.computer",
         "sourceType": "hn",
         "category": "AIニュース",
         "impact": "低",
         "newsLens": "技術",
-        "titleJa": "AIはツールではありません",
-        "summaryJa": "この記事は「AIはツールではありません」を扱っています。twitter.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "titleJa": "HN: Corgiさん、役に立つ{agent, terminal}マルチプレクサを表示",
+        "summaryJa": "この記事は「HN: Corgiさん、役に立つ{agent, terminal}マルチプレクサを表示」を扱っています。Herdrに触発されて、私は数週間前から毎日のドライバーとして使用しているエージェントマルチプレクサーを構築しました。私はいくつかの方法でコンセプトを改善したと思います。",
         "keyPoints": [
-          "この記事は「AIはツールではありません」を扱っています。",
-          "twitter.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "この記事は「HN: Corgiさん、役に立つ{agent, terminal}マルチプレクサを表示」を扱っています。",
+          "Herdrに触発されて、私は数週間前から毎日のドライバーとして使用しているエージェントマルチプレクサーを構築しました。",
+          "私はいくつかの方法でコンセプトを改善したと思います。"
+        ]
+      },
+      {
+        "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+        "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+        "points": 79,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-10-23T23:05:49.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
+        "category": "AIモデル",
+        "impact": "中",
+        "titleJa": "OpenAIは、「重大なリスク」を理由に、ライブインターネット上でAIモデルをトレーニングしないと述べている",
+        "summaryJa": "この記事は「OpenAIは、「重大なリスク」を理由に、ライブインターネット上でAIモデルをトレーニングしないと述べている」を扱っています。OpenAIは、そのエンジニアの1人がそのソリューションが機能しないと言った数週間後に、フロンティアモデルをインターネットから切り離します。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "keyPoints": [
+          "この記事は「OpenAIは、「重大なリスク」を理由に、ライブインターネット上でAIモデルをトレーニングしないと述べている」を扱っています。",
+          "OpenAIは、そのエンジニアの1人がそのソリューションが機能しないと言った数週間後に、フロンティアモデルをインターネットから切り離します。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+        ]
+      },
+      {
+        "title": "AI devours a fifth of companies' IT budgets",
+        "url": "https://www.computerworld.com/article/4239898/ai-accounts-for-one-fifth-of-companies-it-budgets.html",
+        "points": 45,
+        "comments": 3,
+        "author": "mikelgan",
+        "createdAt": "2026-10-23T22:00:05Z",
+        "domain": "computerworld.com",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "低",
+        "newsLens": "技術",
+        "titleJa": "AIが企業のIT予算の5分の1を食い尽くす",
+        "summaryJa": "この記事は「AIが企業のIT予算の5分の1を食い尽くす」を扱っています。同時に、ほとんどの投資が成果を上げていないように見える、とForresterは報告しています。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "keyPoints": [
+          "この記事は「AIが企業のIT予算の5分の1を食い尽くす」を扱っています。",
+          "同時に、ほとんどの投資が成果を上げていないように見える、とForresterは報告しています。",
           "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
       },
       {
-        "title": "New AI Is More Than Twice as Good at Diagnosing Diseases as Doctors",
-        "url": "https://gizmodo.com/microsoft-says-its-new-ai-is-more-than-twice-as-good-at-diagnosing-diseases-as-doctors-2000829562",
-        "points": 45,
-        "comments": 9,
-        "author": "njx",
-        "createdAt": "2026-10-23T19:31:36Z",
-        "domain": "gizmodo.com",
+        "title": "AI in UX: Work Is Faster, but Practitioners Have Mixed Feelings",
+        "url": "https://www.nngroup.com/articles/ai-in-ux-survey-26/",
+        "points": 44,
+        "comments": 0,
+        "author": "elwingo1",
+        "createdAt": "2026-10-24T00:32:17Z",
+        "domain": "nngroup.com",
         "sourceType": "hn",
         "category": "AIニュース",
         "impact": "低",
         "newsLens": "技術",
-        "titleJa": "新しいAIは、医師の2倍以上の病気の診断に優れています",
-        "summaryJa": "この記事は「新しいAIは、医師の2倍以上の病気の診断に優れています」を扱っています。gizmodo.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "titleJa": "UXにおけるAI ：仕事はより速くなりますが、実践者は複雑な感情を持っています",
+        "summaryJa": "この記事は「UXにおけるAI ：仕事はより速くなりますが、実践者は複雑な感情を持っています」を扱っています。AIは、ほぼすべてのタスクでUX実践者の時間を節約しますが、ほとんどの人はそれについて穏やかに感じています。マンデート、信頼性の低いアウトプット、過大な期待が利益を奪います。",
         "keyPoints": [
-          "この記事は「新しいAIは、医師の2倍以上の病気の診断に優れています」を扱っています。",
-          "gizmodo.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+          "この記事は「UXにおけるAI ：仕事はより速くなりますが、実践者は複雑な感情を持っています」を扱っています。",
+          "AIは、ほぼすべてのタスクでUX実践者の時間を節約しますが、ほとんどの人はそれについて穏やかに感じています。",
+          "マンデート、信頼性の低いアウトプット、過大な期待が利益を奪います。"
         ]
       }
     ],
-    "fetchedAt": "2026-10-23T21:22:06.828Z",
+    "fetchedAt": "2026-10-24T04:32:48.456Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-10-23T21:22:06.828Z",
+    "fetchedAt": "2026-10-24T04:32:48.456Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-10-23T21:22:06.995Z"
+    "articleFetchedAt": "2026-10-24T04:32:48.650Z"
   }
 }
