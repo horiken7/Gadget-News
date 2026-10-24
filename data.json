@@ -44,75 +44,75 @@
         ]
       },
       {
-        "title": "Show HN: Corgi, a helpful {agent, terminal} multiplexer",
-        "url": "https://corgi.computer/",
-        "points": 98,
-        "comments": 32,
-        "author": "eiopa",
-        "createdAt": "2026-10-23T19:46:38Z",
-        "domain": "corgi.computer",
+        "title": "Why is AI generated language so hard to understand?",
+        "url": "https://arxiv.org/abs/2610.29162",
+        "points": 83,
+        "comments": 74,
+        "author": "canjobear",
+        "createdAt": "2026-10-24T18:04:57Z",
+        "domain": "arxiv.org",
         "sourceType": "hn",
         "category": "AIニュース",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "HN: Corgiさん、役に立つ{agent, terminal}マルチプレクサを表示",
-        "summaryJa": "この記事は「HN: Corgiさん、役に立つ{agent, terminal}マルチプレクサを表示」を扱っています。Herdrに触発されて、私は数週間前から毎日のドライバーとして使用しているエージェントマルチプレクサーを構築しました。私はいくつかの方法でコンセプトを改善したと思います。",
+        "titleJa": "AI生成された言語が理解しにくいのはなぜですか？",
+        "summaryJa": "この記事は「AI生成された言語が理解しにくいのはなぜですか？」を扱っています。ArXiv論文2610.29162のアブストラクトページ： AI生成言語が理解しにくいのはなぜですか？技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
         "keyPoints": [
-          "この記事は「HN: Corgiさん、役に立つ{agent, terminal}マルチプレクサを表示」を扱っています。",
-          "Herdrに触発されて、私は数週間前から毎日のドライバーとして使用しているエージェントマルチプレクサーを構築しました。",
-          "私はいくつかの方法でコンセプトを改善したと思います。"
+          "この記事は「AI生成された言語が理解しにくいのはなぜですか。",
+          "ArXiv論文2610.29162のアブストラクトページ： AI生成言語が理解しにくいのはなぜですか。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
       },
       {
-        "title": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-        "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/",
-        "points": 87,
-        "comments": 26,
-        "author": "TangerineDream",
-        "createdAt": "2026-10-24T11:18:54Z",
-        "domain": "torrentfreak.com",
-        "sourceType": "hn",
-        "category": "研究",
-        "impact": "中",
-        "newsLens": "技術",
-        "titleJa": "Z - LibraryのAI支援論文が存在しないTorrentFreakの記事を引用",
-        "summaryJa": "この記事は「Z - LibraryのAI支援論文が存在しないTorrentFreakの記事を引用」を扱っています。Z - Libraryに関する新鮮な学術論文では、存在しないTorrentFreakの記事が引用されており、論文の他のいくつかの情報源も見つけられません。著者らは、何が起こっているのかを説明する可能性のあるAIツールを使用したことを開示しています。",
-        "keyPoints": [
-          "この記事は「Z - LibraryのAI支援論文が存在しないTorrentFreakの記事を引用」を扱っています。",
-          "Z - Libraryに関する新鮮な学術論文では、存在しないTorrentFreakの記事が引用されており、論文の他のいくつかの情報源も見つけられません。",
-          "著者らは、何が起こっているのかを説明する可能性のあるAIツールを使用したことを開示しています。"
-        ]
-      },
-      {
-        "title": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
-        "url": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/",
+        "title": "No Signs of AI Payoff Outside the Tech Sector",
+        "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
         "points": 73,
-        "comments": 136,
-        "author": "testing22321",
-        "createdAt": "2026-10-24T05:49:57Z",
-        "domain": "reddit.com",
+        "comments": 109,
+        "author": "the-mitr",
+        "createdAt": "2026-10-24T19:47:19Z",
+        "domain": "apollo.com",
         "sourceType": "hn",
         "category": "AIニュース",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "ハッカーがSamsung TVを逆転させ、オンボードAIリスニングOpenAIアカウントが一時停止されていることがわかりました",
-        "summaryJa": "この記事は「ハッカーがSamsung TVを逆転させ、オンボードAIリスニングOpenAIアカウントが一時停止されていることがわかりました」を扱っています。reddit.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "titleJa": "テクノロジーセクター外でのAIの利益の兆候はない",
+        "summaryJa": "この記事は「テクノロジーセクター外でのAIの利益の兆候はない」を扱っています。大規模な投資と人工知能をめぐる広範な誇大宣伝にもかかわらず、この技術はテクノロジー以外の米国企業に財政的な利益をもたらしていません。デイリーアップデートを購読しましょう。",
         "keyPoints": [
-          "この記事は「ハッカーがSamsung TVを逆転させ、オンボードAIリスニングOpenAIアカウントが一時停止されていることがわかりました」を扱っています。",
-          "reddit.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "この記事は「テクノロジーセクター外でのAIの利益の兆候はない」を扱っています。",
+          "大規模な投資と人工知能をめぐる広範な誇大宣伝にもかかわらず、この技術はテクノロジー以外の米国企業に財政的な利益をもたらしていません。",
+          "デイリーアップデートを購読しましょう。"
+        ]
+      },
+      {
+        "title": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
+        "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups/",
+        "points": 46,
+        "comments": 15,
+        "author": "tokepi",
+        "createdAt": "2026-10-24T15:35:17Z",
+        "domain": "terrytao.wordpress.com",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "低",
+        "newsLens": "技術",
+        "titleJa": "Oai - math - revised ： OpenAIの数学論文を改訂するためのコミュニティハブ",
+        "summaryJa": "この記事は「Oai - math - revised ： OpenAIの数学論文を改訂するためのコミュニティハブ」を扱っています。] OpenAIの数学の書き込みは理解しにくく、不完全である可能性があります…。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "keyPoints": [
+          "この記事は「Oai - math - revised ： OpenAIの数学論文を改訂するためのコミュニティハブ」を扱っています。",
+          "] OpenAIの数学の書き込みは理解しにくく、不完全である可能性があります…。",
           "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
       }
     ],
-    "fetchedAt": "2026-10-24T15:54:35.331Z",
+    "fetchedAt": "2026-10-24T20:45:47.421Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-10-24T15:54:35.331Z",
+    "fetchedAt": "2026-10-24T20:45:47.421Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-10-24T15:54:35.465Z"
+    "articleFetchedAt": "2026-10-24T20:45:47.563Z"
   }
 }
