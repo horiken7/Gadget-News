@@ -2,51 +2,52 @@
   "news": {
     "items": [
       {
-        "title": "What to know about AI - detected Internet security bug",
-        "url": "https://jamaica-gleaner.com/article/news/20261024/what-know-about-ai-detected-internet-security-bug",
-        "points": 107,
+        "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+        "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+        "points": 133,
         "comments": 0,
         "author": "",
-        "createdAt": "2026-10-24T10:30:00Z",
-        "domain": "jamaica-gleaner.com",
-        "sourceType": "gdelt",
-        "sourceLabel": "GDELT",
-        "category": "AIニュース",
-        "impact": "高",
+        "createdAt": "2026-10-24T15:00:00.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
         "newsLens": "一般",
-        "titleJa": "AIについて知っておくべきこと-検出されたインターネットセキュリティバグ",
-        "summaryJa": "この記事は「AIについて知っておくべきこと-検出されたインターネットセキュリティバグ」を扱っています。AP ：インターネットのバックボーンとして知られている言語は、現在、専門家が最近の記憶の中で最も顕著な脆弱性の1つと呼ぶものの影響を受けています。PHPは、Web開発に向けて広く使用されている汎用スクリプト言語であるため、世界中のほとんどのWebサイトに使用されています。",
+        "category": "AIモデル",
+        "impact": "高",
+        "titleJa": "選ぶことを余儀なくされたGrokのAIモデルは、共和党員を選ぶ。OpenAIは民主党を選ぶ。",
+        "summaryJa": "この記事は「選ぶことを余儀なくされたGrokのAIモデルは、共和党員を選ぶ。OpenAIは民主党を選ぶ。」を扱っています。新しい調査によると、GrokのAIは共和党の候補者を圧倒的に推薦しているが、OpenAIのGPTは民主党に有利であり、2つのAIモデルは約500回の選挙の90 ％以上で意見が一致していない。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
-          "この記事は「AIについて知っておくべきこと-検出されたインターネットセキュリティバグ」を扱っています。",
-          "AP ：インターネットのバックボーンとして知られている言語は、現在、専門家が最近の記憶の中で最も顕著な脆弱性の1つと呼ぶものの影響を受けています。",
-          "PHPは、Web開発に向けて広く使用されている汎用スクリプト言語であるため、世界中のほとんどのWebサイトに使用されています。"
+          "この記事は「選ぶことを余儀なくされたGrokのAIモデルは、共和党員を選ぶ。",
+          "OpenAIは民主党を選ぶ。",
+          "新しい調査によると、GrokのAIは共和党の候補者を圧倒的に推薦しているが、OpenAIのGPTは民主党に有利であり、2つのAIモデルは約500回の選挙の90 ％以上で意見が一致していない。"
         ]
       },
       {
-        "title": "Swedish government offices to ban ChatGPT and Claude",
-        "url": "https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet",
-        "points": 99,
-        "comments": 119,
-        "author": "armcat",
-        "createdAt": "2026-10-23T11:39:54Z",
-        "domain": "sverigesradio.se",
-        "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "高",
+        "title": "Here are the top AI agents that can live in your text messages",
+        "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
+        "points": 107,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-10-24T14:00:00.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
         "newsLens": "一般",
-        "titleJa": "スウェーデンの官公庁がChatGPTとClaudeを禁止",
-        "summaryJa": "この記事は「スウェーデンの官公庁がChatGPTとClaudeを禁止」を扱っています。sverigesradio.seが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "category": "AIニュース",
+        "impact": "高",
+        "titleJa": "あなたのテキストメッセージに存在することができる上位のAIエージェントは次のとおりです",
+        "summaryJa": "この記事は「あなたのテキストメッセージに存在することができる上位のAIエージェントは次のとおりです」を扱っています。一般アシスタントから、家族、旅行、仕事用に設計されたエージェントまで、テキストメッセージに存在できる最も注目すべきAIエージェントのリストを作成しました。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
-          "この記事は「スウェーデンの官公庁がChatGPTとClaudeを禁止」を扱っています。",
-          "sverigesradio.seが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "この記事は「あなたのテキストメッセージに存在することができる上位のAIエージェントは次のとおりです」を扱っています。",
+          "一般アシスタントから、家族、旅行、仕事用に設計されたエージェントまで、テキストメッセージに存在できる最も注目すべきAIエージェントのリストを作成しました。",
           "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       },
       {
         "title": "Show HN: Corgi, a helpful {agent, terminal} multiplexer",
         "url": "https://corgi.computer/",
-        "points": 91,
-        "comments": 23,
+        "points": 98,
+        "comments": 32,
         "author": "eiopa",
         "createdAt": "2026-10-23T19:46:38Z",
         "domain": "corgi.computer",
@@ -63,10 +64,30 @@
         ]
       },
       {
+        "title": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+        "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/",
+        "points": 87,
+        "comments": 26,
+        "author": "TangerineDream",
+        "createdAt": "2026-10-24T11:18:54Z",
+        "domain": "torrentfreak.com",
+        "sourceType": "hn",
+        "category": "研究",
+        "impact": "中",
+        "newsLens": "技術",
+        "titleJa": "Z - LibraryのAI支援論文が存在しないTorrentFreakの記事を引用",
+        "summaryJa": "この記事は「Z - LibraryのAI支援論文が存在しないTorrentFreakの記事を引用」を扱っています。Z - Libraryに関する新鮮な学術論文では、存在しないTorrentFreakの記事が引用されており、論文の他のいくつかの情報源も見つけられません。著者らは、何が起こっているのかを説明する可能性のあるAIツールを使用したことを開示しています。",
+        "keyPoints": [
+          "この記事は「Z - LibraryのAI支援論文が存在しないTorrentFreakの記事を引用」を扱っています。",
+          "Z - Libraryに関する新鮮な学術論文では、存在しないTorrentFreakの記事が引用されており、論文の他のいくつかの情報源も見つけられません。",
+          "著者らは、何が起こっているのかを説明する可能性のあるAIツールを使用したことを開示しています。"
+        ]
+      },
+      {
         "title": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
         "url": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/",
         "points": 73,
-        "comments": 37,
+        "comments": 136,
         "author": "testing22321",
         "createdAt": "2026-10-24T05:49:57Z",
         "domain": "reddit.com",
@@ -81,37 +102,17 @@
           "reddit.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
           "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
-      },
-      {
-        "title": "Meta says if its AI makes a mistake, it will legally be the customer's fault",
-        "url": "https://www.cio.com/article/4237395/metas-new-enterprise-contract-says-if-its-ai-makes-a-mistake-it-will-legally-be-the-customers-fault.html",
-        "points": 45,
-        "comments": 7,
-        "author": "wyclif",
-        "createdAt": "2026-10-24T03:00:43Z",
-        "domain": "cio.com",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "低",
-        "newsLens": "技術",
-        "titleJa": "Metaは、AIが間違いを犯した場合、法的には顧客の責任になると述べています",
-        "summaryJa": "この記事は「Metaは、AIが間違いを犯した場合、法的には顧客の責任になると述べています」を扱っています。10月30日に発効する予定の新しい規約は、顧客がパートナーから使用するコンテンツに企業の責任を拡大します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
-        "keyPoints": [
-          "この記事は「Metaは、AIが間違いを犯した場合、法的には顧客の責任になると述べています」を扱っています。",
-          "10月30日に発効する予定の新しい規約は、顧客がパートナーから使用するコンテンツに企業の責任を拡大します。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
-        ]
       }
     ],
-    "fetchedAt": "2026-10-24T10:54:55.947Z",
+    "fetchedAt": "2026-10-24T15:54:35.331Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-10-24T10:54:55.947Z",
+    "fetchedAt": "2026-10-24T15:54:35.331Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-10-24T10:54:56.082Z"
+    "articleFetchedAt": "2026-10-24T15:54:35.465Z"
   }
 }
