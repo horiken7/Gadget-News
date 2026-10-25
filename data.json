@@ -4,8 +4,8 @@
       {
         "title": "Show HN: Hurston-1 open source TTS that speak Southern American and Afro-English",
         "url": "https://huggingface.co/destined/hurston-1",
-        "points": 94,
-        "comments": 7,
+        "points": 98,
+        "comments": 12,
         "author": "Gcarter08",
         "createdAt": "2026-10-25T01:30:13Z",
         "domain": "huggingface.co",
@@ -19,6 +19,47 @@
           "この記事は「HNを表示：南米とアフロ英語を話すHurston -1オープンソースTTS」を扱っています。",
           "こんにちは、Hurston -1ナローバンドTTSモデル（ Apache-2.0 ）をオープンソース化しています。",
           "アメリカ英語に非常に適しており、特に南アメリカや地域のアフリカ英語のアクセントに適しています。"
+        ]
+      },
+      {
+        "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+        "url": "https://minimaxir.com/2026/10/cheap-llms/",
+        "points": 82,
+        "comments": 68,
+        "author": "minimaxir",
+        "createdAt": "2026-10-25T21:11:31Z",
+        "domain": "minimaxir.com",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "低",
+        "newsLens": "技術",
+        "titleJa": "OpenAIとAnthropicは、数ヶ月以内にLLMの価格を最大80 ％引き下げました。なぜですか？",
+        "summaryJa": "この記事は「OpenAIとAnthropicは、数ヶ月以内にLLMの価格を最大80 ％引き下げました。なぜですか？」を扱っています。「トークンの真のコスト」とは何ですか？技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "keyPoints": [
+          "この記事は「OpenAIとAnthropicは、数ヶ月以内にLLMの価格を最大80 ％引き下げました。",
+          "「トークンの真のコスト」とは何ですか。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+        ]
+      },
+      {
+        "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+        "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+        "points": 79,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-10-25T21:31:16.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
+        "category": "AIニュース",
+        "impact": "中",
+        "titleJa": "Grok、AIが生成した「Odyssey」の最初の7分間をリリース",
+        "summaryJa": "この記事は「Grok、AIが生成した「Odyssey」の最初の7分間をリリース」を扱っています。芸術性、インスピレーション、または人間の興味を求めていない限り、映像は問題ありません。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "keyPoints": [
+          "この記事は「Grok、AIが生成した「Odyssey」の最初の7分間をリリース」を扱っています。",
+          "芸術性、インスピレーション、または人間の興味を求めていない限り、映像は問題ありません。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       },
       {
@@ -43,47 +84,6 @@
         ]
       },
       {
-        "title": "The hottest AI wearables and gadgets you should know about",
-        "url": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
-        "points": 79,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-10-25T14:10:00.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
-        "category": "AIニュース",
-        "impact": "中",
-        "titleJa": "知っておくべき最もホットなAIウェアラブルとガジェット",
-        "summaryJa": "この記事は「知っておくべき最もホットなAIウェアラブルとガジェット」を扱っています。Muse Charm、Bee、Friend、Plaudなど、最も人気のあるAIウェアラブルのリストをまとめました。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
-        "keyPoints": [
-          "この記事は「知っておくべき最もホットなAIウェアラブルとガジェット」を扱っています。",
-          "Muse Charm、Bee、Friend、Plaudなど、最も人気のあるAIウェアラブルのリストをまとめました。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
-        ]
-      },
-      {
-        "title": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
-        "url": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
-        "points": 73,
-        "comments": 222,
-        "author": "romanhn",
-        "createdAt": "2026-10-25T16:28:26Z",
-        "domain": "dailycal.org",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "AIの使用により、カリフォルニア大学バークレー校の数学教授は、宿題の採点に「意味がない」と見なす",
-        "summaryJa": "この記事は「AIの使用により、カリフォルニア大学バークレー校の数学教授は、宿題の採点に「意味がない」と見なす」を扱っています。カリフォルニア大学バークレー校の教授であり、フィールズのメダリストでもあるリチャード・ボーチャーズは、もはや学生の宿題を評価していません。何人の生徒がAIを使用して一貫して最高得点を獲得したかを見た後、彼は。",
-        "keyPoints": [
-          "この記事は「AIの使用により、カリフォルニア大学バークレー校の数学教授は、宿題の採点に「意味がない」と見なす」を扱っています。",
-          "カリフォルニア大学バークレー校の教授であり、フィールズのメダリストでもあるリチャード・ボーチャーズは、もはや学生の宿題を評価していません。",
-          "何人の生徒がAIを使用して一貫して最高得点を獲得したかを見た後、彼は。"
-        ]
-      },
-      {
         "title": "Jukebox-OS: Deterministic time-travel replay and ACID tool sandbox for AI agents",
         "url": "https://github.com/socrates6969/jukebox-os",
         "points": 72,
@@ -104,15 +104,15 @@
         ]
       }
     ],
-    "fetchedAt": "2026-10-25T20:48:14.480Z",
+    "fetchedAt": "2026-10-25T23:14:49.341Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-10-25T20:48:14.480Z",
+    "fetchedAt": "2026-10-25T23:14:49.341Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-10-25T20:48:14.629Z"
+    "articleFetchedAt": "2026-10-25T23:14:49.618Z"
   }
 }
