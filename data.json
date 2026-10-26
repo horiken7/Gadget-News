@@ -5,7 +5,7 @@
         "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
         "url": "https://minimaxir.com/2026/10/cheap-llms/",
         "points": 101,
-        "comments": 243,
+        "comments": 347,
         "author": "minimaxir",
         "createdAt": "2026-10-25T21:11:31Z",
         "domain": "minimaxir.com",
@@ -64,55 +64,55 @@
         ]
       },
       {
-        "title": "Apollo says AI has delivered 'zero financial payoff' outside the tech industry",
-        "url": "https://www.businessinsider.com/apollo-ai-zero-financial-payoff-corporate-america-economic-analysis-2026-10",
-        "points": 72,
-        "comments": 26,
-        "author": "levzettelin",
-        "createdAt": "2026-10-25T22:49:06Z",
-        "domain": "businessinsider.com",
+        "title": "Show HN: A 3D mesh playground for coding agents (three.js + manifold-3d)",
+        "url": "https://sketchagent.dev/s/yfYU6LhT",
+        "points": 70,
+        "comments": 2,
+        "author": "wsxiaoys",
+        "createdAt": "2026-10-26T00:02:39Z",
+        "domain": "sketchagent.dev",
         "sourceType": "hn",
         "category": "AIニュース",
         "impact": "低",
         "newsLens": "技術",
-        "titleJa": "Apolloは、AIがハイテク業界以外で「財務的な利益をゼロにした」と述べています",
-        "summaryJa": "この記事は「Apolloは、AIがハイテク業界以外で「財務的な利益をゼロにした」と述べています」を扱っています。Apollo Global Managementによると、AIブームから成長しているのはハイテク企業だけだという。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "titleJa": "Show HN ：コーディングエージェント用の3 Dメッシュプレイグラウンド（ three.js + manifold -3 d ）",
+        "summaryJa": "この記事は「Show HN ：コーディングエージェント用の3 Dメッシュプレイグラウンド（ three.js + manifold -3 d ）」を扱っています。GPT -6/Geminiが最近発売されたとき、3 Dデモの多くはblender - mcp （ https://github.com/ahujasid/blender-mcp ）を使用していました。かっこいいですが、プロンプトを試したり、実行を共有したりするには、ミキサーをローカルにインストールし、プラグインを配線する必要があります。",
         "keyPoints": [
-          "この記事は「Apolloは、AIがハイテク業界以外で「財務的な利益をゼロにした」と述べています」を扱っています。",
-          "Apollo Global Managementによると、AIブームから成長しているのはハイテク企業だけだという。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+          "この記事は「Show HN ：コーディングエージェント用の3 Dメッシュプレイグラウンド（ three.js + manifold -3 d ）」を扱っています。",
+          "GPT -6/Geminiが最近発売されたとき、3 Dデモの多くはblender - mcp （ https://github.com/ahujasid/blender-mcp ）を使用していました。",
+          "かっこいいですが、プロンプトを試したり、実行を共有したりするには、ミキサーをローカルにインストールし、プラグインを配線する必要があります。"
         ]
       },
       {
-        "title": "Jukebox-OS: Deterministic time-travel replay and ACID tool sandbox for AI agents",
-        "url": "https://github.com/socrates6969/jukebox-os",
-        "points": 72,
-        "comments": 0,
-        "author": "mariuscarlsson",
-        "createdAt": "2026-10-25T16:29:46Z",
-        "domain": "github.com",
+        "title": "Anthropic sued for allegedly using 274 Elvis Presley songs to train AI models",
+        "url": "https://www.theguardian.com/us-news/2026/oct/25/elvis-presley-anthropic-lawsuit-ai-models-music",
+        "points": 63,
+        "comments": 3,
+        "author": "pseudolus",
+        "createdAt": "2026-10-26T03:04:17Z",
+        "domain": "theguardian.com",
         "sourceType": "hn",
-        "category": "AIニュース",
+        "category": "AIモデル",
         "impact": "低",
         "newsLens": "技術",
-        "titleJa": "Jukebox - OS ： AIエージェントのための決定論的なタイムトラベルリプレイとACIDツールサンドボックス",
-        "summaryJa": "この記事は「Jukebox - OS ： AIエージェントのための決定論的なタイムトラベルリプレイとACIDツールサンドボックス」を扱っています。🍒🔮 JUKEBOX - OS ：マルチエージェントシステム用の決定論的フライトレコーダー、コピーオンライトACIDツールサンドボックス＆タイムトラベルランタイム（ Rust + Python ） - socrates 6969/jukebox - os。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "titleJa": "Anthropicは、AIモデルを訓練するために274曲のエルビス・プレスリーの曲を使用した疑いで訴えられた",
+        "summaryJa": "この記事は「Anthropicは、AIモデルを訓練するために274曲のエルビス・プレスリーの曲を使用した疑いで訴えられた」を扱っています。オーセンティック・ブランズ・グループ（ Authentic Brands Group ）は、AI企業が「Can 't Help Falling in Love」などの国王による曲の権利を侵害したと述べている。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
         "keyPoints": [
-          "この記事は「Jukebox - OS ： AIエージェントのための決定論的なタイムトラベルリプレイとACIDツールサンドボックス」を扱っています。",
-          "🍒🔮 JUKEBOX - OS ：マルチエージェントシステム用の決定論的フライトレコーダー、コピーオンライトACIDツールサンドボックス＆タイムトラベルランタイム（ Rust + Python ） - socrates 6969/jukebox - os。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+          "この記事は「Anthropicは、AIモデルを訓練するために274曲のエルビス・プレスリーの曲を使用した疑いで訴えられた」を扱っています。",
+          "オーセンティック・ブランズ・グループ（ Authentic Brands Group ）は、AI企業が「Can 't Help Falling in Love」などの国王による曲の権利を侵害したと述べている。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
       }
     ],
-    "fetchedAt": "2026-10-26T04:42:21.437Z",
+    "fetchedAt": "2026-10-26T12:56:19.763Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-10-26T04:42:21.437Z",
+    "fetchedAt": "2026-10-26T12:56:19.763Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-10-26T04:42:21.577Z"
+    "articleFetchedAt": "2026-10-26T12:56:19.935Z"
   }
 }
