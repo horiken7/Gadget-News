@@ -2,36 +2,16 @@
   "news": {
     "items": [
       {
-        "title": "Show HN: Hurston-1 open source TTS that speak Southern American and Afro-English",
-        "url": "https://huggingface.co/destined/hurston-1",
-        "points": 98,
-        "comments": 12,
-        "author": "Gcarter08",
-        "createdAt": "2026-10-25T01:30:13Z",
-        "domain": "huggingface.co",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "低",
-        "newsLens": "技術",
-        "titleJa": "HNを表示：南米とアフロ英語を話すHurston -1オープンソースTTS",
-        "summaryJa": "この記事は「HNを表示：南米とアフロ英語を話すHurston -1オープンソースTTS」を扱っています。こんにちは、Hurston -1ナローバンドTTSモデル（ Apache-2.0 ）をオープンソース化しています。アメリカ英語に非常に適しており、特に南アメリカや地域のアフリカ英語のアクセントに適しています。",
-        "keyPoints": [
-          "この記事は「HNを表示：南米とアフロ英語を話すHurston -1オープンソースTTS」を扱っています。",
-          "こんにちは、Hurston -1ナローバンドTTSモデル（ Apache-2.0 ）をオープンソース化しています。",
-          "アメリカ英語に非常に適しており、特に南アメリカや地域のアフリカ英語のアクセントに適しています。"
-        ]
-      },
-      {
         "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
         "url": "https://minimaxir.com/2026/10/cheap-llms/",
-        "points": 82,
-        "comments": 68,
+        "points": 101,
+        "comments": 243,
         "author": "minimaxir",
         "createdAt": "2026-10-25T21:11:31Z",
         "domain": "minimaxir.com",
         "sourceType": "hn",
         "category": "AIモデル",
-        "impact": "低",
+        "impact": "高",
         "newsLens": "技術",
         "titleJa": "OpenAIとAnthropicは、数ヶ月以内にLLMの価格を最大80 ％引き下げました。なぜですか？",
         "summaryJa": "この記事は「OpenAIとAnthropicは、数ヶ月以内にLLMの価格を最大80 ％引き下げました。なぜですか？」を扱っています。「トークンの真のコスト」とは何ですか？技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
@@ -84,6 +64,26 @@
         ]
       },
       {
+        "title": "Apollo says AI has delivered 'zero financial payoff' outside the tech industry",
+        "url": "https://www.businessinsider.com/apollo-ai-zero-financial-payoff-corporate-america-economic-analysis-2026-10",
+        "points": 72,
+        "comments": 26,
+        "author": "levzettelin",
+        "createdAt": "2026-10-25T22:49:06Z",
+        "domain": "businessinsider.com",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "低",
+        "newsLens": "技術",
+        "titleJa": "Apolloは、AIがハイテク業界以外で「財務的な利益をゼロにした」と述べています",
+        "summaryJa": "この記事は「Apolloは、AIがハイテク業界以外で「財務的な利益をゼロにした」と述べています」を扱っています。Apollo Global Managementによると、AIブームから成長しているのはハイテク企業だけだという。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "keyPoints": [
+          "この記事は「Apolloは、AIがハイテク業界以外で「財務的な利益をゼロにした」と述べています」を扱っています。",
+          "Apollo Global Managementによると、AIブームから成長しているのはハイテク企業だけだという。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+        ]
+      },
+      {
         "title": "Jukebox-OS: Deterministic time-travel replay and ACID tool sandbox for AI agents",
         "url": "https://github.com/socrates6969/jukebox-os",
         "points": 72,
@@ -104,15 +104,15 @@
         ]
       }
     ],
-    "fetchedAt": "2026-10-25T23:14:49.341Z",
+    "fetchedAt": "2026-10-26T04:42:21.437Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-10-25T23:14:49.341Z",
+    "fetchedAt": "2026-10-26T04:42:21.437Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-10-25T23:14:49.618Z"
+    "articleFetchedAt": "2026-10-26T04:42:21.577Z"
   }
 }
