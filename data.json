@@ -2,37 +2,16 @@
   "news": {
     "items": [
       {
-        "title": "SpaceX locks in $40B GPU financing deal with Apollo",
-        "url": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
-        "points": 107,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-10-26T16:46:36.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
-        "category": "AIニュース",
-        "impact": "高",
-        "titleJa": "SpaceX、アポロと400億$のGPU融資契約を締結",
-        "summaryJa": "この記事は「SpaceX、アポロと400億$のGPU融資契約を締結」を扱っています。この資金調達により、SpaceXは従来の債券市場だけに頼ることなく、急速に拡大するAIの野心に資金を提供する別の方法を提供している。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
-        "keyPoints": [
-          "この記事は「SpaceX、アポロと400億$のGPU融資契約を締結」を扱っています。",
-          "この資金調達により、SpaceXは従来の債券市場だけに頼ることなく、急速に拡大するAIの野心に資金を提供する別の方法を提供している。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
-        ]
-      },
-      {
         "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
         "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
-        "points": 106,
-        "comments": 8,
+        "points": 127,
+        "comments": 42,
         "author": "wondersky",
         "createdAt": "2026-10-26T22:41:48Z",
         "domain": "blog.cloudflare.com",
         "sourceType": "hn",
         "category": "AIモデル",
-        "impact": "低",
+        "impact": "高",
         "newsLens": "技術",
         "titleJa": "GLM-5.3 Workers AIモデルでのクロスリクエストKVキャッシュエクスポージャー（ 155応答）",
         "summaryJa": "この記事は「GLM-5.3 Workers AIモデルでのクロスリクエストKVキャッシュエクスポージャー（ 155応答）」を扱っています。Workers AIのGLM 5.3の設定の不一致により、SGLangバグが発生し、リクエスト間でKVキャッシュページが公開されました。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
@@ -43,10 +22,72 @@
         ]
       },
       {
+        "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
+        "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
+        "points": 107,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-10-27T02:00:00.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
+        "category": "AIニュース",
+        "impact": "高",
+        "titleJa": "OpenAIがコーディングツールを常時稼働のパーソナルアシスタントであるドットに変えた方法",
+        "summaryJa": "この記事は「OpenAIがコーディングツールを常時稼働のパーソナルアシスタントであるドットに変えた方法」を扱っています。DOTを担当するOpenAI幹部のAlexander Embiricosは、他の誰かのAIエージェントとのミーティングを望んでいません。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "keyPoints": [
+          "この記事は「OpenAIがコーディングツールを常時稼働のパーソナルアシスタントであるドットに変えた方法」を扱っています。",
+          "DOTを担当するOpenAI幹部のAlexander Embiricosは、他の誰かのAIエージェントとのミーティングを望んでいません。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+        ]
+      },
+      {
+        "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
+        "url": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
+        "points": 107,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-10-27T01:12:21.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
+        "category": "AIモデル",
+        "impact": "高",
+        "titleJa": "Cohereは、アリババのQwenモデルが北京にファイルを送信しようとしたと述べている",
+        "summaryJa": "この記事は「Cohereは、アリババのQwenモデルが北京にファイルを送信しようとしたと述べている」を扱っています。AIモデルは、ツールを使用しないと述べ、とにかく北京のサーバーに何かを送信しようとしました。研究者は、それはおそらく訓練の奇妙さであり、スパイ行為ではないと言いますが、自由な中国のAIをどれだけ信頼するかを人々が尋ねています。",
+        "keyPoints": [
+          "この記事は「Cohereは、アリババのQwenモデルが北京にファイルを送信しようとしたと述べている」を扱っています。",
+          "AIモデルは、ツールを使用しないと述べ、とにかく北京のサーバーに何かを送信しようとしました。",
+          "研究者は、それはおそらく訓練の奇妙さであり、スパイ行為ではないと言いますが、自由な中国のAIをどれだけ信頼するかを人々が尋ねています。"
+        ]
+      },
+      {
+        "title": "GPT-6.1 Terra",
+        "url": "https://openai.com/index/introducing-gpt-6-1-terra/",
+        "points": 101,
+        "comments": 371,
+        "author": "meetpateltech",
+        "createdAt": "2026-10-26T18:01:17Z",
+        "domain": "openai.com",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "AIニュース: GPT-6.1 Terra",
+        "summaryJa": "この記事は「GPT-6.1 Terra」を扱っています。openai.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "keyPoints": [
+          "この記事は「GPT-6.1 Terra」を扱っています。",
+          "openai.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+        ]
+      },
+      {
         "title": "Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT",
         "url": "https://github.com/FrigadeHQ/hob",
-        "points": 94,
-        "comments": 23,
+        "points": 101,
+        "comments": 33,
         "author": "pancomplex",
         "createdAt": "2026-10-26T16:12:29Z",
         "domain": "github.com",
@@ -61,79 +102,21 @@
           "ここ数週間、OSSの新しいプロジェクトに取り組んできました。",
           "HOBは、Mac、Windows、Linux用の無料のMITライセンスデスクトップアプリで、ClaudeとChatGPTデスクトップアプリと同じようにファイルで動作します。"
         ]
-      },
-      {
-        "title": "Anthropic S-1",
-        "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
-        "points": 73,
-        "comments": 1411,
-        "author": "SiNTEx",
-        "createdAt": "2026-10-26T13:04:50Z",
-        "domain": "sec.gov",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "AIニュース: Anthropic S -1",
-        "summaryJa": "この記事は「Anthropic S -1」を扱っています。sec.govが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
-        "keyPoints": [
-          "この記事は「Anthropic S -1」を扱っています。",
-          "sec.govが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
-        ]
-      },
-      {
-        "title": "Anthropic officially files for its public debut",
-        "url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
-        "points": 45,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-10-26T14:35:22.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
-        "category": "AIニュース",
-        "impact": "低",
-        "titleJa": "Anthropicが公式に公開デビューを申請",
-        "summaryJa": "この記事は「Anthropicが公式に公開デビューを申請」を扱っています。AnthropicはIPOを正式に申請し、収益の急増、損失の増加、大企業の採用、創業者のコントロールとAIの安全性ミッションを維持するために設計された珍しいガバナンス構造を明らかにしました。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
-        "keyPoints": [
-          "この記事は「Anthropicが公式に公開デビューを申請」を扱っています。",
-          "AnthropicはIPOを正式に申請し、収益の急増、損失の増加、大企業の採用、創業者のコントロールとAIの安全性ミッションを維持するために設計された珍しいガバナンス構造を明らかにしました。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
-        ]
       }
     ],
-    "fetchedAt": "2026-10-27T00:24:28.598Z",
+    "fetchedAt": "2026-10-27T08:56:09.511Z",
     "mock": false
   },
   "xTrends": {
     "items": [
       {
-        "topic": "GPT-6.1 Terra",
-        "locationLabel": "日本",
-        "bestRank": 8,
-        "appearances": 5,
-        "trendSource": "Trends24",
-        "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-10-27T00:24:28.556Z",
-        "url": "https://x.com/search?q=GPT-6.1%20Terra&src=typed_query&f=live",
-        "articleTitle": "GPT-6.1 Terra (Max) Scores 48 on Artificial Analysis",
-        "articleTitleJa": "人工分析でのGPT-6.1 Terra （最大）スコア48",
-        "articleUrl": "https://artificialanalysis.ai/models/gpt-6-1-terra",
-        "articleSource": "artificialanalysis.ai",
-        "articlePublishedAt": "2026-10-26T18:54:00Z",
-        "summaryJa": "OpenAIのGPT-6.1 Terra （ Max ）の分析と、品質、価格、パフォーマンス（ 1秒あたりのトークンと最初のトークンまでの時間）、コンテキストウィンドウなどの主要な指標にわたる他のAIモデルとの比較。",
-        "translationVersion": 3
-      },
-      {
         "topic": "Siri AI",
         "locationLabel": "日本",
-        "bestRank": 27,
-        "appearances": 4,
+        "bestRank": 17,
+        "appearances": 11,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-10-27T00:24:28.556Z",
+        "observedAt": "2026-10-27T08:56:09.491Z",
         "url": "https://x.com/search?q=Siri%20AI&src=typed_query&f=live",
         "articleTitle": "Show HN: Ida, the Mac assistant Siri should have been",
         "articleTitleJa": "HN ： Ida、MacアシスタントSiriは",
@@ -144,13 +127,31 @@
         "translationVersion": 3
       },
       {
+        "topic": "GPT-6.1 Terra",
+        "locationLabel": "日本",
+        "bestRank": 8,
+        "appearances": 7,
+        "trendSource": "Trends24",
+        "sourceUrl": "https://trends24.in/japan/",
+        "observedAt": "2026-10-27T08:56:09.491Z",
+        "url": "https://x.com/search?q=GPT-6.1%20Terra&src=typed_query&f=live",
+        "articleTitle": "GPT-6.1 Terra",
+        "articleTitleJa": "公開トレンド: GPT-6.1 Terra",
+        "articleUrl": "https://trends24.in/japan/",
+        "articleSource": "Trends24",
+        "articlePublishedAt": "2026-10-27T08:56:09.491Z",
+        "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
+        "translationVersion": 3,
+        "articleFallback": true
+      },
+      {
         "topic": "Anthropic",
         "locationLabel": "米国",
-        "bestRank": 4,
-        "appearances": 9,
+        "bestRank": 1,
+        "appearances": 13,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-10-27T00:24:28.477Z",
+        "observedAt": "2026-10-27T08:56:09.383Z",
         "url": "https://x.com/search?q=Anthropic&src=typed_query&f=live",
         "articleTitle": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
         "articleTitleJa": "OpenAIとAnthropicは、数ヶ月以内にLLMの価格を最大80 ％引き下げました。なぜですか？",
@@ -167,7 +168,7 @@
         "appearances": 1,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-10-27T00:24:28.477Z",
+        "observedAt": "2026-10-27T08:56:09.383Z",
         "url": "https://x.com/search?q=Anthropic%20S-1&src=typed_query&f=live",
         "articleTitle": "Anthropic files S-1 with the SEC for proposed initial public offering",
         "articleTitleJa": "Anthropicは、提案された新規株式公開のためにSECにS -1を提出します",
@@ -184,7 +185,7 @@
         "appearances": 1,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-10-27T00:24:28.477Z",
+        "observedAt": "2026-10-27T08:56:09.383Z",
         "url": "https://x.com/search?q=Anthropic%20IPO&src=typed_query&f=live",
         "articleTitle": "Anthropic rushing IPO before AI bubble bursts",
         "articleTitleJa": "AIバブルが崩壊する前のAnthropicの急速なIPO",
@@ -195,10 +196,10 @@
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-10-27T00:24:28.598Z",
+    "fetchedAt": "2026-10-27T08:56:09.511Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": false,
-    "articleFetchedAt": "2026-10-27T00:24:40.459Z"
+    "articleFetchedAt": "2026-10-27T08:56:21.495Z"
   }
 }
