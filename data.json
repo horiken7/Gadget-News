@@ -5,7 +5,7 @@
         "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
         "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
         "points": 127,
-        "comments": 42,
+        "comments": 66,
         "author": "wondersky",
         "createdAt": "2026-10-26T22:41:48Z",
         "domain": "blog.cloudflare.com",
@@ -19,6 +19,27 @@
           "この記事は「GLM-5.3 Workers AIモデルでのクロスリクエストKVキャッシュエクスポージャー（ 155応答）」を扱っています。",
           "Workers AIのGLM 5.3の設定の不一致により、SGLangバグが発生し、リクエスト間でKVキャッシュページが公開されました。",
           "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+        ]
+      },
+      {
+        "title": "General Compute raises $100 million Series A, countering the neocloud disaster narrative",
+        "url": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/",
+        "points": 107,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-10-27T13:00:00.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
+        "category": "AIニュース",
+        "impact": "高",
+        "titleJa": "General ComputeがシリーズAで1億$を調達、ネオクラウド災害に対抗",
+        "summaryJa": "この記事は「General ComputeがシリーズAで1億$を調達、ネオクラウド災害に対抗」を扱っています。General Computeは、Nvidiaエコシステムの外部からの推論チップに賭けています。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "keyPoints": [
+          "この記事は「General ComputeがシリーズAで1億$を調達、ネオクラウド災害に対抗」を扱っています。",
+          "General Computeは、Nvidiaエコシステムの外部からの推論チップに賭けています。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       },
       {
@@ -43,31 +64,10 @@
         ]
       },
       {
-        "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
-        "url": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
-        "points": 107,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-10-27T01:12:21.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
-        "category": "AIモデル",
-        "impact": "高",
-        "titleJa": "Cohereは、アリババのQwenモデルが北京にファイルを送信しようとしたと述べている",
-        "summaryJa": "この記事は「Cohereは、アリババのQwenモデルが北京にファイルを送信しようとしたと述べている」を扱っています。AIモデルは、ツールを使用しないと述べ、とにかく北京のサーバーに何かを送信しようとしました。研究者は、それはおそらく訓練の奇妙さであり、スパイ行為ではないと言いますが、自由な中国のAIをどれだけ信頼するかを人々が尋ねています。",
-        "keyPoints": [
-          "この記事は「Cohereは、アリババのQwenモデルが北京にファイルを送信しようとしたと述べている」を扱っています。",
-          "AIモデルは、ツールを使用しないと述べ、とにかく北京のサーバーに何かを送信しようとしました。",
-          "研究者は、それはおそらく訓練の奇妙さであり、スパイ行為ではないと言いますが、自由な中国のAIをどれだけ信頼するかを人々が尋ねています。"
-        ]
-      },
-      {
         "title": "GPT-6.1 Terra",
         "url": "https://openai.com/index/introducing-gpt-6-1-terra/",
         "points": 101,
-        "comments": 371,
+        "comments": 388,
         "author": "meetpateltech",
         "createdAt": "2026-10-26T18:01:17Z",
         "domain": "openai.com",
@@ -87,7 +87,7 @@
         "title": "Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT",
         "url": "https://github.com/FrigadeHQ/hob",
         "points": 101,
-        "comments": 33,
+        "comments": 35,
         "author": "pancomplex",
         "createdAt": "2026-10-26T16:12:29Z",
         "domain": "github.com",
@@ -104,7 +104,7 @@
         ]
       }
     ],
-    "fetchedAt": "2026-10-27T08:56:09.511Z",
+    "fetchedAt": "2026-10-27T15:20:02.652Z",
     "mock": false
   },
   "xTrends": {
@@ -113,33 +113,33 @@
         "topic": "Siri AI",
         "locationLabel": "日本",
         "bestRank": 17,
-        "appearances": 11,
+        "appearances": 10,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-10-27T08:56:09.491Z",
+        "observedAt": "2026-10-27T15:20:02.583Z",
         "url": "https://x.com/search?q=Siri%20AI&src=typed_query&f=live",
-        "articleTitle": "Show HN: Ida, the Mac assistant Siri should have been",
-        "articleTitleJa": "HN ： Ida、MacアシスタントSiriは",
-        "articleUrl": "https://www.heyida.ai/",
-        "articleSource": "heyida.ai",
-        "articlePublishedAt": "2026-10-21T01:55:02Z",
-        "summaryJa": "こんにちは、HNです。Franciscoと申します。私はここ数ヶ月間、10年前にSiriが約束したものを構築してきました。私はそれをアイダと呼んでいます。IdaはネイティブのmacOS音声アシスタントです。ショートカットを保持し、好きなことを言い、手放すと、Idaは接続されているアプリでそれを行います。重要なことをする前に、何をしようとしているのかを示し、あなたを待っています。画面の上部に静かに配置され、ノッチに組み込まれています。無料で公開されています",
+        "articleTitle": "Apple releases iOS and macOS 27.2 with new Siri AI features, new Music logo",
+        "articleTitleJa": "Apple、新しいSiri AI機能と新しい音楽ロゴを備えたiOSとmacOS 27.2をリリース",
+        "articleUrl": "https://arstechnica.com/apple/2026/10/apple-releases-ios-and-macos-27-2-with-new-siri-ai-features-new-music-logo/",
+        "articleSource": "arstechnica.com",
+        "articlePublishedAt": "2026-10-27T12:00:37Z",
+        "summaryJa": "Siriが直接アクセスできるアプリケーションを制限する機能が含まれています。",
         "translationVersion": 3
       },
       {
         "topic": "GPT-6.1 Terra",
         "locationLabel": "日本",
-        "bestRank": 8,
-        "appearances": 7,
+        "bestRank": 10,
+        "appearances": 6,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-10-27T08:56:09.491Z",
+        "observedAt": "2026-10-27T15:20:02.583Z",
         "url": "https://x.com/search?q=GPT-6.1%20Terra&src=typed_query&f=live",
         "articleTitle": "GPT-6.1 Terra",
         "articleTitleJa": "公開トレンド: GPT-6.1 Terra",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-10-27T08:56:09.491Z",
+        "articlePublishedAt": "2026-10-27T15:20:02.583Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -147,11 +147,11 @@
       {
         "topic": "Anthropic",
         "locationLabel": "米国",
-        "bestRank": 1,
-        "appearances": 13,
+        "bestRank": 10,
+        "appearances": 17,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-10-27T08:56:09.383Z",
+        "observedAt": "2026-10-27T15:20:02.463Z",
         "url": "https://x.com/search?q=Anthropic&src=typed_query&f=live",
         "articleTitle": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
         "articleTitleJa": "OpenAIとAnthropicは、数ヶ月以内にLLMの価格を最大80 ％引き下げました。なぜですか？",
@@ -160,46 +160,12 @@
         "articlePublishedAt": "2026-10-25T21:11:31Z",
         "summaryJa": "「トークンの真のコスト」とは何ですか？",
         "translationVersion": 3
-      },
-      {
-        "topic": "Anthropic S-1",
-        "locationLabel": "米国",
-        "bestRank": 9,
-        "appearances": 1,
-        "trendSource": "Trends24",
-        "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-10-27T08:56:09.383Z",
-        "url": "https://x.com/search?q=Anthropic%20S-1&src=typed_query&f=live",
-        "articleTitle": "Anthropic files S-1 with the SEC for proposed initial public offering",
-        "articleTitleJa": "Anthropicは、提案された新規株式公開のためにSECにS -1を提出します",
-        "articleUrl": "https://www.anthropic.com/news/s1-sec",
-        "articleSource": "anthropic.com",
-        "articlePublishedAt": "2026-10-26T13:06:35Z",
-        "summaryJa": "Anthropicは、信頼性が高く、解釈可能で、操縦可能なAIシステムの構築に取り組んでいるAI安全調査会社です。",
-        "translationVersion": 3
-      },
-      {
-        "topic": "Anthropic IPO",
-        "locationLabel": "米国",
-        "bestRank": 27,
-        "appearances": 1,
-        "trendSource": "Trends24",
-        "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-10-27T08:56:09.383Z",
-        "url": "https://x.com/search?q=Anthropic%20IPO&src=typed_query&f=live",
-        "articleTitle": "Anthropic rushing IPO before AI bubble bursts",
-        "articleTitleJa": "AIバブルが崩壊する前のAnthropicの急速なIPO",
-        "articleUrl": "https://nypost.com/2026/10/23/business/wall-street-is-urging-anthropic-openai-to-do-their-ipos-in-a-hurry-heres-why/",
-        "articleSource": "nypost.com",
-        "articlePublishedAt": "2026-10-26T13:30:05Z",
-        "summaryJa": "ウォール街はAnthropicとOpenAIに対し、大ヒットIPOを遅くとも早期に開始する方が良いと語っている。On The Moneyは、AIバブルのリスクをはるかに超えていることを学んだ。",
-        "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-10-27T08:56:09.511Z",
+    "fetchedAt": "2026-10-27T15:20:02.652Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
-    "partial": false,
-    "articleFetchedAt": "2026-10-27T08:56:21.495Z"
+    "partial": true,
+    "articleFetchedAt": "2026-10-27T15:20:09.694Z"
   }
 }
