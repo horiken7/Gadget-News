@@ -47,7 +47,7 @@
         "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
         "url": "https://www.brangus.io/survival-llm",
         "points": 101,
-        "comments": 120,
+        "comments": 149,
         "author": "Luc",
         "createdAt": "2026-10-27T19:55:06Z",
         "domain": "brangus.io",
@@ -67,7 +67,7 @@
         "title": "Anthropic trained Claude on illegally obtained Stanford professors' books",
         "url": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/",
         "points": 73,
-        "comments": 269,
+        "comments": 277,
         "author": "car",
         "createdAt": "2026-10-27T15:28:26Z",
         "domain": "stanforddaily.com",
@@ -87,7 +87,7 @@
         "title": "Early progress on accelerating drug development with Claude",
         "url": "https://www.anthropic.com/research/early-progress-drug-development",
         "points": 73,
-        "comments": 167,
+        "comments": 247,
         "author": "dataking",
         "createdAt": "2026-10-27T20:50:42Z",
         "domain": "anthropic.com",
@@ -104,7 +104,7 @@
         ]
       }
     ],
-    "fetchedAt": "2026-10-28T05:37:40.997Z",
+    "fetchedAt": "2026-10-28T12:48:39.521Z",
     "mock": false
   },
   "xTrends": {
@@ -116,56 +116,21 @@
         "appearances": 6,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-10-28T05:37:20.720Z",
+        "observedAt": "2026-10-28T12:48:39.398Z",
         "url": "https://x.com/search?q=Artificial%20Intelligence&src=typed_query&f=live",
         "articleTitle": "US President says he will ban the term 'artificial intelligence'",
-        "articleTitleJa": "アメリカ大統領、「人工知能」という用語を禁止すると発言",
+        "articleTitleJa": "米国大統領は、「人工知能」という用語を禁止すると述べている",
         "articleUrl": "https://thehill.com/homenews/administration/6175633-trump-bans-artificial-intelligence-term/",
         "articleSource": "thehill.com",
         "articlePublishedAt": "2026-10-27T19:11:31Z",
-        "summaryJa": "トランプ大統領は火曜日、「人工知能」という用語を禁止し、「スーパーインテリジェンス」という用語を使用すると発表した。",
-        "translationVersion": 3
-      },
-      {
-        "topic": "GPT-6.1 Terra",
-        "locationLabel": "米国",
-        "bestRank": 32,
-        "appearances": 2,
-        "trendSource": "Trends24",
-        "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-10-28T05:37:20.720Z",
-        "url": "https://x.com/search?q=GPT-6.1%20Terra&src=typed_query&f=live",
-        "articleTitle": "GPT-6.1 Terra",
-        "articleTitleJa": "公開トレンド: GPT-6.1 Terra",
-        "articleUrl": "https://trends24.in/united-states/",
-        "articleSource": "Trends24",
-        "articlePublishedAt": "2026-10-28T05:37:20.720Z",
-        "summaryJa": "米国のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
-        "translationVersion": 3,
-        "articleFallback": true
-      },
-      {
-        "topic": "Anthropic",
-        "locationLabel": "豪州",
-        "bestRank": 48,
-        "appearances": 2,
-        "trendSource": "Trends24",
-        "sourceUrl": "https://trends24.in/australia/",
-        "observedAt": "2026-10-28T05:37:20.689Z",
-        "url": "https://x.com/search?q=Anthropic&src=typed_query&f=live",
-        "articleTitle": "Anthropic trained Claude on illegally obtained Stanford professors' books",
-        "articleTitleJa": "不法に入手したスタンフォード大学教授の書籍でAnthropic学の訓練を受けたClaude",
-        "articleUrl": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/",
-        "articleSource": "stanforddaily.com",
-        "articlePublishedAt": "2026-10-27T15:28:26Z",
-        "summaryJa": "この AI 企業は、15 億ドルの著作権和解で少なくとも 10 人のスタンフォード大学の学者の著作物を著作権侵害しました。",
+        "summaryJa": "トランプ大統領は火曜日、「スーパーインテリジェンス」を支持して「人工知能」という用語を禁止すると述べた。",
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-10-28T05:37:40.997Z",
+    "fetchedAt": "2026-10-28T12:48:39.521Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-10-28T05:37:48.532Z"
+    "articleFetchedAt": "2026-10-28T12:48:42.332Z"
   }
 }
