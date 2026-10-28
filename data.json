@@ -46,8 +46,8 @@
       {
         "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
         "url": "https://www.brangus.io/survival-llm",
-        "points": 93,
-        "comments": 61,
+        "points": 101,
+        "comments": 120,
         "author": "Luc",
         "createdAt": "2026-10-27T19:55:06Z",
         "domain": "brangus.io",
@@ -64,30 +64,10 @@
         ]
       },
       {
-        "title": "There are now 5 inference providers for abliterated DeepSeek",
-        "url": "https://allmodels.io/llm/abliterated",
-        "points": 92,
-        "comments": 118,
-        "author": "moeadham",
-        "createdAt": "2026-10-27T04:53:52Z",
-        "domain": "allmodels.io",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "現在、除去されたDeepSeekのための5つの推論プロバイダーがあります",
-        "summaryJa": "この記事は「現在、除去されたDeepSeekのための5つの推論プロバイダーがあります」を扱っています。自動フォールバック、モダリティ対応の選択、可用性とトークン価格を比較するための1か所で、プロバイダー間で消去された言語モデルをルーティングします。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
-        "keyPoints": [
-          "この記事は「現在、除去されたDeepSeekのための5つの推論プロバイダーがあります」を扱っています。",
-          "自動フォールバック、モダリティ対応の選択、可用性とトークン価格を比較するための1か所で、プロバイダー間で消去された言語モデルをルーティングします。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
-        ]
-      },
-      {
         "title": "Anthropic trained Claude on illegally obtained Stanford professors' books",
         "url": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/",
         "points": 73,
-        "comments": 206,
+        "comments": 269,
         "author": "car",
         "createdAt": "2026-10-27T15:28:26Z",
         "domain": "stanforddaily.com",
@@ -102,61 +82,64 @@
           "このAI企業は、15億$の著作権和解で、少なくとも10人のスタンフォード大学の研究者の作品を著作権侵害した。",
           "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
+      },
+      {
+        "title": "Early progress on accelerating drug development with Claude",
+        "url": "https://www.anthropic.com/research/early-progress-drug-development",
+        "points": 73,
+        "comments": 167,
+        "author": "dataking",
+        "createdAt": "2026-10-27T20:50:42Z",
+        "domain": "anthropic.com",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "Claudeとの医薬品開発の加速に関する初期の進展",
+        "summaryJa": "この記事は「Claudeとの医薬品開発の加速に関する初期の進展」を扱っています。過去数か月にわたり、私たちは6つの組織と提携し、病気の治癒を加速させてきました。また、希少な小児型の筋ジストロフィーのためのプログラムなど、独自の創薬活動も開始しています。",
+        "keyPoints": [
+          "この記事は「Claudeとの医薬品開発の加速に関する初期の進展」を扱っています。",
+          "過去数か月にわたり、私たちは6つの組織と提携し、病気の治癒を加速させてきました。",
+          "また、希少な小児型の筋ジストロフィーのためのプログラムなど、独自の創薬活動も開始しています。"
+        ]
       }
     ],
-    "fetchedAt": "2026-10-27T22:10:44.873Z",
+    "fetchedAt": "2026-10-28T05:37:40.997Z",
     "mock": false
   },
   "xTrends": {
     "items": [
       {
-        "topic": "Siri AI",
-        "locationLabel": "日本",
-        "bestRank": 44,
-        "appearances": 2,
-        "trendSource": "Trends24",
-        "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-10-27T22:10:44.805Z",
-        "url": "https://x.com/search?q=Siri%20AI&src=typed_query&f=live",
-        "articleTitle": "Apple releases iOS and macOS 27.2 with new Siri AI features, new Music logo",
-        "articleTitleJa": "Apple、新しいSiri AI機能と新しい音楽ロゴを備えたiOSとmacOS 27.2をリリース",
-        "articleUrl": "https://arstechnica.com/apple/2026/10/apple-releases-ios-and-macos-27-2-with-new-siri-ai-features-new-music-logo/",
-        "articleSource": "arstechnica.com",
-        "articlePublishedAt": "2026-10-27T12:00:37Z",
-        "summaryJa": "Siriが直接アクセスできるアプリケーションを制限する機能が含まれています。",
-        "translationVersion": 3
-      },
-      {
         "topic": "Artificial Intelligence",
         "locationLabel": "米国",
         "bestRank": 9,
-        "appearances": 4,
+        "appearances": 6,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-10-27T22:10:44.696Z",
+        "observedAt": "2026-10-28T05:37:20.720Z",
         "url": "https://x.com/search?q=Artificial%20Intelligence&src=typed_query&f=live",
-        "articleTitle": "Trump says he will ban everyone from using the phrase 'artificial intelligence'",
-        "articleTitleJa": "トランプ大統領は、「人工知能」という言葉を誰もが使用することを禁止すると述べている",
-        "articleUrl": "https://www.independent.co.uk/news/world/americas/us-politics/trump-ban-artificial-intelligence-phrase-b3074397.html",
-        "articleSource": "independent.co.uk",
-        "articlePublishedAt": "2026-10-27T18:33:47Z",
-        "summaryJa": "トランプ大統領は、「人工知能」を「スーパーインテリジェンス」に改名する動きを次のレベルに引き上げた",
+        "articleTitle": "US President says he will ban the term 'artificial intelligence'",
+        "articleTitleJa": "アメリカ大統領、「人工知能」という用語を禁止すると発言",
+        "articleUrl": "https://thehill.com/homenews/administration/6175633-trump-bans-artificial-intelligence-term/",
+        "articleSource": "thehill.com",
+        "articlePublishedAt": "2026-10-27T19:11:31Z",
+        "summaryJa": "トランプ大統領は火曜日、「人工知能」という用語を禁止し、「スーパーインテリジェンス」という用語を使用すると発表した。",
         "translationVersion": 3
       },
       {
         "topic": "GPT-6.1 Terra",
         "locationLabel": "米国",
         "bestRank": 32,
-        "appearances": 3,
+        "appearances": 2,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-10-27T22:10:44.696Z",
+        "observedAt": "2026-10-28T05:37:20.720Z",
         "url": "https://x.com/search?q=GPT-6.1%20Terra&src=typed_query&f=live",
         "articleTitle": "GPT-6.1 Terra",
         "articleTitleJa": "公開トレンド: GPT-6.1 Terra",
         "articleUrl": "https://trends24.in/united-states/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-10-27T22:10:44.696Z",
+        "articlePublishedAt": "2026-10-28T05:37:20.720Z",
         "summaryJa": "米国のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -164,25 +147,25 @@
       {
         "topic": "Anthropic",
         "locationLabel": "豪州",
-        "bestRank": 15,
-        "appearances": 11,
+        "bestRank": 48,
+        "appearances": 2,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/australia/",
-        "observedAt": "2026-10-27T22:10:44.769Z",
+        "observedAt": "2026-10-28T05:37:20.689Z",
         "url": "https://x.com/search?q=Anthropic&src=typed_query&f=live",
-        "articleTitle": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
-        "articleTitleJa": "OpenAIとAnthropicは、数ヶ月以内にLLMの価格を最大80 ％引き下げました。なぜですか？",
-        "articleUrl": "https://minimaxir.com/2026/10/cheap-llms/",
-        "articleSource": "minimaxir.com",
-        "articlePublishedAt": "2026-10-25T21:11:31Z",
-        "summaryJa": "「トークンの真のコスト」とは何ですか？",
+        "articleTitle": "Anthropic trained Claude on illegally obtained Stanford professors' books",
+        "articleTitleJa": "不法に入手したスタンフォード大学教授の書籍でAnthropic学の訓練を受けたClaude",
+        "articleUrl": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/",
+        "articleSource": "stanforddaily.com",
+        "articlePublishedAt": "2026-10-27T15:28:26Z",
+        "summaryJa": "この AI 企業は、15 億ドルの著作権和解で少なくとも 10 人のスタンフォード大学の学者の著作物を著作権侵害しました。",
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-10-27T22:10:44.873Z",
+    "fetchedAt": "2026-10-28T05:37:40.997Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-10-27T22:10:53.380Z"
+    "articleFetchedAt": "2026-10-28T05:37:48.532Z"
   }
 }
