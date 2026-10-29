@@ -2,6 +2,26 @@
   "news": {
     "items": [
       {
+        "title": "MicroZig to Adopt Strict No LLM / No AI Policy",
+        "url": "https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md",
+        "points": 108,
+        "comments": 68,
+        "author": "paaloeye",
+        "createdAt": "2026-10-29T00:30:37Z",
+        "domain": "github.com",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "低",
+        "newsLens": "技術",
+        "titleJa": "MicroZigが厳格なLLMなし/AIなしポリシーを採用",
+        "summaryJa": "この記事は「MicroZigが厳格なLLMなし/AIなしポリシーを採用」を扱っています。MicroZigは、Zigで組み込みアプリケーションを構築するためのツールボックスです。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "keyPoints": [
+          "この記事は「MicroZigが厳格なLLMなし/AIなしポリシーを採用」を扱っています。",
+          "MicroZigは、Zigで組み込みアプリケーションを構築するためのツールボックスです。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+        ]
+      },
+      {
         "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
         "url": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
         "points": 107,
@@ -44,30 +64,30 @@
         ]
       },
       {
-        "title": "Google AI gets cagey when asked who won the 2020 elections",
-        "url": "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/",
-        "points": 93,
-        "comments": 60,
-        "author": "jacquesm",
-        "createdAt": "2026-10-28T20:10:16Z",
-        "domain": "arstechnica.com",
+        "title": "Claude Code regularly sends each background agent’s transcript to its model",
+        "url": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
+        "points": 101,
+        "comments": 120,
+        "author": "NikZaal",
+        "createdAt": "2026-10-29T03:33:42Z",
+        "domain": "gist.github.com",
         "sourceType": "hn",
-        "category": "AIニュース",
+        "category": "AIモデル",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "Google AIは、2020年の選挙で誰が勝ったかを尋ねると慎重になります",
-        "summaryJa": "この記事は「Google AIは、2020年の選挙で誰が勝ったかを尋ねると慎重になります」を扱っています。しかし、米国外で質問されると、AIの回答はより率直になります。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "titleJa": "Claude Codeは、各バックグラウンドエージェントのトランスクリプトをそのモデルに定期的に送信します",
+        "summaryJa": "この記事は「Claude Codeは、各バックグラウンドエージェントのトランスクリプトをそのモデルに定期的に送信します」を扱っています。Claudeコードはトークンの約15 -20%を3ワードのステータスラインで燃やします： agent_summaryをオフにするBUNプリロード· Flamerix AI、flamerix.ai · MIT - README.md。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
         "keyPoints": [
-          "この記事は「Google AIは、2020年の選挙で誰が勝ったかを尋ねると慎重になります」を扱っています。",
-          "しかし、米国外で質問されると、AIの回答はより率直になります。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+          "この記事は「Claude Codeは、各バックグラウンドエージェントのトランスクリプトをそのモデルに定期的に送信します」を扱っています。",
+          "Claudeコードはトークンの約15 -20%を3ワードのステータスラインで燃やします： agent_summaryをオフにするBUNプリロード· Flamerix AI、flamerix.ai · MIT - README.md。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
       },
       {
         "title": "Gemini 4 Carbon",
         "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
         "points": 73,
-        "comments": 647,
+        "comments": 749,
         "author": "acossta",
         "createdAt": "2026-10-28T17:01:23Z",
         "domain": "blog.google",
@@ -82,29 +102,9 @@
           "Gemini 4 Carbonは、最先端のサイバーセキュリティとロングホライズン機能を備えた当社の最強モデルです。",
           "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
-      },
-      {
-        "title": "Claude Code found 14,219 photos of my face on my Android that I never took",
-        "url": "https://twitter.com/coolerwave/status/2115393243458207755",
-        "points": 44,
-        "comments": 1,
-        "author": "bpierre",
-        "createdAt": "2026-10-28T18:00:40Z",
-        "domain": "twitter.com",
-        "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "低",
-        "newsLens": "技術",
-        "titleJa": "Claude・コードは、私が撮影したことのない14,219枚の顔写真をAndroidで見つけました",
-        "summaryJa": "この記事は「Claude・コードは、私が撮影したことのない14,219枚の顔写真をAndroidで見つけました」を扱っています。BREAKING ： Claude Codeは、私が撮影したことのない14,219枚の顔写真をAndroidで見つけました。電話は、私がそれを拾うたびにほとんど密かにそれらを取っていました。",
-        "keyPoints": [
-          "この記事は「Claude・コードは、私が撮影したことのない14,219枚の顔写真をAndroidで見つけました」を扱っています。",
-          "BREAKING ： Claude Codeは、私が撮影したことのない14,219枚の顔写真をAndroidで見つけました。",
-          "電話は、私がそれを拾うたびにほとんど密かにそれらを取っていました。"
-        ]
       }
     ],
-    "fetchedAt": "2026-10-29T00:53:17.804Z",
+    "fetchedAt": "2026-10-29T09:54:31.741Z",
     "mock": false
   },
   "xTrends": {
@@ -113,10 +113,10 @@
         "topic": "Gemini 4 Carbon",
         "locationLabel": "日本",
         "bestRank": 2,
-        "appearances": 8,
+        "appearances": 12,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-10-29T00:53:17.667Z",
+        "observedAt": "2026-10-29T09:54:31.614Z",
         "url": "https://x.com/search?q=Gemini%204%20Carbon&src=typed_query&f=live",
         "articleTitle": "Gemini 4 Carbon",
         "articleTitleJa": "Gemini4カーボン",
@@ -127,10 +127,10 @@
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-10-29T00:53:17.804Z",
+    "fetchedAt": "2026-10-29T09:54:31.741Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-10-29T00:53:20.264Z"
+    "articleFetchedAt": "2026-10-29T09:54:36.726Z"
   }
 }
