@@ -44,10 +44,30 @@
         ]
       },
       {
+        "title": "Google AI gets cagey when asked who won the 2020 elections",
+        "url": "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/",
+        "points": 93,
+        "comments": 60,
+        "author": "jacquesm",
+        "createdAt": "2026-10-28T20:10:16Z",
+        "domain": "arstechnica.com",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "Google AIは、2020年の選挙で誰が勝ったかを尋ねると慎重になります",
+        "summaryJa": "この記事は「Google AIは、2020年の選挙で誰が勝ったかを尋ねると慎重になります」を扱っています。しかし、米国外で質問されると、AIの回答はより率直になります。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "keyPoints": [
+          "この記事は「Google AIは、2020年の選挙で誰が勝ったかを尋ねると慎重になります」を扱っています。",
+          "しかし、米国外で質問されると、AIの回答はより率直になります。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+        ]
+      },
+      {
         "title": "Gemini 4 Carbon",
         "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
         "points": 73,
-        "comments": 466,
+        "comments": 647,
         "author": "acossta",
         "createdAt": "2026-10-28T17:01:23Z",
         "domain": "blog.google",
@@ -64,47 +84,27 @@
         ]
       },
       {
-        "title": "Early progress on accelerating drug development with Claude",
-        "url": "https://www.anthropic.com/research/early-progress-drug-development",
-        "points": 73,
-        "comments": 314,
-        "author": "dataking",
-        "createdAt": "2026-10-27T20:50:42Z",
-        "domain": "anthropic.com",
-        "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "Claudeとの医薬品開発の加速に関する初期の進展",
-        "summaryJa": "この記事は「Claudeとの医薬品開発の加速に関する初期の進展」を扱っています。過去数か月にわたり、私たちは6つの組織と提携し、病気の治癒を加速させてきました。また、希少な小児型の筋ジストロフィーのためのプログラムなど、独自の創薬活動も開始しています。",
-        "keyPoints": [
-          "この記事は「Claudeとの医薬品開発の加速に関する初期の進展」を扱っています。",
-          "過去数か月にわたり、私たちは6つの組織と提携し、病気の治癒を加速させてきました。",
-          "また、希少な小児型の筋ジストロフィーのためのプログラムなど、独自の創薬活動も開始しています。"
-        ]
-      },
-      {
-        "title": "Discovering and exploiting vulnerabilities in real-world software with Claude",
-        "url": "https://www.anthropic.com/research/discovering-vulnerabilities-with-claude",
-        "points": 45,
-        "comments": 2,
-        "author": "ledoge",
-        "createdAt": "2026-10-27T20:18:54Z",
-        "domain": "anthropic.com",
+        "title": "Claude Code found 14,219 photos of my face on my Android that I never took",
+        "url": "https://twitter.com/coolerwave/status/2115393243458207755",
+        "points": 44,
+        "comments": 1,
+        "author": "bpierre",
+        "createdAt": "2026-10-28T18:00:40Z",
+        "domain": "twitter.com",
         "sourceType": "hn",
         "category": "AIモデル",
         "impact": "低",
         "newsLens": "技術",
-        "titleJa": "Claudeと一緒に現実世界のソフトウェアの脆弱性を発見して悪用する",
-        "summaryJa": "この記事は「Claudeと一緒に現実世界のソフトウェアの脆弱性を発見して悪用する」を扱っています。過去数か月にわたり、未発表の内部調査モデルを使用して、ブラウザやオペレーティングシステムなど、世界で最も広く使用されているソフトウェアのいくつかの重大な脆弱性を発見しました。この記事では、5つの攻撃チェーンの詳細を共有します。",
+        "titleJa": "Claude・コードは、私が撮影したことのない14,219枚の顔写真をAndroidで見つけました",
+        "summaryJa": "この記事は「Claude・コードは、私が撮影したことのない14,219枚の顔写真をAndroidで見つけました」を扱っています。BREAKING ： Claude Codeは、私が撮影したことのない14,219枚の顔写真をAndroidで見つけました。電話は、私がそれを拾うたびにほとんど密かにそれらを取っていました。",
         "keyPoints": [
-          "この記事は「Claudeと一緒に現実世界のソフトウェアの脆弱性を発見して悪用する」を扱っています。",
-          "過去数か月にわたり、未発表の内部調査モデルを使用して、ブラウザやオペレーティングシステムなど、世界で最も広く使用されているソフトウェアのいくつかの重大な脆弱性を発見しました。",
-          "この記事では、5つの攻撃チェーンの詳細を共有します。"
+          "この記事は「Claude・コードは、私が撮影したことのない14,219枚の顔写真をAndroidで見つけました」を扱っています。",
+          "BREAKING ： Claude Codeは、私が撮影したことのない14,219枚の顔写真をAndroidで見つけました。",
+          "電話は、私がそれを拾うたびにほとんど密かにそれらを取っていました。"
         ]
       }
     ],
-    "fetchedAt": "2026-10-28T20:14:53.722Z",
+    "fetchedAt": "2026-10-29T00:53:17.804Z",
     "mock": false
   },
   "xTrends": {
@@ -113,24 +113,24 @@
         "topic": "Gemini 4 Carbon",
         "locationLabel": "日本",
         "bestRank": 2,
-        "appearances": 4,
+        "appearances": 8,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-10-28T20:14:53.652Z",
+        "observedAt": "2026-10-29T00:53:17.667Z",
         "url": "https://x.com/search?q=Gemini%204%20Carbon&src=typed_query&f=live",
         "articleTitle": "Gemini 4 Carbon",
-        "articleTitleJa": "Gemini 4 カーボン",
+        "articleTitleJa": "Gemini4カーボン",
         "articleUrl": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
         "articleSource": "blog.google",
         "articlePublishedAt": "2026-10-28T17:01:23Z",
-        "summaryJa": "Gemini 4 Carbon は、最先端のサイバーセキュリティと長期にわたる機能を備えた当社の最強モデルです。",
+        "summaryJa": "Gemini 4 Carbonは、最先端のサイバーセキュリティとロングホライズン機能を備えた当社の最強モデルです。",
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-10-28T20:14:53.722Z",
+    "fetchedAt": "2026-10-29T00:53:17.804Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-10-28T20:14:56.352Z"
+    "articleFetchedAt": "2026-10-29T00:53:20.264Z"
   }
 }
