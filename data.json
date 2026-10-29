@@ -4,8 +4,8 @@
       {
         "title": "MicroZig to Adopt Strict No LLM / No AI Policy",
         "url": "https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md",
-        "points": 108,
-        "comments": 68,
+        "points": 109,
+        "comments": 71,
         "author": "paaloeye",
         "createdAt": "2026-10-29T00:30:37Z",
         "domain": "github.com",
@@ -22,52 +22,52 @@
         ]
       },
       {
-        "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
-        "url": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
+        "title": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
+        "url": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
         "points": 107,
         "comments": 0,
         "author": "",
-        "createdAt": "2026-10-28T17:00:00.000Z",
+        "createdAt": "2026-10-29T17:00:00.000Z",
         "domain": "techcrunch.com",
         "sourceType": "rss",
         "sourceLabel": "TechCrunch AI",
         "newsLens": "一般",
         "category": "AIモデル",
         "impact": "高",
-        "titleJa": "AIエージェントがウェブを再構築するにつれて、GoogleはGeminiとSearchをより多くのアプリに開放します",
-        "summaryJa": "この記事は「AIエージェントがウェブを再構築するにつれて、GoogleはGeminiとSearchをより多くのアプリに開放します」を扱っています。新しい開発者プラットフォームにより、企業はGoogleのAIエクスペリエンスにサービスを提供できるようになり、消費者がアプリを発見して使用する方法が変わる可能性があります。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "titleJa": "Mistralは、サイバーセキュリティをターゲットとした1兆パラメータのAIモデルの重み付けをリリース",
+        "summaryJa": "この記事は「Mistralは、サイバーセキュリティをターゲットとした1兆パラメータのAIモデルの重み付けをリリース」を扱っています。Mistralによると、新しいモデルは、クローズドモデルではできないサイバー防御の一種の制御を組織に提供できるという。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
-          "この記事は「AIエージェントがウェブを再構築するにつれて、GoogleはGeminiとSearchをより多くのアプリに開放します」を扱っています。",
-          "新しい開発者プラットフォームにより、企業はGoogleのAIエクスペリエンスにサービスを提供できるようになり、消費者がアプリを発見して使用する方法が変わる可能性があります。",
+          "この記事は「Mistralは、サイバーセキュリティをターゲットとした1兆パラメータのAIモデルの重み付けをリリース」を扱っています。",
+          "Mistralによると、新しいモデルは、クローズドモデルではできないサイバー防御の一種の制御を組織に提供できるという。",
           "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       },
       {
-        "title": "Voice AI in vogue: Nvidia releases new open transcription model",
-        "url": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/",
+        "title": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
+        "url": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/",
         "points": 107,
         "comments": 0,
         "author": "",
-        "createdAt": "2026-10-28T15:00:00.000Z",
+        "createdAt": "2026-10-29T16:21:00.000Z",
         "domain": "techcrunch.com",
         "sourceType": "rss",
         "sourceLabel": "TechCrunch AI",
         "newsLens": "一般",
         "category": "AIモデル",
         "impact": "高",
-        "titleJa": "Voice AIが流行： NVIDIAが新しいオープンな文字起こしモデルをリリース",
-        "summaryJa": "この記事は「Voice AIが流行： NVIDIAが新しいオープンな文字起こしモデルをリリース」を扱っています。Nvidiaは、最大40の言語を文字起こしできる無料の音声テキスト変換モデルをリリースしましたが、ライブオーディオではなく録音のみで動作するため、ElevenLabsなどのライバルにリアルタイムの使用を残しながら、会議や医療の文字起こしツールにとって大きな一歩です。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "titleJa": "元Palantirのエグゼクティブがa 16 zから1700万$でDreamを立ち上げ、建設用のAIワールドモデルを構築",
+        "summaryJa": "この記事は「元Palantirのエグゼクティブがa 16 zから1700万$でDreamを立ち上げ、建設用のAIワールドモデルを構築」を扱っています。DREAMは、実際の物理と建設基準に基づいています。LLMがテキストから学ぶように、Dreamのワールドモデルは、米国全土の許可アーカイブから収集された1億平方フィート以上の建物データで訓練されています。",
         "keyPoints": [
-          "この記事は「Voice AIが流行： NVIDIAが新しいオープンな文字起こしモデルをリリース」を扱っています。",
-          "Nvidiaは、最大40の言語を文字起こしできる無料の音声テキスト変換モデルをリリースしましたが、ライブオーディオではなく録音のみで動作するため、ElevenLabsなどのライバルにリアルタイムの使用を残しながら、会議や医療の文字起こしツールにとって大きな一歩です。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+          "この記事は「元Palantirのエグゼクティブがa 16 zから1700万$でDreamを立ち上げ、建設用のAIワールドモデルを構築」を扱っています。",
+          "DREAMは、実際の物理と建設基準に基づいています。",
+          "LLMがテキストから学ぶように、Dreamのワールドモデルは、米国全土の許可アーカイブから収集された1億平方フィート以上の建物データで訓練されています。"
         ]
       },
       {
         "title": "Claude Code regularly sends each background agent’s transcript to its model",
         "url": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
         "points": 101,
-        "comments": 120,
+        "comments": 216,
         "author": "NikZaal",
         "createdAt": "2026-10-29T03:33:42Z",
         "domain": "gist.github.com",
@@ -84,27 +84,27 @@
         ]
       },
       {
-        "title": "Gemini 4 Carbon",
-        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
-        "points": 73,
-        "comments": 749,
-        "author": "acossta",
-        "createdAt": "2026-10-28T17:01:23Z",
-        "domain": "blog.google",
+        "title": "LLM Voice",
+        "url": "https://martinfowler.com/bliki/LLM-Voice.html",
+        "points": 98,
+        "comments": 59,
+        "author": "ibobev",
+        "createdAt": "2026-10-29T14:57:55Z",
+        "domain": "martinfowler.com",
         "sourceType": "hn",
         "category": "AIモデル",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "Gemini4カーボン",
-        "summaryJa": "この記事は「Gemini4カーボン」を扱っています。Gemini 4 Carbonは、最先端のサイバーセキュリティとロングホライズン機能を備えた当社の最強モデルです。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "titleJa": "LLMボイス",
+        "summaryJa": "この記事は「LLMボイス」を扱っています。martinfowler.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
         "keyPoints": [
-          "この記事は「Gemini4カーボン」を扱っています。",
-          "Gemini 4 Carbonは、最先端のサイバーセキュリティとロングホライズン機能を備えた当社の最強モデルです。",
+          "この記事は「LLMボイス」を扱っています。",
+          "martinfowler.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
           "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
       }
     ],
-    "fetchedAt": "2026-10-29T09:54:31.741Z",
+    "fetchedAt": "2026-10-29T18:26:49.657Z",
     "mock": false
   },
   "xTrends": {
@@ -112,11 +112,11 @@
       {
         "topic": "Gemini 4 Carbon",
         "locationLabel": "日本",
-        "bestRank": 2,
-        "appearances": 12,
+        "bestRank": 14,
+        "appearances": 23,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-10-29T09:54:31.614Z",
+        "observedAt": "2026-10-29T18:26:49.474Z",
         "url": "https://x.com/search?q=Gemini%204%20Carbon&src=typed_query&f=live",
         "articleTitle": "Gemini 4 Carbon",
         "articleTitleJa": "Gemini4カーボン",
@@ -127,10 +127,10 @@
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-10-29T09:54:31.741Z",
+    "fetchedAt": "2026-10-29T18:26:49.657Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-10-29T09:54:36.726Z"
+    "articleFetchedAt": "2026-10-29T18:26:52.520Z"
   }
 }
