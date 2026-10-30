@@ -2,23 +2,24 @@
   "news": {
     "items": [
       {
-        "title": "MicroZig to Adopt Strict No LLM / No AI Policy",
-        "url": "https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md",
-        "points": 109,
-        "comments": 71,
-        "author": "paaloeye",
-        "createdAt": "2026-10-29T00:30:37Z",
-        "domain": "github.com",
-        "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "低",
-        "newsLens": "技術",
-        "titleJa": "MicroZigが厳格なLLMなし/AIなしポリシーを採用",
-        "summaryJa": "この記事は「MicroZigが厳格なLLMなし/AIなしポリシーを採用」を扱っています。MicroZigは、Zigで組み込みアプリケーションを構築するためのツールボックスです。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "title": "OpenAI-backed Thrive Holdings acquires ADT",
+        "url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
+        "points": 133,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-10-29T19:56:19.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
+        "category": "AIニュース",
+        "impact": "高",
+        "titleJa": "OpenAIが支援するThrive HoldingsがADTを買収",
+        "summaryJa": "この記事は「OpenAIが支援するThrive HoldingsがADTを買収」を扱っています。OpenAIが支援するThrive Holdingsは、ADTを153億$で買収し、ホームセキュリティ事業にAIを導入する計画を立てている。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
-          "この記事は「MicroZigが厳格なLLMなし/AIなしポリシーを採用」を扱っています。",
-          "MicroZigは、Zigで組み込みアプリケーションを構築するためのツールボックスです。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+          "この記事は「OpenAIが支援するThrive HoldingsがADTを買収」を扱っています。",
+          "OpenAIが支援するThrive Holdingsは、ADTを153億$で買収し、ホームセキュリティ事業にAIを導入する計画を立てている。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       },
       {
@@ -43,31 +44,10 @@
         ]
       },
       {
-        "title": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
-        "url": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/",
-        "points": 107,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-10-29T16:21:00.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
-        "category": "AIモデル",
-        "impact": "高",
-        "titleJa": "元Palantirのエグゼクティブがa 16 zから1700万$でDreamを立ち上げ、建設用のAIワールドモデルを構築",
-        "summaryJa": "この記事は「元Palantirのエグゼクティブがa 16 zから1700万$でDreamを立ち上げ、建設用のAIワールドモデルを構築」を扱っています。DREAMは、実際の物理と建設基準に基づいています。LLMがテキストから学ぶように、Dreamのワールドモデルは、米国全土の許可アーカイブから収集された1億平方フィート以上の建物データで訓練されています。",
-        "keyPoints": [
-          "この記事は「元Palantirのエグゼクティブがa 16 zから1700万$でDreamを立ち上げ、建設用のAIワールドモデルを構築」を扱っています。",
-          "DREAMは、実際の物理と建設基準に基づいています。",
-          "LLMがテキストから学ぶように、Dreamのワールドモデルは、米国全土の許可アーカイブから収集された1億平方フィート以上の建物データで訓練されています。"
-        ]
-      },
-      {
         "title": "Claude Code regularly sends each background agent’s transcript to its model",
         "url": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
         "points": 101,
-        "comments": 216,
+        "comments": 225,
         "author": "NikZaal",
         "createdAt": "2026-10-29T03:33:42Z",
         "domain": "gist.github.com",
@@ -86,8 +66,8 @@
       {
         "title": "LLM Voice",
         "url": "https://martinfowler.com/bliki/LLM-Voice.html",
-        "points": 98,
-        "comments": 59,
+        "points": 101,
+        "comments": 172,
         "author": "ibobev",
         "createdAt": "2026-10-29T14:57:55Z",
         "domain": "martinfowler.com",
@@ -102,21 +82,41 @@
           "martinfowler.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
           "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
+      },
+      {
+        "title": "We ran AI agent swarms in Minecraft and Mindustry",
+        "url": "https://labs.ycombinator.com/projects/games/index.html",
+        "points": 101,
+        "comments": 52,
+        "author": "sandslash",
+        "createdAt": "2026-10-29T21:40:28Z",
+        "domain": "labs.ycombinator.com",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "MinecraftとMindustryでAIエージェントの群れを実行しました",
+        "summaryJa": "この記事は「MinecraftとMindustryでAIエージェントの群れを実行しました」を扱っています。MinecraftとMindustryのClaudeとGPTエージェントの群れ。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "keyPoints": [
+          "この記事は「MinecraftとMindustryでAIエージェントの群れを実行しました」を扱っています。",
+          "MinecraftとMindustryのClaudeとGPTエージェントの群れ。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+        ]
       }
     ],
-    "fetchedAt": "2026-10-29T18:26:49.657Z",
+    "fetchedAt": "2026-10-30T00:57:11.761Z",
     "mock": false
   },
   "xTrends": {
     "items": [
       {
         "topic": "Gemini 4 Carbon",
-        "locationLabel": "日本",
-        "bestRank": 14,
-        "appearances": 23,
+        "locationLabel": "豪州",
+        "bestRank": 25,
+        "appearances": 24,
         "trendSource": "Trends24",
-        "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-10-29T18:26:49.474Z",
+        "sourceUrl": "https://trends24.in/australia/",
+        "observedAt": "2026-10-30T00:57:11.625Z",
         "url": "https://x.com/search?q=Gemini%204%20Carbon&src=typed_query&f=live",
         "articleTitle": "Gemini 4 Carbon",
         "articleTitleJa": "Gemini4カーボン",
@@ -127,10 +127,10 @@
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-10-29T18:26:49.657Z",
+    "fetchedAt": "2026-10-30T00:57:11.761Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-10-29T18:26:52.520Z"
+    "articleFetchedAt": "2026-10-30T00:57:14.572Z"
   }
 }
