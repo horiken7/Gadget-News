@@ -5,7 +5,7 @@
         "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
         "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
         "points": 127,
-        "comments": 433,
+        "comments": 512,
         "author": "_chall",
         "createdAt": "2026-10-30T07:09:12Z",
         "domain": "phorion.io",
@@ -64,6 +64,27 @@
         ]
       },
       {
+        "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
+        "url": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
+        "points": 79,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-10-30T21:09:54.000Z",
+        "domain": "arstechnica.com",
+        "sourceType": "rss",
+        "sourceLabel": "Ars Technica",
+        "newsLens": "技術",
+        "category": "開発ツール",
+        "impact": "中",
+        "titleJa": "12時間近くバックドアされたカーソルのAnthropic VSコード拡張",
+        "summaryJa": "この記事は「12時間近くバックドアされたカーソルのAnthropic VSコード拡張」を扱っています。攻撃者がAnthropicの検証済みCursorアカウントにどのようにアクセスしたかはまだ不明です。技術者にとっては、開発フロー、API、セキュリティ、運用コストへの影響が確認ポイントです。",
+        "keyPoints": [
+          "この記事は「12時間近くバックドアされたカーソルのAnthropic VSコード拡張」を扱っています。",
+          "攻撃者がAnthropicの検証済みCursorアカウントにどのようにアクセスしたかはまだ不明です。",
+          "技術者にとっては、開発フロー、API、セキュリティ、運用コストへの影響が確認ポイントです。"
+        ]
+      },
+      {
         "title": "Backdoors in official Claude Code extensions",
         "url": "https://cyberplace.social/@GossiTheDog/117528831681803563",
         "points": 73,
@@ -82,56 +103,17 @@
           "カーソル上のAnthropic Visual Studio Claude Code拡張機能にはマルウェアが含まれており、デスクトップへのリモートアクセストロイの木馬が作成されます。",
           "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
-      },
-      {
-        "title": "Claude Code VS Code extension with backdoor released on Cursor marketplace",
-        "url": "https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2",
-        "points": 73,
-        "comments": 1,
-        "author": "bashtoni",
-        "createdAt": "2026-10-30T10:22:51Z",
-        "domain": "doublepulsar.com",
-        "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "Cursorマーケットプレイスでリリースされたバックドアを備えたClaude Code VS Code拡張機能",
-        "summaryJa": "この記事は「Cursorマーケットプレイスでリリースされたバックドアを備えたClaude Code VS Code拡張機能」を扱っています。doublepulsar.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
-        "keyPoints": [
-          "この記事は「Cursorマーケットプレイスでリリースされたバックドアを備えたClaude Code VS Code拡張機能」を扱っています。",
-          "doublepulsar.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
-        ]
       }
     ],
-    "fetchedAt": "2026-10-30T22:16:00.713Z",
+    "fetchedAt": "2026-10-31T05:36:21.587Z",
     "mock": false
   },
   "xTrends": {
-    "items": [
-      {
-        "topic": "Grok 4.8",
-        "locationLabel": "米国",
-        "bestRank": 45,
-        "appearances": 1,
-        "trendSource": "Trends24",
-        "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-10-30T22:16:00.653Z",
-        "url": "https://x.com/search?q=Grok%204.8&src=typed_query&f=live",
-        "articleTitle": "Grok 4.8",
-        "articleTitleJa": "公開トレンド: Grok 4.8",
-        "articleUrl": "https://trends24.in/united-states/",
-        "articleSource": "Trends24",
-        "articlePublishedAt": "2026-10-30T22:16:00.653Z",
-        "summaryJa": "米国のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
-        "translationVersion": 3,
-        "articleFallback": true
-      }
-    ],
-    "fetchedAt": "2026-10-30T22:16:00.713Z",
+    "items": [],
+    "fetchedAt": "2026-10-31T05:36:21.587Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-10-30T22:16:01.419Z"
+    "articleFetchedAt": "2026-10-31T05:36:21.793Z"
   }
 }
