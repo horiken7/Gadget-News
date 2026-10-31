@@ -23,31 +23,10 @@
         ]
       },
       {
-        "title": "Zest’s new AI agent finds restaurants and books reservations over text",
-        "url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
-        "points": 107,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-10-30T17:47:12.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
-        "category": "AIニュース",
-        "impact": "高",
-        "titleJa": "Zestの新しいAIエージェントがレストランを見つけ、テキストで予約する",
-        "summaryJa": "この記事は「Zestの新しいAIエージェントがレストランを見つけ、テキストで予約する」を扱っています。どこで食事をするかについて意見が合わない場合は、ZestのAIコンシェルジュは、すべての人の好みを組み合わせ、レストランのオプションを投票し、予約を行うことができます。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
-        "keyPoints": [
-          "この記事は「Zestの新しいAIエージェントがレストランを見つけ、テキストで予約する」を扱っています。",
-          "どこで食事をするかについて意見が合わない場合は、ZestのAIコンシェルジュは、すべての人の好みを組み合わせ、レストランのオプションを投票し、予約を行うことができます。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
-        ]
-      },
-      {
         "title": "OpenAI raises less than half of $30B target",
         "url": "https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5",
         "points": 93,
-        "comments": 149,
+        "comments": 173,
         "author": "timr",
         "createdAt": "2026-10-31T03:22:44Z",
         "domain": "wsj.com",
@@ -61,6 +40,27 @@
           "この記事は「OpenAIが$ 300億の目標の半分未満を調達」を扱っています。",
           "wsj.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
           "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+        ]
+      },
+      {
+        "title": "Ollie, a privacy-focused AI assistant, is shutting down",
+        "url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
+        "points": 87,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-10-30T22:56:13.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
+        "category": "AIニュース",
+        "impact": "高",
+        "titleJa": "プライバシーに焦点を当てたAIアシスタントであるOllieは、",
+        "summaryJa": "この記事は「プライバシーに焦点を当てたAIアシスタントであるOllieは、」を扱っています。ユーザーのプライバシーを尊重するアシスタントであるOllieの創業者は、ますます多くのAIアシスタントが市場に溢れる中、1週間以内に閉鎖すると述べている。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "keyPoints": [
+          "この記事は「プライバシーに焦点を当てたAIアシスタントであるOllieは、」を扱っています。",
+          "ユーザーのプライバシーを尊重するアシスタントであるOllieの創業者は、ますます多くのAIアシスタントが市場に溢れる中、1週間以内に閉鎖すると述べている。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       },
       {
@@ -85,35 +85,35 @@
         ]
       },
       {
-        "title": "Show HN: Sketch Stadium – watch your agent play Pictionary",
-        "url": "https://sketch.wakeshift.ai/games/q5ucru",
-        "points": 78,
-        "comments": 10,
-        "author": "ericlevine",
-        "createdAt": "2026-10-30T15:23:11Z",
-        "domain": "sketch.wakeshift.ai",
+        "title": "We Took over ChatGPT Accounts",
+        "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
+        "points": 73,
+        "comments": 119,
+        "author": "armcat",
+        "createdAt": "2026-10-31T10:30:11Z",
+        "domain": "parameter.ai",
         "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "低",
+        "category": "AIモデル",
+        "impact": "高",
         "newsLens": "技術",
-        "titleJa": "HNを表示：スケッチスタジアム–エージェントがピクショナリーをプレイするのを見る",
-        "summaryJa": "この記事は「HNを表示：スケッチスタジアム–エージェントがピクショナリーをプレイするのを見る」を扱っています。tl; dr:エージェントはPictionaryを再生できます。自分のエージェントに接続することも、進行中のゲームを見ることもできます。",
+        "titleJa": "ChatGPTアカウントを引き継ぎました",
+        "summaryJa": "この記事は「ChatGPTアカウントを引き継ぎました」を扱っています。ChatGPTのサンドボックスとコンテンツセキュリティポリシーをバイパスすることで、当社の研究チームはリンクを送信するだけで誰かのアカウントを乗っ取ることができました。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
         "keyPoints": [
-          "この記事は「HNを表示：スケッチスタジアム–エージェントがピクショナリーをプレイするのを見る」を扱っています。",
-          "tl; dr:エージェントはPictionaryを再生できます。",
-          "自分のエージェントに接続することも、進行中のゲームを見ることもできます。"
+          "この記事は「ChatGPTアカウントを引き継ぎました」を扱っています。",
+          "ChatGPTのサンドボックスとコンテンツセキュリティポリシーをバイパスすることで、当社の研究チームはリンクを送信するだけで誰かのアカウントを乗っ取ることができました。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
       }
     ],
-    "fetchedAt": "2026-10-31T12:21:58.381Z",
+    "fetchedAt": "2026-10-31T19:15:59.642Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-10-31T12:21:58.381Z",
+    "fetchedAt": "2026-10-31T19:15:59.642Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-10-31T12:21:58.593Z"
+    "articleFetchedAt": "2026-10-31T19:15:59.922Z"
   }
 }
