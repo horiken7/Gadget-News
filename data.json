@@ -2,26 +2,6 @@
   "news": {
     "items": [
       {
-        "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
-        "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
-        "points": 127,
-        "comments": 512,
-        "author": "_chall",
-        "createdAt": "2026-10-30T07:09:12Z",
-        "domain": "phorion.io",
-        "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "カーソルマーケットプレイスのVSコード拡張のためのClaude Codeのバックドア",
-        "summaryJa": "この記事は「カーソルマーケットプレイスのVSコード拡張のためのClaude Codeのバックドア」を扱っています。phorion.ioが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
-        "keyPoints": [
-          "この記事は「カーソルマーケットプレイスのVSコード拡張のためのClaude Codeのバックドア」を扱っています。",
-          "phorion.ioが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
-        ]
-      },
-      {
         "title": "Last-minute Halloween costumes for tech nerds",
         "url": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
         "points": 107,
@@ -64,6 +44,26 @@
         ]
       },
       {
+        "title": "OpenAI raises less than half of $30B target",
+        "url": "https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5",
+        "points": 93,
+        "comments": 149,
+        "author": "timr",
+        "createdAt": "2026-10-31T03:22:44Z",
+        "domain": "wsj.com",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "OpenAIが$ 300億の目標の半分未満を調達",
+        "summaryJa": "この記事は「OpenAIが$ 300億の目標の半分未満を調達」を扱っています。wsj.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "keyPoints": [
+          "この記事は「OpenAIが$ 300億の目標の半分未満を調達」を扱っています。",
+          "wsj.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+        ]
+      },
+      {
         "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
         "url": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
         "points": 79,
@@ -85,35 +85,35 @@
         ]
       },
       {
-        "title": "Backdoors in official Claude Code extensions",
-        "url": "https://cyberplace.social/@GossiTheDog/117528831681803563",
-        "points": 73,
-        "comments": 17,
-        "author": "dsr_",
-        "createdAt": "2026-10-30T11:05:53Z",
-        "domain": "cyberplace.social",
+        "title": "Show HN: Sketch Stadium – watch your agent play Pictionary",
+        "url": "https://sketch.wakeshift.ai/games/q5ucru",
+        "points": 78,
+        "comments": 10,
+        "author": "ericlevine",
+        "createdAt": "2026-10-30T15:23:11Z",
+        "domain": "sketch.wakeshift.ai",
         "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "高",
+        "category": "AIニュース",
+        "impact": "低",
         "newsLens": "技術",
-        "titleJa": "公式Claude Code拡張機能のバックドア",
-        "summaryJa": "この記事は「公式Claude Code拡張機能のバックドア」を扱っています。カーソル上のAnthropic Visual Studio Claude Code拡張機能にはマルウェアが含まれており、デスクトップへのリモートアクセストロイの木馬が作成されます。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "titleJa": "HNを表示：スケッチスタジアム–エージェントがピクショナリーをプレイするのを見る",
+        "summaryJa": "この記事は「HNを表示：スケッチスタジアム–エージェントがピクショナリーをプレイするのを見る」を扱っています。tl; dr:エージェントはPictionaryを再生できます。自分のエージェントに接続することも、進行中のゲームを見ることもできます。",
         "keyPoints": [
-          "この記事は「公式Claude Code拡張機能のバックドア」を扱っています。",
-          "カーソル上のAnthropic Visual Studio Claude Code拡張機能にはマルウェアが含まれており、デスクトップへのリモートアクセストロイの木馬が作成されます。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+          "この記事は「HNを表示：スケッチスタジアム–エージェントがピクショナリーをプレイするのを見る」を扱っています。",
+          "tl; dr:エージェントはPictionaryを再生できます。",
+          "自分のエージェントに接続することも、進行中のゲームを見ることもできます。"
         ]
       }
     ],
-    "fetchedAt": "2026-10-31T05:36:21.587Z",
+    "fetchedAt": "2026-10-31T12:21:58.381Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-10-31T05:36:21.587Z",
+    "fetchedAt": "2026-10-31T12:21:58.381Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-10-31T05:36:21.793Z"
+    "articleFetchedAt": "2026-10-31T12:21:58.593Z"
   }
 }
