@@ -2,31 +2,72 @@
   "news": {
     "items": [
       {
-        "title": "Last-minute Halloween costumes for tech nerds",
-        "url": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
-        "points": 107,
+        "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+        "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+        "points": 105,
         "comments": 0,
         "author": "",
-        "createdAt": "2026-10-30T21:26:59.000Z",
+        "createdAt": "2026-10-31T21:41:00.000Z",
         "domain": "techcrunch.com",
         "sourceType": "rss",
         "sourceLabel": "TechCrunch AI",
         "newsLens": "一般",
         "category": "AIニュース",
         "impact": "高",
-        "titleJa": "テクノロジーオタクのための土壇場のハロウィンコスチューム",
-        "summaryJa": "この記事は「テクノロジーオタクのための土壇場のハロウィンコスチューム」を扱っています。ハロウィーンのコスチュームはありませんか？見かけ上かわいいAIエージェントアイコン、PHPの脆弱性、または眠そうな時間を過ごすブライアン・ジョンソンだけです。",
+        "titleJa": "AppleのCEOは、同社は「AIのためにAIを出荷したくない」と述べている",
+        "summaryJa": "この記事は「AppleのCEOは、同社は「AIのためにAIを出荷したくない」と述べている」を扱っています。Appleの新CEOは、AI分野における同社の現在の地位を擁護した。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
-          "この記事は「テクノロジーオタクのための土壇場のハロウィンコスチューム」を扱っています。",
-          "ハロウィーンのコスチュームはありませんか。",
-          "見かけ上かわいいAIエージェントアイコン、PHPの脆弱性、または眠そうな時間を過ごすブライアン・ジョンソンだけです。"
+          "この記事は「AppleのCEOは、同社は「AIのためにAIを出荷したくない」と述べている」を扱っています。",
+          "Appleの新CEOは、AI分野における同社の現在の地位を擁護した。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+        ]
+      },
+      {
+        "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+        "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+        "points": 105,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-10-31T21:17:03.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
+        "category": "AIニュース",
+        "impact": "高",
+        "titleJa": "裁判官は、xAIデータセンター汚染をめぐるNAACP訴訟を前進させる",
+        "summaryJa": "この記事は「裁判官は、xAIデータセンター汚染をめぐるNAACP訴訟を前進させる」を扱っています。NAACPの訴訟では、SpaceXが所有するAI企業が大気浄化法に違反していると非難している。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "keyPoints": [
+          "この記事は「裁判官は、xAIデータセンター汚染をめぐるNAACP訴訟を前進させる」を扱っています。",
+          "NAACPの訴訟では、SpaceXが所有するAI企業が大気浄化法に違反していると非難している。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+        ]
+      },
+      {
+        "title": "Anthropic blocks users for anything touching training larger models",
+        "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
+        "points": 101,
+        "comments": 55,
+        "author": "pretext",
+        "createdAt": "2026-10-31T19:39:19Z",
+        "domain": "twitter.com",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "Anthropicは、大型モデルのトレーニングに触れるとユーザーをブロックします",
+        "summaryJa": "この記事は「Anthropicは、大型モデルのトレーニングに触れるとユーザーをブロックします」を扱っています。私はClaudeを蒸留したことはありません。ロールアウトは強力なオープンソースモデルから来ています。",
+        "keyPoints": [
+          "この記事は「Anthropicは、大型モデルのトレーニングに触れるとユーザーをブロックします」を扱っています。",
+          "私はClaudeを蒸留したことはありません。",
+          "ロールアウトは強力なオープンソースモデルから来ています。"
         ]
       },
       {
         "title": "OpenAI raises less than half of $30B target",
         "url": "https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5",
         "points": 93,
-        "comments": 173,
+        "comments": 186,
         "author": "timr",
         "createdAt": "2026-10-31T03:22:44Z",
         "domain": "wsj.com",
@@ -43,52 +84,10 @@
         ]
       },
       {
-        "title": "Ollie, a privacy-focused AI assistant, is shutting down",
-        "url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
-        "points": 87,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-10-30T22:56:13.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
-        "category": "AIニュース",
-        "impact": "高",
-        "titleJa": "プライバシーに焦点を当てたAIアシスタントであるOllieは、",
-        "summaryJa": "この記事は「プライバシーに焦点を当てたAIアシスタントであるOllieは、」を扱っています。ユーザーのプライバシーを尊重するアシスタントであるOllieの創業者は、ますます多くのAIアシスタントが市場に溢れる中、1週間以内に閉鎖すると述べている。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
-        "keyPoints": [
-          "この記事は「プライバシーに焦点を当てたAIアシスタントであるOllieは、」を扱っています。",
-          "ユーザーのプライバシーを尊重するアシスタントであるOllieの創業者は、ますます多くのAIアシスタントが市場に溢れる中、1週間以内に閉鎖すると述べている。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
-        ]
-      },
-      {
-        "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
-        "url": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
-        "points": 79,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-10-30T21:09:54.000Z",
-        "domain": "arstechnica.com",
-        "sourceType": "rss",
-        "sourceLabel": "Ars Technica",
-        "newsLens": "技術",
-        "category": "開発ツール",
-        "impact": "中",
-        "titleJa": "12時間近くバックドアされたカーソルのAnthropic VSコード拡張",
-        "summaryJa": "この記事は「12時間近くバックドアされたカーソルのAnthropic VSコード拡張」を扱っています。攻撃者がAnthropicの検証済みCursorアカウントにどのようにアクセスしたかはまだ不明です。技術者にとっては、開発フロー、API、セキュリティ、運用コストへの影響が確認ポイントです。",
-        "keyPoints": [
-          "この記事は「12時間近くバックドアされたカーソルのAnthropic VSコード拡張」を扱っています。",
-          "攻撃者がAnthropicの検証済みCursorアカウントにどのようにアクセスしたかはまだ不明です。",
-          "技術者にとっては、開発フロー、API、セキュリティ、運用コストへの影響が確認ポイントです。"
-        ]
-      },
-      {
-        "title": "We Took over ChatGPT Accounts",
+        "title": "Do the math: How we took over ChatGPT accounts",
         "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
         "points": 73,
-        "comments": 119,
+        "comments": 145,
         "author": "armcat",
         "createdAt": "2026-10-31T10:30:11Z",
         "domain": "parameter.ai",
@@ -96,24 +95,24 @@
         "category": "AIモデル",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "ChatGPTアカウントを引き継ぎました",
-        "summaryJa": "この記事は「ChatGPTアカウントを引き継ぎました」を扱っています。ChatGPTのサンドボックスとコンテンツセキュリティポリシーをバイパスすることで、当社の研究チームはリンクを送信するだけで誰かのアカウントを乗っ取ることができました。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "titleJa": "計算する： ChatGPTアカウントを引き継いだ方法",
+        "summaryJa": "この記事は「計算する： ChatGPTアカウントを引き継いだ方法」を扱っています。ChatGPTのサンドボックスとコンテンツセキュリティポリシーをバイパスすることで、当社の研究チームはリンクを送信するだけで誰かのアカウントを乗っ取ることができました。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
         "keyPoints": [
-          "この記事は「ChatGPTアカウントを引き継ぎました」を扱っています。",
+          "この記事は「計算する： ChatGPTアカウントを引き継いだ方法」を扱っています。",
           "ChatGPTのサンドボックスとコンテンツセキュリティポリシーをバイパスすることで、当社の研究チームはリンクを送信するだけで誰かのアカウントを乗っ取ることができました。",
           "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
       }
     ],
-    "fetchedAt": "2026-10-31T19:15:59.642Z",
+    "fetchedAt": "2026-11-01T00:06:27.457Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-10-31T19:15:59.642Z",
+    "fetchedAt": "2026-11-01T00:06:27.457Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-10-31T19:15:59.922Z"
+    "articleFetchedAt": "2026-11-01T00:06:27.616Z"
   }
 }
