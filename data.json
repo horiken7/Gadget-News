@@ -47,7 +47,7 @@
         "title": "Anthropic blocks users for anything touching training larger models",
         "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
         "points": 101,
-        "comments": 226,
+        "comments": 245,
         "author": "pretext",
         "createdAt": "2026-10-31T19:39:19Z",
         "domain": "twitter.com",
@@ -64,10 +64,30 @@
         ]
       },
       {
+        "title": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
+        "url": "https://hackerbooks.org",
+        "points": 73,
+        "comments": 121,
+        "author": "roansh",
+        "createdAt": "2026-11-01T15:58:28Z",
+        "domain": "hackerbooks.org",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "AIニュース: Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
+        "summaryJa": "この記事は「Show HN: HackerBooks – HackerTube, but for books mentioned on HN」を扱っています。KarpathyのHackerTubeを見て、本にも同じものを欲しがっていました。そこで、Claudeに作ってもらいました（ Opus 5.5 ）。",
+        "keyPoints": [
+          "この記事は「Show HN: HackerBooks – HackerTube, but for books mentioned on HN」を扱っています。",
+          "KarpathyのHackerTubeを見て、本にも同じものを欲しがっていました。",
+          "そこで、Claudeに作ってもらいました（ Opus 5.5 ）。"
+        ]
+      },
+      {
         "title": "ChatGPT and Codex usage limits merging",
         "url": "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits",
         "points": 73,
-        "comments": 118,
+        "comments": 154,
         "author": "Zariel",
         "createdAt": "2026-10-31T21:49:07Z",
         "domain": "help.openai.com",
@@ -82,37 +102,36 @@
           "help.openai.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
           "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
-      },
-      {
-        "title": "The AI cost of JavaScript frameworks",
-        "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
-        "points": 73,
-        "comments": 83,
-        "author": "luu",
-        "createdAt": "2026-11-01T06:06:19Z",
-        "domain": "nolanlawson.com",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "JavaScriptフレームワークのAIコスト",
-        "summaryJa": "この記事は「JavaScriptフレームワークのAIコスト」を扱っています。ウェブ開発コミュニティで私が気に入っていることの1つは、私たちが下す決定の多くがバイブベースであることです。フレームワークは「非常に速く」、ツールは...。",
-        "keyPoints": [
-          "この記事は「JavaScriptフレームワークのAIコスト」を扱っています。",
-          "ウェブ開発コミュニティで私が気に入っていることの1つは、私たちが下す決定の多くがバイブベースであることです。",
-          "フレームワークは「非常に速く」、ツールは...。"
-        ]
       }
     ],
-    "fetchedAt": "2026-11-01T13:17:06.086Z",
+    "fetchedAt": "2026-11-01T19:38:21.742Z",
     "mock": false
   },
   "xTrends": {
-    "items": [],
-    "fetchedAt": "2026-11-01T13:17:06.086Z",
+    "items": [
+      {
+        "topic": "AIドット絵バトル",
+        "locationLabel": "日本",
+        "bestRank": 32,
+        "appearances": 2,
+        "trendSource": "Trends24",
+        "sourceUrl": "https://trends24.in/japan/",
+        "observedAt": "2026-11-01T19:38:21.671Z",
+        "url": "https://x.com/search?q=AI%E3%83%89%E3%83%83%E3%83%88%E7%B5%B5%E3%83%90%E3%83%88%E3%83%AB&src=typed_query&f=live",
+        "articleTitle": "AIドット絵バトル",
+        "articleTitleJa": "公開トレンド: AIドット絵バトル",
+        "articleUrl": "https://trends24.in/japan/",
+        "articleSource": "Trends24",
+        "articlePublishedAt": "2026-11-01T19:38:21.671Z",
+        "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
+        "translationVersion": 3,
+        "articleFallback": true
+      }
+    ],
+    "fetchedAt": "2026-11-01T19:38:21.742Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-11-01T13:17:06.257Z"
+    "articleFetchedAt": "2026-11-01T19:38:22.037Z"
   }
 }
