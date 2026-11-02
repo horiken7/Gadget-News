@@ -2,136 +2,116 @@
   "news": {
     "items": [
       {
-        "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
-        "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
-        "points": 105,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-11-01T20:57:58.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
+        "title": "Jobless tech workers are being left out of San Francisco's AI boom",
+        "url": "https://www.bloomberg.com/news/features/2026-09-17/san-francisco-s-ai-wealth-boom-skirts-engineers-as-openai-anthropic-ipos-near",
+        "points": 119,
+        "comments": 199,
+        "author": "mancerayder",
+        "createdAt": "2026-11-02T14:40:05Z",
+        "domain": "bloomberg.com",
+        "sourceType": "hn",
         "category": "AIニュース",
         "impact": "高",
-        "titleJa": "AIは、テクノロジー企業のCEOの生活を楽にすることができます。他のみんなは？",
-        "summaryJa": "この記事は「AIは、テクノロジー企業のCEOの生活を楽にすることができます。他のみんなは？」を扱っています。Equityでは、テクノロジーCEOの発言がなぜトーンディーに見えるのかについて説明します。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "newsLens": "一般",
+        "titleJa": "失業中のハイテク労働者は、サンフランシスコのAIブームから取り残されている",
+        "summaryJa": "この記事は「失業中のハイテク労働者は、サンフランシスコのAIブームから取り残されている」を扱っています。bloomberg.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
-          "この記事は「AIは、テクノロジー企業のCEOの生活を楽にすることができます。",
-          "Equityでは、テクノロジーCEOの発言がなぜトーンディーに見えるのかについて説明します。",
+          "この記事は「失業中のハイテク労働者は、サンフランシスコのAIブームから取り残されている」を扱っています。",
+          "bloomberg.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
           "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       },
       {
-        "title": "Anthropic's Mythos-class model allegedly leaked on Hugging Face",
-        "url": "https://news.ycombinator.com/item?id=50326727",
-        "points": 100,
-        "comments": 46,
-        "author": "handfuloflight",
-        "createdAt": "2026-11-01T15:45:10Z",
-        "domain": "news.ycombinator.com",
-        "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "低",
-        "newsLens": "技術",
-        "titleJa": "AnthropicのMythosクラスのモデルがHugging Faceにリークされたと言われています",
-        "summaryJa": "この記事は「AnthropicのMythosクラスのモデルがHugging Faceにリークされたと言われています」を扱っています。マルウェアの懸念のためにURLが削除されました。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
-        "keyPoints": [
-          "この記事は「AnthropicのMythosクラスのモデルがHugging Faceにリークされたと言われています」を扱っています。",
-          "マルウェアの懸念のためにURLが削除されました。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
-        ]
-      },
-      {
-        "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
-        "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
-        "points": 79,
+        "title": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
+        "url": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
+        "points": 107,
         "comments": 0,
         "author": "",
-        "createdAt": "2026-11-01T21:55:23.000Z",
+        "createdAt": "2026-11-02T16:30:00.000Z",
         "domain": "techcrunch.com",
         "sourceType": "rss",
         "sourceLabel": "TechCrunch AI",
         "newsLens": "一般",
-        "category": "AIニュース",
-        "impact": "中",
-        "titleJa": "OpenAIはデータセンターを「AIコンピューティングキャンパス」としてブランド変更する可能性がある",
-        "summaryJa": "この記事は「OpenAIはデータセンターを「AIコンピューティングキャンパス」としてブランド変更する可能性がある」を扱っています。データセンターは非常に人気がありません。しかし、私たちが彼らを何か別のものと呼んだらどうでしょうか？",
+        "category": "AIモデル",
+        "impact": "高",
+        "titleJa": "42 AIは、$ 62.5Mと「人間の行動を予測する」ことができる世界モデルでステルスから生まれます",
+        "summaryJa": "この記事は「42 AIは、$ 62.5Mと「人間の行動を予測する」ことができる世界モデルでステルスから生まれます」を扱っています。まったく新しい状況であっても、AIが決断する前にあなたが何をしようとしているのかを予測できるとしたらどうでしょうか？一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
-          "この記事は「OpenAIはデータセンターを「AIコンピューティングキャンパス」としてブランド変更する可能性がある」を扱っています。",
-          "データセンターは非常に人気がありません。",
-          "しかし、私たちが彼らを何か別のものと呼んだらどうでしょうか。"
+          "この記事は「42 AIは、$ 62.5Mと「人間の行動を予測する」ことができる世界モデルでステルスから生まれます」を扱っています。",
+          "まったく新しい状況であっても、AIが決断する前にあなたが何をしようとしているのかを予測できるとしたらどうでしょうか。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       },
       {
-        "title": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
-        "url": "https://hackerbooks.org",
-        "points": 73,
-        "comments": 236,
-        "author": "roansh",
-        "createdAt": "2026-11-01T15:58:28Z",
-        "domain": "hackerbooks.org",
+        "title": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
+        "url": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
+        "points": 93,
+        "comments": 195,
+        "author": "entryleveljobsc",
+        "createdAt": "2026-11-02T16:40:29Z",
+        "domain": "businessinsider.com",
         "sourceType": "hn",
         "category": "AIニュース",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "AIニュース: Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
-        "summaryJa": "この記事は「Show HN: HackerBooks – HackerTube, but for books mentioned on HN」を扱っています。KarpathyのHackerTubeを見て、本にも同じものを欲しがっていました。そこで、Claudeに作ってもらいました（ Opus 5.5 ）。",
+        "titleJa": "小売価格でのAnthropicの内部AIの使用は、現在従業員の給与を上回っています",
+        "summaryJa": "この記事は「小売価格でのAnthropicの内部AIの使用は、現在従業員の給与を上回っています」を扱っています。AnthropicのIPO申請は、その内部のAI使用が従業員の報酬よりも高く評価されているという印象的なマイルストーンを明らかにしています。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
         "keyPoints": [
-          "この記事は「Show HN: HackerBooks – HackerTube, but for books mentioned on HN」を扱っています。",
-          "KarpathyのHackerTubeを見て、本にも同じものを欲しがっていました。",
-          "そこで、Claudeに作ってもらいました（ Opus 5.5 ）。"
-        ]
-      },
-      {
-        "title": "AI fan wikis riddled with errors are muddying the waters of games culture",
-        "url": "https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture",
-        "points": 63,
-        "comments": 75,
-        "author": "rdmuser",
-        "createdAt": "2026-11-02T01:47:07Z",
-        "domain": "eurogamer.net",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "エラーだらけのAIファンウィキがゲーム文化の水を混乱させています",
-        "summaryJa": "この記事は「エラーだらけのAIファンウィキがゲーム文化の水を混乱させています」を扱っています。多くの場合、不正確または無関係な情報でいっぱいのLLMベースのウィキが引き継ぎ始めており、ファンは脇に追いやられ、パブリッシャーはスパイをやっています。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
-        "keyPoints": [
-          "この記事は「エラーだらけのAIファンウィキがゲーム文化の水を混乱させています」を扱っています。",
-          "多くの場合、不正確または無関係な情報でいっぱいのLLMベースのウィキが引き継ぎ始めており、ファンは脇に追いやられ、パブリッシャーはスパイをやっています。",
+          "この記事は「小売価格でのAnthropicの内部AIの使用は、現在従業員の給与を上回っています」を扱っています。",
+          "AnthropicのIPO申請は、その内部のAI使用が従業員の報酬よりも高く評価されているという印象的なマイルストーンを明らかにしています。",
           "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+        ]
+      },
+      {
+        "title": "Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app",
+        "url": "https://momentic.ai/",
+        "points": 93,
+        "comments": 62,
+        "author": "wuweiweiwu",
+        "createdAt": "2026-11-02T17:05:25Z",
+        "domain": "momentic.ai",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "HN: Momenticを起動する(YC W 24) –アプリを使用してバグをキャッチするエージェント",
+        "summaryJa": "この記事は「HN: Momenticを起動する(YC W 24) –アプリを使用してバグをキャッチするエージェント」を扱っています。バグをキャッチするために、ウェブ、iOS、Android、および（まもなく）デスクトップアプリで自律的に計画、探索、バグバッシュコントロールとユーザーフローを行うMomentic、QAエージェントを構築しています。https://youtu.be/BFsM-Se1Fh8私たちは、Robinhood、Retool、WeWork、Qualtricsなどの企業で開発ツールとインフラストラクチャにキャリアを費やしたソフトウェアエンジニアです。",
+        "keyPoints": [
+          "この記事は「HN: Momenticを起動する(YC W 24) –アプリを使用してバグをキャッチするエージェント」を扱っています。",
+          "バグをキャッチするために、ウェブ、iOS、Android、および（まもなく）デスクトップアプリで自律的に計画、探索、バグバッシュコントロールとユーザーフローを行うMomentic、QAエージェントを構築しています。",
+          "https://youtu.be/BFsM-Se1Fh8私たちは、Robinhood、Retool、WeWork、Qualtricsなどの企業で開発ツールとインフラストラクチャにキャリアを費やしたソフトウェアエンジニアです。"
+        ]
+      },
+      {
+        "title": "Show HN: Subvocal – Talk to your computer without making noise",
+        "url": "https://news.ycombinator.com/item?id=50340088",
+        "points": 85,
+        "comments": 235,
+        "author": "aarushyadav",
+        "createdAt": "2026-11-02T17:16:17Z",
+        "domain": "news.ycombinator.com",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "HNを表示：サブボーカル–ノイズを出さずにコンピューターと話す",
+        "summaryJa": "この記事は「HNを表示：サブボーカル–ノイズを出さずにコンピューターと話す」を扱っています。私たちは、大声で話すことなくコンピューターと話すことができるスマートメガネを構築しています。あなたは静かにそして慎重に言葉を口にすることができ、メガネはスピーチのスピードでそれらをテキストにデコードします。",
+        "keyPoints": [
+          "この記事は「HNを表示：サブボーカル–ノイズを出さずにコンピューターと話す」を扱っています。",
+          "私たちは、大声で話すことなくコンピューターと話すことができるスマートメガネを構築しています。",
+          "あなたは静かにそして慎重に言葉を口にすることができ、メガネはスピーチのスピードでそれらをテキストにデコードします。"
         ]
       }
     ],
-    "fetchedAt": "2026-11-02T10:58:20.518Z",
+    "fetchedAt": "2026-11-02T21:41:25.414Z",
     "mock": false
   },
   "xTrends": {
-    "items": [
-      {
-        "topic": "AIドット絵バトル",
-        "locationLabel": "日本",
-        "bestRank": 40,
-        "appearances": 1,
-        "trendSource": "Trends24",
-        "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-11-02T10:58:20.425Z",
-        "url": "https://x.com/search?q=AI%E3%83%89%E3%83%83%E3%83%88%E7%B5%B5%E3%83%90%E3%83%88%E3%83%AB&src=typed_query&f=live",
-        "articleTitle": "AIドット絵バトル",
-        "articleTitleJa": "公開トレンド: AIドット絵バトル",
-        "articleUrl": "https://trends24.in/japan/",
-        "articleSource": "Trends24",
-        "articlePublishedAt": "2026-11-02T10:58:20.425Z",
-        "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
-        "translationVersion": 3,
-        "articleFallback": true
-      }
-    ],
-    "fetchedAt": "2026-11-02T10:58:20.518Z",
+    "items": [],
+    "fetchedAt": "2026-11-02T21:41:25.414Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-11-02T10:58:20.881Z"
+    "articleFetchedAt": "2026-11-02T21:41:25.567Z"
   }
 }
