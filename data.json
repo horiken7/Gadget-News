@@ -2,23 +2,24 @@
   "news": {
     "items": [
       {
-        "title": "Jobless tech workers are being left out of San Francisco's AI boom",
-        "url": "https://www.bloomberg.com/news/features/2026-09-17/san-francisco-s-ai-wealth-boom-skirts-engineers-as-openai-anthropic-ipos-near",
-        "points": 119,
-        "comments": 199,
-        "author": "mancerayder",
-        "createdAt": "2026-11-02T14:40:05Z",
-        "domain": "bloomberg.com",
-        "sourceType": "hn",
+        "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
+        "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
+        "points": 107,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-11-02T22:14:50.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
         "category": "AIニュース",
         "impact": "高",
-        "newsLens": "一般",
-        "titleJa": "失業中のハイテク労働者は、サンフランシスコのAIブームから取り残されている",
-        "summaryJa": "この記事は「失業中のハイテク労働者は、サンフランシスコのAIブームから取り残されている」を扱っています。bloomberg.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "titleJa": "Anthropicは、RSI機能、つまり自己構築AIに非常に近いことを警告しています",
+        "summaryJa": "この記事は「Anthropicは、RSI機能、つまり自己構築AIに非常に近いことを警告しています」を扱っています。RSIは、AIが訓練自体に非常に優れた成長を遂げ、AI機能の劇的な加速を生み出すポイントです。AIの破滅者にとって、RSIは帰還できない大惨事を表しています。",
         "keyPoints": [
-          "この記事は「失業中のハイテク労働者は、サンフランシスコのAIブームから取り残されている」を扱っています。",
-          "bloomberg.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+          "この記事は「Anthropicは、RSI機能、つまり自己構築AIに非常に近いことを警告しています」を扱っています。",
+          "RSIは、AIが訓練自体に非常に優れた成長を遂げ、AI機能の劇的な加速を生み出すポイントです。",
+          "AIの破滅者にとって、RSIは帰還できない大惨事を表しています。"
         ]
       },
       {
@@ -46,7 +47,7 @@
         "title": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
         "url": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
         "points": 93,
-        "comments": 195,
+        "comments": 246,
         "author": "entryleveljobsc",
         "createdAt": "2026-11-02T16:40:29Z",
         "domain": "businessinsider.com",
@@ -63,30 +64,10 @@
         ]
       },
       {
-        "title": "Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app",
-        "url": "https://momentic.ai/",
-        "points": 93,
-        "comments": 62,
-        "author": "wuweiweiwu",
-        "createdAt": "2026-11-02T17:05:25Z",
-        "domain": "momentic.ai",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "HN: Momenticを起動する(YC W 24) –アプリを使用してバグをキャッチするエージェント",
-        "summaryJa": "この記事は「HN: Momenticを起動する(YC W 24) –アプリを使用してバグをキャッチするエージェント」を扱っています。バグをキャッチするために、ウェブ、iOS、Android、および（まもなく）デスクトップアプリで自律的に計画、探索、バグバッシュコントロールとユーザーフローを行うMomentic、QAエージェントを構築しています。https://youtu.be/BFsM-Se1Fh8私たちは、Robinhood、Retool、WeWork、Qualtricsなどの企業で開発ツールとインフラストラクチャにキャリアを費やしたソフトウェアエンジニアです。",
-        "keyPoints": [
-          "この記事は「HN: Momenticを起動する(YC W 24) –アプリを使用してバグをキャッチするエージェント」を扱っています。",
-          "バグをキャッチするために、ウェブ、iOS、Android、および（まもなく）デスクトップアプリで自律的に計画、探索、バグバッシュコントロールとユーザーフローを行うMomentic、QAエージェントを構築しています。",
-          "https://youtu.be/BFsM-Se1Fh8私たちは、Robinhood、Retool、WeWork、Qualtricsなどの企業で開発ツールとインフラストラクチャにキャリアを費やしたソフトウェアエンジニアです。"
-        ]
-      },
-      {
         "title": "Show HN: Subvocal – Talk to your computer without making noise",
         "url": "https://news.ycombinator.com/item?id=50340088",
         "points": 85,
-        "comments": 235,
+        "comments": 326,
         "author": "aarushyadav",
         "createdAt": "2026-11-02T17:16:17Z",
         "domain": "news.ycombinator.com",
@@ -101,17 +82,37 @@
           "私たちは、大声で話すことなくコンピューターと話すことができるスマートメガネを構築しています。",
           "あなたは静かにそして慎重に言葉を口にすることができ、メガネはスピーチのスピードでそれらをテキストにデコードします。"
         ]
+      },
+      {
+        "title": "Anthropic's growth just flattened",
+        "url": "https://www.regenerator1.com/p/anthropics-growth-just-flattened",
+        "points": 73,
+        "comments": 226,
+        "author": "cdrnsf",
+        "createdAt": "2026-11-02T22:33:20Z",
+        "domain": "regenerator1.com",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "Anthropicの成長はちょうど平坦化しました",
+        "summaryJa": "この記事は「Anthropicの成長はちょうど平坦化しました」を扱っています。regenerator1.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "keyPoints": [
+          "この記事は「Anthropicの成長はちょうど平坦化しました」を扱っています。",
+          "regenerator1.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+        ]
       }
     ],
-    "fetchedAt": "2026-11-02T21:41:25.414Z",
+    "fetchedAt": "2026-11-03T06:43:10.731Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-11-02T21:41:25.414Z",
+    "fetchedAt": "2026-11-03T06:43:10.731Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-11-02T21:41:25.567Z"
+    "articleFetchedAt": "2026-11-03T06:43:10.862Z"
   }
 }
