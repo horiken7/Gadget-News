@@ -2,72 +2,92 @@
   "news": {
     "items": [
       {
-        "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
-        "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
-        "points": 107,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-11-02T22:14:50.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
-        "category": "AIニュース",
+        "title": "OpenAI seems to be silently re-enabling model training on Codex chats",
+        "url": "https://news.ycombinator.com/item?id=50352757",
+        "points": 121,
+        "comments": 132,
+        "author": "user052919",
+        "createdAt": "2026-11-03T14:53:41Z",
+        "domain": "news.ycombinator.com",
+        "sourceType": "hn",
+        "category": "AIモデル",
         "impact": "高",
-        "titleJa": "Anthropicは、RSI機能、つまり自己構築AIに非常に近いことを警告しています",
-        "summaryJa": "この記事は「Anthropicは、RSI機能、つまり自己構築AIに非常に近いことを警告しています」を扱っています。RSIは、AIが訓練自体に非常に優れた成長を遂げ、AI機能の劇的な加速を生み出すポイントです。AIの破滅者にとって、RSIは帰還できない大惨事を表しています。",
+        "newsLens": "技術",
+        "titleJa": "OpenAIは、Codexチャットで静かにモデルトレーニングを再有効化しているようです",
+        "summaryJa": "この記事は「OpenAIは、Codexチャットで静かにモデルトレーニングを再有効化しているようです」を扱っています。私の会社は、プロンプトを通じてフロンティアラボにIPを漏洩することにかなり被害妄想を抱いているので、Codex/Claude Code/などでのデータ共有の無効化については、私たち全員が熱心に取り組んできました。しかし昨日、同僚と私は、設定がCodexで静かに再度有効になっていることに気づきました。",
         "keyPoints": [
-          "この記事は「Anthropicは、RSI機能、つまり自己構築AIに非常に近いことを警告しています」を扱っています。",
-          "RSIは、AIが訓練自体に非常に優れた成長を遂げ、AI機能の劇的な加速を生み出すポイントです。",
-          "AIの破滅者にとって、RSIは帰還できない大惨事を表しています。"
+          "この記事は「OpenAIは、Codexチャットで静かにモデルトレーニングを再有効化しているようです」を扱っています。",
+          "私の会社は、プロンプトを通じてフロンティアラボにIPを漏洩することにかなり被害妄想を抱いているので、Codex/Claude Code/などでのデータ共有の無効化については、私たち全員が熱心に取り組んできました。",
+          "しかし昨日、同僚と私は、設定がCodexで静かに再度有効になっていることに気づきました。"
         ]
       },
       {
-        "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
-        "url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
-        "points": 105,
+        "title": "Anthropic is working on a system to prove AI models’ identity",
+        "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+        "points": 107,
         "comments": 0,
         "author": "",
-        "createdAt": "2026-11-02T19:19:17.000Z",
+        "createdAt": "2026-11-03T22:41:03.000Z",
         "domain": "techcrunch.com",
         "sourceType": "rss",
         "sourceLabel": "TechCrunch AI",
         "newsLens": "一般",
-        "category": "AIニュース",
+        "category": "AIモデル",
         "impact": "高",
-        "titleJa": "ニューヨーク・タイムズやその他の報道機関は、ウェブブラウザBraveをコンテンツスクレイピングの疑いで訴える",
-        "summaryJa": "この記事は「ニューヨーク・タイムズやその他の報道機関は、ウェブブラウザBraveをコンテンツスクレイピングの疑いで訴える」を扱っています。ニューヨーク・タイムズは、プライバシーに焦点を当てたウェブブラウザ会社Braveを、同社の著作権で保護されたコンテンツをスクレイピングし、AnthropicやPerplexityなどの自社の顧客に違法に配布したとして訴えている。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "titleJa": "Anthropicは、AIモデルのアイデンティティを証明するシステムに取り組んでいます",
+        "summaryJa": "この記事は「Anthropicは、AIモデルのアイデンティティを証明するシステムに取り組んでいます」を扱っています。FlashProveと呼ばれるこのシステムは、AIの応答が実際にそれが発信されたと主張するモデルから来たかどうかを誰でも確認できるようにします。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
-          "この記事は「ニューヨーク・タイムズやその他の報道機関は、ウェブブラウザBraveをコンテンツスクレイピングの疑いで訴える」を扱っています。",
-          "ニューヨーク・タイムズは、プライバシーに焦点を当てたウェブブラウザ会社Braveを、同社の著作権で保護されたコンテンツをスクレイピングし、AnthropicやPerplexityなどの自社の顧客に違法に配布したとして訴えている。",
+          "この記事は「Anthropicは、AIモデルのアイデンティティを証明するシステムに取り組んでいます」を扱っています。",
+          "FlashProveと呼ばれるこのシステムは、AIの応答が実際にそれが発信されたと主張するモデルから来たかどうかを誰でも確認できるようにします。",
           "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       },
       {
-        "title": "Show HN: Subvocal – Talk to your computer without making noise",
-        "url": "https://news.ycombinator.com/item?id=50340088",
-        "points": 85,
-        "comments": 370,
-        "author": "aarushyadav",
-        "createdAt": "2026-11-02T17:16:17Z",
-        "domain": "news.ycombinator.com",
+        "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+        "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
+        "points": 99,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-11-03T00:35:52.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
+        "category": "AIニュース",
+        "impact": "高",
+        "titleJa": "Y Combinatorのギャリー・タンはAIエージェントを大量に使用しており、年間最大20万$をトークンに費やしています",
+        "summaryJa": "この記事は「Y Combinatorのギャリー・タンはAIエージェントを大量に使用しており、年間最大20万$をトークンに費やしています」を扱っています。Yコンビネーターのギャリー・タンは、自分が「サイバー精神病」に苦しんでおり、AIエージェントと一緒に働くことに興奮しているため、時々ほとんど眠らないことを冗談で認めています。ウォルター・アイザクソンのポッドキャスト「The Builders」の新しいエピソードで、タンは自分の情熱に値札を付けました。",
+        "keyPoints": [
+          "この記事は「Y Combinatorのギャリー・タンはAIエージェントを大量に使用しており、年間最大20万$をトークンに費やしています」を扱っています。",
+          "Yコンビネーターのギャリー・タンは、自分が「サイバー精神病」に苦しんでおり、AIエージェントと一緒に働くことに興奮しているため、時々ほとんど眠らないことを冗談で認めています。",
+          "ウォルター・アイザクソンのポッドキャスト「The Builders」の新しいエピソードで、タンは自分の情熱に値札を付けました。"
+        ]
+      },
+      {
+        "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
+        "url": "https://arxiv.org/abs/2605.29713",
+        "points": 91,
+        "comments": 12,
+        "author": "ibobev",
+        "createdAt": "2026-11-03T21:40:53Z",
+        "domain": "arxiv.org",
         "sourceType": "hn",
         "category": "AIニュース",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "HNを表示：サブボーカル–ノイズを出さずにコンピューターと話す",
-        "summaryJa": "この記事は「HNを表示：サブボーカル–ノイズを出さずにコンピューターと話す」を扱っています。私たちは、大声で話すことなくコンピューターと話すことができるスマートメガネを構築しています。あなたは静かにそして慎重に言葉を口にすることができ、メガネはスピーチのスピードでそれらをテキストにデコードします。",
+        "titleJa": "AIニュース: The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
+        "summaryJa": "この記事は「The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer」を扱っています。ArXiv論文2605.29713のアブストラクトページ：生成的AI基盤の小さな本：直感的な数学的入門。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
         "keyPoints": [
-          "この記事は「HNを表示：サブボーカル–ノイズを出さずにコンピューターと話す」を扱っています。",
-          "私たちは、大声で話すことなくコンピューターと話すことができるスマートメガネを構築しています。",
-          "あなたは静かにそして慎重に言葉を口にすることができ、メガネはスピーチのスピードでそれらをテキストにデコードします。"
+          "この記事は「The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer」を扱っています。",
+          "ArXiv論文2605.29713のアブストラクトページ：生成的AI基盤の小さな本：直感的な数学的入門。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
       },
       {
         "title": "Scaling Git at OpenAI",
         "url": "https://openai.com/index/scaling-git-at-openai/",
         "points": 73,
-        "comments": 174,
+        "comments": 178,
         "author": "makeramen",
         "createdAt": "2026-11-02T23:47:56Z",
         "domain": "openai.com",
@@ -82,29 +102,9 @@
           "openai.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
           "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
-      },
-      {
-        "title": "Anthropic's growth just flattened",
-        "url": "https://www.regenerator1.com/p/anthropics-growth-just-flattened",
-        "points": 73,
-        "comments": 253,
-        "author": "cdrnsf",
-        "createdAt": "2026-11-02T22:33:20Z",
-        "domain": "regenerator1.com",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "Anthropicの成長はちょうど平坦化しました",
-        "summaryJa": "この記事は「Anthropicの成長はちょうど平坦化しました」を扱っています。regenerator1.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
-        "keyPoints": [
-          "この記事は「Anthropicの成長はちょうど平坦化しました」を扱っています。",
-          "regenerator1.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
-        ]
       }
     ],
-    "fetchedAt": "2026-11-03T17:00:18.082Z",
+    "fetchedAt": "2026-11-03T23:18:45.421Z",
     "mock": false
   },
   "xTrends": {
@@ -113,25 +113,25 @@
         "topic": "#Teamily_AI",
         "locationLabel": "米国",
         "bestRank": 4,
-        "appearances": 2,
+        "appearances": 9,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-11-03T17:00:16.653Z",
+        "observedAt": "2026-11-03T23:18:45.324Z",
         "url": "https://x.com/search?q=%23Teamily_AI&src=typed_query&f=live",
         "articleTitle": "#Teamily_AI",
         "articleTitleJa": "公開トレンド: #Teamily_AI",
         "articleUrl": "https://trends24.in/united-states/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-11-03T17:00:16.653Z",
+        "articlePublishedAt": "2026-11-03T23:18:45.324Z",
         "summaryJa": "米国のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
       }
     ],
-    "fetchedAt": "2026-11-03T17:00:18.082Z",
+    "fetchedAt": "2026-11-03T23:18:45.421Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-11-03T17:00:26.276Z"
+    "articleFetchedAt": "2026-11-03T23:18:46.121Z"
   }
 }
