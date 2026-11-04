@@ -2,30 +2,31 @@
   "news": {
     "items": [
       {
-        "title": "OpenAI seems to be silently re-enabling model training on Codex chats",
-        "url": "https://news.ycombinator.com/item?id=50352757",
-        "points": 121,
-        "comments": 149,
-        "author": "user052919",
-        "createdAt": "2026-11-03T14:53:41Z",
-        "domain": "news.ycombinator.com",
-        "sourceType": "hn",
-        "category": "AIモデル",
+        "title": "Building on open source AI? Hugging Face’s policy chief on the costs, risks, and trade-offs",
+        "url": "https://techcrunch.com/podcast/building-on-open-source-ai-hugging-faces-policy-chief-on-the-costs-risks-and-trade-offs/",
+        "points": 133,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-11-04T18:44:57.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
+        "category": "AIニュース",
         "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "OpenAIは、Codexチャットで静かにモデルトレーニングを再有効化しているようです",
-        "summaryJa": "この記事は「OpenAIは、Codexチャットで静かにモデルトレーニングを再有効化しているようです」を扱っています。私の会社は、プロンプトを通じてフロンティアラボにIPを漏洩することにかなり被害妄想を抱いているので、Codex/Claude Code/などでのデータ共有の無効化については、私たち全員が熱心に取り組んできました。しかし昨日、同僚と私は、設定がCodexで静かに再度有効になっていることに気づきました。",
+        "titleJa": "オープンソースのAIを基盤に構築していますか？コスト、リスク、トレードオフに関するHugging Faceのポリシーチーフ",
+        "summaryJa": "この記事は「オープンソースのAIを基盤に構築していますか？コスト、リスク、トレードオフに関するHugging Faceのポリシーチーフ」を扱っています。オープンソースモデルは、企業、政府、スタートアップが同様に低コスト、より多くの制御、およびより柔軟性の約束に依存するにつれて、より主流になりつつあります。しかし、ますます能力のあるモデルがより自由に利用できるようになるにつれて、企業はどのように価値を獲得しているのでしょうか？",
         "keyPoints": [
-          "この記事は「OpenAIは、Codexチャットで静かにモデルトレーニングを再有効化しているようです」を扱っています。",
-          "私の会社は、プロンプトを通じてフロンティアラボにIPを漏洩することにかなり被害妄想を抱いているので、Codex/Claude Code/などでのデータ共有の無効化については、私たち全員が熱心に取り組んできました。",
-          "しかし昨日、同僚と私は、設定がCodexで静かに再度有効になっていることに気づきました。"
+          "この記事は「オープンソースのAIを基盤に構築していますか。",
+          "コスト、リスク、トレードオフに関するHugging Faceのポリシーチーフ」を扱っています。",
+          "オープンソースモデルは、企業、政府、スタートアップが同様に低コスト、より多くの制御、およびより柔軟性の約束に依存するにつれて、より主流になりつつあります。"
         ]
       },
       {
         "title": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
         "url": "https://news.ycombinator.com/item?id=50363461",
         "points": 121,
-        "comments": 64,
+        "comments": 147,
         "author": "jameslk",
         "createdAt": "2026-11-04T10:10:27Z",
         "domain": "news.ycombinator.com",
@@ -42,69 +43,68 @@
         ]
       },
       {
-        "title": "Anthropic is working on a system to prove AI models’ identity",
-        "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+        "title": "Open source AI is booming. Hugging Face explains who profits.",
+        "url": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
         "points": 107,
         "comments": 0,
         "author": "",
-        "createdAt": "2026-11-03T22:41:03.000Z",
+        "createdAt": "2026-11-04T19:30:04.000Z",
         "domain": "techcrunch.com",
         "sourceType": "rss",
         "sourceLabel": "TechCrunch AI",
         "newsLens": "一般",
-        "category": "AIモデル",
+        "category": "AIニュース",
         "impact": "高",
-        "titleJa": "Anthropicは、AIモデルのアイデンティティを証明するシステムに取り組んでいます",
-        "summaryJa": "この記事は「Anthropicは、AIモデルのアイデンティティを証明するシステムに取り組んでいます」を扱っています。FlashProveと呼ばれるこのシステムは、AIの応答が実際にそれが発信されたと主張するモデルから来たかどうかを誰でも確認できるようにします。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "titleJa": "オープンソースAIが活況を呈しています。ハグしている顔は、誰が利益を得るかを説明します。",
+        "summaryJa": "この記事は「オープンソースAIが活況を呈しています。ハグしている顔は、誰が利益を得るかを説明します。」を扱っています。オープンソースモデルは、企業、政府、スタートアップが同様に低コスト、より多くの制御、およびより柔軟性の約束に依存するにつれて、より主流になりつつあります。しかし、ますます能力のあるモデルがより自由に利用できるようになるにつれて、企業はどのように価値を獲得しているのでしょうか？",
         "keyPoints": [
-          "この記事は「Anthropicは、AIモデルのアイデンティティを証明するシステムに取り組んでいます」を扱っています。",
-          "FlashProveと呼ばれるこのシステムは、AIの応答が実際にそれが発信されたと主張するモデルから来たかどうかを誰でも確認できるようにします。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+          "この記事は「オープンソースAIが活況を呈しています。",
+          "ハグしている顔は、誰が利益を得るかを説明します。",
+          "オープンソースモデルは、企業、政府、スタートアップが同様に低コスト、より多くの制御、およびより柔軟性の約束に依存するにつれて、より主流になりつつあります。"
         ]
       },
       {
-        "title": "Show HN: Kairos – Open-source risk and fraud decisioning platform",
-        "url": "https://github.com/finic-ai/kairos",
-        "points": 94,
-        "comments": 27,
-        "author": "ayanb9440",
-        "createdAt": "2026-11-03T21:16:48Z",
-        "domain": "github.com",
+        "title": "Progress on provable inference for large language models",
+        "url": "https://www.anthropic.com/research/provable-inference",
+        "points": 101,
+        "comments": 68,
+        "author": "ltononro",
+        "createdAt": "2026-11-04T17:17:46Z",
+        "domain": "anthropic.com",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "大規模言語モデルの証明可能な推論の進歩",
+        "summaryJa": "この記事は「大規模言語モデルの証明可能な推論の進歩」を扱っています。証明可能な推論に一意に適したzkSNARKとして知られる強力な暗号証明の進捗状況を共有します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "keyPoints": [
+          "この記事は「大規模言語モデルの証明可能な推論の進歩」を扱っています。",
+          "証明可能な推論に一意に適したzkSNARKとして知られる強力な暗号証明の進捗状況を共有します。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+        ]
+      },
+      {
+        "title": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
+        "url": "https://www.ricursive.com/ripple",
+        "points": 99,
+        "comments": 45,
+        "author": "Philpax",
+        "createdAt": "2026-11-04T18:53:29Z",
+        "domain": "ricursive.com",
         "sourceType": "hn",
         "category": "AIニュース",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "Show HN: Kairos –オープンソースのリスクと不正行為の意思決定プラットフォーム",
-        "summaryJa": "この記事は「Show HN: Kairos –オープンソースのリスクと不正行為の意思決定プラットフォーム」を扱っています。Sift、Sardine、およびその他のリアルタイムの不正行為意思決定プラットフォームに代わるオープンソースのKairosを立ち上げます。Kairosは、従来の意思決定ツールが直面している2つの最大の問題に対処しています。",
+        "titleJa": "Ripple -65 Bプレビュー： Agenticコーディングに関する米国オープンウェイトSOTA",
+        "summaryJa": "この記事は「Ripple -65 Bプレビュー： Agenticコーディングに関する米国オープンウェイトSOTA」を扱っています。私たちは、チップ開発を再発明するための最先端のAI手法を開発し、従来の設計タイムラインを崩し、AIとそれを推進するハードウェアとの間のループを閉じ、カスタムシリコンのカンブリア爆発を可能にします。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
         "keyPoints": [
-          "この記事は「Show HN: Kairos –オープンソースのリスクと不正行為の意思決定プラットフォーム」を扱っています。",
-          "Sift、Sardine、およびその他のリアルタイムの不正行為意思決定プラットフォームに代わるオープンソースのKairosを立ち上げます。",
-          "Kairosは、従来の意思決定ツールが直面している2つの最大の問題に対処しています。"
-        ]
-      },
-      {
-        "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
-        "url": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
-        "points": 79,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-11-03T21:43:08.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
-        "category": "AIニュース",
-        "impact": "中",
-        "titleJa": "Ted SchleinのBallistic Venturesは、AI主導のサイバーセキュリティブームの中で新しいファンドのために4億9000万$を求めています",
-        "summaryJa": "この記事は「Ted SchleinのBallistic Venturesは、AI主導のサイバーセキュリティブームの中で新しいファンドのために4億9000万$を求めています」を扱っています。サイバーセキュリティに焦点を当てたBallistic Venturesは、新しいフラッグシップファンドのために3億6000万$を調達し、別の投資手段のために1億3000万$を調達しようとしています。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
-        "keyPoints": [
-          "この記事は「Ted SchleinのBallistic Venturesは、AI主導のサイバーセキュリティブームの中で新しいファンドのために4億9000万$を求めています」を扱っています。",
-          "サイバーセキュリティに焦点を当てたBallistic Venturesは、新しいフラッグシップファンドのために3億6000万$を調達し、別の投資手段のために1億3000万$を調達しようとしています。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+          "この記事は「Ripple -65 Bプレビュー： Agenticコーディングに関する米国オープンウェイトSOTA」を扱っています。",
+          "私たちは、チップ開発を再発明するための最先端のAI手法を開発し、従来の設計タイムラインを崩し、AIとそれを推進するハードウェアとの間のループを閉じ、カスタムシリコンのカンブリア爆発を可能にします。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
       }
     ],
-    "fetchedAt": "2026-11-04T14:32:19.804Z",
+    "fetchedAt": "2026-11-04T21:18:06.295Z",
     "mock": false
   },
   "xTrends": {
@@ -116,40 +116,22 @@
         "appearances": 1,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-11-04T14:32:19.756Z",
+        "observedAt": "2026-11-04T21:18:06.029Z",
         "url": "https://x.com/search?q=AI%E3%83%BB%E5%8D%8A%E5%B0%8E%E4%BD%93%E9%96%A2%E9%80%A3%E6%A0%AA&src=typed_query&f=live",
         "articleTitle": "AI・半導体関連株",
         "articleTitleJa": "公開トレンド: AI・半導体関連株",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-11-04T14:32:19.756Z",
+        "articlePublishedAt": "2026-11-04T21:18:06.029Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
-        "translationVersion": 3,
-        "articleFallback": true
-      },
-      {
-        "topic": "#Teamily_AI",
-        "locationLabel": "米国",
-        "bestRank": 4,
-        "appearances": 4,
-        "trendSource": "Trends24",
-        "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-11-04T14:32:19.675Z",
-        "url": "https://x.com/search?q=%23Teamily_AI&src=typed_query&f=live",
-        "articleTitle": "#Teamily_AI",
-        "articleTitleJa": "公開トレンド: #Teamily_AI",
-        "articleUrl": "https://trends24.in/united-states/",
-        "articleSource": "Trends24",
-        "articlePublishedAt": "2026-11-04T14:32:19.675Z",
-        "summaryJa": "米国のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
       }
     ],
-    "fetchedAt": "2026-11-04T14:32:19.804Z",
+    "fetchedAt": "2026-11-04T21:18:06.295Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-11-04T14:32:21.595Z"
+    "articleFetchedAt": "2026-11-04T21:18:06.828Z"
   }
 }
