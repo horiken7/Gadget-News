@@ -5,7 +5,7 @@
         "title": "OpenAI seems to be silently re-enabling model training on Codex chats",
         "url": "https://news.ycombinator.com/item?id=50352757",
         "points": 121,
-        "comments": 144,
+        "comments": 149,
         "author": "user052919",
         "createdAt": "2026-11-03T14:53:41Z",
         "domain": "news.ycombinator.com",
@@ -19,6 +19,26 @@
           "この記事は「OpenAIは、Codexチャットで静かにモデルトレーニングを再有効化しているようです」を扱っています。",
           "私の会社は、プロンプトを通じてフロンティアラボにIPを漏洩することにかなり被害妄想を抱いているので、Codex/Claude Code/などでのデータ共有の無効化については、私たち全員が熱心に取り組んできました。",
           "しかし昨日、同僚と私は、設定がCodexで静かに再度有効になっていることに気づきました。"
+        ]
+      },
+      {
+        "title": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
+        "url": "https://news.ycombinator.com/item?id=50363461",
+        "points": 121,
+        "comments": 64,
+        "author": "jameslk",
+        "createdAt": "2026-11-04T10:10:27Z",
+        "domain": "news.ycombinator.com",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "HNに伝える： Geminiは、加入者（個人アカウント）であっても、チャット履歴を訓練します",
+        "summaryJa": "この記事は「HNに伝える： Geminiは、加入者（個人アカウント）であっても、チャット履歴を訓練します」を扱っています。個人的なGoogle AIサブスクリプションをお持ちの場合、Geminiに保存されているチャット履歴はすべてトレーニングに使用できます。チャット履歴をオフにしたり、一時的なチャットセッションを使用したりしない限り、オプトアウトすることはできません。",
+        "keyPoints": [
+          "この記事は「HNに伝える： Geminiは、加入者（個人アカウント）であっても、チャット履歴を訓練します」を扱っています。",
+          "個人的なGoogle AIサブスクリプションをお持ちの場合、Geminiに保存されているチャット履歴はすべてトレーニングに使用できます。",
+          "チャット履歴をオフにしたり、一時的なチャットセッションを使用したりしない限り、オプトアウトすることはできません。"
         ]
       },
       {
@@ -43,36 +63,16 @@
         ]
       },
       {
-        "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
-        "url": "https://arxiv.org/abs/2605.29713",
-        "points": 93,
-        "comments": 49,
-        "author": "ibobev",
-        "createdAt": "2026-11-03T21:40:53Z",
-        "domain": "arxiv.org",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "AIニュース: The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
-        "summaryJa": "この記事は「The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer」を扱っています。ArXiv論文2605.29713のアブストラクトページ：生成的AI基盤の小さな本：直感的な数学的入門。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
-        "keyPoints": [
-          "この記事は「The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer」を扱っています。",
-          "ArXiv論文2605.29713のアブストラクトページ：生成的AI基盤の小さな本：直感的な数学的入門。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
-        ]
-      },
-      {
         "title": "Show HN: Kairos – Open-source risk and fraud decisioning platform",
         "url": "https://github.com/finic-ai/kairos",
-        "points": 90,
-        "comments": 17,
+        "points": 94,
+        "comments": 27,
         "author": "ayanb9440",
         "createdAt": "2026-11-03T21:16:48Z",
         "domain": "github.com",
         "sourceType": "hn",
         "category": "AIニュース",
-        "impact": "中",
+        "impact": "高",
         "newsLens": "技術",
         "titleJa": "Show HN: Kairos –オープンソースのリスクと不正行為の意思決定プラットフォーム",
         "summaryJa": "この記事は「Show HN: Kairos –オープンソースのリスクと不正行為の意思決定プラットフォーム」を扱っています。Sift、Sardine、およびその他のリアルタイムの不正行為意思決定プラットフォームに代わるオープンソースのKairosを立ち上げます。Kairosは、従来の意思決定ツールが直面している2つの最大の問題に対処しています。",
@@ -104,7 +104,7 @@
         ]
       }
     ],
-    "fetchedAt": "2026-11-04T06:13:01.185Z",
+    "fetchedAt": "2026-11-04T14:32:19.804Z",
     "mock": false
   },
   "xTrends": {
@@ -116,13 +116,13 @@
         "appearances": 1,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-11-04T06:13:01.085Z",
+        "observedAt": "2026-11-04T14:32:19.756Z",
         "url": "https://x.com/search?q=AI%E3%83%BB%E5%8D%8A%E5%B0%8E%E4%BD%93%E9%96%A2%E9%80%A3%E6%A0%AA&src=typed_query&f=live",
         "articleTitle": "AI・半導体関連株",
         "articleTitleJa": "公開トレンド: AI・半導体関連株",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-11-04T06:13:01.085Z",
+        "articlePublishedAt": "2026-11-04T14:32:19.756Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -131,25 +131,25 @@
         "topic": "#Teamily_AI",
         "locationLabel": "米国",
         "bestRank": 4,
-        "appearances": 9,
+        "appearances": 4,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-11-04T06:13:01.126Z",
+        "observedAt": "2026-11-04T14:32:19.675Z",
         "url": "https://x.com/search?q=%23Teamily_AI&src=typed_query&f=live",
         "articleTitle": "#Teamily_AI",
         "articleTitleJa": "公開トレンド: #Teamily_AI",
         "articleUrl": "https://trends24.in/united-states/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-11-04T06:13:01.126Z",
+        "articlePublishedAt": "2026-11-04T14:32:19.675Z",
         "summaryJa": "米国のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
       }
     ],
-    "fetchedAt": "2026-11-04T06:13:01.185Z",
+    "fetchedAt": "2026-11-04T14:32:19.804Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-11-04T06:13:02.161Z"
+    "articleFetchedAt": "2026-11-04T14:32:21.595Z"
   }
 }
