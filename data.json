@@ -23,51 +23,71 @@
         ]
       },
       {
-        "title": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
-        "url": "https://news.ycombinator.com/item?id=50363461",
-        "points": 121,
-        "comments": 168,
-        "author": "jameslk",
-        "createdAt": "2026-11-04T10:10:27Z",
-        "domain": "news.ycombinator.com",
+        "title": "GPT-6 Astra covertly underperforms on safety research",
+        "url": "https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/",
+        "points": 127,
+        "comments": 73,
+        "author": "lucrbvi",
+        "createdAt": "2026-11-05T07:44:30Z",
+        "domain": "alignment.openai.com",
         "sourceType": "hn",
         "category": "AIモデル",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "HNに伝える： Geminiは、加入者（個人アカウント）であっても、チャット履歴を訓練します",
-        "summaryJa": "この記事は「HNに伝える： Geminiは、加入者（個人アカウント）であっても、チャット履歴を訓練します」を扱っています。個人的なGoogle AIサブスクリプションをお持ちの場合、Geminiに保存されているチャット履歴はすべてトレーニングに使用できます。チャット履歴をオフにしたり、一時的なチャットセッションを使用したりしない限り、オプトアウトすることはできません。",
+        "titleJa": "GPT -6アストラが安全性の研究でひそかに下回っている",
+        "summaryJa": "この記事は「GPT -6アストラが安全性の研究でひそかに下回っている」を扱っています。AIを人間の価値観や意図に合わせて研究し、モデルの失敗を文書化して報告する。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
         "keyPoints": [
-          "この記事は「HNに伝える： Geminiは、加入者（個人アカウント）であっても、チャット履歴を訓練します」を扱っています。",
-          "個人的なGoogle AIサブスクリプションをお持ちの場合、Geminiに保存されているチャット履歴はすべてトレーニングに使用できます。",
-          "チャット履歴をオフにしたり、一時的なチャットセッションを使用したりしない限り、オプトアウトすることはできません。"
+          "この記事は「GPT -6アストラが安全性の研究でひそかに下回っている」を扱っています。",
+          "AIを人間の価値観や意図に合わせて研究し、モデルの失敗を文書化して報告する。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
       },
       {
-        "title": "Almost no one uses AI agents to book their Uber, company says",
-        "url": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
+        "title": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
+        "url": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
         "points": 107,
         "comments": 0,
         "author": "",
-        "createdAt": "2026-11-04T21:56:01.000Z",
+        "createdAt": "2026-11-05T15:19:05.000Z",
         "domain": "techcrunch.com",
         "sourceType": "rss",
         "sourceLabel": "TechCrunch AI",
         "newsLens": "一般",
         "category": "AIニュース",
         "impact": "高",
-        "titleJa": "同社によると、AIエージェントを使用してUberを予約する人はほとんどいないという。",
-        "summaryJa": "この記事は「同社によると、AIエージェントを使用してUberを予約する人はほとんどいないという。」を扱っています。Uberは、前四半期の最も忙しい週に、AIエージェントを使用して配車を予約したのはわずか4人だったと述べた。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "titleJa": "Dropbox、Tigris Dataを3億5000万$で買収し、AIインフラを強化",
+        "summaryJa": "この記事は「Dropbox、Tigris Dataを3億5000万$で買収し、AIインフラを強化」を扱っています。この取引は、AIモデルとエージェントを構築する開発者を対象とした新しいストレージプラットフォームであるDBX Agent Cloudの開発をサポートすることが期待されています。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
-          "この記事は「同社によると、AIエージェントを使用してUberを予約する人はほとんどいないという。",
-          "Uberは、前四半期の最も忙しい週に、AIエージェントを使用して配車を予約したのはわずか4人だったと述べた。",
+          "この記事は「Dropbox、Tigris Dataを3億5000万$で買収し、AIインフラを強化」を扱っています。",
+          "この取引は、AIモデルとエージェントを構築する開発者を対象とした新しいストレージプラットフォームであるDBX Agent Cloudの開発をサポートすることが期待されています。",
           "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+        ]
+      },
+      {
+        "title": "Launch HN: Kino AI (YC S23) – AI media manager and video editor",
+        "url": "https://news.ycombinator.com/item?id=50368804",
+        "points": 105,
+        "comments": 34,
+        "author": "lukeigel",
+        "createdAt": "2026-11-04T17:31:53Z",
+        "domain": "news.ycombinator.com",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "HN: Kino AI (YC S 23)を立ち上げる– AIメディアマネージャーとビデオエディター",
+        "summaryJa": "この記事は「HN: Kino AI (YC S 23)を立ち上げる– AIメディアマネージャーとビデオエディター」を扱っています。Kinoを使用すると、エージェントやチームメイトと一緒に素晴らしいビデオを作成できます。映像やアセットの保存、豊富なビデオエディター、チームメイト向けのレビューリンクがすべて1つにまとめられています。",
+        "keyPoints": [
+          "この記事は「HN: Kino AI (YC S 23)を立ち上げる– AIメディアマネージャーとビデオエディター」を扱っています。",
+          "Kinoを使用すると、エージェントやチームメイトと一緒に素晴らしいビデオを作成できます。",
+          "映像やアセットの保存、豊富なビデオエディター、チームメイト向けのレビューリンクがすべて1つにまとめられています。"
         ]
       },
       {
         "title": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
         "url": "https://www.ricursive.com/ripple",
         "points": 101,
-        "comments": 99,
+        "comments": 118,
         "author": "Philpax",
         "createdAt": "2026-11-04T18:53:29Z",
         "domain": "ricursive.com",
@@ -82,29 +102,9 @@
           "私たちは、チップ開発を再発明するための最先端のAI手法を開発し、従来の設計タイムラインを崩し、AIとそれを推進するハードウェアとの間のループを閉じ、カスタムシリコンのカンブリア爆発を可能にします。",
           "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
-      },
-      {
-        "title": "Progress on provable inference for large language models",
-        "url": "https://www.anthropic.com/research/provable-inference",
-        "points": 101,
-        "comments": 90,
-        "author": "ltononro",
-        "createdAt": "2026-11-04T17:17:46Z",
-        "domain": "anthropic.com",
-        "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "大規模言語モデルの証明可能な推論の進歩",
-        "summaryJa": "この記事は「大規模言語モデルの証明可能な推論の進歩」を扱っています。証明可能な推論に一意に適したzkSNARKとして知られる強力な暗号証明の進捗状況を共有します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
-        "keyPoints": [
-          "この記事は「大規模言語モデルの証明可能な推論の進歩」を扱っています。",
-          "証明可能な推論に一意に適したzkSNARKとして知られる強力な暗号証明の進捗状況を共有します。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
-        ]
       }
     ],
-    "fetchedAt": "2026-11-05T06:40:28.619Z",
+    "fetchedAt": "2026-11-05T17:22:15.726Z",
     "mock": false
   },
   "xTrends": {
@@ -116,22 +116,40 @@
         "appearances": 2,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-11-05T06:40:28.572Z",
+        "observedAt": "2026-11-05T17:22:15.682Z",
         "url": "https://x.com/search?q=ChatGPT%20Images%202.6&src=typed_query&f=live",
         "articleTitle": "ChatGPT Images 2.6",
         "articleTitleJa": "公開トレンド: ChatGPT Images 2.6",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-11-05T06:40:28.572Z",
+        "articlePublishedAt": "2026-11-05T17:22:15.682Z",
+        "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
+        "translationVersion": 3,
+        "articleFallback": true
+      },
+      {
+        "topic": "AI暴走",
+        "locationLabel": "日本",
+        "bestRank": 46,
+        "appearances": 1,
+        "trendSource": "Trends24",
+        "sourceUrl": "https://trends24.in/japan/",
+        "observedAt": "2026-11-05T17:22:15.682Z",
+        "url": "https://x.com/search?q=AI%E6%9A%B4%E8%B5%B0&src=typed_query&f=live",
+        "articleTitle": "AI暴走",
+        "articleTitleJa": "公開トレンド: AI暴走",
+        "articleUrl": "https://trends24.in/japan/",
+        "articleSource": "Trends24",
+        "articlePublishedAt": "2026-11-05T17:22:15.682Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
       }
     ],
-    "fetchedAt": "2026-11-05T06:40:28.618Z",
+    "fetchedAt": "2026-11-05T17:22:15.726Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-11-05T06:40:29.055Z"
+    "articleFetchedAt": "2026-11-05T17:22:16.586Z"
   }
 }
