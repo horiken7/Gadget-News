@@ -26,7 +26,7 @@
         "title": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
         "url": "https://news.ycombinator.com/item?id=50363461",
         "points": 121,
-        "comments": 147,
+        "comments": 168,
         "author": "jameslk",
         "createdAt": "2026-11-04T10:10:27Z",
         "domain": "news.ycombinator.com",
@@ -43,51 +43,31 @@
         ]
       },
       {
-        "title": "Open source AI is booming. Hugging Face explains who profits.",
-        "url": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
+        "title": "Almost no one uses AI agents to book their Uber, company says",
+        "url": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
         "points": 107,
         "comments": 0,
         "author": "",
-        "createdAt": "2026-11-04T19:30:04.000Z",
+        "createdAt": "2026-11-04T21:56:01.000Z",
         "domain": "techcrunch.com",
         "sourceType": "rss",
         "sourceLabel": "TechCrunch AI",
         "newsLens": "一般",
         "category": "AIニュース",
         "impact": "高",
-        "titleJa": "オープンソースAIが活況を呈しています。ハグしている顔は、誰が利益を得るかを説明します。",
-        "summaryJa": "この記事は「オープンソースAIが活況を呈しています。ハグしている顔は、誰が利益を得るかを説明します。」を扱っています。オープンソースモデルは、企業、政府、スタートアップが同様に低コスト、より多くの制御、およびより柔軟性の約束に依存するにつれて、より主流になりつつあります。しかし、ますます能力のあるモデルがより自由に利用できるようになるにつれて、企業はどのように価値を獲得しているのでしょうか？",
+        "titleJa": "同社によると、AIエージェントを使用してUberを予約する人はほとんどいないという。",
+        "summaryJa": "この記事は「同社によると、AIエージェントを使用してUberを予約する人はほとんどいないという。」を扱っています。Uberは、前四半期の最も忙しい週に、AIエージェントを使用して配車を予約したのはわずか4人だったと述べた。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
-          "この記事は「オープンソースAIが活況を呈しています。",
-          "ハグしている顔は、誰が利益を得るかを説明します。",
-          "オープンソースモデルは、企業、政府、スタートアップが同様に低コスト、より多くの制御、およびより柔軟性の約束に依存するにつれて、より主流になりつつあります。"
-        ]
-      },
-      {
-        "title": "Progress on provable inference for large language models",
-        "url": "https://www.anthropic.com/research/provable-inference",
-        "points": 101,
-        "comments": 68,
-        "author": "ltononro",
-        "createdAt": "2026-11-04T17:17:46Z",
-        "domain": "anthropic.com",
-        "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "大規模言語モデルの証明可能な推論の進歩",
-        "summaryJa": "この記事は「大規模言語モデルの証明可能な推論の進歩」を扱っています。証明可能な推論に一意に適したzkSNARKとして知られる強力な暗号証明の進捗状況を共有します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
-        "keyPoints": [
-          "この記事は「大規模言語モデルの証明可能な推論の進歩」を扱っています。",
-          "証明可能な推論に一意に適したzkSNARKとして知られる強力な暗号証明の進捗状況を共有します。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+          "この記事は「同社によると、AIエージェントを使用してUberを予約する人はほとんどいないという。",
+          "Uberは、前四半期の最も忙しい週に、AIエージェントを使用して配車を予約したのはわずか4人だったと述べた。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       },
       {
         "title": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
         "url": "https://www.ricursive.com/ripple",
-        "points": 99,
-        "comments": 45,
+        "points": 101,
+        "comments": 99,
         "author": "Philpax",
         "createdAt": "2026-11-04T18:53:29Z",
         "domain": "ricursive.com",
@@ -102,36 +82,56 @@
           "私たちは、チップ開発を再発明するための最先端のAI手法を開発し、従来の設計タイムラインを崩し、AIとそれを推進するハードウェアとの間のループを閉じ、カスタムシリコンのカンブリア爆発を可能にします。",
           "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
+      },
+      {
+        "title": "Progress on provable inference for large language models",
+        "url": "https://www.anthropic.com/research/provable-inference",
+        "points": 101,
+        "comments": 90,
+        "author": "ltononro",
+        "createdAt": "2026-11-04T17:17:46Z",
+        "domain": "anthropic.com",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "大規模言語モデルの証明可能な推論の進歩",
+        "summaryJa": "この記事は「大規模言語モデルの証明可能な推論の進歩」を扱っています。証明可能な推論に一意に適したzkSNARKとして知られる強力な暗号証明の進捗状況を共有します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "keyPoints": [
+          "この記事は「大規模言語モデルの証明可能な推論の進歩」を扱っています。",
+          "証明可能な推論に一意に適したzkSNARKとして知られる強力な暗号証明の進捗状況を共有します。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+        ]
       }
     ],
-    "fetchedAt": "2026-11-04T21:18:06.295Z",
+    "fetchedAt": "2026-11-05T06:40:28.619Z",
     "mock": false
   },
   "xTrends": {
     "items": [
       {
-        "topic": "AI・半導体関連株",
+        "topic": "ChatGPT Images 2.6",
         "locationLabel": "日本",
-        "bestRank": 37,
-        "appearances": 1,
+        "bestRank": 40,
+        "appearances": 2,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-11-04T21:18:06.029Z",
-        "url": "https://x.com/search?q=AI%E3%83%BB%E5%8D%8A%E5%B0%8E%E4%BD%93%E9%96%A2%E9%80%A3%E6%A0%AA&src=typed_query&f=live",
-        "articleTitle": "AI・半導体関連株",
-        "articleTitleJa": "公開トレンド: AI・半導体関連株",
+        "observedAt": "2026-11-05T06:40:28.572Z",
+        "url": "https://x.com/search?q=ChatGPT%20Images%202.6&src=typed_query&f=live",
+        "articleTitle": "ChatGPT Images 2.6",
+        "articleTitleJa": "公開トレンド: ChatGPT Images 2.6",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-11-04T21:18:06.029Z",
+        "articlePublishedAt": "2026-11-05T06:40:28.572Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
       }
     ],
-    "fetchedAt": "2026-11-04T21:18:06.295Z",
+    "fetchedAt": "2026-11-05T06:40:28.618Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-11-04T21:18:06.828Z"
+    "articleFetchedAt": "2026-11-05T06:40:29.055Z"
   }
 }
