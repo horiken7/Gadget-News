@@ -2,26 +2,6 @@
   "news": {
     "items": [
       {
-        "title": "GPT-6 Astra covertly underperforms on safety research",
-        "url": "https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/",
-        "points": 127,
-        "comments": 175,
-        "author": "lucrbvi",
-        "createdAt": "2026-11-05T07:44:30Z",
-        "domain": "alignment.openai.com",
-        "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "GPT -6アストラが安全性の研究でひそかに下回っている",
-        "summaryJa": "この記事は「GPT -6アストラが安全性の研究でひそかに下回っている」を扱っています。AIを人間の価値観や意図に合わせて研究し、モデルの失敗を文書化して報告する。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
-        "keyPoints": [
-          "この記事は「GPT -6アストラが安全性の研究でひそかに下回っている」を扱っています。",
-          "AIを人間の価値観や意図に合わせて研究し、モデルの失敗を文書化して報告する。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
-        ]
-      },
-      {
         "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
         "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
         "points": 115,
@@ -66,8 +46,8 @@
       {
         "title": "Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3",
         "url": "https://github.com/rivet-dev/rivet",
-        "points": 91,
-        "comments": 48,
+        "points": 98,
+        "comments": 58,
         "author": "NathanFlurry",
         "createdAt": "2026-11-05T17:17:42Z",
         "domain": "github.com",
@@ -87,7 +67,7 @@
         "title": "Claude Code sends your email address to websites",
         "url": "https://github.com/anthropics/claude-code/issues/107757",
         "points": 73,
-        "comments": 283,
+        "comments": 453,
         "author": "motoroco",
         "createdAt": "2026-11-05T22:17:15Z",
         "domain": "github.com",
@@ -102,31 +82,33 @@
           "バグの説明私の許可なくウェブ検索を行っている間、Claudeコードがユーザーエージェントのリクエストヘッダーで任意のサードパーティにメールを漏らしたため、1日に数十通の詐欺メールを受け取ります。",
           "これは設定ウィットであってはなりません...。"
         ]
+      },
+      {
+        "title": "Gemini Omni 1.2 Flash",
+        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+        "points": 73,
+        "comments": 142,
+        "author": "thisisauserid",
+        "createdAt": "2026-11-06T13:35:27Z",
+        "domain": "blog.google",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "Gemini Omni 1.2フラッシュ",
+        "summaryJa": "この記事は「Gemini Omni 1.2フラッシュ」を扱っています。Gemini Omni 1.2 Flashは、ネイティブの15秒間のビデオ生成と編集、より強力な一貫性、30 ％の価格設定を実現します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "keyPoints": [
+          "この記事は「Gemini Omni 1.2フラッシュ」を扱っています。",
+          "Gemini Omni 1.2 Flashは、ネイティブの15秒間のビデオ生成と編集、より強力な一貫性、30 ％の価格設定を実現します。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+        ]
       }
     ],
-    "fetchedAt": "2026-11-06T06:37:16.440Z",
+    "fetchedAt": "2026-11-06T16:44:19.654Z",
     "mock": false
   },
   "xTrends": {
     "items": [
-      {
-        "topic": "AIバブル崩壊",
-        "locationLabel": "日本",
-        "bestRank": 29,
-        "appearances": 3,
-        "trendSource": "Trends24",
-        "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-11-06T06:37:16.349Z",
-        "url": "https://x.com/search?q=AI%E3%83%90%E3%83%96%E3%83%AB%E5%B4%A9%E5%A3%8A&src=typed_query&f=live",
-        "articleTitle": "AIバブル崩壊",
-        "articleTitleJa": "公開トレンド: AIバブル崩壊",
-        "articleUrl": "https://trends24.in/japan/",
-        "articleSource": "Trends24",
-        "articlePublishedAt": "2026-11-06T06:37:16.349Z",
-        "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
-        "translationVersion": 3,
-        "articleFallback": true
-      },
       {
         "topic": "AI・データセンター規制強化",
         "locationLabel": "日本",
@@ -134,13 +116,13 @@
         "appearances": 2,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-11-06T06:37:16.349Z",
+        "observedAt": "2026-11-06T16:44:19.635Z",
         "url": "https://x.com/search?q=AI%E3%83%BB%E3%83%87%E3%83%BC%E3%82%BF%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E8%A6%8F%E5%88%B6%E5%BC%B7%E5%8C%96&src=typed_query&f=live",
         "articleTitle": "AI・データセンター規制強化",
         "articleTitleJa": "公開トレンド: AI・データセンター規制強化",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-11-06T06:37:16.349Z",
+        "articlePublishedAt": "2026-11-06T16:44:19.635Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -152,42 +134,25 @@
         "appearances": 1,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-11-06T06:37:16.349Z",
+        "observedAt": "2026-11-06T16:44:19.635Z",
         "url": "https://x.com/search?q=AI%E3%83%90%E3%83%96%E3%83%AB&src=typed_query&f=live",
         "articleTitle": "AIバブル",
         "articleTitleJa": "公開トレンド: AIバブル",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-11-06T06:37:16.349Z",
+        "articlePublishedAt": "2026-11-06T16:44:19.635Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
       },
       {
-        "topic": "GPT-6 Cyber",
-        "locationLabel": "米国",
-        "bestRank": 10,
-        "appearances": 7,
-        "trendSource": "Trends24",
-        "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-11-06T06:37:16.389Z",
-        "url": "https://x.com/search?q=GPT-6%20Cyber&src=typed_query&f=live",
-        "articleTitle": "GPT-6 Cyber",
-        "articleTitleJa": "GPT -6サイバー",
-        "articleUrl": "https://twitter.com/OpenAI/status/2118390190246879554",
-        "articleSource": "twitter.com",
-        "articlePublishedAt": "2026-11-05T17:37:05Z",
-        "summaryJa": "GPT ‑ 6 Cyberのご紹介：より強力な機能とより良いモデルアライメントを組み合わせたセキュリティ研究の大きな進歩。このモデルは、昨日発表したLinuxカーネルの研究を支え、Mozilla、Palo Alto Networks、California、Ciscoなどの企業のセキュリティチームと、Op…",
-        "translationVersion": 3
-      },
-      {
         "topic": "AI Cloud",
         "locationLabel": "米国",
-        "bestRank": 14,
+        "bestRank": 11,
         "appearances": 4,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-11-06T06:37:16.389Z",
+        "observedAt": "2026-11-06T16:44:19.528Z",
         "url": "https://x.com/search?q=AI%20Cloud&src=typed_query&f=live",
         "articleTitle": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
         "articleTitleJa": "Qualcomm Cloud AI 100 Ultra – 548 GB/秒で128 GBの150 W AIアクセラレーターカード",
@@ -196,12 +161,29 @@
         "articlePublishedAt": "2026-11-04T19:55:14Z",
         "summaryJa": "Qualcomm Cloud AI 100 Ultraは、ジェネレーティブAIを加速します。コスト最適化されたソリューションを発見し、当社の製品を探索してください。今すぐお問い合わせください。",
         "translationVersion": 3
+      },
+      {
+        "topic": "GPT-6 Cyber",
+        "locationLabel": "米国",
+        "bestRank": 27,
+        "appearances": 1,
+        "trendSource": "Trends24",
+        "sourceUrl": "https://trends24.in/united-states/",
+        "observedAt": "2026-11-06T16:44:19.528Z",
+        "url": "https://x.com/search?q=GPT-6%20Cyber&src=typed_query&f=live",
+        "articleTitle": "GPT-6 Cyber",
+        "articleTitleJa": "GPT -6サイバー",
+        "articleUrl": "https://twitter.com/OpenAI/status/2118390190246879554",
+        "articleSource": "twitter.com",
+        "articlePublishedAt": "2026-11-05T17:37:05Z",
+        "summaryJa": "GPT ‑ 6 Cyberのご紹介：より強力な機能とより良いモデルアライメントを組み合わせたセキュリティ研究の大きな進歩。このモデルは、昨日発表したLinuxカーネルの研究を支え、Mozilla、Palo Alto Networks、California、Ciscoなどの企業のセキュリティチームと、Op…",
+        "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-11-06T06:37:16.440Z",
+    "fetchedAt": "2026-11-06T16:44:19.654Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
-    "partial": false,
-    "articleFetchedAt": "2026-11-06T06:37:22.708Z"
+    "partial": true,
+    "articleFetchedAt": "2026-11-06T16:44:26.112Z"
   }
 }
