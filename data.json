@@ -23,27 +23,6 @@
         ]
       },
       {
-        "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
-        "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
-        "points": 115,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-11-06T06:28:32.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
-        "category": "AIニュース",
-        "impact": "高",
-        "titleJa": "Palo Alto Networks、AIエージェントのセキュリティスタートアップClutchを5億$で買収",
-        "summaryJa": "この記事は「Palo Alto Networks、AIエージェントのセキュリティスタートアップClutchを5億$で買収」を扱っています。情報筋によると、LightspeedとSignalFireの支援を受けたClutchの最後の評価額は8500万$だったという。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
-        "keyPoints": [
-          "この記事は「Palo Alto Networks、AIエージェントのセキュリティスタートアップClutchを5億$で買収」を扱っています。",
-          "情報筋によると、LightspeedとSignalFireの支援を受けたClutchの最後の評価額は8500万$だったという。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
-        ]
-      },
-      {
         "title": "Chainalysis says hackers stole credentials and tokens for all of its customers",
         "url": "https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/",
         "points": 107,
@@ -65,10 +44,51 @@
         ]
       },
       {
+        "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+        "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+        "points": 107,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-11-06T18:44:20.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
+        "category": "AIニュース",
+        "impact": "高",
+        "titleJa": "Metaは、Museエージェントとコラボレーションする新しい方法であるSpacesを紹介します",
+        "summaryJa": "この記事は「Metaは、Museエージェントとコラボレーションする新しい方法であるSpacesを紹介します」を扱っています。MetaのMuseエージェントは、新機能と統合を引き続き利用しています。Spacesは、AIヘルパーと対話するための新しい方法であることが約束されています。",
+        "keyPoints": [
+          "この記事は「Metaは、Museエージェントとコラボレーションする新しい方法であるSpacesを紹介します」を扱っています。",
+          "MetaのMuseエージェントは、新機能と統合を引き続き利用しています。",
+          "Spacesは、AIヘルパーと対話するための新しい方法であることが約束されています。"
+        ]
+      },
+      {
+        "title": "Microsoft is winding down Oracle deal to rent AI cloud capacity",
+        "url": "https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06/",
+        "points": 86,
+        "comments": 18,
+        "author": "brazukadev",
+        "createdAt": "2026-11-06T18:04:06Z",
+        "domain": "reuters.com",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "マイクロソフトは、AIクラウド容量をレンタルするオラクルの契約を縮小しています",
+        "summaryJa": "この記事は「マイクロソフトは、AIクラウド容量をレンタルするオラクルの契約を縮小しています」を扱っています。reuters.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "keyPoints": [
+          "この記事は「マイクロソフトは、AIクラウド容量をレンタルするオラクルの契約を縮小しています」を扱っています。",
+          "reuters.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+        ]
+      },
+      {
         "title": "Gemini Omni 1.2 Flash",
         "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
         "points": 73,
-        "comments": 225,
+        "comments": 233,
         "author": "thisisauserid",
         "createdAt": "2026-11-06T13:35:27Z",
         "domain": "blog.google",
@@ -83,29 +103,9 @@
           "Gemini Omni 1.2 Flashは、ネイティブの15秒間のビデオ生成と編集、より強力な一貫性、30 ％の価格設定を実現します。",
           "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
-      },
-      {
-        "title": "University libraries are being swarmed by AI bots, putting public access at risk",
-        "url": "https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287",
-        "points": 73,
-        "comments": 58,
-        "author": "blakesterz",
-        "createdAt": "2026-11-06T14:13:09Z",
-        "domain": "cbc.ca",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "大学の図書館はAIボットに群がっており、公共のアクセスが危険にさらされています",
-        "summaryJa": "この記事は「大学の図書館はAIボットに群がっており、公共のアクセスが危険にさらされています」を扱っています。cbc.caが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
-        "keyPoints": [
-          "この記事は「大学の図書館はAIボットに群がっており、公共のアクセスが危険にさらされています」を扱っています。",
-          "cbc.caが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
-        ]
       }
     ],
-    "fetchedAt": "2026-11-07T05:54:46.691Z",
+    "fetchedAt": "2026-11-07T12:56:04.672Z",
     "mock": false
   },
   "xTrends": {
@@ -114,25 +114,43 @@
         "topic": "AI龍我",
         "locationLabel": "日本",
         "bestRank": 15,
-        "appearances": 2,
+        "appearances": 3,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-11-07T05:54:46.465Z",
+        "observedAt": "2026-11-07T12:56:04.631Z",
         "url": "https://x.com/search?q=AI%E9%BE%8D%E6%88%91&src=typed_query&f=live",
         "articleTitle": "AI龍我",
         "articleTitleJa": "公開トレンド: AI龍我",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-11-07T05:54:46.465Z",
+        "articlePublishedAt": "2026-11-07T12:56:04.631Z",
+        "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
+        "translationVersion": 3,
+        "articleFallback": true
+      },
+      {
+        "topic": "🤖AI",
+        "locationLabel": "日本",
+        "bestRank": 39,
+        "appearances": 1,
+        "trendSource": "Trends24",
+        "sourceUrl": "https://trends24.in/japan/",
+        "observedAt": "2026-11-07T12:56:04.631Z",
+        "url": "https://x.com/search?q=%F0%9F%A4%96AI&src=typed_query&f=live",
+        "articleTitle": "🤖AI",
+        "articleTitleJa": "公開トレンド: 🤖AI",
+        "articleUrl": "https://trends24.in/japan/",
+        "articleSource": "Trends24",
+        "articlePublishedAt": "2026-11-07T12:56:04.631Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
       }
     ],
-    "fetchedAt": "2026-11-07T05:54:46.691Z",
+    "fetchedAt": "2026-11-07T12:56:04.672Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-11-07T05:54:47.103Z"
+    "articleFetchedAt": "2026-11-07T12:56:05.522Z"
   }
 }
