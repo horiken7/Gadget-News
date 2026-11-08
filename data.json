@@ -5,7 +5,7 @@
         "title": "The end of Microsoft Research's AI Frontiers group",
         "url": "https://hunch.net/?p=13764006",
         "points": 101,
-        "comments": 198,
+        "comments": 277,
         "author": "srean",
         "createdAt": "2026-11-07T18:02:17Z",
         "domain": "hunch.net",
@@ -25,7 +25,7 @@
         "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
         "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
         "points": 101,
-        "comments": 95,
+        "comments": 272,
         "author": "shmulc",
         "createdAt": "2026-11-07T20:45:32Z",
         "domain": "apiiro.com",
@@ -42,52 +42,10 @@
         ]
       },
       {
-        "title": "Crusoe sells troubled Wyoming data center project to Google",
-        "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
-        "points": 79,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-11-07T01:40:28.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
-        "category": "AIニュース",
-        "impact": "中",
-        "titleJa": "クルーソー、問題のあるワイオミング州のデータセンタープロジェクトをGoogleに売却",
-        "summaryJa": "この記事は「クルーソー、問題のあるワイオミング州のデータセンタープロジェクトをGoogleに売却」を扱っています。この取引は、大規模なAIデータセンターを開発する際の課題を浮き彫りにしています。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
-        "keyPoints": [
-          "この記事は「クルーソー、問題のあるワイオミング州のデータセンタープロジェクトをGoogleに売却」を扱っています。",
-          "この取引は、大規模なAIデータセンターを開発する際の課題を浮き彫りにしています。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
-        ]
-      },
-      {
-        "title": "Xinhua Headlines : 7th World Media Summit opens in Beijing , highlighting media transformation in AI age",
-        "url": "http://www.chinanationalnews.com/news/279418708/xinhua-headlines-7th-world-media-summit-opens-in-beijing-highlighting-media-transformation-in-ai-age",
-        "points": 79,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-11-07T22:00:00Z",
-        "domain": "chinanationalnews.com",
-        "sourceType": "gdelt",
-        "sourceLabel": "GDELT",
-        "category": "AIニュース",
-        "impact": "中",
-        "newsLens": "一般",
-        "titleJa": "新華社ヘッドライン：第7回世界メディアサミットが北京で開幕、AI時代のメディア変革を強調",
-        "summaryJa": "この記事は「新華社ヘッドライン：第7回世界メディアサミットが北京で開幕、AI時代のメディア変革を強調」を扱っています。chinanationalnews.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
-        "keyPoints": [
-          "この記事は「新華社ヘッドライン：第7回世界メディアサミットが北京で開幕、AI時代のメディア変革を強調」を扱っています。",
-          "chinanationalnews.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
-        ]
-      },
-      {
         "title": "Show HN: An offline desktop companion to help maintain a healthy blink rhythm",
         "url": "https://eyesrhythm.com/",
-        "points": 75,
-        "comments": 6,
+        "points": 77,
+        "comments": 15,
         "author": "prnysoni",
         "createdAt": "2026-11-07T21:47:47Z",
         "domain": "eyesrhythm.com",
@@ -102,54 +60,57 @@
           "ソフトウェアエンジニア、メカニカル/グラフィックデザイナーのような職業は、目に多くの負担をかけます。",
           "画面上で何時間も何時間も細部を観察することで、瞬き率を大幅に低下させることができます。"
         ]
+      },
+      {
+        "title": "Goodbye Claude, Hello Pi",
+        "url": "https://caleb.software/posts/claude-to-pi.html",
+        "points": 73,
+        "comments": 185,
+        "author": "karagenit",
+        "createdAt": "2026-11-08T03:11:48Z",
+        "domain": "caleb.software",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "さよならClaude、ハローパイ",
+        "summaryJa": "この記事は「さよならClaude、ハローパイ」を扱っています。caleb.softwareが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "keyPoints": [
+          "この記事は「さよならClaude、ハローパイ」を扱っています。",
+          "caleb.softwareが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+        ]
+      },
+      {
+        "title": "ThinkStream – AI generates the work. We still need to understand it",
+        "url": "https://thinkstream.app/",
+        "points": 44,
+        "comments": 0,
+        "author": "aginext",
+        "createdAt": "2026-11-08T09:20:04Z",
+        "domain": "thinkstream.app",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "低",
+        "newsLens": "技術",
+        "titleJa": "ThinkStream – AIが作業を生成します。私たちはまだそれを理解する必要があります",
+        "summaryJa": "この記事は「ThinkStream – AIが作業を生成します。私たちはまだそれを理解する必要があります」を扱っています。会話を分岐したり、プロンプトテンプレートを再利用したりできるチャットアプリで、やり直すことなく、探索、比較、反復を行うことができます。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "keyPoints": [
+          "この記事は「ThinkStream – AIが作業を生成します。",
+          "私たちはまだそれを理解する必要があります」を扱っています。",
+          "会話を分岐したり、プロンプトテンプレートを再利用したりできるチャットアプリで、やり直すことなく、探索、比較、反復を行うことができます。"
+        ]
       }
     ],
-    "fetchedAt": "2026-11-08T00:33:02.008Z",
+    "fetchedAt": "2026-11-08T10:15:49.880Z",
     "mock": false
   },
   "xTrends": {
-    "items": [
-      {
-        "topic": "AI龍我",
-        "locationLabel": "日本",
-        "bestRank": 32,
-        "appearances": 1,
-        "trendSource": "Trends24",
-        "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-11-08T00:33:01.829Z",
-        "url": "https://x.com/search?q=AI%E9%BE%8D%E6%88%91&src=typed_query&f=live",
-        "articleTitle": "AI龍我",
-        "articleTitleJa": "公開トレンド: AI龍我",
-        "articleUrl": "https://trends24.in/japan/",
-        "articleSource": "Trends24",
-        "articlePublishedAt": "2026-11-08T00:33:01.829Z",
-        "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
-        "translationVersion": 3,
-        "articleFallback": true
-      },
-      {
-        "topic": "🤖AI",
-        "locationLabel": "日本",
-        "bestRank": 39,
-        "appearances": 1,
-        "trendSource": "Trends24",
-        "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-11-08T00:33:01.829Z",
-        "url": "https://x.com/search?q=%F0%9F%A4%96AI&src=typed_query&f=live",
-        "articleTitle": "🤖AI",
-        "articleTitleJa": "公開トレンド: 🤖AI",
-        "articleUrl": "https://trends24.in/japan/",
-        "articleSource": "Trends24",
-        "articlePublishedAt": "2026-11-08T00:33:01.829Z",
-        "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
-        "translationVersion": 3,
-        "articleFallback": true
-      }
-    ],
-    "fetchedAt": "2026-11-08T00:33:02.008Z",
+    "items": [],
+    "fetchedAt": "2026-11-08T10:15:49.880Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-11-08T00:33:02.722Z"
+    "articleFetchedAt": "2026-11-08T10:15:50.009Z"
   }
 }
