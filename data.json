@@ -5,7 +5,7 @@
         "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
         "url": "https://github.com/synchopate/llama-modchip",
         "points": 101,
-        "comments": 119,
+        "comments": 180,
         "author": "joshcsimmons",
         "createdAt": "2026-11-08T10:22:04Z",
         "domain": "github.com",
@@ -22,30 +22,10 @@
         ]
       },
       {
-        "title": "Goodbye Claude, hello Pi",
-        "url": "https://caleb.software/posts/claude-to-pi.html",
-        "points": 73,
-        "comments": 411,
-        "author": "karagenit",
-        "createdAt": "2026-11-08T03:11:48Z",
-        "domain": "caleb.software",
-        "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "AIニュース: Goodbye Claude, hello Pi",
-        "summaryJa": "この記事は「Goodbye Claude, hello Pi」を扱っています。caleb.softwareが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
-        "keyPoints": [
-          "この記事は「Goodbye Claude, hello Pi」を扱っています。",
-          "caleb.softwareが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
-        ]
-      },
-      {
-        "title": "Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
+        "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
         "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
         "points": 73,
-        "comments": 277,
+        "comments": 384,
         "author": "TheWiggles",
         "createdAt": "2026-11-08T18:16:07Z",
         "domain": "thestateofai.com",
@@ -53,66 +33,84 @@
         "category": "AIモデル",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "AIニュース: Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
-        "summaryJa": "この記事は「Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders」を扱っています。thestateofai.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "titleJa": "AIニュース: Goldman Sachs is pulling Claude Code from its bankers and traders",
+        "summaryJa": "この記事は「Goldman Sachs is pulling Claude Code from its bankers and traders」を扱っています。thestateofai.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
         "keyPoints": [
-          "この記事は「Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders」を扱っています。",
+          "この記事は「Goldman Sachs is pulling Claude Code from its bankers and traders」を扱っています。",
           "thestateofai.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
           "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
       },
       {
-        "title": "Pentagonul dezvoltă un sistem AI pentru protejarea piețelor financiare . SUA se tem de atacuri care ar putea provoca haos economic",
-        "url": "https://www.capital.ro/pentagonul-dezvolta-un-sistem-ai-pentru-protejarea-pietelor-financiare-sua-se-tem-de-atacuri-care-ar-putea-provoca-haos-economic.html",
-        "points": 53,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-11-08T21:00:00Z",
-        "domain": "capital.ro",
-        "sourceType": "gdelt",
-        "sourceLabel": "GDELT",
+        "title": "I'm not convinced the AI bubble exists",
+        "url": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists",
+        "points": 73,
+        "comments": 201,
+        "author": "matteoraso",
+        "createdAt": "2026-11-08T23:44:36Z",
+        "domain": "matteoraso.github.io",
+        "sourceType": "hn",
         "category": "AIニュース",
-        "impact": "低",
-        "newsLens": "一般",
-        "titleJa": "AIニュース: Pentagonul dezvoltă un sistem AI pentru protejarea piețelor financiare . SUA se tem de atacuri care ar putea provoca haos economic",
-        "summaryJa": "この記事は「Pentagonul dezvoltă un sistem AI pentru protejarea piețelor financiare . SUA se tem de atacuri care ar putea provoca haos economic」を扱っています。capital.roが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "AIニュース: I'm not convinced the AI bubble exists",
+        "summaryJa": "この記事は「I'm not convinced the AI bubble exists」を扱っています。matteoraso.github.ioが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
         "keyPoints": [
-          "この記事は「Pentagonul dezvoltă un sistem AI pentru protejarea piețelor financiare . SUA se tem de atacuri care ar putea provoca haos economic」を扱っています。",
-          "capital.roが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+          "この記事は「I'm not convinced the AI bubble exists」を扱っています。",
+          "matteoraso.github.ioが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
       },
       {
-        "title": "I let Gemini and ChatGPT hunt Black Friday deals ; only one saved me money",
-        "url": "https://www.androidpolice.com/gemini-chatgpt-black-friday-deals-saved-money/",
-        "points": 53,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-11-08T21:00:00Z",
-        "domain": "androidpolice.com",
-        "sourceType": "gdelt",
-        "sourceLabel": "GDELT",
-        "category": "AIモデル",
+        "title": "Anthropic strikes $3.4B deal to generate gas-fired power for data centres",
+        "url": "https://www.ft.com/content/41bf5c6a-9735-4f1a-a8e3-2bcccad58ba0",
+        "points": 71,
+        "comments": 28,
+        "author": "mraniki",
+        "createdAt": "2026-11-08T12:41:25Z",
+        "domain": "ft.com",
+        "sourceType": "hn",
+        "category": "AIニュース",
         "impact": "低",
-        "newsLens": "一般",
-        "titleJa": "AIニュース: I let Gemini and ChatGPT hunt Black Friday deals ; only one saved me money",
-        "summaryJa": "この記事は「I let Gemini and ChatGPT hunt Black Friday deals ; only one saved me money」を扱っています。androidpolice.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "newsLens": "技術",
+        "titleJa": "AIニュース: Anthropic strikes $3.4B deal to generate gas-fired power for data centres",
+        "summaryJa": "この記事は「Anthropic strikes $3.4B deal to generate gas-fired power for data centres」を扱っています。ft.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
         "keyPoints": [
-          "この記事は「I let Gemini and ChatGPT hunt Black Friday deals ; only one saved me money」を扱っています。",
-          "androidpolice.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+          "この記事は「Anthropic strikes $3.4B deal to generate gas-fired power for data centres」を扱っています。",
+          "ft.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+        ]
+      },
+      {
+        "title": "OpenAI raises $11B at a $1.25T valuation",
+        "url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought/",
+        "points": -9,
+        "comments": 204,
+        "author": "armcat",
+        "createdAt": "2026-11-08T14:49:23Z",
+        "domain": "247wallst.com",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "AIニュース: OpenAI raises $11B at a $1.25T valuation",
+        "summaryJa": "この記事は「OpenAI raises $11B at a $1.25T valuation」を扱っています。247wallst.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "keyPoints": [
+          "この記事は「OpenAI raises $11B at a $1.25T valuation」を扱っています。",
+          "247wallst.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
       }
     ],
-    "fetchedAt": "2026-11-08T22:00:08.124Z",
+    "fetchedAt": "2026-11-09T06:19:30.416Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-11-08T22:00:08.124Z",
+    "fetchedAt": "2026-11-09T06:19:30.416Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-11-08T22:00:08.258Z"
+    "articleFetchedAt": "2026-11-09T06:19:30.547Z"
   }
 }
