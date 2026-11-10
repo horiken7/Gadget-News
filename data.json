@@ -2,6 +2,27 @@
   "news": {
     "items": [
       {
+        "title": "Cyberattacks threaten to make open-source AI a little less open, Hugging Face exec warns",
+        "url": "https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns/",
+        "points": 133,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-11-10T13:00:00.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
+        "category": "AIニュース",
+        "impact": "高",
+        "titleJa": "Hugging Faceのエグゼクティブが警告するには、サイバー攻撃はオープンソースのAIをもう少しオープンにしてしまう恐れがある",
+        "summaryJa": "この記事は「Hugging Faceのエグゼクティブが警告するには、サイバー攻撃はオープンソースのAIをもう少しオープンにしてしまう恐れがある」を扱っています。Hugging FaceのエグゼクティブであるIrene Solaiman氏は、オープンなAIプラットフォームでのサイバー攻撃が増加すると、セキュリティ制限が厳しくなり、世界中の開発者にとってオープンソースコミュニティを価値あるものにするアクセシビリティが脅かされる可能性があると警告しています。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "keyPoints": [
+          "この記事は「Hugging Faceのエグゼクティブが警告するには、サイバー攻撃はオープンソースのAIをもう少しオープンにしてしまう恐れがある」を扱っています。",
+          "Hugging FaceのエグゼクティブであるIrene Solaiman氏は、オープンなAIプラットフォームでのサイバー攻撃が増加すると、セキュリティ制限が厳しくなり、世界中の開発者にとってオープンソースコミュニティを価値あるものにするアクセシビリティが脅かされる可能性があると警告しています。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+        ]
+      },
+      {
         "title": "Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny",
         "url": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/",
         "points": 133,
@@ -23,135 +44,94 @@
         ]
       },
       {
-        "title": "ChatGPT Desktop forwards your SSH agent to remote machines",
-        "url": "https://news.ycombinator.com/item?id=50422628",
-        "points": 121,
-        "comments": 71,
-        "author": "DenGorbachev",
-        "createdAt": "2026-11-09T08:17:49Z",
-        "domain": "news.ycombinator.com",
+        "title": "CoreWeave bond yield tops 16% as AI credit stress rises",
+        "url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
+        "points": 93,
+        "comments": 168,
+        "author": "lxm",
+        "createdAt": "2026-11-10T03:20:06Z",
+        "domain": "cnbc.com",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "AIクレジットストレスが高まる中、CoreWeave社の債券利回りは16%を上回る",
+        "summaryJa": "この記事は「AIクレジットストレスが高まる中、CoreWeave社の債券利回りは16%を上回る」を扱っています。Coreweaveの急激な利回りは、投資家がデータセンターの減速を懸念しているため、AI債券市場のストレスを反映しています。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "keyPoints": [
+          "この記事は「AIクレジットストレスが高まる中、CoreWeave社の債券利回りは16%を上回る」を扱っています。",
+          "Coreweaveの急激な利回りは、投資家がデータセンターの減速を懸念しているため、AI債券市場のストレスを反映しています。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+        ]
+      },
+      {
+        "title": "Claude Fable 5.2 and Mythos 5.2",
+        "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+        "points": 73,
+        "comments": 6,
+        "author": "meetpateltech",
+        "createdAt": "2026-11-09T18:56:29Z",
+        "domain": "anthropic.com",
         "sourceType": "hn",
         "category": "AIモデル",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "ChatGPT Desktopは、SSHエージェントをリモートマシンに転送します",
-        "summaryJa": "この記事は「ChatGPT Desktopは、SSHエージェントをリモートマシンに転送します」を扱っています。リモートマシンで実行されているエージェントは、ローカルSSH資格情報を使用して認証できます。つまり、たとえばGitHub上のプライベートリポジトリにプッシュできます。",
+        "titleJa": "Claude寓話5.2と神話5.2",
+        "summaryJa": "この記事は「Claude寓話5.2と神話5.2」を扱っています。Claude Fable 5.2とClaude Mythos 5.2は、最も困難な技術的課題に対応する新しいモデルです。Fable 5.2は、コーディング、ファイナンス、サイエンスに新しい基準を設定します。",
         "keyPoints": [
-          "この記事は「ChatGPT Desktopは、SSHエージェントをリモートマシンに転送します」を扱っています。",
-          "リモートマシンで実行されているエージェントは、ローカルSSH資格情報を使用して認証できます。",
-          "つまり、たとえばGitHub上のプライベートリポジトリにプッシュできます。"
+          "この記事は「Claude寓話5.2と神話5.2」を扱っています。",
+          "Claude Fable 5.2とClaude Mythos 5.2は、最も困難な技術的課題に対応する新しいモデルです。",
+          "Fable 5.2は、コーディング、ファイナンス、サイエンスに新しい基準を設定します。"
         ]
       },
       {
-        "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
-        "url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
-        "points": 107,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-11-09T19:24:51.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
-        "category": "AIモデル",
-        "impact": "高",
-        "titleJa": "Anthropicは、RSIの懸念の中で新しい神話と寓話のモデルをリリースします",
-        "summaryJa": "この記事は「Anthropicは、RSIの懸念の中で新しい神話と寓話のモデルをリリースします」を扱っています。Anthropicによると、新しいモデルは「コーディング、推論、ビジョンなどの分野での改善を示している」だけでなく、ユーザーとのコミュニケーションをより明確にしているという。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
-        "keyPoints": [
-          "この記事は「Anthropicは、RSIの懸念の中で新しい神話と寓話のモデルをリリースします」を扱っています。",
-          "Anthropicによると、新しいモデルは「コーディング、推論、ビジョンなどの分野での改善を示している」だけでなく、ユーザーとのコミュニケーションをより明確にしているという。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
-        ]
-      },
-      {
-        "title": "Anthropic super bug - finding Mythos model is going into Cisco and IBM products",
-        "url": "https://www.theregister.com/ai-and-ml/2026/11/10/anthropics-super-bug-finding-mythos-model-is-going-into-cisco-and-ibm-products/5308616",
-        "points": 101,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-11-10T03:00:00Z",
-        "domain": "theregister.com",
-        "sourceType": "gdelt",
-        "sourceLabel": "GDELT",
+        "title": "Google Gemini routes personal Drive files and emails to human annotators",
+        "url": "https://github.com/thisisme6598/gemini_files/",
+        "points": 73,
+        "comments": 143,
+        "author": "gf74918",
+        "createdAt": "2026-11-09T18:24:38Z",
+        "domain": "github.com",
+        "sourceType": "hn",
         "category": "AIモデル",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "Anthropicスーパーバグ- Mythosモデルの発見は、シスコとIBMの製品に進んでいます",
-        "summaryJa": "この記事は「Anthropicスーパーバグ- Mythosモデルの発見は、シスコとIBMの製品に進んでいます」を扱っています。エンタープライズセキュリティツールは、モデル自体を顧客に渡すことなく、その機能を提供します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "titleJa": "Google Geminiは、個人的なドライブファイルと電子メールを人間のアノテーターにルーティングします",
+        "summaryJa": "この記事は「Google Geminiは、個人的なドライブファイルと電子メールを人間のアノテーターにルーティングします」を扱っています。GitHubでアカウントを作成して、thisisme 6598/gemini_files開発に貢献します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
         "keyPoints": [
-          "この記事は「Anthropicスーパーバグ- Mythosモデルの発見は、シスコとIBMの製品に進んでいます」を扱っています。",
-          "エンタープライズセキュリティツールは、モデル自体を顧客に渡すことなく、その機能を提供します。",
+          "この記事は「Google Geminiは、個人的なドライブファイルと電子メールを人間のアノテーターにルーティングします」を扱っています。",
+          "GitHubでアカウントを作成して、thisisme 6598/gemini_files開発に貢献します。",
           "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
-        ]
-      },
-      {
-        "title": "Google Rejiggers TPU Accelerators For Broader AI Inference Work",
-        "url": "https://www.nextplatform.com/compute/2026/11/09/google-rejiggers-tpu-accelerators-for-broader-ai-inference-work/5308534",
-        "points": 81,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-11-10T03:00:00Z",
-        "domain": "nextplatform.com",
-        "sourceType": "gdelt",
-        "sourceLabel": "GDELT",
-        "category": "AIニュース",
-        "impact": "中",
-        "newsLens": "技術",
-        "titleJa": "より広範なAI推論作業のためのTPUアクセラレータをGoogle Rejiggers",
-        "summaryJa": "この記事は「より広範なAI推論作業のためのTPUアクセラレータをGoogle Rejiggers」を扱っています。新しいチップが必要な場合もあれば、新しいチップを設定する方法が必要な場合もあります...。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
-        "keyPoints": [
-          "この記事は「より広範なAI推論作業のためのTPUアクセラレータをGoogle Rejiggers」を扱っています。",
-          "新しいチップが必要な場合もあれば、新しいチップを設定する方法が必要な場合もあります...。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
       }
     ],
-    "fetchedAt": "2026-11-10T03:33:04.252Z",
+    "fetchedAt": "2026-11-10T14:49:32.168Z",
     "mock": false
   },
   "xTrends": {
     "items": [
       {
-        "topic": "サカナAI",
-        "locationLabel": "日本",
-        "bestRank": 29,
-        "appearances": 3,
+        "topic": "Grok 4.8",
+        "locationLabel": "米国",
+        "bestRank": 11,
+        "appearances": 4,
         "trendSource": "Trends24",
-        "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-11-10T03:33:04.237Z",
-        "url": "https://x.com/search?q=%E3%82%B5%E3%82%AB%E3%83%8AAI&src=typed_query&f=live",
-        "articleTitle": "サカナAI",
-        "articleTitleJa": "公開トレンド: サカナAI",
-        "articleUrl": "https://trends24.in/japan/",
+        "sourceUrl": "https://trends24.in/united-states/",
+        "observedAt": "2026-11-10T14:49:32.007Z",
+        "url": "https://x.com/search?q=Grok%204.8&src=typed_query&f=live",
+        "articleTitle": "Grok 4.8",
+        "articleTitleJa": "公開トレンド: Grok 4.8",
+        "articleUrl": "https://trends24.in/united-states/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-11-10T03:33:04.237Z",
-        "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
-        "translationVersion": 3,
-        "articleFallback": true
-      },
-      {
-        "topic": "生成AI専業初",
-        "locationLabel": "日本",
-        "bestRank": 46,
-        "appearances": 1,
-        "trendSource": "Trends24",
-        "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-11-10T03:33:04.237Z",
-        "url": "https://x.com/search?q=%E7%94%9F%E6%88%90AI%E5%B0%82%E6%A5%AD%E5%88%9D&src=typed_query&f=live",
-        "articleTitle": "生成AI専業初",
-        "articleTitleJa": "公開トレンド: 生成AI専業初",
-        "articleUrl": "https://trends24.in/japan/",
-        "articleSource": "Trends24",
-        "articlePublishedAt": "2026-11-10T03:33:04.237Z",
-        "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
+        "articlePublishedAt": "2026-11-10T14:49:32.007Z",
+        "summaryJa": "米国のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
       }
     ],
-    "fetchedAt": "2026-11-10T03:33:04.252Z",
+    "fetchedAt": "2026-11-10T14:49:32.168Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-11-10T03:33:04.811Z"
+    "articleFetchedAt": "2026-11-10T14:49:32.517Z"
   }
 }
