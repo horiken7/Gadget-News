@@ -44,10 +44,31 @@
         ]
       },
       {
+        "title": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
+        "url": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
+        "points": 107,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-11-10T21:12:59.000Z",
+        "domain": "arstechnica.com",
+        "sourceType": "rss",
+        "sourceLabel": "Ars Technica",
+        "newsLens": "技術",
+        "category": "AIニュース",
+        "impact": "高",
+        "titleJa": "Grok Buildコーディングエージェントが機密情報を漏洩、一部はSpaceXSIに所属",
+        "summaryJa": "この記事は「Grok Buildコーディングエージェントが機密情報を漏洩、一部はSpaceXSIに所属」を扱っています。研究者は、35,000のGrok Buildアプリが、それらを探していたすべての人に開放されていることを発見しました。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "keyPoints": [
+          "この記事は「Grok Buildコーディングエージェントが機密情報を漏洩、一部はSpaceXSIに所属」を扱っています。",
+          "研究者は、35,000のGrok Buildアプリが、それらを探していたすべての人に開放されていることを発見しました。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+        ]
+      },
+      {
         "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
         "url": "https://github.com/GoogleChrome/modern-web-guidance",
         "points": 101,
-        "comments": 45,
+        "comments": 100,
         "author": "paulirish",
         "createdAt": "2026-11-10T18:01:15Z",
         "domain": "github.com",
@@ -64,47 +85,27 @@
         ]
       },
       {
-        "title": "Gemini 4 Carbon is now available",
-        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/",
+        "title": "Tracking Anthropic-discovered vulnerabilities",
+        "url": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
         "points": 73,
-        "comments": 141,
-        "author": "meetpateltech",
-        "createdAt": "2026-11-10T16:07:15Z",
-        "domain": "blog.google",
+        "comments": 168,
+        "author": "panic",
+        "createdAt": "2026-11-10T22:17:56Z",
+        "domain": "vulncheck.com",
         "sourceType": "hn",
-        "category": "AIモデル",
+        "category": "AIニュース",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "Gemini4カーボンが利用可能になりました",
-        "summaryJa": "この記事は「Gemini4カーボンが利用可能になりました」を扱っています。今日、Gemini 4 Carbonを開発者、企業、科学者、消費者が利用できるようにしています。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "titleJa": "Anthropicが発見した脆弱性の追跡",
+        "summaryJa": "この記事は「Anthropicが発見した脆弱性の追跡」を扱っています。Project Glasswingから7か月後、VulnCheckはAnthropicに起因する442件のCVEを追跡し、今年公開されたすべてのCVEの約0.5 ％を占め、野生で悪用されていると特定されたのは2件のみです。Anthropicが報告した37,966件の調査結果のうち、公表されたのは7,349件（ 19.4 ％ ）のみで、修正されたのはわずか217件です。",
         "keyPoints": [
-          "この記事は「Gemini4カーボンが利用可能になりました」を扱っています。",
-          "今日、Gemini 4 Carbonを開発者、企業、科学者、消費者が利用できるようにしています。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
-        ]
-      },
-      {
-        "title": "A year after the 100% AI mandate nobody understands our code",
-        "url": "https://www.reddit.com/r/ClaudeCode/comments/1xq2n3t/a_year_after_the_100_ai_mandate_nobody/",
-        "points": 73,
-        "comments": 188,
-        "author": "thelifeline",
-        "createdAt": "2026-11-09T22:19:12Z",
-        "domain": "reddit.com",
-        "sourceType": "hn",
-        "category": "開発ツール",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "100 ％ AI義務の1年後、誰も私たちのコードを理解していません",
-        "summaryJa": "この記事は「100 ％ AI義務の1年後、誰も私たちのコードを理解していません」を扱っています。reddit.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、開発フロー、API、セキュリティ、運用コストへの影響が確認ポイントです。",
-        "keyPoints": [
-          "この記事は「100 ％ AI義務の1年後、誰も私たちのコードを理解していません」を扱っています。",
-          "reddit.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "技術者にとっては、開発フロー、API、セキュリティ、運用コストへの影響が確認ポイントです。"
+          "この記事は「Anthropicが発見した脆弱性の追跡」を扱っています。",
+          "Project Glasswingから7か月後、VulnCheckはAnthropicに起因する442件のCVEを追跡し、今年公開されたすべてのCVEの約0.5 ％を占め、野生で悪用されていると特定されたのは2件のみです。",
+          "Anthropicが報告した37,966件の調査結果のうち、公表されたのは7,349件（ 19.4 ％ ）のみで、修正されたのはわずか217件です。"
         ]
       }
     ],
-    "fetchedAt": "2026-11-10T21:17:13.282Z",
+    "fetchedAt": "2026-11-11T06:09:16.232Z",
     "mock": false
   },
   "xTrends": {
@@ -112,11 +113,11 @@
       {
         "topic": "Gemini 4 Carbon",
         "locationLabel": "日本",
-        "bestRank": 1,
-        "appearances": 7,
+        "bestRank": 12,
+        "appearances": 10,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-11-10T21:17:13.237Z",
+        "observedAt": "2026-11-11T06:09:16.155Z",
         "url": "https://x.com/search?q=Gemini%204%20Carbon&src=typed_query&f=live",
         "articleTitle": "Gemini 4 Carbon is now available",
         "articleTitleJa": "Gemini4カーボンが利用可能になりました",
@@ -129,17 +130,17 @@
       {
         "topic": "Grok 4.8",
         "locationLabel": "米国",
-        "bestRank": 11,
-        "appearances": 5,
+        "bestRank": 13,
+        "appearances": 4,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-11-10T21:17:13.214Z",
+        "observedAt": "2026-11-11T06:09:16.102Z",
         "url": "https://x.com/search?q=Grok%204.8&src=typed_query&f=live",
         "articleTitle": "Grok 4.8",
         "articleTitleJa": "公開トレンド: Grok 4.8",
         "articleUrl": "https://trends24.in/united-states/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-11-10T21:17:13.214Z",
+        "articlePublishedAt": "2026-11-11T06:09:16.102Z",
         "summaryJa": "米国のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -151,7 +152,7 @@
         "appearances": 3,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-11-10T21:17:13.214Z",
+        "observedAt": "2026-11-11T06:09:16.102Z",
         "url": "https://x.com/search?q=Claude%20Sheets&src=typed_query&f=live",
         "articleTitle": "Claude Whiteboards, Claude Sheets, and Claude Data",
         "articleTitleJa": "Claudeホワイトボード、Claudeシート、Claudeデータ",
@@ -168,22 +169,21 @@
         "appearances": 2,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-11-10T21:17:13.214Z",
+        "observedAt": "2026-11-11T06:09:16.102Z",
         "url": "https://x.com/search?q=Anthropic&src=typed_query&f=live",
-        "articleTitle": "Anthropic",
-        "articleTitleJa": "公開トレンド: Anthropic",
-        "articleUrl": "https://trends24.in/united-states/",
-        "articleSource": "Trends24",
-        "articlePublishedAt": "2026-11-10T21:17:13.214Z",
-        "summaryJa": "米国のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
-        "translationVersion": 3,
-        "articleFallback": true
+        "articleTitle": "Tracking Anthropic-discovered vulnerabilities",
+        "articleTitleJa": "Anthropicが発見した脆弱性の追跡",
+        "articleUrl": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
+        "articleSource": "vulncheck.com",
+        "articlePublishedAt": "2026-11-10T22:17:56Z",
+        "summaryJa": "Project Glasswingから7か月後、VulnCheckはAnthropicに起因する442件のCVEを追跡し、今年公開されたすべてのCVEの約0.5 ％を占め、野生で悪用されていると特定されたのは2件のみです。Anthropicが報告した37,966件の調査結果のうち、公表されたのは7,349件（ 19.4 ％ ）のみで、修正されたのはわずか217件です。",
+        "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-11-10T21:17:13.282Z",
+    "fetchedAt": "2026-11-11T06:09:16.232Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-11-10T21:17:20.538Z"
+    "articleFetchedAt": "2026-11-11T06:09:22.823Z"
   }
 }
