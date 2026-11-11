@@ -23,27 +23,6 @@
         ]
       },
       {
-        "title": "Cyberattacks threaten to make open source AI a little less open, Hugging Face exec warns",
-        "url": "https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns/",
-        "points": 133,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-11-10T13:00:00.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
-        "category": "AIニュース",
-        "impact": "高",
-        "titleJa": "Hugging Faceのエグゼクティブが警告するには、サイバー攻撃はオープンソースのAIをもう少しオープンにしてしまう恐れがある",
-        "summaryJa": "この記事は「Hugging Faceのエグゼクティブが警告するには、サイバー攻撃はオープンソースのAIをもう少しオープンにしてしまう恐れがある」を扱っています。Hugging FaceのエグゼクティブであるIrene Solaiman氏は、オープンなAIプラットフォームでのサイバー攻撃が増加すると、セキュリティ制限が厳しくなり、世界中の開発者にとってオープンソースコミュニティを価値あるものにするアクセシビリティが脅かされる可能性があると警告しています。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
-        "keyPoints": [
-          "この記事は「Hugging Faceのエグゼクティブが警告するには、サイバー攻撃はオープンソースのAIをもう少しオープンにしてしまう恐れがある」を扱っています。",
-          "Hugging FaceのエグゼクティブであるIrene Solaiman氏は、オープンなAIプラットフォームでのサイバー攻撃が増加すると、セキュリティ制限が厳しくなり、世界中の開発者にとってオープンソースコミュニティを価値あるものにするアクセシビリティが脅かされる可能性があると警告しています。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
-        ]
-      },
-      {
         "title": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
         "url": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
         "points": 107,
@@ -65,10 +44,31 @@
         ]
       },
       {
+        "title": "PSI is trying to make a business out of AI-driven scientific discovery",
+        "url": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
+        "points": 107,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-11-10T19:03:52.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
+        "category": "AIニュース",
+        "impact": "高",
+        "titleJa": "PSIは、AI主導の科学的発見からビジネスを作り出そうとしています",
+        "summaryJa": "この記事は「PSIは、AI主導の科学的発見からビジネスを作り出そうとしています」を扱っています。PSIは、科学者が20年近く追求してきた量子コンピューティングに関する基本的な質問に答えるために、未発表のAnthropicモデルを使用しました。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "keyPoints": [
+          "この記事は「PSIは、AI主導の科学的発見からビジネスを作り出そうとしています」を扱っています。",
+          "PSIは、科学者が20年近く追求してきた量子コンピューティングに関する基本的な質問に答えるために、未発表のAnthropicモデルを使用しました。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+        ]
+      },
+      {
         "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
         "url": "https://github.com/GoogleChrome/modern-web-guidance",
         "points": 101,
-        "comments": 100,
+        "comments": 132,
         "author": "paulirish",
         "createdAt": "2026-11-10T18:01:15Z",
         "domain": "github.com",
@@ -85,27 +85,27 @@
         ]
       },
       {
-        "title": "Tracking Anthropic-discovered vulnerabilities",
-        "url": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
-        "points": 73,
-        "comments": 168,
-        "author": "panic",
-        "createdAt": "2026-11-10T22:17:56Z",
-        "domain": "vulncheck.com",
+        "title": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
+        "url": "https://pietromiotti.com/latest/maya-site/?maya",
+        "points": 101,
+        "comments": 118,
+        "author": "eyvindn",
+        "createdAt": "2026-11-11T12:05:22Z",
+        "domain": "pietromiotti.com",
         "sourceType": "hn",
         "category": "AIニュース",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "Anthropicが発見した脆弱性の追跡",
-        "summaryJa": "この記事は「Anthropicが発見した脆弱性の追跡」を扱っています。Project Glasswingから7か月後、VulnCheckはAnthropicに起因する442件のCVEを追跡し、今年公開されたすべてのCVEの約0.5 ％を占め、野生で悪用されていると特定されたのは2件のみです。Anthropicが報告した37,966件の調査結果のうち、公表されたのは7,349件（ 19.4 ％ ）のみで、修正されたのはわずか217件です。",
+        "titleJa": "Google SWEがNASAのLidarで48人のAIエージェントを指し示し、72時間以内にマヤのピラミッドがマッピングされていないことを発見",
+        "summaryJa": "この記事は「Google SWEがNASAのLidarで48人のAIエージェントを指し示し、72時間以内にマヤのピラミッドがマッピングされていないことを発見」を扱っています。AIエージェントはNASAのライダーデータを一晩分析し、地図上にないジャングルの下にマヤ遺跡を発見しました。72時間も経たないうちに、メキシコのINAHが返答した。",
         "keyPoints": [
-          "この記事は「Anthropicが発見した脆弱性の追跡」を扱っています。",
-          "Project Glasswingから7か月後、VulnCheckはAnthropicに起因する442件のCVEを追跡し、今年公開されたすべてのCVEの約0.5 ％を占め、野生で悪用されていると特定されたのは2件のみです。",
-          "Anthropicが報告した37,966件の調査結果のうち、公表されたのは7,349件（ 19.4 ％ ）のみで、修正されたのはわずか217件です。"
+          "この記事は「Google SWEがNASAのLidarで48人のAIエージェントを指し示し、72時間以内にマヤのピラミッドがマッピングされていないことを発見」を扱っています。",
+          "AIエージェントはNASAのライダーデータを一晩分析し、地図上にないジャングルの下にマヤ遺跡を発見しました。",
+          "72時間も経たないうちに、メキシコのINAHが返答した。"
         ]
       }
     ],
-    "fetchedAt": "2026-11-11T06:09:16.232Z",
+    "fetchedAt": "2026-11-11T14:17:01.064Z",
     "mock": false
   },
   "xTrends": {
@@ -113,11 +113,11 @@
       {
         "topic": "Gemini 4 Carbon",
         "locationLabel": "日本",
-        "bestRank": 12,
-        "appearances": 10,
+        "bestRank": 28,
+        "appearances": 8,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-11-11T06:09:16.155Z",
+        "observedAt": "2026-11-11T14:17:00.941Z",
         "url": "https://x.com/search?q=Gemini%204%20Carbon&src=typed_query&f=live",
         "articleTitle": "Gemini 4 Carbon is now available",
         "articleTitleJa": "Gemini4カーボンが利用可能になりました",
@@ -126,64 +126,12 @@
         "articlePublishedAt": "2026-11-10T16:07:15Z",
         "summaryJa": "今日、Gemini 4 Carbonを開発者、企業、科学者、消費者が利用できるようにしています。",
         "translationVersion": 3
-      },
-      {
-        "topic": "Grok 4.8",
-        "locationLabel": "米国",
-        "bestRank": 13,
-        "appearances": 4,
-        "trendSource": "Trends24",
-        "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-11-11T06:09:16.102Z",
-        "url": "https://x.com/search?q=Grok%204.8&src=typed_query&f=live",
-        "articleTitle": "Grok 4.8",
-        "articleTitleJa": "公開トレンド: Grok 4.8",
-        "articleUrl": "https://trends24.in/united-states/",
-        "articleSource": "Trends24",
-        "articlePublishedAt": "2026-11-11T06:09:16.102Z",
-        "summaryJa": "米国のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
-        "translationVersion": 3,
-        "articleFallback": true
-      },
-      {
-        "topic": "Claude Sheets",
-        "locationLabel": "米国",
-        "bestRank": 28,
-        "appearances": 3,
-        "trendSource": "Trends24",
-        "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-11-11T06:09:16.102Z",
-        "url": "https://x.com/search?q=Claude%20Sheets&src=typed_query&f=live",
-        "articleTitle": "Claude Whiteboards, Claude Sheets, and Claude Data",
-        "articleTitleJa": "Claudeホワイトボード、Claudeシート、Claudeデータ",
-        "articleUrl": "https://claude.com/resources/articles/sheets-whiteboards-data",
-        "articleSource": "claude.com",
-        "articlePublishedAt": "2026-11-10T17:55:07Z",
-        "summaryJa": "Claudeと一緒に、共有ホワイトボードでブレーンストーミングを行い、スプレッドシートを作成し、ダッシュボードをチームと共有しましょう。本日、すべての有料プランでご利用いただけます。",
-        "translationVersion": 3
-      },
-      {
-        "topic": "Anthropic",
-        "locationLabel": "米国",
-        "bestRank": 42,
-        "appearances": 2,
-        "trendSource": "Trends24",
-        "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-11-11T06:09:16.102Z",
-        "url": "https://x.com/search?q=Anthropic&src=typed_query&f=live",
-        "articleTitle": "Tracking Anthropic-discovered vulnerabilities",
-        "articleTitleJa": "Anthropicが発見した脆弱性の追跡",
-        "articleUrl": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
-        "articleSource": "vulncheck.com",
-        "articlePublishedAt": "2026-11-10T22:17:56Z",
-        "summaryJa": "Project Glasswingから7か月後、VulnCheckはAnthropicに起因する442件のCVEを追跡し、今年公開されたすべてのCVEの約0.5 ％を占め、野生で悪用されていると特定されたのは2件のみです。Anthropicが報告した37,966件の調査結果のうち、公表されたのは7,349件（ 19.4 ％ ）のみで、修正されたのはわずか217件です。",
-        "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-11-11T06:09:16.232Z",
+    "fetchedAt": "2026-11-11T14:17:01.064Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-11-11T06:09:22.823Z"
+    "articleFetchedAt": "2026-11-11T14:17:03.993Z"
   }
 }
