@@ -3,91 +3,51 @@
     "items": [
       {
         "title": "The unfolding Jensen Huang scandal: a timeline",
-        "url": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+        "url": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
         "points": 133,
         "comments": 0,
         "author": "",
-        "createdAt": "2026-11-11T23:50:00.000Z",
+        "createdAt": "2026-11-12T14:30:01.000Z",
         "domain": "techcrunch.com",
         "sourceType": "rss",
         "sourceLabel": "TechCrunch AI",
         "newsLens": "一般",
         "category": "AIニュース",
         "impact": "高",
-        "titleJa": "ジェンセン・ファン氏のスキャンダル展開：年表",
-        "summaryJa": "この記事は「ジェンセン・ファン氏のスキャンダル展開：年表」を扱っています。米国と中国が最も先進的なAIインフラの開発競争を繰り広げる中、この問題は国家安全保障に影響を及ぼす可能性があります。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "titleJa": "ジェンセン・ファン氏に関するスキャンダルの展開：年表",
+        "summaryJa": "この記事は「ジェンセン・ファン氏に関するスキャンダルの展開：年表」を扱っています。ジェンソン・ファン氏が不倫を理由にNvidiaを辞任しました。これは、米国と中国が最も先進的なAIインフラの開発競争を繰り広げる中で、国家安全保障に影響を及ぼす可能性があります。",
         "keyPoints": [
-          "この記事は「ジェンセン・ファン氏のスキャンダル展開：年表」を扱っています。",
-          "米国と中国が最も先進的なAIインフラの開発競争を繰り広げる中、この問題は国家安全保障に影響を及ぼす可能性があります。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+          "この記事は「ジェンセン・ファン氏に関するスキャンダルの展開：年表」を扱っています。",
+          "ジェンソン・ファン氏が不倫を理由にNvidiaを辞任しました。",
+          "これは、米国と中国が最も先進的なAIインフラの開発競争を繰り広げる中で、国家安全保障に影響を及ぼす可能性があります。"
         ]
       },
       {
-        "title": "Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth",
-        "url": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/",
-        "points": 133,
+        "title": "Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry",
+        "url": "https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry/",
+        "points": 105,
         "comments": 0,
         "author": "",
-        "createdAt": "2026-11-11T15:00:00.000Z",
+        "createdAt": "2026-11-12T16:32:33.000Z",
         "domain": "techcrunch.com",
         "sourceType": "rss",
         "sourceLabel": "TechCrunch AI",
         "newsLens": "一般",
         "category": "AIニュース",
         "impact": "高",
-        "titleJa": "Databricksの新しいAIエージェントがCEOのアリ・ゴドシ氏にありのままの真実を伝える",
-        "summaryJa": "この記事は「Databricksの新しいAIエージェントがCEOのアリ・ゴドシ氏にありのままの真実を伝える」を扱っています。Databricksの従業員数は12,000人に上りますが、AI Ghodsi氏は、全員を知ることができないこと、そして従業員が問題点を彼に打ち明ける可能性は低いことを真っ先に認めています。しかし、彼にはその必要はありません。",
+        "titleJa": "ジェンソン・ファン氏がNvidiaから追放されることでAI業界に損害をもたらす5つの理由",
+        "summaryJa": "この記事は「ジェンソン・ファン氏がNvidiaから追放されることでAI業界に損害をもたらす5つの理由」を扱っています。Nvidiaの元CEOであるジェンセン・ファン氏の失脚は、単なるありふれた億万長者の性的なスキャンダルではありません。彼は自分の影響力を利用して、非常に特定の方向でAI業界を推進していました。",
         "keyPoints": [
-          "この記事は「Databricksの新しいAIエージェントがCEOのアリ・ゴドシ氏にありのままの真実を伝える」を扱っています。",
-          "Databricksの従業員数は12,000人に上りますが、AI Ghodsi氏は、全員を知ることができないこと、そして従業員が問題点を彼に打ち明ける可能性は低いことを真っ先に認めています。",
-          "しかし、彼にはその必要はありません。"
-        ]
-      },
-      {
-        "title": "Launch HN: Pomerado (YC F26) – Turn any website into an MCP for agents",
-        "url": "https://news.ycombinator.com/item?id=50455811",
-        "points": 128,
-        "comments": 42,
-        "author": "alanjm23",
-        "createdAt": "2026-11-11T17:11:56Z",
-        "domain": "news.ycombinator.com",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "低",
-        "newsLens": "技術",
-        "titleJa": "HNローンチ：Pomerado（YC F26）– どのウェブサイトもエージェント用のMCPに変換",
-        "summaryJa": "この記事は「HNローンチ：Pomerado（YC F26）– どのウェブサイトもエージェント用のMCPに変換」を扱っています。Pomerado（ https://pomerado.ai/ ）のアランとアクシャイです。当社は、サイトを決定論的で自己修復型のAPIに数分で変換することで、エージェントをあらゆるウェブサイトに接続します。",
-        "keyPoints": [
-          "この記事は「HNローンチ：Pomerado（YC F26）– どのウェブサイトもエージェント用のMCPに変換」を扱っています。",
-          "Pomerado（ https://pomerado.ai/ ）のアランとアクシャイです。",
-          "当社は、サイトを決定論的で自己修復型のAPIに数分で変換することで、エージェントをあらゆるウェブサイトに接続します。"
-        ]
-      },
-      {
-        "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
-        "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
-        "points": 101,
-        "comments": 498,
-        "author": "herpderperator",
-        "createdAt": "2026-11-11T21:24:35Z",
-        "domain": "cbsnews.com",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "ユナイテッド航空、AIエージェントによる旅行者の代理での航空券予約を禁止",
-        "summaryJa": "この記事は「ユナイテッド航空、AIエージェントによる旅行者の代理での航空券予約を禁止」を扱っています。ユナイテッドによると、人工知能エージェントを使用して航空券を予約することは、セキュリティ上のリスクをもたらし、連邦規則に違反する可能性があるとのことです。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
-        "keyPoints": [
-          "この記事は「ユナイテッド航空、AIエージェントによる旅行者の代理での航空券予約を禁止」を扱っています。",
-          "ユナイテッドによると、人工知能エージェントを使用して航空券を予約することは、セキュリティ上のリスクをもたらし、連邦規則に違反する可能性があるとのことです。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+          "この記事は「ジェンソン・ファン氏がNvidiaから追放されることでAI業界に損害をもたらす5つの理由」を扱っています。",
+          "Nvidiaの元CEOであるジェンセン・ファン氏の失脚は、単なるありふれた億万長者の性的なスキャンダルではありません。",
+          "彼は自分の影響力を利用して、非常に特定の方向でAI業界を推進していました。"
         ]
       },
       {
         "title": "Gemini Decisions API",
         "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
         "points": 101,
-        "comments": 120,
+        "comments": 154,
         "author": "iamdelirium",
         "createdAt": "2026-11-11T18:32:42Z",
         "domain": "blog.google",
@@ -102,52 +62,76 @@
           "Gemini Decisions APIは、Googleアプリ向けに高速で調整されたマルチモーダルな意思決定を提供します。",
           "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
+      },
+      {
+        "title": "Why Every AI Model Will Ship as a Torrent",
+        "url": "https://pirateface.co/articles/every-ai-model-should-be-a-torrent",
+        "points": 77,
+        "comments": 14,
+        "author": "llmmadness",
+        "createdAt": "2026-11-12T07:20:22Z",
+        "domain": "pirateface.co",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "低",
+        "newsLens": "技術",
+        "titleJa": "すべてのAIモデルがトレントとして配信される理由",
+        "summaryJa": "この記事は「すべてのAIモデルがトレントとして配信される理由」を扱っています。モデルの配布にトレントが最適な理由。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "keyPoints": [
+          "この記事は「すべてのAIモデルがトレントとして配信される理由」を扱っています。",
+          "モデルの配布にトレントが最適な理由。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+        ]
+      },
+      {
+        "title": "Gemini Decision 1 is Free on Google AI Studio",
+        "url": "https://aistudio.google.com/docs/decisions-api",
+        "points": 45,
+        "comments": 1,
+        "author": "dvaplima",
+        "createdAt": "2026-11-11T19:59:47Z",
+        "domain": "aistudio.google.com",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "低",
+        "newsLens": "技術",
+        "titleJa": "Gemini Decision 1はGoogle AI Studioで無料",
+        "summaryJa": "この記事は「Gemini Decision 1はGoogle AI Studioで無料」を扱っています。Geminiでプロンプトから本番環境への最短ルート。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "keyPoints": [
+          "この記事は「Gemini Decision 1はGoogle AI Studioで無料」を扱っています。",
+          "Geminiでプロンプトから本番環境への最短ルート。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+        ]
       }
     ],
-    "fetchedAt": "2026-11-12T07:06:10.563Z",
+    "fetchedAt": "2026-11-12T17:33:49.801Z",
     "mock": false
   },
   "xTrends": {
     "items": [
       {
-        "topic": "Grok Bot 1.0",
+        "topic": "Anthropic y PwC",
         "locationLabel": "米国",
-        "bestRank": 20,
-        "appearances": 4,
+        "bestRank": 21,
+        "appearances": 2,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-11-12T07:06:10.469Z",
-        "url": "https://x.com/search?q=Grok%20Bot%201.0&src=typed_query&f=live",
-        "articleTitle": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
-        "articleTitleJa": "Show HN：コーディングエージェントを2019年頃のJavaScriptから、最新のWebプリミティブに移行させましょう",
-        "articleUrl": "https://github.com/GoogleChrome/modern-web-guidance",
-        "articleSource": "github.com",
-        "articlePublishedAt": "2026-11-10T18:01:15Z",
-        "summaryJa": "ブラウザーは、以前は50行のJS（または依存関係）を必要としていたものの多くをネイティブに処理します<span>。「CSS.highlights」は、あらゆる場所でsを<dialog>使用せずにテキスト範囲をハイライトします。「」とshowModal()は、バックドロップと理想的なフォーカス管理を提供します。「field-sizing」は、ユーザーが入力するにつれてテキストエリアを自動的に拡大します。（昨日のftrainの投稿で触れられたこと[0]）モデルはこれらのいくつかを名前で認識していますが、プラットフォームネイティブのソリューションをデフォルトで使用することはありません。",
-        "translationVersion": 3
-      },
-      {
-        "topic": "Gemini Decision 1",
-        "locationLabel": "米国",
-        "bestRank": 28,
-        "appearances": 4,
-        "trendSource": "Trends24",
-        "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-11-12T07:06:10.469Z",
-        "url": "https://x.com/search?q=Gemini%20Decision%201&src=typed_query&f=live",
-        "articleTitle": "Gemini Decision 1 is Free on Google AI Studio",
-        "articleTitleJa": "Gemini Decision 1はGoogle AI Studioで無料",
-        "articleUrl": "https://aistudio.google.com/docs/decisions-api",
-        "articleSource": "aistudio.google.com",
-        "articlePublishedAt": "2026-11-11T19:59:47Z",
-        "summaryJa": "Geminiでプロンプトから本番環境への最短ルート",
-        "translationVersion": 3
+        "observedAt": "2026-11-12T17:33:49.308Z",
+        "url": "https://x.com/search?q=Anthropic%20y%20PwC&src=typed_query&f=live",
+        "articleTitle": "Anthropic y PwC",
+        "articleTitleJa": "公開トレンド: Anthropic y PwC",
+        "articleUrl": "https://trends24.in/united-states/",
+        "articleSource": "Trends24",
+        "articlePublishedAt": "2026-11-12T17:33:49.308Z",
+        "summaryJa": "米国のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
+        "translationVersion": 3,
+        "articleFallback": true
       }
     ],
-    "fetchedAt": "2026-11-12T07:06:10.563Z",
+    "fetchedAt": "2026-11-12T17:33:49.801Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-11-12T07:06:18.314Z"
+    "articleFetchedAt": "2026-11-12T17:33:50.187Z"
   }
 }
