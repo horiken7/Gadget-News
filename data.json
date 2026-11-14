@@ -15,10 +15,10 @@
         "category": "AIモデル",
         "impact": "高",
         "titleJa": "輸出禁止のNvidiaチップが、中国の最も強力なAIモデルの背後に存在 — おっと、ジェンセンさん！",
-        "summaryJa": "この記事は「輸出禁止のNvidiaチップが、中国の最も強力なAIモデルの背後に存在 — おっと、ジェンセンさん！」を扱っています。新たな調査によると、中国の最先端のAIモデルは、禁止されているNvidiaのチップを使用してトレーニングされたことが明らかになりました。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "summaryJa": "この記事は「輸出禁止のNvidiaチップが、中国の最も強力なAIモデルの背後に存在 — おっと、ジェンセンさん！」を扱っています。新たな調査によると、中国で最も先進的なAIモデルは、禁止されているNvidiaのチップを使用してトレーニングされたことが明らかになりました。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
           "この記事は「輸出禁止のNvidiaチップが、中国の最も強力なAIモデルの背後に存在 — おっと、ジェンセンさん。",
-          "新たな調査によると、中国の最先端のAIモデルは、禁止されているNvidiaのチップを使用してトレーニングされたことが明らかになりました。",
+          "新たな調査によると、中国で最も先進的なAIモデルは、禁止されているNvidiaのチップを使用してトレーニングされたことが明らかになりました。",
           "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       },
@@ -35,11 +35,11 @@
         "newsLens": "一般",
         "category": "AIニュース",
         "impact": "高",
-        "titleJa": "ジェンセン・ファン氏のスキャンダル展開：年表",
-        "summaryJa": "この記事は「ジェンセン・ファン氏のスキャンダル展開：年表」を扱っています。ジェンソン・ファン氏は、米国と中国が最も先進的なAIインフラの開発競争を繰り広げる中、国家安全保障に影響を及ぼす可能性のある不祥事をきっかけに、Nvidiaを辞任しました。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "titleJa": "ジェンセン・ファン氏に関するスキャンダルの展開：年表",
+        "summaryJa": "この記事は「ジェンセン・ファン氏に関するスキャンダルの展開：年表」を扱っています。ジェンソン・ファン氏は、米国と中国が最も先進的なAIインフラの開発競争を繰り広げる中で、国家安全保障に影響を及ぼす可能性のある不倫問題を受けて、Nvidiaを辞任しました。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
-          "この記事は「ジェンセン・ファン氏のスキャンダル展開：年表」を扱っています。",
-          "ジェンソン・ファン氏は、米国と中国が最も先進的なAIインフラの開発競争を繰り広げる中、国家安全保障に影響を及ぼす可能性のある不祥事をきっかけに、Nvidiaを辞任しました。",
+          "この記事は「ジェンセン・ファン氏に関するスキャンダルの展開：年表」を扱っています。",
+          "ジェンソン・ファン氏は、米国と中国が最も先進的なAIインフラの開発競争を繰り広げる中で、国家安全保障に影響を及ぼす可能性のある不倫問題を受けて、Nvidiaを辞任しました。",
           "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       },
@@ -47,7 +47,7 @@
         "title": "OpenAI disbands its robotics team as its general models start running robots",
         "url": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/",
         "points": 121,
-        "comments": 59,
+        "comments": 66,
         "author": "sshah03",
         "createdAt": "2026-11-13T17:55:23Z",
         "domain": "fortune.com",
@@ -56,18 +56,18 @@
         "impact": "高",
         "newsLens": "技術",
         "titleJa": "OpenAIがロボティクスチームを解散。汎用モデルがロボットの運用を開始",
-        "summaryJa": "この記事は「OpenAIがロボティクスチームを解散。汎用モデルがロボットの運用を開始」を扱っています。OpenAIは、汎用ロボットを構築する最良の方法に関する新しい考え方を反映して、ロボティクス研究者を他のチームに異動させました。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "summaryJa": "この記事は「OpenAIがロボティクスチームを解散。汎用モデルがロボットの運用を開始」を扱っています。OpenAIは、汎用ロボットを構築する最良の方法に関する新しい考え方を反映して、ロボット工学の研究者を他のチームに異動させました。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
         "keyPoints": [
           "この記事は「OpenAIがロボティクスチームを解散。",
           "汎用モデルがロボットの運用を開始」を扱っています。",
-          "OpenAIは、汎用ロボットを構築する最良の方法に関する新しい考え方を反映して、ロボティクス研究者を他のチームに異動させました。"
+          "OpenAIは、汎用ロボットを構築する最良の方法に関する新しい考え方を反映して、ロボット工学の研究者を他のチームに異動させました。"
         ]
       },
       {
         "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
         "url": "https://status.claude.com/incidents/nn11wk485zfn",
         "points": 73,
-        "comments": 380,
+        "comments": 383,
         "author": "__vivek",
         "createdAt": "2026-11-13T10:18:13Z",
         "domain": "status.claude.com",
@@ -75,10 +75,10 @@
         "category": "AIモデル",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "claude.ai、Claude Code、platform.claude.comでのエラーの増加",
-        "summaryJa": "この記事は「claude.ai、Claude Code、platform.claude.comでのエラーの増加」を扱っています。Claudeのステータスページ - claude.ai、Claude Code、platform.claude.comにおける重大なエラー。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "titleJa": "claude.ai、Claude Code、platform.claude.comにおけるエラーの増加",
+        "summaryJa": "この記事は「claude.ai、Claude Code、platform.claude.comにおけるエラーの増加」を扱っています。Claudeのステータスページ - claude.ai、Claude Code、platform.claude.comにおける重大なエラー。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
         "keyPoints": [
-          "この記事は「claude.ai、Claude Code、platform.claude.comでのエラーの増加」を扱っています。",
+          "この記事は「claude.ai、Claude Code、platform.claude.comにおけるエラーの増加」を扱っています。",
           "Claudeのステータスページ - claude.ai、Claude Code、platform.claude.comにおける重大なエラー。",
           "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
@@ -87,7 +87,7 @@
         "title": "Claude Is Down",
         "url": "https://status.claude.com/history",
         "points": 73,
-        "comments": 170,
+        "comments": 175,
         "author": "cornfieldlabs",
         "createdAt": "2026-11-13T10:20:09Z",
         "domain": "status.claude.com",
@@ -104,26 +104,26 @@
         ]
       }
     ],
-    "fetchedAt": "2026-11-13T23:30:41.964Z",
+    "fetchedAt": "2026-11-14T06:16:05.215Z",
     "mock": false
   },
   "xTrends": {
     "items": [
       {
         "topic": "Copilot",
-        "locationLabel": "日本",
-        "bestRank": 4,
+        "locationLabel": "米国",
+        "bestRank": 5,
         "appearances": 24,
         "trendSource": "Trends24",
-        "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-11-13T23:30:41.838Z",
+        "sourceUrl": "https://trends24.in/united-states/",
+        "observedAt": "2026-11-14T06:16:05.084Z",
         "url": "https://x.com/search?q=Copilot&src=typed_query&f=live",
         "articleTitle": "Microsoft Says It's Working to Fix Outlook, Copilot Outage",
-        "articleTitleJa": "Microsoft、OutlookとCopilotの障害の修正に取り組んでいると発表",
+        "articleTitleJa": "MicrosoftがOutlookとCopilotの障害の修正に取り組んでいると発表",
         "articleUrl": "https://www.bloomberg.com/news/articles/2026-11-12/microsoft-says-it-s-working-to-fix-outlook-copilot-outage",
         "articleSource": "bloomberg.com",
         "articlePublishedAt": "2026-11-12T19:43:08Z",
-        "summaryJa": "Microsoft Corp.は、主力ソフトウェアへのアクセスを回復し、世界中の政府機関、トレーダー、企業を麻痺させた障害を解消すべく苦闘しています。",
+        "summaryJa": "Microsoft Corp.は、主力ソフトウェアへのアクセスを回復し、世界中の政府機関、トレーダー、企業を麻痺させた障害を解消しようと苦労しています。",
         "translationVersion": 3
       },
       {
@@ -133,13 +133,13 @@
         "appearances": 7,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-11-13T23:30:41.942Z",
+        "observedAt": "2026-11-14T06:16:05.084Z",
         "url": "https://x.com/search?q=ChatGPT%20Wallet&src=typed_query&f=live",
         "articleTitle": "ChatGPT Wallet",
         "articleTitleJa": "公開トレンド: ChatGPT Wallet",
         "articleUrl": "https://trends24.in/united-states/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-11-13T23:30:41.942Z",
+        "articlePublishedAt": "2026-11-14T06:16:05.084Z",
         "summaryJa": "米国のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -151,21 +151,21 @@
         "appearances": 2,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-11-13T23:30:41.942Z",
+        "observedAt": "2026-11-14T06:16:05.084Z",
         "url": "https://x.com/search?q=Teams%20and%20Copilot&src=typed_query&f=live",
         "articleTitle": "Show HN: Harness Relay – the coding agents you have, working together",
-        "articleTitleJa": "Show HN：Harness Relay – あなたが持つコーディングエージェントが連携して動作",
+        "articleTitleJa": "Show HN：Harness Relay – 既存のコーディングエージェントが連携して動作",
         "articleUrl": "https://agentic-system-lab.github.io/harness-relay/",
         "articleSource": "agentic-system-lab.github.io",
         "articlePublishedAt": "2026-11-13T21:01:02Z",
-        "summaryJa": "すでに複数のコーディングエージェントをお持ちの場合（ただし、1種類のエージェントでも動作します）、ぜひこのプロジェクトをご覧ください！これは、コーディングエージェントを連携させるデスクトップアプリで、ChatGPTに似たユーザーエクスペリエンスを提供します！エージェントチームには、1種類のエージェントで十分です。すべてが同じ種類でも、Claude Code、Codex、Grok、Cursor Agent、Antigravity、GitHub Copilot CLI、Muse Code、および独自のモデルバックエンド上の5つのオープンソースコーディングエージェントのいずれかの組み合わせでも構いません。",
+        "summaryJa": "すでに複数のコーディングエージェントをお持ちの場合（1種類のエージェントでも動作しますが）、ぜひこのプロジェクトをご覧ください！これは、コーディングエージェントを連携させるデスクトップアプリで、ChatGPTに似たユーザーエクスペリエンスを提供します！エージェントチームには、1種類のエージェントで十分です。すべてが同じ種類でも、Claude Code、Codex、Grok、Cursor Agent、Antigravity、GitHub Copilot CLI、Muse Code、および独自のモデルバックエンド上の5つのオープンソースコーディングエージェントを組み合わせても構いません。",
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-11-13T23:30:41.964Z",
+    "fetchedAt": "2026-11-14T06:16:05.215Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-11-13T23:30:54.113Z"
+    "articleFetchedAt": "2026-11-14T06:16:12.010Z"
   }
 }
