@@ -2,43 +2,23 @@
   "news": {
     "items": [
       {
-        "title": "Ask HN: What are the most useful, concrete AI skills to independently learn?",
-        "url": "https://news.ycombinator.com/item?id=50494696",
-        "points": 110,
-        "comments": 50,
-        "author": "shnock",
-        "createdAt": "2026-11-14T06:56:42Z",
-        "domain": "news.ycombinator.com",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "中",
-        "newsLens": "技術",
-        "titleJa": "HNに質問：独学で身につけるのに最も役立つ、具体的なAIスキルは何ですか？",
-        "summaryJa": "この記事は「HNに質問：独学で身につけるのに最も役立つ、具体的なAIスキルは何ですか？」を扱っています。具体的には、LLM、エージェント、および関連する新しい技術的能力の進歩を経済的に活用するために、個人として習得すべき最も有用で具体的なスキルは何でしょうか？すでに中程度の技術的知識があると仮定した場合、学位プログラムなしで、インターネットと実験からのみ学べるものは何でしょうか？",
-        "keyPoints": [
-          "この記事は「HNに質問：独学で身につけるのに最も役立つ、具体的なAIスキルは何ですか。",
-          "具体的には、LLM、エージェント、および関連する新しい技術的能力の進歩を経済的に活用するために、個人として習得すべき最も有用で具体的なスキルは何でしょうか。",
-          "すでに中程度の技術的知識があると仮定した場合、学位プログラムなしで、インターネットと実験からのみ学べるものは何でしょうか。"
-        ]
-      },
-      {
-        "title": "Show HN: A terminal-native idle factory game, written in Rust with ratatui",
-        "url": "https://gitlab.com/snipedbywifi/terminactory",
+        "title": "All AI-generated code should be Open Source",
+        "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
         "points": 101,
-        "comments": 37,
-        "author": "snipedbywifi",
-        "createdAt": "2026-11-14T14:05:54Z",
-        "domain": "gitlab.com",
+        "comments": 136,
+        "author": "jcubic",
+        "createdAt": "2026-11-15T14:46:58Z",
+        "domain": "jakub.jankiewicz.org",
         "sourceType": "hn",
-        "category": "AIニュース",
+        "category": "開発ツール",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "Show HN：Ratatuiを使用してRustで記述された、ターミナルネイティブの放置系工場ゲーム",
-        "summaryJa": "この記事は「Show HN：Ratatuiを使用してRustで記述された、ターミナルネイティブの放置系工場ゲーム」を扱っています。エージェントの長時間タスクが完了するのを待つ間に、ゆったりとした工場ゲームをプレイしたい方は、ぜひお試しください！このゲームは工場ゲーム（使い古されたジャンルですよね、わかってます xD）ですが、ターミナルで実行されます。",
+        "titleJa": "AIが生成したコードはすべてオープンソースであるべきです",
+        "summaryJa": "この記事は「AIが生成したコードはすべてオープンソースであるべきです」を扱っています。AIの助けを借りて生成されたすべてのコードは、オープンソースまたはクリエイティブ・コモンズ・ゼロ（CC0）ライセンスである必要があります。技術者にとっては、開発フロー、API、セキュリティ、運用コストへの影響が確認ポイントです。",
         "keyPoints": [
-          "この記事は「Show HN：Ratatuiを使用してRustで記述された、ターミナルネイティブの放置系工場ゲーム」を扱っています。",
-          "エージェントの長時間タスクが完了するのを待つ間に、ゆったりとした工場ゲームをプレイしたい方は、ぜひお試しください。",
-          "このゲームは工場ゲーム（使い古されたジャンルですよね、わかってます xD）ですが、ターミナルで実行されます。"
+          "この記事は「AIが生成したコードはすべてオープンソースであるべきです」を扱っています。",
+          "AIの助けを借りて生成されたすべてのコードは、オープンソースまたはクリエイティブ・コモンズ・ゼロ（CC0）ライセンスである必要があります。",
+          "技術者にとっては、開発フロー、API、セキュリティ、運用コストへの影響が確認ポイントです。"
         ]
       },
       {
@@ -55,55 +35,75 @@
         "category": "AIニュース",
         "impact": "中",
         "titleJa": "AIの墓場：失敗に終わったプロジェクトやスタートアップの継続的なリスト",
-        "summaryJa": "この記事は「AIの墓場：失敗に終わったプロジェクトやスタートアップの継続的なリスト」を扱っています。AppleのSiri AIの繰り返し発生する遅延から、OpenAIの混乱した「スーパーアプリ」のローンチまで、中止された、あるいは期待を裏切ったAIプロジェクトを見てみましょう。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "summaryJa": "この記事は「AIの墓場：失敗に終わったプロジェクトやスタートアップの継続的なリスト」を扱っています。AppleのSiri AIの繰り返し発生する遅延から、OpenAIの混乱した「スーパーアプリ」のローンチまで、中止されたり期待を裏切ったりしたAIプロジェクトを見てみましょう。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
           "この記事は「AIの墓場：失敗に終わったプロジェクトやスタートアップの継続的なリスト」を扱っています。",
-          "AppleのSiri AIの繰り返し発生する遅延から、OpenAIの混乱した「スーパーアプリ」のローンチまで、中止された、あるいは期待を裏切ったAIプロジェクトを見てみましょう。",
+          "AppleのSiri AIの繰り返し発生する遅延から、OpenAIの混乱した「スーパーアプリ」のローンチまで、中止されたり期待を裏切ったりしたAIプロジェクトを見てみましょう。",
           "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       },
       {
-        "title": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
-        "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
-        "points": 73,
-        "comments": 14,
-        "author": "VaibhaavTiwari",
-        "createdAt": "2026-11-14T15:04:15Z",
-        "domain": "github.com",
+        "title": "Claude asked to renumber pages deletes professor's syllabus, year of notes",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/rogue-claude-ai-tasked-with-renumbering-pages-accidentally-deletes-law-professors-entire-syllabus-one-year-of-lecture-notes-youre-right-to-be-angry-i-deleted-your-files-through-my-own-carelessness-humbled-agent-admits",
+        "points": 53,
+        "comments": 71,
+        "author": "gnabgib",
+        "createdAt": "2026-11-14T17:51:13Z",
+        "domain": "tomshardware.com",
         "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "高",
+        "category": "AIモデル",
+        "impact": "低",
         "newsLens": "技術",
-        "titleJa": "Show HN：約200行の純粋なJaxによるDeepSeek V3",
-        "summaryJa": "この記事は「Show HN：約200行の純粋なJaxによるDeepSeek V3」を扱っています。DeepSeek V3（MLA、DeepSeekMoE、補助損失なしのバランシング、MTP）を、純粋なJAXで190行にまとめ、MacBook Airでトレーニングしました。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "titleJa": "Claudeがページ番号の振り直しを依頼したことで、教授のシラバスと1年分のノートが削除されてしまった",
+        "summaryJa": "この記事は「Claudeがページ番号の振り直しを依頼したことで、教授のシラバスと1年分のノートが削除されてしまった」を扱っています。ファイルは後日、Dropboxを介して復元されました。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
         "keyPoints": [
-          "この記事は「Show HN：約200行の純粋なJaxによるDeepSeek V3」を扱っています。",
-          "DeepSeek V3（MLA、DeepSeekMoE、補助損失なしのバランシング、MTP）を、純粋なJAXで190行にまとめ、MacBook Airでトレーニングしました。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+          "この記事は「Claudeがページ番号の振り直しを依頼したことで、教授のシラバスと1年分のノートが削除されてしまった」を扱っています。",
+          "ファイルは後日、Dropboxを介して復元されました。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
       },
       {
-        "title": "The Claude Delusion",
-        "url": "https://www.netmeister.org/blog/claude-delusion.html",
-        "points": 73,
-        "comments": 191,
-        "author": "janvdberg",
-        "createdAt": "2026-11-14T13:36:17Z",
-        "domain": "netmeister.org",
+        "title": "A 27-byte telemetry response nobody reads freezes Claude Desktop every two days",
+        "url": "https://blog.dfb.sh/blog/claude-desktop-freeze/",
+        "points": 43,
+        "comments": 1,
+        "author": "lladnar",
+        "createdAt": "2026-11-14T18:27:55Z",
+        "domain": "blog.dfb.sh",
         "sourceType": "hn",
         "category": "AIモデル",
-        "impact": "高",
+        "impact": "低",
         "newsLens": "技術",
-        "titleJa": "Claudeの妄想",
-        "summaryJa": "この記事は「Claudeの妄想」を扱っています。netmeister.orgが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "titleJa": "誰も読まない27バイトのテレメトリ応答が、2日に1度Claude Desktopをフリーズさせる",
+        "summaryJa": "この記事は「誰も読まない27バイトのテレメトリ応答が、2日に1度Claude Desktopをフリーズさせる」を扱っています。Linux上のClaude Desktopは、数日ごとに完全にフリーズし、ログは空でした。原因を突き止めるのに2か月と1.5 TiBのコアダンプが必要でした。",
         "keyPoints": [
-          "この記事は「Claudeの妄想」を扱っています。",
-          "netmeister.orgが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "この記事は「誰も読まない27バイトのテレメトリ応答が、2日に1度Claude Desktopをフリーズさせる」を扱っています。",
+          "Linux上のClaude Desktopは、数日ごとに完全にフリーズし、ログは空でした。",
+          "原因を突き止めるのに2か月と1.5 TiBのコアダンプが必要でした。"
+        ]
+      },
+      {
+        "title": "LeCun: If you're interested in human-level AI, don't work on LLMs",
+        "url": "https://www.reddit.com/r/TheMachineLearning/comments/1xwp0kp/dont_work_on_llms_ylecun_at_corl/",
+        "points": 43,
+        "comments": 2,
+        "author": "theanonymousone",
+        "createdAt": "2026-11-15T14:14:23Z",
+        "domain": "reddit.com",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "低",
+        "newsLens": "技術",
+        "titleJa": "LeCun氏：人間レベルのAIに興味があるなら、LLMに取り組まないこと",
+        "summaryJa": "この記事は「LeCun氏：人間レベルのAIに興味があるなら、LLMに取り組まないこと」を扱っています。reddit.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "keyPoints": [
+          "この記事は「LeCun氏：人間レベルのAIに興味があるなら、LLMに取り組まないこと」を扱っています。",
+          "reddit.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
           "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
       }
     ],
-    "fetchedAt": "2026-11-15T06:23:42.955Z",
+    "fetchedAt": "2026-11-15T16:19:18.031Z",
     "mock": false
   },
   "xTrends": {
@@ -115,22 +115,22 @@
         "appearances": 4,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/canada/",
-        "observedAt": "2026-11-15T06:23:42.911Z",
+        "observedAt": "2026-11-15T16:19:17.953Z",
         "url": "https://x.com/search?q=Claude%20Giroux&src=typed_query&f=live",
         "articleTitle": "Claude Giroux",
         "articleTitleJa": "公開トレンド: Claude Giroux",
         "articleUrl": "https://trends24.in/canada/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-11-15T06:23:42.911Z",
+        "articlePublishedAt": "2026-11-15T16:19:17.953Z",
         "summaryJa": "カナダのTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
       }
     ],
-    "fetchedAt": "2026-11-15T06:23:42.955Z",
+    "fetchedAt": "2026-11-15T16:19:18.031Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-11-15T06:23:43.330Z"
+    "articleFetchedAt": "2026-11-15T16:19:18.406Z"
   }
 }
