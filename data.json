@@ -2,10 +2,30 @@
   "news": {
     "items": [
       {
+        "title": "Ask HN: What are the most useful, concrete AI skills to independently learn?",
+        "url": "https://news.ycombinator.com/item?id=50494696",
+        "points": 110,
+        "comments": 50,
+        "author": "shnock",
+        "createdAt": "2026-11-14T06:56:42Z",
+        "domain": "news.ycombinator.com",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "中",
+        "newsLens": "技術",
+        "titleJa": "HNに質問：独学で身につけるのに最も役立つ、具体的なAIスキルは何ですか？",
+        "summaryJa": "この記事は「HNに質問：独学で身につけるのに最も役立つ、具体的なAIスキルは何ですか？」を扱っています。具体的には、LLM、エージェント、および関連する新しい技術的能力の進歩を経済的に活用するために、個人として習得すべき最も有用で具体的なスキルは何でしょうか？すでに中程度の技術的知識があると仮定した場合、学位プログラムなしで、インターネットと実験からのみ学べるものは何でしょうか？",
+        "keyPoints": [
+          "この記事は「HNに質問：独学で身につけるのに最も役立つ、具体的なAIスキルは何ですか。",
+          "具体的には、LLM、エージェント、および関連する新しい技術的能力の進歩を経済的に活用するために、個人として習得すべき最も有用で具体的なスキルは何でしょうか。",
+          "すでに中程度の技術的知識があると仮定した場合、学位プログラムなしで、インターネットと実験からのみ学べるものは何でしょうか。"
+        ]
+      },
+      {
         "title": "Show HN: A terminal-native idle factory game, written in Rust with ratatui",
         "url": "https://gitlab.com/snipedbywifi/terminactory",
-        "points": 99,
-        "comments": 24,
+        "points": 101,
+        "comments": 37,
         "author": "snipedbywifi",
         "createdAt": "2026-11-14T14:05:54Z",
         "domain": "gitlab.com",
@@ -14,31 +34,11 @@
         "impact": "高",
         "newsLens": "技術",
         "titleJa": "Show HN：Ratatuiを使用してRustで記述された、ターミナルネイティブの放置系工場ゲーム",
-        "summaryJa": "この記事は「Show HN：Ratatuiを使用してRustで記述された、ターミナルネイティブの放置系工場ゲーム」を扱っています。エージェントの長時間タスクが完了するのを待つ間に、ゆったりとした工場ゲームをプレイしたい方は、ぜひお試しください！このゲームは工場ゲーム（使い古されたジャンルですよね、わかってます xD）ですが、ターミナルで動作します。",
+        "summaryJa": "この記事は「Show HN：Ratatuiを使用してRustで記述された、ターミナルネイティブの放置系工場ゲーム」を扱っています。エージェントの長時間タスクが完了するのを待つ間に、ゆったりとした工場ゲームをプレイしたい方は、ぜひお試しください！このゲームは工場ゲーム（使い古されたジャンルですよね、わかってます xD）ですが、ターミナルで実行されます。",
         "keyPoints": [
           "この記事は「Show HN：Ratatuiを使用してRustで記述された、ターミナルネイティブの放置系工場ゲーム」を扱っています。",
           "エージェントの長時間タスクが完了するのを待つ間に、ゆったりとした工場ゲームをプレイしたい方は、ぜひお試しください。",
-          "このゲームは工場ゲーム（使い古されたジャンルですよね、わかってます xD）ですが、ターミナルで動作します。"
-        ]
-      },
-      {
-        "title": "Anthropic upgrades Claude Code Projects to run parallel AI workers",
-        "url": "https://claude.com/resources/articles/projects-redesigned",
-        "points": 92,
-        "comments": 91,
-        "author": "toppa33",
-        "createdAt": "2026-11-14T00:28:11Z",
-        "domain": "claude.com",
-        "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "高",
-        "newsLens": "一般",
-        "titleJa": "AnthropicがClaude Code Projectsをアップグレードし、AIワーカーを並列実行できるように",
-        "summaryJa": "この記事は「AnthropicがClaude Code Projectsをアップグレードし、AIワーカーを並列実行できるように」を扱っています。Claudeプロジェクトの新しい体験が、Claude Codeのベータ版で利用可能になりました。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
-        "keyPoints": [
-          "この記事は「AnthropicがClaude Code Projectsをアップグレードし、AIワーカーを並列実行できるように」を扱っています。",
-          "Claudeプロジェクトの新しい体験が、Claude Codeのベータ版で利用可能になりました。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+          "このゲームは工場ゲーム（使い古されたジャンルですよね、わかってます xD）ですが、ターミナルで実行されます。"
         ]
       },
       {
@@ -54,19 +54,39 @@
         "newsLens": "一般",
         "category": "AIニュース",
         "impact": "中",
-        "titleJa": "AIの墓場：失敗に終わったプロジェクトやスタートアップの継続リスト",
-        "summaryJa": "この記事は「AIの墓場：失敗に終わったプロジェクトやスタートアップの継続リスト」を扱っています。AppleのSiri AIの度重なる遅延から、OpenAIの混乱した「スーパーアプリ」のローンチまで、中止されたり期待外れに終わったりしたAIプロジェクトを見てみましょう。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "titleJa": "AIの墓場：失敗に終わったプロジェクトやスタートアップの継続的なリスト",
+        "summaryJa": "この記事は「AIの墓場：失敗に終わったプロジェクトやスタートアップの継続的なリスト」を扱っています。AppleのSiri AIの繰り返し発生する遅延から、OpenAIの混乱した「スーパーアプリ」のローンチまで、中止された、あるいは期待を裏切ったAIプロジェクトを見てみましょう。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
-          "この記事は「AIの墓場：失敗に終わったプロジェクトやスタートアップの継続リスト」を扱っています。",
-          "AppleのSiri AIの度重なる遅延から、OpenAIの混乱した「スーパーアプリ」のローンチまで、中止されたり期待外れに終わったりしたAIプロジェクトを見てみましょう。",
+          "この記事は「AIの墓場：失敗に終わったプロジェクトやスタートアップの継続的なリスト」を扱っています。",
+          "AppleのSiri AIの繰り返し発生する遅延から、OpenAIの混乱した「スーパーアプリ」のローンチまで、中止された、あるいは期待を裏切ったAIプロジェクトを見てみましょう。",
           "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+        ]
+      },
+      {
+        "title": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
+        "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
+        "points": 73,
+        "comments": 14,
+        "author": "VaibhaavTiwari",
+        "createdAt": "2026-11-14T15:04:15Z",
+        "domain": "github.com",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "Show HN：約200行の純粋なJaxによるDeepSeek V3",
+        "summaryJa": "この記事は「Show HN：約200行の純粋なJaxによるDeepSeek V3」を扱っています。DeepSeek V3（MLA、DeepSeekMoE、補助損失なしのバランシング、MTP）を、純粋なJAXで190行にまとめ、MacBook Airでトレーニングしました。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "keyPoints": [
+          "この記事は「Show HN：約200行の純粋なJaxによるDeepSeek V3」を扱っています。",
+          "DeepSeek V3（MLA、DeepSeekMoE、補助損失なしのバランシング、MTP）を、純粋なJAXで190行にまとめ、MacBook Airでトレーニングしました。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
       },
       {
         "title": "The Claude Delusion",
         "url": "https://www.netmeister.org/blog/claude-delusion.html",
         "points": 73,
-        "comments": 180,
+        "comments": 191,
         "author": "janvdberg",
         "createdAt": "2026-11-14T13:36:17Z",
         "domain": "netmeister.org",
@@ -81,55 +101,36 @@
           "netmeister.orgが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
           "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
-      },
-      {
-        "title": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
-        "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
-        "points": 71,
-        "comments": 7,
-        "author": "VaibhaavTiwari",
-        "createdAt": "2026-11-14T15:04:15Z",
-        "domain": "github.com",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "Show HN：約200行の純粋なJaxによるDeepSeek V3",
-        "summaryJa": "この記事は「Show HN：約200行の純粋なJaxによるDeepSeek V3」を扱っています。DeepSeek V3（MLA、DeepSeekMoE、補助損失なしのバランシング、MTP）を、純粋なJAXの190行で実装し、MacBook Airでトレーニングしました。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
-        "keyPoints": [
-          "この記事は「Show HN：約200行の純粋なJaxによるDeepSeek V3」を扱っています。",
-          "DeepSeek V3（MLA、DeepSeekMoE、補助損失なしのバランシング、MTP）を、純粋なJAXの190行で実装し、MacBook Airでトレーニングしました。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
-        ]
       }
     ],
-    "fetchedAt": "2026-11-14T22:20:29.611Z",
+    "fetchedAt": "2026-11-15T06:23:42.955Z",
     "mock": false
   },
   "xTrends": {
     "items": [
       {
-        "topic": "Copilot",
-        "locationLabel": "英国",
-        "bestRank": 34,
-        "appearances": 8,
+        "topic": "Claude Giroux",
+        "locationLabel": "カナダ",
+        "bestRank": 25,
+        "appearances": 4,
         "trendSource": "Trends24",
-        "sourceUrl": "https://trends24.in/united-kingdom/",
-        "observedAt": "2026-11-14T22:20:29.568Z",
-        "url": "https://x.com/search?q=Copilot&src=typed_query&f=live",
-        "articleTitle": "Microsoft Says It's Working to Fix Outlook, Copilot Outage",
-        "articleTitleJa": "Microsoft、OutlookとCopilotの障害の修正に取り組んでいると発表",
-        "articleUrl": "https://www.bloomberg.com/news/articles/2026-11-12/microsoft-says-it-s-working-to-fix-outlook-copilot-outage",
-        "articleSource": "bloomberg.com",
-        "articlePublishedAt": "2026-11-12T19:43:08Z",
-        "summaryJa": "Microsoft Corp.は、主力ソフトウェアへのアクセスを回復し、世界中の政府機関、トレーダー、企業を麻痺させた障害を解消すべく苦闘しています。",
-        "translationVersion": 3
+        "sourceUrl": "https://trends24.in/canada/",
+        "observedAt": "2026-11-15T06:23:42.911Z",
+        "url": "https://x.com/search?q=Claude%20Giroux&src=typed_query&f=live",
+        "articleTitle": "Claude Giroux",
+        "articleTitleJa": "公開トレンド: Claude Giroux",
+        "articleUrl": "https://trends24.in/canada/",
+        "articleSource": "Trends24",
+        "articlePublishedAt": "2026-11-15T06:23:42.911Z",
+        "summaryJa": "カナダのTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
+        "translationVersion": 3,
+        "articleFallback": true
       }
     ],
-    "fetchedAt": "2026-11-14T22:20:29.611Z",
+    "fetchedAt": "2026-11-15T06:23:42.955Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-11-14T22:20:34.397Z"
+    "articleFetchedAt": "2026-11-15T06:23:43.330Z"
   }
 }
