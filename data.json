@@ -2,84 +2,84 @@
   "news": {
     "items": [
       {
-        "title": "All AI-generated code should be Open Source",
-        "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
+        "title": "Parents pay $75k for Alpha's AI school. Half of its students missed math target",
+        "url": "https://fortune.com/2026/11/14/alpha-school-ai-students-tuition-learning-goals/",
         "points": 101,
-        "comments": 136,
-        "author": "jcubic",
-        "createdAt": "2026-11-15T14:46:58Z",
-        "domain": "jakub.jankiewicz.org",
+        "comments": 59,
+        "author": "vrganj",
+        "createdAt": "2026-11-15T19:39:46Z",
+        "domain": "fortune.com",
         "sourceType": "hn",
-        "category": "開発ツール",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "AIが生成したコードはすべてオープンソースであるべきです",
-        "summaryJa": "この記事は「AIが生成したコードはすべてオープンソースであるべきです」を扱っています。AIの助けを借りて生成されたすべてのコードは、オープンソースまたはクリエイティブ・コモンズ・ゼロ（CC0）ライセンスである必要があります。技術者にとっては、開発フロー、API、セキュリティ、運用コストへの影響が確認ポイントです。",
+        "category": "AIニュース",
+        "impact": "低",
+        "newsLens": "一般",
+        "titleJa": "AlphaのAIスクールに通わせるために、保護者は7万5,000ドルを支払っています。生徒の半数が数学の目標を達成できませんでした",
+        "summaryJa": "この記事は「AlphaのAIスクールに通わせるために、保護者は7万5,000ドルを支払っています。生徒の半数が数学の目標を達成できませんでした」を扱っています。社内データによると、現在2,600人の公立学校の生徒がAlphaのソフトウェアを使用しており、数学と読解の学習目標を2倍達成しているのはわずか42%のAlphaの生徒のみです。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
-          "この記事は「AIが生成したコードはすべてオープンソースであるべきです」を扱っています。",
-          "AIの助けを借りて生成されたすべてのコードは、オープンソースまたはクリエイティブ・コモンズ・ゼロ（CC0）ライセンスである必要があります。",
-          "技術者にとっては、開発フロー、API、セキュリティ、運用コストへの影響が確認ポイントです。"
+          "この記事は「AlphaのAIスクールに通わせるために、保護者は7万5,000ドルを支払っています。",
+          "生徒の半数が数学の目標を達成できませんでした」を扱っています。",
+          "社内データによると、現在2,600人の公立学校の生徒がAlphaのソフトウェアを使用しており、数学と読解の学習目標を2倍達成しているのはわずか42%のAlphaの生徒のみです。"
         ]
       },
       {
-        "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-        "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+        "title": "Ask HN: What do coding interviews look like in the age of AI?",
+        "url": "https://news.ycombinator.com/item?id=50510540",
+        "points": 91,
+        "comments": 3,
+        "author": "frankhorrigan",
+        "createdAt": "2026-11-15T20:45:34Z",
+        "domain": "news.ycombinator.com",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "低",
+        "newsLens": "技術",
+        "titleJa": "HNに質問：AIの時代におけるコーディング面接はどのようなものですか？",
+        "summaryJa": "この記事は「HNに質問：AIの時代におけるコーディング面接はどのようなものですか？」を扱っています。私は13年以上の経験を持つシニアRails/React開発者です。最近のAI主導のリストラにより、（まもなく）再び仕事を探すことになります。",
+        "keyPoints": [
+          "この記事は「HNに質問：AIの時代におけるコーディング面接はどのようなものですか。",
+          "私は13年以上の経験を持つシニアRails/React開発者です。",
+          "最近のAI主導のリストラにより、（まもなく）再び仕事を探すことになります。"
+        ]
+      },
+      {
+        "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
+        "url": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
         "points": 79,
         "comments": 0,
         "author": "",
-        "createdAt": "2026-11-14T17:30:00.000Z",
+        "createdAt": "2026-11-15T21:56:35.000Z",
         "domain": "techcrunch.com",
         "sourceType": "rss",
         "sourceLabel": "TechCrunch AI",
         "newsLens": "一般",
         "category": "AIニュース",
         "impact": "中",
-        "titleJa": "AIの墓場：失敗に終わったプロジェクトやスタートアップの継続的なリスト",
-        "summaryJa": "この記事は「AIの墓場：失敗に終わったプロジェクトやスタートアップの継続的なリスト」を扱っています。AppleのSiri AIの繰り返し発生する遅延から、OpenAIの混乱した「スーパーアプリ」のローンチまで、中止されたり期待を裏切ったりしたAIプロジェクトを見てみましょう。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "titleJa": "ジェンソン・ファン氏にとっての悪いニュースは、AI業界にとっても悪いニュースなのでしょうか？",
+        "summaryJa": "この記事は「ジェンソン・ファン氏にとっての悪いニュースは、AI業界にとっても悪いニュースなのでしょうか？」を扱っています。「ジェンセンさんはNvidiaですよね？そして、この経済の多くがNvidiaにかかっているのです。",
         "keyPoints": [
-          "この記事は「AIの墓場：失敗に終わったプロジェクトやスタートアップの継続的なリスト」を扱っています。",
-          "AppleのSiri AIの繰り返し発生する遅延から、OpenAIの混乱した「スーパーアプリ」のローンチまで、中止されたり期待を裏切ったりしたAIプロジェクトを見てみましょう。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+          "この記事は「ジェンソン・ファン氏にとっての悪いニュースは、AI業界にとっても悪いニュースなのでしょうか。",
+          "「ジェンセンさんはNvidiaですよね。",
+          "そして、この経済の多くがNvidiaにかかっているのです。"
         ]
       },
       {
-        "title": "Claude asked to renumber pages deletes professor's syllabus, year of notes",
-        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/rogue-claude-ai-tasked-with-renumbering-pages-accidentally-deletes-law-professors-entire-syllabus-one-year-of-lecture-notes-youre-right-to-be-angry-i-deleted-your-files-through-my-own-carelessness-humbled-agent-admits",
-        "points": 53,
-        "comments": 71,
-        "author": "gnabgib",
-        "createdAt": "2026-11-14T17:51:13Z",
-        "domain": "tomshardware.com",
-        "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "低",
-        "newsLens": "技術",
-        "titleJa": "Claudeがページ番号の振り直しを依頼したことで、教授のシラバスと1年分のノートが削除されてしまった",
-        "summaryJa": "この記事は「Claudeがページ番号の振り直しを依頼したことで、教授のシラバスと1年分のノートが削除されてしまった」を扱っています。ファイルは後日、Dropboxを介して復元されました。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
-        "keyPoints": [
-          "この記事は「Claudeがページ番号の振り直しを依頼したことで、教授のシラバスと1年分のノートが削除されてしまった」を扱っています。",
-          "ファイルは後日、Dropboxを介して復元されました。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
-        ]
-      },
-      {
-        "title": "A 27-byte telemetry response nobody reads freezes Claude Desktop every two days",
-        "url": "https://blog.dfb.sh/blog/claude-desktop-freeze/",
+        "title": "I run multiple Claude Code accounts on one Mac",
+        "url": "https://twitter.com/viborc/status/2121941174374039788",
         "points": 43,
-        "comments": 1,
-        "author": "lladnar",
-        "createdAt": "2026-11-14T18:27:55Z",
-        "domain": "blog.dfb.sh",
+        "comments": 2,
+        "author": "taubek",
+        "createdAt": "2026-11-15T14:00:20Z",
+        "domain": "twitter.com",
         "sourceType": "hn",
         "category": "AIモデル",
         "impact": "低",
         "newsLens": "技術",
-        "titleJa": "誰も読まない27バイトのテレメトリ応答が、2日に1度Claude Desktopをフリーズさせる",
-        "summaryJa": "この記事は「誰も読まない27バイトのテレメトリ応答が、2日に1度Claude Desktopをフリーズさせる」を扱っています。Linux上のClaude Desktopは、数日ごとに完全にフリーズし、ログは空でした。原因を突き止めるのに2か月と1.5 TiBのコアダンプが必要でした。",
+        "titleJa": "1台のMacで複数のClaude Codeアカウントを運用している",
+        "summaryJa": "この記事は「1台のMacで複数のClaude Codeアカウントを運用している」を扱っています。1台のMacで複数のClaude Codeアカウントを運用する方法。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
         "keyPoints": [
-          "この記事は「誰も読まない27バイトのテレメトリ応答が、2日に1度Claude Desktopをフリーズさせる」を扱っています。",
-          "Linux上のClaude Desktopは、数日ごとに完全にフリーズし、ログは空でした。",
-          "原因を突き止めるのに2か月と1.5 TiBのコアダンプが必要でした。"
+          "この記事は「1台のMacで複数のClaude Codeアカウントを運用している」を扱っています。",
+          "1台のMacで複数のClaude Codeアカウントを運用する方法。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
       },
       {
@@ -94,16 +94,16 @@
         "category": "AIモデル",
         "impact": "低",
         "newsLens": "技術",
-        "titleJa": "LeCun氏：人間レベルのAIに興味があるなら、LLMに取り組まないこと",
-        "summaryJa": "この記事は「LeCun氏：人間レベルのAIに興味があるなら、LLMに取り組まないこと」を扱っています。reddit.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "titleJa": "LeCun氏：人間レベルのAIに興味があるなら、LLMに取り組まないでください",
+        "summaryJa": "この記事は「LeCun氏：人間レベルのAIに興味があるなら、LLMに取り組まないでください」を扱っています。reddit.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
         "keyPoints": [
-          "この記事は「LeCun氏：人間レベルのAIに興味があるなら、LLMに取り組まないこと」を扱っています。",
+          "この記事は「LeCun氏：人間レベルのAIに興味があるなら、LLMに取り組まないでください」を扱っています。",
           "reddit.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
           "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
       }
     ],
-    "fetchedAt": "2026-11-15T16:19:18.031Z",
+    "fetchedAt": "2026-11-15T22:46:55.191Z",
     "mock": false
   },
   "xTrends": {
@@ -111,26 +111,26 @@
       {
         "topic": "Claude Giroux",
         "locationLabel": "カナダ",
-        "bestRank": 25,
-        "appearances": 4,
+        "bestRank": 29,
+        "appearances": 2,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/canada/",
-        "observedAt": "2026-11-15T16:19:17.953Z",
+        "observedAt": "2026-11-15T22:46:55.045Z",
         "url": "https://x.com/search?q=Claude%20Giroux&src=typed_query&f=live",
         "articleTitle": "Claude Giroux",
         "articleTitleJa": "公開トレンド: Claude Giroux",
         "articleUrl": "https://trends24.in/canada/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-11-15T16:19:17.953Z",
+        "articlePublishedAt": "2026-11-15T22:46:55.045Z",
         "summaryJa": "カナダのTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
       }
     ],
-    "fetchedAt": "2026-11-15T16:19:18.031Z",
+    "fetchedAt": "2026-11-15T22:46:55.191Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-11-15T16:19:18.406Z"
+    "articleFetchedAt": "2026-11-15T22:46:55.559Z"
   }
 }
