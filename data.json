@@ -2,135 +2,136 @@
   "news": {
     "items": [
       {
-        "title": "Parents pay $75k for Alpha's AI school. Half of its students missed math target",
-        "url": "https://fortune.com/2026/11/14/alpha-school-ai-students-tuition-learning-goals/",
-        "points": 101,
-        "comments": 59,
-        "author": "vrganj",
-        "createdAt": "2026-11-15T19:39:46Z",
-        "domain": "fortune.com",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "低",
-        "newsLens": "一般",
-        "titleJa": "AlphaのAIスクールに通わせるために、保護者は7万5,000ドルを支払っています。生徒の半数が数学の目標を達成できませんでした",
-        "summaryJa": "この記事は「AlphaのAIスクールに通わせるために、保護者は7万5,000ドルを支払っています。生徒の半数が数学の目標を達成できませんでした」を扱っています。社内データによると、現在2,600人の公立学校の生徒がAlphaのソフトウェアを使用しており、数学と読解の学習目標を2倍達成しているのはわずか42%のAlphaの生徒のみです。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
-        "keyPoints": [
-          "この記事は「AlphaのAIスクールに通わせるために、保護者は7万5,000ドルを支払っています。",
-          "生徒の半数が数学の目標を達成できませんでした」を扱っています。",
-          "社内データによると、現在2,600人の公立学校の生徒がAlphaのソフトウェアを使用しており、数学と読解の学習目標を2倍達成しているのはわずか42%のAlphaの生徒のみです。"
-        ]
-      },
-      {
-        "title": "Ask HN: What do coding interviews look like in the age of AI?",
-        "url": "https://news.ycombinator.com/item?id=50510540",
-        "points": 91,
-        "comments": 3,
-        "author": "frankhorrigan",
-        "createdAt": "2026-11-15T20:45:34Z",
-        "domain": "news.ycombinator.com",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "低",
-        "newsLens": "技術",
-        "titleJa": "HNに質問：AIの時代におけるコーディング面接はどのようなものですか？",
-        "summaryJa": "この記事は「HNに質問：AIの時代におけるコーディング面接はどのようなものですか？」を扱っています。私は13年以上の経験を持つシニアRails/React開発者です。最近のAI主導のリストラにより、（まもなく）再び仕事を探すことになります。",
-        "keyPoints": [
-          "この記事は「HNに質問：AIの時代におけるコーディング面接はどのようなものですか。",
-          "私は13年以上の経験を持つシニアRails/React開発者です。",
-          "最近のAI主導のリストラにより、（まもなく）再び仕事を探すことになります。"
-        ]
-      },
-      {
-        "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
-        "url": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
-        "points": 79,
+        "title": "Apple launches new app to study how people use AI for health",
+        "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+        "points": 105,
         "comments": 0,
         "author": "",
-        "createdAt": "2026-11-15T21:56:35.000Z",
+        "createdAt": "2026-11-16T01:30:00.000Z",
         "domain": "techcrunch.com",
         "sourceType": "rss",
         "sourceLabel": "TechCrunch AI",
         "newsLens": "一般",
+        "category": "研究",
+        "impact": "高",
+        "titleJa": "Appleが、人々が健康のためにAIをどのように使用しているかを調査する新しいアプリをリリース",
+        "summaryJa": "この記事は「Appleが、人々が健康のためにAIをどのように使用しているかを調査する新しいアプリをリリース」を扱っています。Appleの新しいアプリが、日常的な医療に関する質問に答える研究を実施。一般向けには、AIが社会にどう受け止められ、どの分野で使われ始めているかを知る材料になります。",
+        "keyPoints": [
+          "この記事は「Appleが、人々が健康のためにAIをどのように使用しているかを調査する新しいアプリをリリース」を扱っています。",
+          "Appleの新しいアプリが、日常的な医療に関する質問に答える研究を実施。",
+          "一般向けには、AIが社会にどう受け止められ、どの分野で使われ始めているかを知る材料になります。"
+        ]
+      },
+      {
+        "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+        "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+        "points": 89,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-11-15T23:30:00.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
+        "category": "ハードウェア",
+        "impact": "高",
+        "titleJa": "インドのチップスタートアップBharat Semiが、世界のAIセンサー市場を見据えて2,400万ドルのシードラウンドを調達",
+        "summaryJa": "この記事は「インドのチップスタートアップBharat Semiが、世界のAIセンサー市場を見据えて2,400万ドルのシードラウンドを調達」を扱っています。Bharat Semiは、General Atomicsを含む企業から、AI対応センサー技術のデザインウィンを獲得したと発表しています。一般向けには、AIがソフトウェアだけでなく、ロボットや端末など現実の製品に広がっている点が重要です。",
+        "keyPoints": [
+          "この記事は「インドのチップスタートアップBharat Semiが、世界のAIセンサー市場を見据えて2,400万ドルのシードラウンドを調達」を扱っています。",
+          "Bharat Semiは、General Atomicsを含む企業から、AI対応センサー技術のデザインウィンを獲得したと発表しています。",
+          "一般向けには、AIがソフトウェアだけでなく、ロボットや端末など現実の製品に広がっている点が重要です。"
+        ]
+      },
+      {
+        "title": "Reddit's traffic is down 13%, partly thanks to AI Overviews",
+        "url": "https://www.businessinsider.com/reddit-traffic-down-13-percent-similarweb-google-ai-overviews-2026-11",
+        "points": 65,
+        "comments": 3,
+        "author": "madihaa",
+        "createdAt": "2026-11-15T23:33:53Z",
+        "domain": "businessinsider.com",
+        "sourceType": "hn",
         "category": "AIニュース",
-        "impact": "中",
-        "titleJa": "ジェンソン・ファン氏にとっての悪いニュースは、AI業界にとっても悪いニュースなのでしょうか？",
-        "summaryJa": "この記事は「ジェンソン・ファン氏にとっての悪いニュースは、AI業界にとっても悪いニュースなのでしょうか？」を扱っています。「ジェンセンさんはNvidiaですよね？そして、この経済の多くがNvidiaにかかっているのです。",
+        "impact": "低",
+        "newsLens": "技術",
+        "titleJa": "Redditのトラフィックは13%減少、その一因はAI Overviews",
+        "summaryJa": "この記事は「Redditのトラフィックは13%減少、その一因はAI Overviews」を扱っています。Similarwebの最新データによると、Redditの全体的なトラフィックは、Googleからの検索トラフィックの減少に対処する中で打撃を受けています。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
         "keyPoints": [
-          "この記事は「ジェンソン・ファン氏にとっての悪いニュースは、AI業界にとっても悪いニュースなのでしょうか。",
-          "「ジェンセンさんはNvidiaですよね。",
-          "そして、この経済の多くがNvidiaにかかっているのです。"
+          "この記事は「Redditのトラフィックは13%減少、その一因はAI Overviews」を扱っています。",
+          "Similarwebの最新データによると、Redditの全体的なトラフィックは、Googleからの検索トラフィックの減少に対処する中で打撃を受けています。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
       },
       {
-        "title": "I run multiple Claude Code accounts on one Mac",
-        "url": "https://twitter.com/viborc/status/2121941174374039788",
-        "points": 43,
-        "comments": 2,
-        "author": "taubek",
-        "createdAt": "2026-11-15T14:00:20Z",
-        "domain": "twitter.com",
+        "title": "Nvidia's Days as an Open Checkbook for the AI Economy Are Numbered",
+        "url": "https://www.wsj.com/tech/ai/nvidias-days-as-an-open-checkbook-for-the-ai-economy-are-numbered-90c7b388",
+        "points": 64,
+        "comments": 1,
+        "author": "mfiguiere",
+        "createdAt": "2026-11-16T04:03:51Z",
+        "domain": "wsj.com",
         "sourceType": "hn",
-        "category": "AIモデル",
+        "category": "AIニュース",
         "impact": "低",
         "newsLens": "技術",
-        "titleJa": "1台のMacで複数のClaude Codeアカウントを運用している",
-        "summaryJa": "この記事は「1台のMacで複数のClaude Codeアカウントを運用している」を扱っています。1台のMacで複数のClaude Codeアカウントを運用する方法。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "titleJa": "AI経済におけるオープンチェックブックとしてのNvidiaの時代は終わりを迎えている",
+        "summaryJa": "この記事は「AI経済におけるオープンチェックブックとしてのNvidiaの時代は終わりを迎えている」を扱っています。wsj.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
         "keyPoints": [
-          "この記事は「1台のMacで複数のClaude Codeアカウントを運用している」を扱っています。",
-          "1台のMacで複数のClaude Codeアカウントを運用する方法。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+          "この記事は「AI経済におけるオープンチェックブックとしてのNvidiaの時代は終わりを迎えている」を扱っています。",
+          "wsj.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
       },
       {
-        "title": "LeCun: If you're interested in human-level AI, don't work on LLMs",
-        "url": "https://www.reddit.com/r/TheMachineLearning/comments/1xwp0kp/dont_work_on_llms_ylecun_at_corl/",
-        "points": 43,
-        "comments": 2,
-        "author": "theanonymousone",
-        "createdAt": "2026-11-15T14:14:23Z",
-        "domain": "reddit.com",
+        "title": "Agentic AI Designs an Analog Synthesizer",
+        "url": "https://cpldcpu.github.io/2026/11/14/touchsynth/",
+        "points": 44,
+        "comments": 1,
+        "author": "oidar",
+        "createdAt": "2026-11-16T01:28:10Z",
+        "domain": "cpldcpu.github.io",
         "sourceType": "hn",
-        "category": "AIモデル",
+        "category": "AIニュース",
         "impact": "低",
         "newsLens": "技術",
-        "titleJa": "LeCun氏：人間レベルのAIに興味があるなら、LLMに取り組まないでください",
-        "summaryJa": "この記事は「LeCun氏：人間レベルのAIに興味があるなら、LLMに取り組まないでください」を扱っています。reddit.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "titleJa": "エージェント型AIがアナログシンセサイザーを設計",
+        "summaryJa": "この記事は「エージェント型AIがアナログシンセサイザーを設計」を扱っています。トランジスタラダーフィルターとタッチキーを備え、約200個のコンポーネントで構成されたアナログモノフォニックシンセサイザー。回路、シミュレーション、PCB、ファームウェア、およびほとんどの立ち上げは、Claude Opus 5.5によって行われました。",
         "keyPoints": [
-          "この記事は「LeCun氏：人間レベルのAIに興味があるなら、LLMに取り組まないでください」を扱っています。",
-          "reddit.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+          "この記事は「エージェント型AIがアナログシンセサイザーを設計」を扱っています。",
+          "トランジスタラダーフィルターとタッチキーを備え、約200個のコンポーネントで構成されたアナログモノフォニックシンセサイザー。",
+          "回路、シミュレーション、PCB、ファームウェア、およびほとんどの立ち上げは、Claude Opus 5.5によって行われました。"
         ]
       }
     ],
-    "fetchedAt": "2026-11-15T22:46:55.191Z",
+    "fetchedAt": "2026-11-16T06:22:13.640Z",
     "mock": false
   },
   "xTrends": {
     "items": [
       {
-        "topic": "Claude Giroux",
-        "locationLabel": "カナダ",
-        "bestRank": 29,
+        "topic": "AIメカ",
+        "locationLabel": "日本",
+        "bestRank": 43,
         "appearances": 2,
         "trendSource": "Trends24",
-        "sourceUrl": "https://trends24.in/canada/",
-        "observedAt": "2026-11-15T22:46:55.045Z",
-        "url": "https://x.com/search?q=Claude%20Giroux&src=typed_query&f=live",
-        "articleTitle": "Claude Giroux",
-        "articleTitleJa": "公開トレンド: Claude Giroux",
-        "articleUrl": "https://trends24.in/canada/",
+        "sourceUrl": "https://trends24.in/japan/",
+        "observedAt": "2026-11-16T06:22:13.528Z",
+        "url": "https://x.com/search?q=AI%E3%83%A1%E3%82%AB&src=typed_query&f=live",
+        "articleTitle": "AIメカ",
+        "articleTitleJa": "公開トレンド: AIメカ",
+        "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-11-15T22:46:55.045Z",
-        "summaryJa": "カナダのTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
+        "articlePublishedAt": "2026-11-16T06:22:13.528Z",
+        "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
       }
     ],
-    "fetchedAt": "2026-11-15T22:46:55.191Z",
+    "fetchedAt": "2026-11-16T06:22:13.640Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-11-15T22:46:55.559Z"
+    "articleFetchedAt": "2026-11-16T06:22:13.996Z"
   }
 }
