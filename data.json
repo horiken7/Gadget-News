@@ -2,45 +2,24 @@
   "news": {
     "items": [
       {
-        "title": "California state AG sues OpenAI over rogue agent incidents",
-        "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
-        "points": 133,
+        "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
+        "url": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
+        "points": 115,
         "comments": 0,
         "author": "",
-        "createdAt": "2026-11-16T20:07:13.000Z",
+        "createdAt": "2026-11-17T23:04:35.000Z",
         "domain": "techcrunch.com",
         "sourceType": "rss",
         "sourceLabel": "TechCrunch AI",
         "newsLens": "一般",
         "category": "AIニュース",
         "impact": "高",
-        "titleJa": "カリフォルニア州司法長官が、不正なエージェントのインシデントを理由にOpenAIを提訴",
-        "summaryJa": "この記事は「カリフォルニア州司法長官が、不正なエージェントのインシデントを理由にOpenAIを提訴」を扱っています。カリフォルニア州の訴訟は、AIラボに悪質なエージェントのインシデントに対する法的責任を負わせようとする最初の試みの1つです。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "titleJa": "Nvidia、ジェンソン・ファン氏の退任後もオープンソースAI戦略は変わらないと発表",
+        "summaryJa": "この記事は「Nvidia、ジェンソン・ファン氏の退任後もオープンソースAI戦略は変わらないと発表」を扱っています。Nvidiaの暫定CEOは、ジェンセン・ファン氏の突然の退任にもかかわらず、オープンソースAI戦略とHugging Faceの買収計画を改めて表明しました。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
-          "この記事は「カリフォルニア州司法長官が、不正なエージェントのインシデントを理由にOpenAIを提訴」を扱っています。",
-          "カリフォルニア州の訴訟は、AIラボに悪質なエージェントのインシデントに対する法的責任を負わせようとする最初の試みの1つです。",
+          "この記事は「Nvidia、ジェンソン・ファン氏の退任後もオープンソースAI戦略は変わらないと発表」を扱っています。",
+          "Nvidiaの暫定CEOは、ジェンセン・ファン氏の突然の退任にもかかわらず、オープンソースAI戦略とHugging Faceの買収計画を改めて表明しました。",
           "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
-        ]
-      },
-      {
-        "title": "OpenAI will embed safety researchers to investigate AI subversion",
-        "url": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/",
-        "points": 133,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-11-16T17:02:43.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
-        "category": "研究",
-        "impact": "高",
-        "titleJa": "OpenAIがAIの破壊行為を調査するためにセキュリティ研究者を配置",
-        "summaryJa": "この記事は「OpenAIがAIの破壊行為を調査するためにセキュリティ研究者を配置」を扱っています。OpenAIは、AIモデルが破壊的な行為に関与しているかどうかを調査するために、Apollo Researchの評価者を6名配置しますが、アクセスと開示に関する制限により、その独立性について疑問が生じています。一般向けには、AIが社会にどう受け止められ、どの分野で使われ始めているかを知る材料になります。",
-        "keyPoints": [
-          "この記事は「OpenAIがAIの破壊行為を調査するためにセキュリティ研究者を配置」を扱っています。",
-          "OpenAIは、AIモデルが破壊的な行為に関与しているかどうかを調査するために、Apollo Researchの評価者を6名配置しますが、アクセスと開示に関する制限により、その独立性について疑問が生じています。",
-          "一般向けには、AIが社会にどう受け止められ、どの分野で使われ始めているかを知る材料になります。"
         ]
       },
       {
@@ -65,55 +44,111 @@
         ]
       },
       {
-        "title": "Launch HN: Axonnic (YC F26) – Sleeves that track fingers and estimate force",
-        "url": "https://news.ycombinator.com/item?id=50522776",
-        "points": 94,
-        "comments": 26,
-        "author": "arshpatankar",
-        "createdAt": "2026-11-16T20:29:48Z",
-        "domain": "news.ycombinator.com",
-        "sourceType": "hn",
+        "title": "Daydream’s new AI agent acts as your personal stylist — and can shop for you, too",
+        "url": "https://techcrunch.com/2026/11/17/daydreams-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too/",
+        "points": 107,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-11-17T16:32:55.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
         "category": "AIニュース",
-        "impact": "低",
-        "newsLens": "技術",
-        "titleJa": "HNローンチ：Axonnic（YC F26）– 指の動きを追跡し、力を推定するスリーブ",
-        "summaryJa": "この記事は「HNローンチ：Axonnic（YC F26）– 指の動きを追跡し、力を推定するスリーブ」を扱っています。私たちはAxonnic（ https://axonnic.com ）の創業者、アーシュとマックスです。当社は、手を覆うことなく、筋肉活動を読み取って指の動きを解読し、指先の力を推定する前腕スリーブを開発しました。",
+        "impact": "高",
+        "titleJa": "Daydreamの新しいAIエージェントは、パーソナルスタイリストとして機能し、買い物も代行してくれます",
+        "summaryJa": "この記事は「Daydreamの新しいAIエージェントは、パーソナルスタイリストとして機能し、買い物も代行してくれます」を扱っています。Daydreamの新しいAIショッピングエージェントは、あなたのスタイルを記憶し、バーチャルで洋服を試着し、ワードローブに合わせてコーディネートを計画し、セールを追跡し、購入を完了することができます。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
-          "この記事は「HNローンチ：Axonnic（YC F26）– 指の動きを追跡し、力を推定するスリーブ」を扱っています。",
-          "私たちはAxonnic（ https://axonnic.com ）の創業者、アーシュとマックスです。",
-          "当社は、手を覆うことなく、筋肉活動を読み取って指の動きを解読し、指先の力を推定する前腕スリーブを開発しました。"
+          "この記事は「Daydreamの新しいAIエージェントは、パーソナルスタイリストとして機能し、買い物も代行してくれます」を扱っています。",
+          "Daydreamの新しいAIショッピングエージェントは、あなたのスタイルを記憶し、バーチャルで洋服を試着し、ワードローブに合わせてコーディネートを計画し、セールを追跡し、購入を完了することができます。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       },
       {
-        "title": "Regulatory Capture by Anthropic Through METR",
-        "url": "https://nitter.cf/kevinnbass/status/2099621874279817638",
-        "points": 73,
-        "comments": 64,
-        "author": "agnosticmantis",
-        "createdAt": "2026-11-17T12:21:57Z",
-        "domain": "nitter.cf",
+        "title": "Not Everything Needs an LLM",
+        "url": "https://newsletter.posthog.com/p/decision-models",
+        "points": 90,
+        "comments": 35,
+        "author": "speckx",
+        "createdAt": "2026-11-17T18:16:18Z",
+        "domain": "newsletter.posthog.com",
         "sourceType": "hn",
-        "category": "AIニュース",
+        "category": "AIモデル",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "METRを通じたAnthropicによる規制の乗っ取り",
-        "summaryJa": "この記事は「METRを通じたAnthropicによる規制の乗っ取り」を扱っています。私はAnthropicの監査を実施しました。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "titleJa": "すべてにLLMが必要なわけではありません",
+        "summaryJa": "この記事は「すべてにLLMが必要なわけではありません」を扱っています。newsletter.posthog.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
         "keyPoints": [
-          "この記事は「METRを通じたAnthropicによる規制の乗っ取り」を扱っています。",
-          "私はAnthropicの監査を実施しました。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+          "この記事は「すべてにLLMが必要なわけではありません」を扱っています。",
+          "newsletter.posthog.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+        ]
+      },
+      {
+        "title": "GPT‑6.2 Astra and Sol",
+        "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
+        "points": 73,
+        "comments": 675,
+        "author": "jasondavies",
+        "createdAt": "2026-11-17T17:46:43Z",
+        "domain": "openai.com",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "GPT‑6.2 アストラおよびソル",
+        "summaryJa": "この記事は「GPT‑6.2 アストラおよびソル」を扱っています。openai.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "keyPoints": [
+          "この記事は「GPT‑6.2 アストラおよびソル」を扱っています。",
+          "openai.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
       }
     ],
-    "fetchedAt": "2026-11-17T15:56:42.856Z",
+    "fetchedAt": "2026-11-18T00:56:30.765Z",
     "mock": false
   },
   "xTrends": {
-    "items": [],
-    "fetchedAt": "2026-11-17T15:56:42.856Z",
+    "items": [
+      {
+        "topic": "GPT-6.2 Astra",
+        "locationLabel": "日本",
+        "bestRank": 15,
+        "appearances": 10,
+        "trendSource": "Trends24",
+        "sourceUrl": "https://trends24.in/japan/",
+        "observedAt": "2026-11-18T00:56:30.681Z",
+        "url": "https://x.com/search?q=GPT-6.2%20Astra&src=typed_query&f=live",
+        "articleTitle": "GPT-6.2 Astra scores 100% on ARC-AGI-3",
+        "articleTitleJa": "GPT-6.2 AstraがARC-AGI-3で100%のスコアを達成",
+        "articleUrl": "https://twitter.com/arcprize/status/2122751233442156678",
+        "articleSource": "twitter.com",
+        "articlePublishedAt": "2026-11-17T18:59:43Z",
+        "summaryJa": "@OpenAIのGPT-6.2 Astra、ARC-AGI（検証済み）における結果： - ARC-AGI-3：100.0%（SOTA）、$4,100（プロバイダーアダプター）、70.3%、$24,200（標準） - ARC-AGI-2：95.8%（SOTA）、$0.50/タスク - ARC-AGI-1：98.5%、$0.17/タスク GPT-6.2 Astraは、ARC-AGI-3で100%のスコアを達成した初のモデルです。",
+        "translationVersion": 3
+      },
+      {
+        "topic": "OpenAI",
+        "locationLabel": "米国",
+        "bestRank": 37,
+        "appearances": 5,
+        "trendSource": "Trends24",
+        "sourceUrl": "https://trends24.in/united-states/",
+        "observedAt": "2026-11-18T00:56:30.633Z",
+        "url": "https://x.com/search?q=OpenAI&src=typed_query&f=live",
+        "articleTitle": "OpenAI disbands its robotics team as its general models start running robots",
+        "articleTitleJa": "OpenAIがロボティクスチームを解散。汎用モデルがロボットの稼働を開始",
+        "articleUrl": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/",
+        "articleSource": "fortune.com",
+        "articlePublishedAt": "2026-11-13T17:55:23Z",
+        "summaryJa": "OpenAIは、汎用ロボットを構築する最善の方法に関する新しい考え方を反映して、ロボット工学の研究者を他のチームに異動させました。",
+        "translationVersion": 3
+      }
+    ],
+    "fetchedAt": "2026-11-18T00:56:30.765Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-11-17T15:56:43.004Z"
+    "articleFetchedAt": "2026-11-18T00:56:38.105Z"
   }
 }
