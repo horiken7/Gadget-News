@@ -14,11 +14,11 @@
         "newsLens": "一般",
         "category": "AIニュース",
         "impact": "高",
-        "titleJa": "Nvidia、ジェンソン・ファン氏の退任後もオープンソースAI戦略は変わらないと発表",
-        "summaryJa": "この記事は「Nvidia、ジェンソン・ファン氏の退任後もオープンソースAI戦略は変わらないと発表」を扱っています。Nvidiaの暫定CEOは、ジェンセン・ファン氏の突然の退任にもかかわらず、オープンソースAI戦略とHugging Faceの買収計画を改めて表明しました。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "titleJa": "Nvidia、ジェンセン・ファン氏の退任後もオープンソースAI戦略は変わらないと発表",
+        "summaryJa": "この記事は「Nvidia、ジェンセン・ファン氏の退任後もオープンソースAI戦略は変わらないと発表」を扱っています。Nvidia（エヌビディア）の暫定CEOは、ジェンセン・ファン氏の突然の退任にもかかわらず、オープンソースAI戦略とHugging Face（ハギングフェイス）買収計画を改めて表明しました。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
-          "この記事は「Nvidia、ジェンソン・ファン氏の退任後もオープンソースAI戦略は変わらないと発表」を扱っています。",
-          "Nvidiaの暫定CEOは、ジェンセン・ファン氏の突然の退任にもかかわらず、オープンソースAI戦略とHugging Faceの買収計画を改めて表明しました。",
+          "この記事は「Nvidia、ジェンセン・ファン氏の退任後もオープンソースAI戦略は変わらないと発表」を扱っています。",
+          "Nvidia（エヌビディア）の暫定CEOは、ジェンセン・ファン氏の突然の退任にもかかわらず、オープンソースAI戦略とHugging Face（ハギングフェイス）買収計画を改めて表明しました。",
           "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       },
@@ -56,10 +56,10 @@
         "newsLens": "一般",
         "category": "AIニュース",
         "impact": "高",
-        "titleJa": "Daydreamの新しいAIエージェントは、パーソナルスタイリストとして機能し、買い物も代行してくれます",
-        "summaryJa": "この記事は「Daydreamの新しいAIエージェントは、パーソナルスタイリストとして機能し、買い物も代行してくれます」を扱っています。Daydreamの新しいAIショッピングエージェントは、あなたのスタイルを記憶し、バーチャルで洋服を試着し、ワードローブに合わせてコーディネートを計画し、セールを追跡し、購入を完了することができます。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "titleJa": "Daydreamの新しいAIエージェントは、パーソナルスタイリストとして機能し、買い物も代行します",
+        "summaryJa": "この記事は「Daydreamの新しいAIエージェントは、パーソナルスタイリストとして機能し、買い物も代行します」を扱っています。Daydreamの新しいAIショッピングエージェントは、あなたのスタイルを記憶し、バーチャルで洋服を試着し、ワードローブに合わせてコーディネートを計画し、セールを追跡し、購入を完了することができます。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
-          "この記事は「Daydreamの新しいAIエージェントは、パーソナルスタイリストとして機能し、買い物も代行してくれます」を扱っています。",
+          "この記事は「Daydreamの新しいAIエージェントは、パーソナルスタイリストとして機能し、買い物も代行します」を扱っています。",
           "Daydreamの新しいAIショッピングエージェントは、あなたのスタイルを記憶し、バーチャルで洋服を試着し、ワードローブに合わせてコーディネートを計画し、セールを追跡し、購入を完了することができます。",
           "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
@@ -67,8 +67,8 @@
       {
         "title": "Not Everything Needs an LLM",
         "url": "https://newsletter.posthog.com/p/decision-models",
-        "points": 90,
-        "comments": 35,
+        "points": 101,
+        "comments": 69,
         "author": "speckx",
         "createdAt": "2026-11-17T18:16:18Z",
         "domain": "newsletter.posthog.com",
@@ -88,7 +88,7 @@
         "title": "GPT‑6.2 Astra and Sol",
         "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
         "points": 73,
-        "comments": 675,
+        "comments": 798,
         "author": "jasondavies",
         "createdAt": "2026-11-17T17:46:43Z",
         "domain": "openai.com",
@@ -96,16 +96,16 @@
         "category": "AIモデル",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "GPT‑6.2 アストラおよびソル",
-        "summaryJa": "この記事は「GPT‑6.2 アストラおよびソル」を扱っています。openai.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "titleJa": "GPT‑6.2 AstraおよびSol",
+        "summaryJa": "この記事は「GPT‑6.2 AstraおよびSol」を扱っています。openai.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
         "keyPoints": [
-          "この記事は「GPT‑6.2 アストラおよびソル」を扱っています。",
+          "この記事は「GPT‑6.2 AstraおよびSol」を扱っています。",
           "openai.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
           "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
       }
     ],
-    "fetchedAt": "2026-11-18T00:56:30.765Z",
+    "fetchedAt": "2026-11-18T11:35:28.253Z",
     "mock": false
   },
   "xTrends": {
@@ -114,10 +114,10 @@
         "topic": "GPT-6.2 Astra",
         "locationLabel": "日本",
         "bestRank": 15,
-        "appearances": 10,
+        "appearances": 11,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-11-18T00:56:30.681Z",
+        "observedAt": "2026-11-18T11:35:28.151Z",
         "url": "https://x.com/search?q=GPT-6.2%20Astra&src=typed_query&f=live",
         "articleTitle": "GPT-6.2 Astra scores 100% on ARC-AGI-3",
         "articleTitleJa": "GPT-6.2 AstraがARC-AGI-3で100%のスコアを達成",
@@ -130,25 +130,25 @@
       {
         "topic": "OpenAI",
         "locationLabel": "米国",
-        "bestRank": 37,
+        "bestRank": 34,
         "appearances": 5,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-11-18T00:56:30.633Z",
+        "observedAt": "2026-11-18T11:35:28.130Z",
         "url": "https://x.com/search?q=OpenAI&src=typed_query&f=live",
         "articleTitle": "OpenAI disbands its robotics team as its general models start running robots",
         "articleTitleJa": "OpenAIがロボティクスチームを解散。汎用モデルがロボットの稼働を開始",
         "articleUrl": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/",
         "articleSource": "fortune.com",
         "articlePublishedAt": "2026-11-13T17:55:23Z",
-        "summaryJa": "OpenAIは、汎用ロボットを構築する最善の方法に関する新しい考え方を反映して、ロボット工学の研究者を他のチームに異動させました。",
+        "summaryJa": "OpenAIは、汎用ロボットを構築する最善の方法に関する新しい考え方を反映して、ロボティクス研究者を他のチームに異動させました。",
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-11-18T00:56:30.765Z",
+    "fetchedAt": "2026-11-18T11:35:28.253Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-11-18T00:56:38.105Z"
+    "articleFetchedAt": "2026-11-18T11:35:37.104Z"
   }
 }
