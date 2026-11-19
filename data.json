@@ -2,44 +2,44 @@
   "news": {
     "items": [
       {
-        "title": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
-        "url": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/",
+        "title": "The unfolding Jensen Huang scandal: a timeline",
+        "url": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
         "points": 133,
         "comments": 0,
         "author": "",
-        "createdAt": "2026-11-18T22:58:11.000Z",
+        "createdAt": "2026-11-19T20:18:49.000Z",
         "domain": "techcrunch.com",
         "sourceType": "rss",
         "sourceLabel": "TechCrunch AI",
         "newsLens": "一般",
         "category": "AIニュース",
         "impact": "高",
-        "titleJa": "サティア・ナデラ氏が、AIエージェントがウェブの経済構造を変革すると予測",
-        "summaryJa": "この記事は「サティア・ナデラ氏が、AIエージェントがウェブの経済構造を変革すると予測」を扱っています。マイクロソフトのCEOは、AIエージェントが広告主導のビジネスモデルを混乱させ、Amazonのような企業が顧客獲得のためにどのように競争するかを再考することを余儀なくされる可能性があると述べています。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "titleJa": "ジェンセン・ファン氏のスキャンダル展開：年表",
+        "summaryJa": "この記事は「ジェンセン・ファン氏のスキャンダル展開：年表」を扱っています。ジェンソン・ファン氏は、米国と中国が最も先進的なAIインフラの開発競争を繰り広げる中で、国家安全保障に影響を及ぼす可能性のある不倫問題を受けて、Nvidiaを辞任しました。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
-          "この記事は「サティア・ナデラ氏が、AIエージェントがウェブの経済構造を変革すると予測」を扱っています。",
-          "マイクロソフトのCEOは、AIエージェントが広告主導のビジネスモデルを混乱させ、Amazonのような企業が顧客獲得のためにどのように競争するかを再考することを余儀なくされる可能性があると述べています。",
+          "この記事は「ジェンセン・ファン氏のスキャンダル展開：年表」を扱っています。",
+          "ジェンソン・ファン氏は、米国と中国が最も先進的なAIインフラの開発競争を繰り広げる中で、国家安全保障に影響を及ぼす可能性のある不倫問題を受けて、Nvidiaを辞任しました。",
           "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       },
       {
-        "title": "More banks say customers using AI agents are on their own — even if they get hacked",
-        "url": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/",
-        "points": 107,
+        "title": "Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says",
+        "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
+        "points": 133,
         "comments": 0,
         "author": "",
-        "createdAt": "2026-11-18T17:32:10.000Z",
+        "createdAt": "2026-11-19T17:38:40.000Z",
         "domain": "techcrunch.com",
         "sourceType": "rss",
         "sourceLabel": "TechCrunch AI",
         "newsLens": "一般",
         "category": "AIニュース",
         "impact": "高",
-        "titleJa": "ハッキングされた場合でも、AIエージェントを使用する顧客は自己責任であると主張する銀行が増加",
-        "summaryJa": "この記事は「ハッキングされた場合でも、AIエージェントを使用する顧客は自己責任であると主張する銀行が増加」を扱っています。シティグループは、パーソナルファイナンス向けAIエージェントの開発を停止した最新の大手金融機関です。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "titleJa": "MetaのAIエージェントMuseが会話を混同し、個人データを漏洩する可能性があると報告",
+        "summaryJa": "この記事は「MetaのAIエージェントMuseが会話を混同し、個人データを漏洩する可能性があると報告」を扱っています。これらの事例の一部では、従業員は、自分たちがしたことのない育児支援の依頼、頼んだことのないキャリアアドバイス、発注したことのない製品の注文、自分たちのものとは関係のない銀行口座の残高に関するメッセージがMuseに表示されたと述べています。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
-          "この記事は「ハッキングされた場合でも、AIエージェントを使用する顧客は自己責任であると主張する銀行が増加」を扱っています。",
-          "シティグループは、パーソナルファイナンス向けAIエージェントの開発を停止した最新の大手金融機関です。",
+          "この記事は「MetaのAIエージェントMuseが会話を混同し、個人データを漏洩する可能性があると報告」を扱っています。",
+          "これらの事例の一部では、従業員は、自分たちがしたことのない育児支援の依頼、頼んだことのないキャリアアドバイス、発注したことのない製品の注文、自分たちのものとは関係のない銀行口座の残高に関するメッセージがMuseに表示されたと述べています。",
           "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       },
@@ -47,7 +47,7 @@
         "title": "LLM assisted reverse engineering",
         "url": "https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering",
         "points": 101,
-        "comments": 56,
+        "comments": 74,
         "author": "ioma8",
         "createdAt": "2026-11-18T22:29:13Z",
         "domain": "slowchronicle.com",
@@ -55,39 +55,39 @@
         "category": "AIモデル",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "LLMによるリバースエンジニアリング支援",
-        "summaryJa": "この記事は「LLMによるリバースエンジニアリング支援」を扱っています。私は20年間、ハードウェアとソフトウェアの両方をハッキングしてきました。以前は手作業で行っていましたが、2026年にはAIの助けを借りてプロセスが大幅にスピードアップしました。",
+        "titleJa": "LLMを活用したリバースエンジニアリング",
+        "summaryJa": "この記事は「LLMを活用したリバースエンジニアリング」を扱っています。私は20年間、ハードウェアとソフトウェアの両方をハッキングしてきました。以前は手作業で行っていましたが、2026年にはAIの助けを借りてプロセスが大幅にスピードアップしました。",
         "keyPoints": [
-          "この記事は「LLMによるリバースエンジニアリング支援」を扱っています。",
+          "この記事は「LLMを活用したリバースエンジニアリング」を扱っています。",
           "私は20年間、ハードウェアとソフトウェアの両方をハッキングしてきました。",
           "以前は手作業で行っていましたが、2026年にはAIの助けを借りてプロセスが大幅にスピードアップしました。"
         ]
       },
       {
-        "title": "Advancing chip design with OpenAI models",
-        "url": "https://openai.com/index/advancing-chip-design-with-our-models/",
-        "points": 101,
-        "comments": 151,
-        "author": "vighneshiyer",
-        "createdAt": "2026-11-18T17:45:47Z",
-        "domain": "openai.com",
+        "title": "Anthropic hits $2T in Nasdaq debut",
+        "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
+        "points": 93,
+        "comments": 831,
+        "author": "wslh",
+        "createdAt": "2026-11-19T17:02:40Z",
+        "domain": "reuters.com",
         "sourceType": "hn",
-        "category": "AIモデル",
+        "category": "AIニュース",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "OpenAIモデルによるチップ設計の進化",
-        "summaryJa": "この記事は「OpenAIモデルによるチップ設計の進化」を扱っています。openai.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "titleJa": "Anthropic、ナスダック上場で時価総額2兆ドルを達成",
+        "summaryJa": "この記事は「Anthropic、ナスダック上場で時価総額2兆ドルを達成」を扱っています。reuters.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
         "keyPoints": [
-          "この記事は「OpenAIモデルによるチップ設計の進化」を扱っています。",
-          "openai.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+          "この記事は「Anthropic、ナスダック上場で時価総額2兆ドルを達成」を扱っています。",
+          "reuters.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
       },
       {
         "title": "Gemini 4 Neon",
         "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
         "points": 73,
-        "comments": 683,
+        "comments": 751,
         "author": "yigitdemirag",
         "createdAt": "2026-11-18T21:34:07Z",
         "domain": "blog.google",
@@ -104,50 +104,33 @@
         ]
       }
     ],
-    "fetchedAt": "2026-11-19T11:33:43.752Z",
+    "fetchedAt": "2026-11-19T20:31:06.397Z",
     "mock": false
   },
   "xTrends": {
     "items": [
       {
-        "topic": "Gemini 4 Neon",
+        "topic": "Anthropic",
         "locationLabel": "日本",
-        "bestRank": 4,
+        "bestRank": 6,
         "appearances": 7,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-11-19T11:33:43.732Z",
-        "url": "https://x.com/search?q=Gemini%204%20Neon&src=typed_query&f=live",
-        "articleTitle": "Gemini 4 Neon",
-        "articleTitleJa": "Gemini4 ネオン",
-        "articleUrl": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
-        "articleSource": "blog.google",
-        "articlePublishedAt": "2026-11-18T21:34:07Z",
-        "summaryJa": "GoogleがGemini 4 Neonを発表。複雑なコーディングや分析に最先端レベルの知能を提供し、コストを削減します。新機能をご覧ください。",
-        "translationVersion": 3
-      },
-      {
-        "topic": "Anthropic",
-        "locationLabel": "日本",
-        "bestRank": 35,
-        "appearances": 3,
-        "trendSource": "Trends24",
-        "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-11-19T11:33:43.732Z",
+        "observedAt": "2026-11-19T20:31:06.316Z",
         "url": "https://x.com/search?q=Anthropic&src=typed_query&f=live",
-        "articleTitle": "Anthropic IPO",
-        "articleTitleJa": "AnthropicのIPO",
-        "articleUrl": "https://ipo.anthropic.com/us/",
-        "articleSource": "ipo.anthropic.com",
-        "articlePublishedAt": "2026-11-12T11:46:41Z",
-        "summaryJa": "Anthropicは、株式公開企業となるための申請を行いました。創業者からのメッセージやその他の関連情報をお読みください。",
+        "articleTitle": "Anthropic prices initial public offering",
+        "articleTitleJa": "AnthropicのIPO（新規株式公開）価格",
+        "articleUrl": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
+        "articleSource": "anthropic.com",
+        "articlePublishedAt": "2026-11-18T23:30:09Z",
+        "summaryJa": "本日、Anthropic, PBCはA種普通株式の新規株式公開価格を決定しました。",
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-11-19T11:33:43.752Z",
+    "fetchedAt": "2026-11-19T20:31:06.397Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-11-19T11:33:53.326Z"
+    "articleFetchedAt": "2026-11-19T20:31:09.950Z"
   }
 }
