@@ -2,23 +2,23 @@
   "news": {
     "items": [
       {
-        "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
-        "url": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
-        "points": 115,
+        "title": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
+        "url": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/",
+        "points": 133,
         "comments": 0,
         "author": "",
-        "createdAt": "2026-11-17T23:04:35.000Z",
+        "createdAt": "2026-11-18T22:58:11.000Z",
         "domain": "techcrunch.com",
         "sourceType": "rss",
         "sourceLabel": "TechCrunch AI",
         "newsLens": "一般",
         "category": "AIニュース",
         "impact": "高",
-        "titleJa": "Nvidia、ジェンソン・ファン氏の退任後もオープンソースAI戦略は変わらないと発表",
-        "summaryJa": "この記事は「Nvidia、ジェンソン・ファン氏の退任後もオープンソースAI戦略は変わらないと発表」を扱っています。Nvidia（エヌビディア）の暫定CEOは、ジェンセン・ファン氏の突然の退任にもかかわらず、オープンソースAI戦略とHugging Face（ハギングフェイス）買収計画を改めて表明しました。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "titleJa": "サティア・ナデラ氏が、AIエージェントがウェブの経済構造を変革すると予測",
+        "summaryJa": "この記事は「サティア・ナデラ氏が、AIエージェントがウェブの経済構造を変革すると予測」を扱っています。マイクロソフトのCEOは、AIエージェントが広告主導のビジネスモデルを混乱させ、Amazonのような企業が顧客獲得のためにどのように競争するかを再考せざるを得なくなる可能性があると述べています。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
-          "この記事は「Nvidia、ジェンソン・ファン氏の退任後もオープンソースAI戦略は変わらないと発表」を扱っています。",
-          "Nvidia（エヌビディア）の暫定CEOは、ジェンセン・ファン氏の突然の退任にもかかわらず、オープンソースAI戦略とHugging Face（ハギングフェイス）買収計画を改めて表明しました。",
+          "この記事は「サティア・ナデラ氏が、AIエージェントがウェブの経済構造を変革すると予測」を扱っています。",
+          "マイクロソフトのCEOは、AIエージェントが広告主導のビジネスモデルを混乱させ、Amazonのような企業が顧客獲得のためにどのように競争するかを再考せざるを得なくなる可能性があると述べています。",
           "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       },
@@ -35,45 +35,25 @@
         "newsLens": "一般",
         "category": "AIニュース",
         "impact": "高",
-        "titleJa": "ハッキングされた場合でも、AIエージェントを使用する顧客は自己責任であると、より多くの銀行が主張",
-        "summaryJa": "この記事は「ハッキングされた場合でも、AIエージェントを使用する顧客は自己責任であると、より多くの銀行が主張」を扱っています。シティグループは、個人向け金融AIエージェントの導入を停止した最新の大手金融機関です。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "titleJa": "ハッキングされた場合でも、AIエージェントを使用する顧客は自己責任であると主張する銀行が増加",
+        "summaryJa": "この記事は「ハッキングされた場合でも、AIエージェントを使用する顧客は自己責任であると主張する銀行が増加」を扱っています。シティグループは、パーソナルファイナンス向けAIエージェントの開発を停止した最新の主要金融機関です。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
-          "この記事は「ハッキングされた場合でも、AIエージェントを使用する顧客は自己責任であると、より多くの銀行が主張」を扱っています。",
-          "シティグループは、個人向け金融AIエージェントの導入を停止した最新の大手金融機関です。",
+          "この記事は「ハッキングされた場合でも、AIエージェントを使用する顧客は自己責任であると主張する銀行が増加」を扱っています。",
+          "シティグループは、パーソナルファイナンス向けAIエージェントの開発を停止した最新の主要金融機関です。",
           "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
-        ]
-      },
-      {
-        "title": "Show HN: Mastra Factory, the open-source software factory we use to build Mastra",
-        "url": "https://news.ycombinator.com/item?id=50548660",
-        "points": 99,
-        "comments": 15,
-        "author": "codekarate",
-        "createdAt": "2026-11-18T16:53:42Z",
-        "domain": "news.ycombinator.com",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "低",
-        "newsLens": "技術",
-        "titleJa": "HN紹介：Mastra Factory、Mastraの構築に使用しているオープンソースのソフトウェアファクトリー",
-        "summaryJa": "この記事は「HN紹介：Mastra Factory、Mastraの構築に使用しているオープンソースのソフトウェアファクトリー」を扱っています。およそ2年前、オープンソースのTypeScriptエージェントフレームワークであるMastraをShow HNで公開しました。id=43103073 数百件の賛成票が集まりました。",
-        "keyPoints": [
-          "この記事は「HN紹介：Mastra Factory、Mastraの構築に使用しているオープンソースのソフトウェアファクトリー」を扱っています。",
-          "およそ2年前、オープンソースのTypeScriptエージェントフレームワークであるMastraをShow HNで公開しました。",
-          "id=43103073 数百件の賛成票が集まりました。"
         ]
       },
       {
         "title": "Advancing chip design with OpenAI models",
         "url": "https://openai.com/index/advancing-chip-design-with-our-models/",
-        "points": 86,
-        "comments": 25,
+        "points": 101,
+        "comments": 104,
         "author": "vighneshiyer",
         "createdAt": "2026-11-18T17:45:47Z",
         "domain": "openai.com",
         "sourceType": "hn",
         "category": "AIモデル",
-        "impact": "中",
+        "impact": "高",
         "newsLens": "技術",
         "titleJa": "OpenAIモデルによるチップ設計の進化",
         "summaryJa": "この記事は「OpenAIモデルによるチップ設計の進化」を扱っています。openai.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
@@ -84,10 +64,30 @@
         ]
       },
       {
+        "title": "Gemini 4 Neon",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+        "points": 73,
+        "comments": 452,
+        "author": "yigitdemirag",
+        "createdAt": "2026-11-18T21:34:07Z",
+        "domain": "blog.google",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "Gemini4 ネオン",
+        "summaryJa": "この記事は「Gemini4 ネオン」を扱っています。複雑なコーディングや分析に最先端レベルの知能を提供し、コストを削減します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "keyPoints": [
+          "この記事は「Gemini4 ネオン」を扱っています。",
+          "複雑なコーディングや分析に最先端レベルの知能を提供し、コストを削減します。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+        ]
+      },
+      {
         "title": "Why is Gemini 4 Carbon taking so long?",
         "url": "https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/",
         "points": 73,
-        "comments": 134,
+        "comments": 138,
         "author": "deenadz",
         "createdAt": "2026-11-18T04:14:04Z",
         "domain": "kernel.dev",
@@ -95,24 +95,42 @@
         "category": "AIモデル",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "Gemini 4 Carbonにこれほど時間がかかるのはなぜですか？",
-        "summaryJa": "この記事は「Gemini 4 Carbonにこれほど時間がかかるのはなぜですか？」を扱っています。Gemini 4 Carbonは、OpusとAstraが数分で完了したタスクに約1時間費やしました。その理由を突き止めるために、実行のすべてのステップを追跡しました。",
+        "titleJa": "Gemini 4 Carbonの作業に時間がかかるのはなぜですか？",
+        "summaryJa": "この記事は「Gemini 4 Carbonの作業に時間がかかるのはなぜですか？」を扱っています。Gemini 4 Carbonは、OpusとAstraが数分で完了したタスクに約1時間費やしました。その理由を突き止めるために、実行のすべてのステップを追跡しました。",
         "keyPoints": [
-          "この記事は「Gemini 4 Carbonにこれほど時間がかかるのはなぜですか。",
+          "この記事は「Gemini 4 Carbonの作業に時間がかかるのはなぜですか。",
           "Gemini 4 Carbonは、OpusとAstraが数分で完了したタスクに約1時間費やしました。",
           "その理由を突き止めるために、実行のすべてのステップを追跡しました。"
         ]
       }
     ],
-    "fetchedAt": "2026-11-18T20:27:58.589Z",
+    "fetchedAt": "2026-11-19T02:32:12.693Z",
     "mock": false
   },
   "xTrends": {
-    "items": [],
-    "fetchedAt": "2026-11-18T20:27:58.589Z",
+    "items": [
+      {
+        "topic": "Gemini 4 Neon",
+        "locationLabel": "日本",
+        "bestRank": 4,
+        "appearances": 6,
+        "trendSource": "Trends24",
+        "sourceUrl": "https://trends24.in/japan/",
+        "observedAt": "2026-11-19T02:32:12.548Z",
+        "url": "https://x.com/search?q=Gemini%204%20Neon&src=typed_query&f=live",
+        "articleTitle": "Gemini 4 Neon",
+        "articleTitleJa": "Gemini4ネオン",
+        "articleUrl": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+        "articleSource": "blog.google",
+        "articlePublishedAt": "2026-11-18T21:34:07Z",
+        "summaryJa": "GoogleがGemini 4 Neonを発表。複雑なコーディングや分析に最先端レベルの知能を提供し、コストを削減します。新機能をご覧ください。",
+        "translationVersion": 3
+      }
+    ],
+    "fetchedAt": "2026-11-19T02:32:12.693Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-11-18T20:27:58.719Z"
+    "articleFetchedAt": "2026-11-19T02:32:15.733Z"
   }
 }
