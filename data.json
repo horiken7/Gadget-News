@@ -15,10 +15,10 @@
         "category": "AIニュース",
         "impact": "高",
         "titleJa": "サティア・ナデラ氏が、AIエージェントがウェブの経済構造を変革すると予測",
-        "summaryJa": "この記事は「サティア・ナデラ氏が、AIエージェントがウェブの経済構造を変革すると予測」を扱っています。マイクロソフトのCEOは、AIエージェントが広告主導のビジネスモデルを混乱させ、Amazonのような企業が顧客獲得のためにどのように競争するかを再考せざるを得なくなる可能性があると述べています。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "summaryJa": "この記事は「サティア・ナデラ氏が、AIエージェントがウェブの経済構造を変革すると予測」を扱っています。マイクロソフトのCEOは、AIエージェントが広告主導のビジネスモデルを混乱させ、Amazonのような企業が顧客獲得のためにどのように競争するかを再考することを余儀なくされる可能性があると述べています。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
           "この記事は「サティア・ナデラ氏が、AIエージェントがウェブの経済構造を変革すると予測」を扱っています。",
-          "マイクロソフトのCEOは、AIエージェントが広告主導のビジネスモデルを混乱させ、Amazonのような企業が顧客獲得のためにどのように競争するかを再考せざるを得なくなる可能性があると述べています。",
+          "マイクロソフトのCEOは、AIエージェントが広告主導のビジネスモデルを混乱させ、Amazonのような企業が顧客獲得のためにどのように競争するかを再考することを余儀なくされる可能性があると述べています。",
           "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       },
@@ -36,18 +36,38 @@
         "category": "AIニュース",
         "impact": "高",
         "titleJa": "ハッキングされた場合でも、AIエージェントを使用する顧客は自己責任であると主張する銀行が増加",
-        "summaryJa": "この記事は「ハッキングされた場合でも、AIエージェントを使用する顧客は自己責任であると主張する銀行が増加」を扱っています。シティグループは、パーソナルファイナンス向けAIエージェントの開発を停止した最新の主要金融機関です。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "summaryJa": "この記事は「ハッキングされた場合でも、AIエージェントを使用する顧客は自己責任であると主張する銀行が増加」を扱っています。シティグループは、パーソナルファイナンス向けAIエージェントの開発を停止した最新の大手金融機関です。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
           "この記事は「ハッキングされた場合でも、AIエージェントを使用する顧客は自己責任であると主張する銀行が増加」を扱っています。",
-          "シティグループは、パーソナルファイナンス向けAIエージェントの開発を停止した最新の主要金融機関です。",
+          "シティグループは、パーソナルファイナンス向けAIエージェントの開発を停止した最新の大手金融機関です。",
           "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+        ]
+      },
+      {
+        "title": "LLM assisted reverse engineering",
+        "url": "https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering",
+        "points": 101,
+        "comments": 56,
+        "author": "ioma8",
+        "createdAt": "2026-11-18T22:29:13Z",
+        "domain": "slowchronicle.com",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "LLMによるリバースエンジニアリング支援",
+        "summaryJa": "この記事は「LLMによるリバースエンジニアリング支援」を扱っています。私は20年間、ハードウェアとソフトウェアの両方をハッキングしてきました。以前は手作業で行っていましたが、2026年にはAIの助けを借りてプロセスが大幅にスピードアップしました。",
+        "keyPoints": [
+          "この記事は「LLMによるリバースエンジニアリング支援」を扱っています。",
+          "私は20年間、ハードウェアとソフトウェアの両方をハッキングしてきました。",
+          "以前は手作業で行っていましたが、2026年にはAIの助けを借りてプロセスが大幅にスピードアップしました。"
         ]
       },
       {
         "title": "Advancing chip design with OpenAI models",
         "url": "https://openai.com/index/advancing-chip-design-with-our-models/",
         "points": 101,
-        "comments": 104,
+        "comments": 151,
         "author": "vighneshiyer",
         "createdAt": "2026-11-18T17:45:47Z",
         "domain": "openai.com",
@@ -67,7 +87,7 @@
         "title": "Gemini 4 Neon",
         "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
         "points": 73,
-        "comments": 452,
+        "comments": 683,
         "author": "yigitdemirag",
         "createdAt": "2026-11-18T21:34:07Z",
         "domain": "blog.google",
@@ -75,36 +95,16 @@
         "category": "AIモデル",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "Gemini4 ネオン",
-        "summaryJa": "この記事は「Gemini4 ネオン」を扱っています。複雑なコーディングや分析に最先端レベルの知能を提供し、コストを削減します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "titleJa": "Gemini4ネオン",
+        "summaryJa": "この記事は「Gemini4ネオン」を扱っています。複雑なコーディングや分析に最先端レベルの知能を低コストで提供します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
         "keyPoints": [
-          "この記事は「Gemini4 ネオン」を扱っています。",
-          "複雑なコーディングや分析に最先端レベルの知能を提供し、コストを削減します。",
+          "この記事は「Gemini4ネオン」を扱っています。",
+          "複雑なコーディングや分析に最先端レベルの知能を低コストで提供します。",
           "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
-        ]
-      },
-      {
-        "title": "Why is Gemini 4 Carbon taking so long?",
-        "url": "https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/",
-        "points": 73,
-        "comments": 138,
-        "author": "deenadz",
-        "createdAt": "2026-11-18T04:14:04Z",
-        "domain": "kernel.dev",
-        "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "Gemini 4 Carbonの作業に時間がかかるのはなぜですか？",
-        "summaryJa": "この記事は「Gemini 4 Carbonの作業に時間がかかるのはなぜですか？」を扱っています。Gemini 4 Carbonは、OpusとAstraが数分で完了したタスクに約1時間費やしました。その理由を突き止めるために、実行のすべてのステップを追跡しました。",
-        "keyPoints": [
-          "この記事は「Gemini 4 Carbonの作業に時間がかかるのはなぜですか。",
-          "Gemini 4 Carbonは、OpusとAstraが数分で完了したタスクに約1時間費やしました。",
-          "その理由を突き止めるために、実行のすべてのステップを追跡しました。"
         ]
       }
     ],
-    "fetchedAt": "2026-11-19T02:32:12.693Z",
+    "fetchedAt": "2026-11-19T11:33:43.752Z",
     "mock": false
   },
   "xTrends": {
@@ -113,24 +113,41 @@
         "topic": "Gemini 4 Neon",
         "locationLabel": "日本",
         "bestRank": 4,
-        "appearances": 6,
+        "appearances": 7,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-11-19T02:32:12.548Z",
+        "observedAt": "2026-11-19T11:33:43.732Z",
         "url": "https://x.com/search?q=Gemini%204%20Neon&src=typed_query&f=live",
         "articleTitle": "Gemini 4 Neon",
-        "articleTitleJa": "Gemini4ネオン",
+        "articleTitleJa": "Gemini4 ネオン",
         "articleUrl": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
         "articleSource": "blog.google",
         "articlePublishedAt": "2026-11-18T21:34:07Z",
         "summaryJa": "GoogleがGemini 4 Neonを発表。複雑なコーディングや分析に最先端レベルの知能を提供し、コストを削減します。新機能をご覧ください。",
         "translationVersion": 3
+      },
+      {
+        "topic": "Anthropic",
+        "locationLabel": "日本",
+        "bestRank": 35,
+        "appearances": 3,
+        "trendSource": "Trends24",
+        "sourceUrl": "https://trends24.in/japan/",
+        "observedAt": "2026-11-19T11:33:43.732Z",
+        "url": "https://x.com/search?q=Anthropic&src=typed_query&f=live",
+        "articleTitle": "Anthropic IPO",
+        "articleTitleJa": "AnthropicのIPO",
+        "articleUrl": "https://ipo.anthropic.com/us/",
+        "articleSource": "ipo.anthropic.com",
+        "articlePublishedAt": "2026-11-12T11:46:41Z",
+        "summaryJa": "Anthropicは、株式公開企業となるための申請を行いました。創業者からのメッセージやその他の関連情報をお読みください。",
+        "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-11-19T02:32:12.693Z",
+    "fetchedAt": "2026-11-19T11:33:43.752Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-11-19T02:32:15.733Z"
+    "articleFetchedAt": "2026-11-19T11:33:53.326Z"
   }
 }
