@@ -2,6 +2,27 @@
   "news": {
     "items": [
       {
+        "title": "Here are the top AI agents that can live in your text messages",
+        "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+        "points": 107,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-11-21T17:00:00.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
+        "category": "AIニュース",
+        "impact": "高",
+        "titleJa": "テキストメッセージ内で利用できるおすすめのAIエージェントをご紹介します",
+        "summaryJa": "この記事は「テキストメッセージ内で利用できるおすすめのAIエージェントをご紹介します」を扱っています。一般的なアシスタントから、家族、旅行、仕事向けに設計されたエージェントまで、テキストメッセージ内で使用できる最も注目すべきAIエージェントのリストを作成しました。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "keyPoints": [
+          "この記事は「テキストメッセージ内で利用できるおすすめのAIエージェントをご紹介します」を扱っています。",
+          "一般的なアシスタントから、家族、旅行、仕事向けに設計されたエージェントまで、テキストメッセージ内で使用できる最も注目すべきAIエージェントのリストを作成しました。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+        ]
+      },
+      {
         "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
         "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
         "points": 105,
@@ -14,59 +35,19 @@
         "newsLens": "技術",
         "category": "研究",
         "impact": "高",
-        "titleJa": "研究者がAIサプライチェーンに200万羽のカナリアを仕込む。プライバシーに関する大問題が発覚しました。",
-        "summaryJa": "この記事は「研究者がAIサプライチェーンに200万羽のカナリアを仕込む。プライバシーに関する大問題が発覚しました。」を扱っています。一意で追跡可能な秘密情報を含むプロンプトを使用したテストにより、データが非公開のままでないことが証明されています。研究・実装面では、手法の新しさ、再現性、既存モデルとの差分が見るべき点です。",
+        "titleJa": "研究者がAIサプライチェーンに200万羽のカナリアを仕込む。プライバシーに関する問題が発覚しました。",
+        "summaryJa": "この記事は「研究者がAIサプライチェーンに200万羽のカナリアを仕込む。プライバシーに関する問題が発覚しました。」を扱っています。一意で追跡可能な秘密情報を含むプロンプトを使用したテストにより、データが非公開のままでないことが証明されました。研究・実装面では、手法の新しさ、再現性、既存モデルとの差分が見るべき点です。",
         "keyPoints": [
           "この記事は「研究者がAIサプライチェーンに200万羽のカナリアを仕込む。",
-          "プライバシーに関する大問題が発覚しました。",
-          "一意で追跡可能な秘密情報を含むプロンプトを使用したテストにより、データが非公開のままでないことが証明されています。"
-        ]
-      },
-      {
-        "title": "Google workers tell their employer not to punish schools that don't want AI",
-        "url": "https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/",
-        "points": 99,
-        "comments": 214,
-        "author": "cdrnsf",
-        "createdAt": "2026-11-20T16:59:27Z",
-        "domain": "motherjones.com",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "高",
-        "newsLens": "一般",
-        "titleJa": "Googleの従業員が、AIを望まない学校に罰を与えないよう雇用主に求める",
-        "summaryJa": "この記事は「Googleの従業員が、AIを望まない学校に罰を与えないよう雇用主に求める」を扱っています。Googleのスタッフは、「経営陣は『AIへの抵抗』が単に学校が『ビジョンを見ていない』ことを意味すると確信している」と述べました。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
-        "keyPoints": [
-          "この記事は「Googleの従業員が、AIを望まない学校に罰を与えないよう雇用主に求める」を扱っています。",
-          "Googleのスタッフは、「経営陣は『AIへの抵抗』が単に学校が『ビジョンを見ていない』ことを意味すると確信している」と述べました。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
-        ]
-      },
-      {
-        "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day",
-        "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
-        "points": 93,
-        "comments": 598,
-        "author": "cdrnsf",
-        "createdAt": "2026-11-20T13:29:59Z",
-        "domain": "theguardian.com",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "ナスダック、AI関連株の売りがAnthropicの2日目を冷やし、2026年の上昇分をすべて帳消しに",
-        "summaryJa": "この記事は「ナスダック、AI関連株の売りがAnthropicの2日目を冷やし、2026年の上昇分をすべて帳消しに」を扱っています。ナスダックは数兆ドルの価値を失い、AIスタートアップ企業のIPOは、投資家がAIの構築に巨額の資金が投入されていることに疑問を抱いているため、ナスダックを押し上げることはできませんでした。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
-        "keyPoints": [
-          "この記事は「ナスダック、AI関連株の売りがAnthropicの2日目を冷やし、2026年の上昇分をすべて帳消しに」を扱っています。",
-          "ナスダックは数兆ドルの価値を失い、AIスタートアップ企業のIPOは、投資家がAIの構築に巨額の資金が投入されていることに疑問を抱いているため、ナスダックを押し上げることはできませんでした。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+          "プライバシーに関する問題が発覚しました。",
+          "一意で追跡可能な秘密情報を含むプロンプトを使用したテストにより、データが非公開のままでないことが証明されました。"
         ]
       },
       {
         "title": "Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?",
         "url": "https://news.ycombinator.com/item?id=50583761",
         "points": 93,
-        "comments": 163,
+        "comments": 533,
         "author": "LetThingsBeDiff",
         "createdAt": "2026-11-20T23:18:32Z",
         "domain": "news.ycombinator.com",
@@ -74,63 +55,101 @@
         "category": "AIニュース",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "HNに質問：私は2年間失業しています。15年の経験があり、米国にいます。どうすればよいでしょうか？",
-        "summaryJa": "この記事は「HNに質問：私は2年間失業しています。15年の経験があり、米国にいます。どうすればよいでしょうか？」を扱っています。私は米国（DMVエリア）のシニアソフトウェアエンジニアで、15年の経験があります。フォーチュン50+企業や多数の中堅企業で働いてきました。",
+        "titleJa": "HN質問：私は2年間失業しています。15年の経験があり、米国にいます。どうすればよいでしょうか？",
+        "summaryJa": "この記事は「HN質問：私は2年間失業しています。15年の経験があり、米国にいます。どうすればよいでしょうか？」を扱っています。私は米国（DMVエリア）のシニアソフトウェアエンジニアで、15年の経験があります。フォーチュン50+企業や多数の中堅企業で働いてきました。",
         "keyPoints": [
-          "この記事は「HNに質問：私は2年間失業しています。",
+          "この記事は「HN質問：私は2年間失業しています。",
           "15年の経験があり、米国にいます。",
           "どうすればよいでしょうか。"
         ]
       },
       {
-        "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
-        "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
-        "points": 79,
+        "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+        "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
+        "points": 87,
         "comments": 0,
         "author": "",
-        "createdAt": "2026-11-20T19:32:08.000Z",
+        "createdAt": "2026-11-21T16:00:00.000Z",
         "domain": "techcrunch.com",
         "sourceType": "rss",
         "sourceLabel": "TechCrunch AI",
         "newsLens": "一般",
         "category": "AIニュース",
-        "impact": "中",
-        "titleJa": "AIが167年前のリーマン予想の解を主張し、人間も同様に主張した",
-        "summaryJa": "この記事は「AIが167年前のリーマン予想の解を主張し、人間も同様に主張した」を扱っています。数学者たちは、最新のAI主導の結果に驚いています。そして、これに匹敵する人間の解決策もあります。",
+        "impact": "高",
+        "titleJa": "このマイクロドラマのスタートアップ企業に自分の顔のAIバージョンを売ることは、ハリウッドの未来なのでしょうか？",
+        "summaryJa": "この記事は「このマイクロドラマのスタートアップ企業に自分の顔のAIバージョンを売ることは、ハリウッドの未来なのでしょうか？」を扱っています。ある俳優が、マイクロドラマのスタートアップ企業に自分の顔の使用を許諾しました。これはすでに中国で人気となっているトレンドです。",
         "keyPoints": [
-          "この記事は「AIが167年前のリーマン予想の解を主張し、人間も同様に主張した」を扱っています。",
-          "数学者たちは、最新のAI主導の結果に驚いています。",
-          "そして、これに匹敵する人間の解決策もあります。"
+          "この記事は「このマイクロドラマのスタートアップ企業に自分の顔のAIバージョンを売ることは、ハリウッドの未来なのでしょうか。",
+          "ある俳優が、マイクロドラマのスタートアップ企業に自分の顔の使用を許諾しました。",
+          "これはすでに中国で人気となっているトレンドです。"
+        ]
+      },
+      {
+        "title": "I got banned from Lobsters for writing like an LLM",
+        "url": "https://en.andros.dev/blog/94a77341/i-got-banned-from-lobsters-for-writing-like-an-llm/",
+        "points": 71,
+        "comments": 2,
+        "author": "kristianpaul",
+        "createdAt": "2026-11-21T17:00:41Z",
+        "domain": "en.andros.dev",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "低",
+        "newsLens": "技術",
+        "titleJa": "LLMのように書いたことで、Lobstersからアクセス禁止になりました。",
+        "summaryJa": "この記事は「LLMのように書いたことで、Lobstersからアクセス禁止になりました。」を扱っています。私はLobstersからアクセスを禁止されました。退屈しているなら、私の経験談を読んでみてください。",
+        "keyPoints": [
+          "この記事は「LLMのように書いたことで、Lobstersからアクセス禁止になりました。",
+          "私はLobstersからアクセスを禁止されました。",
+          "退屈しているなら、私の経験談を読んでみてください。"
         ]
       }
     ],
-    "fetchedAt": "2026-11-21T10:56:50.133Z",
+    "fetchedAt": "2026-11-21T19:11:17.216Z",
     "mock": false
   },
   "xTrends": {
     "items": [
       {
-        "topic": "Anthropic",
-        "locationLabel": "英国",
-        "bestRank": 22,
-        "appearances": 24,
+        "topic": "AIドット絵バトルおつ",
+        "locationLabel": "日本",
+        "bestRank": 37,
+        "appearances": 1,
         "trendSource": "Trends24",
-        "sourceUrl": "https://trends24.in/united-kingdom/",
-        "observedAt": "2026-11-21T10:56:50.094Z",
+        "sourceUrl": "https://trends24.in/japan/",
+        "observedAt": "2026-11-21T19:11:17.117Z",
+        "url": "https://x.com/search?q=AI%E3%83%89%E3%83%83%E3%83%88%E7%B5%B5%E3%83%90%E3%83%88%E3%83%AB%E3%81%8A%E3%81%A4&src=typed_query&f=live",
+        "articleTitle": "AIドット絵バトルおつ",
+        "articleTitleJa": "公開トレンド: AIドット絵バトルおつ",
+        "articleUrl": "https://trends24.in/japan/",
+        "articleSource": "Trends24",
+        "articlePublishedAt": "2026-11-21T19:11:17.117Z",
+        "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
+        "translationVersion": 3,
+        "articleFallback": true
+      },
+      {
+        "topic": "Anthropic",
+        "locationLabel": "米国",
+        "bestRank": 27,
+        "appearances": 14,
+        "trendSource": "Trends24",
+        "sourceUrl": "https://trends24.in/united-states/",
+        "observedAt": "2026-11-21T19:11:17.084Z",
         "url": "https://x.com/search?q=Anthropic&src=typed_query&f=live",
-        "articleTitle": "Anthropic prices initial public offering",
-        "articleTitleJa": "AnthropicのIPO価格",
-        "articleUrl": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
-        "articleSource": "anthropic.com",
-        "articlePublishedAt": "2026-11-18T23:30:09Z",
-        "summaryJa": "本日、Anthropic, PBCはA種普通株式の新規株式公開価格を決定しました。",
+        "articleTitle": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day",
+        "articleTitleJa": "ナスダック、AI関連株の売りがAnthropicの2日目の株価を押し下げ、2026年の上昇分をすべて帳消しに",
+        "articleUrl": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+        "articleSource": "theguardian.com",
+        "articlePublishedAt": "2026-11-20T13:29:59Z",
+        "summaryJa": "ナスダックは数兆ドルの価値を失い、AIスタートアップのIPOはこれを支えることができませんでした。投資家はAIの構築に多額の資金が投入されていることに疑問を抱いています。",
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-11-21T10:56:50.133Z",
+    "fetchedAt": "2026-11-21T19:11:17.216Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-11-21T10:56:53.337Z"
+    "articleFetchedAt": "2026-11-21T19:11:21.214Z"
   }
 }
