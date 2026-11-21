@@ -2,92 +2,92 @@
   "news": {
     "items": [
       {
-        "title": "The unfolding Jensen Huang scandal: a timeline",
-        "url": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-        "points": 133,
+        "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
+        "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+        "points": 105,
         "comments": 0,
         "author": "",
-        "createdAt": "2026-11-19T20:18:49.000Z",
-        "domain": "techcrunch.com",
+        "createdAt": "2026-11-20T20:59:08.000Z",
+        "domain": "arstechnica.com",
         "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
-        "category": "AIニュース",
+        "sourceLabel": "Ars Technica",
+        "newsLens": "技術",
+        "category": "研究",
         "impact": "高",
-        "titleJa": "ジェンセン・ファン氏のスカンダル展開：年表",
-        "summaryJa": "この記事は「ジェンセン・ファン氏のスカンダル展開：年表」を扱っています。ジェンソン・ファン氏は、米国と中国が最も先進的なAIインフラを開発するために競い合っている中で、国家安全保障に影響を及ぼす可能性のある不倫を理由にNvidiaを辞任しました。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "titleJa": "AIニュース: Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
+        "summaryJa": "この記事は「Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.」を扱っています。arstechnica.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。研究・実装面では、手法の新しさ、再現性、既存モデルとの差分が見るべき点です。",
         "keyPoints": [
-          "この記事は「ジェンセン・ファン氏のスカンダル展開：年表」を扱っています。",
-          "ジェンソン・ファン氏は、米国と中国が最も先進的なAIインフラを開発するために競い合っている中で、国家安全保障に影響を及ぼす可能性のある不倫を理由にNvidiaを辞任しました。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+          "この記事は「Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.」を扱っています。",
+          "arstechnica.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "研究・実装面では、手法の新しさ、再現性、既存モデルとの差分が見るべき点です。"
         ]
       },
       {
-        "title": "Apple may be developing its own AI agent that runs your Mac",
-        "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
-        "points": 107,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-11-20T00:56:01.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
-        "category": "AIニュース",
-        "impact": "高",
-        "titleJa": "AppleがMacを動作させる独自のAIエージェントを開発中である可能性",
-        "summaryJa": "この記事は「AppleがMacを動作させる独自のAIエージェントを開発中である可能性」を扱っています。iPhoneメーカーは、Meta Muse、Instinct、Claude、OpenAI Dotsなどの競合他社に対抗できるエージェントを開発しているようです。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
-        "keyPoints": [
-          "この記事は「AppleがMacを動作させる独自のAIエージェントを開発中である可能性」を扱っています。",
-          "iPhoneメーカーは、Meta Muse、Instinct、Claude、OpenAI Dotsなどの競合他社に対抗できるエージェントを開発しているようです。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
-        ]
-      },
-      {
-        "title": "An FBI agent called a Claude user about his chats",
-        "url": "https://austinpatrick.substack.com/p/when-should-ai-labs-alert-police",
-        "points": 77,
-        "comments": 31,
-        "author": "AustinLikesAI",
-        "createdAt": "2026-11-19T22:36:51Z",
-        "domain": "austinpatrick.substack.com",
+        "title": "Google workers tell their employer not to punish schools that don't want AI",
+        "url": "https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/",
+        "points": 99,
+        "comments": 196,
+        "author": "cdrnsf",
+        "createdAt": "2026-11-20T16:59:27Z",
+        "domain": "motherjones.com",
         "sourceType": "hn",
-        "category": "AIモデル",
+        "category": "AIニュース",
+        "impact": "高",
+        "newsLens": "一般",
+        "titleJa": "AIニュース: Google workers tell their employer not to punish schools that don't want AI",
+        "summaryJa": "この記事は「Google workers tell their employer not to punish schools that don't want AI」を扱っています。motherjones.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "keyPoints": [
+          "この記事は「Google workers tell their employer not to punish schools that don't want AI」を扱っています。",
+          "motherjones.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+        ]
+      },
+      {
+        "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
+        "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+        "points": 79,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-11-20T19:32:08.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
+        "category": "AIニュース",
+        "impact": "中",
+        "titleJa": "AIニュース: AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
+        "summaryJa": "この記事は「AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too」を扱っています。techcrunch.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "keyPoints": [
+          "この記事は「AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too」を扱っています。",
+          "techcrunch.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+        ]
+      },
+      {
+        "title": "AI may have solved the most important problem in mathematics",
+        "url": "https://www.economist.com/science-and-technology/2026/11/20/ai-may-have-solved-the-most-important-problem-in-mathematics",
+        "points": 49,
+        "comments": 37,
+        "author": "vinni2",
+        "createdAt": "2026-11-20T22:46:59Z",
+        "domain": "economist.com",
+        "sourceType": "hn",
+        "category": "AIニュース",
         "impact": "低",
         "newsLens": "技術",
-        "titleJa": "FBI捜査官がClaudeユーザーにチャットについて電話をかけた",
-        "summaryJa": "この記事は「FBI捜査官がClaudeユーザーにチャットについて電話をかけた」を扱っています。austinpatrick.substack.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "titleJa": "AIニュース: AI may have solved the most important problem in mathematics",
+        "summaryJa": "この記事は「AI may have solved the most important problem in mathematics」を扱っています。economist.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
         "keyPoints": [
-          "この記事は「FBI捜査官がClaudeユーザーにチャットについて電話をかけた」を扱っています。",
-          "austinpatrick.substack.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
-        ]
-      },
-      {
-        "title": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
-        "url": "https://git-aarvin.github.io/mei/",
-        "points": 73,
-        "comments": 238,
-        "author": "hn-aarvin",
-        "createdAt": "2026-11-19T23:35:35Z",
-        "domain": "git-aarvin.github.io",
-        "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "Gemini 4 Neonがモデルエンジニアリングインデックスで新しく1位にランクイン",
-        "summaryJa": "この記事は「Gemini 4 Neonがモデルエンジニアリングインデックスで新しく1位にランクイン」を扱っています。エンジニアリングタスクにおける言語モデルのパフォーマンスを、コストとトークン使用量で比較。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
-        "keyPoints": [
-          "この記事は「Gemini 4 Neonがモデルエンジニアリングインデックスで新しく1位にランクイン」を扱っています。",
-          "エンジニアリングタスクにおける言語モデルのパフォーマンスを、コストとトークン使用量で比較。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+          "この記事は「AI may have solved the most important problem in mathematics」を扱っています。",
+          "economist.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
       },
       {
         "title": "Global stock markets slump as Anthropic's record IPO fails to stem AI sell-off",
         "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
         "points": 11,
-        "comments": 203,
+        "comments": 231,
         "author": "cdrnsf",
         "createdAt": "2026-11-20T13:29:59Z",
         "domain": "theguardian.com",
@@ -95,16 +95,16 @@
         "category": "AIニュース",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "Anthropicの史上最高額IPOがAI関連株の売り越しを食い止められず、世界株式市場が急落",
-        "summaryJa": "この記事は「Anthropicの史上最高額IPOがAI関連株の売り越しを食い止められず、世界株式市場が急落」を扱っています。アジア市場、2020年以来最悪の週を記録。投資家がAI構築への巨額投資に疑問を呈す。",
+        "titleJa": "AIニュース: Global stock markets slump as Anthropic's record IPO fails to stem AI sell-off",
+        "summaryJa": "この記事は「Global stock markets slump as Anthropic's record IPO fails to stem AI sell-off」を扱っています。theguardian.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
         "keyPoints": [
-          "この記事は「Anthropicの史上最高額IPOがAI関連株の売り越しを食い止められず、世界株式市場が急落」を扱っています。",
-          "アジア市場、2020年以来最悪の週を記録。",
-          "投資家がAI構築への巨額投資に疑問を呈す。"
+          "この記事は「Global stock markets slump as Anthropic's record IPO fails to stem AI sell-off」を扱っています。",
+          "theguardian.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
       }
     ],
-    "fetchedAt": "2026-11-20T20:10:10.970Z",
+    "fetchedAt": "2026-11-21T02:11:25.062Z",
     "mock": false
   },
   "xTrends": {
@@ -112,43 +112,26 @@
       {
         "topic": "Anthropic",
         "locationLabel": "英国",
-        "bestRank": 13,
-        "appearances": 23,
+        "bestRank": 21,
+        "appearances": 24,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-kingdom/",
-        "observedAt": "2026-11-20T20:10:10.912Z",
+        "observedAt": "2026-11-21T02:11:24.927Z",
         "url": "https://x.com/search?q=Anthropic&src=typed_query&f=live",
-        "articleTitle": "Anthropic prices initial public offering",
-        "articleTitleJa": "AnthropicのIPO価格",
-        "articleUrl": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
-        "articleSource": "anthropic.com",
-        "articlePublishedAt": "2026-11-18T23:30:09Z",
-        "summaryJa": "本日、Anthropic, PBCは、クラスA普通株式の新規株式公開価格を決定しました。",
-        "translationVersion": 3
-      },
-      {
-        "topic": "Claude Giroux",
-        "locationLabel": "カナダ",
-        "bestRank": 25,
-        "appearances": 1,
-        "trendSource": "Trends24",
-        "sourceUrl": "https://trends24.in/canada/",
-        "observedAt": "2026-11-20T20:10:10.944Z",
-        "url": "https://x.com/search?q=Claude%20Giroux&src=typed_query&f=live",
-        "articleTitle": "Claude Giroux",
-        "articleTitleJa": "公開トレンド: Claude Giroux",
-        "articleUrl": "https://trends24.in/canada/",
+        "articleTitle": "Anthropic",
+        "articleTitleJa": "公開トレンド: Anthropic",
+        "articleUrl": "https://trends24.in/united-kingdom/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-11-20T20:10:10.944Z",
-        "summaryJa": "カナダのTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
+        "articlePublishedAt": "2026-11-21T02:11:24.927Z",
+        "summaryJa": "英国のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
       }
     ],
-    "fetchedAt": "2026-11-20T20:10:10.970Z",
+    "fetchedAt": "2026-11-21T02:11:25.062Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-11-20T20:10:15.370Z"
+    "articleFetchedAt": "2026-11-21T02:11:26.358Z"
   }
 }
