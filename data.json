@@ -2,6 +2,26 @@
   "news": {
     "items": [
       {
+        "title": "AI Supply Chain Security: What Canary Tokens Found",
+        "url": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
+        "points": 116,
+        "comments": 20,
+        "author": "kristianp",
+        "createdAt": "2026-11-22T05:11:43Z",
+        "domain": "dragos.com",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "中",
+        "newsLens": "技術",
+        "titleJa": "AIサプライチェーンのセキュリティ：カナリートークンが発見したもの",
+        "summaryJa": "この記事は「AIサプライチェーンのセキュリティ：カナリートークンが発見したもの」を扱っています。カナリアトークンを使用して200万件のAIプロンプトをシードし、3件のプロバイダーの侵害、プロンプトの盗難、および無視されたゼロデータ保持設定を発見しました。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "keyPoints": [
+          "この記事は「AIサプライチェーンのセキュリティ：カナリートークンが発見したもの」を扱っています。",
+          "カナリアトークンを使用して200万件のAIプロンプトをシードし、3件のプロバイダーの侵害、プロンプトの盗難、および無視されたゼロデータ保持設定を発見しました。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+        ]
+      },
+      {
         "title": "Here are the top AI agents that can live in your text messages",
         "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
         "points": 107,
@@ -15,11 +35,31 @@
         "category": "AIニュース",
         "impact": "高",
         "titleJa": "テキストメッセージ内で利用できるおすすめのAIエージェントをご紹介します",
-        "summaryJa": "この記事は「テキストメッセージ内で利用できるおすすめのAIエージェントをご紹介します」を扱っています。一般的なアシスタントから、家族、旅行、仕事向けに設計されたエージェントまで、テキストメッセージ内で使用できる最も注目すべきAIエージェントのリストを作成しました。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "summaryJa": "この記事は「テキストメッセージ内で利用できるおすすめのAIエージェントをご紹介します」を扱っています。一般的なアシスタントから、家族、旅行、仕事向けに設計されたエージェントまで、テキストメッセージ内で利用できる最も注目すべきAIエージェントのリストを作成しました。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
           "この記事は「テキストメッセージ内で利用できるおすすめのAIエージェントをご紹介します」を扱っています。",
-          "一般的なアシスタントから、家族、旅行、仕事向けに設計されたエージェントまで、テキストメッセージ内で使用できる最も注目すべきAIエージェントのリストを作成しました。",
+          "一般的なアシスタントから、家族、旅行、仕事向けに設計されたエージェントまで、テキストメッセージ内で利用できる最も注目すべきAIエージェントのリストを作成しました。",
           "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+        ]
+      },
+      {
+        "title": "Data Processing Incidents on Inference Providers",
+        "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
+        "points": 101,
+        "comments": 65,
+        "author": "sdko",
+        "createdAt": "2026-11-22T02:14:14Z",
+        "domain": "openrouter.ai",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "推論プロバイダーにおけるデータ処理インシデント",
+        "summaryJa": "この記事は「推論プロバイダーにおけるデータ処理インシデント」を扱っています。OpenRouterは、3社のプロバイダーをオフボードし、125のエンドポイントをゼロデータ保持の対象から外し、推論プロバイダーに対するカナリアトークンの調査後、影響を受ける可能性のある顧客に通知しました。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "keyPoints": [
+          "この記事は「推論プロバイダーにおけるデータ処理インシデント」を扱っています。",
+          "OpenRouterは、3社のプロバイダーをオフボードし、125のエンドポイントをゼロデータ保持の対象から外し、推論プロバイダーに対するカナリアトークンの調査後、影響を受ける可能性のある顧客に通知しました。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
       },
       {
@@ -35,76 +75,36 @@
         "newsLens": "一般",
         "category": "AIニュース",
         "impact": "高",
-        "titleJa": "このマイクロドラマのスタートアップ企業に自分の顔のAIバージョンを売ることは、ハリウッドの未来なのでしょうか？",
-        "summaryJa": "この記事は「このマイクロドラマのスタートアップ企業に自分の顔のAIバージョンを売ることは、ハリウッドの未来なのでしょうか？」を扱っています。ある俳優が、マイクロドラマのスタートアップ企業に自分の顔をライセンス供与しました。これはすでに中国で人気のトレンドとなっています。",
+        "titleJa": "このマイクロドラマのスタートアップ企業に自分の顔のAIバージョンを売ることが、ハリウッドの未来なのでしょうか？",
+        "summaryJa": "この記事は「このマイクロドラマのスタートアップ企業に自分の顔のAIバージョンを売ることが、ハリウッドの未来なのでしょうか？」を扱っています。ある俳優が、マイクロドラマのスタートアップ企業に自分の顔のライセンスを付与しました。これはすでに中国で人気のトレンドとなっています。",
         "keyPoints": [
-          "この記事は「このマイクロドラマのスタートアップ企業に自分の顔のAIバージョンを売ることは、ハリウッドの未来なのでしょうか。",
-          "ある俳優が、マイクロドラマのスタートアップ企業に自分の顔をライセンス供与しました。",
+          "この記事は「このマイクロドラマのスタートアップ企業に自分の顔のAIバージョンを売ることが、ハリウッドの未来なのでしょうか。",
+          "ある俳優が、マイクロドラマのスタートアップ企業に自分の顔のライセンスを付与しました。",
           "これはすでに中国で人気のトレンドとなっています。"
         ]
       },
       {
-        "title": "Pandex – Official European Law for AI Agents, over MCP",
-        "url": "https://www.pandex.io",
-        "points": 76,
-        "comments": 4,
-        "author": "vasie",
-        "createdAt": "2026-11-21T20:47:41Z",
-        "domain": "pandex.io",
+        "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
+        "url": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
+        "points": 73,
+        "comments": 193,
+        "author": "happosai",
+        "createdAt": "2026-11-22T08:57:34Z",
+        "domain": "betterdatacenterproject.com",
         "sourceType": "hn",
         "category": "AIニュース",
-        "impact": "低",
+        "impact": "高",
         "newsLens": "技術",
-        "titleJa": "Pandex – MCP経由のAIエージェントに関する欧州の公式法",
-        "summaryJa": "この記事は「Pandex – MCP経由のAIエージェントに関する欧州の公式法」を扱っています。EU、7つの欧州諸国、欧州人権裁判所の立法および最高裁判所の判決を、それらを公開する機関から、検索およびAI用に構築された1つのAPIおよびMCPサーバーに集約。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "titleJa": "2028年には、Anthropicの電力の87%がガス、11%が石炭から供給される予定です。",
+        "summaryJa": "この記事は「2028年には、Anthropicの電力の87%がガス、11%が石炭から供給される予定です。」を扱っています。Anthropicの総電力使用量と排出量に関するケーススタディ。当社は、同社が2028年に3,200万メートルトンの二酸化炭素を排出する可能性があると見ています。",
         "keyPoints": [
-          "この記事は「Pandex – MCP経由のAIエージェントに関する欧州の公式法」を扱っています。",
-          "EU、7つの欧州諸国、欧州人権裁判所の立法および最高裁判所の判決を、それらを公開する機関から、検索およびAI用に構築された1つのAPIおよびMCPサーバーに集約。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
-        ]
-      },
-      {
-        "title": "Show HN: agent-mcts – Monte Carlo tree search on top of Claude Code",
-        "url": "https://github.com/natsu0529/agent-mcts",
-        "points": 72,
-        "comments": 0,
-        "author": "natsu529",
-        "createdAt": "2026-11-21T13:53:08Z",
-        "domain": "github.com",
-        "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "低",
-        "newsLens": "技術",
-        "titleJa": "Show HN：agent-mcts – Claude Codeをベースとしたモンテカルロ木探索",
-        "summaryJa": "この記事は「Show HN：agent-mcts – Claude Codeをベースとしたモンテカルロ木探索」を扱っています。agent-mcts：Claude CodeやCodex CLIなどのコーディングエージェントに対してモンテカルロ木探索を実行するテスト時検索ハーネス。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
-        "keyPoints": [
-          "この記事は「Show HN：agent-mcts – Claude Codeをベースとしたモンテカルロ木探索」を扱っています。",
-          "agent-mcts：Claude CodeやCodex CLIなどのコーディングエージェントに対してモンテカルロ木探索を実行するテスト時検索ハーネス。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
-        ]
-      },
-      {
-        "title": "I got banned from Lobsters for writing like an LLM",
-        "url": "https://en.andros.dev/blog/94a77341/i-got-banned-from-lobsters-for-writing-like-an-llm/",
-        "points": 71,
-        "comments": 2,
-        "author": "kristianpaul",
-        "createdAt": "2026-11-21T17:00:41Z",
-        "domain": "en.andros.dev",
-        "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "低",
-        "newsLens": "技術",
-        "titleJa": "LLMのように書いたことで、Lobstersからアクセスを禁止されました",
-        "summaryJa": "この記事は「LLMのように書いたことで、Lobstersからアクセスを禁止されました」を扱っています。私はLobstersからアクセスを禁止されました。退屈なら、私の経験談を読んでみてください。",
-        "keyPoints": [
-          "この記事は「LLMのように書いたことで、Lobstersからアクセスを禁止されました」を扱っています。",
-          "私はLobstersからアクセスを禁止されました。",
-          "退屈なら、私の経験談を読んでみてください。"
+          "この記事は「2028年には、Anthropicの電力の87%がガス、11%が石炭から供給される予定です。",
+          "Anthropicの総電力使用量と排出量に関するケーススタディ。",
+          "当社は、同社が2028年に3,200万メートルトンの二酸化炭素を排出する可能性があると見ています。"
         ]
       }
     ],
-    "fetchedAt": "2026-11-22T01:15:19.310Z",
+    "fetchedAt": "2026-11-22T11:16:12.328Z",
     "mock": false
   },
   "xTrends": {
@@ -116,39 +116,22 @@
         "appearances": 1,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-11-22T01:15:19.278Z",
+        "observedAt": "2026-11-22T11:16:12.256Z",
         "url": "https://x.com/search?q=AI%E3%83%89%E3%83%83%E3%83%88%E7%B5%B5%E3%83%90%E3%83%88%E3%83%AB%E3%81%8A%E3%81%A4&src=typed_query&f=live",
         "articleTitle": "AIドット絵バトルおつ",
         "articleTitleJa": "公開トレンド: AIドット絵バトルおつ",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-11-22T01:15:19.278Z",
+        "articlePublishedAt": "2026-11-22T11:16:12.256Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
-      },
-      {
-        "topic": "Anthropic",
-        "locationLabel": "米国",
-        "bestRank": 27,
-        "appearances": 6,
-        "trendSource": "Trends24",
-        "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-11-22T01:15:19.210Z",
-        "url": "https://x.com/search?q=Anthropic&src=typed_query&f=live",
-        "articleTitle": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day",
-        "articleTitleJa": "ナスダック、AI関連株の売りがAnthropicの2日目を冷やし、2026年の上昇分をすべて帳消しに",
-        "articleUrl": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
-        "articleSource": "theguardian.com",
-        "articlePublishedAt": "2026-11-20T13:29:59Z",
-        "summaryJa": "ナスダックは数兆ドルの価値を失い、AIスタートアップ企業のIPOはこれを支えることができませんでした。投資家はAIの構築に巨額の資金が投入されていることに疑問を抱いているからです。",
-        "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-11-22T01:15:19.310Z",
+    "fetchedAt": "2026-11-22T11:16:12.328Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-11-22T01:15:23.462Z"
+    "articleFetchedAt": "2026-11-22T11:16:12.777Z"
   }
 }
