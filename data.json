@@ -2,6 +2,27 @@
   "news": {
     "items": [
       {
+        "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
+        "url": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/",
+        "points": 107,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-11-24T12:30:05.000Z",
+        "domain": "arstechnica.com",
+        "sourceType": "rss",
+        "sourceLabel": "Ars Technica",
+        "newsLens": "技術",
+        "category": "AIニュース",
+        "impact": "高",
+        "titleJa": "Amazonによると、ハッカーのAIエージェントが人間の介入をほとんど受けずにゼロデイ脆弱性を発見し、悪用したとのことです。",
+        "summaryJa": "この記事は「Amazonによると、ハッカーのAIエージェントが人間の介入をほとんど受けずにゼロデイ脆弱性を発見し、悪用したとのことです。」を扱っています。Cairn AIフレームワークは、防御者にとっても攻撃者にとっても有益であることが証明されています。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "keyPoints": [
+          "この記事は「Amazonによると、ハッカーのAIエージェントが人間の介入をほとんど受けずにゼロデイ脆弱性を発見し、悪用したとのことです。",
+          "Cairn AIフレームワークは、防御者にとっても攻撃者にとっても有益であることが証明されています。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+        ]
+      },
+      {
         "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
         "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
         "points": 107,
@@ -14,12 +35,12 @@
         "newsLens": "一般",
         "category": "AIモデル",
         "impact": "高",
-        "titleJa": "AnthropicがClaude Shipをリリース。AIエージェントがコードの変更をレビュー、修正、承認できるように",
-        "summaryJa": "この記事は「AnthropicがClaude Shipをリリース。AIエージェントがコードの変更をレビュー、修正、承認できるように」を扱っています。AIが生成するコードが蓄積される中、Anthropicの新しい開発者向けツールは、エージェントにルーチン的な承認作業を処理させることで、別のボトルネックを解消することを目指しています。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "titleJa": "AnthropicがClaude Shipをリリース。AIエージェントがコードの変更を確認、修正、承認できるように",
+        "summaryJa": "この記事は「AnthropicがClaude Shipをリリース。AIエージェントがコードの変更を確認、修正、承認できるように」を扱っています。AIが生成するコードが蓄積される中、Anthropicの新しい開発者向けツールは、エージェントに日常的な承認作業を処理させることで、別のボトルネックを解消することを目指しています。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
           "この記事は「AnthropicがClaude Shipをリリース。",
-          "AIエージェントがコードの変更をレビュー、修正、承認できるように」を扱っています。",
-          "AIが生成するコードが蓄積される中、Anthropicの新しい開発者向けツールは、エージェントにルーチン的な承認作業を処理させることで、別のボトルネックを解消することを目指しています。"
+          "AIエージェントがコードの変更を確認、修正、承認できるように」を扱っています。",
+          "AIが生成するコードが蓄積される中、Anthropicの新しい開発者向けツールは、エージェントに日常的な承認作業を処理させることで、別のボトルネックを解消することを目指しています。"
         ]
       },
       {
@@ -36,38 +57,38 @@
         "category": "ハードウェア",
         "impact": "高",
         "titleJa": "AmazonがDecartのAI最適化技術を75億ドルで買収。Trainiumチップの販売準備を進める",
-        "summaryJa": "この記事は「AmazonがDecartのAI最適化技術を75億ドルで買収。Trainiumチップの販売準備を進める」を扱っています。Amazonは、DecartのAI最適化技術と研究チームを75億ドル（約1兆1,250億円）の契約で買収すると報じられています。一般向けには、AIがソフトウェアだけでなく、ロボットや端末など現実の製品に広がっている点が重要です。",
+        "summaryJa": "この記事は「AmazonがDecartのAI最適化技術を75億ドルで買収。Trainiumチップの販売準備を進める」を扱っています。Amazonは、DecartのAI最適化技術と研究チームを75億ドル（約1兆1,250億円）の取引で買収すると報じられています。一般向けには、AIがソフトウェアだけでなく、ロボットや端末など現実の製品に広がっている点が重要です。",
         "keyPoints": [
           "この記事は「AmazonがDecartのAI最適化技術を75億ドルで買収。",
           "Trainiumチップの販売準備を進める」を扱っています。",
-          "Amazonは、DecartのAI最適化技術と研究チームを75億ドル（約1兆1,250億円）の契約で買収すると報じられています。"
+          "Amazonは、DecartのAI最適化技術と研究チームを75億ドル（約1兆1,250億円）の取引で買収すると報じられています。"
         ]
       },
       {
-        "title": "GLM-5.4: Toward generalized coding with our first loop transformer",
-        "url": "https://z.ai/blog/glm-5.4",
-        "points": 101,
-        "comments": 347,
-        "author": "foohis",
-        "createdAt": "2026-11-23T10:06:43Z",
-        "domain": "z.ai",
+        "title": "LLM agents work for their parent companies, not for you",
+        "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
+        "points": 94,
+        "comments": 26,
+        "author": "surprisetalk",
+        "createdAt": "2026-11-24T12:40:15Z",
+        "domain": "michaelharley.net",
         "sourceType": "hn",
-        "category": "AIニュース",
+        "category": "AIモデル",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "GLM-5.4：最初のループトランスフォーマーによる汎用コーディングへ",
-        "summaryJa": "この記事は「GLM-5.4：最初のループトランスフォーマーによる汎用コーディングへ」を扱っています。z.aiが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "titleJa": "LLMエージェントは、お客様ではなく、親会社のために働きます",
+        "summaryJa": "この記事は「LLMエージェントは、お客様ではなく、親会社のために働きます」を扱っています。私はClaudeを使ってInstagramからBandcampへのツールを構築しましたが、APIが機能しなくなったとき、モデルは回避策を見つけるのを拒否しました。その一方で、アーティストに報酬が支払われないYouTubeからのダウンロードは喜んで行っていました。",
         "keyPoints": [
-          "この記事は「GLM-5.4：最初のループトランスフォーマーによる汎用コーディングへ」を扱っています。",
-          "z.aiが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+          "この記事は「LLMエージェントは、お客様ではなく、親会社のために働きます」を扱っています。",
+          "私はClaudeを使ってInstagramからBandcampへのツールを構築しましたが、APIが機能しなくなったとき、モデルは回避策を見つけるのを拒否しました。",
+          "その一方で、アーティストに報酬が支払われないYouTubeからのダウンロードは喜んで行っていました。"
         ]
       },
       {
         "title": "NariQ: BF16-level Qwen3.8-27B in a 10 GB file",
         "url": "https://huggingface.co/nari-labs/Qwen3.8-27B-NariQ-GGUF",
         "points": 93,
-        "comments": 29,
+        "comments": 35,
         "author": "toebee",
         "createdAt": "2026-11-23T13:42:38Z",
         "domain": "huggingface.co",
@@ -76,35 +97,15 @@
         "impact": "高",
         "newsLens": "技術",
         "titleJa": "NariQ：10 GBのファイルに収まるBF16レベルのQwen3.8-27B",
-        "summaryJa": "この記事は「NariQ：10 GBのファイルに収まるBF16レベルのQwen3.8-27B」を扱っています。これは、エージェントタスク、数学、多言語推論、画像理解において、ほぼBF16の品質を維持するQwen3.8-27Bの3ビット以下の量子化です。私たちの知る限り、これは長期的なエージェントタスクにおいてBF16レベルの性能を維持する、初の3ビット以下の量子化です。",
+        "summaryJa": "この記事は「NariQ：10 GBのファイルに収まるBF16レベルのQwen3.8-27B」を扱っています。これは、Qwen3.8-27Bの3ビット以下の量子化であり、エージェントタスク、数学、多言語推論、画像理解において、ほぼBF16と同等の品質を維持します。私たちの知る限り、これは長期的なエージェントタスクにおいてBF16レベルのパフォーマンスを維持する、初の3ビット以下の量子化です。",
         "keyPoints": [
           "この記事は「NariQ：10 GBのファイルに収まるBF16レベルのQwen3.8-27B」を扱っています。",
-          "これは、エージェントタスク、数学、多言語推論、画像理解において、ほぼBF16の品質を維持するQwen3.8-27Bの3ビット以下の量子化です。",
-          "私たちの知る限り、これは長期的なエージェントタスクにおいてBF16レベルの性能を維持する、初の3ビット以下の量子化です。"
-        ]
-      },
-      {
-        "title": "How should an LLM see a computer?",
-        "url": "https://www.greptile.com/blog/trex-computer-use",
-        "points": 80,
-        "comments": 22,
-        "author": "dakshgupta",
-        "createdAt": "2026-11-23T17:19:25Z",
-        "domain": "greptile.com",
-        "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "低",
-        "newsLens": "技術",
-        "titleJa": "LLMはコンピュータをどのように認識すべきでしょうか？",
-        "summaryJa": "この記事は「LLMはコンピュータをどのように認識すべきでしょうか？」を扱っています。172件のOSWorldタスクにおいて、7つのOpenAIモデルのスクリーンショット、アクセシビリティツリー、IDによるクリックをベンチマークしました。ツリーとIDのクリックにより、弱いモデルのスコアは2倍以上になり、最も強いモデルのスコアはほとんど変化しませんでした。",
-        "keyPoints": [
-          "この記事は「LLMはコンピュータをどのように認識すべきでしょうか。",
-          "172件のOSWorldタスクにおいて、7つのOpenAIモデルのスクリーンショット、アクセシビリティツリー、IDによるクリックをベンチマークしました。",
-          "ツリーとIDのクリックにより、弱いモデルのスコアは2倍以上になり、最も強いモデルのスコアはほとんど変化しませんでした。"
+          "これは、Qwen3.8-27Bの3ビット以下の量子化であり、エージェントタスク、数学、多言語推論、画像理解において、ほぼBF16と同等の品質を維持します。",
+          "私たちの知る限り、これは長期的なエージェントタスクにおいてBF16レベルのパフォーマンスを維持する、初の3ビット以下の量子化です。"
         ]
       }
     ],
-    "fetchedAt": "2026-11-24T02:10:29.461Z",
+    "fetchedAt": "2026-11-24T13:37:49.558Z",
     "mock": false
   },
   "xTrends": {
@@ -116,13 +117,13 @@
         "appearances": 1,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-11-24T02:10:29.339Z",
+        "observedAt": "2026-11-24T13:37:49.488Z",
         "url": "https://x.com/search?q=%E7%B1%B3AI%E7%AB%B6%E4%BA%89%E5%8A%9B&src=typed_query&f=live",
         "articleTitle": "米AI競争力",
         "articleTitleJa": "公開トレンド: 米AI競争力",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-11-24T02:10:29.339Z",
+        "articlePublishedAt": "2026-11-24T13:37:49.488Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
@@ -130,25 +131,25 @@
       {
         "topic": "Claude Ship",
         "locationLabel": "米国",
-        "bestRank": 38,
+        "bestRank": 12,
         "appearances": 3,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-11-24T02:10:29.147Z",
+        "observedAt": "2026-11-24T13:37:49.465Z",
         "url": "https://x.com/search?q=Claude%20Ship&src=typed_query&f=live",
         "articleTitle": "Claude Ship",
         "articleTitleJa": "Claudeの船",
         "articleUrl": "https://claude.com/resources/articles/introducing-claude-ship",
         "articleSource": "claude.com",
         "articlePublishedAt": "2026-11-23T20:14:18Z",
-        "summaryJa": "プルリクエストを開いて、ビルド作業に戻りましょう。Claudeは、プルリクエストをレビューし、修正し、チームのポリシーで許可されているものを承認できるようになりました。",
+        "summaryJa": "プルリクエストを開いて、ビルド作業に戻りましょう。Claudeは теперьプルリクエストをレビューし、修正し、チームのポリシーで許可されているものを承認できるようになりました。",
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-11-24T02:10:29.461Z",
+    "fetchedAt": "2026-11-24T13:37:49.558Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-11-24T02:10:33.302Z"
+    "articleFetchedAt": "2026-11-24T13:37:53.295Z"
   }
 }
