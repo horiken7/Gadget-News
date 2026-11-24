@@ -2,6 +2,47 @@
   "news": {
     "items": [
       {
+        "title": "Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?",
+        "url": "https://news.ycombinator.com/item?id=50630809",
+        "points": 147,
+        "comments": 161,
+        "author": "weli",
+        "createdAt": "2026-11-24T16:45:44Z",
+        "domain": "news.ycombinator.com",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "HNに質問：Anthropicが、当社をディスティリング（モデルの複製）で非難しています。私がそうでないことをどのように証明できますか？",
+        "summaryJa": "この記事は「HNに質問：Anthropicが、当社をディスティリング（モデルの複製）で非難しています。私がそうでないことをどのように証明できますか？」を扱っています。Anthropicは、私と私の会社が同社のAPIを蒸留に使用していると非難しています。当社は独自のモデルをトレーニングしていません。",
+        "keyPoints": [
+          "この記事は「HNに質問：Anthropicが、当社をディスティリング（モデルの複製）で非難しています。",
+          "私がそうでないことをどのように証明できますか。",
+          "Anthropicは、私と私の会社が同社のAPIを蒸留に使用していると非難しています。"
+        ]
+      },
+      {
+        "title": "UK warns AI-driven cyberattacks are exposing years of weak security",
+        "url": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
+        "points": 133,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-11-24T18:02:59.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
+        "category": "AIニュース",
+        "impact": "高",
+        "titleJa": "英国がAI主導のサイバー攻撃により長年にわたるセキュリティの脆弱性が露呈していると警告",
+        "summaryJa": "この記事は「英国がAI主導のサイバー攻撃により長年にわたるセキュリティの脆弱性が露呈していると警告」を扱っています。英国のサイバー機関は、「強固な基盤を構築することがこれまで以上に重要になっている」と述べています。これは、AIハッキングツールが単純なセキュリティ上の欠陥を悪用することに依存しているためです。",
+        "keyPoints": [
+          "この記事は「英国がAI主導のサイバー攻撃により長年にわたるセキュリティの脆弱性が露呈していると警告」を扱っています。",
+          "英国のサイバー機関は、「強固な基盤を構築することがこれまで以上に重要になっている」と述べています。",
+          "これは、AIハッキングツールが単純なセキュリティ上の欠陥を悪用することに依存しているためです。"
+        ]
+      },
+      {
         "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
         "url": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/",
         "points": 107,
@@ -15,60 +56,39 @@
         "category": "AIニュース",
         "impact": "高",
         "titleJa": "Amazonによると、ハッカーのAIエージェントが人間の介入をほとんど受けずにゼロデイ脆弱性を発見し、悪用したとのことです。",
-        "summaryJa": "この記事は「Amazonによると、ハッカーのAIエージェントが人間の介入をほとんど受けずにゼロデイ脆弱性を発見し、悪用したとのことです。」を扱っています。Cairn AIフレームワークは、防御者にとっても攻撃者にとっても有益であることが証明されています。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "summaryJa": "この記事は「Amazonによると、ハッカーのAIエージェントが人間の介入をほとんど受けずにゼロデイ脆弱性を発見し、悪用したとのことです。」を扱っています。Cairn AIフレームワークは、防御者と攻撃者の双方にとって有益であることが証明されています。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
         "keyPoints": [
           "この記事は「Amazonによると、ハッカーのAIエージェントが人間の介入をほとんど受けずにゼロデイ脆弱性を発見し、悪用したとのことです。",
-          "Cairn AIフレームワークは、防御者にとっても攻撃者にとっても有益であることが証明されています。",
+          "Cairn AIフレームワークは、防御者と攻撃者の双方にとって有益であることが証明されています。",
           "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
       },
       {
-        "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
-        "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+        "title": "Even the best AI agents struggle with everyday life",
+        "url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
         "points": 107,
         "comments": 0,
         "author": "",
-        "createdAt": "2026-11-23T22:05:50.000Z",
+        "createdAt": "2026-11-24T21:33:29.000Z",
         "domain": "techcrunch.com",
         "sourceType": "rss",
         "sourceLabel": "TechCrunch AI",
         "newsLens": "一般",
-        "category": "AIモデル",
+        "category": "AIニュース",
         "impact": "高",
-        "titleJa": "AnthropicがClaude Shipをリリース。AIエージェントがコードの変更を確認、修正、承認できるように",
-        "summaryJa": "この記事は「AnthropicがClaude Shipをリリース。AIエージェントがコードの変更を確認、修正、承認できるように」を扱っています。AIが生成するコードが蓄積される中、Anthropicの新しい開発者向けツールは、エージェントに日常的な承認作業を処理させることで、別のボトルネックを解消することを目指しています。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "titleJa": "最高のAIエージェントでさえ、日常生活に苦労しています",
+        "summaryJa": "この記事は「最高のAIエージェントでさえ、日常生活に苦労しています」を扱っています。何百万人もの人々がパーソナルAIアシスタントを使い始める中、新たなベンチマーク調査によると、最も先進的なAIモデルでさえ、潜在的な新たな問題を発生させることなく、日常的なタスクを確実に、安全に遂行することは困難であることが明らかになりました。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
-          "この記事は「AnthropicがClaude Shipをリリース。",
-          "AIエージェントがコードの変更を確認、修正、承認できるように」を扱っています。",
-          "AIが生成するコードが蓄積される中、Anthropicの新しい開発者向けツールは、エージェントに日常的な承認作業を処理させることで、別のボトルネックを解消することを目指しています。"
-        ]
-      },
-      {
-        "title": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
-        "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
-        "points": 107,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-11-23T17:14:23.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
-        "category": "ハードウェア",
-        "impact": "高",
-        "titleJa": "AmazonがDecartのAI最適化技術を75億ドルで買収。Trainiumチップの販売準備を進める",
-        "summaryJa": "この記事は「AmazonがDecartのAI最適化技術を75億ドルで買収。Trainiumチップの販売準備を進める」を扱っています。Amazonは、DecartのAI最適化技術と研究チームを75億ドル（約1兆1,250億円）の取引で買収すると報じられています。一般向けには、AIがソフトウェアだけでなく、ロボットや端末など現実の製品に広がっている点が重要です。",
-        "keyPoints": [
-          "この記事は「AmazonがDecartのAI最適化技術を75億ドルで買収。",
-          "Trainiumチップの販売準備を進める」を扱っています。",
-          "Amazonは、DecartのAI最適化技術と研究チームを75億ドル（約1兆1,250億円）の取引で買収すると報じられています。"
+          "この記事は「最高のAIエージェントでさえ、日常生活に苦労しています」を扱っています。",
+          "何百万人もの人々がパーソナルAIアシスタントを使い始める中、新たなベンチマーク調査によると、最も先進的なAIモデルでさえ、潜在的な新たな問題を発生させることなく、日常的なタスクを確実に、安全に遂行することは困難であることが明らかになりました。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       },
       {
         "title": "LLM agents work for their parent companies, not for you",
         "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
-        "points": 94,
-        "comments": 26,
+        "points": 101,
+        "comments": 367,
         "author": "surprisetalk",
         "createdAt": "2026-11-24T12:40:15Z",
         "domain": "michaelharley.net",
@@ -77,79 +97,41 @@
         "impact": "高",
         "newsLens": "技術",
         "titleJa": "LLMエージェントは、お客様ではなく、親会社のために働きます",
-        "summaryJa": "この記事は「LLMエージェントは、お客様ではなく、親会社のために働きます」を扱っています。私はClaudeを使ってInstagramからBandcampへのツールを構築しましたが、APIが機能しなくなったとき、モデルは回避策を見つけるのを拒否しました。その一方で、アーティストに報酬が支払われないYouTubeからのダウンロードは喜んで行っていました。",
+        "summaryJa": "この記事は「LLMエージェントは、お客様ではなく、親会社のために働きます」を扱っています。私はClaudeを使ってInstagramからBandcampへのツールを構築しましたが、APIがダウンしたとき、モデルは回避策を見つけるのを拒否しました。その一方で、アーティストに報酬が支払われないYouTubeからのダウンロードは喜んで行っていました。",
         "keyPoints": [
           "この記事は「LLMエージェントは、お客様ではなく、親会社のために働きます」を扱っています。",
-          "私はClaudeを使ってInstagramからBandcampへのツールを構築しましたが、APIが機能しなくなったとき、モデルは回避策を見つけるのを拒否しました。",
+          "私はClaudeを使ってInstagramからBandcampへのツールを構築しましたが、APIがダウンしたとき、モデルは回避策を見つけるのを拒否しました。",
           "その一方で、アーティストに報酬が支払われないYouTubeからのダウンロードは喜んで行っていました。"
-        ]
-      },
-      {
-        "title": "NariQ: BF16-level Qwen3.8-27B in a 10 GB file",
-        "url": "https://huggingface.co/nari-labs/Qwen3.8-27B-NariQ-GGUF",
-        "points": 93,
-        "comments": 35,
-        "author": "toebee",
-        "createdAt": "2026-11-23T13:42:38Z",
-        "domain": "huggingface.co",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "NariQ：10 GBのファイルに収まるBF16レベルのQwen3.8-27B",
-        "summaryJa": "この記事は「NariQ：10 GBのファイルに収まるBF16レベルのQwen3.8-27B」を扱っています。これは、Qwen3.8-27Bの3ビット以下の量子化であり、エージェントタスク、数学、多言語推論、画像理解において、ほぼBF16と同等の品質を維持します。私たちの知る限り、これは長期的なエージェントタスクにおいてBF16レベルのパフォーマンスを維持する、初の3ビット以下の量子化です。",
-        "keyPoints": [
-          "この記事は「NariQ：10 GBのファイルに収まるBF16レベルのQwen3.8-27B」を扱っています。",
-          "これは、Qwen3.8-27Bの3ビット以下の量子化であり、エージェントタスク、数学、多言語推論、画像理解において、ほぼBF16と同等の品質を維持します。",
-          "私たちの知る限り、これは長期的なエージェントタスクにおいてBF16レベルのパフォーマンスを維持する、初の3ビット以下の量子化です。"
         ]
       }
     ],
-    "fetchedAt": "2026-11-24T13:37:49.558Z",
+    "fetchedAt": "2026-11-24T23:52:41.448Z",
     "mock": false
   },
   "xTrends": {
     "items": [
       {
-        "topic": "米AI競争力",
-        "locationLabel": "日本",
-        "bestRank": 50,
+        "topic": "Anthropic and OpenAI",
+        "locationLabel": "米国",
+        "bestRank": 41,
         "appearances": 1,
         "trendSource": "Trends24",
-        "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-11-24T13:37:49.488Z",
-        "url": "https://x.com/search?q=%E7%B1%B3AI%E7%AB%B6%E4%BA%89%E5%8A%9B&src=typed_query&f=live",
-        "articleTitle": "米AI競争力",
-        "articleTitleJa": "公開トレンド: 米AI競争力",
-        "articleUrl": "https://trends24.in/japan/",
-        "articleSource": "Trends24",
-        "articlePublishedAt": "2026-11-24T13:37:49.488Z",
-        "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
-        "translationVersion": 3,
-        "articleFallback": true
-      },
-      {
-        "topic": "Claude Ship",
-        "locationLabel": "米国",
-        "bestRank": 12,
-        "appearances": 3,
-        "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-11-24T13:37:49.465Z",
-        "url": "https://x.com/search?q=Claude%20Ship&src=typed_query&f=live",
-        "articleTitle": "Claude Ship",
-        "articleTitleJa": "Claudeの船",
-        "articleUrl": "https://claude.com/resources/articles/introducing-claude-ship",
-        "articleSource": "claude.com",
-        "articlePublishedAt": "2026-11-23T20:14:18Z",
-        "summaryJa": "プルリクエストを開いて、ビルド作業に戻りましょう。Claudeは теперьプルリクエストをレビューし、修正し、チームのポリシーで許可されているものを承認できるようになりました。",
+        "observedAt": "2026-11-24T23:52:41.353Z",
+        "url": "https://x.com/search?q=Anthropic%20and%20OpenAI&src=typed_query&f=live",
+        "articleTitle": "Anthropic and OpenAI employees fear unreleased AI models too unsafe to release",
+        "articleTitleJa": "Anthropic社とOpenAI社の従業員が、未発表のAIモデルが安全でないことを懸念",
+        "articleUrl": "https://tech.yahoo.com/ai/claude/articles/scoop-anthropic-openai-employees-fear-104505580.html",
+        "articleSource": "tech.yahoo.com",
+        "articlePublishedAt": "2026-11-24T17:46:41Z",
+        "summaryJa": "AnthropicとOpenAIは、ますます差し迫った問題に直面しています。内部デベートに詳しい20人以上の情報筋によると、社内用の未公開モデルが非常に強力になりすぎており、多くの従業員がこれらを安全に公開できるとは思わなくなっているとのことです。",
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-11-24T13:37:49.558Z",
+    "fetchedAt": "2026-11-24T23:52:41.448Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-11-24T13:37:53.295Z"
+    "articleFetchedAt": "2026-11-24T23:52:45.029Z"
   }
 }
