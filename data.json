@@ -2,93 +2,92 @@
   "news": {
     "items": [
       {
-        "title": "Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?",
-        "url": "https://news.ycombinator.com/item?id=50630809",
-        "points": 147,
-        "comments": 193,
-        "author": "weli",
-        "createdAt": "2026-11-24T16:45:44Z",
+        "title": "Want to buy your kid an AI toy this Christmas? Not in New York",
+        "url": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
+        "points": 133,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-11-25T18:11:46.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
+        "category": "AIニュース",
+        "impact": "高",
+        "titleJa": "今年のクリスマスに、お子さまにAI玩具を買ってあげたいですか？ニューヨークでは無理です",
+        "summaryJa": "この記事は「今年のクリスマスに、お子さまにAI玩具を買ってあげたいですか？ニューヨークでは無理です」を扱っています。Common Sense Mediaによる新たな調査で、不適切なコンテンツへの曝露や感情の発達へのリスクなど、懸念される安全上の問題が明らかになったことを受け、ニューヨーク州はAIチャットボットのおもちゃを5年間禁止しました。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "keyPoints": [
+          "この記事は「今年のクリスマスに、お子さまにAI玩具を買ってあげたいですか。",
+          "ニューヨークでは無理です」を扱っています。",
+          "Common Sense Mediaによる新たな調査で、不適切なコンテンツへの曝露や感情の発達へのリスクなど、懸念される安全上の問題が明らかになったことを受け、ニューヨーク州はAIチャットボットのおもちゃを5年間禁止しました。"
+        ]
+      },
+      {
+        "title": "Launch HN: Versine (YC F26) – MCP to send and receive money",
+        "url": "https://news.ycombinator.com/item?id=50634426",
+        "points": 115,
+        "comments": 99,
+        "author": "harshithl1777",
+        "createdAt": "2026-11-24T20:44:15Z",
         "domain": "news.ycombinator.com",
         "sourceType": "hn",
         "category": "AIニュース",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "HNに質問：Anthropicが当社をディスティリングで非難しています。私がそうでないことをどのように証明できますか？",
-        "summaryJa": "この記事は「HNに質問：Anthropicが当社をディスティリングで非難しています。私がそうでないことをどのように証明できますか？」を扱っています。Anthropicは、私と私の会社が同社のAPIを蒸留に使用していると非難しています。当社は独自のモデルをトレーニングしていません。",
+        "titleJa": "HNローンチ：Versine（YC F26）– お金の送受信を行うMCP",
+        "summaryJa": "この記事は「HNローンチ：Versine（YC F26）– お金の送受信を行うMCP」を扱っています。Versineなら、AIと会話したりメッセージをやり取りするだけで、お金を送金したりリクエストしたりできます（MCPを備えたVenmoのようなものです）。私たちは、Stripe、Databricks、Amazonで分散システムに携わってきたソフトウェアエンジニアです。",
         "keyPoints": [
-          "この記事は「HNに質問：Anthropicが当社をディスティリングで非難しています。",
-          "私がそうでないことをどのように証明できますか。",
-          "Anthropicは、私と私の会社が同社のAPIを蒸留に使用していると非難しています。"
+          "この記事は「HNローンチ：Versine（YC F26）– お金の送受信を行うMCP」を扱っています。",
+          "Versineなら、AIと会話したりメッセージをやり取りするだけで、お金を送金したりリクエストしたりできます（MCPを備えたVenmoのようなものです）。",
+          "私たちは、Stripe、Databricks、Amazonで分散システムに携わってきたソフトウェアエンジニアです。"
         ]
       },
       {
-        "title": "UK warns AI-driven cyberattacks are exposing years of weak security",
-        "url": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
-        "points": 133,
+        "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+        "url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
+        "points": 107,
         "comments": 0,
         "author": "",
-        "createdAt": "2026-11-24T18:02:59.000Z",
+        "createdAt": "2026-11-25T14:10:18.000Z",
         "domain": "techcrunch.com",
         "sourceType": "rss",
         "sourceLabel": "TechCrunch AI",
         "newsLens": "一般",
         "category": "AIニュース",
         "impact": "高",
-        "titleJa": "英国がAI主導のサイバー攻撃により長年にわたるセキュリティの脆弱性が露呈していると警告",
-        "summaryJa": "この記事は「英国がAI主導のサイバー攻撃により長年にわたるセキュリティの脆弱性が露呈していると警告」を扱っています。英国のサイバー機関は、「強固な基盤を構築することがこれまで以上に重要になっている」と述べています。これは、AIハッキングツールが単純なセキュリティ上の欠陥を悪用することに依存しているためです。",
+        "titleJa": "AmazonとMetaが、AIエージェントMuseのブロック解除について協議中との報道",
+        "summaryJa": "この記事は「AmazonとMetaが、AIエージェントMuseのブロック解除について協議中との報道」を扱っています。AmazonとMetaは、Museの2か月にわたるブロックを終了する可能性のある契約について話し合っています。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
-          "この記事は「英国がAI主導のサイバー攻撃により長年にわたるセキュリティの脆弱性が露呈していると警告」を扱っています。",
-          "英国のサイバー機関は、「強固な基盤を構築することがこれまで以上に重要になっている」と述べています。",
-          "これは、AIハッキングツールが単純なセキュリティ上の欠陥を悪用することに依存しているためです。"
-        ]
-      },
-      {
-        "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
-        "url": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/",
-        "points": 107,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-11-24T12:30:05.000Z",
-        "domain": "arstechnica.com",
-        "sourceType": "rss",
-        "sourceLabel": "Ars Technica",
-        "newsLens": "技術",
-        "category": "AIニュース",
-        "impact": "高",
-        "titleJa": "Amazonによると、ハッカーのAIエージェントが人間の介入をほとんど受けずにゼロデイ脆弱性を発見し、悪用したとのことです。",
-        "summaryJa": "この記事は「Amazonによると、ハッカーのAIエージェントが人間の介入をほとんど受けずにゼロデイ脆弱性を発見し、悪用したとのことです。」を扱っています。Cairn AIフレームワークは、防御者にとっても攻撃者にとっても有益であることが証明されています。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
-        "keyPoints": [
-          "この記事は「Amazonによると、ハッカーのAIエージェントが人間の介入をほとんど受けずにゼロデイ脆弱性を発見し、悪用したとのことです。",
-          "Cairn AIフレームワークは、防御者にとっても攻撃者にとっても有益であることが証明されています。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
-        ]
-      },
-      {
-        "title": "Even the best AI agents struggle with everyday life",
-        "url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
-        "points": 107,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-11-24T21:33:29.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
-        "category": "AIニュース",
-        "impact": "高",
-        "titleJa": "最高のAIエージェントでさえ、日常生活に苦労しています",
-        "summaryJa": "この記事は「最高のAIエージェントでさえ、日常生活に苦労しています」を扱っています。何百万人もの人々がパーソナルAIアシスタントを利用する中、新たなベンチマーク調査から、最も先進的なAIモデルでさえ、潜在的な新たな問題を発生させることなく、日常的なタスクを確実に、安全に遂行することに苦労していることが明らかになりました。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
-        "keyPoints": [
-          "この記事は「最高のAIエージェントでさえ、日常生活に苦労しています」を扱っています。",
-          "何百万人もの人々がパーソナルAIアシスタントを利用する中、新たなベンチマーク調査から、最も先進的なAIモデルでさえ、潜在的な新たな問題を発生させることなく、日常的なタスクを確実に、安全に遂行することに苦労していることが明らかになりました。",
+          "この記事は「AmazonとMetaが、AIエージェントMuseのブロック解除について協議中との報道」を扱っています。",
+          "AmazonとMetaは、Museの2か月にわたるブロックを終了する可能性のある契約について話し合っています。",
           "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+        ]
+      },
+      {
+        "title": "Top open problems in mathematics ranked by LLM-assessed importance",
+        "url": "https://www.proofatlas.ai/open-problems/",
+        "points": 93,
+        "comments": 48,
+        "author": "ijidak",
+        "createdAt": "2026-11-25T03:01:36Z",
+        "domain": "proofatlas.ai",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "LLMが評価した重要度順にランク付けされた、数学における未解決の主要な問題",
+        "summaryJa": "この記事は「LLMが評価した重要度順にランク付けされた、数学における未解決の主要な問題」を扱っています。LLMが評価した重要度順にランク付けされた数学における上位500の未解決問題。正確な記述、日付入りのステータス注記、出典、ランク付けの不確実性を含む。",
+        "keyPoints": [
+          "この記事は「LLMが評価した重要度順にランク付けされた、数学における未解決の主要な問題」を扱っています。",
+          "LLMが評価した重要度順にランク付けされた数学における上位500の未解決問題。",
+          "正確な記述、日付入りのステータス注記、出典、ランク付けの不確実性を含む。"
         ]
       },
       {
         "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
         "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
         "points": 73,
-        "comments": 76,
+        "comments": 94,
         "author": "acossta",
         "createdAt": "2026-11-24T21:02:22Z",
         "domain": "openai.com",
@@ -96,16 +95,16 @@
         "category": "AIモデル",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "GPT-6モデルは、固有のタンパク質設計能力を発揮",
-        "summaryJa": "この記事は「GPT-6モデルは、固有のタンパク質設計能力を発揮」を扱っています。GPT-6モデルは、推論とコードを使用してタンパク質の構造と配列を設計します。ラボテストでは、5つの標的にわたる結合の証拠が見つかりました。",
+        "titleJa": "GPT-6モデルは、固有のタンパク質設計能力を示しています",
+        "summaryJa": "この記事は「GPT-6モデルは、固有のタンパク質設計能力を示しています」を扱っています。GPT-6モデルは、推論とコードを使用してタンパク質の構造と配列を設計します。ラボテストでは、5つの標的において結合の証拠が見つかりました。",
         "keyPoints": [
-          "この記事は「GPT-6モデルは、固有のタンパク質設計能力を発揮」を扱っています。",
+          "この記事は「GPT-6モデルは、固有のタンパク質設計能力を示しています」を扱っています。",
           "GPT-6モデルは、推論とコードを使用してタンパク質の構造と配列を設計します。",
-          "ラボテストでは、5つの標的にわたる結合の証拠が見つかりました。"
+          "ラボテストでは、5つの標的において結合の証拠が見つかりました。"
         ]
       }
     ],
-    "fetchedAt": "2026-11-25T08:26:41.858Z",
+    "fetchedAt": "2026-11-25T19:13:28.494Z",
     "mock": false
   },
   "xTrends": {
@@ -117,22 +116,22 @@
         "appearances": 3,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-11-25T08:26:41.784Z",
+        "observedAt": "2026-11-25T19:13:28.428Z",
         "url": "https://x.com/search?q=AI%E5%9B%BD%E5%AE%B6%E7%A2%BA%E7%AB%8B&src=typed_query&f=live",
         "articleTitle": "AI国家確立",
         "articleTitleJa": "公開トレンド: AI国家確立",
         "articleUrl": "https://trends24.in/japan/",
         "articleSource": "Trends24",
-        "articlePublishedAt": "2026-11-25T08:26:41.784Z",
+        "articlePublishedAt": "2026-11-25T19:13:28.428Z",
         "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
         "translationVersion": 3,
         "articleFallback": true
       }
     ],
-    "fetchedAt": "2026-11-25T08:26:41.858Z",
+    "fetchedAt": "2026-11-25T19:13:28.494Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-11-25T08:26:42.203Z"
+    "articleFetchedAt": "2026-11-25T19:13:29.045Z"
   }
 }
