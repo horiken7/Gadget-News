@@ -5,7 +5,7 @@
         "title": "Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?",
         "url": "https://news.ycombinator.com/item?id=50630809",
         "points": 147,
-        "comments": 161,
+        "comments": 193,
         "author": "weli",
         "createdAt": "2026-11-24T16:45:44Z",
         "domain": "news.ycombinator.com",
@@ -13,10 +13,10 @@
         "category": "AIニュース",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "HNに質問：Anthropicが、当社をディスティリング（モデルの複製）で非難しています。私がそうでないことをどのように証明できますか？",
-        "summaryJa": "この記事は「HNに質問：Anthropicが、当社をディスティリング（モデルの複製）で非難しています。私がそうでないことをどのように証明できますか？」を扱っています。Anthropicは、私と私の会社が同社のAPIを蒸留に使用していると非難しています。当社は独自のモデルをトレーニングしていません。",
+        "titleJa": "HNに質問：Anthropicが当社をディスティリングで非難しています。私がそうでないことをどのように証明できますか？",
+        "summaryJa": "この記事は「HNに質問：Anthropicが当社をディスティリングで非難しています。私がそうでないことをどのように証明できますか？」を扱っています。Anthropicは、私と私の会社が同社のAPIを蒸留に使用していると非難しています。当社は独自のモデルをトレーニングしていません。",
         "keyPoints": [
-          "この記事は「HNに質問：Anthropicが、当社をディスティリング（モデルの複製）で非難しています。",
+          "この記事は「HNに質問：Anthropicが当社をディスティリングで非難しています。",
           "私がそうでないことをどのように証明できますか。",
           "Anthropicは、私と私の会社が同社のAPIを蒸留に使用していると非難しています。"
         ]
@@ -56,10 +56,10 @@
         "category": "AIニュース",
         "impact": "高",
         "titleJa": "Amazonによると、ハッカーのAIエージェントが人間の介入をほとんど受けずにゼロデイ脆弱性を発見し、悪用したとのことです。",
-        "summaryJa": "この記事は「Amazonによると、ハッカーのAIエージェントが人間の介入をほとんど受けずにゼロデイ脆弱性を発見し、悪用したとのことです。」を扱っています。Cairn AIフレームワークは、防御者と攻撃者の双方にとって有益であることが証明されています。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "summaryJa": "この記事は「Amazonによると、ハッカーのAIエージェントが人間の介入をほとんど受けずにゼロデイ脆弱性を発見し、悪用したとのことです。」を扱っています。Cairn AIフレームワークは、防御者にとっても攻撃者にとっても有益であることが証明されています。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
         "keyPoints": [
           "この記事は「Amazonによると、ハッカーのAIエージェントが人間の介入をほとんど受けずにゼロデイ脆弱性を発見し、悪用したとのことです。",
-          "Cairn AIフレームワークは、防御者と攻撃者の双方にとって有益であることが証明されています。",
+          "Cairn AIフレームワークは、防御者にとっても攻撃者にとっても有益であることが証明されています。",
           "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
       },
@@ -77,61 +77,62 @@
         "category": "AIニュース",
         "impact": "高",
         "titleJa": "最高のAIエージェントでさえ、日常生活に苦労しています",
-        "summaryJa": "この記事は「最高のAIエージェントでさえ、日常生活に苦労しています」を扱っています。何百万人もの人々がパーソナルAIアシスタントを使い始める中、新たなベンチマーク調査によると、最も先進的なAIモデルでさえ、潜在的な新たな問題を発生させることなく、日常的なタスクを確実に、安全に遂行することは困難であることが明らかになりました。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "summaryJa": "この記事は「最高のAIエージェントでさえ、日常生活に苦労しています」を扱っています。何百万人もの人々がパーソナルAIアシスタントを利用する中、新たなベンチマーク調査から、最も先進的なAIモデルでさえ、潜在的な新たな問題を発生させることなく、日常的なタスクを確実に、安全に遂行することに苦労していることが明らかになりました。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
           "この記事は「最高のAIエージェントでさえ、日常生活に苦労しています」を扱っています。",
-          "何百万人もの人々がパーソナルAIアシスタントを使い始める中、新たなベンチマーク調査によると、最も先進的なAIモデルでさえ、潜在的な新たな問題を発生させることなく、日常的なタスクを確実に、安全に遂行することは困難であることが明らかになりました。",
+          "何百万人もの人々がパーソナルAIアシスタントを利用する中、新たなベンチマーク調査から、最も先進的なAIモデルでさえ、潜在的な新たな問題を発生させることなく、日常的なタスクを確実に、安全に遂行することに苦労していることが明らかになりました。",
           "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       },
       {
-        "title": "LLM agents work for their parent companies, not for you",
-        "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
-        "points": 101,
-        "comments": 367,
-        "author": "surprisetalk",
-        "createdAt": "2026-11-24T12:40:15Z",
-        "domain": "michaelharley.net",
+        "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+        "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
+        "points": 73,
+        "comments": 76,
+        "author": "acossta",
+        "createdAt": "2026-11-24T21:02:22Z",
+        "domain": "openai.com",
         "sourceType": "hn",
         "category": "AIモデル",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "LLMエージェントは、お客様ではなく、親会社のために働きます",
-        "summaryJa": "この記事は「LLMエージェントは、お客様ではなく、親会社のために働きます」を扱っています。私はClaudeを使ってInstagramからBandcampへのツールを構築しましたが、APIがダウンしたとき、モデルは回避策を見つけるのを拒否しました。その一方で、アーティストに報酬が支払われないYouTubeからのダウンロードは喜んで行っていました。",
+        "titleJa": "GPT-6モデルは、固有のタンパク質設計能力を発揮",
+        "summaryJa": "この記事は「GPT-6モデルは、固有のタンパク質設計能力を発揮」を扱っています。GPT-6モデルは、推論とコードを使用してタンパク質の構造と配列を設計します。ラボテストでは、5つの標的にわたる結合の証拠が見つかりました。",
         "keyPoints": [
-          "この記事は「LLMエージェントは、お客様ではなく、親会社のために働きます」を扱っています。",
-          "私はClaudeを使ってInstagramからBandcampへのツールを構築しましたが、APIがダウンしたとき、モデルは回避策を見つけるのを拒否しました。",
-          "その一方で、アーティストに報酬が支払われないYouTubeからのダウンロードは喜んで行っていました。"
+          "この記事は「GPT-6モデルは、固有のタンパク質設計能力を発揮」を扱っています。",
+          "GPT-6モデルは、推論とコードを使用してタンパク質の構造と配列を設計します。",
+          "ラボテストでは、5つの標的にわたる結合の証拠が見つかりました。"
         ]
       }
     ],
-    "fetchedAt": "2026-11-24T23:52:41.448Z",
+    "fetchedAt": "2026-11-25T08:26:41.858Z",
     "mock": false
   },
   "xTrends": {
     "items": [
       {
-        "topic": "Anthropic and OpenAI",
-        "locationLabel": "米国",
-        "bestRank": 41,
-        "appearances": 1,
+        "topic": "AI国家確立",
+        "locationLabel": "日本",
+        "bestRank": 23,
+        "appearances": 3,
         "trendSource": "Trends24",
-        "sourceUrl": "https://trends24.in/united-states/",
-        "observedAt": "2026-11-24T23:52:41.353Z",
-        "url": "https://x.com/search?q=Anthropic%20and%20OpenAI&src=typed_query&f=live",
-        "articleTitle": "Anthropic and OpenAI employees fear unreleased AI models too unsafe to release",
-        "articleTitleJa": "Anthropic社とOpenAI社の従業員が、未発表のAIモデルが安全でないことを懸念",
-        "articleUrl": "https://tech.yahoo.com/ai/claude/articles/scoop-anthropic-openai-employees-fear-104505580.html",
-        "articleSource": "tech.yahoo.com",
-        "articlePublishedAt": "2026-11-24T17:46:41Z",
-        "summaryJa": "AnthropicとOpenAIは、ますます差し迫った問題に直面しています。内部デベートに詳しい20人以上の情報筋によると、社内用の未公開モデルが非常に強力になりすぎており、多くの従業員がこれらを安全に公開できるとは思わなくなっているとのことです。",
-        "translationVersion": 3
+        "sourceUrl": "https://trends24.in/japan/",
+        "observedAt": "2026-11-25T08:26:41.784Z",
+        "url": "https://x.com/search?q=AI%E5%9B%BD%E5%AE%B6%E7%A2%BA%E7%AB%8B&src=typed_query&f=live",
+        "articleTitle": "AI国家確立",
+        "articleTitleJa": "公開トレンド: AI国家確立",
+        "articleUrl": "https://trends24.in/japan/",
+        "articleSource": "Trends24",
+        "articlePublishedAt": "2026-11-25T08:26:41.784Z",
+        "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
+        "translationVersion": 3,
+        "articleFallback": true
       }
     ],
-    "fetchedAt": "2026-11-24T23:52:41.448Z",
+    "fetchedAt": "2026-11-25T08:26:41.858Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-11-24T23:52:45.029Z"
+    "articleFetchedAt": "2026-11-25T08:26:42.203Z"
   }
 }
