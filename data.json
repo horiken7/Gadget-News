@@ -2,6 +2,27 @@
   "news": {
     "items": [
       {
+        "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
+        "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+        "points": 133,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-11-25T19:44:24.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
+        "category": "AIニュース",
+        "impact": "高",
+        "titleJa": "Anthropicのダリオ・アモデイ氏、人間の統制をAIに委ねるという主張を「ばかげている」と評する",
+        "summaryJa": "この記事は「Anthropicのダリオ・アモデイ氏、人間の統制をAIに委ねるという主張を「ばかげている」と評する」を扱っています。Anthropicのダリオ・アモデイCEOは、主要なAI企業が自社の研究やモデル開発をますます自動化しているにもかかわらず、人間の主体性をAIに委ねることを好んでいるという競合他社の非難に反論しています。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "keyPoints": [
+          "この記事は「Anthropicのダリオ・アモデイ氏、人間の統制をAIに委ねるという主張を「ばかげている」と評する」を扱っています。",
+          "Anthropicのダリオ・アモデイCEOは、主要なAI企業が自社の研究やモデル開発をますます自動化しているにもかかわらず、人間の主体性をAIに委ねることを好んでいるという競合他社の非難に反論しています。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+        ]
+      },
+      {
         "title": "Want to buy your kid an AI toy this Christmas? Not in New York",
         "url": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
         "points": 133,
@@ -15,123 +36,101 @@
         "category": "AIニュース",
         "impact": "高",
         "titleJa": "今年のクリスマスに、お子さまにAI玩具を買ってあげたいですか？ニューヨークでは無理です",
-        "summaryJa": "この記事は「今年のクリスマスに、お子さまにAI玩具を買ってあげたいですか？ニューヨークでは無理です」を扱っています。Common Sense Mediaによる新たな調査で、不適切なコンテンツへの曝露や感情の発達へのリスクなど、懸念される安全上の問題が明らかになったことを受け、ニューヨーク州はAIチャットボットのおもちゃを5年間禁止しました。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "summaryJa": "この記事は「今年のクリスマスに、お子さまにAI玩具を買ってあげたいですか？ニューヨークでは無理です」を扱っています。Common Sense Mediaによる新たな調査で、不適切なコンテンツへの曝露や情動発達へのリスクなど、懸念される安全上の欠陥が明らかになったことを受け、ニューヨーク州はAIチャットボット玩具を5年間禁止しました。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
           "この記事は「今年のクリスマスに、お子さまにAI玩具を買ってあげたいですか。",
           "ニューヨークでは無理です」を扱っています。",
-          "Common Sense Mediaによる新たな調査で、不適切なコンテンツへの曝露や感情の発達へのリスクなど、懸念される安全上の問題が明らかになったことを受け、ニューヨーク州はAIチャットボットのおもちゃを5年間禁止しました。"
+          "Common Sense Mediaによる新たな調査で、不適切なコンテンツへの曝露や情動発達へのリスクなど、懸念される安全上の欠陥が明らかになったことを受け、ニューヨーク州はAIチャットボット玩具を5年間禁止しました。"
         ]
       },
       {
-        "title": "Launch HN: Versine (YC F26) – MCP to send and receive money",
-        "url": "https://news.ycombinator.com/item?id=50634426",
-        "points": 115,
-        "comments": 99,
-        "author": "harshithl1777",
-        "createdAt": "2026-11-24T20:44:15Z",
-        "domain": "news.ycombinator.com",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "HNローンチ：Versine（YC F26）– お金の送受信を行うMCP",
-        "summaryJa": "この記事は「HNローンチ：Versine（YC F26）– お金の送受信を行うMCP」を扱っています。Versineなら、AIと会話したりメッセージをやり取りするだけで、お金を送金したりリクエストしたりできます（MCPを備えたVenmoのようなものです）。私たちは、Stripe、Databricks、Amazonで分散システムに携わってきたソフトウェアエンジニアです。",
-        "keyPoints": [
-          "この記事は「HNローンチ：Versine（YC F26）– お金の送受信を行うMCP」を扱っています。",
-          "Versineなら、AIと会話したりメッセージをやり取りするだけで、お金を送金したりリクエストしたりできます（MCPを備えたVenmoのようなものです）。",
-          "私たちは、Stripe、Databricks、Amazonで分散システムに携わってきたソフトウェアエンジニアです。"
-        ]
-      },
-      {
-        "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
-        "url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
-        "points": 107,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-11-25T14:10:18.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
-        "category": "AIニュース",
-        "impact": "高",
-        "titleJa": "AmazonとMetaが、AIエージェントMuseのブロック解除について協議中との報道",
-        "summaryJa": "この記事は「AmazonとMetaが、AIエージェントMuseのブロック解除について協議中との報道」を扱っています。AmazonとMetaは、Museの2か月にわたるブロックを終了する可能性のある契約について話し合っています。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
-        "keyPoints": [
-          "この記事は「AmazonとMetaが、AIエージェントMuseのブロック解除について協議中との報道」を扱っています。",
-          "AmazonとMetaは、Museの2か月にわたるブロックを終了する可能性のある契約について話し合っています。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
-        ]
-      },
-      {
-        "title": "Top open problems in mathematics ranked by LLM-assessed importance",
-        "url": "https://www.proofatlas.ai/open-problems/",
+        "title": "The New York Times warns photographers not to update Photoshop over AI features",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
         "points": 93,
-        "comments": 48,
-        "author": "ijidak",
-        "createdAt": "2026-11-25T03:01:36Z",
-        "domain": "proofatlas.ai",
+        "comments": 193,
+        "author": "rmason",
+        "createdAt": "2026-11-25T21:18:02Z",
+        "domain": "theverge.com",
         "sourceType": "hn",
-        "category": "AIモデル",
+        "category": "AIニュース",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "LLMが評価した重要度順にランク付けされた、数学における未解決の主要な問題",
-        "summaryJa": "この記事は「LLMが評価した重要度順にランク付けされた、数学における未解決の主要な問題」を扱っています。LLMが評価した重要度順にランク付けされた数学における上位500の未解決問題。正確な記述、日付入りのステータス注記、出典、ランク付けの不確実性を含む。",
+        "titleJa": "ニューヨーク・タイムズ紙が、AI機能を備えたPhotoshopへのアップデートをフォトグラファーに警告",
+        "summaryJa": "この記事は「ニューヨーク・タイムズ紙が、AI機能を備えたPhotoshopへのアップデートをフォトグラファーに警告」を扱っています。theverge.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
         "keyPoints": [
-          "この記事は「LLMが評価した重要度順にランク付けされた、数学における未解決の主要な問題」を扱っています。",
-          "LLMが評価した重要度順にランク付けされた数学における上位500の未解決問題。",
-          "正確な記述、日付入りのステータス注記、出典、ランク付けの不確実性を含む。"
+          "この記事は「ニューヨーク・タイムズ紙が、AI機能を備えたPhotoshopへのアップデートをフォトグラファーに警告」を扱っています。",
+          "theverge.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
       },
       {
-        "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
-        "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
+        "title": "Much shorter version of GRH Lean verification from Anthropic",
+        "url": "https://github.com/lsernau/grh-lean",
         "points": 73,
-        "comments": 94,
-        "author": "acossta",
-        "createdAt": "2026-11-24T21:02:22Z",
-        "domain": "openai.com",
+        "comments": 152,
+        "author": "nb-t",
+        "createdAt": "2026-11-25T21:48:10Z",
+        "domain": "github.com",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "AnthropicによるGRHリーン検証の非常に短いバージョン",
+        "summaryJa": "この記事は「AnthropicによるGRHリーン検証の非常に短いバージョン」を扱っています。一般化されたリーマン予想の短いLean 4証明 - lsernau/grh-lean。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "keyPoints": [
+          "この記事は「AnthropicによるGRHリーン検証の非常に短いバージョン」を扱っています。",
+          "一般化されたリーマン予想の短いLean 4証明 - lsernau/grh-lean。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+        ]
+      },
+      {
+        "title": "Gemini refused to give me the lyrics to Twinkle Twinkle Little Star",
+        "url": "https://www.comentr.com/technology/01M88DWQ0R4NCMYR17AFEWRG1F",
+        "points": 73,
+        "comments": 170,
+        "author": "hoodied",
+        "createdAt": "2026-11-25T04:03:33Z",
+        "domain": "comentr.com",
         "sourceType": "hn",
         "category": "AIモデル",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "GPT-6モデルは、固有のタンパク質設計能力を示しています",
-        "summaryJa": "この記事は「GPT-6モデルは、固有のタンパク質設計能力を示しています」を扱っています。GPT-6モデルは、推論とコードを使用してタンパク質の構造と配列を設計します。ラボテストでは、5つの標的において結合の証拠が見つかりました。",
+        "titleJa": "Geminiは私に「きらきら星」の歌詞を教えてくれませんでした。",
+        "summaryJa": "この記事は「Geminiは私に「きらきら星」の歌詞を教えてくれませんでした。」を扱っています。どちらのときも、歌詞を出力し始めてから止まり、それを撤回して、ここに表示されているメッセージを出力しました。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
         "keyPoints": [
-          "この記事は「GPT-6モデルは、固有のタンパク質設計能力を示しています」を扱っています。",
-          "GPT-6モデルは、推論とコードを使用してタンパク質の構造と配列を設計します。",
-          "ラボテストでは、5つの標的において結合の証拠が見つかりました。"
+          "この記事は「Geminiは私に「きらきら星」の歌詞を教えてくれませんでした。",
+          "どちらのときも、歌詞を出力し始めてから止まり、それを撤回して、ここに表示されているメッセージを出力しました。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
       }
     ],
-    "fetchedAt": "2026-11-25T19:13:28.494Z",
+    "fetchedAt": "2026-11-26T03:32:15.590Z",
     "mock": false
   },
   "xTrends": {
     "items": [
       {
-        "topic": "AI国家確立",
+        "topic": "Claude Duet",
         "locationLabel": "日本",
-        "bestRank": 23,
-        "appearances": 3,
+        "bestRank": 17,
+        "appearances": 9,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-11-25T19:13:28.428Z",
-        "url": "https://x.com/search?q=AI%E5%9B%BD%E5%AE%B6%E7%A2%BA%E7%AB%8B&src=typed_query&f=live",
-        "articleTitle": "AI国家確立",
-        "articleTitleJa": "公開トレンド: AI国家確立",
-        "articleUrl": "https://trends24.in/japan/",
-        "articleSource": "Trends24",
-        "articlePublishedAt": "2026-11-25T19:13:28.428Z",
-        "summaryJa": "日本のTrends24公開トレンドで確認されたAI関連トピックです。関連するHacker News記事は見つかりませんでした。",
-        "translationVersion": 3,
-        "articleFallback": true
+        "observedAt": "2026-11-26T03:32:15.454Z",
+        "url": "https://x.com/search?q=Claude%20Duet&src=typed_query&f=live",
+        "articleTitle": "Always-on agent routing and permissions: dsh-superagent, Grok Bot, Claude Duet",
+        "articleTitleJa": "常時稼働のエージェントルーティングと権限：dsh-superagent、Grok Bot、Claude Duet",
+        "articleUrl": "https://www.agentconnect.md/blog/always-on-agents-router-worker/",
+        "articleSource": "agentconnect.md",
+        "articlePublishedAt": "2026-11-25T01:39:16Z",
+        "summaryJa": "dsh-superagent、Grok Bot、Claude Duet、およびその他の実装の比較研究。",
+        "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-11-25T19:13:28.494Z",
+    "fetchedAt": "2026-11-26T03:32:15.590Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-11-25T19:13:29.045Z"
+    "articleFetchedAt": "2026-11-26T03:32:18.852Z"
   }
 }
