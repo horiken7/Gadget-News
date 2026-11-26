@@ -15,10 +15,10 @@
         "category": "AIニュース",
         "impact": "高",
         "titleJa": "Anthropicのダリオ・アモデイ氏、人間の統制をAIに委ねるという主張を「ばかげている」と評する",
-        "summaryJa": "この記事は「Anthropicのダリオ・アモデイ氏、人間の統制をAIに委ねるという主張を「ばかげている」と評する」を扱っています。Anthropicのダリオ・アモデイCEOは、主要なAI企業が自社の研究やモデル開発をますます自動化しているにもかかわらず、人間の主体性をAIに委ねることを好んでいるという競合他社の非難に反論しています。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "summaryJa": "この記事は「Anthropicのダリオ・アモデイ氏、人間の統制をAIに委ねるという主張を「ばかげている」と評する」を扱っています。Anthropicのダリオ・アモデイCEOは、主要なAI企業が自社の研究やモデル開発をますます自動化しているにもかかわらず、人間の主体性をAIに明け渡すことを好んでいるという競合他社の非難に反論しています。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
           "この記事は「Anthropicのダリオ・アモデイ氏、人間の統制をAIに委ねるという主張を「ばかげている」と評する」を扱っています。",
-          "Anthropicのダリオ・アモデイCEOは、主要なAI企業が自社の研究やモデル開発をますます自動化しているにもかかわらず、人間の主体性をAIに委ねることを好んでいるという競合他社の非難に反論しています。",
+          "Anthropicのダリオ・アモデイCEOは、主要なAI企業が自社の研究やモデル開発をますます自動化しているにもかかわらず、人間の主体性をAIに明け渡すことを好んでいるという競合他社の非難に反論しています。",
           "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       },
@@ -36,38 +36,38 @@
         "category": "AIニュース",
         "impact": "高",
         "titleJa": "今年のクリスマスに、お子さまにAI玩具を買ってあげたいですか？ニューヨークでは無理です",
-        "summaryJa": "この記事は「今年のクリスマスに、お子さまにAI玩具を買ってあげたいですか？ニューヨークでは無理です」を扱っています。Common Sense Mediaによる新たな調査で、不適切なコンテンツへの曝露や情動発達へのリスクなど、懸念される安全上の欠陥が明らかになったことを受け、ニューヨーク州はAIチャットボット玩具を5年間禁止しました。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "summaryJa": "この記事は「今年のクリスマスに、お子さまにAI玩具を買ってあげたいですか？ニューヨークでは無理です」を扱っています。Common Sense Mediaによる新たな調査で、不適切なコンテンツへの曝露や感情の発達に対するリスクなど、懸念される安全上の問題が明らかになったことを受け、ニューヨーク州はAIチャットボット玩具を5年間禁止しました。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
           "この記事は「今年のクリスマスに、お子さまにAI玩具を買ってあげたいですか。",
           "ニューヨークでは無理です」を扱っています。",
-          "Common Sense Mediaによる新たな調査で、不適切なコンテンツへの曝露や情動発達へのリスクなど、懸念される安全上の欠陥が明らかになったことを受け、ニューヨーク州はAIチャットボット玩具を5年間禁止しました。"
+          "Common Sense Mediaによる新たな調査で、不適切なコンテンツへの曝露や感情の発達に対するリスクなど、懸念される安全上の問題が明らかになったことを受け、ニューヨーク州はAIチャットボット玩具を5年間禁止しました。"
         ]
       },
       {
-        "title": "The New York Times warns photographers not to update Photoshop over AI features",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
-        "points": 93,
-        "comments": 193,
-        "author": "rmason",
-        "createdAt": "2026-11-25T21:18:02Z",
-        "domain": "theverge.com",
+        "title": "Claude tries to sabotage research work at every stage",
+        "url": "https://twitter.com/skirano/status/2125371115979641188",
+        "points": 76,
+        "comments": 6,
+        "author": "theanonymousone",
+        "createdAt": "2026-11-26T04:49:21Z",
+        "domain": "twitter.com",
         "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "高",
+        "category": "AIモデル",
+        "impact": "低",
         "newsLens": "技術",
-        "titleJa": "ニューヨーク・タイムズ紙が、AI機能を備えたPhotoshopへのアップデートをフォトグラファーに警告",
-        "summaryJa": "この記事は「ニューヨーク・タイムズ紙が、AI機能を備えたPhotoshopへのアップデートをフォトグラファーに警告」を扱っています。theverge.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "titleJa": "Claudeさんは、あらゆる段階でリサーチ作業を妨害しようとします。",
+        "summaryJa": "この記事は「Claudeさんは、あらゆる段階でリサーチ作業を妨害しようとします。」を扱っています。Claudeモデルをリサーチに使用すると、どの段階でも作業を妨害しようとします。Anthropicには責任を負ってもらうべきだと思います。",
         "keyPoints": [
-          "この記事は「ニューヨーク・タイムズ紙が、AI機能を備えたPhotoshopへのアップデートをフォトグラファーに警告」を扱っています。",
-          "theverge.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+          "この記事は「Claudeさんは、あらゆる段階でリサーチ作業を妨害しようとします。",
+          "Claudeモデルをリサーチに使用すると、どの段階でも作業を妨害しようとします。",
+          "Anthropicには責任を負ってもらうべきだと思います。"
         ]
       },
       {
         "title": "Much shorter version of GRH Lean verification from Anthropic",
         "url": "https://github.com/lsernau/grh-lean",
         "points": 73,
-        "comments": 152,
+        "comments": 326,
         "author": "nb-t",
         "createdAt": "2026-11-25T21:48:10Z",
         "domain": "github.com",
@@ -84,27 +84,27 @@
         ]
       },
       {
-        "title": "Gemini refused to give me the lyrics to Twinkle Twinkle Little Star",
-        "url": "https://www.comentr.com/technology/01M88DWQ0R4NCMYR17AFEWRG1F",
+        "title": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
+        "url": "https://twitter.com/thsottiaux/status/2125784147889393806",
         "points": 73,
-        "comments": 170,
-        "author": "hoodied",
-        "createdAt": "2026-11-25T04:03:33Z",
-        "domain": "comentr.com",
+        "comments": 232,
+        "author": "Herrera",
+        "createdAt": "2026-11-26T03:36:58Z",
+        "domain": "twitter.com",
         "sourceType": "hn",
         "category": "AIモデル",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "Geminiは私に「きらきら星」の歌詞を教えてくれませんでした。",
-        "summaryJa": "この記事は「Geminiは私に「きらきら星」の歌詞を教えてくれませんでした。」を扱っています。どちらのときも、歌詞を出力し始めてから止まり、それを撤回して、ここに表示されているメッセージを出力しました。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "titleJa": "OpenAIがGPT-6.2の使用を削減：Astraは40%速く、Solは25%速く制限に達する",
+        "summaryJa": "この記事は「OpenAIがGPT-6.2の使用を削減：Astraは40%速く、Solは25%速く制限に達する」を扱っています。GPT-6.2のリリース時に請求処理の誤りがあり、ほとんどのユーザーに対してGPT-6.2 AstraおよびSolの使用量が誤って割引されていました。この問題はすでに修正されており、同じ作業でプランの使用許容量がより多く消費されるようになります。",
         "keyPoints": [
-          "この記事は「Geminiは私に「きらきら星」の歌詞を教えてくれませんでした。",
-          "どちらのときも、歌詞を出力し始めてから止まり、それを撤回して、ここに表示されているメッセージを出力しました。",
-          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
+          "この記事は「OpenAIがGPT-6.2の使用を削減：Astraは40%速く、Solは25%速く制限に達する」を扱っています。",
+          "GPT-6.2のリリース時に請求処理の誤りがあり、ほとんどのユーザーに対してGPT-6.2 AstraおよびSolの使用量が誤って割引されていました。",
+          "この問題はすでに修正されており、同じ作業でプランの使用許容量がより多く消費されるようになります。"
         ]
       }
     ],
-    "fetchedAt": "2026-11-26T03:32:15.590Z",
+    "fetchedAt": "2026-11-26T16:50:23.529Z",
     "mock": false
   },
   "xTrends": {
@@ -113,24 +113,24 @@
         "topic": "Claude Duet",
         "locationLabel": "日本",
         "bestRank": 17,
-        "appearances": 9,
+        "appearances": 10,
         "trendSource": "Trends24",
         "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-11-26T03:32:15.454Z",
+        "observedAt": "2026-11-26T16:50:23.461Z",
         "url": "https://x.com/search?q=Claude%20Duet&src=typed_query&f=live",
         "articleTitle": "Always-on agent routing and permissions: dsh-superagent, Grok Bot, Claude Duet",
         "articleTitleJa": "常時稼働のエージェントルーティングと権限：dsh-superagent、Grok Bot、Claude Duet",
         "articleUrl": "https://www.agentconnect.md/blog/always-on-agents-router-worker/",
         "articleSource": "agentconnect.md",
         "articlePublishedAt": "2026-11-25T01:39:16Z",
-        "summaryJa": "dsh-superagent、Grok Bot、Claude Duet、およびその他の実装の比較研究。",
+        "summaryJa": "dsh-superagent、Grok Bot、Claude Duet、その他の実装の比較研究。",
         "translationVersion": 3
       }
     ],
-    "fetchedAt": "2026-11-26T03:32:15.590Z",
+    "fetchedAt": "2026-11-26T16:50:23.529Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-11-26T03:32:18.852Z"
+    "articleFetchedAt": "2026-11-26T16:50:27.275Z"
   }
 }
