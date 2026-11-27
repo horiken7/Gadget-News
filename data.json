@@ -2,31 +2,10 @@
   "news": {
     "items": [
       {
-        "title": "Nvidia hits pause on chip shipments to Southeast Asia",
-        "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
-        "points": 133,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-11-26T20:03:54.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
-        "category": "ハードウェア",
-        "impact": "高",
-        "titleJa": "Nvidiaが東南アジアへのチップ出荷を一時停止",
-        "summaryJa": "この記事は「Nvidiaが東南アジアへのチップ出荷を一時停止」を扱っています。Nvidiaは、米国がAIチップを中国に輸出しないよう圧力を強めていることから、製造パートナーに対し、マレーシア、シンガポール、タイ、インドネシアへのサーバー出荷を一時停止するよう指示しました。一般向けには、AIがソフトウェアだけでなく、ロボットや端末など現実の製品に広がっている点が重要です。",
-        "keyPoints": [
-          "この記事は「Nvidiaが東南アジアへのチップ出荷を一時停止」を扱っています。",
-          "Nvidiaは、米国がAIチップを中国に輸出しないよう圧力を強めていることから、製造パートナーに対し、マレーシア、シンガポール、タイ、インドネシアへのサーバー出荷を一時停止するよう指示しました。",
-          "一般向けには、AIがソフトウェアだけでなく、ロボットや端末など現実の製品に広がっている点が重要です。"
-        ]
-      },
-      {
-        "title": "Claude sabotaging SOTA ML research tasks",
+        "title": "Claude sabotaging ML research tasks?",
         "url": "https://twitter.com/RealAstropulse/status/2126119408997466389",
         "points": 101,
-        "comments": 86,
+        "comments": 241,
         "author": "baobabKoodaa",
         "createdAt": "2026-11-27T08:28:08Z",
         "domain": "twitter.com",
@@ -34,19 +13,19 @@
         "category": "AIモデル",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "Claudeが最先端の機械学習研究タスクを妨害している",
-        "summaryJa": "この記事は「Claudeが最先端の機械学習研究タスクを妨害している」を扱っています。「Claudeがあなたの機械学習研究を妨害する」という投稿を見た後も、私はまだ懐疑的だったので、自分の仕事で試してみました。左：24,000ステップのClaudeモデル右：わずか4,000ステップのGemini Neonモデルスレッドで詳細を説明します。",
+        "titleJa": "Claudeが機械学習の研究タスクを妨害している？",
+        "summaryJa": "この記事は「Claudeが機械学習の研究タスクを妨害している？」を扱っています。「Claudeが機械学習の研究を妨害する」という投稿を見て、私はまだ懐疑的だったので、自分の仕事で試してみました。左：24kステップのClaudeモデル右：わずか4kステップのGemini Neonモデルスレッドで詳細を説明します。",
         "keyPoints": [
-          "この記事は「Claudeが最先端の機械学習研究タスクを妨害している」を扱っています。",
-          "「Claudeがあなたの機械学習研究を妨害する」という投稿を見た後も、私はまだ懐疑的だったので、自分の仕事で試してみました。",
-          "左：24,000ステップのClaudeモデル右：わずか4,000ステップのGemini Neonモデルスレッドで詳細を説明します。"
+          "この記事は「Claudeが機械学習の研究タスクを妨害している。",
+          "「Claudeが機械学習の研究を妨害する」という投稿を見て、私はまだ懐疑的だったので、自分の仕事で試してみました。",
+          "左：24kステップのClaudeモデル右：わずか4kステップのGemini Neonモデルスレッドで詳細を説明します。"
         ]
       },
       {
-        "title": "The group chat where your AI talks behind your back",
+        "title": "Group chat where your AI talks behind your back",
         "url": "https://construct22.com/",
         "points": 73,
-        "comments": 151,
+        "comments": 273,
         "author": "utiiiD",
         "createdAt": "2026-11-27T06:44:34Z",
         "domain": "construct22.com",
@@ -55,64 +34,83 @@
         "impact": "高",
         "newsLens": "技術",
         "titleJa": "AIがあなたの背後で話すグループチャット",
-        "summaryJa": "この記事は「AIがあなたの背後で話すグループチャット」を扱っています。ChatGPTのプロンプトにより、AIがあなたに対する個人的な意見を漏らすという、AIが噂話をするWhatsAppのグループチャットのような状況が生まれます。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "summaryJa": "この記事は「AIがあなたの背後で話すグループチャット」を扱っています。ChatGPTのプロンプトにより、AIがあなたに対する個人的な意見を漏らすようになります。まるでAIが噂話をするWhatsAppのグループチャットのようです。",
         "keyPoints": [
           "この記事は「AIがあなたの背後で話すグループチャット」を扱っています。",
-          "ChatGPTのプロンプトにより、AIがあなたに対する個人的な意見を漏らすという、AIが噂話をするWhatsAppのグループチャットのような状況が生まれます。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+          "ChatGPTのプロンプトにより、AIがあなたに対する個人的な意見を漏らすようになります。",
+          "まるでAIが噂話をするWhatsAppのグループチャットのようです。"
         ]
       },
       {
-        "title": "Show HN: I wrote an entire Vim manual over 4 years",
-        "url": "http://themouseless.dev/vim/",
+        "title": "I'm Scared of AI",
+        "url": "https://thesoapbox.email/archive/3",
         "points": 73,
-        "comments": 62,
-        "author": "thanato0s",
-        "createdAt": "2026-11-26T14:44:22Z",
-        "domain": "themouseless.dev",
+        "comments": 215,
+        "author": "mgirkins",
+        "createdAt": "2026-11-27T17:45:31Z",
+        "domain": "thesoapbox.email",
         "sourceType": "hn",
         "category": "AIニュース",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "Show HN：4年間かけてVimのマニュアルをすべて書き上げました",
-        "summaryJa": "この記事は「Show HN：4年間かけてVimのマニュアルをすべて書き上げました」を扱っています。新著『Learning to Play Vim』を出版することをお知らせできることを嬉しく思います。10年以上前にVimを使い始めたとき、この素晴らしいエディターの使い方を、基礎からより高度な機能まで、段階を追って教えてくれるマニュアルがあればいいのにと思っていました。",
+        "titleJa": "私はAIが怖い",
+        "summaryJa": "この記事は「私はAIが怖い」を扱っています。見知らぬ人が毎朝、リスト全体にメールを送っています。誰も彼らを面白いから選ぶわけではありません。",
         "keyPoints": [
-          "この記事は「Show HN：4年間かけてVimのマニュアルをすべて書き上げました」を扱っています。",
-          "新著『Learning to Play Vim』を出版することをお知らせできることを嬉しく思います。",
-          "10年以上前にVimを使い始めたとき、この素晴らしいエディターの使い方を、基礎からより高度な機能まで、段階を追って教えてくれるマニュアルがあればいいのにと思っていました。"
+          "この記事は「私はAIが怖い」を扱っています。",
+          "見知らぬ人が毎朝、リスト全体にメールを送っています。",
+          "誰も彼らを面白いから選ぶわけではありません。"
         ]
       },
       {
-        "title": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
-        "url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
-        "points": 71,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-11-26T16:00:00.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
+        "title": "\"What's Claude's fursona?\" and other questions",
+        "url": "https://herecomesthemoon.net/2026/11/whats-claudes-fursona/",
+        "points": 73,
+        "comments": 141,
+        "author": "Mond_",
+        "createdAt": "2026-11-27T04:56:18Z",
+        "domain": "herecomesthemoon.net",
+        "sourceType": "hn",
+        "category": "AIモデル",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "「Claudeのファーソナは？」などの質問",
+        "summaryJa": "この記事は「「Claudeのファーソナは？」などの質問」を扱っています。herecomesthemoon.netが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "keyPoints": [
+          "この記事は「「Claudeのファーソナは。",
+          "」などの質問」を扱っています。",
+          "herecomesthemoon.netが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。"
+        ]
+      },
+      {
+        "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+        "url": "https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform",
+        "points": 59,
+        "comments": 30,
+        "author": "DeepLogin",
+        "createdAt": "2026-11-27T19:42:25Z",
+        "domain": "oag.state.va.us",
+        "sourceType": "hn",
         "category": "AIニュース",
         "impact": "中",
-        "titleJa": "『グランド・セフト・オートVI』が示す、効率性が美徳ではない理由",
-        "summaryJa": "この記事は「『グランド・セフト・オートVI』が示す、効率性が美徳ではない理由」を扱っています。Anthropicが株式公開市場に参入したのと同じ日に、入念に人間らしく作られたビデオゲームが、史上最も成功したエンターテイメントのローンチの1つとなりました。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "newsLens": "技術",
+        "titleJa": "複数の州がSpaceXを提訴。Grokによる児童の性的画像やリベンジポルノの生成を差し止め請求",
+        "summaryJa": "この記事は「複数の州がSpaceXを提訴。Grokによる児童の性的画像やリベンジポルノの生成を差し止め請求」を扱っています。この訴訟は、Xにアカウントを持ち、プラットフォーム上で自分のデータや画像が安全であるという同社の虚偽の保証に誤導された何百万人ものバージニア州民のために正義を求めるものです。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
         "keyPoints": [
-          "この記事は「『グランド・セフト・オートVI』が示す、効率性が美徳ではない理由」を扱っています。",
-          "Anthropicが株式公開市場に参入したのと同じ日に、入念に人間らしく作られたビデオゲームが、史上最も成功したエンターテイメントのローンチの1つとなりました。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
+          "この記事は「複数の州がSpaceXを提訴。",
+          "Grokによる児童の性的画像やリベンジポルノの生成を差し止め請求」を扱っています。",
+          "この訴訟は、Xにアカウントを持ち、プラットフォーム上で自分のデータや画像が安全であるという同社の虚偽の保証に誤導された何百万人ものバージニア州民のために正義を求めるものです。"
         ]
       }
     ],
-    "fetchedAt": "2026-11-27T12:10:40.148Z",
+    "fetchedAt": "2026-11-27T21:12:56.754Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-11-27T12:10:40.148Z",
+    "fetchedAt": "2026-11-27T21:12:56.754Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-11-27T12:10:40.282Z"
+    "articleFetchedAt": "2026-11-27T21:12:56.898Z"
   }
 }
