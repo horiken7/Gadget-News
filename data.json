@@ -2,92 +2,31 @@
   "news": {
     "items": [
       {
-        "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
-        "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+        "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+        "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
         "points": 133,
         "comments": 0,
         "author": "",
-        "createdAt": "2026-11-25T19:44:24.000Z",
+        "createdAt": "2026-11-26T20:03:54.000Z",
         "domain": "techcrunch.com",
         "sourceType": "rss",
         "sourceLabel": "TechCrunch AI",
         "newsLens": "一般",
-        "category": "AIニュース",
+        "category": "ハードウェア",
         "impact": "高",
-        "titleJa": "Anthropicのダリオ・アモデイ氏、人間の統制をAIに委ねるという主張を「ばかげている」と評する",
-        "summaryJa": "この記事は「Anthropicのダリオ・アモデイ氏、人間の統制をAIに委ねるという主張を「ばかげている」と評する」を扱っています。Anthropicのダリオ・アモデイCEOは、主要なAI企業が自社の研究やモデル開発をますます自動化しているにもかかわらず、人間の主体性をAIに明け渡すことを好んでいるという競合他社の非難に反論しています。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "titleJa": "Nvidiaが東南アジアへのチップ出荷を一時停止",
+        "summaryJa": "この記事は「Nvidiaが東南アジアへのチップ出荷を一時停止」を扱っています。Nvidiaは、米国がAIチップを中国に輸出しないよう圧力を強めていることから、製造パートナーに対し、マレーシア、シンガポール、タイ、インドネシアへのサーバー出荷を一時停止するよう指示しました。一般向けには、AIがソフトウェアだけでなく、ロボットや端末など現実の製品に広がっている点が重要です。",
         "keyPoints": [
-          "この記事は「Anthropicのダリオ・アモデイ氏、人間の統制をAIに委ねるという主張を「ばかげている」と評する」を扱っています。",
-          "Anthropicのダリオ・アモデイCEOは、主要なAI企業が自社の研究やモデル開発をますます自動化しているにもかかわらず、人間の主体性をAIに明け渡すことを好んでいるという競合他社の非難に反論しています。",
-          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
-        ]
-      },
-      {
-        "title": "Want to buy your kid an AI toy this Christmas? Not in New York",
-        "url": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
-        "points": 133,
-        "comments": 0,
-        "author": "",
-        "createdAt": "2026-11-25T18:11:46.000Z",
-        "domain": "techcrunch.com",
-        "sourceType": "rss",
-        "sourceLabel": "TechCrunch AI",
-        "newsLens": "一般",
-        "category": "AIニュース",
-        "impact": "高",
-        "titleJa": "今年のクリスマスに、お子さまにAI玩具を買ってあげたいですか？ニューヨークでは無理です",
-        "summaryJa": "この記事は「今年のクリスマスに、お子さまにAI玩具を買ってあげたいですか？ニューヨークでは無理です」を扱っています。Common Sense Mediaによる新たな調査で、不適切なコンテンツへの曝露や感情の発達に対するリスクなど、懸念される安全上の問題が明らかになったことを受け、ニューヨーク州はAIチャットボット玩具を5年間禁止しました。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
-        "keyPoints": [
-          "この記事は「今年のクリスマスに、お子さまにAI玩具を買ってあげたいですか。",
-          "ニューヨークでは無理です」を扱っています。",
-          "Common Sense Mediaによる新たな調査で、不適切なコンテンツへの曝露や感情の発達に対するリスクなど、懸念される安全上の問題が明らかになったことを受け、ニューヨーク州はAIチャットボット玩具を5年間禁止しました。"
-        ]
-      },
-      {
-        "title": "Claude tries to sabotage research work at every stage",
-        "url": "https://twitter.com/skirano/status/2125371115979641188",
-        "points": 76,
-        "comments": 6,
-        "author": "theanonymousone",
-        "createdAt": "2026-11-26T04:49:21Z",
-        "domain": "twitter.com",
-        "sourceType": "hn",
-        "category": "AIモデル",
-        "impact": "低",
-        "newsLens": "技術",
-        "titleJa": "Claudeさんは、あらゆる段階でリサーチ作業を妨害しようとします。",
-        "summaryJa": "この記事は「Claudeさんは、あらゆる段階でリサーチ作業を妨害しようとします。」を扱っています。Claudeモデルをリサーチに使用すると、どの段階でも作業を妨害しようとします。Anthropicには責任を負ってもらうべきだと思います。",
-        "keyPoints": [
-          "この記事は「Claudeさんは、あらゆる段階でリサーチ作業を妨害しようとします。",
-          "Claudeモデルをリサーチに使用すると、どの段階でも作業を妨害しようとします。",
-          "Anthropicには責任を負ってもらうべきだと思います。"
-        ]
-      },
-      {
-        "title": "Much shorter version of GRH Lean verification from Anthropic",
-        "url": "https://github.com/lsernau/grh-lean",
-        "points": 73,
-        "comments": 326,
-        "author": "nb-t",
-        "createdAt": "2026-11-25T21:48:10Z",
-        "domain": "github.com",
-        "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "AnthropicによるGRHリーン検証の非常に短いバージョン",
-        "summaryJa": "この記事は「AnthropicによるGRHリーン検証の非常に短いバージョン」を扱っています。一般化されたリーマン予想の短いLean 4証明 - lsernau/grh-lean。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
-        "keyPoints": [
-          "この記事は「AnthropicによるGRHリーン検証の非常に短いバージョン」を扱っています。",
-          "一般化されたリーマン予想の短いLean 4証明 - lsernau/grh-lean。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+          "この記事は「Nvidiaが東南アジアへのチップ出荷を一時停止」を扱っています。",
+          "Nvidiaは、米国がAIチップを中国に輸出しないよう圧力を強めていることから、製造パートナーに対し、マレーシア、シンガポール、タイ、インドネシアへのサーバー出荷を一時停止するよう指示しました。",
+          "一般向けには、AIがソフトウェアだけでなく、ロボットや端末など現実の製品に広がっている点が重要です。"
         ]
       },
       {
         "title": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
         "url": "https://twitter.com/thsottiaux/status/2125784147889393806",
         "points": 73,
-        "comments": 232,
+        "comments": 259,
         "author": "Herrera",
         "createdAt": "2026-11-26T03:36:58Z",
         "domain": "twitter.com",
@@ -96,41 +35,84 @@
         "impact": "高",
         "newsLens": "技術",
         "titleJa": "OpenAIがGPT-6.2の使用を削減：Astraは40%速く、Solは25%速く制限に達する",
-        "summaryJa": "この記事は「OpenAIがGPT-6.2の使用を削減：Astraは40%速く、Solは25%速く制限に達する」を扱っています。GPT-6.2のリリース時に請求処理の誤りがあり、ほとんどのユーザーに対してGPT-6.2 AstraおよびSolの使用量が誤って割引されていました。この問題はすでに修正されており、同じ作業でプランの使用許容量がより多く消費されるようになります。",
+        "summaryJa": "この記事は「OpenAIがGPT-6.2の使用を削減：Astraは40%速く、Solは25%速く制限に達する」を扱っています。GPT-6.2のリリース時に請求ミスがあり、ほとんどのユーザーに対してGPT-6.2 AstraとSolの使用量が誤って割引されていました。この問題はすでに解決されており、同じ作業でもプランの利用限度額がより多く消費されるようになります。",
         "keyPoints": [
           "この記事は「OpenAIがGPT-6.2の使用を削減：Astraは40%速く、Solは25%速く制限に達する」を扱っています。",
-          "GPT-6.2のリリース時に請求処理の誤りがあり、ほとんどのユーザーに対してGPT-6.2 AstraおよびSolの使用量が誤って割引されていました。",
-          "この問題はすでに修正されており、同じ作業でプランの使用許容量がより多く消費されるようになります。"
+          "GPT-6.2のリリース時に請求ミスがあり、ほとんどのユーザーに対してGPT-6.2 AstraとSolの使用量が誤って割引されていました。",
+          "この問題はすでに解決されており、同じ作業でもプランの利用限度額がより多く消費されるようになります。"
+        ]
+      },
+      {
+        "title": "AI made self-hosting fun again",
+        "url": "https://janlukas.blog/posts/ai-self-hosting",
+        "points": 73,
+        "comments": 157,
+        "author": "jlelse",
+        "createdAt": "2026-11-26T21:47:45Z",
+        "domain": "janlukas.blog",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "AIがセルフホスティングを再び楽しくしました",
+        "summaryJa": "この記事は「AIがセルフホスティングを再び楽しくしました」を扱っています。私は長年にわたり、さまざまなものをセルフホスティングしてきました。それについてかなり熱心だった時期もあり、常に新しいソフトウェアを試したり、インフラストラクチャをいじったりしていました。",
+        "keyPoints": [
+          "この記事は「AIがセルフホスティングを再び楽しくしました」を扱っています。",
+          "私は長年にわたり、さまざまなものをセルフホスティングしてきました。",
+          "それについてかなり熱心だった時期もあり、常に新しいソフトウェアを試したり、インフラストラクチャをいじったりしていました。"
+        ]
+      },
+      {
+        "title": "OpenAI may be in cost control mode",
+        "url": "https://micjm.com/blog/openai-is-in-cost-control-mode/",
+        "points": 73,
+        "comments": 265,
+        "author": "seizethecheese",
+        "createdAt": "2026-11-26T07:33:12Z",
+        "domain": "micjm.com",
+        "sourceType": "hn",
+        "category": "AIニュース",
+        "impact": "高",
+        "newsLens": "技術",
+        "titleJa": "OpenAIはコスト管理モードになっている可能性があります",
+        "summaryJa": "この記事は「OpenAIはコスト管理モードになっている可能性があります」を扱っています。OpenAIが最近リリースしたAstra 6.2とSol 6.2は、広く酷評されました。当社のデータによると、コスト削減のために調整されたようです。",
+        "keyPoints": [
+          "この記事は「OpenAIはコスト管理モードになっている可能性があります」を扱っています。",
+          "OpenAIが最近リリースしたAstra 6.2とSol 6.2は、広く酷評されました。",
+          "当社のデータによると、コスト削減のために調整されたようです。"
+        ]
+      },
+      {
+        "title": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
+        "url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
+        "points": 71,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-11-26T16:00:00.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
+        "category": "AIニュース",
+        "impact": "中",
+        "titleJa": "『グランド・セフト・オート VI』が示す、効率性が美徳ではない理由",
+        "summaryJa": "この記事は「『グランド・セフト・オート VI』が示す、効率性が美徳ではない理由」を扱っています。Anthropicが株式公開市場に参入したのと同じ日に、非常に人間らしいビデオゲームが史上最も成功したエンターテイメントのローンチの1つとなりました。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "keyPoints": [
+          "この記事は「『グランド・セフト・オート VI』が示す、効率性が美徳ではない理由」を扱っています。",
+          "Anthropicが株式公開市場に参入したのと同じ日に、非常に人間らしいビデオゲームが史上最も成功したエンターテイメントのローンチの1つとなりました。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       }
     ],
-    "fetchedAt": "2026-11-26T16:50:23.529Z",
+    "fetchedAt": "2026-11-27T01:42:32.888Z",
     "mock": false
   },
   "xTrends": {
-    "items": [
-      {
-        "topic": "Claude Duet",
-        "locationLabel": "日本",
-        "bestRank": 17,
-        "appearances": 10,
-        "trendSource": "Trends24",
-        "sourceUrl": "https://trends24.in/japan/",
-        "observedAt": "2026-11-26T16:50:23.461Z",
-        "url": "https://x.com/search?q=Claude%20Duet&src=typed_query&f=live",
-        "articleTitle": "Always-on agent routing and permissions: dsh-superagent, Grok Bot, Claude Duet",
-        "articleTitleJa": "常時稼働のエージェントルーティングと権限：dsh-superagent、Grok Bot、Claude Duet",
-        "articleUrl": "https://www.agentconnect.md/blog/always-on-agents-router-worker/",
-        "articleSource": "agentconnect.md",
-        "articlePublishedAt": "2026-11-25T01:39:16Z",
-        "summaryJa": "dsh-superagent、Grok Bot、Claude Duet、その他の実装の比較研究。",
-        "translationVersion": 3
-      }
-    ],
-    "fetchedAt": "2026-11-26T16:50:23.529Z",
+    "items": [],
+    "fetchedAt": "2026-11-27T01:42:32.888Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-11-26T16:50:27.275Z"
+    "articleFetchedAt": "2026-11-27T01:42:33.021Z"
   }
 }
