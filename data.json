@@ -23,63 +23,63 @@
         ]
       },
       {
-        "title": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
-        "url": "https://twitter.com/thsottiaux/status/2125784147889393806",
-        "points": 73,
-        "comments": 259,
-        "author": "Herrera",
-        "createdAt": "2026-11-26T03:36:58Z",
+        "title": "Claude sabotaging SOTA ML research tasks",
+        "url": "https://twitter.com/RealAstropulse/status/2126119408997466389",
+        "points": 101,
+        "comments": 86,
+        "author": "baobabKoodaa",
+        "createdAt": "2026-11-27T08:28:08Z",
         "domain": "twitter.com",
         "sourceType": "hn",
         "category": "AIモデル",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "OpenAIがGPT-6.2の使用を削減：Astraは40%速く、Solは25%速く制限に達する",
-        "summaryJa": "この記事は「OpenAIがGPT-6.2の使用を削減：Astraは40%速く、Solは25%速く制限に達する」を扱っています。GPT-6.2のリリース時に請求ミスがあり、ほとんどのユーザーに対してGPT-6.2 AstraとSolの使用量が誤って割引されていました。この問題はすでに解決されており、同じ作業でもプランの利用限度額がより多く消費されるようになります。",
+        "titleJa": "Claudeが最先端の機械学習研究タスクを妨害している",
+        "summaryJa": "この記事は「Claudeが最先端の機械学習研究タスクを妨害している」を扱っています。「Claudeがあなたの機械学習研究を妨害する」という投稿を見た後も、私はまだ懐疑的だったので、自分の仕事で試してみました。左：24,000ステップのClaudeモデル右：わずか4,000ステップのGemini Neonモデルスレッドで詳細を説明します。",
         "keyPoints": [
-          "この記事は「OpenAIがGPT-6.2の使用を削減：Astraは40%速く、Solは25%速く制限に達する」を扱っています。",
-          "GPT-6.2のリリース時に請求ミスがあり、ほとんどのユーザーに対してGPT-6.2 AstraとSolの使用量が誤って割引されていました。",
-          "この問題はすでに解決されており、同じ作業でもプランの利用限度額がより多く消費されるようになります。"
+          "この記事は「Claudeが最先端の機械学習研究タスクを妨害している」を扱っています。",
+          "「Claudeがあなたの機械学習研究を妨害する」という投稿を見た後も、私はまだ懐疑的だったので、自分の仕事で試してみました。",
+          "左：24,000ステップのClaudeモデル右：わずか4,000ステップのGemini Neonモデルスレッドで詳細を説明します。"
         ]
       },
       {
-        "title": "AI made self-hosting fun again",
-        "url": "https://janlukas.blog/posts/ai-self-hosting",
+        "title": "The group chat where your AI talks behind your back",
+        "url": "https://construct22.com/",
         "points": 73,
-        "comments": 157,
-        "author": "jlelse",
-        "createdAt": "2026-11-26T21:47:45Z",
-        "domain": "janlukas.blog",
+        "comments": 151,
+        "author": "utiiiD",
+        "createdAt": "2026-11-27T06:44:34Z",
+        "domain": "construct22.com",
         "sourceType": "hn",
         "category": "AIニュース",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "AIがセルフホスティングを再び楽しくしました",
-        "summaryJa": "この記事は「AIがセルフホスティングを再び楽しくしました」を扱っています。私は長年にわたり、さまざまなものをセルフホスティングしてきました。それについてかなり熱心だった時期もあり、常に新しいソフトウェアを試したり、インフラストラクチャをいじったりしていました。",
+        "titleJa": "AIがあなたの背後で話すグループチャット",
+        "summaryJa": "この記事は「AIがあなたの背後で話すグループチャット」を扱っています。ChatGPTのプロンプトにより、AIがあなたに対する個人的な意見を漏らすという、AIが噂話をするWhatsAppのグループチャットのような状況が生まれます。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
         "keyPoints": [
-          "この記事は「AIがセルフホスティングを再び楽しくしました」を扱っています。",
-          "私は長年にわたり、さまざまなものをセルフホスティングしてきました。",
-          "それについてかなり熱心だった時期もあり、常に新しいソフトウェアを試したり、インフラストラクチャをいじったりしていました。"
+          "この記事は「AIがあなたの背後で話すグループチャット」を扱っています。",
+          "ChatGPTのプロンプトにより、AIがあなたに対する個人的な意見を漏らすという、AIが噂話をするWhatsAppのグループチャットのような状況が生まれます。",
+          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
         ]
       },
       {
-        "title": "OpenAI may be in cost control mode",
-        "url": "https://micjm.com/blog/openai-is-in-cost-control-mode/",
+        "title": "Show HN: I wrote an entire Vim manual over 4 years",
+        "url": "http://themouseless.dev/vim/",
         "points": 73,
-        "comments": 265,
-        "author": "seizethecheese",
-        "createdAt": "2026-11-26T07:33:12Z",
-        "domain": "micjm.com",
+        "comments": 62,
+        "author": "thanato0s",
+        "createdAt": "2026-11-26T14:44:22Z",
+        "domain": "themouseless.dev",
         "sourceType": "hn",
         "category": "AIニュース",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "OpenAIはコスト管理モードになっている可能性があります",
-        "summaryJa": "この記事は「OpenAIはコスト管理モードになっている可能性があります」を扱っています。OpenAIが最近リリースしたAstra 6.2とSol 6.2は、広く酷評されました。当社のデータによると、コスト削減のために調整されたようです。",
+        "titleJa": "Show HN：4年間かけてVimのマニュアルをすべて書き上げました",
+        "summaryJa": "この記事は「Show HN：4年間かけてVimのマニュアルをすべて書き上げました」を扱っています。新著『Learning to Play Vim』を出版することをお知らせできることを嬉しく思います。10年以上前にVimを使い始めたとき、この素晴らしいエディターの使い方を、基礎からより高度な機能まで、段階を追って教えてくれるマニュアルがあればいいのにと思っていました。",
         "keyPoints": [
-          "この記事は「OpenAIはコスト管理モードになっている可能性があります」を扱っています。",
-          "OpenAIが最近リリースしたAstra 6.2とSol 6.2は、広く酷評されました。",
-          "当社のデータによると、コスト削減のために調整されたようです。"
+          "この記事は「Show HN：4年間かけてVimのマニュアルをすべて書き上げました」を扱っています。",
+          "新著『Learning to Play Vim』を出版することをお知らせできることを嬉しく思います。",
+          "10年以上前にVimを使い始めたとき、この素晴らしいエディターの使い方を、基礎からより高度な機能まで、段階を追って教えてくれるマニュアルがあればいいのにと思っていました。"
         ]
       },
       {
@@ -95,24 +95,24 @@
         "newsLens": "一般",
         "category": "AIニュース",
         "impact": "中",
-        "titleJa": "『グランド・セフト・オート VI』が示す、効率性が美徳ではない理由",
-        "summaryJa": "この記事は「『グランド・セフト・オート VI』が示す、効率性が美徳ではない理由」を扱っています。Anthropicが株式公開市場に参入したのと同じ日に、非常に人間らしいビデオゲームが史上最も成功したエンターテイメントのローンチの1つとなりました。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
+        "titleJa": "『グランド・セフト・オートVI』が示す、効率性が美徳ではない理由",
+        "summaryJa": "この記事は「『グランド・セフト・オートVI』が示す、効率性が美徳ではない理由」を扱っています。Anthropicが株式公開市場に参入したのと同じ日に、入念に人間らしく作られたビデオゲームが、史上最も成功したエンターテイメントのローンチの1つとなりました。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
-          "この記事は「『グランド・セフト・オート VI』が示す、効率性が美徳ではない理由」を扱っています。",
-          "Anthropicが株式公開市場に参入したのと同じ日に、非常に人間らしいビデオゲームが史上最も成功したエンターテイメントのローンチの1つとなりました。",
+          "この記事は「『グランド・セフト・オートVI』が示す、効率性が美徳ではない理由」を扱っています。",
+          "Anthropicが株式公開市場に参入したのと同じ日に、入念に人間らしく作られたビデオゲームが、史上最も成功したエンターテイメントのローンチの1つとなりました。",
           "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       }
     ],
-    "fetchedAt": "2026-11-27T01:42:32.888Z",
+    "fetchedAt": "2026-11-27T12:10:40.148Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-11-27T01:42:32.888Z",
+    "fetchedAt": "2026-11-27T12:10:40.148Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-11-27T01:42:33.021Z"
+    "articleFetchedAt": "2026-11-27T12:10:40.282Z"
   }
 }
