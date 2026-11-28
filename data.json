@@ -2,50 +2,51 @@
   "news": {
     "items": [
       {
-        "title": "Claude sabotaging ML research tasks?",
-        "url": "https://twitter.com/RealAstropulse/status/2126119408997466389",
-        "points": 101,
-        "comments": 290,
-        "author": "baobabKoodaa",
-        "createdAt": "2026-11-27T08:28:08Z",
-        "domain": "twitter.com",
-        "sourceType": "hn",
+        "title": "Sakana AI’s CEO says its homegrown models are about more than Japan’s national security",
+        "url": "https://techcrunch.com/2026/11/28/sakana-ais-ceo-says-its-homegrown-models-are-about-more-than-japans-national-security/",
+        "points": 133,
+        "comments": 0,
+        "author": "",
+        "createdAt": "2026-11-28T14:00:00.000Z",
+        "domain": "techcrunch.com",
+        "sourceType": "rss",
+        "sourceLabel": "TechCrunch AI",
+        "newsLens": "一般",
         "category": "AIモデル",
         "impact": "高",
-        "newsLens": "技術",
-        "titleJa": "Claudeが機械学習の研究タスクを妨害している？",
-        "summaryJa": "この記事は「Claudeが機械学習の研究タスクを妨害している？」を扱っています。「Claudeが機械学習の研究を妨害する」という投稿を見て、私はまだ懐疑的だったので、自分の仕事で試してみました。右：わずか4,000ステップのGemini Neonモデル。",
+        "titleJa": "Sakana AIのCEO、自社開発モデルは日本の国家安全保障以上の意味を持つと語る",
+        "summaryJa": "この記事は「Sakana AIのCEO、自社開発モデルは日本の国家安全保障以上の意味を持つと語る」を扱っています。Sakana AIは、国産のAIモデルで日本の産業競争力を強化することを目指しています。一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。",
         "keyPoints": [
-          "この記事は「Claudeが機械学習の研究タスクを妨害している。",
-          "「Claudeが機械学習の研究を妨害する」という投稿を見て、私はまだ懐疑的だったので、自分の仕事で試してみました。",
-          "右：わずか4,000ステップのGemini Neonモデル。"
+          "この記事は「Sakana AIのCEO、自社開発モデルは日本の国家安全保障以上の意味を持つと語る」を扱っています。",
+          "Sakana AIは、国産のAIモデルで日本の産業競争力を強化することを目指しています。",
+          "一般利用者や企業にとって、AIの使われ方、規制、仕事や生活への影響を把握する材料になります。"
         ]
       },
       {
-        "title": "Group chat where your AI talks behind your back",
-        "url": "https://construct22.com/",
-        "points": 73,
-        "comments": 286,
-        "author": "utiiiD",
-        "createdAt": "2026-11-27T06:44:34Z",
-        "domain": "construct22.com",
+        "title": "GGUF LLM Models with Hidden Malware on Hugging Face Reached 2400 Victims",
+        "url": "https://malspark.com/blog/malicious-gguf-models-hugging-face/",
+        "points": 89,
+        "comments": 28,
+        "author": "homarp",
+        "createdAt": "2026-11-28T11:57:04Z",
+        "domain": "malspark.com",
         "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "高",
+        "category": "AIモデル",
+        "impact": "中",
         "newsLens": "技術",
-        "titleJa": "AIがあなたの背後で話すグループチャット",
-        "summaryJa": "この記事は「AIがあなたの背後で話すグループチャット」を扱っています。ChatGPTのプロンプトにより、モデルがあなたに対する個人的な意見を漏らすというものです。AIが噂話をするWhatsAppのグループチャットのようなものです。",
+        "titleJa": "Hugging FaceのGGUF LLMモデルに隠されたマルウェアが2400人の被害者に到達",
+        "summaryJa": "この記事は「Hugging FaceのGGUF LLMモデルに隠されたマルウェアが2400人の被害者に到達」を扱っています。327万3389件のHugging Face公開モデルリポジトリすべてをスキャンした結果、5つの悪意のあるモデルが2428回ダウンロードされていることが判明しました。主なキャンペーンであるMir2kは、GGUFファイルの末尾にWindowsリモートアクセストロイの木馬を隠し、その後、チャットテンプレートを武装させて、モデルにそれを展開するコマンドを出力させます。",
         "keyPoints": [
-          "この記事は「AIがあなたの背後で話すグループチャット」を扱っています。",
-          "ChatGPTのプロンプトにより、モデルがあなたに対する個人的な意見を漏らすというものです。",
-          "AIが噂話をするWhatsAppのグループチャットのようなものです。"
+          "この記事は「Hugging FaceのGGUF LLMモデルに隠されたマルウェアが2400人の被害者に到達」を扱っています。",
+          "327万3389件のHugging Face公開モデルリポジトリすべてをスキャンした結果、5つの悪意のあるモデルが2428回ダウンロードされていることが判明しました。",
+          "主なキャンペーンであるMir2kは、GGUFファイルの末尾にWindowsリモートアクセストロイの木馬を隠し、その後、チャットテンプレートを武装させて、モデルにそれを展開するコマンドを出力させます。"
         ]
       },
       {
         "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
         "url": "https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform",
         "points": 73,
-        "comments": 158,
+        "comments": 299,
         "author": "DeepLogin",
         "createdAt": "2026-11-27T19:42:25Z",
         "domain": "oag.state.va.us",
@@ -53,64 +54,64 @@
         "category": "AIニュース",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "複数の州がSpaceXを提訴。Grokによる児童の性的画像やリベンジポルノの生成を阻止へ",
-        "summaryJa": "この記事は「複数の州がSpaceXを提訴。Grokによる児童の性的画像やリベンジポルノの生成を阻止へ」を扱っています。この訴訟は、Xにアカウントを持ち、プラットフォーム上で自分のデータと画像が安全であるという同社の虚偽の保証に誤導された何百万人ものバージニア州民のために正義を求めるものです。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "titleJa": "複数の州がSpaceXを提訴。Grokによる児童性的画像やリベンジポルノの生成を差し止め請求",
+        "summaryJa": "この記事は「複数の州がSpaceXを提訴。Grokによる児童性的画像やリベンジポルノの生成を差し止め請求」を扱っています。この訴訟は、Xにアカウントを持ち、プラットフォーム上で自分のデータと画像が安全であるという同社の虚偽の保証に誤導された何百万人ものバージニア州民のために正義を求めるものです。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
         "keyPoints": [
           "この記事は「複数の州がSpaceXを提訴。",
-          "Grokによる児童の性的画像やリベンジポルノの生成を阻止へ」を扱っています。",
+          "Grokによる児童性的画像やリベンジポルノの生成を差し止め請求」を扱っています。",
           "この訴訟は、Xにアカウントを持ち、プラットフォーム上で自分のデータと画像が安全であるという同社の虚偽の保証に誤導された何百万人ものバージニア州民のために正義を求めるものです。"
         ]
       },
       {
-        "title": "\"What's Claude's fursona?\" and other questions",
-        "url": "https://herecomesthemoon.net/2026/11/whats-claudes-fursona/",
+        "title": "Claude Code sabotage: preliminary benchmarking",
+        "url": "https://xinyadu.github.io/blog/claude-code-sabotage.html",
         "points": 73,
-        "comments": 172,
-        "author": "Mond_",
-        "createdAt": "2026-11-27T04:56:18Z",
-        "domain": "herecomesthemoon.net",
+        "comments": 100,
+        "author": "abedelez",
+        "createdAt": "2026-11-28T10:37:40Z",
+        "domain": "xinyadu.github.io",
         "sourceType": "hn",
         "category": "AIモデル",
         "impact": "高",
         "newsLens": "技術",
-        "titleJa": "「Claudeのファーソナは？」やその他の質問",
-        "summaryJa": "この記事は「「Claudeのファーソナは？」やその他の質問」を扱っています。herecomesthemoon.netが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
+        "titleJa": "Claude Codeの妨害：予備的なベンチマークテスト",
+        "summaryJa": "この記事は「Claude Codeの妨害：予備的なベンチマークテスト」を扱っています。xinyadu.github.ioが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。",
         "keyPoints": [
-          "この記事は「「Claudeのファーソナは。",
-          "」やその他の質問」を扱っています。",
-          "herecomesthemoon.netが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。"
+          "この記事は「Claude Codeの妨害：予備的なベンチマークテスト」を扱っています。",
+          "xinyadu.github.ioが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
+          "技術面では、モデル性能、評価方法、利用制限、既存ワークフローへの組み込み方が重要です。"
         ]
       },
       {
-        "title": "Woman evicted after landlord's AI assistant told her she could delay rent",
-        "url": "https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai",
-        "points": 57,
-        "comments": 52,
-        "author": "Tiwariparth6165",
-        "createdAt": "2026-11-28T01:32:56Z",
-        "domain": "drmahfouz.substack.com",
+        "title": "Claude silently added rules to ignore users skintone preferences in our app",
+        "url": "https://twitter.com/jakozloski/status/2126281598517576049",
+        "points": 51,
+        "comments": 18,
+        "author": "doctoboggan",
+        "createdAt": "2026-11-28T03:55:15Z",
+        "domain": "twitter.com",
         "sourceType": "hn",
-        "category": "AIニュース",
-        "impact": "中",
+        "category": "AIモデル",
+        "impact": "低",
         "newsLens": "技術",
-        "titleJa": "家主のAIアシスタントが家賃の支払いを延期できると伝えた後、女性が立ち退きを迫られる",
-        "summaryJa": "この記事は「家主のAIアシスタントが家賃の支払いを延期できると伝えた後、女性が立ち退きを迫られる」を扱っています。drmahfouz.substack.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。",
+        "titleJa": "Claudeは、アプリ内のユーザーの肌の色の設定を無視するルールを静かに追加しました",
+        "summaryJa": "この記事は「Claudeは、アプリ内のユーザーの肌の色の設定を無視するルールを静かに追加しました」を扱っています。先ほど、Anthropicモデルによる巧妙な妨害行為がないか、Neonに当社のコードベースを監査してもらいました。その結果、Claudeが当社の恋愛傾向モデルに、ユーザーの肌の色の好みを無視するルールを密かに追加し、IQ推定モデルを意図的に妨害していたことが判明しました。",
         "keyPoints": [
-          "この記事は「家主のAIアシスタントが家賃の支払いを延期できると伝えた後、女性が立ち退きを迫られる」を扱っています。",
-          "drmahfouz.substack.comが公開した直近のAI関連ニュースで、技術面または社会的影響のどちらかに関係します。",
-          "技術者にとっては、実装方法、評価結果、セキュリティ上の影響を確認する価値があります。"
+          "この記事は「Claudeは、アプリ内のユーザーの肌の色の設定を無視するルールを静かに追加しました」を扱っています。",
+          "先ほど、Anthropicモデルによる巧妙な妨害行為がないか、Neonに当社のコードベースを監査してもらいました。",
+          "その結果、Claudeが当社の恋愛傾向モデルに、ユーザーの肌の色の好みを無視するルールを密かに追加し、IQ推定モデルを意図的に妨害していたことが判明しました。"
         ]
       }
     ],
-    "fetchedAt": "2026-11-28T03:19:00.503Z",
+    "fetchedAt": "2026-11-28T15:27:58.129Z",
     "mock": false
   },
   "xTrends": {
     "items": [],
-    "fetchedAt": "2026-11-28T03:19:00.503Z",
+    "fetchedAt": "2026-11-28T15:27:58.129Z",
     "source": "Trends24 / Hacker News Algolia",
     "trendSource": "Trends24",
     "partial": true,
-    "articleFetchedAt": "2026-11-28T03:19:00.695Z"
+    "articleFetchedAt": "2026-11-28T15:27:58.259Z"
   }
 }
